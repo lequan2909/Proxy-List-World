@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|18.191.41.50|80|United States|Dublin|Amazon.com, Inc.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|3|18.191.41.50|80|United States|Dublin|Amazon.com, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|6|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|7|18.191.41.50|80|United States|Dublin|Amazon.com, Inc.|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
 |9|117.102.76.253|8080|Indonesia|Jakarta|Biznet Networks|
-|10|18.191.41.50|80|United States|Dublin|Amazon.com, Inc.|
-|11|103.178.194.226|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|12|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|14|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|15|23.162.160.1|16099|United States|McAllen|SMARTCOM TELEPHONE, LLC|
-|16|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
-|17|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|18|45.184.224.194|999|Ecuador|Quito|Media Commerce Medcomm S.A|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|72.10.164.178|8501|Canada|Montreal|GloboTech Communications|
+|10|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
+|12|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|103.159.194.97|8080|Indonesia|Temanjang|PT Giga Digital Nusantara|
+|14|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|15|45.184.224.194|999|Ecuador|Quito|Media Commerce Medcomm S.A|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|17|72.10.164.178|7323|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
