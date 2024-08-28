@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|5|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|6|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|6|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|7|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
 |8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|9|144.76.207.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
-|13|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|16|72.10.164.178|12993|Canada|Montreal|GloboTech Communications|
-|17|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|19|72.10.160.173|1331|Canada|Montreal|GloboTech Communications|
-|20|144.76.207.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|12|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|13|103.171.244.44|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|14|103.69.20.56|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|15|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|16|154.73.29.129|8080|Libya|Tripoli|Rawafed|
+|17|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|18|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|20|158.140.172.246|8080|Indonesia|Malang|MYREPUBLIC|
 
 
 
