@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
 |7|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|10|103.224.124.239|8080|Indonesia|Bogor|PT Curug Lintas Indonesia|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|103.178.194.190|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|15.204.161.192|18080|United States|Reston|OVH SAS|
-|19|103.248.9.154|8080|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
-|20|103.87.212.140|8999|Bangladesh|Dhaka|Arifuzzaman Auni|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|10|61.7.191.160|80|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|36.88.102.63|80|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|101.255.151.70|3125|Indonesia|Bekasi|PT Remala Abadi|
+|15|177.234.194.226|999|Ecuador|Baba|Ufinet Panama S.A.|
+|16|103.248.9.154|8080|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
+|17|103.69.20.54|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 
 
 
