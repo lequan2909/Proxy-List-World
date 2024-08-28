@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|112.201.187.211|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
-|5|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|6|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|7|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|8|63.151.59.218|8080|United States|Ocala|CenturyLink|
-|9|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|13|72.10.160.92|19637|Canada|Montreal|GloboTech Communications|
-|14|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|15|67.43.227.229|24339|Canada|Montreal|GloboTech Communications|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|72.10.160.171|27323|Canada|Montreal|GloboTech Communications|
-|18|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|19|209.14.84.51|8888|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|103.155.246.180|8081|Indonesia|Sukoharjo|AMANNA|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|7|203.111.253.40|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
+|8|45.177.176.129|999|Mexico|Ixtlán de los Hervores|Jorge Luis Torres Fernandez|
+|9|45.166.93.29|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|10|180.211.161.110|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|11|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
+|12|116.68.170.115|8019|Indonesia|Jakarta|Asia Pacific Network Information Center|
+|13|179.108.209.63|8080|Brazil|Santa Cruz de Minas|Conecta Ltda.|
+|14|193.30.13.21|999|Ecuador|Manta|Eliana Vanessa Morocho Oña|
+|15|31.220.76.54|3128|Germany|Düsseldorf|Contabo GmbH|
+|16|89.221.225.229|8118|Israel|Petah Tikva|Stark Industries Solutions LTD|
+|17|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|18|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|19|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|20|210.61.207.92|3128|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
 
 
 
