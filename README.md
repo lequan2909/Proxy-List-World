@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|181.49.100.190|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|10|186.3.97.43|999|Ecuador|Esmeraldas|Telconet S.A|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|14|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|6|36.67.7.74|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
+|7|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|8|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|9|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|10|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|12|58.9.2.49|5002|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|191.102.254.53|8085|Argentina|Rosario|IP·RED|
 |15|36.93.214.253|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|17|210.61.207.92|3128|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|43.252.11.194|1212|Indonesia|Jakarta|QUANTUMNET|
-|20|103.88.90.54|8080|Indonesia|Malang|PT Paket Switch Bersama|
+|16|103.69.106.183|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
+|17|181.39.24.157|999|Ecuador|Guayaquil|Telconet S.A|
+|18|67.43.227.227|4991|Canada|Montreal|GloboTech Communications|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
