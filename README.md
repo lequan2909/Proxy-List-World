@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
-|7|103.168.44.105|3127|Indonesia|Jakarta|PT CYB Media Group|
+|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|7|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
 |8|119.2.45.51|8080|Indonesia|Jakarta|PT. Laxo Global Akses|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|11|43.252.11.194|1212|Indonesia|Jakarta|QUANTUMNET|
-|12|80.66.81.46|4000|Russia|Moscow|AZERTA.RU Hosting Solutions|
-|13|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|121.101.132.18|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|118.99.68.49|8080|Indonesia|Jakarta|Biznet Metronet|
+|9|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|10|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|11|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
+|12|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|177.93.51.213|999|Colombia|Villavicencio|TV AZTECA SUCURSAL COLOMBIA|
+|15|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|179.32.62.127|999|Colombia|Medellín|Colombia Telecomunicaciones S.a. ESP|
+|17|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|200.29.109.112|44749|Colombia|Santiago de Cali|Empresas Municipales De Cali E.i.c.e. E.S.P.|
 
 
 
