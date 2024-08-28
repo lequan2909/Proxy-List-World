@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|89.116.33.72|3128|India|Mumbai|Hostinger International Limited|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|5.9.21.152|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|43.249.224.170|83|India|Hyderabad|Pioneer Elabs Ltd.|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|103.163.227.222|3125|Indonesia|Mojokerto|PT.Delta Surya Solusitama|
-|13|204.157.251.225|999|Dominican Republic|El Factor|Sequre Networks SRL|
-|14|103.174.236.63|8081|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|15|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|16|15.204.161.192|18080|United States|Reston|OVH SAS|
-|17|180.211.183.130|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
-|18|111.118.138.151|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|103.40.121.91|8080|Indonesia|Temanggung|PT DINAMIKA MEDIAKOM|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|171.232.45.184|5104|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|14|103.148.192.82|9012|Indonesia|Bandung|PT. Akashia Thuba Jaya|
+|15|188.132.166.121|8080|Turkey|Reyhanlı|Hatnet Bilgi iletisim Teknolojileri ve Ticaret Limited Sirketi|
+|16|212.252.73.23|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|17|15.204.161.192|18080|United States|Reston|OVH SAS|
+|18|103.88.113.202|8080|Vietnam|Hanoi|HTCITC|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
