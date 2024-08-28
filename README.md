@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|4|103.165.155.243|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|78.158.171.90|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|12|84.255.40.228|8998|Malta|Sliema|Melita plc|
-|13|178.115.230.100|8080|Austria|Graz|customers with static IP|
-|14|181.78.108.225|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|15|103.69.106.183|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
-|16|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|17|72.10.164.178|16651|Canada|Montreal|GloboTech Communications|
-|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|19|67.43.227.228|30157|Canada|Montreal|GloboTech Communications|
-|20|5.58.33.187|55507|Ukraine|Ternopil|Columbus|
+|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|202.179.184.69|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|8|181.78.108.225|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|9|103.69.20.54|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|10|5.42.72.98|3128|Sweden|Stockholm|Aeza International LTD|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|72.10.164.178|23723|Canada|Montreal|GloboTech Communications|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|67.43.227.227|5149|Canada|Montreal|GloboTech Communications|
+|16|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|17|72.10.164.178|23723|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|23723|Canada|Montreal|GloboTech Communications|
+|19|143.64.224.32|3128|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|20|43.252.11.194|1212|Indonesia|Jakarta|QUANTUMNET|
 
 
 
