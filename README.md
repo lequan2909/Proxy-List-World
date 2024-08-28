@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
 |3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.172.42.89|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|11|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|12|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|20.169.242.13|3128|United States|Boydton|Microsoft Corporation|
-|15|121.101.132.18|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|19|103.88.113.202|8080|Vietnam|Hanoi|HTCITC|
-|20|72.10.160.173|5135|Canada|Montreal|GloboTech Communications|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|15|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|16|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|17|122.3.139.85|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|20|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
 
 
 
