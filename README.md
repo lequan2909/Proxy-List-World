@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|7|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|186.237.131.122|8080|Brazil|São José do Rio Preto|IFTNET Telecomunicacoes Ltda|
-|9|144.76.207.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|11|37.26.86.206|47464|Albania|Tirana|ATU|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|103.69.106.183|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
-|14|125.20.72.28|3129|India|Noida|BHARTI|
-|15|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|12.15.68.21|8080|United States|Alex|AT&T Services, Inc.|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|72.10.164.178|30813|Canada|Montreal|GloboTech Communications|
+|9|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|144.76.207.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|14|222.127.135.164|8082|Philippines|Taguig|Globe Telecom|
+|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
+|18|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
 |19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|20|72.10.164.178|30813|Canada|Montreal|GloboTech Communications|
+|20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
 
