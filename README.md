@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|138.201.139.121|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|3|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|6|103.155.198.50|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
 |7|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|117.40.32.133|8080|China|Taohua|Chinanet|
-|19|200.39.120.43|999|Mexico|Asientos|COORDINADORA DE CARRIER'S, S.A. DE C.V.|
-|20|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|8|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|18|103.99.136.6|8090|Indonesia|Sirnagalih|PT Jelajah Kreasi Informatika|
+|19|103.169.238.211|3127|Indonesia|Lampung|PT INDONESIA TRANS NETWORK|
+|20|43.243.174.26|82|India|Pune|Shah Solutions|
 
 
 
