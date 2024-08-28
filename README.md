@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|3|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|4|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|8|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|9|103.164.116.172|8080|Indonesia|Jakarta|SOLUSINET|
-|10|201.168.199.7|999|Mexico|Juventino Rosas|COORDINADORA DE CARRIER'S, S.A. DE C.V.|
-|11|176.36.188.198|8080|Ukraine|Kyiv|Lanet Network|
-|12|186.97.192.60|999|Colombia|Medellín|Colombia Móvil|
-|13|124.217.65.177|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
-|14|103.160.15.38|3125|Indonesia|Tanjung Pinang|PT INFORMASI NUSANTARA TEKNOLOGI|
-|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|74.62.179.122|8080|United States|Chatsworth|Charter Communications Inc|
-|19|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|5|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|187.19.200.217|8090|Brazil|Petrópolis|Brisanet Servicos De Telecomunicacoes S.A|
+|9|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|10|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
+|11|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|12|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|13|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|16|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|203.29.27.200|7777|Indonesia|Jember|PT Indotrans Data|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
