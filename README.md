@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|177.93.33.122|999|Colombia|La Sierra|TV AZTECA SUCURSAL COLOMBIA|
-|11|103.25.210.102|3319|Indonesia|Purwokerto|TRANSDATA|
-|12|177.234.194.226|999|Ecuador|Baba|Ufinet Panama S.A.|
-|13|110.78.146.74|3127|Thailand|Ao Nang|CAT-BB|
-|14|36.95.3.243|8080|Indonesia|Padang|PT. Telekomunikasi Indonesia|
-|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|19|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|5|37.29.120.25|80|Russia|Moscow|PJSC MegaFon|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|24.204.29.115|8080|United States|Longview|Network IP|
+|8|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
+|9|203.29.27.200|7777|Indonesia|Jember|PT Indotrans Data|
+|10|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|15|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|72.10.164.178|2761|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|2761|Canada|Montreal|GloboTech Communications|
+|20|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
