@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|439|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|439|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|439|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |7|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|8|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 |9|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|112.78.166.199|8080|Indonesia|Jakarta|Biznet Networks|
 |12|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|112.78.166.199|8080|Indonesia|Jakarta|Biznet Networks|
-|16|47.243.55.21|8118|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|203.189.153.19|8083|Cambodia|Phnom Penh|ONLINE|
+|15|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|45.77.147.46|3128|United States|Piscataway|The Constant Company|
 |18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|103.189.96.38|8080|Indonesia|Sragen|Lintas Data Prima, PT|
+|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|20|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 
 
 
