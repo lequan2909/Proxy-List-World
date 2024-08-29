@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|120.28.213.45|8080|Philippines|Cagayan de Oro|Globe Telecom|
-|7|18.130.82.65|3128|United Kingdom|London|Amazon Technologies Inc.|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|18.130.82.65|3128|United Kingdom|London|Amazon Technologies Inc.|
+|6|180.180.137.94|8080|Thailand|Bangkok|TOT Public Company Limited|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |8|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|9|110.78.159.16|8080|Thailand|Bangkok|CAT-BB|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|16|103.172.42.177|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|17|117.40.32.133|8080|China|Taohua|Chinanet|
-|18|170.81.171.189|8089|Brazil|Francisco Morato|Wireless Comm Services LTDA|
-|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|125.26.130.221|8080|Thailand|Bang Pla Ma|TOT Public Company Limited|
+|13|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|14|45.188.156.121|8088|Brazil|Teresina|Marcelo & Renato Digital Net LTDA|
+|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|16|202.183.209.77|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|17|15.204.161.192|18080|United States|Reston|OVH SAS|
+|18|170.82.13.121|3600|Brazil|Porto Seguro|Netcenter Telecom|
+|19|117.40.32.133|8080|China|Taohua|Chinanet|
 |20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
