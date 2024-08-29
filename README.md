@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.204.161.192|18080|United States|Reston|OVH SAS|
-|3|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|7|159.69.203.183|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|8|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|9|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|43.252.11.194|1212|Indonesia|Jakarta|QUANTUMNET|
-|11|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|12|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|13|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|181.37.240.89|999|Dominican Republic|Santiago de los Caballeros|Altice Dominicana S.A.|
-|16|152.26.229.47|9443|United States|Concord|MCNC|
-|17|165.16.6.153|1981|Libya|Benghazi|Aljeel Aljadeed Technology|
-|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|182.253.109.14|8080|Indonesia|Semarang|Biznet Metronet|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
+|13|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|14|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|152.26.229.47|9443|United States|Concord|MCNC|
+|16|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|17|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
 |19|152.26.231.42|9443|United States|Concord|MCNC|
 |20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
