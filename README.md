@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|152.26.229.42|9443|United States|Concord|MCNC|
-|10|152.26.229.83|9443|United States|Concord|MCNC|
-|11|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|12|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
-|13|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
-|14|67.43.228.253|2955|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|19045|Canada|Montreal|GloboTech Communications|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|152.26.229.86|9443|United States|Concord|MCNC|
-|18|67.43.227.227|1165|Canada|Montreal|GloboTech Communications|
-|19|103.41.35.162|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|20|67.43.227.227|1165|Canada|Montreal|GloboTech Communications|
+|3|18.133.242.77|3128|United Kingdom|London|Amazon Technologies Inc.|
+|4|170.81.171.189|8089|Brazil|Francisco Morato|Wireless Comm Services LTDA|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|152.26.229.42|9443|United States|Concord|MCNC|
+|7|152.26.231.86|9443|United States|Concord|MCNC|
+|8|152.26.229.83|9443|United States|Concord|MCNC|
+|9|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|10|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|152.26.229.86|9443|United States|Concord|MCNC|
+|12|67.43.227.227|21307|Canada|Montreal|GloboTech Communications|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|181.209.96.156|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|15|67.43.227.227|21307|Canada|Montreal|GloboTech Communications|
+|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|17|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|18|67.43.227.227|21307|Canada|Montreal|GloboTech Communications|
+|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
