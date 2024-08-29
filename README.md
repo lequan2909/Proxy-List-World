@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|203.29.27.200|7777|Indonesia|Jember|PT Indotrans Data|
-|9|110.78.146.74|3127|Thailand|Ao Nang|CAT-BB|
-|10|36.93.214.253|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|11|202.51.121.59|8080|Indonesia|Kebon Sirih|PT iForte Global Internet|
-|12|152.26.231.42|9443|United States|Concord|MCNC|
-|13|72.10.164.178|12697|Canada|Montreal|GloboTech Communications|
-|14|152.26.231.93|9443|United States|Concord|MCNC|
-|15|72.10.164.178|12697|Canada|Montreal|GloboTech Communications|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|103.69.20.81|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|10|152.166.69.34|8080|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|152.26.231.42|9443|United States|Concord|MCNC|
+|14|72.10.164.178|12697|Canada|Montreal|GloboTech Communications|
+|15|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
 |16|72.10.164.178|12697|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|12697|Canada|Montreal|GloboTech Communications|
-|18|63.151.59.218|8080|United States|Ocala|CenturyLink|
-|19|67.43.236.20|2859|Canada|Montreal|GloboTech Communications|
-|20|103.69.20.54|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|17|15.204.161.192|18080|United States|Reston|OVH SAS|
+|18|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|20|72.10.164.178|12697|Canada|Montreal|GloboTech Communications|
 
 
 
