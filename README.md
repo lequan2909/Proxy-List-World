@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5582** proxies at the latest update. Usable proxies are below.
+> Scraper found **5577** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|195|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|196|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|811|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|135|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|129|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3483|✅|
 
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|188.240.122.186|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
-|8|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|9|125.26.4.221|8080|Thailand|Bangkok|TOT Public Company Limited|
-|10|177.107.16.252|3128|Brazil|Teresina|Ora Servicos de Telecomunicacoes Ltda|
-|11|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|12|77.77.210.90|21056|Bosnia and Herzegovina|Sarajevo|TELEMACH BH|
-|13|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
-|14|152.26.231.93|9443|United States|Concord|MCNC|
-|15|124.217.65.177|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
-|16|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|6|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|7|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|103.88.239.197|84|India|Hyderabad|Mana Communications|
+|10|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|11|181.209.111.82|999|Argentina|La Cocha|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|16|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|17|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|18|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 |19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|20|67.43.236.20|13309|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
