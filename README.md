@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|438|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|438|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|438|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|5|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|6|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|172.96.171.125|8095|Puerto Rico|Bayamón|Fuse Telecom LLC|
-|10|181.192.27.152|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
-|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|209.14.84.51|8888|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
-|16|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|17|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|144.76.207.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|101.255.169.249|8080|Indonesia|Bekasi|PT Remala Abadi|
-|20|185.242.84.22|3128|Greece|Athens|Stark Industries Solutions LTD|
+|5|61.7.191.234|80|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|124.158.153.218|8180|Indonesia|Pulo Gebang|PT iForte Global Internet|
+|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|9|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|11|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|181.192.27.152|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
+|18|188.132.222.52|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
