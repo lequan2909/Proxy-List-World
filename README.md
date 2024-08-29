@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|3.8.2.5|3128|United Kingdom|London|Amazon Technologies Inc.|
-|3|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|110.77.241.215|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|181.196.254.201|999|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|9|103.199.117.115|8080|Indonesia|Semarang|PT Hepra Teknologi Indonesia|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|203.29.27.200|7777|Indonesia|Jember|PT Indotrans Data|
-|15|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|152.26.229.34|9443|United States|Concord|MCNC|
-|17|152.26.231.83|9443|United States|Concord|MCNC|
-|18|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|19|152.26.229.46|9443|United States|Concord|MCNC|
-|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|3|3.8.2.5|3128|United Kingdom|London|Amazon Technologies Inc.|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|110.77.241.215|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
+|8|115.127.91.225|58080|Bangladesh|Dhaka|BRACNet Limited|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|104.128.228.69|8118|United States|Los Angeles|HostUS|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|186.249.227.26|3128|Brazil|Belo Horizonte|Century Telecom Ltda|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|152.26.231.83|9443|United States|Concord|MCNC|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
