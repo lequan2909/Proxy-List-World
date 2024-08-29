@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|6|106.227.87.11|3128|China|Taohua|China Telecom|
-|7|67.43.228.252|4029|Canada|Montreal|GloboTech Communications|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|10|152.26.229.86|9443|United States|Concord|MCNC|
-|11|67.43.236.20|31531|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|3167|Canada|Montreal|GloboTech Communications|
-|13|152.26.229.83|9443|United States|Concord|MCNC|
-|14|117.68.38.163|39593|China|Hefei|China Telecom|
-|15|72.10.164.178|3167|Canada|Montreal|GloboTech Communications|
-|16|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|7|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|8|106.227.87.11|3128|China|Taohua|China Telecom|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|190.61.45.76|999|Colombia|Pasto|Ufinet Panama S.A.|
+|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
 |17|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|124.217.65.177|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
-|19|152.26.229.46|9443|United States|Concord|MCNC|
-|20|67.43.228.250|31317|Canada|Montreal|GloboTech Communications|
+|18|202.183.209.77|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|19|72.10.164.178|1383|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
