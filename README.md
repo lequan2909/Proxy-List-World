@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|139.59.224.158|8888|Singapore|Singapore|DIGITALOCEAN|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|4|160.248.190.254|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
 |8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|190.94.213.81|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
 |14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|16|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|15|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|18|15.204.161.192|18080|United States|Reston|OVH SAS|
+|19|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|15.235.171.245|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
 
 
 
