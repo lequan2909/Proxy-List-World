@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.190.241|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|3.37.219.71|3128|South Korea|Seoul|Amazon.com, Inc.|
-|7|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|45.116.230.79|8080|India|Kochi|DWANIRINN|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|14|106.227.87.11|3128|China|Taohua|China Telecom|
-|15|190.61.45.76|999|Colombia|Pasto|Ufinet Panama S.A.|
-|16|202.65.158.237|83|India|Hyderabad|Pioneer Elabs Ltd.|
-|17|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|20|72.10.164.178|22645|Canada|Montreal|GloboTech Communications|
+|4|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|3.37.219.71|3128|South Korea|Seoul|Amazon.com, Inc.|
+|6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|160.248.190.241|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|106.227.87.11|3128|China|Taohua|China Telecom|
+|14|117.68.38.145|29471|China|Hefei|China Telecom|
+|15|202.65.158.237|83|India|Hyderabad|Pioneer Elabs Ltd.|
+|16|103.69.106.183|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
+|17|159.65.166.126|8118|United States|Clifton|DigitalOcean, LLC|
+|18|188.132.150.87|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|19|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
