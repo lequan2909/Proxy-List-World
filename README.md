@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|4|180.180.137.94|8080|Thailand|Bangkok|TOT Public Company Limited|
-|5|18.130.82.65|3128|United Kingdom|London|Amazon Technologies Inc.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|8|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|3.8.163.113|3128|United Kingdom|London|Amazon Technologies Inc.|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|121.101.132.18|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|45.189.252.218|999|Mexico|Lerdo de Tejada|Tracered SA De CV|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|5|125.26.130.221|8080|Thailand|Bang Pla Ma|TOT Public Company Limited|
+|6|18.130.82.65|3128|United Kingdom|London|Amazon Technologies Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|10|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|120.28.213.45|8080|Philippines|Cagayan de Oro|Globe Telecom|
+|13|110.78.159.16|8080|Thailand|Bangkok|CAT-BB|
+|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|15|213.160.150.237|8080|Ukraine|Kyiv|"SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY|
+|16|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|15.204.161.192|18080|United States|Reston|OVH SAS|
 |18|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|152.26.229.86|9443|United States|Concord|MCNC|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
