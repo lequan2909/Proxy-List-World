@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|103.17.182.130|8585|Indonesia|Jakarta|PT Tinelo Digital Network|
-|12|114.236.93.203|22487|China|Guangzhou|Chinanet|
-|13|152.26.229.34|9443|United States|Concord|MCNC|
-|14|188.132.150.87|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|15|67.43.236.20|29207|Canada|Montreal|GloboTech Communications|
-|16|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|17|72.10.160.94|5739|Canada|Montreal|GloboTech Communications|
-|18|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
-|19|72.10.164.178|19643|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|17039|Canada|Montreal|GloboTech Communications|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|103.232.20.158|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|160.248.191.6|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|10|152.26.229.34|9443|United States|Concord|MCNC|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|72.10.160.94|7979|Canada|Montreal|GloboTech Communications|
+|13|160.248.190.241|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|72.10.164.178|32177|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.228|1233|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|21849|Canada|Montreal|GloboTech Communications|
+|17|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
+|18|72.10.164.178|32177|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.228|1233|Canada|Montreal|GloboTech Communications|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
