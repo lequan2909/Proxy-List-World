@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|45.70.36.80|54443|Brazil|Inhambupe|Power Networks Telecomunicações LTDA|
-|6|168.227.40.71|9192|Brazil|Cabo de Santo Agostinho|Digitec Eletronica Ltda - ME|
-|7|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|3.8.208.72|3128|United Kingdom|London|Amazon Technologies Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|187.95.124.108|3128|Brazil|Curitiba|Ligga Telecomunicações S.A|
 |8|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|10|187.1.16.36|92|Brazil|Birigui|FIT Telecom Eireli|
-|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|12|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|15|177.124.115.235|3131|Brazil|Mandaguaçu|MMER Provedor de Internet Ltda - ME|
-|16|103.165.155.171|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|89.135.59.65|8090|Hungary|Százhalombatta|Vodafone Hungary Ltd.|
-|19|124.217.65.177|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
-|20|110.164.128.124|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|9|168.227.40.71|9192|Brazil|Cabo de Santo Agostinho|Digitec Eletronica Ltda - ME|
+|10|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|12|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|177.53.155.32|999|Peru|Lima|Moreno Yanoc Nemias Bernardo|
+|14|122.3.139.85|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|202.183.209.77|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|17|61.129.2.212|8080|China|Beijing|CHINANET|
+|18|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
+|19|186.96.95.205|999|Costa Rica|San José|Telefonica de Costa Rica TC, SA|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
