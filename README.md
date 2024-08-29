@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|109.111.152.43|53281|Russia|Kaliningrad|TIS-DIALOG|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|103.35.109.205|58080|Bangladesh|Dhaka|Ranks ITT|
-|13|119.92.255.3|3128|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|14|106.227.87.11|3128|China|Taohua|China Telecom|
-|15|101.51.139.219|8180|Thailand|Lamphun|TOT Public Company Limited|
-|16|103.80.237.211|3888|Indonesia|Bogor|PT MITRA VISIONER PRATAMA|
-|17|58.136.238.61|8080|Thailand|Bangkok|AIS-Fibre|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
-|20|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|109.111.152.43|53281|Russia|Kaliningrad|TIS-DIALOG|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
+|8|124.248.180.163|8080|Cambodia|Phnom Penh|COGETEL Co., Ltd|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|106.227.87.11|3128|China|Taohua|China Telecom|
+|12|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|13|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|180.211.183.130|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|15|190.90.39.70|999|Colombia|Arauca|InterNexa Global Network|
+|16|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|152.26.229.46|9443|United States|Concord|MCNC|
+|18|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|117.40.32.133|8080|China|Taohua|Chinanet|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
