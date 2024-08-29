@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|9|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|10|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|61.129.2.212|8080|China|Beijing|CHINANET|
-|14|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|15|109.111.152.43|53281|Russia|Kaliningrad|TIS-DIALOG|
-|16|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|103.5.107.6|8080|Indonesia|Jakarta|Maxindo|
-|19|216.122.181.249|8080|Dominican Republic|Santiago de los Caballeros|Colocation America Corporation|
-|20|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|38.52.208.6|999|Guatemala|Jalapa|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|202.191.123.195|8090|Bangladesh|Dhaka|BIJOY|
+|10|119.92.255.3|3128|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|11|202.62.75.17|83|India|Hyderabad|CityOnline Services|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
+|16|87.97.60.4|18080|Hungary|Érd|INVITEL Zrt|
+|17|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|18|24.116.218.204|8080|United States|Pascagoula|CABLE ONE, INC.|
+|19|61.129.2.212|8080|China|Beijing|CHINANET|
+|20|160.19.169.208|8080|Brazil|Barão de Cocais|BDC TELECOM|
 
 
 
