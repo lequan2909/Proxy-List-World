@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|139.59.224.126|8888|Singapore|Singapore|DIGITALOCEAN|
-|6|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|7|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|167.86.106.97|3128|Germany|Nuremberg|Contabo GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|167.86.106.97|3128|Germany|Nuremberg|Contabo GmbH|
+|9|186.226.168.23|3128|Brazil|Eunápolis|Infortel Comunicacoes Ltda|
 |10|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
-|12|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|13|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|152.26.229.86|9443|United States|Concord|MCNC|
-|15|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|72.10.160.170|15845|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.254|8605|Canada|Montreal|GloboTech Communications|
-|18|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
-|19|67.43.236.20|21925|Canada|Montreal|GloboTech Communications|
-|20|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|59.98.4.71|8080|India|Jamshedpur|BSNL Internet|
+|13|102.38.13.9|19000|Libya|Tripoli|GKL|
+|14|36.67.199.171|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|15|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|16|104.129.194.99|8800|United States|Reston|ZSCALER, INC.|
+|17|152.26.229.86|9443|United States|Concord|MCNC|
+|18|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
