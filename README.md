@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|101.128.107.210|7777|Indonesia|Jakarta|CBN|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|190.181.24.35|999|Bolivia|La Paz|AXS Bolivia S. A.|
-|8|103.165.155.69|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|9|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|10|103.142.21.197|8080|Indonesia|Surabaya|CV. NATANETWORK SOLUTION|
-|11|103.17.182.130|8585|Indonesia|Jakarta|PT Tinelo Digital Network|
-|12|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|103.13.204.19|8085|Indonesia|Kaborongan|PT JARINGANKU SARANA NUSANTARA|
+|6|103.154.117.186|8080|Indonesia|Jakarta|MORATELINDONAP|
+|7|38.52.222.254|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|8|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|188.132.150.87|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|11|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
 |13|152.26.231.86|9443|United States|Concord|MCNC|
-|14|111.118.138.151|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|15|152.26.229.93|9443|United States|Concord|MCNC|
+|14|152.26.229.93|9443|United States|Concord|MCNC|
+|15|67.43.227.226|32857|Canada|Montreal|GloboTech Communications|
 |16|152.26.229.83|9443|United States|Concord|MCNC|
-|17|190.110.35.108|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|18|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|19|67.43.228.254|3333|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|16205|Canada|Montreal|GloboTech Communications|
+|17|101.128.107.210|7777|Indonesia|Jakarta|CBN|
+|18|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|72.10.164.178|27189|Canada|Montreal|GloboTech Communications|
 
 
 
