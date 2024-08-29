@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|112.78.166.199|8080|Indonesia|Jakarta|Biznet Networks|
-|10|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|15|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|18|103.180.118.170|8080|Indonesia|Gresik|PT Persada Data Multimedia|
-|19|157.100.69.146|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|20|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|8|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|10|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|11|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|12|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|13|112.78.166.199|8080|Indonesia|Jakarta|Biznet Networks|
+|14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|17|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
 
 
 
