@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|200.170.253.122|8087|Brazil|Cachoeirinha|Telium Telecomunicações Ltda|
-|9|4.155.2.13|9400|United States|Quincy|Microsoft Corporation|
-|10|152.26.229.46|9443|United States|Concord|MCNC|
-|11|152.26.231.86|9443|United States|Concord|MCNC|
-|12|72.10.164.178|14191|Canada|Montreal|GloboTech Communications|
-|13|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|14|67.43.227.227|29381|Canada|Montreal|GloboTech Communications|
-|15|154.73.29.129|8080|Libya|Tripoli|Rawafed|
-|16|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|152.26.229.86|9443|United States|Concord|MCNC|
-|18|72.10.164.178|14191|Canada|Montreal|GloboTech Communications|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|72.10.160.172|32131|Canada|Montreal|GloboTech Communications|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|18.130.234.53|3128|United Kingdom|London|Amazon Technologies Inc.|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|103.165.156.148|8090|Indonesia|Jember|MEGADATA-ISP|
+|10|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|11|202.183.209.77|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
+|14|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|15|152.26.229.46|9443|United States|Concord|MCNC|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|72.10.164.178|21729|Canada|Montreal|GloboTech Communications|
+|18|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|67.43.227.226|1377|Canada|Montreal|GloboTech Communications|
 
 
 
