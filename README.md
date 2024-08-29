@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|115.76.115.200|1006|Vietnam|Ho Chi Minh City|VIETELGPRS|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|190.186.18.161|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|14|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|91.229.28.105|3128|Slovakia|Nitra|KOMNET, s.r.o.|
-|17|45.229.31.42|11211|Argentina|Mar del Plata|Fibras Opticas De MAR Del Plata S.A.|
-|18|170.81.131.70|3128|Brazil|São José do Rio Preto|IFTNET Telecomunicacoes Ltda|
-|19|103.169.148.2|1111|Indonesia|Pekanbaru|PT Kangen Network Solusindo|
-|20|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|47.88.17.170|8118|United States|Minkler|Alibaba.com LLC|
+|11|61.129.2.212|8080|China|Beijing|CHINANET|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|87.97.60.4|18080|Hungary|Érd|INVITEL Zrt|
+|14|173.208.141.178|8002|United States|Kansas City|WholeSale Internet|
+|15|203.128.75.195|8080|Indonesia|Jakarta|Neuviz|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|200.29.109.112|44749|Colombia|Santiago de Cali|Empresas Municipales De Cali E.i.c.e. E.S.P.|
+|19|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
+|20|109.201.14.82|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
 
 
 
