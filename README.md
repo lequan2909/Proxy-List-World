@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|109.111.152.43|53281|Russia|Kaliningrad|TIS-DIALOG|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
-|10|190.90.39.70|999|Colombia|Arauca|InterNexa Global Network|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|106.227.87.11|3128|China|Taohua|China Telecom|
-|13|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
-|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|15|119.92.255.3|3128|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|16|203.192.217.6|8080|India|Nagpur|Entire In2Cable|
-|17|202.51.121.59|8080|Indonesia|Kebon Sirih|PT iForte Global Internet|
-|18|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|19|202.47.88.38|3127|Indonesia|Jombang|PT. Java Digital Nusantara|
-|20|152.26.229.93|9443|United States|Concord|MCNC|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|109.111.152.43|53281|Russia|Kaliningrad|TIS-DIALOG|
+|7|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|103.194.172.186|8080|Indonesia|Bandung|MYNET|
+|13|106.227.87.11|3128|China|Taohua|China Telecom|
+|14|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|190.61.45.76|999|Colombia|Pasto|Ufinet Panama S.A.|
+|18|152.26.229.93|9443|United States|Concord|MCNC|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
