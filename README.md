@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|167.86.106.97|3128|Germany|Nuremberg|Contabo GmbH|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|85.175.5.50|3128|Russia|Krasnodar|Southen Telecommunication Maintainer|
-|9|61.247.185.50|8080|Bangladesh|Dhaka|OptiMax Communication Ltd|
-|10|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|11|117.40.32.133|8080|China|Taohua|Chinanet|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|122.3.139.85|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|17|152.26.231.94|9443|United States|Concord|MCNC|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|67.43.228.253|27815|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|11575|Canada|Montreal|GloboTech Communications|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.154.117.186|8080|Indonesia|Jakarta|MORATELINDONAP|
+|5|167.86.106.97|3128|Germany|Nuremberg|Contabo GmbH|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|8|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|152.26.231.94|9443|United States|Concord|MCNC|
+|11|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|152.26.231.86|9443|United States|Concord|MCNC|
+|13|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|14|94.68.228.230|3130|Greece|Thessaloniki|OTEnet|
+|15|72.10.164.178|22489|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|22489|Canada|Montreal|GloboTech Communications|
+|17|27.121.82.102|8080|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
+|18|72.10.164.178|22489|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|22489|Canada|Montreal|GloboTech Communications|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
