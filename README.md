@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5725** proxies at the latest update. Usable proxies are below.
+> Scraper found **5862** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|209|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|863|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1000|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|143|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3552|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|160.248.190.241|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|160.248.190.241|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|9|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|161.49.176.173|1337|Philippines|Pasig|Converge ICT Solution Inc|
-|14|103.17.182.130|8585|Indonesia|Jakarta|PT Tinelo Digital Network|
-|15|181.115.66.232|999|Honduras|San Pedro Sula|TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|16|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|17|38.64.60.254|999|Mexico|Chihuahua City|Nidix Networks S.a. De C.V.|
-|18|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|19|159.65.166.126|8118|United States|Clifton|DigitalOcean, LLC|
-|20|103.5.232.148|8080|Bangladesh|Chittagong|CTGONLINENET|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|161.49.176.173|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|103.17.182.130|8585|Indonesia|Jakarta|PT Tinelo Digital Network|
+|16|194.44.36.114|6868|Ukraine|Brody|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
+|17|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|18|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|19|24.172.82.94|53281|United States|Concord|Spectrum|
+|20|72.10.164.178|23393|Canada|Montreal|GloboTech Communications|
 
 
 
