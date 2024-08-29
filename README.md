@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|450|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|450|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|450|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|131.255.136.193|32650|Peru|San Isidro|Level 3 Communications, Inc.|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|173.208.141.178|8002|United States|Kansas City|WholeSale Internet|
-|16|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|103.244.107.65|8080|Indonesia|Karawang|PT Sahabat Fiber Indonesia|
-|19|61.129.2.212|8080|China|Beijing|CHINANET|
-|20|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|65.49.38.202|3128|United States|Middletown|Hurricane Electric LLC|
+|5|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|65.49.38.202|3128|United States|Middletown|Hurricane Electric LLC|
+|9|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
+|10|103.145.68.77|8080|Indonesia|Surabaya|ALFANET|
+|11|131.255.136.193|32650|Peru|San Isidro|Level 3 Communications, Inc.|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|61.129.2.212|8080|China|Beijing|CHINANET|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|45.229.31.42|11211|Argentina|Mar del Plata|Fibras Opticas De MAR Del Plata S.A.|
+|16|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|203.29.27.200|7777|Indonesia|Jember|PT Indotrans Data|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
