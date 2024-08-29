@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
 |5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|152.26.229.46|9443|United States|Concord|MCNC|
-|10|152.26.231.86|9443|United States|Concord|MCNC|
+|8|77.52.187.199|10000|Ukraine|Rokytne|PrJSC "VF UKRAINE"|
+|9|152.26.231.86|9443|United States|Concord|MCNC|
+|10|152.26.229.83|9443|United States|Concord|MCNC|
 |11|152.26.229.93|9443|United States|Concord|MCNC|
-|12|152.26.229.83|9443|United States|Concord|MCNC|
+|12|152.26.229.46|9443|United States|Concord|MCNC|
 |13|15.204.161.192|18080|United States|Reston|OVH SAS|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|72.10.164.178|11097|Canada|Montreal|GloboTech Communications|
-|16|152.26.231.83|9443|United States|Concord|MCNC|
-|17|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|20|72.10.160.171|30903|Canada|Montreal|GloboTech Communications|
+|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|152.26.231.83|9443|United States|Concord|MCNC|
+|18|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
+|19|121.101.132.18|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
