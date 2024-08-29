@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|408|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|408|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|408|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|101.109.14.108|8080|Thailand|Pattaya|TOT Public Company Limited|
-|6|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|124.217.65.177|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|16|69.30.206.130|8008|United States|Kansas City|WholeSale Internet|
-|17|45.230.51.4|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
-|18|188.166.222.236|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|188.132.222.35|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|202.51.121.59|8080|Indonesia|Kebon Sirih|PT iForte Global Internet|
+|3|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|7|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|8|210.79.146.82|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|69.30.206.130|8008|United States|Kansas City|WholeSale Internet|
+|12|103.48.68.6|82|India|Hyderabad|Country Online Services PVT LTD|
+|13|114.130.153.58|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|101.109.14.108|8080|Thailand|Pattaya|TOT Public Company Limited|
+|16|202.142.158.114|8080|Pakistan|Lahore|Gerrys Information Technology (PVT) Ltd|
+|17|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|20|131.100.148.76|8080|Brazil|Brasília|ALLREDE TELECOM (LINKWAP PROVEDOR)|
 
 
 
