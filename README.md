@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5506** proxies at the latest update. Usable proxies are below.
+> Scraper found **5719** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
 
 ## Sources
 
@@ -29,10 +29,10 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|194|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|912|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|907|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|177|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3265|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3483|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|5|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|203.190.44.252|8090|Indonesia|Jogonalan|PT Jaring Lintas Utara|
-|8|122.54.135.155|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|14|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|6|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|9|103.169.238.25|8080|Indonesia|Lampung|PT INDONESIA TRANS NETWORK|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 |15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|17|103.20.90.118|8581|Indonesia|Surabaya|Wowrack Indonesia|
-|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|19|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|20|103.171.182.229|8080|Indonesia|Bogor|PT Hayat Teknologi Informatika|
+|16|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|19|103.203.174.81|84|India|Hyderabad|Softgaurd Powertronics|
+|20|185.200.37.100|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
