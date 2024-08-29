@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|160.248.190.241|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |4|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|3.37.219.71|3128|South Korea|Seoul|Amazon.com, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|9|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|159.65.166.126|8118|United States|Clifton|DigitalOcean, LLC|
-|12|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|13|223.25.110.221|8090|Indonesia|Surabaya|SinergiNet|
-|14|27.121.82.102|8080|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
-|15|160.248.190.241|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|152.26.231.94|9443|United States|Concord|MCNC|
-|18|182.253.68.150|80|Indonesia|Jakarta Pusat|BIZNET|
-|19|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|106.227.87.11|3128|China|Taohua|China Telecom|
+|11|202.61.120.182|8080|India|Chennai|Arjun Telecom Pvt. Ltd.|
+|12|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|13|159.69.206.143|8118|Germany|Nuremberg|Hetzner Online GmbH|
+|14|217.251.109.178|8080|Germany|Traunstein|Deutsche Telekom AG|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|38.156.75.45|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|160.248.190.241|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|27.121.82.102|8080|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
+|20|152.26.231.94|9443|United States|Concord|MCNC|
 
 
 
