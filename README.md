@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|158.140.169.9|8081|Indonesia|Surabaya|MYREPUBLIC|
-|7|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|7|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|177.124.115.235|3131|Brazil|Mandaguaçu|MMER Provedor de Internet Ltda - ME|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
 |11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|177.158.252.132|8081|Brazil|Vitória|TELEFÔNICA BRASIL S.A|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|103.159.194.131|8080|Indonesia|Welahan|PT Giga Digital Nusantara|
-|18|103.153.246.54|8181|Indonesia|Purwakarta|PRIMAHOME|
-|19|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|20|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|12|158.140.169.9|8081|Indonesia|Surabaya|MYREPUBLIC|
+|13|103.247.22.79|8080|Indonesia|Bekasi|PT wifian Solution|
+|14|103.165.155.171|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|15|190.97.236.40|2023|Venezuela|Maporal|Viginet C.A|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|18|110.34.1.178|7777|Nepal|Kathmandu|Subisu Cablenet|
+|19|103.142.69.176|83|Bangladesh|Dhaka|MIR INFO SYSTEMS LTD.|
+|20|110.164.128.124|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
 
 
 
