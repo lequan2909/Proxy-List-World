@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.224.158|8888|Singapore|Singapore|DIGITALOCEAN|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|139.59.224.158|8888|Singapore|Singapore|DIGITALOCEAN|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |5|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|103.162.16.168|8080|Indonesia|Pati|PT Mega Data Perkasa|
-|11|103.69.20.100|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|181.39.24.156|999|Ecuador|Guayaquil|Telconet S.A|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
 |13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
-|16|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|14|168.194.248.18|8080|Brazil|Goiânia|CANAA TELECOMUNICAÇÕES LTDA - ME|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
 |17|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|212.92.204.54|80|Croatia|Zagreb|A1 Hrvatska d.o.o|
-|19|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|18|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
+|19|182.253.68.150|80|Indonesia|Jakarta Pusat|BIZNET|
+|20|15.204.161.192|18080|United States|Reston|OVH SAS|
 
 
 
