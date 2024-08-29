@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|156.250.119.172|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|14|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|15|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|16|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|17|160.248.191.6|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|72.10.164.178|17175|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|17175|Canada|Montreal|GloboTech Communications|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|9|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|207.244.254.27|7001|United States|St Louis|Nubes, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
+|17|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
+|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|19|45.228.234.192|999|Guatemala|Guatemala City|Infinitum S.A.|
+|20|103.48.68.75|83|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
