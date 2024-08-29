@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
 |5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
 |7|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
 |8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|152.26.229.34|9443|United States|Concord|MCNC|
+|12|152.26.229.34|9443|United States|Concord|MCNC|
+|13|119.18.146.114|5020|Bangladesh|Chittagong|BBTS Network|
+|14|168.228.51.84|999|Costa Rica|Quesada|Cooperativa de Electrificación Rural de San Carlos R.L. (Coopelesca R.L.)|
 |15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|72.10.164.178|10941|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|16|72.10.164.178|10007|Canada|Montreal|GloboTech Communications|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|15.204.161.192|18080|United States|Reston|OVH SAS|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
 
 
 
