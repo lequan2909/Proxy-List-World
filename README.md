@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5904** proxies at the latest update. Usable proxies are below.
+> Scraper found **5870** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|393|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|393|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|393|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|213|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1065|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1031|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|157|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3511|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |4|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|5|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|51.91.109.83|80|France|Strasbourg|OVH SAS|
-|10|103.243.177.90|8080|Indonesia|Kalicari|Universitas Katolik Soegijapranata|
-|11|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|24.172.82.94|53281|United States|Concord|Spectrum|
-|14|110.78.146.74|3127|Thailand|Ao Nang|CAT-BB|
-|15|111.118.138.151|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|16|152.26.229.46|9443|United States|Concord|MCNC|
-|17|36.93.214.253|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|15.204.161.192|18080|United States|Reston|OVH SAS|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|58.69.117.149|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|157.100.57.180|999|Ecuador|Juan Montalvo|Ufinet Panama S.A.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|14|27.54.150.122|8080|Bangladesh|Sunāmganj|X-press Technologies Limited|
+|15|3.37.219.71|3128|South Korea|Seoul|Amazon.com, Inc.|
+|16|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|122.54.147.110|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|18|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|15.204.161.192|18080|United States|Reston|OVH SAS|
 
 
 
