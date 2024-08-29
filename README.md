@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.37.219.71|3128|South Korea|Seoul|Amazon.com, Inc.|
-|2|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|103.69.20.118|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|6|103.69.20.56|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|7|177.32.153.62|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|8|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|103.69.20.54|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|11|190.97.228.198|999|Venezuela|El Vigía|Viginet C.A|
-|12|111.68.26.237|8080|Indonesia|Yogyakarta|GMEDIA|
-|13|152.26.229.46|9443|United States|Concord|MCNC|
-|14|103.217.224.46|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|15|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|16|110.78.146.74|3127|Thailand|Ao Nang|CAT-BB|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|3.37.219.71|3128|South Korea|Seoul|Amazon.com, Inc.|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|6|114.79.148.218|80|India|Mumbai|D-VoiS Broadband Private Limited|
+|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|8|203.175.102.22|8082|Indonesia|Darma|PT. Mitra Kita Brilian|
+|9|152.26.229.46|9443|United States|Concord|MCNC|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|152.26.231.42|9443|United States|Concord|MCNC|
+|13|72.10.164.178|28673|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|28673|Canada|Montreal|GloboTech Communications|
+|15|43.252.11.194|1212|Indonesia|Jakarta|QUANTUMNET|
+|16|203.150.113.102|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
 |17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|67.43.236.18|5923|Canada|Montreal|GloboTech Communications|
-|19|15.204.161.192|18080|United States|Reston|OVH SAS|
-|20|203.150.113.102|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|18|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|19|67.43.236.18|15453|Canada|Montreal|GloboTech Communications|
+|20|188.132.150.87|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
 
 
 
