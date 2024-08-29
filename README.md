@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5338** proxies at the latest update. Usable proxies are below.
+> Scraper found **5348** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|202|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|727|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|738|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|98|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|97|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3353|✅|
 
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
 |5|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|6|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|110.77.241.215|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
-|9|3.8.2.5|3128|United Kingdom|London|Amazon Technologies Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|15|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|16|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|17|191.209.93.120|8080|Brazil|São Paulo|Vivo|
-|18|152.26.229.34|9443|United States|Concord|MCNC|
-|19|152.26.229.47|9443|United States|Concord|MCNC|
-|20|72.10.164.178|24129|Canada|Montreal|GloboTech Communications|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|3.8.2.5|3128|United Kingdom|London|Amazon Technologies Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|104.128.228.69|8118|United States|Los Angeles|HostUS|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|111.118.138.151|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|14|103.41.35.153|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|15|110.77.241.215|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
+|16|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|20|200.63.107.118|8089|Ecuador|Quito|Eliana Vanessa Morocho Oña|
 
 
 
