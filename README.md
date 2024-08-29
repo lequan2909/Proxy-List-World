@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
-|5|38.52.208.6|999|Guatemala|Jalapa|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|8|197.248.75.221|8104|Kenya|Nairobi|Safaricom Limited|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
+|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|47.88.17.170|8118|United States|Minkler|Alibaba.com LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|103.31.132.42|9812|Indonesia|Kebon Melati|PT Arthatama Adhiprima Persada|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|15|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
 |16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|24.116.218.204|8080|United States|Pascagoula|CABLE ONE, INC.|
+|17|58.136.238.61|8080|Thailand|Bangkok|AIS-Fibre|
 |18|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|15.204.161.192|18080|United States|Reston|OVH SAS|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|61.129.2.212|8080|China|Beijing|CHINANET|
 
 
 
