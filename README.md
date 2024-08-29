@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|195.19.32.95|3128|Russia|Moscow|Moscow State Technical University named NE Bouwman|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|12|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|152.26.231.94|9443|United States|Concord|MCNC|
-|14|152.26.231.93|9443|United States|Concord|MCNC|
-|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|15.204.161.192|18080|United States|Reston|OVH SAS|
-|17|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|152.26.229.47|9443|United States|Concord|MCNC|
-|19|72.10.164.178|19183|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|19183|Canada|Montreal|GloboTech Communications|
+|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|103.113.152.46|8080|Bangladesh|Dhaka|Md Ziaul Huque|
+|8|103.70.123.6|8085|Indonesia|Kudus|PT Menara Digital Salama|
+|9|152.26.231.94|9443|United States|Concord|MCNC|
+|10|152.26.231.93|9443|United States|Concord|MCNC|
+|11|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|152.26.229.47|9443|United States|Concord|MCNC|
+|15|103.69.106.183|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
+|16|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|103.133.26.107|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|72.10.164.178|5265|Canada|Montreal|GloboTech Communications|
 
 
 
