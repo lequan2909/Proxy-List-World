@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|103.48.68.218|83|India|Hyderabad|Country Online Services PVT LTD|
-|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|10|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|5|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|13|103.169.254.155|3127|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|14|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|15|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|16|171.255.239.164|5106|Vietnam|Hanoi|Viettel Corporation|
-|17|200.125.170.106|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|18|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|19|160.22.190.10|8080|Indonesia|Loakulu|PT Aldiyanur Mahakam Telemedia|
-|20|175.100.35.238|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|12|103.191.250.66|8083|Indonesia|Batam|PT Mulia Batam Net|
+|13|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|16|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|17|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
+|18|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
