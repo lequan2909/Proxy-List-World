@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|65.49.38.202|3128|United States|Middletown|Hurricane Electric LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|64.227.6.0|4003|United States|North Bergen|DigitalOcean, LLC|
-|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|14|65.49.38.202|3128|United States|Middletown|Hurricane Electric LLC|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
-|19|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|20|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|61.118.38.234|60808|Japan|Chiyoda|Open Computer Network|
+|6|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
+|7|61.129.2.212|8080|China|Beijing|CHINANET|
+|8|66.96.235.34|8080|Indonesia|Jakarta|MYREPUBLIC|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|12|72.10.164.178|12659|Canada|Montreal|GloboTech Communications|
+|13|152.26.231.86|9443|United States|Concord|MCNC|
+|14|152.26.231.93|9443|United States|Concord|MCNC|
+|15|103.158.253.29|8382|Indonesia|Brebes|Rapid Network|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|89.221.225.229|8118|Israel|Petah Tikva|Stark Industries Solutions LTD|
+|18|121.101.132.18|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|19|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
