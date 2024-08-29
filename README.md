@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|3.37.219.71|3128|South Korea|Seoul|Amazon.com, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|185.55.70.230|80|Germany|Cologne|PlusServer GmbH|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|3.37.219.71|3128|South Korea|Seoul|Amazon.com, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|141.94.78.141|80|France|Gravelines|OVH SAS|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|24.172.82.94|53281|United States|Concord|Spectrum|
-|10|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|45.230.51.130|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
-|12|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
-|13|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|14|121.101.132.18|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|15|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|17|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|103.67.84.78|8085|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
-|19|152.26.231.42|9443|United States|Concord|MCNC|
-|20|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|114.9.27.190|3125|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|13|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|14|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|15.204.161.192|18080|United States|Reston|OVH SAS|
+|19|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|190.110.35.108|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
 
 
 
