@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |13|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|14|103.81.64.85|8080|Indonesia|Bandar Lampung|QIUNET|
-|15|27.121.82.102|8080|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
-|16|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|17|103.172.42.17|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|72.10.164.178|21577|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|21577|Canada|Montreal|GloboTech Communications|
+|14|177.93.37.36|999|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
+|15|103.174.238.233|8181|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|16|103.56.205.84|8080|Indonesia|Jakarta|Argon Data Communication|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|103.48.68.6|82|India|Hyderabad|Country Online Services PVT LTD|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|72.10.164.178|7753|Canada|Montreal|GloboTech Communications|
 
 
 
