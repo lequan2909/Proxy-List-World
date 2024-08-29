@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|18.130.82.65|3128|United Kingdom|London|Amazon Technologies Inc.|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|3.8.163.113|3128|United Kingdom|London|Amazon Technologies Inc.|
-|10|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|11|213.160.150.237|8080|Ukraine|Kyiv|"SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|14|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|15|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|16|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|165.16.6.153|1981|Libya|Benghazi|Aljeel Aljadeed Technology|
-|19|152.26.231.93|9443|United States|Concord|MCNC|
-|20|103.5.107.6|8080|Indonesia|Jakarta|Maxindo|
+|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|223.205.86.101|8080|Thailand|Ko Samui|Triple T Broadband Public Company Limited|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|8|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|9|18.130.82.65|3128|United Kingdom|London|Amazon Technologies Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|12|3.8.163.113|3128|United Kingdom|London|Amazon Technologies Inc.|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|18|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|213.160.150.237|8080|Ukraine|Kyiv|"SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY|
+|20|125.26.130.221|8080|Thailand|Bang Pla Ma|TOT Public Company Limited|
 
 
 
