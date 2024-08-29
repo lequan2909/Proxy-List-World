@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
 |5|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|8|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|9|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
-|11|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|117.40.32.133|8080|China|Taohua|Chinanet|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
 |12|152.26.229.46|9443|United States|Concord|MCNC|
-|13|152.26.229.47|9443|United States|Concord|MCNC|
-|14|152.26.229.34|9443|United States|Concord|MCNC|
-|15|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|16|152.26.229.93|9443|United States|Concord|MCNC|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|152.26.231.83|9443|United States|Concord|MCNC|
-|19|72.10.164.178|8901|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|14|152.26.229.47|9443|United States|Concord|MCNC|
+|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|16|152.26.229.34|9443|United States|Concord|MCNC|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
