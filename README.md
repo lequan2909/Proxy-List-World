@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|103.133.26.107|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|7|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|177.124.115.235|3131|Brazil|Mandaguaçu|MMER Provedor de Internet Ltda - ME|
-|10|103.145.160.3|8080|Indonesia|South Tangerang|PT Indonesia Comnets Plus|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|103.247.22.79|8080|Indonesia|Bekasi|PT wifian Solution|
-|15|168.227.40.71|9192|Brazil|Cabo de Santo Agostinho|Digitec Eletronica Ltda - ME|
-|16|110.34.1.178|7777|Nepal|Kathmandu|Subisu Cablenet|
-|17|103.105.76.214|9090|Indonesia|Bojonegoro|GARUDA|
-|18|95.214.123.11|8080|Hungary|Kecskemét|Deltakon Kft.|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|132.255.221.129|9500|Brazil|Camaçari|LCD Serviços de Telecomunicações Multimidia|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|177.22.112.71|8080|Brazil|Araguari|Netvox Telecomunicacoes LTDA|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|12|191.191.181.159|8082|Brazil|Anápolis|Claro NXT Telecomunicacoes Ltda|
+|13|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|183.88.214.44|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|4.155.2.13|9443|United States|Quincy|Microsoft Corporation|
 
 
 
