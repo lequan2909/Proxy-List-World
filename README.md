@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|3|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|159.89.193.39|1081|Singapore|Singapore|DigitalOcean, LLC|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|181.224.207.142|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
+|8|200.24.157.122|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|9|189.100.247.109|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
 |10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|181.209.82.154|23500|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|13|66.96.235.34|8080|Indonesia|Jakarta|MYREPUBLIC|
-|14|103.156.17.171|8181|Indonesia|Indramayu|RSTNET|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|181.39.24.157|999|Ecuador|Guayaquil|Telconet S.A|
-|17|122.2.48.121|8080|Philippines|Ormoc City|Philippine Long Distance Telephone Co.|
-|18|173.249.37.45|5005|Germany|Nuremberg|Contabo GmbH|
-|19|103.169.254.155|3127|Indonesia|Banyuwangi Regency|PT Master Star Network|
-|20|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|45.250.215.8|8080|India|New Delhi|Geocity Network Solutions PVT LTD|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|16|185.44.26.217|43097|Spain|Pozo Estrecho|Electronica Martinez de Cartagena S.L.|
+|17|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
