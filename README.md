@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|61.7.191.234|80|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|9|203.142.74.115|8080|Indonesia|Semarang|BIZNET|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|103.231.239.166|58080|Bangladesh|Dhaka|Carnival Care Limited|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|103.126.172.245|8080|Indonesia|Bandar Lampung|MEGARAP|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
-|19|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|20|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|61.7.191.234|80|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
+|7|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|11|124.158.153.218|8180|Indonesia|Pulo Gebang|PT iForte Global Internet|
+|12|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|16|188.132.150.87|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|103.156.17.35|8181|Indonesia|Indramayu|RSTNET|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|119.76.142.254|8080|Thailand|Sam Phran|True Internet Co., Ltd.|
 
 
 
