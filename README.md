@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|110.77.241.215|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|8|103.199.117.115|8080|Indonesia|Semarang|PT Hepra Teknologi Indonesia|
-|9|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|13|43.252.11.194|1212|Indonesia|Jakarta|QUANTUMNET|
-|14|103.55.30.22|1111|Indonesia|Kupang|PT Jaringan Optic Nusantara|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|181.188.27.162|8080|Trinidad and Tobago|San Fernando|Columbus Communications Trinidad Limited.|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|6|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|7|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|103.70.122.47|8085|Indonesia|Kudus|PT Menara Digital Salama|
+|10|66.27.58.70|8080|United States|Artesia|Spectrum|
+|11|103.159.66.61|8080|India|Ghaziabad|Home Broadband Services LLP|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|103.211.26.230|8181|Indonesia|Madiun|PT Olean Permata Telematika|
 |15|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|36.93.214.253|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|152.26.229.86|9443|United States|Concord|MCNC|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|17|167.249.29.214|999|Chile|Santiago|Grupo Metrowan Telecom SPA|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|115.127.91.225|58080|Bangladesh|Dhaka|BRACNet Limited|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
