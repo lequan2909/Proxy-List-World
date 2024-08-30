@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|531|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|531|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|531|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|503|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|503|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|503|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|14|200.119.44.50|9090|Colombia|Bogotá|ETB - Colombia|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|200.119.44.50|9090|Colombia|Bogotá|ETB - Colombia|
+|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|9|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
+|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|14|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|18|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
+|19|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|20|156.200.123.170|8080|Egypt|Cairo|TE Data|
 
 
 
