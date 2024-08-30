@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|3|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|8|156.254.240.222|40053|Hong Kong|Hong Kong|AresIDC Limited|
-|9|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|13|177.234.241.28|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|14|119.47.90.76|8080|Indonesia|Batang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|15|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|16|15.204.161.192|18080|United States|Reston|OVH SAS|
-|17|146.196.41.141|8080|Indonesia|Karawang|UNINA|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|4|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|177.234.241.28|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|9|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|14|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|117.40.32.133|8080|China|Taohua|Chinanet|
+|17|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
 |18|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
-|20|157.66.16.48|8080|Indonesia|Jatibarang|PT Mitra Mandiri Network|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|202.179.95.174|58080|India|Mumbai|Ankhnet|
 
 
 
