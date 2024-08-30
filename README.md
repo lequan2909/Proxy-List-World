@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|6|202.62.84.210|53281|India|Vijayawada|CityOnline Services Ltd|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
-|9|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|144.76.207.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|152.26.231.42|9443|United States|Concord|MCNC|
-|13|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|14|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|17|152.26.231.94|9443|United States|Concord|MCNC|
-|18|67.43.227.227|2967|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|10081|Canada|Montreal|GloboTech Communications|
-|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|3|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|4|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|173.208.141.178|8002|United States|Kansas City|WholeSale Internet|
+|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|8|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|9|158.140.172.246|8080|Indonesia|Malang|MYREPUBLIC|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|152.26.231.42|9443|United States|Concord|MCNC|
+|12|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|13|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|144.76.207.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|19|152.26.231.94|9443|United States|Concord|MCNC|
+|20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
 
