@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|103.141.2.224|8080|Bangladesh|Comilla|Mohammad Omar Faruk|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|3.9.170.166|3128|United Kingdom|London|Amazon Technologies Inc.|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|103.141.2.224|8080|Bangladesh|Comilla|Mohammad Omar Faruk|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|3.9.170.166|3128|United Kingdom|London|Amazon Technologies Inc.|
 |10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|12|165.16.27.42|1981|Libya|Benghazi|Aljeel Aljadeed For Technology|
-|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|15|177.234.193.183|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|16|1.20.203.226|8080|Thailand|Surat Thani|TOT Public Company Limited|
-|17|43.252.11.194|1212|Indonesia|Jakarta|QUANTUMNET|
-|18|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|19|58.136.238.61|8080|Thailand|Bangkok|AIS-Fibre|
-|20|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|103.160.206.162|808|India|Morādābād|Moradabad Internet Services Private Limited|
+|12|103.48.68.75|83|India|Hyderabad|Country Online Services PVT LTD|
+|13|103.189.249.204|8092|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
+|14|103.171.244.40|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|15|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|158.140.172.246|8080|Indonesia|Malang|MYREPUBLIC|
+|18|103.133.61.18|8181|Indonesia|Bandar Lampung|TLINK|
+|19|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|20|177.32.153.62|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
 
 
 
