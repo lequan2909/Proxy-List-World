@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|412|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|412|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|412|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
 |4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|7|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|14|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|156.254.240.222|40053|Hong Kong|Hong Kong|AresIDC Limited|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|103.165.157.241|8090|Indonesia|Taman|MEGADATA-ISP|
-|19|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|20|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|192.162.236.76|8080|Ukraine|Khmilnyk|PP "Vinasterisk"|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|156.254.240.222|40053|Hong Kong|Hong Kong|AresIDC Limited|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
+|19|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|20|34.97.45.196|8561|Japan|Osaka|Google LLC|
 
 
 
