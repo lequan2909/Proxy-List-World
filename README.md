@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|433|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|433|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|433|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|396|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|396|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|396|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|144.86.187.42|3129|United States|Malden|Charles River Operation|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|144.86.187.55|3129|United States|Malden|Charles River Operation|
-|18|15.204.161.192|18080|United States|Reston|OVH SAS|
-|19|144.86.187.38|3129|United States|Malden|Charles River Operation|
-|20|144.86.187.57|3129|United States|Malden|Charles River Operation|
+|10|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
+|11|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|16|111.118.138.151|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|144.86.187.54|3129|United States|Malden|Charles River Operation|
+|19|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
+|20|144.86.187.42|3129|United States|Malden|Charles River Operation|
 
 
 
