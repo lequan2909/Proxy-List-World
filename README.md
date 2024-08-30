@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5912** proxies at the latest update. Usable proxies are below.
+> Scraper found **5916** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|210|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1037|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|155|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|159|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3552|✅|
 
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|3|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|3|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
 |4|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|5|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|6|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|200.119.44.50|9090|Colombia|Bogotá|ETB - Colombia|
-|11|195.201.34.206|80|Germany|Nuremberg|Hetzner Online GmbH|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|103.217.216.12|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|18|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
-|19|15.204.161.192|18080|United States|Reston|OVH SAS|
-|20|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|8|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
+|9|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|11|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
+|12|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|103.217.216.12|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|15|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|170.239.205.73|8080|Colombia|Bogotá|FIBERNET|
+|18|58.136.238.61|8080|Thailand|Bangkok|AIS-Fibre|
+|19|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|20|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
 
 
 
