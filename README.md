@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|471|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|471|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|471|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|408|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|408|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|408|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|35.229.244.66|3129|Taiwan|Taipei|Google LLC|
-|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|8|119.42.86.148|8080|Thailand|Bang Rak|CAT-BB|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |10|115.76.115.200|1006|Vietnam|Ho Chi Minh City|VIETELGPRS|
-|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|13|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
-|14|119.42.86.148|8080|Thailand|Bang Rak|CAT-BB|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|18|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|19|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|20|144.86.187.48|3129|United States|Malden|Charles River Operation|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|103.90.67.35|8080|Indonesia|Bengkalis|PT Rajawali Bintang Cemerlang Telkomedia|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|17|45.76.71.170|8118|United States|Los Angeles|The Constant Company|
+|18|15.204.161.192|18080|United States|Reston|OVH SAS|
+|19|144.86.187.53|3129|United States|Malden|Charles River Operation|
+|20|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
