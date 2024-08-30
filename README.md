@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|5|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
-|6|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|103.48.68.75|83|India|Hyderabad|Country Online Services PVT LTD|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|152.26.231.94|9443|United States|Concord|MCNC|
-|13|152.26.231.93|9443|United States|Concord|MCNC|
+|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|200.119.44.50|9090|Colombia|Bogotá|ETB - Colombia|
+|3|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
+|4|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|8|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|10|152.26.231.94|9443|United States|Concord|MCNC|
+|11|152.26.231.93|9443|United States|Concord|MCNC|
+|12|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |14|160.248.191.6|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |16|152.26.231.42|9443|United States|Concord|MCNC|
 |17|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
-|19|67.43.228.254|14155|Canada|Montreal|GloboTech Communications|
-|20|122.54.147.110|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|18|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
+|19|181.205.243.147|999|Colombia|Medellín|Colombia Móvil|
+|20|72.10.164.178|28371|Canada|Montreal|GloboTech Communications|
 
 
 
