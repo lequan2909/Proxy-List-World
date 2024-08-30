@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|112.198.179.242|8082|Philippines|Carmona|Globe Telecom|
-|8|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|7|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|8|45.201.136.117|9812|Cambodia|Phnom Penh|King Technologies Co|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |10|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|11|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|103.5.107.6|8080|Indonesia|Jakarta|Maxindo|
-|16|210.61.207.92|3128|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|17|160.248.190.254|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|125.167.33.208|8080|Indonesia|Surabaya|PT. TELKOM INDONESIA|
+|14|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
+|15|112.198.179.242|8082|Philippines|Carmona|Globe Telecom|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|160.248.190.254|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
