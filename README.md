@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|393|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|393|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|393|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|3|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|4|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|7|144.76.207.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|10|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|149.51.225.130|3128|United States|New York|Rackdog, LLC|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|15|103.41.90.52|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|3|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|4|144.76.207.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|5|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|8|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|149.51.225.130|3128|United States|New York|Rackdog, LLC|
+|15|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
 |16|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
-|17|202.93.244.242|8080|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
+|17|24.204.29.115|8080|United States|Longview|Network IP|
 |18|15.204.161.192|18080|United States|Reston|OVH SAS|
-|19|103.19.59.10|8080|Indonesia|Ngawi|BITSNET|
-|20|202.144.139.201|8080|Bhutan|Thimphu|Bhutan Telecom Ltd|
+|19|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
+|20|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
 
 
 
