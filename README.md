@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.178.194.50|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|93.170.123.5|8118|Ukraine|Lviv|FOP Hornostay Mykhaylo Ivanovych|
 |7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|91.217.179.134|8080|Ukraine|Kyiv|Startnet LTD|
-|10|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|16|103.232.20.158|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
-|17|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
-|20|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|8|103.137.111.169|8080|Indonesia|Samarinda|PT. Capoeng Digital Nusantara|
+|9|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
+|12|103.48.68.75|83|India|Hyderabad|Country Online Services PVT LTD|
+|13|103.87.148.40|1111|Indonesia|Demak|Lintas Data Prima, PT|
+|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|15|181.204.21.122|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|74.208.112.135|3128|United States|Philadelphia|IONOS SE|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|223.25.110.221|8090|Indonesia|Surabaya|SinergiNet|
 
 
 
