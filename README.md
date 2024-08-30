@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|392|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|392|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|392|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|182.52.131.149|8080|Thailand|Bangkok|TOT Public Company Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |5|45.55.156.110|3128|United States|Clifton|DigitalOcean, LLC|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|183.80.111.55|8080|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|45.55.156.110|3128|United States|Clifton|DigitalOcean, LLC|
+|6|182.52.131.149|8080|Thailand|Bangkok|TOT Public Company Limited|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|45.55.156.110|3128|United States|Clifton|DigitalOcean, LLC|
+|11|194.156.88.125|2411|United Kingdom|Bradford|aurologic GmbH|
+|12|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
 |13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|212.252.73.29|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|202.152.24.50|8080|Indonesia|Jakarta Pusat|PT Aplikanusa Lintasarta|
-|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|20|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|14|144.86.187.60|3129|United States|Malden|Charles River Operation|
+|15|144.86.187.51|3129|United States|Malden|Charles River Operation|
+|16|144.86.187.62|3129|United States|Malden|Charles River Operation|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
