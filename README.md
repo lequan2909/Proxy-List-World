@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|69.30.243.66|8001|United States|Kansas City|WholeSale Internet|
 |5|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|94.68.245.147|8080|Greece|Marousi|OTEnet|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|14|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|15|103.36.10.118|8090|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|16|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|8|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|9|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|14|188.132.150.87|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|15|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
+|16|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
+|17|152.26.229.46|9443|United States|Concord|MCNC|
 |18|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|19|152.26.229.46|9443|United States|Concord|MCNC|
-|20|154.73.29.161|8080|Libya|Tripoli|Rawafed|
+|19|110.78.146.74|3127|Thailand|Ao Nang|CAT-BB|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
