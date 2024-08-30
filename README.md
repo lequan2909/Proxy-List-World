@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|407|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|407|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|407|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|1.20.203.226|8080|Thailand|Surat Thani|TOT Public Company Limited|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|110.77.235.210|8080|Thailand|Ban Saladan|CAT Telecom Public Company Limited|
+|3|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
 |4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
-|11|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|14|74.62.179.122|8080|United States|Chatsworth|Charter Communications Inc|
-|15|66.96.235.34|8080|Indonesia|Jakarta|MYREPUBLIC|
-|16|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
-|17|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|18|187.188.16.28|999|Mexico|Xalapa|Total Play Telecomunicaciones SA De CV|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
+|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|10|103.217.224.46|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|11|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|12|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|13|121.101.132.18|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|14|160.248.4.210|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|74.208.112.135|3128|United States|Philadelphia|IONOS SE|
+|16|65.49.38.202|3128|United States|Middletown|Hurricane Electric LLC|
+|17|152.26.231.94|9443|United States|Concord|MCNC|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|36.67.8.169|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
+|20|118.117.189.172|8089|China|Muping|Chinanet|
 
 
 
