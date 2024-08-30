@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|529|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|529|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|529|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|501|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|501|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|501|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|200.119.44.50|9090|Colombia|Bogotá|ETB - Colombia|
-|8|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|103.176.96.134|8082|Indonesia|Purwakarta|PT Global Sarana Elektronika|
-|11|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|71.14.23.121|8080|United States|Hoover|Spectrum|
-|15|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|16|173.208.141.178|8002|United States|Kansas City|WholeSale Internet|
-|17|200.39.120.43|999|Mexico|Asientos|COORDINADORA DE CARRIER'S, S.A. DE C.V.|
-|18|81.19.141.2|3128|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|19|103.157.117.61|8080|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
-|20|103.139.127.244|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|171.245.127.118|5000|Vietnam|Ha Long|Viettel Corporation|
+|6|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|9|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|171.241.193.60|10001|Vietnam|Thanh Hóa|Viettel Corporation|
+|11|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|12|200.119.44.50|9090|Colombia|Bogotá|ETB - Colombia|
+|13|103.24.215.146|8181|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
+|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|15|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|18|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|64.76.43.120|999|Mexico|Buenavista|Level 3 Communications, Inc.|
 
 
 
