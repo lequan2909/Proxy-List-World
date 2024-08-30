@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|556|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|556|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|556|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|479|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|479|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|479|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|144.86.187.50|3129|United States|Malden|Charles River Operation|
-|6|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|144.86.187.55|3129|United States|Malden|Charles River Operation|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|144.86.187.57|3129|United States|Malden|Charles River Operation|
-|12|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|144.86.187.61|3129|United States|Malden|Charles River Operation|
-|15|144.86.187.34|3129|United States|Malden|Charles River Operation|
-|16|144.86.187.54|3129|United States|Malden|Charles River Operation|
-|17|144.86.187.46|3129|United States|Malden|Charles River Operation|
-|18|144.86.187.37|3129|United States|Malden|Charles River Operation|
-|19|144.86.187.60|3129|United States|Malden|Charles River Operation|
-|20|144.86.187.49|3129|United States|Malden|Charles River Operation|
+|2|106.139.65.81|80|Japan|Misato, Saitama|Kddi Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|52.185.132.193|8080|Japan|Tokyo|Microsoft Corporation|
+|8|144.86.187.50|3129|United States|Malden|Charles River Operation|
+|9|144.86.187.36|3129|United States|Malden|Charles River Operation|
+|10|144.86.187.62|3129|United States|Malden|Charles River Operation|
+|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|144.86.187.57|3129|United States|Malden|Charles River Operation|
+|13|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|144.86.187.44|3129|United States|Malden|Charles River Operation|
+|16|144.86.187.35|3129|United States|Malden|Charles River Operation|
+|17|15.204.161.192|18080|United States|Reston|OVH SAS|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
