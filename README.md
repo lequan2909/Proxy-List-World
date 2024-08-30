@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|140.227.122.55|3128|Japan|Tokyo|InfoSphere|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|140.227.122.55|3128|Japan|Tokyo|InfoSphere|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|156.231.77.45|3131|Japan|Tokyo|Octopus Web Solution Inc|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |7|15.235.143.67|2020|Singapore|Singapore|OVH SAS|
 |8|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
 |9|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|10|156.254.240.222|40053|Hong Kong|Hong Kong|AresIDC Limited|
-|11|81.19.141.2|3128|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|12|156.254.238.213|40168|Hong Kong|Hong Kong|AresIDC Limited|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|131.221.42.149|4040|Colombia|Yopal|CABLE & TV YOPAL S.A.S (INTERNET INALÁMBRICO)|
-|15|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|156.254.239.213|40036|Hong Kong|Hong Kong|AresIDC Limited|
-|19|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|138.0.36.42|8080|Brazil|Alto Rio Novo|JPP PANCINI LTDA|
+|10|156.254.241.214|40014|Hong Kong|Hong Kong|AresIDC Limited|
+|11|156.254.239.213|40036|Hong Kong|Hong Kong|AresIDC Limited|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|81.19.141.2|3128|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|14|69.30.243.66|8001|United States|Kansas City|WholeSale Internet|
+|15|163.172.33.137|4003|France|Vitry-sur-Seine|Online S.A.S.|
+|16|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|15.204.161.192|18080|United States|Reston|OVH SAS|
+|18|156.254.240.222|40053|Hong Kong|Hong Kong|AresIDC Limited|
+|19|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
