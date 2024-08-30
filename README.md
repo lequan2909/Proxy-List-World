@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|110.77.235.210|8080|Thailand|Ban Saladan|CAT Telecom Public Company Limited|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|110.77.235.210|8080|Thailand|Ban Saladan|CAT Telecom Public Company Limited|
+|6|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|12|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|13|103.176.96.211|8090|Indonesia|Purwakarta|PT Global Sarana Elektronika|
-|14|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
-|19|152.26.231.42|9443|United States|Concord|MCNC|
-|20|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
+|15|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|16|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|17|180.211.183.130|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
