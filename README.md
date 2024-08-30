@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|5|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|15.204.161.192|18080|United States|Reston|OVH SAS|
 |9|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|10|119.47.90.76|8080|Indonesia|Batang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|103.127.220.106|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|144.86.187.47|3129|United States|Malden|Charles River Operation|
+|18|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|121.101.132.18|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|20|103.17.182.130|8585|Indonesia|Jakarta|PT Tinelo Digital Network|
 
 
 
