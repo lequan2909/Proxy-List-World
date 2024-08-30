@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|452|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|452|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|452|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.150.128.146|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|110.77.235.210|8080|Thailand|Ban Saladan|CAT Telecom Public Company Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|103.147.247.122|8080|Indonesia|Tangerang|PLBNET|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|203.150.128.146|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
 |13|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|14|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|15|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|16|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|17|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|162.245.239.110|6561|United States|Portland|Wowrack.com|
+|14|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|15|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|16|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|17|191.97.19.94|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|181.204.21.122|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
+|20|74.208.112.135|3128|United States|Philadelphia|IONOS SE|
 
 
 
