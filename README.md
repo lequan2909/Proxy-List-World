@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|7|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|8|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|9|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|182.253.109.244|8080|Indonesia|Semarang|Biznet Metronet|
-|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|103.36.10.0|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|14|216.10.247.145|3128|India|Mumbai|PDR|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|52.53.218.214|3128|United States|San Jose|Amazon.com, Inc.|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|152.26.229.47|9443|United States|Concord|MCNC|
-|20|160.248.191.6|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|5|182.253.109.244|8080|Indonesia|Semarang|Biznet Metronet|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|8|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|52.53.218.214|3128|United States|San Jose|Amazon.com, Inc.|
+|10|152.26.229.42|9443|United States|Concord|MCNC|
+|11|152.26.229.83|9443|United States|Concord|MCNC|
+|12|223.25.110.221|8090|Indonesia|Surabaya|SinergiNet|
+|13|152.26.229.47|9443|United States|Concord|MCNC|
+|14|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|15|160.248.191.6|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|152.26.231.93|9443|United States|Concord|MCNC|
+|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|20|72.10.164.178|16463|Canada|Montreal|GloboTech Communications|
 
 
 
