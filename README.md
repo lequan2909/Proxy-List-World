@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|5|123.253.34.137|6368|Malaysia|Cyberjaya|Gigabit Hosting Sdn Bhd|
-|6|156.254.238.213|40168|Hong Kong|Hong Kong|AresIDC Limited|
+|2|15.235.143.67|2020|Singapore|Singapore|OVH SAS|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|123.253.34.137|6368|Malaysia|Cyberjaya|Gigabit Hosting Sdn Bhd|
+|5|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|6|156.254.239.213|40036|Hong Kong|Hong Kong|AresIDC Limited|
 |7|156.254.241.214|40014|Hong Kong|Hong Kong|AresIDC Limited|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|156.254.238.213|40168|Hong Kong|Hong Kong|AresIDC Limited|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|11|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|103.87.169.198|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|13|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|103.233.103.238|5656|Indonesia|Cikarang|PT. Tujuh Ion Indonesia|
-|16|177.93.51.213|999|Colombia|Villavicencio|TV AZTECA SUCURSAL COLOMBIA|
-|17|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|18|15.204.161.192|18080|United States|Reston|OVH SAS|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|12|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|87.229.205.227|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|18|152.26.229.93|9443|United States|Concord|MCNC|
+|19|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
