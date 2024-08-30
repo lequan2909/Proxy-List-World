@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|464|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|464|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|464|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|183.80.111.55|8080|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|10|180.191.49.60|8082|Philippines|Tarlac City|Globe Telecom|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|144.86.187.60|3129|United States|Malden|Charles River Operation|
-|14|144.86.187.54|3129|United States|Malden|Charles River Operation|
-|15|144.86.187.62|3129|United States|Malden|Charles River Operation|
-|16|139.255.33.242|3128|Indonesia|Jakarta|PT. LINKNET|
-|17|144.86.187.38|3129|United States|Malden|Charles River Operation|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|20|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|36.88.102.63|80|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|6|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|7|45.119.113.65|83|India|Hyderabad|Netrun Technologies PVT LTD|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|13|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
+|14|103.83.178.222|8080|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|15|58.136.238.61|8080|Thailand|Bangkok|AIS-Fibre|
+|16|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|17|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|112.198.179.17|8082|Philippines|Carmona|Globe Telecom|
+|20|103.148.49.243|8080|Indonesia|Pontianak|BCMEDIA|
 
 
 
