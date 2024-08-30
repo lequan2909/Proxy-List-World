@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|9|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|10|85.89.172.66|8080|Poland|Lodz|TOYA Sp. z o.o.|
-|11|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|36.91.68.147|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
-|13|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|14|46.100.251.156|8080|Iran|Yazd|Iran Telecommunication Company PJS|
-|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|103.69.20.54|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|17|188.132.150.87|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|18|152.26.231.93|9443|United States|Concord|MCNC|
-|19|152.26.229.34|9443|United States|Concord|MCNC|
-|20|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|8|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
+|11|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|202.40.179.34|9090|Bangladesh|Dhaka|Ranks ITT|
+|13|216.10.247.145|3128|India|Mumbai|PDR|
+|14|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|152.26.229.34|9443|United States|Concord|MCNC|
+|16|152.26.231.93|9443|United States|Concord|MCNC|
+|17|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
