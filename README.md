@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|4|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
 |5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|11|192.162.236.76|8080|Ukraine|Khmilnyk|PP "Vinasterisk"|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|14|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
 |16|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
-|17|103.166.158.53|3127|Indonesia|Bekasi|PT Timor Lintas Nusantara|
-|18|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
-|19|103.194.46.66|8082|Indonesia|Babakangarut|PT Jujur Amanah Barokah|
-|20|103.74.229.133|8080|Bangladesh|Kushtia|Windstream|
+|17|177.44.161.8|3128|Brazil|Chopinzinho|WIIP TELECOM SERVIÇOS DE INTERNET LTDA|
+|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|20|182.252.80.1|8082|Bangladesh|Sirajganj|Agni Systems Limited|
 
 
 
