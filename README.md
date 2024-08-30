@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|426|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|426|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|426|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|45.119.113.65|83|India|Hyderabad|Netrun Technologies PVT LTD|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|200.119.44.50|9090|Colombia|Bogotá|ETB - Colombia|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|85.209.87.253|8001|United States|Kansas City|UnReal Servers, LLC|
-|12|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|16|144.86.187.60|3129|United States|Malden|Charles River Operation|
-|17|144.86.187.42|3129|United States|Malden|Charles River Operation|
-|18|15.204.161.192|18080|United States|Reston|OVH SAS|
-|19|85.209.87.253|8001|United States|Kansas City|UnReal Servers, LLC|
-|20|144.86.187.55|3129|United States|Malden|Charles River Operation|
+|9|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|113.160.154.23|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|13|103.42.228.62|8080|Bangladesh|Lākshām|Skynet Chowmuhani|
+|14|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
+|15|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
+|16|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|201.217.246.212|8080|Argentina|Villa Berthet|Ecom Chaco S.A.|
+|19|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
