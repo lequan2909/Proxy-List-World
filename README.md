@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5402** proxies at the latest update. Usable proxies are below.
+> Scraper found **5414** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|259|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1086|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1098|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|129|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2970|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|10|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|11|177.234.241.28|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|12|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|14|103.158.27.88|1212|Indonesia|Sleman|PT Madina Solusi Indonesia|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|193.169.4.12|8091|Russia|Reutov|Lekstar Communication Ltd|
-|17|117.40.32.133|8080|China|Taohua|Chinanet|
-|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|216.10.247.145|3128|India|Mumbai|PDR|
-|20|103.183.98.222|7777|Indonesia|Trenggalek|PT.LEXXA DATA INDONUSA|
+|8|177.234.241.28|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|103.183.98.222|7777|Indonesia|Trenggalek|PT.LEXXA DATA INDONUSA|
+|12|117.40.32.133|8080|China|Taohua|Chinanet|
+|13|156.254.240.222|40053|Hong Kong|Hong Kong|AresIDC Limited|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|36.93.214.253|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|16|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|15.204.161.192|18080|United States|Reston|OVH SAS|
+|19|160.248.190.241|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
 
 
 
