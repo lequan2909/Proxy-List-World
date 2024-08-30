@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|118.68.249.51|1445|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|8|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|152.26.229.93|9443|United States|Concord|MCNC|
-|11|67.43.227.227|7813|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|25283|Canada|Montreal|GloboTech Communications|
-|13|85.117.60.131|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|14|72.10.160.171|4273|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|25283|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|8803|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|11655|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|23397|Canada|Montreal|GloboTech Communications|
-|19|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|124.217.65.177|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|9|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|216.10.247.145|3128|India|Mumbai|PDR|
+|11|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|46.100.251.156|8080|Iran|Yazd|Iran Telecommunication Company PJS|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|223.25.110.221|8090|Indonesia|Surabaya|SinergiNet|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|182.253.68.150|80|Indonesia|Jakarta Pusat|BIZNET|
+|20|36.93.8.34|11000|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
 
 
 
