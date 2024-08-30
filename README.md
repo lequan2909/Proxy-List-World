@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|203.150.113.246|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|66.29.155.130|3128|United States|Los Angeles|Namecheap, Inc.|
-|6|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|209.146.20.226|8082|Philippines|Manila|Cogent Communications|
-|11|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|212.92.204.54|80|Croatia|Zagreb|A1 Hrvatska d.o.o|
-|13|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
-|14|152.26.229.47|9443|United States|Concord|MCNC|
-|15|152.26.229.34|9443|United States|Concord|MCNC|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|119.47.90.76|8080|Indonesia|Batang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|18|72.10.160.90|23837|Canada|Montreal|GloboTech Communications|
-|19|149.28.141.240|3129|Singapore|Singapore|The Constant Company|
-|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|4|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|203.150.113.246|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|13|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|113.161.187.190|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|15|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|16|185.111.156.170|80|United States|Orangeburg|Nubes, LLC|
+|17|103.108.156.38|8080|Indonesia|Bekasi|Pop Net Indonesia|
+|18|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|19|170.150.209.40|8080|Brazil|Garrafão do Norte|Imunidade Digital Servicos EM Comunicacao Ltda|
+|20|103.53.78.26|8080|Indonesia|Surabaya|INTI|
 
 
 
