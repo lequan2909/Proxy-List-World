@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|430|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|430|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|430|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|5.42.73.166|3128|Sweden|Stockholm|Aeza International LTD|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|45.55.156.110|3128|United States|Clifton|DigitalOcean, LLC|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|185.111.156.170|80|United States|Orangeburg|Nubes, LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|200.119.44.50|9090|Colombia|Bogotá|ETB - Colombia|
-|14|27.50.29.82|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|15|144.86.187.39|3129|United States|Malden|Charles River Operation|
-|16|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
-|17|103.232.20.158|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
-|18|180.148.4.74|8080|Vietnam|Uyen Hung|VNTT|
-|19|103.82.126.34|1111|Indonesia|Tangerang|PT.PLATINUM CITRA INDONESIA|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|45.55.156.110|3128|United States|Clifton|DigitalOcean, LLC|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|103.137.111.65|7777|Indonesia|Mojokerto|PT. Capoeng Digital Nusantara|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|144.86.187.56|3129|United States|Malden|Charles River Operation|
+|15|144.86.187.44|3129|United States|Malden|Charles River Operation|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|185.111.156.170|80|United States|Orangeburg|Nubes, LLC|
+|19|112.78.47.187|8080|Indonesia|Semarang|PT DES Teknologi Informasi|
+|20|144.86.187.53|3129|United States|Malden|Charles River Operation|
 
 
 
