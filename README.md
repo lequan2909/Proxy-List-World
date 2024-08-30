@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|433|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|433|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|433|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.186.8.162|8080|Indonesia|Kediri|PRISMA|
-|5|15.235.171.199|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|9|45.55.156.110|3128|United States|Clifton|DigitalOcean, LLC|
-|10|182.52.131.149|8080|Thailand|Bangkok|TOT Public Company Limited|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|45.55.156.110|3128|United States|Clifton|DigitalOcean, LLC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|15.204.161.192|18080|United States|Reston|OVH SAS|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
-|19|45.174.57.26|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
-|20|85.209.87.253|8001|United States|Kansas City|UnReal Servers, LLC|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|45.55.156.110|3128|United States|Clifton|DigitalOcean, LLC|
+|7|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.116.82.136|8080|Indonesia|Indramayu|PT SSR Digital Informatika|
+|10|45.55.156.110|3128|United States|Clifton|DigitalOcean, LLC|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|202.180.21.214|80|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|17|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|20|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
