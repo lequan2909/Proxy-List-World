@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|112.78.164.245|8080|Indonesia|Jakarta|Biznet Networks|
-|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |6|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|103.87.169.177|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|203.150.128.242|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|152.26.229.83|9443|United States|Concord|MCNC|
-|16|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|17|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|119.47.90.241|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|103.176.96.226|8082|Indonesia|Purwakarta|PT Global Sarana Elektronika|
+|10|103.87.169.177|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|179.189.50.160|80|Brazil|Sinop|Avato Tecnologia S.A|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|192.187.114.106|8002|United States|Kansas City|Nocix, LLC|
+|16|152.26.229.83|9443|United States|Concord|MCNC|
+|17|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |18|152.26.231.93|9443|United States|Concord|MCNC|
-|19|177.93.40.182|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
