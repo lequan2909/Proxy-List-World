@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|181.49.177.198|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|7|222.124.202.144|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|8|14.142.36.210|80|India|Navi Mumbai|Tata Communications Limited|
-|9|69.30.243.66|8001|United States|Kansas City|WholeSale Internet|
-|10|103.156.217.101|1111|Indonesia|Cikarang|PT. Meiwa Mold Indonesia|
-|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|13|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|72.10.164.178|3089|Canada|Montreal|GloboTech Communications|
+|6|69.30.243.66|8001|United States|Kansas City|WholeSale Internet|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|69.30.243.66|8001|United States|Kansas City|WholeSale Internet|
+|9|103.138.185.1|83|India|Rāwatbhāta|Mahrth Internet Service Private Limited|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|103.36.10.0|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|152.26.231.93|9443|United States|Concord|MCNC|
+|16|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
 |18|160.248.190.241|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|58.147.186.226|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
-|20|192.187.114.106|8002|United States|Kansas City|Nocix, LLC|
+|19|36.93.214.253|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
