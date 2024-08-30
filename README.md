@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|5|52.53.218.214|3128|United States|San Jose|Amazon.com, Inc.|
-|6|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
 |8|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|11|52.53.218.214|3128|United States|San Jose|Amazon.com, Inc.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|52.53.218.214|3128|United States|San Jose|Amazon.com, Inc.|
+|11|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|12|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|93.170.123.5|8118|Ukraine|Lviv|FOP Hornostay Mykhaylo Ivanovych|
 |14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|103.199.139.14|83|India|Pune|Syscon Infoway Pvt. Ltd.|
-|18|37.27.198.141|80|Finland|Helsinki|Hetzner Online GmbH|
-|19|64.227.6.0|4003|United States|North Bergen|DigitalOcean, LLC|
-|20|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|15|52.53.218.214|3128|United States|San Jose|Amazon.com, Inc.|
+|16|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|15.204.161.192|18080|United States|Reston|OVH SAS|
+|19|103.160.12.50|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|20|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
