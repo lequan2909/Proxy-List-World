@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|112.198.179.242|8082|Philippines|Carmona|Globe Telecom|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|115.76.115.200|1006|Vietnam|Ho Chi Minh City|VIETELGPRS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|9|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|10|103.125.117.50|5000|Indonesia|Bandung|PT Baraya Telematika Nusantara|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|16|72.10.164.178|12251|Canada|Montreal|GloboTech Communications|
-|17|45.201.136.117|9812|Cambodia|Phnom Penh|King Technologies Co|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|20|212.174.79.177|8080|Türkiye|Sanliurfa|Turk Telekomunikasyon Anonim Sirketi|
+|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|45.201.136.117|9812|Cambodia|Phnom Penh|King Technologies Co|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|12|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|14|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
+|15|216.10.247.145|3128|India|Mumbai|PDR|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|18|152.26.231.94|9443|United States|Concord|MCNC|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
+|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
