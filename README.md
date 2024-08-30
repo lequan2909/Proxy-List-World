@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|7|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|8|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|116.212.140.118|8080|Cambodia|Phnom Penh|MekongNet|
-|13|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|14|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|152.26.231.83|9443|United States|Concord|MCNC|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|103.87.212.140|8999|Bangladesh|Dhaka|Arifuzzaman Auni|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|6|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|7|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
+|10|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
+|11|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|13|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|85.89.172.66|8080|Poland|Lodz|TOYA Sp. z o.o.|
 
 
 
