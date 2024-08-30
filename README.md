@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|4|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 |6|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.189.249.194|1111|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|186.86.143.161|999|Colombia|San Gil|Telmex Colombia S.A.|
-|14|190.95.183.242|2020|Ecuador|General Villamil|Telconet S.A|
-|15|188.132.222.41|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|103.159.194.241|8080|Indonesia|Welahan|PT Giga Digital Nusantara|
-|18|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|152.26.229.34|9443|United States|Concord|MCNC|
+|9|103.155.197.98|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|10|103.149.238.27|3128|Indonesia|Pasuruan|PT BITNIAGA CIPTA GEMILANG|
+|11|3.8.158.173|3128|United Kingdom|London|Amazon Technologies Inc.|
+|12|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|202.93.244.54|8085|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|17|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|15.204.161.192|18080|United States|Reston|OVH SAS|
 
 
 
