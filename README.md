@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|103.36.10.0|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|11|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
-|12|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
-|13|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|160.248.190.254|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|152.26.229.46|9443|United States|Concord|MCNC|
-|18|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|107.155.65.11|3128|Singapore|Singapore|Primary|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|103.87.169.177|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|185.57.237.32|4411|Russia|Yablonitsy|LTD AtelRybinsk|
+|11|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|13|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|160.248.190.254|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|17|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|216.10.247.145|3128|India|Mumbai|PDR|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|190.95.202.210|999|Ecuador|Cuenca|Telconet S.A|
 
 
 
