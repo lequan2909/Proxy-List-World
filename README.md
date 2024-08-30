@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|4|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|5|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|58.147.186.226|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|15|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|17|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|188.132.203.107|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|103.156.217.101|1111|Indonesia|Cikarang|PT. Meiwa Mold Indonesia|
+|11|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|12|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|14.142.36.210|80|India|Navi Mumbai|Tata Communications Limited|
+|14|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
