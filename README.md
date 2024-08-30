@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.160.206.162|808|India|Morādābād|Moradabad Internet Services Private Limited|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |4|3.9.170.166|3128|United Kingdom|London|Amazon Technologies Inc.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|10|180.211.183.130|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
-|11|122.54.147.110|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|12|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|152.26.229.34|9443|United States|Concord|MCNC|
-|14|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
-|15|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|162.245.239.110|7070|United States|Portland|Wowrack.com|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|15.204.161.192|18080|United States|Reston|OVH SAS|
-|19|152.26.231.83|9443|United States|Concord|MCNC|
-|20|112.5.61.134|3128|China|Guangzhou|China Mobile|
+|6|1.20.203.226|8080|Thailand|Surat Thani|TOT Public Company Limited|
+|7|122.3.77.27|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|8|103.160.206.162|808|India|Morādābād|Moradabad Internet Services Private Limited|
+|9|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|12|121.101.132.18|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|13|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|14|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
+|15|152.26.229.34|9443|United States|Concord|MCNC|
+|16|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|67.43.227.227|5619|Canada|Montreal|GloboTech Communications|
+|18|203.29.27.200|7777|Indonesia|Jember|PT Indotrans Data|
+|19|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
