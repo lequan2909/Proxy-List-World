@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|110.77.241.145|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
-|7|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|52.53.218.214|3128|United States|San Jose|Amazon.com, Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|36.95.249.157|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|52.53.218.214|3128|United States|San Jose|Amazon.com, Inc.|
-|15|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|16|15.204.161.192|18080|United States|Reston|OVH SAS|
-|17|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|20|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
+|4|110.77.241.145|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
+|5|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|6|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|12|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|14|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|85.209.87.253|8005|United States|Kansas City|UnReal Servers, LLC|
+|17|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|18|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|160.248.4.210|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
