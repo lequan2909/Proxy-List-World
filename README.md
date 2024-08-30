@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|6|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|89.232.202.106|3128|Russia|Khanty-Mansiysk|Rostelecom networks|
-|13|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|15.204.161.192|18080|United States|Reston|OVH SAS|
-|17|3.8.158.173|3128|United Kingdom|London|Amazon Technologies Inc.|
-|18|122.50.7.246|7777|Indonesia|Jakarta|MORATELINDONAP|
-|19|210.61.207.92|3128|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|20|72.10.164.178|4285|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|202.137.8.149|8080|Indonesia|Bekasi|LINKNET|
+|10|1.20.203.226|8080|Thailand|Surat Thani|TOT Public Company Limited|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|179.104.65.103|8080|Brazil|Nova Serrana|ALGAR TELECOM S/A|
+|13|210.61.207.92|3128|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|14|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|18|103.217.224.46|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|19|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
