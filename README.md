@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|112.198.179.242|8082|Philippines|Carmona|Globe Telecom|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|8|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|45.201.136.117|9812|Cambodia|Phnom Penh|King Technologies Co|
+|11|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
+|12|125.167.33.208|8080|Indonesia|Surabaya|PT. TELKOM INDONESIA|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
 |14|102.214.255.37|8082|Kenya|Mombasa|SMA FIBERNET|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|114.7.160.142|8080|Indonesia|Tangerang|PT. INDOSAT Tbk|
-|17|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|45.201.136.117|9812|Cambodia|Phnom Penh|King Technologies Co|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|18|201.222.83.146|999|Bolivia|Warnes|Cotas Ltda.|
+|19|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
