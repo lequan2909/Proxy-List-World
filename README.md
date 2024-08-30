@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|45.55.156.110|3128|United States|Clifton|DigitalOcean, LLC|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|45.55.156.110|3128|United States|Clifton|DigitalOcean, LLC|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|144.86.187.46|3129|United States|Malden|Charles River Operation|
-|11|144.86.187.61|3129|United States|Malden|Charles River Operation|
-|12|144.86.187.53|3129|United States|Malden|Charles River Operation|
-|13|144.86.187.62|3129|United States|Malden|Charles River Operation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|182.52.131.149|8080|Thailand|Bangkok|TOT Public Company Limited|
-|16|144.86.187.55|3129|United States|Malden|Charles River Operation|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|19|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|45.55.156.110|3128|United States|Clifton|DigitalOcean, LLC|
+|6|182.52.131.149|8080|Thailand|Bangkok|TOT Public Company Limited|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|45.55.156.110|3128|United States|Clifton|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
