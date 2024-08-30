@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|5|3.8.48.245|3128|United Kingdom|London|Amazon Technologies Inc.|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|69.30.243.66|8001|United States|Kansas City|WholeSale Internet|
-|10|3.8.31.234|3128|United Kingdom|London|Amazon Technologies Inc.|
-|11|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|81.19.141.2|3128|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|182.253.109.244|8080|Indonesia|Semarang|Biznet Metronet|
-|16|203.29.27.200|7777|Indonesia|Jember|PT Indotrans Data|
-|17|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
-|18|181.49.177.198|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|19|15.204.161.192|18080|United States|Reston|OVH SAS|
-|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|6|3.8.48.245|3128|United Kingdom|London|Amazon Technologies Inc.|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|203.190.44.81|1111|Indonesia|Jogonalan|PT Jaring Lintas Utara|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|182.253.109.244|8080|Indonesia|Semarang|Biznet Metronet|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
+|15|203.29.27.200|7777|Indonesia|Jember|PT Indotrans Data|
+|16|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|17|160.248.190.254|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|19|52.53.218.214|3128|United States|San Jose|Amazon.com, Inc.|
+|20|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
