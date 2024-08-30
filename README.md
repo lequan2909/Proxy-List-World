@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|10|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|11|152.26.229.83|9443|United States|Concord|MCNC|
-|12|152.26.229.46|9443|United States|Concord|MCNC|
-|13|152.26.229.93|9443|United States|Concord|MCNC|
-|14|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|72.10.164.178|4223|Canada|Montreal|GloboTech Communications|
-|17|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|103.24.125.33|83|India|Hyderabad|Pioneer Elabs Ltd.|
+|1|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|9|157.15.44.105|7777|Indonesia|Kalibuntu|PT Sheep Network Teknologi|
+|10|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|11|110.77.241.145|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
+|12|152.26.229.83|9443|United States|Concord|MCNC|
+|13|152.26.229.46|9443|United States|Concord|MCNC|
+|14|152.26.229.93|9443|United States|Concord|MCNC|
+|15|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
+|16|72.10.164.178|9639|Canada|Montreal|GloboTech Communications|
+|17|185.17.146.18|8080|Germany|Frankfurt am Main|LeaseWeb DE|
+|18|152.26.229.86|9443|United States|Concord|MCNC|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
 
 
 
