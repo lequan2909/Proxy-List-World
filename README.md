@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|400|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|400|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|400|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|15.235.143.67|2020|Singapore|Singapore|OVH SAS|
 |2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|20.83.26.240|3128|United States|Des Moines|Microsoft Corporation|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |9|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
-|10|20.83.26.240|3128|United States|Des Moines|Microsoft Corporation|
-|11|177.38.83.242|3177|Brazil|Boa Esperança|ZAP BL TELECOMUNICACOES LTDA|
-|12|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|13|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
-|14|103.217.224.46|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|15|59.11.85.221|3128|South Korea|Seongnam-si|Korea Telecom|
-|16|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|17|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|125.26.4.221|8080|Thailand|Bangkok|TOT Public Company Limited|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|12|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|103.159.90.42|83|India|Navi Mumbai|Pegasuswave Private Limited|
+|14|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|17|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|18|103.26.110.209|84|India|Chennai|Niss Networks|
+|19|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
