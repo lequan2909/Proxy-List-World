@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|15.235.143.67|2020|Singapore|Singapore|OVH SAS|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
-|9|185.243.181.238|8111|Turkey|Gaziantep|Kayizer Teknoloji Ltd. Sti.|
-|10|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|13|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|16|119.96.100.63|30000|China|Shizishan|CHINANET Hubei province network|
-|17|58.136.238.61|8080|Thailand|Bangkok|AIS-Fibre|
-|18|181.39.24.157|999|Ecuador|Guayaquil|Telconet S.A|
-|19|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
-|20|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|15.235.143.67|2020|Singapore|Singapore|OVH SAS|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|103.245.16.35|8080|Indonesia|Depok|PT Quantum Tera Network|
+|10|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|89.221.225.229|8118|Israel|Petah Tikva|Stark Industries Solutions LTD|
+|13|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|14|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|15|154.72.67.190|8080|Tanzania|Dar es Salaam|RAHA-LTZ|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|186.249.227.26|3128|Brazil|Belo Horizonte|Century Telecom Ltda|
+|18|187.73.225.96|777|Brazil|Serra|Intervip Networks Ltda.|
+|19|179.189.236.201|20183|Brazil|São Paulo|America-NET Ltda.|
+|20|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
