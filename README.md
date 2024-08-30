@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|5|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|6|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|7|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|10|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|146.196.41.141|8080|Indonesia|Karawang|UNINA|
-|13|144.24.204.126|8118|France|Marseille|Oracle Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|156.254.240.222|40053|Hong Kong|Hong Kong|AresIDC Limited|
+|8|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
 |14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|117.40.32.133|8080|China|Taohua|Chinanet|
-|18|157.66.85.104|8181|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|16|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|17|203.150.113.246|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|18|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|110.137.26.233|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
 
 
 
