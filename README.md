@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|499|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|499|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|499|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|471|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|471|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|471|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|15.235.143.67|2020|Singapore|Singapore|OVH SAS|
-|4|160.248.191.6|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|8|8.215.41.90|8080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|209.14.84.51|8888|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
-|11|45.114.88.214|8080|Bangladesh|Dhaka|THE NET HEADS|
-|12|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|103.168.44.105|3127|Indonesia|Jakarta|PT CYB Media Group|
-|14|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|15|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|16|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|163.172.33.137|4000|France|Vitry-sur-Seine|Online S.A.S.|
-|19|15.204.161.192|18080|United States|Reston|OVH SAS|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|2|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|139.180.223.164|3128|Singapore|Singapore|Choopa|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|9|65.49.194.127|8888|United States|Los Angeles|IT7 Networks Inc|
+|10|15.235.143.67|2020|Singapore|Singapore|OVH SAS|
+|11|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|12|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|16|62.173.146.70|3128|Russia|Moscow|Internet-Cosmos Ltd.|
+|17|173.249.60.246|14344|Germany|Nuremberg|Contabo GmbH|
+|18|91.238.105.56|8080|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|19|159.138.123.253|8080|Singapore|Singapore|Huawei International Pte. LTD|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
