@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|20.15.237.25|80|United States|Des Moines|Microsoft Corporation|
-|5|20.15.237.25|80|United States|Des Moines|Microsoft Corporation|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|156.254.239.198|40062|Hong Kong|Hong Kong|AresIDC Limited|
+|5|156.254.239.206|40160|Hong Kong|Hong Kong|AresIDC Limited|
 |6|15.204.161.192|18080|United States|Reston|OVH SAS|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
-|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|103.156.74.156|8080|Indonesia|Gianyar|PT Trika Global Media|
-|11|210.61.207.92|3128|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|12|222.127.55.214|5050|Philippines|Lahug|INNOVE|
-|13|216.10.247.145|3128|India|Mumbai|PDR|
-|14|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|103.125.154.233|8080|India|Tirupur|Live Fibernet|
-|16|152.26.229.46|9443|United States|Concord|MCNC|
-|17|152.26.231.83|9443|United States|Concord|MCNC|
-|18|95.0.168.62|1981|Türkiye|Karkamış|Turk Telekomunikasyon Anonim Sirketi|
-|19|156.254.239.206|40160|Hong Kong|Hong Kong|AresIDC Limited|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|210.61.207.92|3128|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|10|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|11|69.30.202.186|8003|United States|Kansas City|WholeSale Internet|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
+|14|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|103.46.4.101|8080|Indonesia|Pekanbaru|PT Akses Sentral Teknologi|
+|16|117.40.32.133|8080|China|Taohua|Chinanet|
+|17|190.61.80.98|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
+|18|187.49.86.114|8222|Brazil|Cascavel|DIGITAL DESIGN SERVIÇOS DE TELECOMUNICAÇÕES EIRELI|
+|19|20.15.237.25|80|United States|Des Moines|Microsoft Corporation|
+|20|20.15.237.25|80|United States|Des Moines|Microsoft Corporation|
 
 
 
