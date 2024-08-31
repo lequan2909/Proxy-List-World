@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|156.254.236.199|40019|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|5|203.138.144.110|3128|Japan|Sapporo|SIMPLEIA|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|203.138.144.110|3128|Japan|Sapporo|SIMPLEIA|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|156.254.241.218|40201|Hong Kong|Hong Kong|AresIDC Limited|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|182.253.109.27|8080|Indonesia|Semarang|Biznet Metronet|
-|11|103.143.168.130|84|India|Hyderabad|Aspt Networks Pvt Ltd|
-|12|156.254.237.206|40044|Hong Kong|Hong Kong|AresIDC Limited|
+|8|182.253.109.27|8080|Indonesia|Semarang|Biznet Metronet|
+|9|156.254.238.200|40205|Hong Kong|Hong Kong|AresIDC Limited|
+|10|156.254.236.199|40019|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|11|74.103.66.15|80|United States|Sparrows Point|Verizon Business|
+|12|156.254.237.200|40173|Hong Kong|Hong Kong|AresIDC Limited|
 |13|103.105.76.65|8080|Indonesia|Bojonegoro|GARUDA|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|190.61.90.117|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
-|16|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|17|109.205.126.6|8080|Latvia|Riga|Kronospan Riga SIA|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|190.94.213.109|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|16|156.254.243.195|40027|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|17|156.254.241.218|40201|Hong Kong|Hong Kong|AresIDC Limited|
 |18|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
-|19|156.254.243.195|40027|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|20|156.254.237.206|40044|Hong Kong|Hong Kong|AresIDC Limited|
 
 
 
