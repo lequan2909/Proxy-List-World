@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|139.59.224.134|8888|Singapore|Singapore|DIGITALOCEAN|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|103.231.203.234|8080|Indonesia|Bekasi|East Regional|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|103.247.22.151|7777|Indonesia|Bekasi|PT wifian Solution|
-|12|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|13|220.150.76.92|6000|Japan|Chiyoda|FreeBit Co., Ltd.|
-|14|117.40.32.133|8080|China|Taohua|Chinanet|
-|15|191.243.46.166|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|16|188.132.150.87|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|69.30.202.186|8003|United States|Kansas City|WholeSale Internet|
-|19|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|139.59.224.134|8888|Singapore|Singapore|DIGITALOCEAN|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|190.61.80.98|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|206.237.98.238|813|Indonesia|Jakarta|PT Herza Digital Indonesia|
+|15|103.17.182.130|8585|Indonesia|Jakarta|PT Tinelo Digital Network|
+|16|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|46.161.194.65|1976|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|19|103.153.246.142|8181|Indonesia|Purwakarta|PRIMAHOME|
+|20|117.40.32.133|8080|China|Taohua|Chinanet|
 
 
 
