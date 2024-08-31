@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|418|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|418|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|418|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|12|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
-|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|156.254.238.210|40089|Hong Kong|Hong Kong|AresIDC Limited|
+|9|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|10|156.254.238.201|40208|Hong Kong|Hong Kong|AresIDC Limited|
+|11|156.254.241.216|40143|Hong Kong|Hong Kong|AresIDC Limited|
+|12|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|156.254.242.195|40081|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
 |14|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|156.254.237.194|40066|Hong Kong|Hong Kong|AresIDC Limited|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|156.254.242.195|40081|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|19|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|20|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|156.254.239.198|40062|Hong Kong|Hong Kong|AresIDC Limited|
+|18|15.204.161.192|18080|United States|Reston|OVH SAS|
+|19|15.235.143.67|2020|Singapore|Singapore|OVH SAS|
+|20|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
