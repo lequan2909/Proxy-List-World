@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.48.68.218|83|India|Hyderabad|Country Online Services PVT LTD|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|156.254.241.217|40112|Hong Kong|Hong Kong|AresIDC Limited|
-|5|156.254.237.214|40055|Hong Kong|Hong Kong|AresIDC Limited|
-|6|117.40.32.133|8080|China|Taohua|Chinanet|
-|7|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
-|10|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|12|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
-|13|152.26.229.86|9443|United States|Concord|MCNC|
-|14|115.127.19.163|9090|Bangladesh|Dhaka|BRACNet Limited|
-|15|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
-|17|152.26.231.93|9443|United States|Concord|MCNC|
-|18|159.196.66.4|3128|Australia|Melbourne|Aussie Broadband|
-|19|152.26.231.94|9443|United States|Concord|MCNC|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|156.254.243.208|40165|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|2|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|156.254.237.214|40055|Hong Kong|Hong Kong|AresIDC Limited|
+|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|9|117.40.32.133|8080|China|Taohua|Chinanet|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|152.26.229.86|9443|United States|Concord|MCNC|
+|13|72.10.164.178|11885|Canada|Montreal|GloboTech Communications|
+|14|152.26.231.93|9443|United States|Concord|MCNC|
+|15|216.10.247.145|3128|India|Mumbai|PDR|
+|16|117.40.32.133|8080|China|Taohua|Chinanet|
+|17|152.26.231.94|9443|United States|Concord|MCNC|
+|18|111.26.37.239|10003|China|Jilin City|China Mobile communications corporation|
+|19|160.248.190.241|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
