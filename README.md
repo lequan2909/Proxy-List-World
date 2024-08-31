@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|156.254.240.210|40118|Hong Kong|Hong Kong|AresIDC Limited|
-|4|49.147.133.154|8081|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|5|103.191.115.252|83|India|Bānka|Xpress Fiber Private Limited|
-|6|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|8|103.36.10.0|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|210.87.125.146|8080|Indonesia|Kediri|CV Brawijaya Giga Network|
-|11|103.105.55.51|9090|Indonesia|Klaten|PT. Mega Artha Lintas Data|
-|12|181.209.82.206|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|13|188.166.222.236|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|189.127.190.109|8080|Brazil|Xapuri|Govista Telecomunicao Importacao Ltda|
-|18|152.26.229.47|9443|United States|Concord|MCNC|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|156.254.240.210|40118|Hong Kong|Hong Kong|AresIDC Limited|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|36.67.223.231|8090|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|5.56.124.176|6734|Moldova|Chisinau|JSC "Moldtelecom" S.A|
+|7|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|101.255.209.242|8080|Indonesia|Jakarta|PT Remala Abadi|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|13|152.26.231.42|9443|United States|Concord|MCNC|
+|14|152.26.229.47|9443|United States|Concord|MCNC|
+|15|152.26.229.42|9443|United States|Concord|MCNC|
+|16|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|160.248.190.254|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
 
 
 
