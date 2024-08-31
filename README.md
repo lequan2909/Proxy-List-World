@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
-|5|15.235.143.67|2020|Singapore|Singapore|OVH SAS|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|8|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|15.235.143.67|2020|Singapore|Singapore|OVH SAS|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|8|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|11|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |14|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|17|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|18|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|19|15.204.161.192|18080|United States|Reston|OVH SAS|
-|20|182.253.109.177|8080|Indonesia|Semarang|Biznet Metronet|
+|16|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|19|175.143.205.175|3128|Malaysia|Puchong Batu Dua Belas|TM TECHNOLOGY SERVICES SDN BHD|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
