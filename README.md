@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.204.161.192|18080|United States|Reston|OVH SAS|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|156.254.239.198|40062|Hong Kong|Hong Kong|AresIDC Limited|
-|10|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|11|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|156.254.240.197|40129|Hong Kong|Hong Kong|AresIDC Limited|
-|14|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|8|156.254.240.197|40129|Hong Kong|Hong Kong|AresIDC Limited|
+|9|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|10|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|103.156.15.64|1080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|12|181.204.81.178|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|14|156.254.240.209|40005|Hong Kong|Hong Kong|AresIDC Limited|
 |15|156.254.243.208|40165|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|16|15.204.161.192|18080|United States|Reston|OVH SAS|
-|17|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|19|103.88.113.202|8080|Vietnam|Hanoi|HTCITC|
-|20|181.209.96.156|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|177.23.176.58|8080|Brazil|Rio de Janeiro|JM TELECOMUNICACOES E MANUTENCAO DE COMP. EIRELI|
+|20|156.254.242.195|40081|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
 
 
 
