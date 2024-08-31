@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|5|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|201.47.88.21|3128|Brazil|Maringá|Vivo|
-|10|15.235.171.218|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
-|11|156.254.239.198|40062|Hong Kong|Hong Kong|AresIDC Limited|
-|12|103.189.250.65|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|117.68.38.145|29471|China|Hefei|China Telecom|
-|15|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
-|17|160.248.191.6|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|115.127.19.163|9090|Bangladesh|Dhaka|BRACNet Limited|
-|19|67.43.236.19|15481|Canada|Montreal|GloboTech Communications|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|210.87.125.146|8080|Indonesia|Kediri|CV Brawijaya Giga Network|
+|6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|117.40.32.133|8080|China|Taohua|Chinanet|
+|9|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|13|152.26.231.83|9443|United States|Concord|MCNC|
+|14|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|15|67.43.236.19|8893|Canada|Montreal|GloboTech Communications|
+|16|160.248.191.6|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|152.26.231.86|9443|United States|Concord|MCNC|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|106.227.87.11|3128|China|Taohua|China Telecom|
 
 
 
