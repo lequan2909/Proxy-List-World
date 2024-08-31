@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|15.235.143.67|2020|Singapore|Singapore|OVH SAS|
-|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|11|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|12|156.254.237.194|40066|Hong Kong|Hong Kong|AresIDC Limited|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|156.254.240.197|40129|Hong Kong|Hong Kong|AresIDC Limited|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|17|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|156.254.240.197|40129|Hong Kong|Hong Kong|AresIDC Limited|
+|8|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|9|156.254.241.216|40143|Hong Kong|Hong Kong|AresIDC Limited|
+|10|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|13|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|14|103.123.168.202|3932|Bangladesh|Āshuganj City|Sajid Trading Ltd|
+|15|156.254.237.194|40066|Hong Kong|Hong Kong|AresIDC Limited|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|101.255.116.125|8080|Indonesia|Jakarta|PT Remala Abadi|
+|18|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|20|27.112.70.42|8083|Indonesia|Jakarta|GRAHANET|
 
 
 
