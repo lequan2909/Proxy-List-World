@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|156.254.241.216|40143|Hong Kong|Hong Kong|AresIDC Limited|
+|3|34.97.45.196|8561|Japan|Osaka|Google LLC|
 |4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|7|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|5|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|12|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|18|153.122.62.109|8118|Japan|Chiyoda|GMO GlobalSign Holdings K.K.|
-|19|15.204.161.192|18080|United States|Reston|OVH SAS|
-|20|216.10.247.145|3128|India|Mumbai|PDR|
+|9|103.250.130.104|1111|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|156.254.237.194|40066|Hong Kong|Hong Kong|AresIDC Limited|
+|13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|14|156.254.240.197|40129|Hong Kong|Hong Kong|AresIDC Limited|
+|15|45.236.106.86|8080|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|16|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|17|156.254.238.217|40155|Hong Kong|Hong Kong|AresIDC Limited|
+|18|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|19|180.94.12.137|8080|Indonesia|Siak Sri Indrapura|PT Agsa Global Network|
+|20|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
