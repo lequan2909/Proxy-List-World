@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|156.254.241.213|40225|Hong Kong|Hong Kong|AresIDC Limited|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|10|203.138.144.49|3128|Japan|Sapporo|SIMPLEIA|
-|11|152.26.229.34|9443|United States|Concord|MCNC|
-|12|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|13|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|117.40.32.133|8080|China|Taohua|Chinanet|
-|15|38.52.208.4|999|Guatemala|Jalapa|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|16|72.10.164.178|13185|Canada|Montreal|GloboTech Communications|
+|5|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
+|6|101.255.40.98|8080|Indonesia|South Tangerang|PT Remala Abadi|
+|7|177.234.193.183|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|8|203.138.144.49|3128|Japan|Sapporo|SIMPLEIA|
+|9|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|10|152.26.229.34|9443|United States|Concord|MCNC|
+|11|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|12|72.10.160.91|8487|Canada|Montreal|GloboTech Communications|
+|13|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|14|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
+|16|117.40.32.133|8080|China|Taohua|Chinanet|
 |17|152.26.229.83|9443|United States|Concord|MCNC|
 |18|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|45.228.234.192|999|Guatemala|Guatemala City|Infinitum S.A.|
-|20|72.10.164.178|13185|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|15069|Canada|Montreal|GloboTech Communications|
+|20|202.183.209.77|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
 
 
 
