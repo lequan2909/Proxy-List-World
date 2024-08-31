@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|15.235.143.67|2020|Singapore|Singapore|OVH SAS|
-|6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|8|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|9|3.110.243.155|3128|India|Mumbai|Amazon Technologies Inc.|
-|10|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|3.8.176.170|3128|United Kingdom|London|Amazon Technologies Inc.|
-|13|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|16|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|41.173.7.82|8080|Uganda|Kampala|Liquid Telecommunications Ltd|
-|20|15.204.161.192|18080|United States|Reston|OVH SAS|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|15.235.143.67|2020|Singapore|Singapore|OVH SAS|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|7|156.254.238.203|40202|Hong Kong|Hong Kong|AresIDC Limited|
+|8|156.254.241.199|40052|Hong Kong|Hong Kong|AresIDC Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|3.8.176.170|3128|United Kingdom|London|Amazon Technologies Inc.|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|187.108.229.196|3998|Brazil|São Paulo|Ufinet Panama S.A.|
+|14|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|101.255.148.86|8085|Indonesia|Bekasi|PT Remala Abadi|
+|18|38.45.43.178|999|Dominican Republic|Santo Domingo|FENIX NETWORKS, S.R.L.|
+|19|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
