@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|15.235.143.67|2020|Singapore|Singapore|OVH SAS|
-|6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|8|3.110.243.155|3128|India|Mumbai|Amazon Technologies Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|3.8.176.170|3128|United Kingdom|London|Amazon Technologies Inc.|
-|11|103.156.17.171|8181|Indonesia|Indramayu|RSTNET|
-|12|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|14|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|15|156.254.241.199|40052|Hong Kong|Hong Kong|AresIDC Limited|
-|16|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|156.254.242.195|40081|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|19|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|20|114.5.199.197|80|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|182.16.169.178|8080|Indonesia|Depok|Cust Mwifo|
+|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|9|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|3.8.176.170|3128|United Kingdom|London|Amazon Technologies Inc.|
+|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|13|118.97.75.85|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|14|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|156.254.238.203|40202|Hong Kong|Hong Kong|AresIDC Limited|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|15.204.161.192|18080|United States|Reston|OVH SAS|
 
 
 
