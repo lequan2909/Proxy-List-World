@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.75.76.39|10001|Vietnam|Quận Gò Vấp|EZ Technology Company Limited|
-|6|156.254.237.194|40066|Hong Kong|Hong Kong|AresIDC Limited|
-|7|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|103.148.131.108|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|12|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|156.254.237.208|40072|Hong Kong|Hong Kong|AresIDC Limited|
-|14|154.73.29.129|8080|Libya|Tripoli|Rawafed|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|203.138.144.112|3128|Japan|Sapporo|SIMPLEIA|
-|17|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|18|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|19|152.26.229.34|9443|United States|Concord|MCNC|
-|20|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
+|5|156.254.236.218|40193|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|6|156.254.237.208|40072|Hong Kong|Hong Kong|AresIDC Limited|
+|7|156.254.237.194|40066|Hong Kong|Hong Kong|AresIDC Limited|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|11|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|14|181.209.122.75|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|15|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|19|203.138.144.112|3128|Japan|Sapporo|SIMPLEIA|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
