@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|156.254.239.198|40062|Hong Kong|Hong Kong|AresIDC Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|159.65.166.126|8118|United States|Clifton|DigitalOcean, LLC|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|156.254.237.208|40072|Hong Kong|Hong Kong|AresIDC Limited|
-|10|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|103.59.44.33|2022|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|15|202.61.120.182|8080|India|Chennai|Arjun Telecom Pvt. Ltd.|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|117.40.32.133|8080|China|Taohua|Chinanet|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|152.26.229.34|9443|United States|Concord|MCNC|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|159.65.166.126|8118|United States|Clifton|DigitalOcean, LLC|
+|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|8|117.40.32.133|8080|China|Taohua|Chinanet|
+|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|10|103.171.244.42|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|11|202.61.120.182|8080|India|Chennai|Arjun Telecom Pvt. Ltd.|
+|12|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|49.147.133.154|8081|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|14|72.10.164.178|25469|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|25469|Canada|Montreal|GloboTech Communications|
+|16|152.26.229.34|9443|United States|Concord|MCNC|
+|17|152.26.231.93|9443|United States|Concord|MCNC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|20|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
