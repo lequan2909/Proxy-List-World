@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.138.144.110|3128|Japan|Sapporo|SIMPLEIA|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|156.254.238.200|40205|Hong Kong|Hong Kong|AresIDC Limited|
-|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|156.254.240.197|40129|Hong Kong|Hong Kong|AresIDC Limited|
-|11|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|14|156.254.242.221|40093|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|190.61.90.117|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|190.94.212.36|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|19|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|20|203.138.144.112|3128|Japan|Sapporo|SIMPLEIA|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|203.138.144.110|3128|Japan|Sapporo|SIMPLEIA|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|156.254.238.200|40205|Hong Kong|Hong Kong|AresIDC Limited|
+|6|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|7|156.254.242.221|40093|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|156.254.240.197|40129|Hong Kong|Hong Kong|AresIDC Limited|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|200.24.153.151|999|Ecuador|Tosagua|Ufinet Panama S.A.|
+|16|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
+|17|156.254.236.218|40193|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|18|175.111.129.154|8080|India|Jaipur|Spiderlink Networks Pvt Ltd|
+|19|203.138.144.112|3128|Japan|Sapporo|SIMPLEIA|
+|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
