@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|156.254.241.222|40197|Hong Kong|Hong Kong|AresIDC Limited|
+|2|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|5|103.178.194.123|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
 |6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|103.169.131.26|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
-|8|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|12|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|72.10.164.178|16155|Canada|Montreal|GloboTech Communications|
-|15|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|16|72.10.164.178|16155|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|17979|Canada|Montreal|GloboTech Communications|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|152.26.229.83|9443|United States|Concord|MCNC|
-|20|72.10.164.178|16155|Canada|Montreal|GloboTech Communications|
+|7|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|8|36.93.214.253|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|9|103.169.131.26|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|10|156.254.237.208|40072|Hong Kong|Hong Kong|AresIDC Limited|
+|11|210.87.125.146|8080|Indonesia|Kediri|CV Brawijaya Giga Network|
+|12|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|92.246.136.39|80|Germany|Frankfurt am Main|Aeza International LTD|
+|14|154.73.29.129|8080|Libya|Tripoli|Rawafed|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|18|103.36.10.0|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
