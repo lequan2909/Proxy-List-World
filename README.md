@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|15.235.143.67|2020|Singapore|Singapore|OVH SAS|
-|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|103.255.241.101|8080|Indonesia|Semarang|PT Media Sarana Data|
-|20|190.2.209.61|999|Colombia|Tumaco|TV AZTECA SUCURSAL COLOMBIA|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|114.199.102.81|8080|Indonesia|South Tangerang|PT. Solusi Aksesindo Pratama|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|182.253.109.177|8080|Indonesia|Semarang|Biznet Metronet|
+|17|103.153.137.5|8080|Indonesia|Gorontalo|PT Andalas Global Network|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|200.114.87.4|8080|Argentina|Bosques|Citarella S.A.|
 
 
 
