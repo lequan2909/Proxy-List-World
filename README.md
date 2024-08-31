@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|5|156.254.238.209|40085|Hong Kong|Hong Kong|AresIDC Limited|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|156.254.237.208|40072|Hong Kong|Hong Kong|AresIDC Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|125.26.99.41|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|10|103.172.42.17|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|11|156.254.242.202|40149|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|156.254.240.209|40005|Hong Kong|Hong Kong|AresIDC Limited|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|103.148.131.108|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|3|156.254.242.211|40228|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|4|156.254.237.208|40072|Hong Kong|Hong Kong|AresIDC Limited|
+|5|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|6|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|7|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|156.254.242.202|40149|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|9|156.254.236.218|40193|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|43.252.11.68|8484|Indonesia|Jakarta|QUANTUMNET|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|200.170.253.122|8087|Brazil|Cachoeirinha|Telium Telecomunicações Ltda|
+|14|103.82.233.2|53281|Indonesia|Jakarta|PT. Jurnal Consulting Indonesia|
+|15|67.43.228.253|33081|Canada|Montreal|GloboTech Communications|
 |16|101.109.14.108|8080|Thailand|Pattaya|TOT Public Company Limited|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|88.80.103.9|6888|Bulgaria|Dupnitsa|UltraNET Ltd. C08|
-|19|156.254.242.199|40026|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|103.162.16.168|8080|Indonesia|Pati|PT Mega Data Perkasa|
+|18|223.205.182.32|8080|Thailand|Hat Yai|Triple T Broadband Public Company Limited|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
