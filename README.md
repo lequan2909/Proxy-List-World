@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|15.235.143.67|2020|Singapore|Singapore|OVH SAS|
-|7|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|8|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|11|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|12|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|182.253.109.177|8080|Indonesia|Semarang|Biznet Metronet|
-|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|18|15.204.161.192|18080|United States|Reston|OVH SAS|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|156.254.243.208|40165|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|9|15.235.143.67|2020|Singapore|Singapore|OVH SAS|
+|10|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|11|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|13|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|47.51.51.190|8080|United States|Glendale|Charter Communications|
+|18|182.253.109.177|8080|Indonesia|Semarang|Biznet Metronet|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
