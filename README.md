@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|6|139.59.224.134|8888|Singapore|Singapore|DIGITALOCEAN|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|101.255.118.10|3127|Indonesia|Jakarta|PT Remala Abadi|
-|11|94.231.192.207|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|191.102.248.2|8085|Argentina|Rosario|IP·RED|
-|13|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|14|115.147.20.176|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|203.128.75.194|8080|Indonesia|Jakarta|Neuviz|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|139.59.224.134|8888|Singapore|Singapore|DIGITALOCEAN|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|181.209.96.156|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|10|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|103.247.22.233|3127|Indonesia|Bekasi|PT wifian Solution|
+|14|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|15|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
+|16|186.125.218.145|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|17|180.211.183.130|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|18|202.183.209.77|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|19|110.78.146.74|3127|Thailand|Ao Nang|CAT-BB|
+|20|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
