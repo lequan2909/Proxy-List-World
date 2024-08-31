@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|391|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|391|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|391|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|15.235.143.67|2020|Singapore|Singapore|OVH SAS|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|15.235.143.67|2020|Singapore|Singapore|OVH SAS|
+|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|46.229.215.90|3128|Russia|St Petersburg|TIMEWEB|
-|13|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|103.159.194.131|8080|Indonesia|Welahan|PT Giga Digital Nusantara|
+|9|171.241.193.60|10001|Vietnam|Thanh Hóa|Viettel Corporation|
+|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|11|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|46.229.215.90|3128|Russia|St Petersburg|TIMEWEB|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|103.143.196.66|8080|Indonesia|Sragen|JERNIHNETWORK|
+|16|103.36.11.246|8181|Indonesia|Pandeglang|PT Awinet Global Mandiri|
+|17|103.69.20.104|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|18|183.89.205.173|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
 |19|156.254.243.208|40165|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|20|182.253.109.177|8080|Indonesia|Semarang|Biznet Metronet|
+|20|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 
 
 
