@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|156.254.240.209|40005|Hong Kong|Hong Kong|AresIDC Limited|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|101.109.14.108|8080|Thailand|Pattaya|TOT Public Company Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
 |7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|9|101.109.14.108|8080|Thailand|Pattaya|TOT Public Company Limited|
-|10|103.5.107.6|8080|Indonesia|Jakarta|Maxindo|
-|11|121.101.132.18|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|12|36.93.8.34|11000|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|13|117.40.32.133|8080|China|Taohua|Chinanet|
-|14|45.70.85.33|58080|Brazil|Araçatuba|B.B.S COMUNICAÇÕES LTDA ME|
-|15|58.136.238.61|8080|Thailand|Bangkok|AIS-Fibre|
-|16|36.91.133.49|10000|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|181.209.122.75|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|8|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|117.40.32.133|8080|China|Taohua|Chinanet|
+|11|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|15|152.26.229.83|9443|United States|Concord|MCNC|
+|16|183.88.214.44|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|17|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
