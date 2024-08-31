@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|156.254.243.195|40027|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|182.253.109.27|8080|Indonesia|Semarang|Biznet Metronet|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|175.100.91.212|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|14|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
-|16|156.254.238.200|40205|Hong Kong|Hong Kong|AresIDC Limited|
-|17|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|18|156.254.241.203|40009|Hong Kong|Hong Kong|AresIDC Limited|
-|19|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|20|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
+|2|203.138.144.112|3128|Japan|Sapporo|SIMPLEIA|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|156.254.241.219|40181|Hong Kong|Hong Kong|AresIDC Limited|
+|8|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|156.254.243.195|40027|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|15|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|138.59.187.1|666|Brazil|São Francisco do Conde|Icaro Oliveira DA Cunha - ME|
+|18|36.91.133.49|10000|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
+|19|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|156.254.241.203|40009|Hong Kong|Hong Kong|AresIDC Limited|
 
 
 
