@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|4|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
-|5|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|156.254.240.195|40060|Hong Kong|Hong Kong|AresIDC Limited|
-|7|216.10.247.145|3128|India|Mumbai|PDR|
-|8|140.227.122.55|3128|Japan|Tokyo|InfoSphere|
-|9|152.26.229.83|9443|United States|Concord|MCNC|
-|10|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|11|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
-|12|152.26.231.42|9443|United States|Concord|MCNC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|4|156.254.243.208|40165|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|5|89.221.225.229|8118|Israel|Petah Tikva|Stark Industries Solutions LTD|
+|6|117.40.32.133|8080|China|Taohua|Chinanet|
+|7|103.36.10.0|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|8|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|10|140.227.122.55|3128|Japan|Tokyo|InfoSphere|
+|11|152.26.231.42|9443|United States|Concord|MCNC|
+|12|152.26.229.83|9443|United States|Concord|MCNC|
 |13|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|152.26.231.83|9443|United States|Concord|MCNC|
-|15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|152.26.231.94|9443|United States|Concord|MCNC|
-|18|152.26.229.47|9443|United States|Concord|MCNC|
-|19|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|20|72.10.164.178|20219|Canada|Montreal|GloboTech Communications|
+|14|152.26.229.86|9443|United States|Concord|MCNC|
+|15|152.26.231.83|9443|United States|Concord|MCNC|
+|16|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|17|72.10.164.178|29327|Canada|Montreal|GloboTech Communications|
+|18|152.26.231.93|9443|United States|Concord|MCNC|
+|19|152.26.231.94|9443|United States|Concord|MCNC|
+|20|152.26.229.47|9443|United States|Concord|MCNC|
 
 
 
