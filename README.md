@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|156.254.237.208|40072|Hong Kong|Hong Kong|AresIDC Limited|
-|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|6|180.250.189.59|8581|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|203.14.18.242|8080|Indonesia|Metro|PT Izzinet Metro Multimedia|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|5|223.205.75.240|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.175.238.122|8085|Indonesia|Subang|PT Uliz Netmedia Solusindo|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
 |10|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|124.108.19.6|9292|India|Navi Mumbai|Advantus Corporate Infoserv Private Ltd|
-|12|156.254.237.198|40032|Hong Kong|Hong Kong|AresIDC Limited|
-|13|117.40.32.133|8080|China|Taohua|Chinanet|
-|14|206.42.28.150|8800|Brazil|Pereiro|Brisanet Prestacao De Servicos De Internet Ltda|
-|15|179.48.80.9|8085|Brazil|Teresina|Fbnet Telecom|
+|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|64.225.96.122|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|156.254.237.198|40032|Hong Kong|Hong Kong|AresIDC Limited|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|152.26.231.94|9443|United States|Concord|MCNC|
 |16|152.26.231.86|9443|United States|Concord|MCNC|
-|17|152.26.231.94|9443|United States|Concord|MCNC|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|64.225.96.122|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|103.232.20.158|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
