@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|101.109.14.108|8080|Thailand|Pattaya|TOT Public Company Limited|
-|5|103.125.51.25|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|6|103.120.167.109|8885|Bangladesh|Mādhabdi|Discovery Internet/ Madhabdi|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|9|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|15.235.171.245|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
-|11|23.162.160.1|16099|United States|McAllen|SMARTCOM TELEPHONE, LLC|
-|12|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
-|13|74.143.86.243|3128|United States|Louisville|Charter Communications|
-|14|186.96.174.168|80|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|152.26.229.34|9443|United States|Concord|MCNC|
-|18|152.26.229.47|9443|United States|Concord|MCNC|
-|19|67.43.228.253|31179|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.94|9443|United States|Concord|MCNC|
+|1|103.76.129.93|38006|Indonesia|Jakarta|PT Industri Kreatif Digital|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|103.48.68.218|83|India|Hyderabad|Country Online Services PVT LTD|
+|8|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|101.255.167.253|8080|Indonesia|Bekasi|PT Remala Abadi|
+|10|156.254.237.194|40066|Hong Kong|Hong Kong|AresIDC Limited|
+|11|117.40.32.133|8080|China|Taohua|Chinanet|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|186.96.174.168|80|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|14|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|19|152.26.229.34|9443|United States|Concord|MCNC|
+|20|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
