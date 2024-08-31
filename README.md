@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.190.241|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|20.169.242.13|3128|United States|Boydton|Microsoft Corporation|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|160.248.190.241|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|7|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|103.151.34.154|8080|Indonesia|Tangerang|GAYUHNET|
+|9|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|103.160.12.50|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
 |13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|216.10.247.145|3128|India|Mumbai|PDR|
-|17|45.230.51.4|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
-|18|103.165.155.229|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|19|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|156.254.238.203|40202|Hong Kong|Hong Kong|AresIDC Limited|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
+|16|103.69.20.56|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|17|72.10.164.178|30589|Canada|Montreal|GloboTech Communications|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|20|15.204.161.192|18080|United States|Reston|OVH SAS|
 
 
 
