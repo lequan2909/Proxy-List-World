@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|156.254.241.216|40143|Hong Kong|Hong Kong|AresIDC Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|101.109.57.158|8080|Thailand|Pattaya|TOT Public Company Limited|
-|7|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|8|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|9|156.254.242.199|40026|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|10|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|64.225.96.122|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|117.40.32.133|8080|China|Taohua|Chinanet|
-|13|156.254.241.213|40225|Hong Kong|Hong Kong|AresIDC Limited|
+|1|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|202.173.220.50|1122|Thailand|Bangkok|KIRZ Company Limited|
+|7|103.36.8.55|8181|Indonesia|Pandeglang|PT Awinet Global Mandiri|
+|8|64.225.96.122|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|11|156.254.241.213|40225|Hong Kong|Hong Kong|AresIDC Limited|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|117.40.32.133|8080|China|Taohua|Chinanet|
 |14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|190.94.212.249|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|16|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|18|152.26.231.93|9443|United States|Concord|MCNC|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 
 
 
