@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.138.144.110|3128|Japan|Sapporo|SIMPLEIA|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|182.253.109.27|8080|Indonesia|Semarang|Biznet Metronet|
-|5|20.15.237.25|80|United States|Des Moines|Microsoft Corporation|
-|6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|156.254.240.197|40129|Hong Kong|Hong Kong|AresIDC Limited|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|11|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
-|12|20.15.237.25|80|United States|Des Moines|Microsoft Corporation|
-|13|152.166.69.34|8080|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
-|14|77.238.79.111|8080|Bulgaria|Sofia|FIBER1|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|15.204.161.192|18080|United States|Reston|OVH SAS|
-|17|191.102.254.27|8083|Argentina|Rosario|IP·RED|
-|18|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|19|45.228.234.192|999|Guatemala|Guatemala City|Infinitum S.A.|
-|20|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|203.138.144.110|3128|Japan|Sapporo|SIMPLEIA|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|182.253.109.27|8080|Indonesia|Semarang|Biznet Metronet|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|10|156.254.238.200|40205|Hong Kong|Hong Kong|AresIDC Limited|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|152.32.64.43|8095|Philippines|Mandaluyong|Converge ICT Solution Inc|
+|13|116.197.132.201|8080|Indonesia|Bogor|PT. Fiber Networks Indonesia|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
+|17|156.254.240.197|40129|Hong Kong|Hong Kong|AresIDC Limited|
+|18|181.209.78.78|999|Argentina|General Mosconi|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
+|19|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|20|15.204.161.192|18080|United States|Reston|OVH SAS|
 
 
 
