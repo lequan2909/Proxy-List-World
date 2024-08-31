@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|156.254.237.194|40066|Hong Kong|Hong Kong|AresIDC Limited|
-|7|117.40.32.133|8080|China|Taohua|Chinanet|
-|8|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
-|9|87.242.9.167|53281|Hungary|Sárospatak|PR-TELECOM ZRt.|
-|10|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|11|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|152.26.231.94|9443|United States|Concord|MCNC|
-|13|152.26.229.42|9443|United States|Concord|MCNC|
-|14|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|15|152.26.231.42|9443|United States|Concord|MCNC|
-|16|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|152.26.229.46|9443|United States|Concord|MCNC|
-|18|152.26.229.47|9443|United States|Concord|MCNC|
-|19|152.26.231.86|9443|United States|Concord|MCNC|
-|20|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|2|103.200.17.246|8088|Indonesia|Central Java|PT Palapa Global Nusantara|
+|3|45.71.3.51|999|Ecuador|La Troncal|Sysnovelltel S.A|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|103.105.76.49|8080|Indonesia|Bojonegoro|GARUDA|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|8|117.40.32.133|8080|China|Taohua|Chinanet|
+|9|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|11|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|156.254.237.194|40066|Hong Kong|Hong Kong|AresIDC Limited|
+|13|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|152.26.231.94|9443|United States|Concord|MCNC|
+|15|152.26.229.42|9443|United States|Concord|MCNC|
+|16|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|202.51.121.59|8080|Indonesia|Kebon Sirih|PT iForte Global Internet|
+|19|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|152.26.229.47|9443|United States|Concord|MCNC|
 
 
 
