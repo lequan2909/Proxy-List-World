@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|103.76.129.93|38006|Indonesia|Jakarta|PT Industri Kreatif Digital|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|5|156.254.241.222|40197|Hong Kong|Hong Kong|AresIDC Limited|
-|6|156.254.239.206|40160|Hong Kong|Hong Kong|AresIDC Limited|
-|7|202.173.220.50|1122|Thailand|Bangkok|KIRZ Company Limited|
-|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|9|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|10|152.26.229.34|9443|United States|Concord|MCNC|
-|11|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|152.26.229.86|9443|United States|Concord|MCNC|
-|13|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|67.43.236.20|1965|Canada|Montreal|GloboTech Communications|
-|17|38.52.208.4|999|Guatemala|Jalapa|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|18|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|152.26.229.83|9443|United States|Concord|MCNC|
-|20|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|156.254.242.199|40026|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|6|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|7|156.254.241.213|40225|Hong Kong|Hong Kong|AresIDC Limited|
+|8|152.26.229.34|9443|United States|Concord|MCNC|
+|9|152.26.229.86|9443|United States|Concord|MCNC|
+|10|152.26.229.42|9443|United States|Concord|MCNC|
+|11|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|203.128.75.194|8080|Indonesia|Jakarta|Neuviz|
+|15|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|119.123.244.90|9000|China|Shenzhen|Chinanet|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|72.10.160.90|24733|Canada|Montreal|GloboTech Communications|
+|20|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
