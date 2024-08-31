@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|156.254.237.194|40066|Hong Kong|Hong Kong|AresIDC Limited|
-|13|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|14|156.254.241.216|40143|Hong Kong|Hong Kong|AresIDC Limited|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|17|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|8|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|156.254.240.209|40005|Hong Kong|Hong Kong|AresIDC Limited|
+|12|156.254.242.195|40081|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|13|27.112.70.42|8083|Indonesia|Jakarta|GRAHANET|
+|14|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|156.254.240.197|40129|Hong Kong|Hong Kong|AresIDC Limited|
+|18|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 
