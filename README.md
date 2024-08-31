@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|203.138.144.112|3128|Japan|Sapporo|SIMPLEIA|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|156.254.241.219|40181|Hong Kong|Hong Kong|AresIDC Limited|
-|9|156.254.242.220|40024|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|10|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|156.254.241.203|40009|Hong Kong|Hong Kong|AresIDC Limited|
-|13|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|4|156.254.241.217|40112|Hong Kong|Hong Kong|AresIDC Limited|
+|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|10|156.254.241.219|40181|Hong Kong|Hong Kong|AresIDC Limited|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|13|156.254.242.199|40026|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|14|156.254.241.203|40009|Hong Kong|Hong Kong|AresIDC Limited|
 |15|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
-|17|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|171.228.143.228|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
+|18|36.93.8.34|11000|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|19|190.90.39.78|999|Colombia|Arauca|InterNexa Global Network|
+|20|138.59.227.248|999|Paraguay|Ayolas|Aranda Cardozo Lider Ramon|
 
 
 
