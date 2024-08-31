@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |3|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|4|103.76.129.93|38006|Indonesia|Jakarta|PT Industri Kreatif Digital|
-|5|179.48.80.9|8085|Brazil|Teresina|Fbnet Telecom|
-|6|156.254.238.209|40085|Hong Kong|Hong Kong|AresIDC Limited|
-|7|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|8|156.254.242.211|40228|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|9|103.69.20.56|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|10|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|168.126.74.132|80|South Korea|Seongbuk-gu|Korea Telecom|
-|12|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|152.26.231.86|9443|United States|Concord|MCNC|
-|15|170.82.13.121|3600|Brazil|Porto Seguro|Netcenter Telecom|
-|16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|36.91.68.147|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|152.26.229.46|9443|United States|Concord|MCNC|
-|20|152.26.229.34|9443|United States|Concord|MCNC|
+|4|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|5|156.254.241.213|40225|Hong Kong|Hong Kong|AresIDC Limited|
+|6|67.43.228.254|28103|Canada|Montreal|GloboTech Communications|
+|7|36.91.68.147|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|152.26.229.42|9443|United States|Concord|MCNC|
+|13|152.26.231.86|9443|United States|Concord|MCNC|
+|14|152.26.229.83|9443|United States|Concord|MCNC|
+|15|152.26.229.34|9443|United States|Concord|MCNC|
+|16|152.26.229.46|9443|United States|Concord|MCNC|
+|17|15.204.161.192|18080|United States|Reston|OVH SAS|
+|18|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|20|177.93.51.213|999|Colombia|Villavicencio|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
