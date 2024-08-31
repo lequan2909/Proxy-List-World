@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|15.235.143.67|2020|Singapore|Singapore|OVH SAS|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|15.235.143.67|2020|Singapore|Singapore|OVH SAS|
 |7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|10|62.122.205.30|8080|Ukraine|Ivano-Frankivsk|Uteam LTD|
-|11|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|12|156.254.242.195|40081|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|13|156.254.240.197|40129|Hong Kong|Hong Kong|AresIDC Limited|
+|8|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|156.254.240.197|40129|Hong Kong|Hong Kong|AresIDC Limited|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |14|156.254.239.198|40062|Hong Kong|Hong Kong|AresIDC Limited|
-|15|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|191.9.116.119|9010|Brazil|São Paulo|Vivo|
-|17|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|156.254.240.209|40005|Hong Kong|Hong Kong|AresIDC Limited|
-|19|27.112.70.42|8083|Indonesia|Jakarta|GRAHANET|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|19|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|20|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
