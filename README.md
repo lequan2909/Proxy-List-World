@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|156.254.242.202|40149|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|5|156.254.240.209|40005|Hong Kong|Hong Kong|AresIDC Limited|
-|6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|8|156.254.242.199|40026|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|9|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
-|13|117.40.32.133|8080|China|Taohua|Chinanet|
-|14|103.17.182.130|8585|Indonesia|Jakarta|PT Tinelo Digital Network|
-|15|103.217.224.46|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|16|203.138.144.112|3128|Japan|Sapporo|SIMPLEIA|
-|17|103.105.76.49|8080|Indonesia|Bojonegoro|GARUDA|
-|18|156.254.238.209|40085|Hong Kong|Hong Kong|AresIDC Limited|
-|19|36.255.84.69|83|India|Bengaluru|Gatik Business Solutions|
-|20|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|156.254.238.209|40085|Hong Kong|Hong Kong|AresIDC Limited|
+|6|103.76.129.93|38006|Indonesia|Jakarta|PT Industri Kreatif Digital|
+|7|156.254.242.202|40149|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|8|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|10|117.40.32.133|8080|China|Taohua|Chinanet|
+|11|203.138.144.112|3128|Japan|Sapporo|SIMPLEIA|
+|12|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|15|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|16|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|152.26.229.46|9443|United States|Concord|MCNC|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
