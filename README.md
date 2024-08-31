@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|203.138.144.90|3128|Japan|Sapporo|SIMPLEIA|
+|3|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |4|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|5|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|64.225.96.122|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|206.189.93.136|8888|Singapore|Singapore|DigitalOcean, LLC|
-|9|203.150.113.144|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|10|91.203.179.72|65056|Russia|Smolensk|MAN net Ltd.|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|7|156.254.241.222|40197|Hong Kong|Hong Kong|AresIDC Limited|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
 |13|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
-|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
+|14|117.40.32.133|8080|China|Taohua|Chinanet|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |17|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|152.26.229.93|9443|United States|Concord|MCNC|
+|18|181.39.24.157|999|Ecuador|Guayaquil|Telconet S.A|
+|19|177.93.51.213|999|Colombia|Villavicencio|TV AZTECA SUCURSAL COLOMBIA|
+|20|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
