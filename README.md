@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|203.138.144.110|3128|Japan|Sapporo|SIMPLEIA|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
-|6|182.253.109.27|8080|Indonesia|Semarang|Biznet Metronet|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|103.156.201.170|83|India|Brahmapur|Reis Network Solutions|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|20.15.237.25|80|United States|Des Moines|Microsoft Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|177.93.48.43|999|Colombia|Granada|TV AZTECA SUCURSAL COLOMBIA|
-|16|20.15.237.25|80|United States|Des Moines|Microsoft Corporation|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|103.41.33.165|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|19|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|20|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|203.138.144.110|3128|Japan|Sapporo|SIMPLEIA|
+|6|156.254.241.203|40009|Hong Kong|Hong Kong|AresIDC Limited|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|10|156.254.236.199|40019|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|182.253.109.27|8080|Indonesia|Semarang|Biznet Metronet|
+|13|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|156.254.237.200|40173|Hong Kong|Hong Kong|AresIDC Limited|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|156.254.243.195|40027|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|18|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
