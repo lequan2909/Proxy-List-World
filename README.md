@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.76.129.93|38006|Indonesia|Jakarta|PT Industri Kreatif Digital|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|4|72.10.160.172|28179|Canada|Montreal|GloboTech Communications|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.76.129.93|38006|Indonesia|Jakarta|PT Industri Kreatif Digital|
+|5|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|220.150.76.92|6000|Japan|Chiyoda|FreeBit Co., Ltd.|
-|8|156.254.237.194|40066|Hong Kong|Hong Kong|AresIDC Limited|
-|9|200.170.253.122|8087|Brazil|Cachoeirinha|Telium Telecomunicações Ltda|
-|10|117.40.32.133|8080|China|Taohua|Chinanet|
-|11|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
-|12|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|152.26.229.46|9443|United States|Concord|MCNC|
-|14|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|16|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|17|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|72.10.160.90|7625|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.83|9443|United States|Concord|MCNC|
-|20|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|58.69.137.62|8081|Philippines|Paombong|Philippine Long Distance Telephone Co.|
+|9|119.123.244.90|9000|China|Shenzhen|Chinanet|
+|10|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|11|103.58.95.5|8080|Bangladesh|Kāfrul|Metaphor Digital Media|
+|12|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|14|152.26.229.46|9443|United States|Concord|MCNC|
+|15|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|152.26.231.83|9443|United States|Concord|MCNC|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|152.26.231.94|9443|United States|Concord|MCNC|
+|19|152.26.229.47|9443|United States|Concord|MCNC|
+|20|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
