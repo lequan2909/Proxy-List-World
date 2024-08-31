@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.87.169.188|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|6|156.254.242.195|40081|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|7|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|10|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|11|156.254.241.216|40143|Hong Kong|Hong Kong|AresIDC Limited|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
-|16|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|19|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
+|2|156.254.241.216|40143|Hong Kong|Hong Kong|AresIDC Limited|
+|3|103.87.169.188|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|6|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|14|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|152.26.229.93|9443|United States|Concord|MCNC|
+|16|152.26.229.46|9443|United States|Concord|MCNC|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
