@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.168.44.86|3127|Indonesia|Jakarta|PT CYB Media Group|
-|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|36.67.223.231|8090|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|8|220.150.76.92|6000|Japan|Chiyoda|FreeBit Co., Ltd.|
-|9|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|10|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|58.147.186.31|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
-|12|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|13|188.132.222.162|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|14|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
-|15|203.29.27.200|7777|Indonesia|Jember|PT Indotrans Data|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|223.25.110.221|8090|Indonesia|Surabaya|SinergiNet|
-|19|152.26.231.86|9443|United States|Concord|MCNC|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|4|120.28.217.227|8082|Philippines|Cagayan de Oro|Globe Telecom|
+|5|103.189.96.38|8080|Indonesia|Sragen|Lintas Data Prima, PT|
+|6|103.184.66.37|8181|Indonesia|Pandeglang|PT Siber Tech Indonesia|
+|7|156.254.241.222|40197|Hong Kong|Hong Kong|AresIDC Limited|
+|8|202.5.60.46|5020|Bangladesh|Khulna|BBTS-NEW|
+|9|202.61.120.182|8080|India|Chennai|Arjun Telecom Pvt. Ltd.|
+|10|92.246.136.39|80|Germany|Frankfurt am Main|Aeza International LTD|
+|11|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|152.26.229.86|9443|United States|Concord|MCNC|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|72.10.164.178|10311|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
