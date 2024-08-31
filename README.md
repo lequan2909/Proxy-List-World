@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|2|203.138.144.110|3128|Japan|Sapporo|SIMPLEIA|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
-|10|156.254.242.221|40093|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|11|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|13|117.40.32.133|8080|China|Taohua|Chinanet|
-|14|193.30.13.21|999|Ecuador|Manta|Eliana Vanessa Morocho Oña|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|156.254.240.197|40129|Hong Kong|Hong Kong|AresIDC Limited|
+|9|156.254.242.221|40093|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|12|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
+|13|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|14|202.168.69.230|8080|Malaysia|Cyberjaya|Allo Technology Sdn. Bhd.|
 |15|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|203.138.144.90|3128|Japan|Sapporo|SIMPLEIA|
+|16|117.40.32.133|8080|China|Taohua|Chinanet|
+|17|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|181.209.82.195|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|19|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
