@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|223.205.75.240|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|4|64.225.96.122|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|8|66.96.235.34|8080|Indonesia|Jakarta|MYREPUBLIC|
-|9|202.51.121.59|8080|Indonesia|Kebon Sirih|PT iForte Global Internet|
-|10|160.248.190.241|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|188.132.150.87|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|12|117.40.32.133|8080|China|Taohua|Chinanet|
-|13|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|103.217.224.46|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|16|203.138.144.90|3128|Japan|Sapporo|SIMPLEIA|
-|17|67.43.228.254|28103|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.47|9443|United States|Concord|MCNC|
-|19|113.240.99.148|65007|China|Qingyuan|No.293, Wanbao Avenue|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|2|223.205.75.240|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|3|64.225.96.122|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|156.254.242.199|40026|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|7|107.155.65.11|3128|Singapore|Singapore|Primary|
+|8|193.30.13.21|999|Ecuador|Manta|Eliana Vanessa Morocho Oña|
+|9|190.95.202.210|999|Ecuador|Cuenca|Telconet S.A|
+|10|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|160.248.190.241|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|203.138.144.90|3128|Japan|Sapporo|SIMPLEIA|
+|14|152.26.229.47|9443|United States|Concord|MCNC|
+|15|113.240.99.148|65007|China|Qingyuan|No.293, Wanbao Avenue|
+|16|152.26.229.46|9443|United States|Concord|MCNC|
+|17|36.93.214.253|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|18|152.26.231.94|9443|United States|Concord|MCNC|
+|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.229.34|9443|United States|Concord|MCNC|
 
 
 
