@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|103.169.131.26|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
-|6|5.56.124.176|6734|Moldova|Chisinau|JSC "Moldtelecom" S.A|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|92.246.136.39|80|Germany|Frankfurt am Main|Aeza International LTD|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|12|110.78.146.74|3127|Thailand|Ao Nang|CAT-BB|
-|13|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|14|152.26.229.86|9443|United States|Concord|MCNC|
-|15|152.26.229.83|9443|United States|Concord|MCNC|
-|16|72.10.160.172|2273|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|27643|Canada|Montreal|GloboTech Communications|
-|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|19|152.26.229.34|9443|United States|Concord|MCNC|
-|20|165.16.6.153|1981|Libya|Benghazi|Aljeel Aljadeed Technology|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
+|6|156.254.240.210|40118|Hong Kong|Hong Kong|AresIDC Limited|
+|7|49.48.47.166|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|8|103.133.63.61|8080|Indonesia|Bandar Lampung|TLINK|
+|9|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|110.78.146.74|3127|Thailand|Ao Nang|CAT-BB|
+|11|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|12|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
+|14|152.26.229.83|9443|United States|Concord|MCNC|
+|15|152.26.229.34|9443|United States|Concord|MCNC|
+|16|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|67.43.228.253|5007|Canada|Montreal|GloboTech Communications|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|72.10.164.178|31175|Canada|Montreal|GloboTech Communications|
 
 
 
