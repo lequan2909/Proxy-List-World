@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|171.6.73.87|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|156.254.243.208|40165|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|5|156.254.241.217|40112|Hong Kong|Hong Kong|AresIDC Limited|
-|6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|156.254.239.206|40160|Hong Kong|Hong Kong|AresIDC Limited|
-|8|156.254.237.214|40055|Hong Kong|Hong Kong|AresIDC Limited|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|156.254.241.222|40197|Hong Kong|Hong Kong|AresIDC Limited|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|103.143.169.230|84|India|Hyderabad|Aspt Networks Pvt Ltd|
-|16|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|156.254.241.199|40052|Hong Kong|Hong Kong|AresIDC Limited|
-|18|117.40.32.133|8080|China|Taohua|Chinanet|
-|19|188.125.169.40|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|117.40.32.133|8080|China|Taohua|Chinanet|
+|10|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|152.26.231.83|9443|United States|Concord|MCNC|
+|15|152.26.229.46|9443|United States|Concord|MCNC|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|72.10.164.178|32837|Canada|Montreal|GloboTech Communications|
+|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
