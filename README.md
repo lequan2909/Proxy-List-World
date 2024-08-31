@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|9|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|156.254.241.194|40113|Hong Kong|Hong Kong|AresIDC Limited|
-|12|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|13|210.201.86.72|8080|Taiwan|Yingge District|Asia Pacific On-line Service Inc.|
-|14|177.36.14.137|8080|Brazil|Limoeiro|1telecom Servicos De Tecnologia EM Internet Ltda|
-|15|201.77.110.129|999|Mexico|Unión Campesina|Raul Duarte Urita|
-|16|139.5.64.108|80|India|New Delhi|National Crime Records Bureau|
-|17|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|117.40.32.133|8080|China|Taohua|Chinanet|
-|20|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|5|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|6|156.254.242.202|40149|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|7|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|156.254.243.195|40027|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|156.254.241.194|40113|Hong Kong|Hong Kong|AresIDC Limited|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|171.228.140.168|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
+|13|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|14|156.254.236.216|40138|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|15|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|156.254.241.222|40197|Hong Kong|Hong Kong|AresIDC Limited|
+|19|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
