@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|198.13.52.240|18080|Japan|Motoyoyogichō|The Constant Company|
-|6|103.48.68.218|83|India|Hyderabad|Country Online Services PVT LTD|
-|7|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|8|181.39.24.157|999|Ecuador|Guayaquil|Telconet S.A|
-|9|202.168.69.227|8080|Malaysia|Cyberjaya|Allo Technology Sdn. Bhd.|
-|10|103.105.76.49|8080|Indonesia|Bojonegoro|GARUDA|
-|11|77.77.210.90|21056|Bosnia and Herzegovina|Sarajevo|TELEMACH BH|
-|12|117.40.32.133|8080|China|Taohua|Chinanet|
-|13|152.26.229.34|9443|United States|Concord|MCNC|
-|14|152.26.231.94|9443|United States|Concord|MCNC|
-|15|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|16|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
-|17|121.101.132.18|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|18|72.10.164.178|5291|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|5291|Canada|Montreal|GloboTech Communications|
-|20|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|198.13.52.240|18080|Japan|Motoyoyogichō|The Constant Company|
+|4|156.254.237.208|40072|Hong Kong|Hong Kong|AresIDC Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|8|103.239.253.118|58080|Bangladesh|Dhaka|Carnival Internet|
+|9|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|10|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|11|156.254.239.211|40074|Hong Kong|Hong Kong|AresIDC Limited|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|117.40.32.133|8080|China|Taohua|Chinanet|
+|14|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|111.118.138.151|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|17|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|152.26.231.94|9443|United States|Concord|MCNC|
+|20|119.123.244.90|9000|China|Shenzhen|Chinanet|
 
 
 
