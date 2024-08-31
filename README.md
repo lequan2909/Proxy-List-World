@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|7|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|220.150.76.92|6000|Japan|Chiyoda|FreeBit Co., Ltd.|
-|13|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|16|185.57.237.32|4411|Russia|Yablonitsy|LTD AtelRybinsk|
-|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|19|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|7|15.235.143.67|2020|Singapore|Singapore|OVH SAS|
+|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|9|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|103.169.38.118|8080|Indonesia|Klaten|PT Boombas Carlo Medianet|
+|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|14|103.165.43.140|8080|Indonesia|Jagirsidosermo|PT iForte Global Internet|
+|15|103.169.133.34|8080|Indonesia|Majalengka|PT Alfa Omega Interkoneksi|
+|16|103.69.20.55|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|17|15.204.161.192|18080|United States|Reston|OVH SAS|
+|18|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
 
 
 
