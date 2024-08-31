@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|223.205.75.240|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|1|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|156.254.239.206|40160|Hong Kong|Hong Kong|AresIDC Limited|
-|6|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|156.254.242.199|40026|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|10|64.225.96.122|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|12|93.190.14.205|8080|Turkey|Osmangazi|Kobikom Telekomunikasyon Bilisim Hizmetler SAN VE TIC AS|
-|13|111.118.138.151|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|119.123.244.90|9000|China|Shenzhen|Chinanet|
-|17|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|18|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|19|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
-|20|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|223.205.75.240|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|4|156.254.242.199|40026|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|27.147.139.155|58080|Bangladesh|Dhaka|Corporate-Subscriber|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|64.225.96.122|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|223.25.110.221|8090|Indonesia|Surabaya|SinergiNet|
+|10|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|67.43.228.254|28103|Canada|Montreal|GloboTech Communications|
+|12|117.40.32.133|8080|China|Taohua|Chinanet|
+|13|36.91.68.147|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
+|16|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|17|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|18|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
+|20|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
