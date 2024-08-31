@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |2|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
 |3|156.254.239.212|40187|Hong Kong|Hong Kong|AresIDC Limited|
-|4|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|117.40.32.133|8080|China|Taohua|Chinanet|
-|7|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|152.26.229.34|9443|United States|Concord|MCNC|
-|11|72.10.160.170|6327|Canada|Montreal|GloboTech Communications|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|72.10.160.170|6327|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.172|23459|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.83|9443|United States|Concord|MCNC|
-|16|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|17|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
-|18|64.225.96.122|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|152.26.231.83|9443|United States|Concord|MCNC|
-|20|72.10.160.90|16583|Canada|Montreal|GloboTech Communications|
+|4|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|5|156.254.242.221|40093|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|6|103.105.76.49|8080|Indonesia|Bojonegoro|GARUDA|
+|7|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|152.26.229.34|9443|United States|Concord|MCNC|
+|9|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|152.26.229.83|9443|United States|Concord|MCNC|
+|11|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|12|111.26.37.239|10003|China|Jilin City|China Mobile communications corporation|
+|13|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|64.225.96.122|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|152.26.231.83|9443|United States|Concord|MCNC|
+|16|67.43.236.19|24665|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.170|15031|Canada|Montreal|GloboTech Communications|
+|18|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|72.10.164.178|11489|Canada|Montreal|GloboTech Communications|
+|20|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
 
 
 
