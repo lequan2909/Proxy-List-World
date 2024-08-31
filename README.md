@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |8|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|9|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|103.165.156.148|8090|Indonesia|Jember|MEGADATA-ISP|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|16|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|45.133.107.10|81|Russia|Mezmay|Art-net LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
+|13|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
+|14|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|19|182.253.109.177|8080|Indonesia|Semarang|Biznet Metronet|
+|20|15.204.161.192|18080|United States|Reston|OVH SAS|
 
 
 
