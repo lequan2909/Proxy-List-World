@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|203.138.144.110|3128|Japan|Sapporo|SIMPLEIA|
-|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|156.254.237.206|40044|Hong Kong|Hong Kong|AresIDC Limited|
-|7|20.15.237.25|80|United States|Des Moines|Microsoft Corporation|
+|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|203.138.144.110|3128|Japan|Sapporo|SIMPLEIA|
+|6|156.254.237.200|40173|Hong Kong|Hong Kong|AresIDC Limited|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |9|182.253.109.27|8080|Indonesia|Semarang|Biznet Metronet|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|116.197.132.201|8080|Indonesia|Bogor|PT. Fiber Networks Indonesia|
-|13|156.254.238.200|40205|Hong Kong|Hong Kong|AresIDC Limited|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
-|18|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|177.136.86.5|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
+|10|20.15.237.25|80|United States|Des Moines|Microsoft Corporation|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|124.107.144.249|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|20.15.237.25|80|United States|Des Moines|Microsoft Corporation|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|156.254.237.206|40044|Hong Kong|Hong Kong|AresIDC Limited|
+|16|103.143.168.130|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|17|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|18|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|103.41.35.153|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|20|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
 
 
 
