@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|408|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|408|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|408|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|163.172.33.137|4003|France|Vitry-sur-Seine|Online S.A.S.|
-|7|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|163.172.33.137|4000|France|Vitry-sur-Seine|Online S.A.S.|
+|6|52.185.132.193|8080|Japan|Tokyo|Microsoft Corporation|
+|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
+|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|10|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |14|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|16|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
-|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|18|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|20|113.125.82.11|3128|China|Guiyang|Cloud Computing Corporation|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|17|103.168.44.105|3127|Indonesia|Jakarta|PT CYB Media Group|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
+|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
