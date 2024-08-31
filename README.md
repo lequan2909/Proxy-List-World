@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|491|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|491|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|491|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|8|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|10|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|1|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|115.76.115.200|1006|Vietnam|Ho Chi Minh City|VIETELGPRS|
+|7|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|139.180.223.164|3128|Singapore|Singapore|Choopa|
-|13|65.49.194.127|8888|United States|Los Angeles|IT7 Networks Inc|
-|14|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|15.235.143.67|2020|Singapore|Singapore|OVH SAS|
-|17|62.173.146.70|3128|Russia|Moscow|Internet-Cosmos Ltd.|
-|18|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|19|91.238.105.56|8080|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|20|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|13|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|15|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|45.184.224.194|999|Ecuador|Quito|Media Commerce Medcomm S.A|
+|18|91.238.105.56|8080|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|19|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|20|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
 
 
 
