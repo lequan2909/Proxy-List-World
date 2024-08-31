@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 |3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
-|7|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|72.10.164.178|20067|Canada|Montreal|GloboTech Communications|
+|4|103.165.64.53|82|India|Raipur|Navyug Networks Info Private Limited|
+|5|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|6|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|8|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |9|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|10|152.26.231.94|9443|United States|Concord|MCNC|
-|11|152.26.229.42|9443|United States|Concord|MCNC|
-|12|152.26.231.83|9443|United States|Concord|MCNC|
-|13|72.10.164.178|20067|Canada|Montreal|GloboTech Communications|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|152.26.229.83|9443|United States|Concord|MCNC|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|72.10.164.178|20067|Canada|Montreal|GloboTech Communications|
-|19|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
-|20|72.10.164.178|20067|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|20585|Canada|Montreal|GloboTech Communications|
+|11|152.26.231.94|9443|United States|Concord|MCNC|
+|12|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|122.3.139.85|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|14|152.26.231.83|9443|United States|Concord|MCNC|
+|15|152.26.229.42|9443|United States|Concord|MCNC|
+|16|103.48.71.58|83|India|Hyderabad|Country Online Services PVT LTD|
+|17|181.37.240.89|999|Dominican Republic|Santiago de los Caballeros|Altice Dominicana S.A.|
+|18|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
