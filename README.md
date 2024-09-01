@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
 |5|15.204.161.192|18080|United States|Reston|OVH SAS|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|8|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|9|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|10|72.10.160.172|19967|Canada|Montreal|GloboTech Communications|
-|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|152.26.229.86|9443|United States|Concord|MCNC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|23.95.216.78|34561|United States|Marietta|HostPapa|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|23.95.216.78|34561|United States|Marietta|HostPapa|
+|12|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |13|152.26.229.83|9443|United States|Concord|MCNC|
-|14|67.43.228.253|2321|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|13461|Canada|Montreal|GloboTech Communications|
-|16|103.151.177.106|80|Indonesia|Jakarta|PT JASAMARGA TOLLROAD OPERATOR|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|72.10.164.178|13461|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|13461|Canada|Montreal|GloboTech Communications|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |19|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|20|117.40.32.133|8080|China|Taohua|Chinanet|
+|20|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
 
 
 
