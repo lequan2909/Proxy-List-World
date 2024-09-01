@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|4|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|7|23.95.216.78|34561|United States|Marietta|HostPapa|
 |8|54.149.53.151|3128|United States|Portland|Amazon.com, Inc.|
 |9|152.26.229.83|9443|United States|Concord|MCNC|
 |10|152.26.231.83|9443|United States|Concord|MCNC|
-|11|72.10.160.90|22033|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.94|11115|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.228|5301|Canada|Montreal|GloboTech Communications|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|67.43.227.226|5411|Canada|Montreal|GloboTech Communications|
-|16|160.248.191.6|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|160.248.191.6|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|72.10.160.94|11115|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|7647|Canada|Montreal|GloboTech Communications|
+|15|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|67.43.227.226|32091|Canada|Montreal|GloboTech Communications|
 |17|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
-|18|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|72.10.164.178|32935|Canada|Montreal|GloboTech Communications|
+|18|152.26.231.93|9443|United States|Concord|MCNC|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
