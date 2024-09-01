@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|1|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|192.53.114.26|80|Singapore|Singapore|Akamai Technologies, Inc.|
-|11|152.26.231.42|9443|United States|Concord|MCNC|
+|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|7|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|152.26.231.42|9443|United States|Concord|MCNC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|45.143.108.118|8080|Georgia|Tbilisi|Airmax LLC|
+|11|152.26.229.47|9443|United States|Concord|MCNC|
 |12|152.26.231.94|9443|United States|Concord|MCNC|
-|13|152.26.229.47|9443|United States|Concord|MCNC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
-|17|186.148.181.69|999|Colombia|Cogua|TV AZTECA SUCURSAL COLOMBIA|
-|18|117.68.38.188|32650|China|Hefei|China Telecom|
+|13|23.95.216.78|34561|United States|Marietta|HostPapa|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|15.204.161.192|18080|United States|Reston|OVH SAS|
+|18|46.39.105.40|8080|Sweden|Sundbyberg|Stockholms Stadsnat AB|
 |19|152.26.229.46|9443|United States|Concord|MCNC|
-|20|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
