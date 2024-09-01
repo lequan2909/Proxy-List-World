@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
 |5|156.254.239.211|40074|Hong Kong|Hong Kong|AresIDC Limited|
-|6|24.115.120.39|8888|United States|Lititz|PenTeleData Inc.|
+|6|156.254.238.200|40205|Hong Kong|Hong Kong|AresIDC Limited|
 |7|156.254.242.211|40228|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|8|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|156.254.240.197|40129|Hong Kong|Hong Kong|AresIDC Limited|
-|11|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|8|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|9|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |12|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|45.140.192.2|3128|Brazil|São Paulo|Qnax Ltda|
-|15|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|16|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|18|156.254.238.200|40205|Hong Kong|Hong Kong|AresIDC Limited|
-|19|152.26.229.47|9443|United States|Concord|MCNC|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|156.254.241.218|40201|Hong Kong|Hong Kong|AresIDC Limited|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|23.95.216.78|34561|United States|Marietta|HostPapa|
+|18|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
