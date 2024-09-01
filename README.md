@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |8|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|9|156.254.237.198|40032|Hong Kong|Hong Kong|AresIDC Limited|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|177.75.1.33|8080|Brazil|Formosa|Networld Provedor e Servicos de Internet Ltda|
-|19|156.254.242.202|40149|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|20|101.255.165.217|8080|Indonesia|Bekasi|PT Remala Abadi|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|11|103.156.17.241|8080|Indonesia|Indramayu|RSTNET|
+|12|119.47.90.241|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|13|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|14|134.35.176.254|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|15|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|16|103.125.19.30|8080|Indonesia|Tangerang|JAVAMEDIA|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|19|191.102.254.50|8083|Argentina|Rosario|IP·RED|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
