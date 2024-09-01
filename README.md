@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|66.31.131.217|8080|United States|Wayland|Comcast Cable Communications|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|156.254.237.198|40032|Hong Kong|Hong Kong|AresIDC Limited|
-|6|66.31.131.217|8080|United States|Wayland|Comcast Cable Communications|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|156.254.240.195|40060|Hong Kong|Hong Kong|AresIDC Limited|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|2|66.31.131.217|8080|United States|Wayland|Comcast Cable Communications|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|156.254.237.198|40032|Hong Kong|Hong Kong|AresIDC Limited|
+|5|103.191.58.60|8080|Indonesia|Nganjuk|Panjalu Sarana Data Indonesia|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|66.31.131.217|8080|United States|Wayland|Comcast Cable Communications|
+|8|156.254.240.195|40060|Hong Kong|Hong Kong|AresIDC Limited|
+|9|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|11|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|12|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|45.174.57.26|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|14|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
 |15|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |16|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |17|152.26.229.47|9443|United States|Concord|MCNC|
-|18|67.43.227.229|6573|Canada|Montreal|GloboTech Communications|
-|19|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|18|103.232.20.158|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
 
 
 
