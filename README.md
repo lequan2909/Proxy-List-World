@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|9|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|10|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
 |11|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|12|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|13|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|14|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|156.254.242.221|40093|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|17|95.216.78.251|3128|Finland|Helsinki|Hetzner Online GmbH|
+|12|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|15|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|16|144.48.162.101|8080|Bangladesh|Kāfrul|Cue Club Technology|
+|17|15.204.161.192|18080|United States|Reston|OVH SAS|
 |18|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|15.204.161.192|18080|United States|Reston|OVH SAS|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
