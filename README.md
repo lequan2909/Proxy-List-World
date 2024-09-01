@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|3|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|6|177.234.241.28|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|7|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|103.112.244.254|5656|Indonesia|Cikarang|PT. Tujuh Ion Indonesia|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|152.26.229.86|9443|United States|Concord|MCNC|
-|14|152.26.231.42|9443|United States|Concord|MCNC|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|17|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
-|18|182.253.17.173|8080|Indonesia|Jakarta|Biznet Networks|
-|19|223.205.182.32|8080|Thailand|Hat Yai|Triple T Broadband Public Company Limited|
-|20|152.26.231.83|9443|United States|Concord|MCNC|
+|1|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|206.189.45.83|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|8|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|9|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|177.234.241.24|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|11|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|12|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|13|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|14|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|177.234.241.28|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|18|23.95.216.78|34561|United States|Marietta|HostPapa|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|23.95.216.78|34561|United States|Marietta|HostPapa|
 
 
 
