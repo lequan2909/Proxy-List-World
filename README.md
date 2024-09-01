@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|11|103.247.22.151|7777|Indonesia|Bekasi|PT wifian Solution|
-|12|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|13|103.168.254.138|8086|Indonesia|Kudus|PT Fahasa Tri Data|
-|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|156.254.237.206|40044|Hong Kong|Hong Kong|AresIDC Limited|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|116.105.18.90|10004|Vietnam|Da Nang|Viettel Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|156.254.237.198|40032|Hong Kong|Hong Kong|AresIDC Limited|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|156.254.241.218|40201|Hong Kong|Hong Kong|AresIDC Limited|
+|14|144.48.162.101|8080|Bangladesh|Kāfrul|Cue Club Technology|
+|15|24.112.3.220|8080|United States|Durant|Vyve Broadband|
+|16|201.71.3.42|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
 |17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|190.94.212.82|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|177.55.50.45|8085|Brazil|Cambará|Webby Tecnologia Ltda|
+|18|156.254.237.206|40044|Hong Kong|Hong Kong|AresIDC Limited|
+|19|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|20|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
 
 
 
