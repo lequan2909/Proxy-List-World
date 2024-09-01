@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|12|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|13|38.156.72.86|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|178.128.81.181|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|144.86.187.44|3129|United States|Malden|Charles River Operation|
+|7|144.86.187.52|3129|United States|Malden|Charles River Operation|
+|8|144.86.187.48|3129|United States|Malden|Charles River Operation|
+|9|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|156.254.241.213|40225|Hong Kong|Hong Kong|AresIDC Limited|
+|11|144.86.187.34|3129|United States|Malden|Charles River Operation|
+|12|35.197.150.32|8888|Singapore|Singapore|Google LLC|
+|13|144.86.187.54|3129|United States|Malden|Charles River Operation|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|4.159.58.225|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|4.159.224.87|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|144.86.187.38|3129|United States|Malden|Charles River Operation|
-|19|20.26.45.67|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|45.140.192.2|3128|Brazil|São Paulo|Qnax Ltda|
+|15|45.140.192.2|3128|Brazil|São Paulo|Qnax Ltda|
+|16|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|17|20.26.45.67|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|15.204.161.192|18080|United States|Reston|OVH SAS|
+|19|4.234.64.36|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
 
 
 
