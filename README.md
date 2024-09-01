@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|156.254.242.202|40149|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|11|156.254.238.203|40202|Hong Kong|Hong Kong|AresIDC Limited|
-|12|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|13|51.255.204.242|8392|France|Gravelines|OVH SAS|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|16|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|203.190.44.252|8090|Indonesia|Jogonalan|PT Jaring Lintas Utara|
-|19|103.122.0.115|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
-|20|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|8|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|9|156.254.241.222|40197|Hong Kong|Hong Kong|AresIDC Limited|
+|10|156.254.241.213|40225|Hong Kong|Hong Kong|AresIDC Limited|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|181.78.79.63|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|16|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|17|103.87.169.199|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|18|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|19|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|20|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
 
 
 
