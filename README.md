@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|407|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|407|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|407|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|8|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|9|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|10|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|11|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|12|156.254.242.221|40093|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|14|156.254.240.195|40060|Hong Kong|Hong Kong|AresIDC Limited|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|103.126.86.200|3127|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
-|17|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|18|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|19|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|20|15.204.161.192|18080|United States|Reston|OVH SAS|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|8|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|11|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|103.168.44.18|8080|Indonesia|Jakarta|PT CYB Media Group|
+|14|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|185.243.181.238|8111|Turkey|Gaziantep|Kayizer Teknoloji Ltd. Sti.|
+|19|187.17.166.66|92|Brazil|Birigui|Ensite Brasil Telecomunicações Ltda - ME|
+|20|103.44.19.217|1111|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
 
 
 
