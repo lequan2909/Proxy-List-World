@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|420|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|420|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|420|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|15.204.161.192|18080|United States|Reston|OVH SAS|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|5|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|6|157.66.50.81|8080|Indonesia|Jakarta|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|7|4.234.106.25|8118|United Kingdom|City of London|Microsoft Corporation|
-|8|156.254.237.206|40044|Hong Kong|Hong Kong|AresIDC Limited|
+|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|156.254.240.195|40094|Hong Kong|Hong Kong|AresIDC Limited|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|115.248.66.131|3129|India|Hyderabad|Reliance Communications Limited|
+|8|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
 |9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|11|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|103.139.126.234|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|13|156.254.240.195|40060|Hong Kong|Hong Kong|AresIDC Limited|
-|14|134.35.222.212|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|15|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|15.204.161.192|18080|United States|Reston|OVH SAS|
-|20|36.255.86.113|83|India|Bengaluru|Gatik Business Solutions|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|200.35.50.22|5556|Colombia|Medellín|Edatel S.a. E.S.P|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|156.254.237.206|40044|Hong Kong|Hong Kong|AresIDC Limited|
+|15|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|16|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|18|103.69.20.56|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|19|152.26.229.47|9443|United States|Concord|MCNC|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
