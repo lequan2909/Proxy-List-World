@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|391|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|391|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|391|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|11|103.162.55.2|18080|Indonesia|Pamekasan|Institut Agama Islam Negeri Madura|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|36.91.68.150|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
-|14|156.254.236.216|40138|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|15|156.254.242.202|40149|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|16|202.40.177.46|8080|Bangladesh|Dhaka|Ranks ITT|
-|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|18|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|19|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|156.254.242.202|40149|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|10|156.254.236.216|40138|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|103.169.255.171|8080|Indonesia|Banyuwangi|PT Master Star Network|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|114.130.153.122|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|18|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|34.97.45.196|8561|Japan|Osaka|Google LLC|
 
 
 
