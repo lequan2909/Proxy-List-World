@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
 |7|157.230.254.171|8888|Singapore|Singapore|DigitalOcean, LLC|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|23.95.216.78|34561|United States|Marietta|HostPapa|
+|9|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
 |11|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |12|152.26.229.83|9443|United States|Concord|MCNC|
-|13|49.48.48.155|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
 |14|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|72.10.164.178|25705|Canada|Montreal|GloboTech Communications|
-|16|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|17|103.236.177.154|8081|Philippines|Manila|Infinivan Incorporated|
-|18|152.26.229.47|9443|United States|Concord|MCNC|
-|19|152.26.231.94|9443|United States|Concord|MCNC|
-|20|67.43.228.253|15587|Canada|Montreal|GloboTech Communications|
+|15|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|16|23.95.216.78|34561|United States|Marietta|HostPapa|
+|17|152.26.229.47|9443|United States|Concord|MCNC|
+|18|72.10.164.178|19515|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|19515|Canada|Montreal|GloboTech Communications|
+|20|152.26.231.94|9443|United States|Concord|MCNC|
 
 
 
