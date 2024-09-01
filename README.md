@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|144.86.187.60|3129|United States|Malden|Charles River Operation|
-|6|4.158.23.209|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|144.86.187.60|3129|United States|Malden|Charles River Operation|
-|10|4.234.64.36|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|101.128.93.144|8090|Indonesia|Jakarta|CBN|
-|13|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|14|144.86.187.42|3129|United States|Malden|Charles River Operation|
-|15|144.86.187.44|3129|United States|Malden|Charles River Operation|
-|16|200.115.100.129|8080|Brazil|São Paulo|FiberPon telecom|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|116.104.132.139|5020|Vietnam|Hanoi|Viettel Corporation|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|5|4.159.224.87|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|8|152.26.231.86|9443|United States|Concord|MCNC|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|11|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|12|111.26.37.239|10003|China|Jilin City|China Mobile communications corporation|
+|13|152.26.231.83|9443|United States|Concord|MCNC|
+|14|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|15|103.147.247.122|8080|Indonesia|Tangerang|PLBNET|
+|16|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|18|64.225.96.122|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
