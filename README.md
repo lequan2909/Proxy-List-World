@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|156.254.237.200|40173|Hong Kong|Hong Kong|AresIDC Limited|
-|7|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|20.26.45.67|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|181.176.71.193|999|Peru|Lima|VIETTEL PERÚ S.A.C.|
-|15|103.155.197.98|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|16|203.111.253.40|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
-|17|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|18|152.26.229.34|9443|United States|Concord|MCNC|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|6|4.159.224.87|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|20.26.45.67|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|103.155.197.98|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|12|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|152.26.229.34|9443|United States|Concord|MCNC|
+|14|152.26.231.42|9443|United States|Concord|MCNC|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|72.10.164.178|32335|Canada|Montreal|GloboTech Communications|
+|17|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|103.147.118.237|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
+|19|20.26.45.67|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 
 
 
