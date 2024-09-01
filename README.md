@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|7|117.40.32.133|8080|China|Taohua|Chinanet|
-|8|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|10|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|12|104.129.192.170|8800|United States|San Jose|ZSCALER, INC.|
-|13|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|15|72.10.164.178|16651|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
+|5|156.254.237.206|40044|Hong Kong|Hong Kong|AresIDC Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|113.161.187.190|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|11|180.211.183.130|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|12|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|104.129.192.170|8800|United States|San Jose|ZSCALER, INC.|
+|16|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
 |17|152.26.229.34|9443|United States|Concord|MCNC|
-|18|15.204.161.192|18080|United States|Reston|OVH SAS|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|202.183.209.77|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|18|152.26.229.86|9443|United States|Concord|MCNC|
+|19|117.40.32.133|8080|China|Taohua|Chinanet|
+|20|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
 
 
 
