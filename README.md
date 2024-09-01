@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|178.128.81.181|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|20.26.45.67|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|4.158.51.242|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|4.159.224.87|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|13|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|14|152.26.229.46|9443|United States|Concord|MCNC|
-|15|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|4.234.64.36|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|72.10.160.170|6639|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|4.158.51.242|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|4.234.64.36|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|9|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|10|152.26.229.46|9443|United States|Concord|MCNC|
+|11|152.26.231.93|9443|United States|Concord|MCNC|
+|12|72.10.164.178|3145|Canada|Montreal|GloboTech Communications|
+|13|152.26.229.42|9443|United States|Concord|MCNC|
+|14|152.26.229.93|9443|United States|Concord|MCNC|
+|15|152.26.231.42|9443|United States|Concord|MCNC|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|19|72.10.160.170|3249|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|3145|Canada|Montreal|GloboTech Communications|
 
 
 
