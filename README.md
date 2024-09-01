@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5644** proxies at the latest update. Usable proxies are below.
+> Scraper found **5750** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|714|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|820|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|209|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3463|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|66.31.131.217|8080|United States|Wayland|Comcast Cable Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|156.254.237.198|40032|Hong Kong|Hong Kong|AresIDC Limited|
-|5|103.191.58.60|8080|Indonesia|Nganjuk|Panjalu Sarana Data Indonesia|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|66.31.131.217|8080|United States|Wayland|Comcast Cable Communications|
-|8|156.254.240.195|40060|Hong Kong|Hong Kong|AresIDC Limited|
-|9|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|11|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|12|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|45.174.57.26|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
-|14|119.95.252.172|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|15|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|16|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|152.26.229.47|9443|United States|Concord|MCNC|
-|18|103.232.20.158|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
-|19|152.26.229.46|9443|United States|Concord|MCNC|
-|20|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|4|66.31.131.217|8080|United States|Wayland|Comcast Cable Communications|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|156.254.240.195|40060|Hong Kong|Hong Kong|AresIDC Limited|
+|7|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|156.254.237.206|40044|Hong Kong|Hong Kong|AresIDC Limited|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|103.191.58.60|8080|Indonesia|Nganjuk|Panjalu Sarana Data Indonesia|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|103.118.175.42|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|104.129.194.99|8800|United States|Reston|ZSCALER, INC.|
+|18|103.217.224.46|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
+|20|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
