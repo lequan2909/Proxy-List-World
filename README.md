@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|6|103.153.62.155|8080|Indonesia|Jakarta|IMEDIANET|
-|7|113.192.30.33|3128|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|18.171.233.171|3128|United Kingdom|London|Amazon Technologies Inc.|
-|10|156.254.241.218|40201|Hong Kong|Hong Kong|AresIDC Limited|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|156.254.242.202|40149|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|66.31.131.217|8080|United States|Wayland|Comcast Cable Communications|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|156.254.241.199|40052|Hong Kong|Hong Kong|AresIDC Limited|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|156.254.236.221|40180|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|10|36.92.44.82|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|18.171.233.171|3128|United Kingdom|London|Amazon Technologies Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|66.31.131.217|8080|United States|Wayland|Comcast Cable Communications|
 |15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|156.254.236.221|40180|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|18|103.159.93.132|3125|Indonesia|Kabupaten Trenggalek|PT Chandela Lintas Media|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|114.5.97.150|8080|Indonesia|Surabaya|PT. INDOSAT Tbk|
+|16|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|18|190.94.212.247|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
