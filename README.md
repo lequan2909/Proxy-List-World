@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|8|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|9|156.254.236.213|40041|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|15|203.111.253.40|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
-|16|206.189.33.189|8888|Singapore|Singapore|DigitalOcean, LLC|
-|17|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|18|54.149.53.151|3128|United States|Portland|Amazon.com, Inc.|
-|19|157.66.50.45|8080|Indonesia|Jakarta|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
