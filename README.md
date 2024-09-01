@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|23.95.216.78|34561|United States|Marietta|HostPapa|
-|7|103.81.64.85|8080|Indonesia|Bandar Lampung|QIUNET|
-|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|9|152.26.229.34|9443|United States|Concord|MCNC|
+|4|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|103.177.9.104|8080|Indonesia|Jakarta|PT Helium Sinergi Telekomunikasi|
+|7|49.48.48.155|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
 |10|23.95.216.78|34561|United States|Marietta|HostPapa|
-|11|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|152.26.231.42|9443|United States|Concord|MCNC|
-|13|72.10.164.178|2021|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|13321|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|2021|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.91|27859|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|13321|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|22057|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.83|9443|United States|Concord|MCNC|
-|20|152.26.229.93|9443|United States|Concord|MCNC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|15|152.26.229.34|9443|United States|Concord|MCNC|
+|16|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|17|210.79.146.82|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|18|180.191.255.147|8081|Philippines|General Trias|Globe Telecom|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|103.87.169.202|32650|India|Jaipur|Tejays Industries Pvt Ltd|
 
 
 
