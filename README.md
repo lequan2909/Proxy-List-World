@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|23.95.216.78|34561|United States|Marietta|HostPapa|
-|7|103.217.224.46|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|8|72.10.164.178|12351|Canada|Montreal|GloboTech Communications|
+|7|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|152.26.229.34|9443|United States|Concord|MCNC|
 |9|152.26.229.46|9443|United States|Concord|MCNC|
-|10|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|152.26.229.34|9443|United States|Concord|MCNC|
-|13|152.26.229.42|9443|United States|Concord|MCNC|
-|14|67.43.227.226|18503|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.21|26799|Canada|Montreal|GloboTech Communications|
-|16|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|23.95.216.78|34561|United States|Marietta|HostPapa|
-|20|67.43.236.18|2125|Canada|Montreal|GloboTech Communications|
+|10|23.95.216.78|34561|United States|Marietta|HostPapa|
+|11|152.26.229.42|9443|United States|Concord|MCNC|
+|12|23.95.216.78|34561|United States|Marietta|HostPapa|
+|13|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|156.254.243.195|40027|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|16|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|17|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|67.43.236.21|26799|Canada|Montreal|GloboTech Communications|
+|19|160.248.191.6|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
