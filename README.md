@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|6|156.254.241.213|40225|Hong Kong|Hong Kong|AresIDC Limited|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|9|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|168.138.211.5|8080|Japan|Tokyo|Oracle Corporation|
-|13|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|16|156.254.238.203|40202|Hong Kong|Hong Kong|AresIDC Limited|
+|2|156.254.242.195|40081|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|5|156.254.238.203|40202|Hong Kong|Hong Kong|AresIDC Limited|
+|6|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|156.254.237.206|40044|Hong Kong|Hong Kong|AresIDC Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|11|156.254.242.221|40093|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|12|156.254.240.195|40060|Hong Kong|Hong Kong|AresIDC Limited|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|156.254.237.198|40032|Hong Kong|Hong Kong|AresIDC Limited|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|36.66.111.81|8080|Indonesia|Pondok Labu|PT. Telekomunikasi Indonesia|
 |17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|213.6.78.87|8080|Palestine|Nablus|Palestine Telecommunications Company|
-|19|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|20|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|103.168.129.124|8080|Indonesia|Jakarta|LINTASARTA|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
