@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|3|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|6|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|7|24.115.120.39|8888|United States|Lititz|PenTeleData Inc.|
-|8|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|23.95.216.78|34561|United States|Marietta|HostPapa|
-|11|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|2|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|9|23.95.216.78|34561|United States|Marietta|HostPapa|
+|10|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|152.26.229.47|9443|United States|Concord|MCNC|
+|13|152.26.231.42|9443|United States|Concord|MCNC|
 |14|54.149.53.151|3128|United States|Portland|Amazon.com, Inc.|
-|15|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|152.26.229.47|9443|United States|Concord|MCNC|
-|17|152.26.231.42|9443|United States|Concord|MCNC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|23.95.216.78|34561|United States|Marietta|HostPapa|
 |18|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|23.95.216.78|34561|United States|Marietta|HostPapa|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
 
 
 
