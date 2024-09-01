@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|202.93.244.54|8085|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|219.65.42.167|80|India|New Delhi|Tata Communications Limited|
-|8|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|11|179.48.80.9|8085|Brazil|Teresina|Fbnet Telecom|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|89.221.225.229|8118|Israel|Petah Tikva|Stark Industries Solutions LTD|
-|14|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|6|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|7|156.254.237.214|40055|Hong Kong|Hong Kong|AresIDC Limited|
+|8|103.59.44.33|2022|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|12|101.255.209.242|8080|Indonesia|Jakarta|PT Remala Abadi|
+|13|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|14|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|15|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
-|18|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|19|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|163.47.35.170|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|17|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|18|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|201.20.118.146|27234|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|20|125.167.33.208|8080|Indonesia|Surabaya|PT. TELKOM INDONESIA|
 
 
 
