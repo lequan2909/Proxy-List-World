@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|4|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|7|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|8|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|11|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
 |13|152.26.229.93|9443|United States|Concord|MCNC|
-|14|152.26.229.46|9443|United States|Concord|MCNC|
-|15|54.149.53.151|3128|United States|Portland|Amazon.com, Inc.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|152.26.231.42|9443|United States|Concord|MCNC|
-|20|72.10.164.178|31773|Canada|Montreal|GloboTech Communications|
+|14|54.149.53.151|3128|United States|Portland|Amazon.com, Inc.|
+|15|152.26.231.42|9443|United States|Concord|MCNC|
+|16|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|17|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
