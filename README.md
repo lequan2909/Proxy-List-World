@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|156.254.237.196|40003|Hong Kong|Hong Kong|AresIDC Limited|
-|8|103.115.31.39|8181|Indonesia|Depok|HSPNET|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|3.8.204.79|3128|United Kingdom|London|Amazon Technologies Inc.|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|176.194.189.40|80|Russia|Belgorod|Net By Net Holding LLC|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|19|15.204.161.192|18080|United States|Reston|OVH SAS|
-|20|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|156.254.239.212|40187|Hong Kong|Hong Kong|AresIDC Limited|
+|9|156.254.242.199|40026|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|3.8.204.79|3128|United Kingdom|London|Amazon Technologies Inc.|
+|12|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|13|156.254.237.206|40044|Hong Kong|Hong Kong|AresIDC Limited|
+|14|103.146.185.138|1111|Indonesia|Sragen|YAMNET|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|103.139.98.157|8080|Indonesia|Rambutan|Digital Network Setiawan|
+|17|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|19|45.230.8.28|999|Argentina|Clorinda|Gimenez Pedro Santiago (Clorindaconectada)|
+|20|103.175.157.72|8090|Indonesia|Jakarta|MYARSYILA|
 
 
 
