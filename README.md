@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|5|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|152.26.231.93|9443|United States|Concord|MCNC|
-|9|152.26.229.34|9443|United States|Concord|MCNC|
-|10|156.254.236.218|40193|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|11|117.40.32.133|8080|China|Taohua|Chinanet|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|152.26.229.46|9443|United States|Concord|MCNC|
-|14|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|15|72.10.160.93|2927|Canada|Montreal|GloboTech Communications|
-|16|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|152.26.229.93|9443|United States|Concord|MCNC|
-|18|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|67.43.236.20|24045|Canada|Montreal|GloboTech Communications|
-|20|156.254.242.195|40081|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|4|156.254.236.208|40129|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|5|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|6|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|156.254.236.218|40193|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|23.95.216.78|34561|United States|Marietta|HostPapa|
+|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|23.95.216.78|34561|United States|Marietta|HostPapa|
+|13|119.76.142.194|8080|Thailand|Sam Phran|True Internet Co., Ltd.|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|45.140.192.2|3128|Brazil|São Paulo|Qnax Ltda|
+|16|103.83.18.149|8080|Australia|South Brisbane|Asia Pacific Network Information Center|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|134.236.9.211|8080|Thailand|Bang Rak|CAT-BB|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|117.40.32.133|8080|China|Taohua|Chinanet|
 
 
 
