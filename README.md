@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|117.40.32.133|8080|China|Taohua|Chinanet|
-|9|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|72.10.164.178|10827|Canada|Montreal|GloboTech Communications|
-|11|104.129.192.170|8800|United States|San Jose|ZSCALER, INC.|
-|12|119.148.61.130|8080|Bangladesh|Dhaka|Agni Systems Limited|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|152.26.229.46|9443|United States|Concord|MCNC|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|72.10.164.178|10827|Canada|Montreal|GloboTech Communications|
-|17|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|18|72.10.164.178|10827|Canada|Montreal|GloboTech Communications|
-|19|103.69.20.56|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|20|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|7|103.69.20.54|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|8|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
+|9|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|13|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|14|104.129.192.170|8800|United States|San Jose|ZSCALER, INC.|
+|15|72.10.164.178|20077|Canada|Montreal|GloboTech Communications|
+|16|101.255.209.242|8080|Indonesia|Jakarta|PT Remala Abadi|
+|17|15.204.161.192|18080|United States|Reston|OVH SAS|
+|18|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|19|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
