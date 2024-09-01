@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.15.237.25|80|United States|Des Moines|Microsoft Corporation|
-|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
-|8|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|156.254.241.213|40225|Hong Kong|Hong Kong|AresIDC Limited|
+|7|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|8|156.254.240.195|40060|Hong Kong|Hong Kong|AresIDC Limited|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
 |11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|156.254.242.221|40093|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|13|20.15.237.25|80|United States|Des Moines|Microsoft Corporation|
-|14|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|15|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|17|103.159.96.74|8080|Indonesia|Gresik|PT Jinde Grup Indonesia|
-|18|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|19|103.164.112.123|10001|Indonesia|Jakarta|SOLUSINET|
-|20|156.254.238.203|40202|Hong Kong|Hong Kong|AresIDC Limited|
+|12|212.252.73.29|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|13|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|16|173.249.60.246|14344|Germany|Nuremberg|Contabo GmbH|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|156.254.238.203|40202|Hong Kong|Hong Kong|AresIDC Limited|
+|19|188.132.222.47|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
