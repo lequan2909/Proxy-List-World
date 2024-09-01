@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
 |6|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|7|144.86.187.53|3129|United States|Malden|Charles River Operation|
-|8|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|23.95.216.78|34561|United States|Marietta|HostPapa|
-|11|144.86.187.53|3129|United States|Malden|Charles River Operation|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|24.115.120.39|8888|United States|Lititz|PenTeleData Inc.|
-|16|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|156.254.241.216|40143|Hong Kong|Hong Kong|AresIDC Limited|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|103.125.117.50|5000|Indonesia|Bandung|PT Baraya Telematika Nusantara|
+|9|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|156.254.240.197|40129|Hong Kong|Hong Kong|AresIDC Limited|
+|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|14|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|15|23.95.216.78|34561|United States|Marietta|HostPapa|
+|16|156.254.238.200|40205|Hong Kong|Hong Kong|AresIDC Limited|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|15.204.161.192|18080|United States|Reston|OVH SAS|
+|19|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|20|152.26.231.94|9443|United States|Concord|MCNC|
 
 
 
