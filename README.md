@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|5|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|206.189.45.83|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|203.176.179.255|8080|Indonesia|Jakarta|PT Hipernet Indodata|
-|9|156.250.118.99|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|10|202.47.189.106|8080|Indonesia|Kediri|PT.CITRA BERDIKARI NUSANTARA|
-|11|46.39.105.40|8080|Sweden|Sundbyberg|Stockholms Stadsnat AB|
-|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|103.122.1.14|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
-|14|23.95.216.78|34561|United States|Marietta|HostPapa|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|17|85.117.60.133|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|4|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|5|37.111.52.41|8080|Myanmar|Yangon|Telenor Myanmar|
+|6|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|46.39.105.40|8080|Sweden|Sundbyberg|Stockholms Stadsnat AB|
+|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|12|103.31.235.102|8080|Indonesia|Ciampea|PT Usaha Adi Sanggoro|
+|13|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|156.250.119.180|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
+|15|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|23.95.216.78|34561|United States|Marietta|HostPapa|
+|18|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
