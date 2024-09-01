@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|4|159.203.104.153|4550|United States|Clifton|DigitalOcean, LLC|
-|5|23.95.216.78|34561|United States|Marietta|HostPapa|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|156.254.240.197|40129|Hong Kong|Hong Kong|AresIDC Limited|
-|8|159.203.104.153|4550|United States|Clifton|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|23.95.216.78|34561|United States|Marietta|HostPapa|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|156.254.238.207|40186|Hong Kong|Hong Kong|AresIDC Limited|
-|14|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|152.26.229.46|9443|United States|Concord|MCNC|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|152.26.229.34|9443|United States|Concord|MCNC|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|5|116.105.18.90|10004|Vietnam|Da Nang|Viettel Corporation|
+|6|159.203.104.153|4550|United States|Clifton|DigitalOcean, LLC|
+|7|103.247.23.72|7777|Indonesia|Bekasi|PT wifian Solution|
+|8|222.127.241.158|8082|Philippines|Iloilo City|GLBB|
+|9|42.200.124.211|8080|Hong Kong|Central|PCCW IMSBiz|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|23.95.216.78|34561|United States|Marietta|HostPapa|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|16|159.203.104.153|4550|United States|Clifton|DigitalOcean, LLC|
+|17|23.95.216.78|34561|United States|Marietta|HostPapa|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|20|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
