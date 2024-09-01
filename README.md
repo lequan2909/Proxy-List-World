@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|1|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |7|3.8.204.79|3128|United Kingdom|London|Amazon Technologies Inc.|
-|8|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|16|156.254.241.194|40113|Hong Kong|Hong Kong|AresIDC Limited|
-|17|216.10.247.145|3128|India|Mumbai|PDR|
-|18|168.194.248.18|8080|Brazil|Goiânia|CANAA TELECOMUNICAÇÕES LTDA - ME|
-|19|156.254.242.199|40026|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|8|156.254.242.199|40026|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|9|138.2.58.57|8118|Japan|Osaka|Oracle Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|12|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|191.102.254.53|8084|Argentina|Rosario|IP·RED|
+|15|117.40.32.133|8080|China|Taohua|Chinanet|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|18|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|19|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 
 
 
