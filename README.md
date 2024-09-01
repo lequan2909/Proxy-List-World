@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|156.254.239.206|40160|Hong Kong|Hong Kong|AresIDC Limited|
+|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
 |5|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|103.154.230.108|8080|Indonesia|Lamongan|DIGITNET|
-|9|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|10|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|11|156.254.242.221|40093|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|14|190.60.103.99|3128|Colombia|Bogotá|IFX Corporation|
-|15|156.254.238.203|40202|Hong Kong|Hong Kong|AresIDC Limited|
-|16|103.18.77.36|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|17|156.254.240.195|40060|Hong Kong|Hong Kong|AresIDC Limited|
-|18|200.95.184.58|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
-|19|67.206.213.202|3120|Puerto Rico|San Juan|Liberty Mobile Puerto Rico Inc.|
-|20|156.254.241.213|40225|Hong Kong|Hong Kong|AresIDC Limited|
+|6|156.254.238.211|40211|Hong Kong|Hong Kong|AresIDC Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|190.60.103.99|3128|Colombia|Bogotá|IFX Corporation|
+|9|156.254.242.221|40093|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|103.159.96.74|8080|Indonesia|Gresik|PT Jinde Grup Indonesia|
+|13|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|203.29.27.200|7777|Indonesia|Jember|PT Indotrans Data|
+|16|156.254.241.213|40225|Hong Kong|Hong Kong|AresIDC Limited|
+|17|103.110.10.69|3127|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
+|18|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|20|82.129.154.218|1981|Egypt|Cairo|Vodafone Data - Egypt|
 
 
 
