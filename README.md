@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|156.254.241.222|40197|Hong Kong|Hong Kong|AresIDC Limited|
+|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|156.254.238.203|40202|Hong Kong|Hong Kong|AresIDC Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|10|182.253.109.27|8080|Indonesia|Semarang|Biznet Metronet|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|20.15.237.25|80|United States|Des Moines|Microsoft Corporation|
-|13|156.254.242.221|40093|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|14|15.235.171.246|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
-|15|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|16|156.254.241.222|40197|Hong Kong|Hong Kong|AresIDC Limited|
-|17|181.10.160.155|8080|Argentina|La Carlota|Telecom Argentina S.A|
-|18|124.83.51.94|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|19|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|121.101.132.18|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|7|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|182.253.109.27|8080|Indonesia|Semarang|Biznet Metronet|
+|12|173.249.60.246|14344|Germany|Nuremberg|Contabo GmbH|
+|13|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|16|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|181.74.80.52|999|Chile|Limache|Telmex Servicios Empresariales S.A.|
+|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|20|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
