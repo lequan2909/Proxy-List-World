@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|159.203.104.153|4550|United States|Clifton|DigitalOcean, LLC|
-|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|23.95.216.78|34561|United States|Marietta|HostPapa|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|116.104.132.139|5020|Vietnam|Hanoi|Viettel Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|159.203.104.153|4550|United States|Clifton|DigitalOcean, LLC|
-|12|23.95.216.78|34561|United States|Marietta|HostPapa|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|16|152.26.231.83|9443|United States|Concord|MCNC|
-|17|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|159.203.104.153|4550|United States|Clifton|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|185.111.156.170|80|United States|Orangeburg|Nubes, LLC|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
+|9|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|11|59.92.211.63|3128|India|Kannur|BSNL Internet|
+|12|72.10.164.178|16863|Canada|Montreal|GloboTech Communications|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|67.43.227.230|21973|Canada|Montreal|GloboTech Communications|
+|17|152.26.231.83|9443|United States|Concord|MCNC|
+|18|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |19|152.26.231.93|9443|United States|Concord|MCNC|
-|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
