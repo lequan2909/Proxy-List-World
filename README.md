@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|43.153.104.42|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|10|103.168.44.105|3127|Indonesia|Jakarta|PT CYB Media Group|
-|11|152.26.231.86|9443|United States|Concord|MCNC|
-|12|152.26.229.86|9443|United States|Concord|MCNC|
-|13|152.26.231.42|9443|United States|Concord|MCNC|
-|14|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|72.10.164.178|18215|Canada|Montreal|GloboTech Communications|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|72.10.164.178|18215|Canada|Montreal|GloboTech Communications|
+|8|152.26.231.86|9443|United States|Concord|MCNC|
+|9|152.26.231.42|9443|United States|Concord|MCNC|
+|10|152.26.229.86|9443|United States|Concord|MCNC|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|14|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|15|160.248.191.6|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|152.26.229.93|9443|United States|Concord|MCNC|
+|17|72.10.164.178|18441|Canada|Montreal|GloboTech Communications|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|72.10.160.94|13527|Canada|Montreal|GloboTech Communications|
 
 
 
