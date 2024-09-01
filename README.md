@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|66.31.131.217|8080|United States|Wayland|Comcast Cable Communications|
-|7|156.254.238.200|40205|Hong Kong|Hong Kong|AresIDC Limited|
-|8|156.254.237.206|40044|Hong Kong|Hong Kong|AresIDC Limited|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|212.252.73.23|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|11|156.254.237.198|40032|Hong Kong|Hong Kong|AresIDC Limited|
-|12|66.31.131.217|8080|United States|Wayland|Comcast Cable Communications|
-|13|156.254.238.211|40211|Hong Kong|Hong Kong|AresIDC Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
+|3|156.254.238.211|40211|Hong Kong|Hong Kong|AresIDC Limited|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|156.254.237.198|40032|Hong Kong|Hong Kong|AresIDC Limited|
+|7|103.191.58.60|8080|Indonesia|Nganjuk|Panjalu Sarana Data Indonesia|
+|8|156.254.240.195|40060|Hong Kong|Hong Kong|AresIDC Limited|
+|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|10|187.17.232.6|8089|Brazil|Valinhos|Lantec Comunicacao Multimidia Ltda|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|216.10.247.145|3128|India|Mumbai|PDR|
+|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
 |14|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|103.191.58.60|8080|Indonesia|Nganjuk|Panjalu Sarana Data Indonesia|
-|19|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|18|187.188.16.28|999|Mexico|Xalapa|Total Play Telecomunicaciones SA De CV|
+|19|103.69.20.54|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|20|200.49.99.78|9991|Argentina|Buenos Aires|Telecom Argentina S.A|
 
 
 
