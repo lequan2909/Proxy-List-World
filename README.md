@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|23.95.216.78|34561|United States|Marietta|HostPapa|
-|9|152.26.231.93|9443|United States|Concord|MCNC|
-|10|152.26.231.42|9443|United States|Concord|MCNC|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|10|156.254.238.200|40205|Hong Kong|Hong Kong|AresIDC Limited|
 |11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|152.26.231.83|9443|United States|Concord|MCNC|
-|13|67.43.236.20|19463|Canada|Montreal|GloboTech Communications|
-|14|23.95.216.78|34561|United States|Marietta|HostPapa|
-|15|67.43.227.227|14521|Canada|Montreal|GloboTech Communications|
-|16|15.204.161.192|18080|United States|Reston|OVH SAS|
-|17|67.43.236.21|18029|Canada|Montreal|GloboTech Communications|
+|12|152.26.231.42|9443|United States|Concord|MCNC|
+|13|152.26.231.93|9443|United States|Concord|MCNC|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|156.254.240.197|40129|Hong Kong|Hong Kong|AresIDC Limited|
+|16|152.26.231.83|9443|United States|Concord|MCNC|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 |18|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
-|19|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
-|20|67.43.228.253|21421|Canada|Montreal|GloboTech Communications|
+|19|111.26.37.239|10003|China|Jilin City|China Mobile communications corporation|
+|20|72.10.164.178|31239|Canada|Montreal|GloboTech Communications|
 
 
 
