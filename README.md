@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|4|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|6|23.95.216.78|34561|United States|Marietta|HostPapa|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|23.95.216.78|34561|United States|Marietta|HostPapa|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|152.26.229.83|9443|United States|Concord|MCNC|
-|12|67.43.228.251|22155|Canada|Montreal|GloboTech Communications|
-|13|152.26.229.86|9443|United States|Concord|MCNC|
-|14|152.26.231.93|9443|United States|Concord|MCNC|
-|15|152.26.229.46|9443|United States|Concord|MCNC|
-|16|72.10.164.178|26277|Canada|Montreal|GloboTech Communications|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|19|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|23.95.216.78|34561|United States|Marietta|HostPapa|
+|11|23.95.216.78|34561|United States|Marietta|HostPapa|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|15|152.26.231.93|9443|United States|Concord|MCNC|
+|16|152.26.229.83|9443|United States|Concord|MCNC|
+|17|152.26.229.86|9443|United States|Concord|MCNC|
+|18|23.95.216.78|34561|United States|Marietta|HostPapa|
+|19|72.10.164.178|5385|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
