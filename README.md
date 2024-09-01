@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|5|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|6|20.169.241.104|3128|United States|Boydton|Microsoft Corporation|
-|7|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|8|103.193.144.85|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|9|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|10|41.111.243.134|80|Algeria|Belcourt|Algerie Telecom|
-|11|191.102.123.196|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|12|20.169.241.104|3128|United States|Boydton|Microsoft Corporation|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|152.42.186.181|9090|Singapore|Singapore|DigitalOcean, LLC|
-|16|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|103.164.160.22|8080|Bangladesh|Feni|Md Fardus Hossen|
-|19|67.43.227.230|15001|Canada|Montreal|GloboTech Communications|
-|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|103.46.10.100|8080|Indonesia|Malang|Lintas Data Prima, PT|
+|7|119.76.142.194|8080|Thailand|Sam Phran|True Internet Co., Ltd.|
+|8|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|80.66.112.2|31280|Spain|La Zenia|Servicios Digitales Codinet S.L.|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|14|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|67.43.227.230|15001|Canada|Montreal|GloboTech Communications|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|111.26.37.239|10003|China|Jilin City|China Mobile communications corporation|
+|20|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
 
 
 
