@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|7|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|8|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|156.254.241.219|40181|Hong Kong|Hong Kong|AresIDC Limited|
+|7|103.224.125.229|8080|Indonesia|Bogor|PT Curug Lintas Indonesia|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |9|182.253.109.27|8080|Indonesia|Semarang|Biznet Metronet|
-|10|64.225.96.122|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|156.254.237.206|40044|Hong Kong|Hong Kong|AresIDC Limited|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|156.254.238.200|40205|Hong Kong|Hong Kong|AresIDC Limited|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|156.254.240.195|40060|Hong Kong|Hong Kong|AresIDC Limited|
-|16|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|17|188.132.150.87|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|18|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|12|64.225.96.122|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
+|14|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|15|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|156.254.242.221|40093|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|19|156.254.237.206|40044|Hong Kong|Hong Kong|AresIDC Limited|
+|20|190.121.239.195|999|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
