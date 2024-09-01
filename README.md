@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
 |6|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|103.231.200.229|3128|Indonesia|Bekasi|PT. Berdikari Prima Mandiri|
 |9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|152.26.229.47|9443|United States|Concord|MCNC|
-|11|152.26.229.42|9443|United States|Concord|MCNC|
-|12|152.26.231.94|9443|United States|Concord|MCNC|
-|13|23.95.216.78|34561|United States|Marietta|HostPapa|
-|14|72.10.160.171|13175|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|5121|Canada|Montreal|GloboTech Communications|
-|16|152.26.231.83|9443|United States|Concord|MCNC|
-|17|67.43.236.19|17905|Canada|Montreal|GloboTech Communications|
+|10|144.86.187.37|3129|United States|Malden|Charles River Operation|
+|11|152.26.229.47|9443|United States|Concord|MCNC|
+|12|152.26.229.42|9443|United States|Concord|MCNC|
+|13|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|72.10.164.178|31239|Canada|Montreal|GloboTech Communications|
+|15|152.26.231.94|9443|United States|Concord|MCNC|
+|16|67.43.236.19|16661|Canada|Montreal|GloboTech Communications|
+|17|152.26.231.83|9443|United States|Concord|MCNC|
 |18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|67.43.228.250|2311|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|30169|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|32107|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|31239|Canada|Montreal|GloboTech Communications|
 
 
 
