@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|7|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|9|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|10|156.254.241.213|40225|Hong Kong|Hong Kong|AresIDC Limited|
-|11|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|12|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|13|156.254.242.221|40093|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|14|116.58.232.58|8080|Thailand|Dusit|CAT Telecom Public Company Limited|
-|15|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|119.92.75.48|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|202.152.142.186|8080|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
+|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|6|156.254.242.221|40093|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|8|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|10|116.58.232.58|8080|Thailand|Dusit|CAT Telecom Public Company Limited|
+|11|156.254.237.198|40032|Hong Kong|Hong Kong|AresIDC Limited|
+|12|177.75.1.33|8080|Brazil|Formosa|Networld Provedor e Servicos de Internet Ltda|
+|13|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|156.254.237.206|40044|Hong Kong|Hong Kong|AresIDC Limited|
+|16|81.19.141.2|3128|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|17|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|18|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|19|103.76.201.110|8080|Indonesia|Bogor|PT. Arjuna Global Teknologi Indonesia|
+|20|156.254.240.195|40060|Hong Kong|Hong Kong|AresIDC Limited|
 
 
 
