@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|156.254.242.221|40093|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|18.171.233.171|3128|United Kingdom|London|Amazon Technologies Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|156.254.241.199|40052|Hong Kong|Hong Kong|AresIDC Limited|
-|12|103.147.247.122|8080|Indonesia|Tangerang|PLBNET|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|156.254.241.203|40009|Hong Kong|Hong Kong|AresIDC Limited|
-|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|15.204.161.192|18080|United States|Reston|OVH SAS|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|18.171.233.171|3128|United Kingdom|London|Amazon Technologies Inc.|
+|6|66.31.131.217|8080|United States|Wayland|Comcast Cable Communications|
+|7|156.254.241.203|40009|Hong Kong|Hong Kong|AresIDC Limited|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
+|11|66.31.131.217|8080|United States|Wayland|Comcast Cable Communications|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|156.254.242.221|40093|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|14|156.254.241.218|40201|Hong Kong|Hong Kong|AresIDC Limited|
+|15|68.183.149.126|11010|United States|Clifton|DigitalOcean, LLC|
+|16|190.94.212.247|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|17|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
+|18|103.156.15.244|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|20|103.163.175.29|8080|Indonesia|Jakarta|PT Lima Satu Tiga Global Tel-Access|
 
 
 
