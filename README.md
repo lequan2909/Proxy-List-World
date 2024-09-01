@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|223.31.56.194|8080|India|Chennai|Sify Limited|
-|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|4.159.58.225|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|20.26.45.67|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.239.253.66|8080|Bangladesh|Dhaka|SSDTECH Object2|
-|11|185.128.240.77|8080|Romania|Drobeta-Turnu Severin|Data ZYX SRL|
-|12|114.9.27.194|7777|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|15|152.26.229.93|9443|United States|Concord|MCNC|
-|16|103.172.42.177|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|17|152.26.231.42|9443|United States|Concord|MCNC|
-|18|102.222.51.105|8080|Botswana|Gaborone|JENNY INTERNET (PTY) LTD|
-|19|72.10.164.178|27643|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|27643|Canada|Montreal|GloboTech Communications|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|4.158.41.191|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|223.31.56.194|8080|India|Chennai|Sify Limited|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|4.234.64.36|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|4.158.51.242|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|20.26.68.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|14|4.159.58.225|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|4.159.224.87|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|157.15.51.18|8080|Indonesia|Aceh Tamiang Regency|Aceh Digital Fenam|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|188.190.40.44|8080|Ukraine|Kyiv|Lanet Network Ltd|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
