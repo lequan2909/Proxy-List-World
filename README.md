@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|66.31.131.217|8080|United States|Wayland|Comcast Cable Communications|
-|4|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|66.31.131.217|8080|United States|Wayland|Comcast Cable Communications|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|156.254.241.218|40201|Hong Kong|Hong Kong|AresIDC Limited|
-|9|156.254.241.203|40009|Hong Kong|Hong Kong|AresIDC Limited|
-|10|103.158.121.66|1080|Indonesia|Indramayu|CDN|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|13|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|14|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|103.203.232.101|1080|Indonesia|Kedok|INDANA|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|18|202.183.209.77|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|19|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|182.253.115.130|8080|Indonesia|Salatiga|BIZNET|
+|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|27.76.204.65|5106|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|14|116.254.99.14|8080|Indonesia|Jakarta|SpaceX Starlink|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|4.155.2.13|9401|United States|Quincy|Microsoft Corporation|
+|17|201.20.118.146|27234|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|18|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
+|20|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
 
 
 
