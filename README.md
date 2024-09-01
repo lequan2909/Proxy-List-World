@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |6|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|12|24.112.3.220|8080|United States|Durant|Vyve Broadband|
-|13|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
-|14|115.127.139.91|58080|Bangladesh|Paltan|bracNet|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|101.255.208.22|3127|Indonesia|Ciputat|PT Remala Abadi|
-|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|18|15.204.161.192|18080|United States|Reston|OVH SAS|
-|19|119.47.90.240|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|20|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|9|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|15|103.176.96.226|8082|Indonesia|Purwakarta|PT Global Sarana Elektronika|
+|16|189.89.188.14|2020|Brazil|Salvador|ITS TELECOMUNICACOES LTDA|
+|17|15.204.161.192|18080|United States|Reston|OVH SAS|
+|18|212.123.230.250|8181|The Netherlands|Amsterdam|COLT Technology Services Group Limited|
+|19|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|20|182.78.42.112|83|India|Ongole|Bharti Airtel|
 
 
 
