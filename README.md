@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|7|134.236.9.211|8080|Thailand|Bang Rak|CAT-BB|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|101.255.117.197|8085|Indonesia|Jakarta|PT Remala Abadi|
-|11|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|103.171.244.47|8088|Indonesia|Madiun|PT Data Arta Sedaya|
-|13|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|14|103.160.12.50|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|15|152.26.231.94|9443|United States|Concord|MCNC|
-|16|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|152.26.231.83|9443|United States|Concord|MCNC|
-|18|156.254.242.202|40149|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|19|152.26.229.83|9443|United States|Concord|MCNC|
-|20|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.171.244.44|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|6|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|156.254.236.218|40193|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|20.84.219.130|3128|United States|Des Moines|Microsoft Corporation|
+|17|156.254.242.202|40149|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|18|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|152.26.231.94|9443|United States|Concord|MCNC|
 
 
 
