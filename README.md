@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|156.254.238.219|40114|Hong Kong|Hong Kong|AresIDC Limited|
-|8|54.149.53.151|3128|United States|Portland|Amazon.com, Inc.|
-|9|122.152.4.131|6000|Japan|Chiyoda|FreeBit Co., Ltd.|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|190.61.40.186|999|Colombia|Bogotá|Ufinet Panama S.A.|
-|13|54.149.53.151|3128|United States|Portland|Amazon.com, Inc.|
-|14|201.251.61.143|8080|Argentina|Laferrere|Telefonica de Argentina|
-|15|156.254.241.213|40225|Hong Kong|Hong Kong|AresIDC Limited|
-|16|117.40.32.133|8080|China|Taohua|Chinanet|
-|17|177.93.51.213|999|Colombia|Villavicencio|TV AZTECA SUCURSAL COLOMBIA|
-|18|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|54.149.53.151|3128|United States|Portland|Amazon.com, Inc.|
+|6|103.217.224.27|8085|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|7|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|156.254.238.219|40114|Hong Kong|Hong Kong|AresIDC Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|54.149.53.151|3128|United States|Portland|Amazon.com, Inc.|
+|11|202.162.213.182|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|12|156.254.241.213|40225|Hong Kong|Hong Kong|AresIDC Limited|
+|13|185.133.213.86|8074|Myanmar|Yangon|Global Technology Co|
+|14|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|15|203.29.27.200|7777|Indonesia|Jember|PT Indotrans Data|
+|16|190.95.202.210|999|Ecuador|Cuenca|Telconet S.A|
+|17|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
