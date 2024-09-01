@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|103.242.104.146|3127|Indonesia|Ciseda|PT Lintas Jaringan Nusantara|
-|7|156.254.241.213|40225|Hong Kong|Hong Kong|AresIDC Limited|
-|8|103.126.172.245|8080|Indonesia|Bandar Lampung|MEGARAP|
-|9|116.74.80.134|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|10|203.110.145.82|63128|Australia|Sydney|Macquarie Technology Operations Pty Limited|
-|11|156.254.240.195|40094|Hong Kong|Hong Kong|AresIDC Limited|
-|12|182.253.109.27|8080|Indonesia|Semarang|Biznet Metronet|
-|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|14|62.122.205.30|8080|Ukraine|Ivano-Frankivsk|Uteam LTD|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|103.234.159.5|8080|India|Bengaluru|MWPL|
-|17|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
-|18|103.154.139.83|8080|Indonesia|Jakarta|MORATELINDONAP|
-|19|15.204.161.192|18080|United States|Reston|OVH SAS|
-|20|156.254.238.200|40205|Hong Kong|Hong Kong|AresIDC Limited|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|156.254.238.203|40202|Hong Kong|Hong Kong|AresIDC Limited|
+|5|156.254.242.221|40093|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|156.254.241.222|40197|Hong Kong|Hong Kong|AresIDC Limited|
+|8|182.253.109.27|8080|Indonesia|Semarang|Biznet Metronet|
+|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|14|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|156.254.241.219|40181|Hong Kong|Hong Kong|AresIDC Limited|
+|17|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|20|103.193.145.33|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
 
 
 
