@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|156.254.242.211|40228|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|7|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|8|5.75.254.109|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.24.215.146|8181|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
-|11|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|12|119.76.142.153|8080|Thailand|Sam Phran|True Internet Co., Ltd.|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
-|15|156.254.242.202|40149|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|16|103.173.138.218|8080|Indonesia|Babat|PT Serayu Multi Connection|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|119.47.90.76|8080|Indonesia|Batang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|19|190.193.142.156|3128|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|20|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|156.254.242.211|40228|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|10|119.47.90.76|8080|Indonesia|Batang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|138.117.231.131|999|Guatemala|Huehuetenango|Fibernet S.A|
+|14|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|212.110.188.207|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|17|36.91.135.141|40|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
+|18|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|19|175.200.97.173|3128|South Korea|Seongnam-si|Korea Telecom|
+|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
