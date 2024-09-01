@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|223.31.56.194|8080|India|Chennai|Sify Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
-|10|20.26.68.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|4.158.41.191|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|190.110.35.105|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|20.26.45.67|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|4.159.224.87|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|67.43.227.227|29297|Canada|Montreal|GloboTech Communications|
-|18|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|67.43.236.20|1721|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|7|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|195.62.32.117|22331|Germany|Frankfurt am Main|PIO-Hosting GmbH|
+|9|4.234.64.36|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|223.31.56.194|8080|India|Chennai|Sify Limited|
+|12|4.158.51.242|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|4.158.41.191|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|20.26.68.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|15.204.161.192|18080|United States|Reston|OVH SAS|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|15.204.161.192|18080|United States|Reston|OVH SAS|
 
 
 
