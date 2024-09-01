@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|12|192.99.169.19|8445|Canada|Beauharnois|OVH SAS|
-|13|152.26.229.46|9443|United States|Concord|MCNC|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|156.254.238.211|40211|Hong Kong|Hong Kong|AresIDC Limited|
-|17|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|18|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|19|152.26.229.34|9443|United States|Concord|MCNC|
-|20|72.10.160.90|19407|Canada|Montreal|GloboTech Communications|
+|5|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|6|103.166.158.201|8080|Indonesia|Bekasi|PT Timor Lintas Nusantara|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|15|192.99.169.19|8445|Canada|Beauharnois|OVH SAS|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|152.26.229.46|9443|United States|Concord|MCNC|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|111.26.37.239|10003|China|Jilin City|China Mobile communications corporation|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
