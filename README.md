@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|1|8.219.176.202|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|152.26.229.42|9443|United States|Concord|MCNC|
-|11|152.26.231.83|9443|United States|Concord|MCNC|
-|12|200.5.196.218|3128|Argentina|San Telmo|Telefonica de Argentina|
-|13|72.10.164.178|9831|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.93|8193|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|25233|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|9831|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.174|13461|Canada|Montreal|GloboTech Communications|
-|18|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
-|19|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|20|67.43.228.253|9389|Canada|Montreal|GloboTech Communications|
+|6|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|7|200.5.196.218|3128|Argentina|San Telmo|Telefonica de Argentina|
+|8|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|152.26.229.42|9443|United States|Concord|MCNC|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|103.69.60.10|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
+|12|152.26.231.83|9443|United States|Concord|MCNC|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|16|152.26.229.47|9443|United States|Concord|MCNC|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
+|18|177.221.44.89|49999|Brazil|Jaboatão dos Guararapes|1telecom Servicos De Tecnologia EM Internet Ltda|
+|19|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|20|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
