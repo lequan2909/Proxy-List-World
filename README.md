@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|157.230.254.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|49.48.48.155|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|180.191.32.166|8081|Philippines|Cabanatuan City|Globe Telecom|
+|6|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|187.249.20.153|8081|Mexico|Ciudad Benito Juárez|Transtelco Inc|
+|9|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |10|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|11|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|67.43.227.227|1717|Canada|Montreal|GloboTech Communications|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|54.149.53.151|3128|United States|Portland|Amazon.com, Inc.|
+|11|152.26.229.47|9443|United States|Concord|MCNC|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|23.95.216.78|34561|United States|Marietta|HostPapa|
+|14|111.26.37.239|10003|China|Jilin City|China Mobile communications corporation|
 |15|152.26.231.86|9443|United States|Concord|MCNC|
-|16|152.26.229.47|9443|United States|Concord|MCNC|
-|17|67.43.227.227|1717|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|27905|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.19|19559|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|1717|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|29809|Canada|Montreal|GloboTech Communications|
+|17|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|18|72.10.164.178|9535|Canada|Montreal|GloboTech Communications|
+|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|20|62.201.217.194|8080|Iraq|Kelar|BAG|
 
 
 
