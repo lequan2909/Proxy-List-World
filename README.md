@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|158.69.31.71|3128|Canada|Montreal|OVH Hosting|
-|6|81.19.141.2|3128|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|181.129.123.138|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|12|152.26.231.94|9443|United States|Concord|MCNC|
-|13|152.26.229.46|9443|United States|Concord|MCNC|
-|14|152.26.229.83|9443|United States|Concord|MCNC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|23.95.216.78|34561|United States|Marietta|HostPapa|
+|4|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|178.130.77.198|8080|Yemen|Dhamār|Yemen-net-bb-pool 178|
+|6|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|8|152.26.231.94|9443|United States|Concord|MCNC|
+|9|152.26.231.93|9443|United States|Concord|MCNC|
+|10|116.105.18.90|10004|Vietnam|Da Nang|Viettel Corporation|
+|11|152.26.229.83|9443|United States|Concord|MCNC|
+|12|152.26.229.46|9443|United States|Concord|MCNC|
+|13|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|177.124.115.235|3131|Brazil|Mandaguaçu|MMER Provedor de Internet Ltda - ME|
 |15|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|178.130.77.198|8080|Yemen|Dhamār|Yemen-net-bb-pool 178|
-|18|152.26.229.34|9443|United States|Concord|MCNC|
-|19|101.255.117.138|2020|Indonesia|Jakarta|PT Remala Abadi|
+|16|152.26.229.34|9443|United States|Concord|MCNC|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|19|179.1.110.80|8080|Colombia|Cúcuta|InterNexa Global Network|
 |20|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
