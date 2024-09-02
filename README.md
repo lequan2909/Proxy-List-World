@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|2|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|3|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |4|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|5|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|152.26.229.34|9443|United States|Concord|MCNC|
-|7|67.43.227.227|31825|Canada|Montreal|GloboTech Communications|
-|8|152.26.229.83|9443|United States|Concord|MCNC|
-|9|67.43.227.228|19315|Canada|Montreal|GloboTech Communications|
-|10|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|11|72.10.164.178|20299|Canada|Montreal|GloboTech Communications|
-|12|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|13|72.10.164.178|20299|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|20299|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|31825|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|31825|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|20299|Canada|Montreal|GloboTech Communications|
+|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|6|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|152.26.229.34|9443|United States|Concord|MCNC|
+|8|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|152.26.229.83|9443|United States|Concord|MCNC|
+|10|67.43.227.227|31825|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|23521|Canada|Montreal|GloboTech Communications|
+|12|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|13|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
+|15|72.10.164.178|23521|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|23521|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|23521|Canada|Montreal|GloboTech Communications|
 |18|152.26.231.93|9443|United States|Concord|MCNC|
-|19|72.10.164.178|20299|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|31825|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.47|9443|United States|Concord|MCNC|
+|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
