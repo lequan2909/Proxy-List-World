@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|4|158.69.31.71|3128|Canada|Montreal|OVH Hosting|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|8|177.124.115.235|3131|Brazil|Mandaguaçu|MMER Provedor de Internet Ltda - ME|
-|9|197.232.47.122|8080|Kenya|Nairobi|Jamii Telecommunications Limited|
-|10|103.181.129.30|80|Indonesia|Tanjung|Diskominfo Tabalong|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|9|152.26.231.83|9443|United States|Concord|MCNC|
+|10|203.150.166.170|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
 |11|152.26.229.42|9443|United States|Concord|MCNC|
 |12|152.26.231.42|9443|United States|Concord|MCNC|
-|13|152.26.231.83|9443|United States|Concord|MCNC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|152.26.229.83|9443|United States|Concord|MCNC|
+|14|103.36.11.169|8181|Indonesia|Pandeglang|PT Awinet Global Mandiri|
 |15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|54.149.53.151|3128|United States|Portland|Amazon.com, Inc.|
-|17|152.26.229.83|9443|United States|Concord|MCNC|
+|16|103.168.129.124|8080|Indonesia|Jakarta|LINTASARTA|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |18|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|67.43.228.253|11461|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|4709|Canada|Montreal|GloboTech Communications|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|72.10.164.178|13439|Canada|Montreal|GloboTech Communications|
 
 
 
