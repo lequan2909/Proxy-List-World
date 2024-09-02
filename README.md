@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|2|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|158.69.31.71|3128|Canada|Montreal|OVH Hosting|
-|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|18.130.118.60|3128|United Kingdom|London|Amazon Technologies Inc.|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|152.26.231.42|9443|United States|Concord|MCNC|
+|1|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|190.202.111.202|8080|Venezuela|Caracas|CANTV Servicios, Venezuela|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|54.149.53.151|3128|United States|Portland|Amazon.com, Inc.|
+|8|152.26.229.86|9443|United States|Concord|MCNC|
+|9|152.26.231.42|9443|United States|Concord|MCNC|
+|10|87.103.128.128|4444|Russia|Irkutsk|SIBNET-IRKUTSK|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|152.26.231.86|9443|United States|Concord|MCNC|
+|14|152.26.229.46|9443|United States|Concord|MCNC|
 |15|152.26.231.83|9443|United States|Concord|MCNC|
-|16|152.26.231.86|9443|United States|Concord|MCNC|
-|17|152.26.229.86|9443|United States|Concord|MCNC|
-|18|152.26.229.46|9443|United States|Concord|MCNC|
-|19|67.43.227.228|2271|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|1067|Canada|Montreal|GloboTech Communications|
+|16|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
+|20|67.43.227.227|30435|Canada|Montreal|GloboTech Communications|
 
 
 
