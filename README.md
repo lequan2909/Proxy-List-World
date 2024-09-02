@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|85.175.5.50|3128|Russia|Krasnodar|Southen Telecommunication Maintainer|
+|1|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|156.250.119.189|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|3.108.227.255|3128|India|Mumbai|Amazon Technologies Inc.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|7|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|152.26.231.94|9443|United States|Concord|MCNC|
 |9|152.26.229.34|9443|United States|Concord|MCNC|
-|10|152.26.231.94|9443|United States|Concord|MCNC|
-|11|152.26.229.46|9443|United States|Concord|MCNC|
-|12|156.250.117.6|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|13|103.174.236.63|1080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|14|152.26.231.86|9443|United States|Concord|MCNC|
-|15|152.26.231.83|9443|United States|Concord|MCNC|
-|16|72.10.164.178|1347|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|6871|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|26347|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|1347|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|152.26.229.46|9443|United States|Concord|MCNC|
+|11|152.26.231.86|9443|United States|Concord|MCNC|
+|12|152.26.231.83|9443|United States|Concord|MCNC|
+|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|14|67.43.227.227|4097|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|5953|Canada|Montreal|GloboTech Communications|
+|16|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|72.10.164.178|5953|Canada|Montreal|GloboTech Communications|
+|20|45.125.222.81|8080|Bangladesh|Dhaka|Carnival Internet|
 
 
 
