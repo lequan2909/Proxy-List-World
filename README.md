@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|103.178.21.76|8090|Indonesia|Sumberpucung|PT Trisna Mega Abadi|
-|6|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|7|103.154.230.104|8080|Indonesia|Lamongan|DIGITNET|
-|8|152.26.229.86|9443|United States|Concord|MCNC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|152.26.231.42|9443|United States|Concord|MCNC|
-|11|152.26.229.93|9443|United States|Concord|MCNC|
-|12|152.26.231.94|9443|United States|Concord|MCNC|
-|13|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|7|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|152.26.229.86|9443|United States|Concord|MCNC|
+|11|152.26.231.94|9443|United States|Concord|MCNC|
+|12|152.26.231.42|9443|United States|Concord|MCNC|
+|13|152.26.229.93|9443|United States|Concord|MCNC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |15|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|67.43.228.254|26685|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|18157|Canada|Montreal|GloboTech Communications|
-|18|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
-|19|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
+|16|190.60.103.99|3128|Colombia|Bogotá|IFX Corporation|
+|17|103.154.230.104|8080|Indonesia|Lamongan|DIGITNET|
+|18|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|19|103.55.159.51|6060|Indonesia|Sumbawa Besar|PT TELIO INTI NUSA|
+|20|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
 
 
 
