@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|8|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|152.26.229.93|9443|United States|Concord|MCNC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|6|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|8|189.85.82.38|3128|Brazil|Brasília|Networld Provedor e Servicos de Internet Ltda|
+|9|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |10|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|12|152.26.229.46|9443|United States|Concord|MCNC|
+|11|152.26.229.93|9443|United States|Concord|MCNC|
+|12|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |13|152.26.229.42|9443|United States|Concord|MCNC|
 |14|152.26.231.94|9443|United States|Concord|MCNC|
-|15|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|67.43.227.227|21575|Canada|Montreal|GloboTech Communications|
-|17|152.26.231.83|9443|United States|Concord|MCNC|
-|18|67.43.236.18|5387|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|152.26.229.46|9443|United States|Concord|MCNC|
+|16|152.26.231.83|9443|United States|Concord|MCNC|
+|17|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
