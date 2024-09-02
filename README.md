@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|158.69.31.71|3128|Canada|Montreal|OVH Hosting|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|115.74.5.71|8080|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|119.47.90.76|8080|Indonesia|Batang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|15|61.29.96.146|80|Australia|Melbourne|AAPT Limited|
-|16|23.95.216.78|34561|United States|Marietta|HostPapa|
-|17|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|18|178.150.253.205|8080|Ukraine|Kyiv|Triolan|
-|19|152.26.229.47|9443|United States|Concord|MCNC|
-|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|158.69.31.71|3128|Canada|Montreal|OVH Hosting|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|119.47.90.228|3127|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|11|152.26.229.47|9443|United States|Concord|MCNC|
+|12|152.26.231.86|9443|United States|Concord|MCNC|
+|13|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|72.10.164.178|21419|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.226|9419|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|21419|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|21419|Canada|Montreal|GloboTech Communications|
+|18|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|20|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
