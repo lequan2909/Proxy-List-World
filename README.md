@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|23.95.216.78|34561|United States|Marietta|HostPapa|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|12|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|72.10.164.178|4131|Canada|Montreal|GloboTech Communications|
-|14|23.95.216.78|34561|United States|Marietta|HostPapa|
-|15|67.43.228.253|22565|Canada|Montreal|GloboTech Communications|
-|16|103.167.114.211|8080|Indonesia|Jepara|Dinas Komunikasi dan Informatika Kabupaten Jepara|
-|17|152.26.229.93|9443|United States|Concord|MCNC|
-|18|156.254.238.203|40202|Hong Kong|Hong Kong|AresIDC Limited|
-|19|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|20|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|156.254.242.202|40149|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
+|6|202.57.25.152|8099|Indonesia|Semarang|announced of WINET|
+|7|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|23.95.216.78|34561|United States|Marietta|HostPapa|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|12|103.56.205.84|8080|Indonesia|Jakarta|Argon Data Communication|
+|13|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|14|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|16|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|72.10.164.178|19875|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.93|9443|United States|Concord|MCNC|
+|19|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|47.88.17.170|8118|United States|Minkler|Alibaba.com LLC|
 
 
 
