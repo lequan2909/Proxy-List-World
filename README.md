@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|167.86.91.203|3120|Germany|Nuremberg|Contabo GmbH|
 |3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|5|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|158.69.31.71|3128|Canada|Montreal|OVH Hosting|
-|7|152.26.231.93|9443|United States|Concord|MCNC|
-|8|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|9|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|103.165.157.79|8090|Indonesia|Taman|MEGADATA-ISP|
-|11|67.43.227.227|4559|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|2705|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|2705|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|2705|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|2705|Canada|Montreal|GloboTech Communications|
-|16|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|72.10.160.90|18543|Canada|Montreal|GloboTech Communications|
-|18|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|19|67.43.227.227|4559|Canada|Montreal|GloboTech Communications|
-|20|170.238.104.213|8080|Brazil|São Fidélis|Ubbinet Provedor de Servicos de Internet Ltda ME|
+|4|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|8|152.26.231.93|9443|United States|Concord|MCNC|
+|9|72.10.164.178|12381|Canada|Montreal|GloboTech Communications|
+|10|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|11|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|72.10.164.178|12381|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|12381|Canada|Montreal|GloboTech Communications|
+|14|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|15|103.243.177.90|8080|Indonesia|Kalicari|Universitas Katolik Soegijapranata|
+|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|17|72.10.164.178|12381|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
