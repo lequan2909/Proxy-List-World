@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|125.25.82.190|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|7|152.26.231.83|9443|United States|Concord|MCNC|
-|8|152.26.229.93|9443|United States|Concord|MCNC|
-|9|152.26.231.94|9443|United States|Concord|MCNC|
-|10|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|11|23.95.216.78|34561|United States|Marietta|HostPapa|
-|12|210.16.92.0|58080|India|Pune|Shree Balaji Infoway Private Limited|
-|13|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|15|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|16|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|17|72.10.160.173|19499|Canada|Montreal|GloboTech Communications|
-|18|152.26.231.42|9443|United States|Concord|MCNC|
-|19|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|177.43.72.250|3128|Brazil|Campo Grande|Vivo|
+|1|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|206.237.98.12|797|Indonesia|Jakarta|PT Herza Digital Indonesia|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|8|190.94.212.165|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|9|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|152.26.231.83|9443|United States|Concord|MCNC|
+|11|152.26.229.93|9443|United States|Concord|MCNC|
+|12|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|157.90.203.104|12988|Germany|Falkenstein|Hetzner Online GmbH|
+|15|152.26.231.94|9443|United States|Concord|MCNC|
+|16|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|181.209.82.202|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|18|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|20|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 
 
 
