@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|152.26.229.86|9443|United States|Concord|MCNC|
-|7|152.26.231.83|9443|United States|Concord|MCNC|
-|8|190.102.139.146|999|Peru|Punta Hermosa|Optical Technologies S.A.C.|
-|9|72.10.164.178|11563|Canada|Montreal|GloboTech Communications|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|7|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|8|152.26.229.86|9443|United States|Concord|MCNC|
+|9|152.26.231.83|9443|United States|Concord|MCNC|
 |10|152.26.229.47|9443|United States|Concord|MCNC|
 |11|152.26.231.94|9443|United States|Concord|MCNC|
-|12|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|13|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|209.146.20.228|8082|Philippines|Manila|Cogent Communications|
-|16|67.43.227.227|4695|Canada|Montreal|GloboTech Communications|
-|17|45.125.222.81|8080|Bangladesh|Dhaka|Carnival Internet|
-|18|72.10.164.178|11563|Canada|Montreal|GloboTech Communications|
-|19|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|67.43.236.20|13905|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.227|23541|Canada|Montreal|GloboTech Communications|
+|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|14|181.49.177.198|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|15|72.10.164.178|7061|Canada|Montreal|GloboTech Communications|
+|16|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|67.43.227.227|23541|Canada|Montreal|GloboTech Communications|
+|19|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
