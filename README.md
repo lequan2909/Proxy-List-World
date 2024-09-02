@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|3|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|159.203.104.153|4550|United States|Clifton|DigitalOcean, LLC|
+|5|23.95.216.78|34561|United States|Marietta|HostPapa|
 |6|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|7|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|9|72.10.160.93|30425|Canada|Montreal|GloboTech Communications|
+|7|23.95.216.78|34561|United States|Marietta|HostPapa|
+|8|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|9|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |10|152.26.229.42|9443|United States|Concord|MCNC|
-|11|72.10.164.178|28589|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|22761|Canada|Montreal|GloboTech Communications|
-|13|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|14|72.10.164.178|28589|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|3111|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.18|22119|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|28589|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|13873|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|26131|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.91|30409|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.93|6269|Canada|Montreal|GloboTech Communications|
+|12|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|67.43.227.227|17541|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|20171|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.230|10171|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|20171|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.170|14173|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|9321|Canada|Montreal|GloboTech Communications|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|67.43.227.230|10171|Canada|Montreal|GloboTech Communications|
 
 
 
