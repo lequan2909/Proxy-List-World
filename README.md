@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|81.19.141.2|3128|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|181.209.82.204|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|8|188.132.221.135|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|9|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|12|54.207.52.245|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|1|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
+|2|27.147.140.129|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|3|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
+|4|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|23.95.216.78|34561|United States|Marietta|HostPapa|
+|6|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|9|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|152.26.231.93|9443|United States|Concord|MCNC|
+|11|103.42.242.45|3125|Indonesia|Tangerang|PT. Jet Cyber Network Nusantara|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |13|23.95.216.78|34561|United States|Marietta|HostPapa|
-|14|152.26.231.93|9443|United States|Concord|MCNC|
-|15|72.10.160.174|4875|Canada|Montreal|GloboTech Communications|
-|16|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
-|17|67.43.236.20|2397|Canada|Montreal|GloboTech Communications|
-|18|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|14|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|15|171.241.193.60|10003|Vietnam|Thanh Hóa|Viettel Corporation|
+|16|45.122.228.10|8899|Australia|Wangaratta|NETPTYLTD|
+|17|72.10.164.178|26263|Canada|Montreal|GloboTech Communications|
+|18|216.10.247.145|3128|India|Mumbai|PDR|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|152.26.229.34|9443|United States|Concord|MCNC|
 
 
 
