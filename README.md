@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|116.105.56.44|5102|Vietnam|Quận Bảy|Viettel Corporation|
-|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|152.26.229.47|9443|United States|Concord|MCNC|
-|10|117.40.32.133|8080|China|Taohua|Chinanet|
-|11|222.243.174.132|81|China|Xiangtan|Chinanet|
-|12|173.212.244.38|3128|Germany|Nuremberg|Contabo GmbH|
-|13|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
-|14|67.43.236.18|7437|Canada|Montreal|GloboTech Communications|
-|15|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
-|16|152.26.229.46|9443|United States|Concord|MCNC|
-|17|72.10.164.178|24119|Canada|Montreal|GloboTech Communications|
-|18|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|19|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|54.216.70.217|3128|Ireland|Dublin|Amazon.com, Inc.|
+|5|64.227.6.0|4003|United States|North Bergen|DigitalOcean, LLC|
+|6|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|152.26.229.47|9443|United States|Concord|MCNC|
+|11|173.212.244.38|3128|Germany|Nuremberg|Contabo GmbH|
+|12|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
+|13|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|14|152.26.229.46|9443|United States|Concord|MCNC|
+|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|117.40.32.133|8080|China|Taohua|Chinanet|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
