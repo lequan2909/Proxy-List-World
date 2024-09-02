@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|4|156.254.238.207|40186|Hong Kong|Hong Kong|AresIDC Limited|
-|5|23.95.216.78|34561|United States|Marietta|HostPapa|
-|6|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|7|159.203.104.153|4550|United States|Clifton|DigitalOcean, LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|6|159.203.104.153|4550|United States|Clifton|DigitalOcean, LLC|
+|7|156.254.242.195|40081|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
 |8|15.204.161.192|18080|United States|Reston|OVH SAS|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|156.254.242.195|40081|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|11|159.203.104.153|4550|United States|Clifton|DigitalOcean, LLC|
-|12|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|13|103.247.23.72|7777|Indonesia|Bekasi|PT wifian Solution|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|156.254.238.211|40211|Hong Kong|Hong Kong|AresIDC Limited|
-|17|23.95.216.78|34561|United States|Marietta|HostPapa|
-|18|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|156.254.237.196|40003|Hong Kong|Hong Kong|AresIDC Limited|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|11|45.140.192.2|3128|Brazil|São Paulo|Qnax Ltda|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|156.254.237.196|40003|Hong Kong|Hong Kong|AresIDC Limited|
+|14|156.254.238.211|40211|Hong Kong|Hong Kong|AresIDC Limited|
+|15|159.203.104.153|4550|United States|Clifton|DigitalOcean, LLC|
+|16|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|17|156.254.238.207|40186|Hong Kong|Hong Kong|AresIDC Limited|
+|18|103.247.23.72|7777|Indonesia|Bekasi|PT wifian Solution|
+|19|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|20|160.248.191.6|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
