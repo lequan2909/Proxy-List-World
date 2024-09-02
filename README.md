@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|178.130.77.198|8080|Yemen|Dhamār|Yemen-net-bb-pool 178|
-|7|45.71.3.52|999|Ecuador|La Troncal|Sysnovelltel S.A|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|10|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|13|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|152.26.229.46|9443|United States|Concord|MCNC|
-|16|152.26.229.93|9443|United States|Concord|MCNC|
-|17|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|18|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|72.10.160.174|24847|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|4|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|157.10.97.167|8080|Indonesia|Bengkulu|PT Lintas Jaringan Nusantara|
+|7|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|101.255.167.253|8080|Indonesia|Bekasi|PT Remala Abadi|
+|9|41.216.186.183|8181|Indonesia|Purbalingga|FASTHOSTING|
+|10|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|23.95.216.78|34561|United States|Marietta|HostPapa|
+|12|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|87.126.65.11|1388|Bulgaria|Kazanlak|Vivacom Bulgaria EAD|
+|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|23.95.216.78|34561|United States|Marietta|HostPapa|
+|17|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|112.78.134.133|7777|Indonesia|Jakarta|Biznet Networks|
 
 
 
