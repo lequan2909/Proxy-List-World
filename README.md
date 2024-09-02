@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|202.169.51.46|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
-|5|158.69.31.71|3128|Canada|Montreal|OVH Hosting|
-|6|177.124.115.235|3131|Brazil|Mandaguaçu|MMER Provedor de Internet Ltda - ME|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|10|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|11|190.120.249.60|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
-|12|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|14|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|201.62.125.142|8080|Brazil|Rio Claro|Claro NXT Telecomunicacoes Ltda|
-|16|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|152.26.231.42|9443|United States|Concord|MCNC|
-|18|41.216.186.183|8181|Indonesia|Purbalingga|FASTHOSTING|
-|19|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|20|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|8|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|47.243.55.21|8118|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|152.26.231.42|9443|United States|Concord|MCNC|
+|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|13|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|14|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|15|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|119.18.149.110|5020|Bangladesh|Chittagong|BBTS Network|
+|17|23.95.216.78|34561|United States|Marietta|HostPapa|
+|18|152.26.231.94|9443|United States|Concord|MCNC|
+|19|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
