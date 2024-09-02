@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
-|5|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
-|6|158.69.31.71|3128|Canada|Montreal|OVH Hosting|
-|7|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|156.254.237.214|40055|Hong Kong|Hong Kong|AresIDC Limited|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
-|14|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|152.26.231.42|9443|United States|Concord|MCNC|
-|18|156.254.241.216|40143|Hong Kong|Hong Kong|AresIDC Limited|
-|19|152.26.231.83|9443|United States|Concord|MCNC|
-|20|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|6|220.150.76.92|6000|Japan|Chiyoda|FreeBit Co., Ltd.|
+|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|158.69.31.71|3128|Canada|Montreal|OVH Hosting|
+|15|156.254.237.214|40055|Hong Kong|Hong Kong|AresIDC Limited|
+|16|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
+|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|18|124.106.116.34|1337|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|19|156.254.241.216|40143|Hong Kong|Hong Kong|AresIDC Limited|
+|20|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
 
 
 
