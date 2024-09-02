@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|156.250.117.45|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|4|156.250.118.116|40094|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|5|156.250.119.165|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|156.250.116.228|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|8|156.250.119.172|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|9|156.250.117.24|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|10|160.248.191.6|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|152.26.231.93|9443|United States|Concord|MCNC|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
-|18|152.26.229.34|9443|United States|Concord|MCNC|
-|19|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|20|72.10.164.178|26421|Canada|Montreal|GloboTech Communications|
+|2|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|156.250.116.228|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|7|156.250.118.116|40094|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|8|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|160.248.191.6|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|152.26.231.93|9443|United States|Concord|MCNC|
+|13|72.10.164.178|15841|Canada|Montreal|GloboTech Communications|
+|14|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|15|156.250.119.165|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
+|16|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|152.26.229.86|9443|United States|Concord|MCNC|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
+|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
