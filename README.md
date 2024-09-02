@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|145.239.86.159|8888|Poland|Wroclaw|OVH SAS|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|6|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|7|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|152.26.229.83|9443|United States|Concord|MCNC|
+|6|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|63.151.67.7|8080|United States|Hayden|Visionary Communications, Inc.|
+|8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
 |9|72.10.160.92|1525|Canada|Montreal|GloboTech Communications|
-|10|144.86.187.60|3129|United States|Malden|Charles River Operation|
-|11|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|12|67.43.236.20|4557|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.174|31765|Canada|Montreal|GloboTech Communications|
-|14|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|17|52.72.189.18|3128|United States|Ashburn|Amazon.com, Inc.|
-|18|145.239.86.159|8888|Poland|Wroclaw|OVH SAS|
-|19|67.43.236.20|4557|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|2033|Canada|Montreal|GloboTech Communications|
+|10|152.26.229.83|9443|United States|Concord|MCNC|
+|11|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
+|12|72.10.160.174|13361|Canada|Montreal|GloboTech Communications|
+|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|14|167.86.91.203|3120|Germany|Nuremberg|Contabo GmbH|
+|15|103.139.25.121|8080|Indonesia|Celep|Universitas Muhammadiyah Sidoarjo|
+|16|67.43.227.227|12077|Canada|Montreal|GloboTech Communications|
+|17|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|72.10.164.178|11189|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|11189|Canada|Montreal|GloboTech Communications|
+|20|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
 
 
 
