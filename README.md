@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
-|6|167.86.91.203|3120|Germany|Nuremberg|Contabo GmbH|
-|7|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|152.26.229.47|9443|United States|Concord|MCNC|
-|10|72.10.160.173|11105|Canada|Montreal|GloboTech Communications|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|72.10.164.178|13489|Canada|Montreal|GloboTech Communications|
-|13|152.26.229.86|9443|United States|Concord|MCNC|
-|14|72.10.160.170|10701|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|13489|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.173|11105|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|3049|Canada|Montreal|GloboTech Communications|
-|18|109.74.35.20|8080|Yemen|Taiz|Public Telecommunication Corporation|
-|19|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|23.95.216.78|34561|United States|Marietta|HostPapa|
+|6|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
+|7|116.202.165.119|3121|Germany|Falkenstein|Hetzner Online GmbH|
+|8|45.249.122.198|8080|India|Coimbatore|Airconnect Services|
+|9|103.180.123.219|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|10|167.86.91.203|3120|Germany|Nuremberg|Contabo GmbH|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|43.252.11.68|8484|Indonesia|Jakarta|QUANTUMNET|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|152.26.229.47|9443|United States|Concord|MCNC|
+|17|152.26.229.86|9443|United States|Concord|MCNC|
+|18|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|72.10.164.178|11335|Canada|Montreal|GloboTech Communications|
 |20|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
