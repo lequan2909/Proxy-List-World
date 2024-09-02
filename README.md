@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|114.9.26.238|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|6|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
-|7|167.86.91.203|3120|Germany|Nuremberg|Contabo GmbH|
-|8|36.88.111.250|8787|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|9|103.187.162.75|8080|Indonesia|Sepatan|PT Misqot Sejahtera Indonesia|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|167.86.91.203|3120|Germany|Nuremberg|Contabo GmbH|
+|5|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
+|6|152.26.231.83|9443|United States|Concord|MCNC|
+|7|152.26.231.86|9443|United States|Concord|MCNC|
+|8|152.26.231.93|9443|United States|Concord|MCNC|
+|9|152.26.231.94|9443|United States|Concord|MCNC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |11|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|152.26.231.94|9443|United States|Concord|MCNC|
-|13|152.26.231.86|9443|United States|Concord|MCNC|
-|14|152.26.231.93|9443|United States|Concord|MCNC|
-|15|152.26.231.83|9443|United States|Concord|MCNC|
-|16|72.10.164.178|12211|Canada|Montreal|GloboTech Communications|
-|17|138.59.227.248|999|Paraguay|Ayolas|Aranda Cardozo Lider Ramon|
-|18|186.16.14.104|3131|Paraguay|Asunción|Telecel S.A.|
-|19|152.26.229.86|9443|United States|Concord|MCNC|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|12|152.26.229.86|9443|United States|Concord|MCNC|
+|13|152.26.231.42|9443|United States|Concord|MCNC|
+|14|152.26.229.83|9443|United States|Concord|MCNC|
+|15|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|17|181.129.74.58|40667|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|18|131.0.226.198|9898|Brazil|Itapororoca|1telecom Servicos De Tecnologia EM Internet Ltda|
+|19|152.26.229.47|9443|United States|Concord|MCNC|
+|20|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
 
 
 
