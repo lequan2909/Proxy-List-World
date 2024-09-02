@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|489|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|489|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|489|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|414|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|414|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|414|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|10|43.205.253.4|3128|India|Mumbai|Amazon.com, Inc.|
-|11|145.239.86.159|8888|Poland|Wroclaw|OVH SAS|
-|12|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|103.137.218.233|83|India|Bānka|Nandbalaji Connecting Zone Pvt. Ltd|
-|18|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|23.95.216.78|34561|United States|Marietta|HostPapa|
-|20|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|158.140.169.9|8081|Indonesia|Jakarta|MYREPUBLIC|
+|13|145.239.86.159|8888|Poland|Wroclaw|OVH SAS|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|179.60.240.69|53281|Colombia|Bogotá|ITELKOM|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|103.231.203.234|8080|Indonesia|Bekasi|East Regional|
 
 
 
