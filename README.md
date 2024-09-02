@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|165.22.51.133|8888|Singapore|Singapore|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|165.22.51.133|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |4|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |5|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|144.91.78.142|3128|Germany|Nuremberg|Contabo GmbH|
-|10|152.26.229.86|9443|United States|Concord|MCNC|
-|11|152.26.229.93|9443|United States|Concord|MCNC|
-|12|152.26.229.83|9443|United States|Concord|MCNC|
-|13|200.24.152.210|999|Ecuador|Tosagua|Negocios Y Telefonia Nedetel S.A|
-|14|72.10.164.178|4449|Canada|Montreal|GloboTech Communications|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|67.43.227.228|27975|Canada|Montreal|GloboTech Communications|
-|17|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|19|67.43.227.227|18285|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|144.91.78.142|3128|Germany|Nuremberg|Contabo GmbH|
+|8|103.173.244.210|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|9|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|186.96.174.168|80|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|11|27.147.132.145|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|12|152.26.229.93|9443|United States|Concord|MCNC|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
+|14|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
+|15|152.26.229.83|9443|United States|Concord|MCNC|
+|16|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|18|72.10.164.178|20391|Canada|Montreal|GloboTech Communications|
+|19|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
