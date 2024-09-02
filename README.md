@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |4|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
 |7|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|8|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|9|145.239.86.159|8888|Poland|Wroclaw|OVH SAS|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|12|103.156.233.157|3456|Indonesia|Bogor|MULTIMEDIALINKTECH|
-|13|103.125.174.13|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|8|201.77.108.64|999|Mexico|Jiménez Municipality|Nidix Networks S.a. De C.V.|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|13.38.88.163|3128|France|Paris|Amazon Technologies Inc.|
+|11|101.255.123.18|8181|Indonesia|Jakarta|PT Remala Abadi|
+|12|27.50.29.82|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|13|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |14|152.26.229.42|9443|United States|Concord|MCNC|
 |15|152.26.229.34|9443|United States|Concord|MCNC|
 |16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|23.95.216.78|34561|United States|Marietta|HostPapa|
-|19|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|20|118.117.188.47|8089|China|Muping|Chinanet|
+|17|103.171.244.45|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|18|152.26.229.86|9443|United States|Concord|MCNC|
+|19|88.150.15.30|80|Germany|Magdeburg|MDlink online service center GmbH|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
