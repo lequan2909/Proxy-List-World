@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|158.69.31.71|3128|Canada|Montreal|OVH Hosting|
-|5|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|6|78.38.11.59|8080|Iran|Urmia|Adsl Project Azargharbi Data|
-|7|23.95.216.78|34561|United States|Marietta|HostPapa|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|3|158.69.31.71|3128|Canada|Montreal|OVH Hosting|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|7|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
 |8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|66.96.233.62|8085|Indonesia|Jakarta|MYREPUBLIC|
-|10|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|11|23.95.216.78|34561|United States|Marietta|HostPapa|
-|12|152.26.229.83|9443|United States|Concord|MCNC|
-|13|152.26.229.34|9443|United States|Concord|MCNC|
-|14|152.26.229.93|9443|United States|Concord|MCNC|
-|15|152.26.229.42|9443|United States|Concord|MCNC|
-|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|17|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|152.26.229.46|9443|United States|Concord|MCNC|
-|19|103.111.136.110|443|Indonesia|Samarinda|FAZNET|
-|20|72.10.164.178|24931|Canada|Montreal|GloboTech Communications|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|78.38.11.59|8080|Iran|Urmia|Adsl Project Azargharbi Data|
+|11|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|12|58.147.186.226|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|103.111.136.82|8080|Indonesia|Samarinda|FAZNET|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.229.34|9443|United States|Concord|MCNC|
 
 
 
