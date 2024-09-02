@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
-|5|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|152.26.231.94|9443|United States|Concord|MCNC|
-|7|152.26.231.93|9443|United States|Concord|MCNC|
-|8|72.10.164.178|12989|Canada|Montreal|GloboTech Communications|
-|9|115.72.119.87|1001|Vietnam|Đồng Nai Province|VIETELmetro|
-|10|67.43.227.227|13691|Canada|Montreal|GloboTech Communications|
-|11|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|45.122.228.10|8899|Australia|Kuttabul|NETPTYLTD|
-|15|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|72.10.160.90|2739|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|12989|Canada|Montreal|GloboTech Communications|
-|19|156.250.119.165|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|20|67.43.227.230|14105|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|156.250.117.20|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|10|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|54.149.53.151|3128|United States|Portland|Amazon.com, Inc.|
+|12|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
+|13|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|152.26.231.94|9443|United States|Concord|MCNC|
+|15|152.26.231.93|9443|United States|Concord|MCNC|
+|16|115.72.119.87|1001|Vietnam|Đồng Nai Province|VIETELmetro|
+|17|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|18|72.10.164.178|32263|Canada|Montreal|GloboTech Communications|
+|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
