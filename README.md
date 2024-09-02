@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
-|3|67.43.227.227|12557|Canada|Montreal|GloboTech Communications|
-|4|72.10.160.174|12581|Canada|Montreal|GloboTech Communications|
-|5|152.26.229.93|9443|United States|Concord|MCNC|
-|6|72.10.160.90|11169|Canada|Montreal|GloboTech Communications|
-|7|67.43.227.228|12557|Canada|Montreal|GloboTech Communications|
-|8|152.26.229.86|9443|United States|Concord|MCNC|
-|9|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|10|67.43.227.226|27107|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|11521|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|11521|Canada|Montreal|GloboTech Communications|
-|13|103.236.177.154|8081|Philippines|Manila|Infinivan Incorporated|
-|14|72.10.160.90|11169|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|11521|Canada|Montreal|GloboTech Communications|
-|16|54.149.53.151|3128|United States|Portland|Amazon.com, Inc.|
-|17|67.43.228.252|22275|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|11521|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.19|1475|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.94|9443|United States|Concord|MCNC|
+|2|152.26.229.86|9443|United States|Concord|MCNC|
+|3|152.26.229.93|9443|United States|Concord|MCNC|
+|4|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|5|72.10.164.178|31377|Canada|Montreal|GloboTech Communications|
+|6|67.43.227.226|27621|Canada|Montreal|GloboTech Communications|
+|7|72.10.164.178|31377|Canada|Montreal|GloboTech Communications|
+|8|103.105.55.170|8085|Indonesia|Klaten|PT. Mega Artha Lintas Data|
+|9|152.26.229.42|9443|United States|Concord|MCNC|
+|10|67.43.228.252|22275|Canada|Montreal|GloboTech Communications|
+|11|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|152.26.231.94|9443|United States|Concord|MCNC|
+|13|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|14|72.10.160.90|8491|Canada|Montreal|GloboTech Communications|
+|15|152.26.231.83|9443|United States|Concord|MCNC|
+|16|72.10.164.178|31377|Canada|Montreal|GloboTech Communications|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|67.43.227.227|12607|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|31377|Canada|Montreal|GloboTech Communications|
 
 
 
