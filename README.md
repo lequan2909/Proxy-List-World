@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|6|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|84.204.135.252|8080|Russia|St Petersburg|PJSC MegaFon|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|190.202.111.202|8080|Venezuela|Caracas|CANTV Servicios, Venezuela|
-|11|103.112.149.41|8080|Bangladesh|Khulna|Royalnet|
-|12|154.73.28.253|8080|Libya|Tripoli|Rawafed|
-|13|101.128.78.202|32650|Indonesia|Palembang|CBN|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|152.26.231.93|9443|United States|Concord|MCNC|
-|20|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.176.97.223|3127|Indonesia|Purwakarta|PT Global Sarana Elektronika|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|36.73.93.124|8080|Indonesia|Yogyakarta|PT. TELKOM INDONESIA|
+|10|158.69.31.71|3128|Canada|Montreal|OVH Hosting|
+|11|152.26.231.93|9443|United States|Concord|MCNC|
+|12|152.26.229.42|9443|United States|Concord|MCNC|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
+|14|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|72.10.164.178|17137|Canada|Montreal|GloboTech Communications|
+|16|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|27.121.82.102|8080|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
 
 
 
