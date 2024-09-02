@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|158.69.31.71|3128|Canada|Montreal|OVH Hosting|
-|7|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
+|1|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|3|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|91.238.105.56|8080|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|8|103.172.70.28|1111|Indonesia|Gemolong|AZNET|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|12|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|45.142.213.55|3128|Latvia|Riga|Stark Industries Solutions LTD|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|23.95.216.78|34561|United States|Marietta|HostPapa|
-|20|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|11|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|23.95.216.78|34561|United States|Marietta|HostPapa|
+|13|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|14|152.26.231.94|9443|United States|Concord|MCNC|
+|15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|16|152.26.231.83|9443|United States|Concord|MCNC|
+|17|152.26.229.86|9443|United States|Concord|MCNC|
+|18|103.149.238.27|3128|Indonesia|Pasuruan|PT BITNIAGA CIPTA GEMILANG|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|67.43.236.20|13175|Canada|Montreal|GloboTech Communications|
 
 
 
