@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |4|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|7|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|101.255.123.18|8181|Indonesia|Jakarta|PT Remala Abadi|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|173.212.244.38|3128|Germany|Nuremberg|Contabo GmbH|
-|12|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|13|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|14|103.19.130.50|8080|Bangladesh|Dhaka|InfoLink|
-|15|103.169.38.118|8080|Indonesia|Klaten|PT Boombas Carlo Medianet|
-|16|103.165.64.74|83|India|Raipur|Navyug Networks Info Private Limited|
-|17|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|8|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|9|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|10|180.94.12.137|8080|Indonesia|Siak Sri Indrapura|PT Agsa Global Network|
+|11|103.165.64.74|83|India|Raipur|Navyug Networks Info Private Limited|
+|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|13|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|14|103.167.171.216|1111|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
+|15|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|167.249.29.215|999|Chile|Santiago|Grupo Metrowan Telecom SPA|
+|17|152.26.229.86|9443|United States|Concord|MCNC|
 |18|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|113.160.241.196|19132|Vietnam|Yên Lập|VietNam Post and Telecom Corporation|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
