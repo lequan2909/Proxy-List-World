@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|103.168.254.162|8086|Indonesia|Kudus|PT Fahasa Tri Data|
 |6|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|177.124.115.235|3131|Brazil|Mandaguaçu|MMER Provedor de Internet Ltda - ME|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |10|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|152.26.229.46|9443|United States|Concord|MCNC|
-|12|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|11|181.39.24.156|999|Ecuador|Guayaquil|Telconet S.A|
+|12|201.62.125.142|8080|Brazil|Rio Claro|Claro NXT Telecomunicacoes Ltda|
 |13|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|14|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|72.10.164.178|16151|Canada|Montreal|GloboTech Communications|
-|16|152.26.231.94|9443|United States|Concord|MCNC|
-|17|23.95.216.78|34561|United States|Marietta|HostPapa|
-|18|23.95.216.78|34561|United States|Marietta|HostPapa|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|14|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
+|15|152.26.229.46|9443|United States|Concord|MCNC|
+|16|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|72.10.164.178|9751|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
