@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|2|206.237.98.12|797|Indonesia|Jakarta|PT Herza Digital Indonesia|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|206.237.98.12|797|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|5|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.248.190.241|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|152.26.229.93|9443|United States|Concord|MCNC|
-|12|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|13|67.43.227.227|8841|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|22907|Canada|Montreal|GloboTech Communications|
-|15|41.216.42.170|8080|Benin|Cotonou|SOCIETE BENINOISE D'INFRASTRUCTURES NUMERIQUES|
-|16|72.10.164.178|5723|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|5723|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|2917|Canada|Montreal|GloboTech Communications|
-|19|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|20|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|4|160.248.190.241|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|45.174.57.22|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|7|152.26.229.93|9443|United States|Concord|MCNC|
+|8|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
+|9|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|10|103.127.135.14|3128|Indonesia|Ciputat|PT Biznet Gio Nusantara|
+|11|23.95.216.78|34561|United States|Marietta|HostPapa|
+|12|72.10.164.178|5723|Canada|Montreal|GloboTech Communications|
+|13|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|15|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|16|106.227.87.11|3128|China|Taohua|China Telecom|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|67.43.227.228|32525|Canada|Montreal|GloboTech Communications|
+|19|111.1.61.51|3128|China|Wenzhou|China Mobile communications corporation|
+|20|103.40.121.91|8080|Indonesia|Temanggung|PT DINAMIKA MEDIAKOM|
 
 
 
