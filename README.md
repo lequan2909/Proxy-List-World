@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.171.244.45|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |4|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |5|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|6|101.109.51.182|8080|Thailand|Pattaya|TOT Public Company Limited|
-|7|23.95.216.78|34561|United States|Marietta|HostPapa|
-|8|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|10|72.10.164.178|25691|Canada|Montreal|GloboTech Communications|
-|11|152.26.231.86|9443|United States|Concord|MCNC|
-|12|186.86.143.161|999|Colombia|San Gil|Telmex Colombia S.A.|
-|13|173.212.244.38|3128|Germany|Nuremberg|Contabo GmbH|
-|14|152.26.229.47|9443|United States|Concord|MCNC|
-|15|152.26.231.93|9443|United States|Concord|MCNC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|9|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|23.95.216.78|34561|United States|Marietta|HostPapa|
+|11|23.95.216.78|34561|United States|Marietta|HostPapa|
+|12|152.26.231.86|9443|United States|Concord|MCNC|
+|13|152.26.229.47|9443|United States|Concord|MCNC|
+|14|152.26.231.93|9443|United States|Concord|MCNC|
+|15|72.10.160.172|17101|Canada|Montreal|GloboTech Communications|
 |16|209.14.84.51|8888|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
-|17|111.1.61.54|3128|China|Wenzhou|China Mobile communications corporation|
-|18|67.43.228.250|2301|Canada|Montreal|GloboTech Communications|
-|19|77.105.136.28|1995|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|152.26.231.83|9443|United States|Concord|MCNC|
+|19|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|20|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
