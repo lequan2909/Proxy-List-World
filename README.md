@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|77.41.146.61|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|6|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|7|152.26.231.42|9443|United States|Concord|MCNC|
-|8|152.26.231.94|9443|United States|Concord|MCNC|
-|9|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|179.228.17.8|8080|Brazil|São Paulo|Vivo|
-|11|67.43.228.253|27273|Canada|Montreal|GloboTech Communications|
-|12|173.249.60.246|14344|Germany|Nuremberg|Contabo GmbH|
-|13|72.10.164.178|2033|Canada|Montreal|GloboTech Communications|
-|14|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|103.51.21.165|8080|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
-|17|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
-|18|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|38.7.3.4|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|20|106.227.87.11|3128|China|Taohua|China Telecom|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|81.19.141.2|3128|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|77.41.146.61|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|36.77.218.239|8081|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|9|103.112.244.254|5656|Indonesia|Cikarang|PT. Tujuh Ion Indonesia|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|12|152.26.231.42|9443|United States|Concord|MCNC|
+|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|14|152.26.231.94|9443|United States|Concord|MCNC|
+|15|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|167.86.91.203|3120|Germany|Nuremberg|Contabo GmbH|
+|18|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
+|20|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
