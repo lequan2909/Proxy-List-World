@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|77.41.146.61|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|72.10.160.92|19637|Canada|Montreal|GloboTech Communications|
-|8|152.26.229.93|9443|United States|Concord|MCNC|
-|9|152.26.229.47|9443|United States|Concord|MCNC|
-|10|152.26.231.42|9443|United States|Concord|MCNC|
-|11|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|103.112.244.254|5656|Indonesia|Cikarang|PT. Tujuh Ion Indonesia|
-|13|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|15|188.132.221.233|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|152.26.229.83|9443|United States|Concord|MCNC|
-|17|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
-|20|180.211.183.130|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|77.41.146.61|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|38.183.209.61|8080|Indonesia|Tangerang|PT. Putra Lebak Banten|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|152.26.229.93|9443|United States|Concord|MCNC|
+|15|152.26.229.47|9443|United States|Concord|MCNC|
+|16|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
+|17|72.10.160.92|19637|Canada|Montreal|GloboTech Communications|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|179.228.17.8|8080|Brazil|São Paulo|Vivo|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
