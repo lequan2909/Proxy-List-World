@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|4|112.78.165.96|8080|Indonesia|Jakarta|Biznet Networks|
-|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|206.201.3.83|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|10|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|72.10.164.178|28633|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.83|9443|United States|Concord|MCNC|
-|15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|45.140.192.2|3128|Brazil|São Paulo|Qnax Ltda|
-|17|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|18|72.10.164.178|28633|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|4193|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|28633|Canada|Montreal|GloboTech Communications|
+|3|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|152.26.229.83|9443|United States|Concord|MCNC|
+|9|152.26.229.86|9443|United States|Concord|MCNC|
+|10|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|11|165.16.27.36|1981|Libya|Benghazi|Aljeel Aljadeed For Technology|
+|12|72.10.164.178|23515|Canada|Montreal|GloboTech Communications|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|165.16.31.18|8080|Libya|Benghazi|Aljeel Aljadeed For Technology|
+|15|72.10.164.178|23515|Canada|Montreal|GloboTech Communications|
+|16|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|72.10.160.94|25361|Canada|Montreal|GloboTech Communications|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
+|20|67.43.227.227|1627|Canada|Montreal|GloboTech Communications|
 
 
 
