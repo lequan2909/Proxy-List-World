@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|396|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|396|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|396|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|77.41.146.61|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|4|93.190.14.199|8080|Turkey|Osmangazi|Kobikom Telekomunikasyon Bilisim Hizmetler SAN VE TIC AS|
-|5|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|136.243.148.158|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|72.10.160.170|19635|Canada|Montreal|GloboTech Communications|
-|8|67.43.227.227|17525|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|188.132.221.233|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |9|152.26.229.47|9443|United States|Concord|MCNC|
-|10|67.43.227.227|17525|Canada|Montreal|GloboTech Communications|
-|11|117.40.32.135|8080|China|Taohua|Chinanet|
-|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|15|115.223.31.70|20036|China|Wenzhou|China Telecom|
-|16|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|152.26.231.93|9443|United States|Concord|MCNC|
-|18|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
-|19|72.10.160.90|5277|Canada|Montreal|GloboTech Communications|
-|20|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|10|152.26.231.93|9443|United States|Concord|MCNC|
+|11|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|12|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
+|13|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|72.10.160.171|1041|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|30943|Canada|Montreal|GloboTech Communications|
+|16|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|67.43.227.227|17525|Canada|Montreal|GloboTech Communications|
+|20|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
 
 
 
