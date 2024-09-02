@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|116.58.232.193|8080|Thailand|Dusit|CAT Telecom Public Company Limited|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|91.238.105.56|8080|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|156.254.243.195|40027|Hong Kong|Hong Kong|LUOGELANG (FRANCE) LIMITED|
-|11|23.95.216.78|34561|United States|Marietta|HostPapa|
-|12|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|13|72.10.164.178|5009|Canada|Montreal|GloboTech Communications|
-|14|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|152.26.231.93|9443|United States|Concord|MCNC|
-|16|23.95.216.78|34561|United States|Marietta|HostPapa|
-|17|152.26.229.93|9443|United States|Concord|MCNC|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
-|20|72.10.160.92|14743|Canada|Montreal|GloboTech Communications|
+|3|116.58.232.193|8080|Thailand|Dusit|CAT Telecom Public Company Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|7|91.238.105.56|8080|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|8|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|156.254.238.211|40211|Hong Kong|Hong Kong|AresIDC Limited|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|13|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|72.10.160.92|5635|Canada|Montreal|GloboTech Communications|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|72.10.164.178|33113|Canada|Montreal|GloboTech Communications|
+|18|152.26.231.93|9443|United States|Concord|MCNC|
+|19|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
 
