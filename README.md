@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|6|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|7|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|78.38.11.59|8080|Iran|Urmia|Adsl Project Azargharbi Data|
-|12|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|36.93.130.218|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
-|15|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|158.69.31.71|3128|Canada|Montreal|OVH Hosting|
-|17|190.94.213.109|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|18|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|152.26.229.34|9443|United States|Concord|MCNC|
-|20|152.26.231.94|9443|United States|Concord|MCNC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|78.38.11.59|8080|Iran|Urmia|Adsl Project Azargharbi Data|
+|8|103.69.106.183|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|89.117.152.126|3128|Germany|Frankfurt am Main|Limestone Networks, Inc.|
+|13|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|15|222.127.242.123|8082|Philippines|Iloilo City|GLBB|
+|16|66.96.233.62|8085|Indonesia|Jakarta|MYREPUBLIC|
+|17|152.26.231.94|9443|United States|Concord|MCNC|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
