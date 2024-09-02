@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|158.69.31.71|3128|Canada|Montreal|OVH Hosting|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|103.179.182.211|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|13|23.95.216.78|34561|United States|Marietta|HostPapa|
-|14|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|61.29.96.146|80|Australia|Melbourne|AAPT Limited|
-|17|115.74.5.71|8080|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|177.36.14.137|8080|Brazil|Limoeiro|1telecom Servicos De Tecnologia EM Internet Ltda|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|122.185.198.242|7999|India|New Delhi|Bharti Airtel Limited|
+|16|119.18.149.110|5020|Bangladesh|Chittagong|BBTS Network|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
 
