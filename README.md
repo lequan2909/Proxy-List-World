@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|437|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|437|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|437|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|5|158.69.31.71|3128|Canada|Montreal|OVH Hosting|
-|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|206.189.186.33|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|5.42.72.98|3128|Sweden|Stockholm|Aeza International LTD|
-|13|23.95.216.78|34561|United States|Marietta|HostPapa|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|16|105.112.191.250|3128|Nigeria|Lagos|Airtel Networks Limited|
-|17|122.2.48.121|8080|Philippines|Ormoc City|Philippine Long Distance Telephone Co.|
-|18|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|19|206.189.186.33|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|156.254.241.213|40225|Hong Kong|Hong Kong|AresIDC Limited|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|103.107.85.249|1111|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
+|8|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
+|9|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|10|158.69.31.71|3128|Canada|Montreal|OVH Hosting|
+|11|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
+|12|159.203.104.153|4550|United States|Clifton|DigitalOcean, LLC|
+|13|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|23.95.216.78|34561|United States|Marietta|HostPapa|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|23.95.216.78|34561|United States|Marietta|HostPapa|
+|19|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|20|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
