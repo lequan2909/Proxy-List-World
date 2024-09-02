@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5290** proxies at the latest update. Usable proxies are below.
+> Scraper found **5242** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|19|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|745|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|697|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|120|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3448|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|4|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|157.10.97.167|8080|Indonesia|Bengkulu|PT Lintas Jaringan Nusantara|
-|7|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|101.255.167.253|8080|Indonesia|Bekasi|PT Remala Abadi|
-|9|41.216.186.183|8181|Indonesia|Purbalingga|FASTHOSTING|
-|10|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|23.95.216.78|34561|United States|Marietta|HostPapa|
-|12|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|87.126.65.11|1388|Bulgaria|Kazanlak|Vivacom Bulgaria EAD|
-|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|23.95.216.78|34561|United States|Marietta|HostPapa|
-|17|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|112.78.134.133|7777|Indonesia|Jakarta|Biznet Networks|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|18.228.173.65|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|103.88.239.197|84|India|Hyderabad|Mana Communications|
+|9|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|110.39.42.211|8080|Pakistan|Lahore|Wateen Telecom Limited|
+|12|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|13|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|14|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|23.95.216.78|34561|United States|Marietta|HostPapa|
+|16|45.224.22.30|999|Ecuador|Riobamba|Ufinet Panama S.A.|
+|17|189.85.82.38|3128|Brazil|Brasília|Networld Provedor e Servicos de Internet Ltda|
+|18|202.169.51.46|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
+|19|223.25.110.206|1080|Indonesia|Surabaya|SinergiNet|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
