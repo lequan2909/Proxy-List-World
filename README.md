@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|158.69.31.71|3128|Canada|Montreal|OVH Hosting|
+|3|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|23.95.216.78|34561|United States|Marietta|HostPapa|
-|6|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|103.76.151.114|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|9|116.105.18.90|10004|Vietnam|Da Nang|Viettel Corporation|
-|10|156.254.241.218|40201|Hong Kong|Hong Kong|AresIDC Limited|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|8|156.254.239.212|40187|Hong Kong|Hong Kong|AresIDC Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|23.95.216.78|34561|United States|Marietta|HostPapa|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|103.181.92.250|83|India|Pune|Vishwakarma Broadband Private Limited|
-|17|152.26.229.83|9443|United States|Concord|MCNC|
-|18|152.26.229.46|9443|United States|Concord|MCNC|
+|14|156.254.241.218|40201|Hong Kong|Hong Kong|AresIDC Limited|
+|15|103.76.151.114|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|16|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|187.190.249.114|1994|Mexico|Othón P. Blanco|Total Play Telecomunicaciones SA De CV|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
 |19|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|20|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 
 
 
