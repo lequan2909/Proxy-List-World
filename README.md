@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|4|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|7|152.26.229.47|9443|United States|Concord|MCNC|
-|8|152.26.229.34|9443|United States|Concord|MCNC|
-|9|152.26.231.83|9443|United States|Concord|MCNC|
-|10|216.10.247.145|3128|India|Mumbai|PDR|
-|11|38.242.245.172|3128|Germany|Düsseldorf|Contabo GmbH|
-|12|67.43.227.227|4299|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|20661|Canada|Montreal|GloboTech Communications|
-|14|117.40.32.133|8080|China|Taohua|Chinanet|
-|15|45.182.23.33|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|16|72.10.164.178|25783|Canada|Montreal|GloboTech Communications|
-|17|193.30.13.20|999|Ecuador|Manta|Eliana Vanessa Morocho Oña|
-|18|72.10.160.170|5883|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|4299|Canada|Montreal|GloboTech Communications|
-|20|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|158.69.31.71|3128|Canada|Montreal|OVH Hosting|
+|3|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|4|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|5|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|150.129.5.226|8080|Pakistan|Karachi|Ebone Network (Pvt) Ltd|
+|8|152.26.229.47|9443|United States|Concord|MCNC|
+|9|152.26.229.34|9443|United States|Concord|MCNC|
+|10|152.26.231.83|9443|United States|Concord|MCNC|
+|11|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|152.26.229.42|9443|United States|Concord|MCNC|
+|13|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|152.26.231.93|9443|United States|Concord|MCNC|
+|15|67.43.227.227|4299|Canada|Montreal|GloboTech Communications|
+|16|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|152.26.231.94|9443|United States|Concord|MCNC|
+|18|117.40.32.133|8080|China|Taohua|Chinanet|
+|19|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.164.178|1953|Canada|Montreal|GloboTech Communications|
 
 
 
