@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|167.86.91.203|3120|Germany|Nuremberg|Contabo GmbH|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |5|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|72.10.164.178|9965|Canada|Montreal|GloboTech Communications|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|152.26.229.46|9443|United States|Concord|MCNC|
-|12|152.26.229.47|9443|United States|Concord|MCNC|
+|6|36.88.111.250|8787|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|7|180.211.162.146|8080|Bangladesh|Kāfrul|Bangladesh Telegraph & Telephone Board|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|167.86.91.203|3120|Germany|Nuremberg|Contabo GmbH|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|170.238.104.213|8080|Brazil|São Fidélis|Ubbinet Provedor de Servicos de Internet Ltda ME|
+|12|94.43.164.242|8080|Georgia|Batumi|JSC "Silknet"|
 |13|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|72.10.164.178|9965|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|28233|Canada|Montreal|GloboTech Communications|
-|16|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
-|17|173.249.60.246|14344|Germany|Nuremberg|Contabo GmbH|
-|18|67.43.236.20|12119|Canada|Montreal|GloboTech Communications|
-|19|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|14|116.105.18.90|10003|Vietnam|Da Nang|Viettel Corporation|
+|15|152.26.229.47|9443|United States|Concord|MCNC|
+|16|152.26.229.46|9443|United States|Concord|MCNC|
+|17|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
+|18|72.10.164.178|12551|Canada|Montreal|GloboTech Communications|
+|19|103.184.54.3|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
 |20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
