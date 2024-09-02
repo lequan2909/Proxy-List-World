@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|4|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|5|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|7|207.180.216.251|8118|Germany|Nuremberg|Contabo GmbH|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|115.77.229.11|8085|Vietnam|Ho Chi Minh City|Viettel Group|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|145.239.86.159|8888|Poland|Wroclaw|OVH SAS|
 |11|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|12|145.239.86.159|8888|Poland|Wroclaw|OVH SAS|
-|13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|14|212.110.188.204|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|15|23.162.160.1|16099|United States|McAllen|SMARTCOM TELEPHONE, LLC|
-|16|101.255.123.18|8181|Indonesia|Jakarta|PT Remala Abadi|
-|17|103.125.174.13|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|152.26.229.93|9443|United States|Concord|MCNC|
+|12|89.46.249.248|25585|United Kingdom|London|Hydra Communications Ltd|
+|13|23.162.160.1|16099|United States|McAllen|SMARTCOM TELEPHONE, LLC|
+|14|190.128.195.58|999|Paraguay|Luque|Telecel S.A.|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
+|18|152.26.229.93|9443|United States|Concord|MCNC|
+|19|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|20|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
 
 
 
