@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|176.192.80.10|3128|Russia|Moscow|Net By Net Holding LLC|
-|8|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|11|152.26.229.34|9443|United States|Concord|MCNC|
-|12|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|13|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|14|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|15|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
-|16|160.248.190.241|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
+|5|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|152.26.229.34|9443|United States|Concord|MCNC|
+|13|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|160.248.190.241|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|17|54.149.53.151|3128|United States|Portland|Amazon.com, Inc.|
 |18|152.26.229.46|9443|United States|Concord|MCNC|
-|19|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|54.149.53.151|3128|United States|Portland|Amazon.com, Inc.|
+|19|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|158.69.31.71|3128|Canada|Montreal|OVH Hosting|
 
 
 
