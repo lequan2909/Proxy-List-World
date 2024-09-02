@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|144.86.187.59|3129|United States|Malden|Charles River Operation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|6|85.175.5.50|3128|Russia|Krasnodar|Southen Telecommunication Maintainer|
-|7|24.115.120.39|8888|United States|Lititz|PenTeleData Inc.|
-|8|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|10|152.26.229.46|9443|United States|Concord|MCNC|
-|11|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|12|152.26.229.83|9443|United States|Concord|MCNC|
-|13|67.43.227.227|7353|Canada|Montreal|GloboTech Communications|
-|14|45.140.192.2|3128|Brazil|São Paulo|Qnax Ltda|
-|15|156.250.117.18|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|16|144.86.187.37|3129|United States|Malden|Charles River Operation|
-|17|67.43.228.251|18821|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|1481|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.34|9443|United States|Concord|MCNC|
-|20|67.43.227.227|7353|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|3.108.227.255|3128|India|Mumbai|Amazon Technologies Inc.|
+|6|103.136.7.158|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|7|23.95.216.78|34561|United States|Marietta|HostPapa|
+|8|23.95.216.78|34561|United States|Marietta|HostPapa|
+|9|103.133.63.77|8181|Indonesia|Bandar Lampung|TLINK|
+|10|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|11|152.26.229.46|9443|United States|Concord|MCNC|
+|12|152.26.229.34|9443|United States|Concord|MCNC|
+|13|152.26.231.42|9443|United States|Concord|MCNC|
+|14|103.174.236.63|1080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|67.43.227.227|15979|Canada|Montreal|GloboTech Communications|
+|17|45.236.106.86|8080|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|72.10.164.178|20539|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
