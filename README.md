@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
-|6|167.86.91.203|3120|Germany|Nuremberg|Contabo GmbH|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
+|4|167.86.91.203|3120|Germany|Nuremberg|Contabo GmbH|
+|5|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|213.226.11.149|41878|Bulgaria|Sofia|Mobiltel EAD|
+|7|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |8|152.26.229.93|9443|United States|Concord|MCNC|
-|9|152.26.229.83|9443|United States|Concord|MCNC|
-|10|72.10.164.178|17113|Canada|Montreal|GloboTech Communications|
+|9|103.173.139.22|8080|Indonesia|Wonosobo|PT Serayu Multi Connection|
+|10|152.26.229.83|9443|United States|Concord|MCNC|
 |11|152.26.231.83|9443|United States|Concord|MCNC|
-|12|72.10.160.173|12745|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|8249|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|4609|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|17113|Canada|Montreal|GloboTech Communications|
-|16|117.21.14.245|8000|China|Taohua|Chinanet|
-|17|72.10.160.90|18543|Canada|Montreal|GloboTech Communications|
-|18|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|72.10.164.178|17113|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|67.43.227.227|8249|Canada|Montreal|GloboTech Communications|
+|13|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|72.10.164.178|29977|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|29977|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|8249|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|29977|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|29977|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.173|29389|Canada|Montreal|GloboTech Communications|
+|20|103.127.135.14|3128|Indonesia|Ciputat|PT Biznet Gio Nusantara|
 
 
 
