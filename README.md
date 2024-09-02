@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
 |4|200.106.124.173|999|Peru|Tacna|Telefonica del Peru|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|206.201.3.83|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|6|158.69.31.71|3128|Canada|Montreal|OVH Hosting|
 |7|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|8|152.26.229.86|9443|United States|Concord|MCNC|
-|9|152.26.231.86|9443|United States|Concord|MCNC|
+|8|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|119.252.167.130|41890|Indonesia|Bekasi|PT Indonesia Comnets Plus|
 |10|152.26.229.42|9443|United States|Concord|MCNC|
-|11|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|12|67.43.227.226|5073|Canada|Montreal|GloboTech Communications|
-|13|152.26.229.47|9443|United States|Concord|MCNC|
-|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|15|72.10.160.90|4627|Canada|Montreal|GloboTech Communications|
-|16|103.171.244.40|8088|Indonesia|Madiun|PT Data Arta Sedaya|
-|17|67.43.227.228|31033|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|8765|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|4627|Canada|Montreal|GloboTech Communications|
-|20|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|11|189.50.9.33|8080|Brazil|Vitória|VIPRede Telecomunicações Ltda|
+|12|192.99.169.19|8453|Canada|Beauharnois|OVH SAS|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
+|14|72.10.164.178|20765|Canada|Montreal|GloboTech Communications|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|152.26.229.47|9443|United States|Concord|MCNC|
+|17|152.26.231.94|9443|United States|Concord|MCNC|
+|18|67.43.227.227|5519|Canada|Montreal|GloboTech Communications|
+|19|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
