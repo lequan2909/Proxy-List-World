@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|116.104.130.123|5020|Vietnam|Hanoi|Viettel Corporation|
-|6|116.202.165.119|3124|Germany|Falkenstein|Hetzner Online GmbH|
-|7|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
-|8|167.86.91.203|3120|Germany|Nuremberg|Contabo GmbH|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|185.222.240.68|3128|Germany|Karlsruhe|Contabo GmbH|
-|11|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|116.202.165.119|3124|Germany|Falkenstein|Hetzner Online GmbH|
+|5|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|167.86.91.203|3120|Germany|Nuremberg|Contabo GmbH|
+|8|152.26.229.46|9443|United States|Concord|MCNC|
+|9|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|10|152.26.231.42|9443|United States|Concord|MCNC|
+|11|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
 |12|67.43.236.19|16385|Canada|Montreal|GloboTech Communications|
-|13|152.26.229.46|9443|United States|Concord|MCNC|
-|14|67.43.236.20|19281|Canada|Montreal|GloboTech Communications|
-|15|152.26.231.42|9443|United States|Concord|MCNC|
-|16|103.137.160.186|8090|Bangladesh|Noākhāli|Top Network|
-|17|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|72.10.164.178|10347|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|22249|Canada|Montreal|GloboTech Communications|
-|20|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|72.10.164.178|10347|Canada|Montreal|GloboTech Communications|
+|15|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|67.43.236.20|6049|Canada|Montreal|GloboTech Communications|
+|18|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
+|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 
 
 
