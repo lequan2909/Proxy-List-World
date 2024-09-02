@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|125.26.99.38|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|23.95.216.78|34561|United States|Marietta|HostPapa|
-|5|156.254.238.218|40184|Hong Kong|Hong Kong|AresIDC Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|103.233.103.238|5656|Indonesia|Cikarang|PT. Tujuh Ion Indonesia|
-|9|157.20.144.138|8181|Indonesia|Ciputat|PT Lintas Network Solusi|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|144.86.187.58|3129|United States|Malden|Charles River Operation|
-|13|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|14|120.28.213.45|8080|Philippines|Cagayan de Oro|Globe Telecom|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|23.95.216.78|34561|United States|Marietta|HostPapa|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|19|45.184.224.194|999|Ecuador|Quito|Media Commerce Medcomm S.A|
-|20|152.26.231.83|9443|United States|Concord|MCNC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|156.254.238.218|40184|Hong Kong|Hong Kong|AresIDC Limited|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|120.28.213.45|8080|Philippines|Cagayan de Oro|Globe Telecom|
+|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|23.95.216.78|34561|United States|Marietta|HostPapa|
+|11|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|12|45.184.224.194|999|Ecuador|Quito|Media Commerce Medcomm S.A|
+|13|38.188.127.77|1111|Indonesia|Blitar|PT Data Buana Nusantara|
+|14|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
+|17|152.26.231.83|9443|United States|Concord|MCNC|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|20|45.184.224.200|999|Ecuador|Quito|Media Commerce Medcomm S.A|
 
 
 
