@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5172** proxies at the latest update. Usable proxies are below.
+> Scraper found **5177** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|19|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|651|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|106|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|111|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3438|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|156.250.116.228|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|2|156.250.117.24|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|3|156.250.119.172|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
 |4|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|67.43.227.228|15023|Canada|Montreal|GloboTech Communications|
-|6|67.43.227.226|12191|Canada|Montreal|GloboTech Communications|
-|7|117.40.32.133|8080|China|Taohua|Chinanet|
-|8|72.10.160.90|17139|Canada|Montreal|GloboTech Communications|
-|9|152.26.231.94|9443|United States|Concord|MCNC|
-|10|67.43.227.227|3827|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|18033|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|17139|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|18033|Canada|Montreal|GloboTech Communications|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|117.68.38.144|20202|China|Hefei|China Telecom|
-|16|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|72.10.164.178|18033|Canada|Montreal|GloboTech Communications|
-|18|152.26.231.83|9443|United States|Concord|MCNC|
-|19|152.26.229.83|9443|United States|Concord|MCNC|
-|20|54.149.53.151|3128|United States|Portland|Amazon.com, Inc.|
+|5|156.250.118.116|40094|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|6|156.250.117.45|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|72.10.164.178|18033|Canada|Montreal|GloboTech Communications|
+|10|152.26.231.94|9443|United States|Concord|MCNC|
+|11|67.43.227.226|22439|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|18033|Canada|Montreal|GloboTech Communications|
+|13|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|14|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|152.26.229.34|9443|United States|Concord|MCNC|
+|17|103.171.244.40|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|72.10.164.178|18033|Canada|Montreal|GloboTech Communications|
 
 
 
