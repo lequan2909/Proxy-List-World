@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5551** proxies at the latest update. Usable proxies are below.
+> Scraper found **5549** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|17|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1134|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|151|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|149|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3291|✅|
 
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|7|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|23.95.216.78|34561|United States|Marietta|HostPapa|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|158.69.31.71|3128|Canada|Montreal|OVH Hosting|
-|12|103.143.168.98|84|India|Hyderabad|Aspt Networks Pvt Ltd|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|15|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|103.169.131.26|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
-|17|23.95.216.78|34561|United States|Marietta|HostPapa|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|152.26.231.86|9443|United States|Concord|MCNC|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|12|23.95.216.78|34561|United States|Marietta|HostPapa|
+|13|156.254.237.214|40055|Hong Kong|Hong Kong|AresIDC Limited|
+|14|103.172.42.237|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|15|103.118.175.42|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|15.204.161.192|18080|United States|Reston|OVH SAS|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|103.143.168.98|84|India|Hyderabad|Aspt Networks Pvt Ltd|
 
 
 
