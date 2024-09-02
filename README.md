@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|158.69.31.71|3128|Canada|Montreal|OVH Hosting|
-|4|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.134.246.22|8080|Indonesia|Jembrana|Wisuandha Network Globalindo|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|158.69.31.71|3128|Canada|Montreal|OVH Hosting|
+|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|3|171.4.71.166|8686|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|156.254.239.212|40187|Hong Kong|Hong Kong|AresIDC Limited|
+|7|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|34.97.45.196|8561|Japan|Osaka|Google LLC|
 |9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|103.233.156.42|8080|Indonesia|Jakarta Pusat|PT. Mora Telematika Indonesia|
-|15|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|188.132.222.69|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|23.95.216.78|34561|United States|Marietta|HostPapa|
-|18|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|45.190.52.24|8080|Brazil|Araranguá|Exa Internet|
+|11|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|12|23.95.216.78|34561|United States|Marietta|HostPapa|
+|13|203.177.216.158|8080|Philippines|Taguig|SIEMENS|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|23.95.216.78|34561|United States|Marietta|HostPapa|
+|17|190.26.255.30|999|Colombia|Bogotá|ETB - Colombia|
+|18|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |19|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
