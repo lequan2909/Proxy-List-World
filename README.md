@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.41.35.153|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|67.43.236.18|3687|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|5629|Canada|Montreal|GloboTech Communications|
-|11|152.26.229.86|9443|United States|Concord|MCNC|
-|12|72.10.164.178|13185|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|14031|Canada|Montreal|GloboTech Communications|
-|14|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|67.43.227.227|14031|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|7639|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|13185|Canada|Montreal|GloboTech Communications|
-|18|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|19|117.40.32.133|8080|China|Taohua|Chinanet|
-|20|38.52.221.44|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|3|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|157.100.57.180|999|Ecuador|Juan Montalvo|Ufinet Panama S.A.|
+|8|152.26.229.86|9443|United States|Concord|MCNC|
+|9|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|117.40.32.133|8080|China|Taohua|Chinanet|
+|11|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|206.201.3.83|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|13|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|14|67.43.236.20|11677|Canada|Montreal|GloboTech Communications|
+|15|160.248.191.6|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|103.155.196.40|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|18|72.10.160.90|5629|Canada|Montreal|GloboTech Communications|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|67.43.236.18|3935|Canada|Montreal|GloboTech Communications|
 
 
 
