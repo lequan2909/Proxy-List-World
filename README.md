@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|514|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|514|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|514|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|203.150.128.54|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|34.97.45.196|8561|Japan|Osaka|Google LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|34.97.45.196|8561|Japan|Osaka|Google LLC|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|12|98.80.244.90|3128|United States|Ashburn|BellSouth.net Inc.|
-|13|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|101.255.166.134|1111|Indonesia|Bekasi|PT Remala Abadi|
-|16|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|145.239.86.159|8888|Poland|Wroclaw|OVH SAS|
-|18|161.49.91.13|1337|Philippines|Pasig|Converge ICT Solution Inc|
-|19|15.204.161.192|18080|United States|Reston|OVH SAS|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|8|145.239.86.159|8888|Poland|Wroclaw|OVH SAS|
+|9|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
+|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|13|103.174.236.43|3127|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|181.205.28.69|46380|Colombia|Medellín|Colombia Móvil|
+|17|103.40.121.31|8087|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
+|18|103.116.82.136|8080|Indonesia|Indramayu|PT SSR Digital Informatika|
+|19|114.130.154.130|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|20|103.144.102.230|8085|Indonesia|Bandung|PANDAWANET|
 
 
 
