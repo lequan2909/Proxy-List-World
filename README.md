@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|438|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|438|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|438|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|23.95.216.78|34561|United States|Marietta|HostPapa|
-|4|27.147.140.129|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|145.239.86.159|8888|Poland|Wroclaw|OVH SAS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|116.104.130.64|5000|Vietnam|Hanoi|Viettel Corporation|
-|12|98.80.244.90|3128|United States|Ashburn|BellSouth.net Inc.|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|23.95.216.78|34561|United States|Marietta|HostPapa|
-|15|120.28.217.227|8082|Philippines|Cagayan de Oro|Globe Telecom|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|152.26.231.86|9443|United States|Concord|MCNC|
-|20|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|34.97.45.196|8561|Japan|Osaka|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.147.134.231|8080|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
+|7|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|207.180.216.251|8118|Germany|Nuremberg|Contabo GmbH|
+|14|27.147.140.129|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|15|119.76.142.159|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
+|16|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|145.239.86.159|8888|Poland|Wroclaw|OVH SAS|
+|19|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
+|20|15.204.161.192|18080|United States|Reston|OVH SAS|
 
 
 
