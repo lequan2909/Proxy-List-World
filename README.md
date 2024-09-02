@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|167.86.91.203|3120|Germany|Nuremberg|Contabo GmbH|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |6|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
-|7|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|10|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|11|72.10.164.178|12551|Canada|Montreal|GloboTech Communications|
-|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|13|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|14|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|67.43.227.227|13093|Canada|Montreal|GloboTech Communications|
-|17|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
-|18|152.26.231.83|9443|United States|Concord|MCNC|
-|19|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|167.86.91.203|3120|Germany|Nuremberg|Contabo GmbH|
+|8|94.43.164.242|8080|Georgia|Batumi|JSC "Silknet"|
+|9|36.89.212.252|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|144.86.187.49|3129|United States|Malden|Charles River Operation|
+|13|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|14|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|72.10.164.178|12551|Canada|Montreal|GloboTech Communications|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|72.10.164.178|12551|Canada|Montreal|GloboTech Communications|
+|18|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|19|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|20|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
 
 
 
