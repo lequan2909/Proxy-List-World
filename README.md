@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 |5|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
-|7|158.69.31.71|3128|Canada|Montreal|OVH Hosting|
-|8|222.108.214.141|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|9|147.75.122.245|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|6|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|202.51.212.146|8080|Indonesia|Cibinong|PT. Sejahtera Globalindo|
+|9|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |10|45.140.192.2|3128|Brazil|São Paulo|Qnax Ltda|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|103.69.20.28|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|87.103.128.128|4444|Russia|Irkutsk|SIBNET-IRKUTSK|
-|16|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|18|156.254.238.219|40114|Hong Kong|Hong Kong|AresIDC Limited|
-|19|67.43.227.227|20565|Canada|Montreal|GloboTech Communications|
-|20|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|11|187.49.86.114|8222|Brazil|Cascavel|DIGITAL DESIGN SERVIÇOS DE TELECOMUNICAÇÕES EIRELI|
+|12|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|49.48.88.92|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|16|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|103.87.169.203|56642|India|Jaipur|Tejays Industries Pvt Ltd|
+|20|67.43.227.227|11175|Canada|Montreal|GloboTech Communications|
 
 
 
