@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|23.95.216.78|34561|United States|Marietta|HostPapa|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|7|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|152.26.229.83|9443|United States|Concord|MCNC|
+|6|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|9|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
 |10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|203.150.128.44|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|12|152.26.231.42|9443|United States|Concord|MCNC|
-|13|152.26.231.93|9443|United States|Concord|MCNC|
-|14|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|15|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|16|72.10.164.178|7095|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|7095|Canada|Montreal|GloboTech Communications|
-|18|23.95.216.78|34561|United States|Marietta|HostPapa|
-|19|152.26.229.46|9443|United States|Concord|MCNC|
-|20|72.10.164.178|7095|Canada|Montreal|GloboTech Communications|
+|11|152.26.231.93|9443|United States|Concord|MCNC|
+|12|152.26.229.83|9443|United States|Concord|MCNC|
+|13|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|14|152.26.231.42|9443|United States|Concord|MCNC|
+|15|72.10.164.178|24015|Canada|Montreal|GloboTech Communications|
+|16|152.26.229.47|9443|United States|Concord|MCNC|
+|17|152.26.229.46|9443|United States|Concord|MCNC|
+|18|103.178.194.50|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|19|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
