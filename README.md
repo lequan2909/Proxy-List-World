@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|13|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|134.209.147.65|8080|India|Bengaluru|DigitalOcean, LLC|
-|15|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|160.248.191.6|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|152.26.231.94|9443|United States|Concord|MCNC|
+|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|116.105.18.90|10004|Vietnam|Da Nang|Viettel Corporation|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|6|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|158.69.31.71|3128|Canada|Montreal|OVH Hosting|
+|10|103.156.248.27|8085|Indonesia|Medan|Trans Media Telekomunikasi|
+|11|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |18|152.26.229.46|9443|United States|Concord|MCNC|
-|19|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|82.18.249.208|8118|United Kingdom|Southampton|Virgin Media Limited|
+|19|160.248.191.6|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 
 
 
