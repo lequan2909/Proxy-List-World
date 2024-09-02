@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|5|18.228.173.65|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.78.113.9|8080|Indonesia|Jakarta|MORATELINDO|
-|8|103.168.254.162|8086|Indonesia|Kudus|PT Fahasa Tri Data|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|18.228.173.65|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|185.111.156.170|80|United States|Orangeburg|Nubes, LLC|
+|7|23.95.216.78|34561|United States|Marietta|HostPapa|
+|8|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
 |9|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|203.150.166.170|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|10|192.203.0.78|999|Puerto Rico|Fajardo|Boom NET|
 |11|152.26.229.86|9443|United States|Concord|MCNC|
 |12|152.26.229.83|9443|United States|Concord|MCNC|
 |13|152.26.229.42|9443|United States|Concord|MCNC|
-|14|23.95.216.78|34561|United States|Marietta|HostPapa|
-|15|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|67.43.227.227|7765|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|11137|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|11137|Canada|Montreal|GloboTech Communications|
-|19|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|103.247.22.151|7777|Indonesia|Bekasi|PT wifian Solution|
+|16|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|18|103.199.139.14|83|India|Pune|Syscon Infoway Pvt. Ltd.|
+|19|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |20|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
