@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|152.26.231.42|9443|United States|Concord|MCNC|
-|5|72.10.160.90|10593|Canada|Montreal|GloboTech Communications|
-|6|152.26.229.34|9443|United States|Concord|MCNC|
-|7|152.26.231.83|9443|United States|Concord|MCNC|
-|8|72.10.164.178|21633|Canada|Montreal|GloboTech Communications|
-|9|190.60.103.99|3128|Colombia|Bogotá|IFX Corporation|
-|10|72.10.160.173|27253|Canada|Montreal|GloboTech Communications|
-|11|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|72.10.164.178|21633|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|4659|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|21633|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.19|6769|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|4659|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|21935|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|7639|Canada|Montreal|GloboTech Communications|
-|19|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|152.26.231.93|9443|United States|Concord|MCNC|
+|3|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|4|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|152.26.231.42|9443|United States|Concord|MCNC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|8|152.26.229.34|9443|United States|Concord|MCNC|
+|9|152.26.231.83|9443|United States|Concord|MCNC|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|103.165.156.171|8090|Indonesia|Jember|MEGADATA-ISP|
+|12|72.10.160.90|29887|Canada|Montreal|GloboTech Communications|
+|13|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|15|157.100.7.218|999|Ecuador|Quito|Telconet S.A|
+|16|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|67.43.236.22|8187|Canada|Montreal|GloboTech Communications|
+|18|152.26.231.93|9443|United States|Concord|MCNC|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
+|20|190.60.103.99|3128|Colombia|Bogotá|IFX Corporation|
 
 
 
