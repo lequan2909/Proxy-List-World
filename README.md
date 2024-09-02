@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|440|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|440|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|440|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|429|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|429|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|429|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|4|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|152.26.231.93|9443|United States|Concord|MCNC|
-|6|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|7|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|152.26.229.93|9443|United States|Concord|MCNC|
+|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|8|152.26.231.93|9443|United States|Concord|MCNC|
+|9|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |10|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|11|117.68.38.133|23500|China|Hefei|China Telecom|
+|11|152.26.229.93|9443|United States|Concord|MCNC|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|72.10.164.178|6589|Canada|Montreal|GloboTech Communications|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
 |14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|72.10.164.178|6589|Canada|Montreal|GloboTech Communications|
-|16|118.117.188.47|8089|China|Muping|Chinanet|
-|17|72.10.164.178|6589|Canada|Montreal|GloboTech Communications|
-|18|90.161.186.147|3128|Spain|Pineda de Mar|Uni2|
-|19|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
-|20|115.223.31.86|34552|China|Wenzhou|China Telecom|
+|15|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|18|106.227.87.11|3128|China|Taohua|China Telecom|
+|19|72.10.164.178|27939|Canada|Montreal|GloboTech Communications|
+|20|64.225.96.122|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
