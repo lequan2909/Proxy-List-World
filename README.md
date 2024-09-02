@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|8|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|9|152.26.229.83|9443|United States|Concord|MCNC|
-|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|11|217.251.109.178|8080|Germany|Traunstein|Deutsche Telekom AG|
-|12|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|171.7.47.155|8899|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|14|155.133.7.49|8080|Japan|Tokyo|Contabo Asia Private Limited|
-|15|67.43.227.230|10815|Canada|Montreal|GloboTech Communications|
+|1|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|161.34.68.133|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|18.230.241.41|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|6|177.54.229.118|9292|Brazil|Parauapebas|Aranet Comunicacao Ltda|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|11|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|12|152.26.229.83|9443|United States|Concord|MCNC|
+|13|190.97.228.198|999|Venezuela|El Vigía|Viginet C.A|
+|14|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 |16|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|17|67.43.236.20|6329|Canada|Montreal|GloboTech Communications|
+|17|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
 |18|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|67.43.227.230|10815|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|25259|Canada|Montreal|GloboTech Communications|
+|19|160.248.7.46|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|72.10.164.178|28113|Canada|Montreal|GloboTech Communications|
 
 
 
