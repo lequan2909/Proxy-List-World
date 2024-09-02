@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|3|158.69.31.71|3128|Canada|Montreal|OVH Hosting|
-|4|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|152.26.231.94|9443|United States|Concord|MCNC|
-|7|152.26.229.86|9443|United States|Concord|MCNC|
-|8|152.26.229.93|9443|United States|Concord|MCNC|
+|2|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|3|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|4|157.15.44.105|7777|Indonesia|Kalibuntu|PT Sheep Network Teknologi|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|152.26.231.94|9443|United States|Concord|MCNC|
+|8|152.26.229.86|9443|United States|Concord|MCNC|
 |9|152.26.229.47|9443|United States|Concord|MCNC|
-|10|67.43.227.227|7867|Canada|Montreal|GloboTech Communications|
-|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|111.1.61.58|3128|China|Wenzhou|China Mobile communications corporation|
-|13|67.43.227.228|11157|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|32911|Canada|Montreal|GloboTech Communications|
-|15|152.26.231.83|9443|United States|Concord|MCNC|
-|16|67.43.227.227|7867|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|32911|Canada|Montreal|GloboTech Communications|
-|18|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|19|72.10.160.91|17293|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|10|152.26.229.93|9443|United States|Concord|MCNC|
+|11|103.180.123.19|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|12|67.43.227.228|24343|Canada|Montreal|GloboTech Communications|
+|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|72.10.164.178|22461|Canada|Montreal|GloboTech Communications|
+|16|197.248.86.237|32650|Kenya|Makueni Boma|Safaricom Limited|
+|17|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|18|152.26.231.83|9443|United States|Concord|MCNC|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|103.122.64.203|8085|Indonesia|Gianyar|PT. Jinom Network Indonesia|
 
 
 
