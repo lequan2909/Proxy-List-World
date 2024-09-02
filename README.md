@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|158.69.31.71|3128|Canada|Montreal|OVH Hosting|
-|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|14|152.26.231.86|9443|United States|Concord|MCNC|
-|15|152.26.231.83|9443|United States|Concord|MCNC|
-|16|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|17|152.26.229.47|9443|United States|Concord|MCNC|
-|18|72.10.164.178|14383|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|14383|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|14383|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|152.26.231.83|9443|United States|Concord|MCNC|
+|11|152.26.231.86|9443|United States|Concord|MCNC|
+|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|13|152.26.229.47|9443|United States|Concord|MCNC|
+|14|23.95.216.78|34561|United States|Marietta|HostPapa|
+|15|72.10.164.178|20081|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|20081|Canada|Montreal|GloboTech Communications|
+|17|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|18|97.76.251.138|8080|United States|Tampa|Spectrum|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
 
