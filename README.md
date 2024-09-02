@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.153.63.146|8080|Indonesia|Bekasi|IMEDIANET|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|166.159.90.56|53281|United States|Douglassville|Verizon Business|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |10|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|11|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
+|11|101.255.123.18|8181|Indonesia|Jakarta|PT Remala Abadi|
 |12|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|89.46.249.248|25585|United Kingdom|London|Hydra Communications Ltd|
-|15|200.24.136.40|999|Ecuador|Quito|Negocios Y Telefonia Nedetel S.A|
-|16|23.95.216.78|34561|United States|Marietta|HostPapa|
-|17|103.180.122.71|8080|Indonesia|Bekasi|PT Indo Telemedia Solusi|
+|13|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
+|14|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|103.70.93.70|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |18|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|20|72.10.164.178|11991|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|11991|Canada|Montreal|GloboTech Communications|
+|20|190.128.195.58|999|Paraguay|Luque|Telecel S.A.|
 
 
 
