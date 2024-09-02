@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|7|220.150.76.92|6000|Japan|Chiyoda|FreeBit Co., Ltd.|
-|8|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
-|14|23.95.216.78|34561|United States|Marietta|HostPapa|
-|15|156.254.237.214|40055|Hong Kong|Hong Kong|AresIDC Limited|
-|16|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|82.223.246.196|80|Spain|Logroño|arsys.es|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|15.204.161.192|18080|United States|Reston|OVH SAS|
-|20|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|103.105.55.51|9090|Indonesia|Klaten|PT. Mega Artha Lintas Data|
+|7|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|156.254.241.216|40143|Hong Kong|Hong Kong|AresIDC Limited|
+|10|103.182.213.65|8080|Bangladesh|Tongi|Md Ibrahim|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|157.230.89.122|18085|United States|North Bergen|DigitalOcean, LLC|
+|13|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|14|103.189.116.107|8080|Indonesia|Temanggung|PT Callysta Total Solusindo|
+|15|137.184.62.193|9090|United States|North Bergen|DigitalOcean, LLC|
+|16|137.184.62.193|9090|United States|North Bergen|DigitalOcean, LLC|
+|17|152.26.229.47|9443|United States|Concord|MCNC|
+|18|23.95.216.78|34561|United States|Marietta|HostPapa|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
 
 
 
