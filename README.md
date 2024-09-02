@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|8|103.75.96.70|8080|Indonesia|Bandung|MORATELINDO|
-|9|103.153.63.29|9090|Indonesia|Rejoagung Satu|IMEDIANET|
-|10|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|12|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|13|182.253.39.205|8080|Indonesia|Jakarta Pusat|BIZNET|
-|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|15|43.205.238.55|3128|India|Mumbai|Amazon.com, Inc.|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|18|101.255.123.18|8181|Indonesia|Jakarta|PT Remala Abadi|
-|19|91.236.156.30|8282|Ukraine|Poltava|Limited Liability Company AVATOR ISP|
-|20|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|3|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|4|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|5|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
+|6|103.255.241.101|8080|Indonesia|Semarang|PT Media Sarana Data|
+|7|145.239.86.159|8888|Poland|Wroclaw|OVH SAS|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|173.212.244.38|3128|Germany|Nuremberg|Contabo GmbH|
+|10|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|11|101.109.51.182|8080|Thailand|Pattaya|TOT Public Company Limited|
+|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|13|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|23.162.160.1|16099|United States|McAllen|SMARTCOM TELEPHONE, LLC|
+|16|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|23.162.160.1|16099|United States|McAllen|SMARTCOM TELEPHONE, LLC|
+|18|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|103.70.93.70|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
 
 
 
