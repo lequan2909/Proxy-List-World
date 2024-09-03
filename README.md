@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|206.189.89.119|8888|United States|Rancho Cucamonga|DigitalOcean, LLC|
-|4|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|5|156.250.119.176|40074|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|206.189.89.119|8888|United States|Rancho Cucamonga|DigitalOcean, LLC|
 |6|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|7|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|7|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|8|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|156.250.119.150|40161|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
+|13|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|103.245.16.35|8080|Indonesia|Depok|PT Quantum Tera Network|
+|15|84.255.40.228|8998|Malta|Sliema|Melita plc|
+|16|156.250.119.180|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
 |17|156.250.117.14|40030|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
 |18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|72.10.164.178|17109|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.93|9443|United States|Concord|MCNC|
+|19|203.150.113.21|57322|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|20|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
 
 
 
