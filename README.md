@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|6|122.54.135.155|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|7|24.152.58.122|3128|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|8|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|111.68.26.237|8080|Indonesia|Yogyakarta|GMEDIA|
-|10|212.3.187.120|8080|Italy|Cisternino|CLIO|
-|11|152.26.231.83|9443|United States|Concord|MCNC|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|72.10.164.178|8641|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.47|9443|United States|Concord|MCNC|
-|15|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|72.10.164.178|8641|Canada|Montreal|GloboTech Communications|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|67.43.227.227|26083|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|14427|Canada|Montreal|GloboTech Communications|
+|1|200.106.124.22|999|Peru|Tacna|Telefonica del Peru|
+|2|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|103.133.24.89|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|67.43.227.227|12569|Canada|Montreal|GloboTech Communications|
+|6|152.26.231.83|9443|United States|Concord|MCNC|
+|7|72.10.164.178|30109|Canada|Montreal|GloboTech Communications|
+|8|152.26.229.47|9443|United States|Concord|MCNC|
+|9|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|103.199.139.14|82|India|Pune|Syscon Infoway Pvt. Ltd.|
+|11|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|13|43.205.217.219|3128|India|Mumbai|Amazon.com, Inc.|
+|14|72.10.160.170|14867|Canada|Montreal|GloboTech Communications|
+|15|152.26.231.94|9443|United States|Concord|MCNC|
+|16|72.10.164.178|30109|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.171|30023|Canada|Montreal|GloboTech Communications|
+|18|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|67.43.227.230|12185|Canada|Montreal|GloboTech Communications|
 
 
 
