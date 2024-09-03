@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|5|206.189.89.119|8888|United States|Rancho Cucamonga|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|206.189.89.119|8888|United States|Rancho Cucamonga|DigitalOcean, LLC|
+|5|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|6|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |8|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|12|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|13|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|191.102.123.196|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|15|152.26.231.86|9443|United States|Concord|MCNC|
-|16|152.26.229.34|9443|United States|Concord|MCNC|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|103.175.157.72|8090|Indonesia|Jakarta|MYARSYILA|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|203.150.113.21|57322|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|15|191.103.219.225|48612|Colombia|Medellín|Edatel S.a. E.S.P|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|103.46.8.61|8080|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
+|18|49.48.104.248|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
