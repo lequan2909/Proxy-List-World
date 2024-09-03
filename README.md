@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|3|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|4|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |5|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|8|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|9|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|152.26.229.83|9443|United States|Concord|MCNC|
-|11|176.109.108.101|3128|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|7|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|152.26.229.83|9443|United States|Concord|MCNC|
+|9|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|191.191.181.159|8082|Brazil|Anápolis|Claro NXT Telecomunicacoes Ltda|
+|11|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |12|72.10.164.178|2239|Canada|Montreal|GloboTech Communications|
 |13|152.26.231.42|9443|United States|Concord|MCNC|
-|14|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|152.26.229.46|9443|United States|Concord|MCNC|
+|14|152.26.229.46|9443|United States|Concord|MCNC|
+|15|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |16|72.10.164.178|2239|Canada|Montreal|GloboTech Communications|
-|17|131.0.207.176|8080|Brazil|Espumoso|CB NET TELECOM LTDA|
-|18|45.185.206.30|999|Argentina|Cipolletti|Escom Comunicaciones SRL|
-|19|72.10.164.178|2239|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|13607|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|2239|Canada|Montreal|GloboTech Communications|
+|18|179.255.219.182|8080|Brazil|São Paulo|V tal|
+|19|72.10.160.90|25177|Canada|Montreal|GloboTech Communications|
+|20|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
