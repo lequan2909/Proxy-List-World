@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
 |5|34.219.154.7|3128|United States|Portland|Amazon.com, Inc.|
-|6|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|152.26.231.86|9443|United States|Concord|MCNC|
+|6|125.25.82.48|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|152.26.231.93|9443|United States|Concord|MCNC|
+|9|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |10|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
 |11|152.26.229.86|9443|United States|Concord|MCNC|
-|12|152.26.229.34|9443|United States|Concord|MCNC|
-|13|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|152.26.231.94|9443|United States|Concord|MCNC|
-|15|117.40.32.135|8080|China|Taohua|Chinanet|
-|16|67.43.236.21|26675|Canada|Montreal|GloboTech Communications|
+|12|152.26.231.93|9443|United States|Concord|MCNC|
+|13|152.26.231.86|9443|United States|Concord|MCNC|
+|14|152.26.229.34|9443|United States|Concord|MCNC|
+|15|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
 |17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|72.10.164.178|15939|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|13499|Canada|Montreal|GloboTech Communications|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
 
 
 
