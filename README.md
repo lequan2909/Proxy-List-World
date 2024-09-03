@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|5|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|6|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|124.217.97.131|8080|Philippines|Davao City|Philippine Long Distance Telephone Co.|
-|10|206.189.89.119|8888|United States|Rancho Cucamonga|DigitalOcean, LLC|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|203.150.113.21|57322|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|8|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|203.14.18.242|8080|Indonesia|Metro|PT Izzinet Metro Multimedia|
+|10|103.160.12.50|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|11|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|67.43.228.253|1343|Canada|Montreal|GloboTech Communications|
 |14|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|15|152.26.229.42|9443|United States|Concord|MCNC|
+|16|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
 |17|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
 
