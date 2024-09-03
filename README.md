@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|203.14.18.242|8080|Indonesia|Metro|PT Izzinet Metro Multimedia|
-|10|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|119.15.86.30|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|103.84.176.46|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|138.118.106.234|999|Guatemala|Guatemala City|ONNO NETWORKS, SOCIEDAD ANÓNIMA|
-|17|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|103.153.63.146|8080|Indonesia|Bekasi|IMEDIANET|
+|5|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|6|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|202.180.20.10|55443|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|13|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|14|182.253.93.4|53281|Indonesia|Jakarta Pusat|BIZNET|
+|15|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|152.26.229.47|9443|United States|Concord|MCNC|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
