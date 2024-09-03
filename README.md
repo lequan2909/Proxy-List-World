@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|480|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|480|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|480|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|439|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|439|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|439|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|145.239.86.159|8888|Poland|Wroclaw|OVH SAS|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|9|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|17|81.31.234.70|80|Thailand|Bangkok|Y.U.T Corporate Company Limited|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|15.235.171.241|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
+|12|145.239.86.159|8888|Poland|Wroclaw|OVH SAS|
+|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|121.182.41.197|8118|South Korea|Suseong-gu|Korea Telecom|
+|18|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|19|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|20|34.97.45.196|8561|Japan|Osaka|Google LLC|
 
 
 
