@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
 |3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|4|5.166.47.95|8080|Russia|Yekaterinburg|CJSC "ER-Telecom Holding" Yekaterinburg branch|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|103.51.21.165|8080|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
-|7|152.26.229.93|9443|United States|Concord|MCNC|
-|8|152.26.231.83|9443|United States|Concord|MCNC|
-|9|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|67.43.227.230|10667|Canada|Montreal|GloboTech Communications|
-|11|212.3.187.120|8080|Italy|Cisternino|CLIO|
+|4|103.81.64.85|8080|Indonesia|Bandar Lampung|QIUNET|
+|5|24.152.58.122|3128|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|8|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|5.166.47.95|8080|Russia|Yekaterinburg|CJSC "ER-Telecom Holding" Yekaterinburg branch|
+|10|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|152.26.229.93|9443|United States|Concord|MCNC|
 |12|152.26.231.94|9443|United States|Concord|MCNC|
-|13|72.10.164.178|11171|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|11171|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.47|9443|United States|Concord|MCNC|
-|16|72.10.164.178|11171|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|16591|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|11171|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|11171|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|11375|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|4909|Canada|Montreal|GloboTech Communications|
+|14|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|67.43.227.230|10845|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|4909|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|1375|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|4909|Canada|Montreal|GloboTech Communications|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
