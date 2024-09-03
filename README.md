@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|6|116.111.236.209|5108|Vietnam|Tam Kỳ|Viettel Corporation|
-|7|103.81.64.85|8080|Indonesia|Bandar Lampung|QIUNET|
-|8|173.212.237.47|3128|Germany|Nuremberg|Contabo GmbH|
-|9|27.72.65.163|5106|Vietnam|Hanoi|Viettel Group|
-|10|119.18.149.147|5020|Bangladesh|Chittagong|BBTS Network|
-|11|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|12|106.227.87.11|3128|China|Taohua|China Telecom|
-|13|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|14|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|46.166.165.33|4002|Lithuania|Šiauliai|Cherry Servers|
-|16|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|103.125.174.13|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|19|152.26.231.83|9443|United States|Concord|MCNC|
-|20|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.156.17.35|8181|Indonesia|Indramayu|RSTNET|
+|5|171.234.115.91|5104|Vietnam|Hanoi|Viettel Corporation|
+|6|115.112.231.148|443|India|Mumbai|Tata Communications Limited|
+|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|8|156.200.123.170|8080|Egypt|Cairo|TE Data|
+|9|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|13|90.161.186.147|3128|Spain|Pineda de Mar|Uni2|
+|14|94.23.204.27|3128|France|Roubaix|OVH SAS|
+|15|106.227.87.11|3128|China|Taohua|China Telecom|
+|16|37.72.174.21|8090|United States|New York|HIVELOCITY, Inc.|
+|17|152.26.231.83|9443|United States|Concord|MCNC|
+|18|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
