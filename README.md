@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
-|6|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|7|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|6|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|201.174.17.126|999|Mexico|Ciudad Juárez|Transtelco Inc|
+|9|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|10|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
 |11|152.26.231.83|9443|United States|Concord|MCNC|
-|12|117.2.183.102|5107|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|111.68.26.237|8080|Indonesia|Yogyakarta|GMEDIA|
 |15|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|103.76.151.74|8089|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|19|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|20|182.160.124.214|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|101.255.117.197|8085|Indonesia|Jakarta|PT Remala Abadi|
+|18|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|19|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
+|20|36.50.253.70|3125|Indonesia|Singosari|PT Capoeng Digital Nusantara|
 
 
 
