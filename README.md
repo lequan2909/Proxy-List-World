@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|3|121.101.135.46|8089|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|4|103.165.155.254|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|5|1.160.1.221|8081|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|7|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|8|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|9|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|10|152.26.229.93|9443|United States|Concord|MCNC|
-|11|152.26.229.34|9443|United States|Concord|MCNC|
-|12|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|13|152.26.231.83|9443|United States|Concord|MCNC|
-|14|152.26.229.86|9443|United States|Concord|MCNC|
-|15|67.43.227.227|18737|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.252|6267|Canada|Montreal|GloboTech Communications|
+|2|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|38.156.75.234|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|6|111.68.26.237|8080|Indonesia|Yogyakarta|GMEDIA|
+|7|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|8|152.26.229.93|9443|United States|Concord|MCNC|
+|9|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|10|152.26.229.34|9443|United States|Concord|MCNC|
+|11|152.26.231.83|9443|United States|Concord|MCNC|
+|12|152.26.229.86|9443|United States|Concord|MCNC|
+|13|103.160.182.77|8080|Indonesia|Jember|PT Internusa Duta Makmur|
+|14|67.43.227.227|3175|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|1487|Canada|Montreal|GloboTech Communications|
+|16|152.26.231.93|9443|United States|Concord|MCNC|
 |17|72.10.164.178|1487|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|18583|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.251|13495|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|1487|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|1487|Canada|Montreal|GloboTech Communications|
+|19|152.26.231.94|9443|United States|Concord|MCNC|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
