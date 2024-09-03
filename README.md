@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5402** proxies at the latest update. Usable proxies are below.
+> Scraper found **5428** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|106|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|748|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|105|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|775|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|168|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3422|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|27.72.66.43|5104|Vietnam|Hanoi|Viettel Group|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|103.183.98.222|7777|Indonesia|Trenggalek|PT.LEXXA DATA INDONUSA|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|188.240.114.73|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
-|15|152.26.229.46|9443|United States|Concord|MCNC|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|152.26.229.93|9443|United States|Concord|MCNC|
-|18|186.16.14.104|3131|Paraguay|Asunción|Telecel S.A.|
-|19|152.26.231.86|9443|United States|Concord|MCNC|
-|20|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|6|116.111.236.209|5108|Vietnam|Tam Kỳ|Viettel Corporation|
+|7|103.81.64.85|8080|Indonesia|Bandar Lampung|QIUNET|
+|8|173.212.237.47|3128|Germany|Nuremberg|Contabo GmbH|
+|9|27.72.65.163|5106|Vietnam|Hanoi|Viettel Group|
+|10|119.18.149.147|5020|Bangladesh|Chittagong|BBTS Network|
+|11|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|12|106.227.87.11|3128|China|Taohua|China Telecom|
+|13|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|14|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|46.166.165.33|4002|Lithuania|Šiauliai|Cherry Servers|
+|16|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|103.125.174.13|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
