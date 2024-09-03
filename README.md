@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|200.37.187.60|999|Peru|Huancavelica|Telefonica del Peru S.A.A.|
-|3|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|104.248.156.163|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
 |5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|103.125.42.127|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|7|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|8|205.164.84.247|8591|Brazil|Buritis|AGIS|
-|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|72.10.160.91|16183|Canada|Montreal|GloboTech Communications|
-|12|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
-|13|67.43.227.227|9863|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.86|9443|United States|Concord|MCNC|
-|15|103.234.159.5|8080|India|Bengaluru|MWPL|
-|16|67.43.236.20|2809|Canada|Montreal|GloboTech Communications|
-|17|103.247.23.33|1111|Indonesia|Banyumas|PT wifian Solution|
-|18|103.84.177.218|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|72.10.160.90|28263|Canada|Montreal|GloboTech Communications|
+|6|200.37.187.60|999|Peru|Huancavelica|Telefonica del Peru S.A.A.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|10|182.16.169.178|8080|Indonesia|Depok|Cust Mwifo|
+|11|38.172.128.25|8080|Peru|Lima|Conex TV E.I.R.L.|
+|12|103.159.93.132|3125|Indonesia|Kabupaten Trenggalek|PT Chandela Lintas Media|
+|13|103.84.177.218|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|14|205.164.84.247|8591|Brazil|Buritis|AGIS|
+|15|103.137.91.250|8080|Laos|Vientiane|SLT Network Co., LTD|
+|16|160.25.180.35|8080|India|Mumbai|TAJ BROADBAND PRIVATE LIMITED|
+|17|152.26.229.86|9443|United States|Concord|MCNC|
+|18|72.10.160.91|16183|Canada|Montreal|GloboTech Communications|
+|19|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|20|171.241.186.68|5101|Vietnam|Hanoi|Viettel Corporation|
 
 
 
