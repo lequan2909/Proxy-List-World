@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
 |5|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.125.51.25|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|20|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|6|145.239.86.159|8888|Poland|Wroclaw|OVH SAS|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|192.99.169.19|8444|Canada|Beauharnois|OVH SAS|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|19|144.86.187.36|3129|United States|Malden|Charles River Operation|
+|20|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 
 
 
