@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.13.52.240|18080|Japan|Motoyoyogichō|The Constant Company|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|3|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|4|115.72.46.96|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
 |5|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|6|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|7|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|103.217.224.36|3127|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|10|111.68.26.237|8080|Indonesia|Yogyakarta|GMEDIA|
-|11|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|12|103.77.16.190|80|Bangladesh|Kushtia|ICC Communication Ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|8|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|11|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |13|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
-|15|72.10.164.178|7169|Canada|Montreal|GloboTech Communications|
-|16|45.189.116.89|999|Peru|Lima|Conex TV E.I.R.L|
-|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|67.43.236.20|5527|Canada|Montreal|GloboTech Communications|
-|19|103.250.130.106|8085|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|20|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|19|72.10.164.178|8735|Canada|Montreal|GloboTech Communications|
+|20|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 
 
 
