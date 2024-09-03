@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|103.46.4.101|8080|Indonesia|Pekanbaru|PT Akses Sentral Teknologi|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|7|152.26.229.93|9443|United States|Concord|MCNC|
-|8|152.26.229.46|9443|United States|Concord|MCNC|
-|9|67.43.227.227|18541|Canada|Montreal|GloboTech Communications|
-|10|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|152.26.229.47|9443|United States|Concord|MCNC|
-|12|67.43.228.253|32697|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.228|19491|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|22019|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|22019|Canada|Montreal|GloboTech Communications|
-|16|122.53.75.222|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|17|152.26.229.34|9443|United States|Concord|MCNC|
-|18|67.43.228.250|12177|Canada|Montreal|GloboTech Communications|
-|19|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|20|72.10.164.178|22019|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|103.40.121.33|8089|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
+|9|152.26.229.46|9443|United States|Concord|MCNC|
+|10|152.26.229.93|9443|United States|Concord|MCNC|
+|11|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
+|12|152.26.229.47|9443|United States|Concord|MCNC|
+|13|67.43.227.227|18541|Canada|Montreal|GloboTech Communications|
+|14|152.26.229.34|9443|United States|Concord|MCNC|
+|15|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|16|72.10.164.178|19221|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|19221|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|19221|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|19221|Canada|Montreal|GloboTech Communications|
+|20|103.46.8.11|8088|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
 
 
 
