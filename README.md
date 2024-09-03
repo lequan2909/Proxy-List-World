@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 |6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|103.159.195.193|8080|Indonesia|Rembang|PT Giga Digital Nusantara|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.162.63.181|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
-|13|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|14|152.26.229.83|9443|United States|Concord|MCNC|
-|15|72.10.164.178|1173|Canada|Montreal|GloboTech Communications|
-|16|117.40.32.135|8080|China|Taohua|Chinanet|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|9|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|152.26.229.83|9443|United States|Concord|MCNC|
 |17|152.26.231.94|9443|United States|Concord|MCNC|
 |18|152.26.229.47|9443|United States|Concord|MCNC|
 |19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|103.67.84.78|8085|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
+|20|72.10.164.178|2579|Canada|Montreal|GloboTech Communications|
 
 
 
