@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.125.42.127|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|2|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|103.125.42.127|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|181.39.233.212|8080|Ecuador|Guayaquil|Telconet S.A|
-|6|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|152.26.229.42|9443|United States|Concord|MCNC|
-|8|120.202.162.210|80|China|Guangzhou|China Mobile communications corporation|
-|9|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
-|10|72.10.164.178|26467|Canada|Montreal|GloboTech Communications|
-|11|152.26.231.94|9443|United States|Concord|MCNC|
-|12|152.26.231.42|9443|United States|Concord|MCNC|
-|13|182.76.169.38|2245|India|Hyderabad|Bharti Airtel|
-|14|67.43.236.20|12841|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|26467|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.19|14731|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|19|72.10.164.178|26467|Canada|Montreal|GloboTech Communications|
-|20|117.40.32.133|8080|China|Taohua|Chinanet|
+|4|66.211.155.34|8080|United States|Mont Vernon|FirstLight Fiber|
+|5|143.0.68.196|9292|Brazil|Auriflama|Nets Telecomunicacoes Ltda|
+|6|78.108.109.0|8080|Czechia|Pilsen|Neutral Free eXchange members - FreeTel alternate|
+|7|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|46.161.196.222|9812|Iraq|Baghdad|Valin Company for General Trading and Communication LTD|
+|9|186.125.218.162|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|10|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|152.26.229.42|9443|United States|Concord|MCNC|
+|12|103.250.130.106|8085|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
+|13|202.162.213.182|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|14|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
+|15|117.40.32.133|8080|China|Taohua|Chinanet|
+|16|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|17|152.26.231.94|9443|United States|Concord|MCNC|
+|18|67.43.236.20|13471|Canada|Montreal|GloboTech Communications|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
 
 
 
