@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|54.254.161.216|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|3|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|9|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|152.26.231.42|9443|United States|Concord|MCNC|
-|14|152.26.231.86|9443|United States|Concord|MCNC|
-|15|67.43.227.227|1517|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|5285|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.46|9443|United States|Concord|MCNC|
-|18|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|103.165.155.254|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|103.208.102.6|8080|Indonesia|Wonosobo|PT Tidar Lintas Nusa|
+|8|152.26.231.42|9443|United States|Concord|MCNC|
+|9|152.26.231.86|9443|United States|Concord|MCNC|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|13|72.10.164.178|12719|Canada|Montreal|GloboTech Communications|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|152.26.229.46|9443|United States|Concord|MCNC|
+|16|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|45.122.228.10|8899|Australia|Wangaratta|NETPTYLTD|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|72.10.164.178|12719|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.172|22575|Canada|Montreal|GloboTech Communications|
 
 
 
