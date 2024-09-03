@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5635** proxies at the latest update. Usable proxies are below.
+> Scraper found **5636** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|74|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|75|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|785|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|184|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|9|152.26.229.34|9443|United States|Concord|MCNC|
-|10|160.248.190.241|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
-|13|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|67.43.236.20|20311|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.87.169.195|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|4|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|202.61.120.182|8080|India|Chennai|Arjun Telecom Pvt. Ltd.|
+|6|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|8|156.250.119.138|40021|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|160.248.190.241|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|152.26.229.34|9443|United States|Concord|MCNC|
 |15|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|156.250.119.138|40021|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|27.72.244.228|8080|Vietnam|Hanoi|Newass2011xDSLHN|
+|16|72.10.164.178|18157|Canada|Montreal|GloboTech Communications|
+|17|177.43.72.250|3128|Brazil|Campo Grande|Vivo|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|113.240.99.148|65007|China|Qingyuan|No.293, Wanbao Avenue|
 
 
 
