@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.24.212.250|8082|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|103.152.101.69|8080|Pakistan|Lahore|IN CABLE INTERNET (PRIVATE) LIMITED|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|138.59.187.1|666|Brazil|São Francisco do Conde|Icaro Oliveira DA Cunha - ME|
+|7|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |10|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |11|152.26.229.86|9443|United States|Concord|MCNC|
 |12|152.26.231.83|9443|United States|Concord|MCNC|
 |13|152.26.231.42|9443|United States|Concord|MCNC|
 |14|152.26.229.34|9443|United States|Concord|MCNC|
-|15|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|16|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|17|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|152.26.229.93|9443|United States|Concord|MCNC|
+|17|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|38.156.75.234|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 |19|152.26.231.94|9443|United States|Concord|MCNC|
-|20|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
