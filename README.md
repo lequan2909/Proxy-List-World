@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.160.12.50|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|6|156.250.119.189|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|7|156.250.119.138|40021|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|8|152.26.229.86|9443|United States|Concord|MCNC|
-|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|10|152.26.231.83|9443|United States|Concord|MCNC|
-|11|156.250.119.180|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
+|5|156.250.119.180|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|103.160.12.50|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|10|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|11|152.26.229.86|9443|United States|Concord|MCNC|
 |12|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|156.250.117.5|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|17|72.10.164.178|2275|Canada|Montreal|GloboTech Communications|
+|13|152.26.231.83|9443|United States|Concord|MCNC|
+|14|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|15|152.26.229.42|9443|United States|Concord|MCNC|
+|16|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |18|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|20|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
 
