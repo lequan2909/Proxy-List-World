@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|4|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|7|171.226.32.221|5103|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|10|122.176.48.148|80|India|Delhi|Bharti Airtel|
-|11|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|103.162.16.168|8080|Indonesia|Pati|PT Mega Data Perkasa|
-|13|45.231.170.137|999|Mexico|Juárez|GigNet, S.A. de C.V.|
-|14|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|15|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|152.26.231.93|9443|United States|Concord|MCNC|
-|19|152.26.229.93|9443|United States|Concord|MCNC|
-|20|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|4|47.76.54.39|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|171.241.202.38|5109|Vietnam|Thanh Hóa|Viettel Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|180.191.40.160|8082|Philippines|Tarlac City|Globe Telecom|
+|8|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|9|117.0.165.184|5103|Vietnam|Cẩm Thủy|Viettel Group|
+|10|171.240.219.72|5107|Vietnam|Hanoi|Viettel Corporation|
+|11|171.236.112.177|5101|Vietnam|Hanoi|Viettel Corporation|
+|12|154.64.219.2|8888|United States|Jacksonville|OSNET Wireless|
+|13|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|187.1.16.36|92|Brazil|Birigui|FIT Telecom Eireli|
+|15|117.2.217.102|5109|Vietnam|Huế|Viettel Corporation|
+|16|116.105.31.16|5106|Vietnam|Da Nang|Viettel Corporation|
+|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|18|103.77.16.190|80|Bangladesh|Kushtia|ICC Communication Ltd|
+|19|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 
 
 
