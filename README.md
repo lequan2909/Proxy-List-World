@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|18.228.173.200|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|18.228.173.200|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|3|69.20.150.165|8080|United States|Tetonia|JAB Wireless, INC.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|8|103.146.184.101|8090|Indonesia|Sragen|YAMNET|
-|9|46.166.165.33|4002|Lithuania|Šiauliai|Cherry Servers|
-|10|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|13|67.43.236.20|16873|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.47|9443|United States|Concord|MCNC|
-|15|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|27.79.23.109|5104|Vietnam|Tam Kỳ|Viettel Corporation|
-|17|152.26.229.46|9443|United States|Concord|MCNC|
-|18|72.10.164.178|2129|Canada|Montreal|GloboTech Communications|
-|19|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|5|111.118.138.151|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|115.112.231.148|443|India|Mumbai|Tata Communications Limited|
+|7|161.49.215.28|10101|Philippines|Clark|Converge Information and Communications Technology Solutions|
+|8|103.139.126.31|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|9|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|50.204.36.138|60808|United States|Sacramento|Comcast Cable Communications, LLC|
+|11|45.174.79.32|999|Mexico|Delicias|Raul Duarte Urita|
+|12|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|15|152.26.229.47|9443|United States|Concord|MCNC|
+|16|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|17|85.118.117.165|8080|Georgia|Tbilisi|EGRISI|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
 |20|152.26.231.93|9443|United States|Concord|MCNC|
 
 
