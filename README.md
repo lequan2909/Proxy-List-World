@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|171.251.203.6|5110|Vietnam|Hanoi|Viettel Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|101.255.165.217|8080|Indonesia|Bekasi|PT Remala Abadi|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|152.26.229.93|9443|United States|Concord|MCNC|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|171.251.196.55|5106|Vietnam|Hanoi|Viettel Corporation|
+|9|27.74.124.53|5102|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|10|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|11|152.26.229.34|9443|United States|Concord|MCNC|
 |12|152.26.229.47|9443|United States|Concord|MCNC|
-|13|152.26.229.34|9443|United States|Concord|MCNC|
-|14|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|15|72.10.160.91|22119|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|18|152.26.231.83|9443|United States|Concord|MCNC|
-|19|67.43.227.226|33185|Canada|Montreal|GloboTech Communications|
-|20|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|152.26.229.93|9443|United States|Concord|MCNC|
+|14|152.26.229.46|9443|United States|Concord|MCNC|
+|15|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|18|152.26.229.86|9443|United States|Concord|MCNC|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|41.243.15.42|8080|DR Congo|Kinshasa|Airtel CD Kins|
 
 
 
