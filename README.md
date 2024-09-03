@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5170** proxies at the latest update. Usable proxies are below.
+> Scraper found **5212** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|73|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|663|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|705|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|130|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3346|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|191.191.181.159|8082|Brazil|Anápolis|Claro NXT Telecomunicacoes Ltda|
-|4|103.88.90.129|8080|Indonesia|Malang|PT Paket Switch Bersama|
-|5|103.188.252.160|8080|Indonesia|Ungaran|PT Data Lintas Media Indonesia|
-|6|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|152.26.229.86|9443|United States|Concord|MCNC|
-|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|10|152.26.231.94|9443|United States|Concord|MCNC|
-|11|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|111.68.26.237|8080|Indonesia|Yogyakarta|GMEDIA|
-|13|117.40.32.135|8080|China|Taohua|Chinanet|
-|14|152.26.229.83|9443|United States|Concord|MCNC|
-|15|152.26.231.83|9443|United States|Concord|MCNC|
-|16|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|38.156.72.179|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|103.88.90.129|8080|Indonesia|Malang|PT Paket Switch Bersama|
+|4|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|5|191.191.181.159|8082|Brazil|Anápolis|Claro NXT Telecomunicacoes Ltda|
+|6|171.250.180.32|5108|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|7|27.79.23.253|5101|Vietnam|Tam Kỳ|Viettel Corporation|
+|8|201.77.108.1|999|Mexico|Jiménez Municipality|Nidix Networks S.a. De C.V.|
+|9|176.109.108.101|3128|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|103.48.68.6|83|India|Hyderabad|Country Online Services PVT LTD|
+|11|45.182.207.26|8080|Brazil|Carandaí|CarandaiNet Serviços de Internet Ltda.|
+|12|206.233.198.25|3128|Singapore|Singapore|HONG KONG Megalayer Technology Co., Limited|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|181.209.110.14|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|15|46.229.235.158|8088|Slovakia|Bratislava|VNET|
+|16|152.26.229.34|9443|United States|Concord|MCNC|
+|17|72.10.164.178|10335|Canada|Montreal|GloboTech Communications|
+|18|152.26.231.94|9443|United States|Concord|MCNC|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|152.26.229.47|9443|United States|Concord|MCNC|
 
 
 
