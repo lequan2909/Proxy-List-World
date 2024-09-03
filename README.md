@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|535|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|535|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|535|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|537|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|537|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|537|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
 |6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|64.225.96.122|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|15|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|193.122.197.154|80|United States|Ashburn|Oracle Corporation|
-|18|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|19|3.96.214.10|3128|Canada|Toronto|Amazon Technologies Inc.|
-|20|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|7|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
+|13|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|14|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|15|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|64.225.96.122|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|18|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
