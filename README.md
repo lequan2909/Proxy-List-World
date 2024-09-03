@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|3|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|4|103.133.27.197|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|5|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|10|191.97.96.208|8080|Argentina|General Roca|Vision NET|
-|11|117.40.32.133|8080|China|Taohua|Chinanet|
-|12|103.175.236.222|8080|Indonesia|Malang|PT Marva Global Telekomunikasi|
-|13|103.156.75.40|8181|Indonesia|Gianyar|PT Trika Global Media|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|181.39.233.212|8080|Ecuador|Guayaquil|Telconet S.A|
+|8|67.43.227.228|1765|Canada|Montreal|GloboTech Communications|
+|9|171.250.60.27|5106|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|10|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|11|103.175.46.222|3125|Indonesia|Cirebon|PT Internet Keluarga Indonesia|
+|12|54.252.247.197|3128|Australia|Sydney|Amazon.com, Inc.|
+|13|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |14|152.26.229.46|9443|United States|Concord|MCNC|
-|15|72.10.164.178|26467|Canada|Montreal|GloboTech Communications|
-|16|114.32.215.139|3128|Taiwan|Guishan|Chunghwa Telecom Co., Ltd.|
-|17|152.26.229.83|9443|United States|Concord|MCNC|
-|18|72.10.160.172|2229|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.83|9443|United States|Concord|MCNC|
-|20|67.43.236.20|9947|Canada|Montreal|GloboTech Communications|
+|15|45.122.228.10|8899|Australia|Wangaratta|NETPTYLTD|
+|16|120.202.162.210|80|China|Guangzhou|China Mobile communications corporation|
+|17|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|19|72.10.164.178|23279|Canada|Montreal|GloboTech Communications|
+|20|187.32.76.99|3128|Brazil|Belo Horizonte|ALGAR TELECOM S/A|
 
 
 
