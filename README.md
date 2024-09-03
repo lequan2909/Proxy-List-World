@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|537|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|537|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|537|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|538|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|538|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|538|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|103.171.157.133|8080|Indonesia|Jakarta|MYREPUBLIC|
-|13|45.185.163.111|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|14|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|15|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|16|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|10|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|103.171.157.133|8080|Indonesia|Jakarta|MYREPUBLIC|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|45.185.163.111|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 
 
 
