@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|394|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|394|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|394|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
 |9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|152.26.231.42|9443|United States|Concord|MCNC|
-|12|152.26.229.83|9443|United States|Concord|MCNC|
+|10|152.26.231.42|9443|United States|Concord|MCNC|
+|11|103.55.159.51|6060|Indonesia|Sumbawa Besar|PT TELIO INTI NUSA|
+|12|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
 |13|152.26.229.47|9443|United States|Concord|MCNC|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|152.26.231.94|9443|United States|Concord|MCNC|
-|16|152.26.229.93|9443|United States|Concord|MCNC|
-|17|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|159.223.76.73|24202|Singapore|Singapore|DigitalOcean, LLC|
-|20|67.43.227.227|31987|Canada|Montreal|GloboTech Communications|
+|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|152.26.229.83|9443|United States|Concord|MCNC|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|152.26.231.94|9443|United States|Concord|MCNC|
+|18|152.26.229.93|9443|United States|Concord|MCNC|
+|19|144.86.187.54|3129|United States|Malden|Charles River Operation|
+|20|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
