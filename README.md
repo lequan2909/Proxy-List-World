@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|599|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|599|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|599|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|477|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|477|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|477|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|42.116.160.11|8080|Vietnam|Hanoi|FPT Telecom Company|
-|10|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|103.154.230.107|8080|Indonesia|Lamongan|DIGITNET|
-|14|145.239.86.159|8888|Poland|Wroclaw|OVH SAS|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|182.23.127.2|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|158.101.175.124|5566|Germany|Frankfurt am Main|Oracle Corporation|
+|1|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|144.86.187.42|3129|United States|Malden|Charles River Operation|
+|16|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|17|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|15.204.161.192|18080|United States|Reston|OVH SAS|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
