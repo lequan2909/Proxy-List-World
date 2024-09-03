@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|103.139.126.31|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|6|103.148.45.60|8833|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
-|7|45.5.119.112|8080|Guatemala|Guatemala City|Infinitum S.A.|
-|8|27.72.66.43|5104|Vietnam|Hanoi|Viettel Group|
-|9|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|152.26.231.93|9443|United States|Concord|MCNC|
-|14|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|18|152.26.229.46|9443|United States|Concord|MCNC|
-|19|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|67.43.228.251|28743|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|4|18.228.173.200|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|5|116.111.236.209|5108|Vietnam|Tam Kỳ|Viettel Corporation|
+|6|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|152.26.231.93|9443|United States|Concord|MCNC|
+|11|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|152.26.229.46|9443|United States|Concord|MCNC|
+|13|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|14|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|72.10.164.178|32559|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.251|28743|Canada|Montreal|GloboTech Communications|
+|17|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|18|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.164.178|32559|Canada|Montreal|GloboTech Communications|
 
 
 
