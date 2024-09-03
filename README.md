@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|391|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|391|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|391|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|223.205.75.119|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.90.67.35|8080|Indonesia|Bengkalis|PT Rajawali Bintang Cemerlang Telkomedia|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|106.227.87.11|3128|China|Taohua|China Telecom|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|152.26.229.93|9443|United States|Concord|MCNC|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|23.22.234.29|3128|United States|Ashburn|Amazon.com|
+|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|103.35.108.129|5020|Bangladesh|Dhaka|Ranks ITT|
+|13|23.22.234.29|3128|United States|Ashburn|Amazon.com|
+|14|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|15|180.190.200.24|8085|Philippines|Lahug|Globe Telecom|
+|16|38.156.75.13|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|103.179.246.30|8080|Pakistan|Multan|Orbit Networks Private Limited|
 
 
 
