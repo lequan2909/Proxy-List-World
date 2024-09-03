@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|34.219.154.7|3128|United States|Portland|Amazon.com, Inc.|
-|5|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|13.56.11.97|3128|United States|San Jose|Amazon.com, Inc.|
-|7|206.189.89.119|8888|United States|Rancho Cucamonga|DigitalOcean, LLC|
-|8|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|9|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|34.219.154.7|3128|United States|Portland|Amazon.com, Inc.|
-|12|13.56.11.97|3128|United States|San Jose|Amazon.com, Inc.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|191.102.123.196|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|17|103.169.194.21|8080|Indonesia|Jatimulyo|PT Aderani Multi Akses|
-|18|152.26.229.46|9443|United States|Concord|MCNC|
-|19|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|2|34.219.154.7|3128|United States|Portland|Amazon.com, Inc.|
+|3|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|13.56.11.97|3128|United States|San Jose|Amazon.com, Inc.|
+|5|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|6|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|7|34.219.154.7|3128|United States|Portland|Amazon.com, Inc.|
+|8|13.56.11.97|3128|United States|San Jose|Amazon.com, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|206.189.89.119|8888|United States|Rancho Cucamonga|DigitalOcean, LLC|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|152.26.229.46|9443|United States|Concord|MCNC|
+|16|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|202.152.24.50|8080|Indonesia|Jakarta Pusat|PT Aplikanusa Lintasarta|
+|20|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
