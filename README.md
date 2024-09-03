@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|27.79.23.109|5104|Vietnam|Tam Kỳ|Viettel Corporation|
-|4|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
-|5|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
-|7|173.212.237.47|3128|Germany|Nuremberg|Contabo GmbH|
-|8|27.72.65.163|5106|Vietnam|Hanoi|Viettel Group|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|103.183.98.222|7777|Indonesia|Trenggalek|PT.LEXXA DATA INDONUSA|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|103.139.126.31|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|16|152.26.229.83|9443|United States|Concord|MCNC|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|72.10.164.178|16039|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.34|9443|United States|Concord|MCNC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|6|103.250.130.149|8181|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
+|7|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|152.26.229.83|9443|United States|Concord|MCNC|
+|11|152.26.229.34|9443|United States|Concord|MCNC|
+|12|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|13|152.26.231.86|9443|United States|Concord|MCNC|
+|14|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|152.26.229.93|9443|United States|Concord|MCNC|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|72.10.164.178|21503|Canada|Montreal|GloboTech Communications|
+|18|191.97.3.210|9992|Colombia|Neiva|TV AZTECA SUCURSAL COLOMBIA|
+|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.229.47|9443|United States|Concord|MCNC|
 
 
 
