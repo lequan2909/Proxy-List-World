@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|116.105.31.16|5106|Vietnam|Da Nang|Viettel Corporation|
-|6|116.102.232.182|5107|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|7|117.6.29.85|5115|Vietnam|Bắc Giang|Viettel Corporation|
-|8|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|103.171.156.134|8080|Indonesia|Jakarta|MYREPUBLIC|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|152.26.229.34|9443|United States|Concord|MCNC|
-|18|103.55.159.51|6060|Indonesia|Sumbawa Besar|PT TELIO INTI NUSA|
-|19|152.26.231.86|9443|United States|Concord|MCNC|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|171.226.32.221|5103|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|6|171.240.219.72|5107|Vietnam|Hanoi|Viettel Corporation|
+|7|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|152.26.231.42|9443|United States|Concord|MCNC|
+|15|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|152.26.229.34|9443|United States|Concord|MCNC|
+|17|103.101.216.2|8080|Indonesia|Sungai Bamban|PT Duta Trans Nusantara Network|
+|18|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
 
