@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|103.99.27.3|8181|Indonesia|Tangerang|PT Lintas Network Solusi|
-|7|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
-|8|34.124.190.108|8090|Singapore|Singapore|Google LLC|
-|9|152.26.229.42|9443|United States|Concord|MCNC|
-|10|67.43.236.20|25843|Canada|Montreal|GloboTech Communications|
-|11|103.55.159.51|6060|Indonesia|Sumbawa Besar|PT TELIO INTI NUSA|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|67.43.227.227|28705|Canada|Montreal|GloboTech Communications|
-|14|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|67.43.227.227|28705|Canada|Montreal|GloboTech Communications|
-|16|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|152.26.229.46|9443|United States|Concord|MCNC|
-|18|72.10.160.90|10781|Canada|Montreal|GloboTech Communications|
-|19|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|20|115.223.31.58|32650|China|Wenzhou|China Telecom|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
+|3|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|103.118.44.176|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|5|119.76.142.165|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|8|103.248.9.226|8181|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
+|9|36.91.135.141|40|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
+|10|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|72.10.160.90|10781|Canada|Montreal|GloboTech Communications|
+|12|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|13|152.26.229.42|9443|United States|Concord|MCNC|
+|14|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|182.252.72.164|8082|Bangladesh|Dhaka|Agni Systems Limited|
+|16|150.230.72.171|80|Brazil|São Paulo|Oracle Corporation|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|106.227.87.11|3128|China|Taohua|China Telecom|
 
 
 
