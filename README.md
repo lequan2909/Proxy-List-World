@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|121.101.135.46|8089|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|6|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|206.233.198.25|3128|Singapore|Singapore|HONG KONG Megalayer Technology Co., Limited|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|9|152.26.229.86|9443|United States|Concord|MCNC|
-|10|152.26.231.94|9443|United States|Concord|MCNC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|13|72.10.164.178|26847|Canada|Montreal|GloboTech Communications|
-|14|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|152.26.231.86|9443|United States|Concord|MCNC|
-|16|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|72.10.164.178|26847|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|26847|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|22669|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|26847|Canada|Montreal|GloboTech Communications|
+|4|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|152.26.231.94|9443|United States|Concord|MCNC|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|152.26.229.86|9443|United States|Concord|MCNC|
+|9|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|10|72.10.164.178|28407|Canada|Montreal|GloboTech Communications|
+|11|104.129.194.99|8800|United States|Reston|ZSCALER, INC.|
+|12|152.26.231.86|9443|United States|Concord|MCNC|
+|13|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|152.26.231.83|9443|United States|Concord|MCNC|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|67.43.227.227|8103|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.93|9389|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
 
