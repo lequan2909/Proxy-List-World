@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|177.221.44.89|49999|Brazil|Jaboatão dos Guararapes|1telecom Servicos De Tecnologia EM Internet Ltda|
-|5|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|6|152.26.229.86|9443|United States|Concord|MCNC|
-|7|67.43.227.228|30191|Canada|Montreal|GloboTech Communications|
-|8|67.43.236.20|10175|Canada|Montreal|GloboTech Communications|
-|9|152.26.231.94|9443|United States|Concord|MCNC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|191.191.181.159|8082|Brazil|Anápolis|Claro NXT Telecomunicacoes Ltda|
+|4|103.88.90.129|8080|Indonesia|Malang|PT Paket Switch Bersama|
+|5|103.188.252.160|8080|Indonesia|Ungaran|PT Data Lintas Media Indonesia|
+|6|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|152.26.229.86|9443|United States|Concord|MCNC|
+|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|10|152.26.231.94|9443|United States|Concord|MCNC|
 |11|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|72.10.164.178|4951|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|4951|Canada|Montreal|GloboTech Communications|
-|14|103.48.71.34|83|India|Hyderabad|Country Online Services PVT LTD|
-|15|67.43.227.227|6889|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.83|9443|United States|Concord|MCNC|
-|17|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
-|18|152.26.231.83|9443|United States|Concord|MCNC|
-|19|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|12|111.68.26.237|8080|Indonesia|Yogyakarta|GMEDIA|
+|13|117.40.32.135|8080|China|Taohua|Chinanet|
+|14|152.26.229.83|9443|United States|Concord|MCNC|
+|15|152.26.231.83|9443|United States|Concord|MCNC|
+|16|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|38.156.72.179|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
