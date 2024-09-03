@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|7|45.174.79.32|999|Mexico|Delicias|Raul Duarte Urita|
-|8|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|173.212.237.47|3128|Germany|Nuremberg|Contabo GmbH|
-|10|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|11|36.93.68.47|41890|Indonesia|South Tangerang|Telekomunikasi Indonesia|
-|12|72.10.164.178|12153|Canada|Montreal|GloboTech Communications|
-|13|152.26.231.42|9443|United States|Concord|MCNC|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|27.72.65.163|5106|Vietnam|Hanoi|Viettel Group|
+|7|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|9|200.49.99.78|9991|Argentina|Buenos Aires|Telecom Argentina S.A|
+|10|173.212.237.47|3128|Germany|Nuremberg|Contabo GmbH|
+|11|152.26.231.42|9443|United States|Concord|MCNC|
+|12|109.201.13.186|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
 |14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|67.43.227.228|7291|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|152.26.231.93|9443|United States|Concord|MCNC|
-|18|72.10.160.90|1241|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.229|9657|Canada|Montreal|GloboTech Communications|
-|20|103.153.135.58|8083|Indonesia|Tangerang|WMINET|
+|15|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|16|152.26.231.93|9443|United States|Concord|MCNC|
+|17|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
+|18|85.172.174.30|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|19|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|20|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
