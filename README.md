@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|103.125.42.127|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|4|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|6|223.31.56.194|8080|India|Chennai|Sify Limited|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|10|62.171.183.48|3128|Germany|Nuremberg|Contabo GmbH|
-|11|37.187.109.70|10111|France|Gravelines|OVH SAS|
-|12|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|102.39.232.252|8080|South Africa|Johannesburg|Vox Telecom|
-|18|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|19|190.95.202.210|999|Ecuador|Cuenca|Telconet S.A|
-|20|152.26.231.94|9443|United States|Concord|MCNC|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|7|117.5.244.53|5101|Vietnam|Hanoi|VIETTEL|
+|8|103.182.213.65|8080|Bangladesh|Tongi|Rapid Network|
+|9|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
+|13|103.156.15.55|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|14|182.253.39.242|8080|Indonesia|Jakarta Pusat|BIZNET|
+|15|223.31.56.194|8080|India|Chennai|Sify Limited|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|119.47.90.25|8080|Indonesia|Jatiroto|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|20|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
 
 
 
