@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|5|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|115.72.46.96|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|8|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|9|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|103.77.16.190|80|Bangladesh|Kushtia|ICC Communication Ltd|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.234.159.5|8080|India|Bengaluru|MWPL|
-|13|152.26.231.86|9443|United States|Concord|MCNC|
-|14|152.26.229.47|9443|United States|Concord|MCNC|
-|15|72.10.164.178|6685|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|6685|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|19485|Canada|Montreal|GloboTech Communications|
-|18|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|19|152.26.229.93|9443|United States|Concord|MCNC|
-|20|213.165.248.42|3128|The Netherlands|Amsterdam|InMotion Hosting, Inc.|
+|1|198.13.52.240|18080|Japan|Motoyoyogichō|The Constant Company|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|115.72.46.96|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|6|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|7|103.172.70.138|1111|Indonesia|Karawang|AZNET|
+|8|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|103.130.130.179|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
+|12|152.26.231.86|9443|United States|Concord|MCNC|
+|13|152.26.229.47|9443|United States|Concord|MCNC|
+|14|117.40.32.135|8080|China|Taohua|Chinanet|
+|15|72.10.164.178|5301|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|5301|Canada|Montreal|GloboTech Communications|
+|17|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|152.26.229.93|9443|United States|Concord|MCNC|
+|19|171.234.115.91|5104|Vietnam|Hanoi|Viettel Corporation|
+|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
