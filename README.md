@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|156.250.117.35|40230|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|202.61.120.182|8080|India|Chennai|Arjun Telecom Pvt. Ltd.|
-|8|156.250.119.180|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|152.26.231.42|9443|United States|Concord|MCNC|
-|11|72.10.164.178|21117|Canada|Montreal|GloboTech Communications|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|72.10.164.178|21117|Canada|Montreal|GloboTech Communications|
-|17|45.122.228.10|8899|Australia|Wangaratta|NETPTYLTD|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|113.240.99.148|65007|China|Qingyuan|No.293, Wanbao Avenue|
-|20|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|156.250.119.180|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
+|4|156.250.119.138|40021|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
+|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|156.250.117.35|40230|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|7|156.250.118.99|7001|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
+|8|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|202.61.120.182|8080|India|Chennai|Arjun Telecom Pvt. Ltd.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|124.217.97.131|8080|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|203.150.113.21|57322|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|14|103.48.68.123|83|India|Hyderabad|Country Online Services PVT LTD|
+|15|72.10.164.178|25099|Canada|Montreal|GloboTech Communications|
+|16|152.26.231.42|9443|United States|Concord|MCNC|
+|17|177.55.247.174|8080|Brazil|Jericoacoara|VAS Freitas Servicos de Internet Ltda|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
 
 
 
