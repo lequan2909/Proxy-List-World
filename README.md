@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|200.37.187.60|999|Peru|Huancavelica|Telefonica del Peru S.A.A.|
-|4|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|112.198.179.242|8082|Philippines|Carmona|Globe Telecom|
-|6|91.217.179.134|8080|Ukraine|Kyiv|Startnet LTD|
-|7|103.247.23.33|1111|Indonesia|Banyumas|PT wifian Solution|
-|8|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|10|119.2.45.51|8080|Indonesia|Jakarta|PT. Laxo Global Akses|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|6|91.209.114.179|8080|Hungary|Siófok|MVM NET Zrt.|
+|7|24.144.84.1|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|101.255.117.197|8085|Indonesia|Jakarta|PT Remala Abadi|
+|9|103.76.151.74|8089|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|10|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |11|152.26.229.46|9443|United States|Concord|MCNC|
 |12|152.26.231.42|9443|United States|Concord|MCNC|
-|13|45.122.228.10|8899|Australia|Wangaratta|NETPTYLTD|
-|14|101.255.117.197|8085|Indonesia|Jakarta|PT Remala Abadi|
-|15|38.51.243.137|999|Colombia|Túquerres|INTERCOMM DE NARIÑO SAS|
+|13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|14|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|152.26.231.83|9443|United States|Concord|MCNC|
 |16|152.26.229.34|9443|United States|Concord|MCNC|
-|17|152.26.231.83|9443|United States|Concord|MCNC|
-|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|19|152.26.229.93|9443|United States|Concord|MCNC|
-|20|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|101.255.118.10|3127|Indonesia|Jakarta|PT Remala Abadi|
+|18|72.10.164.178|31653|Canada|Montreal|GloboTech Communications|
+|19|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
 
