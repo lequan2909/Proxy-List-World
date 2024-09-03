@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|117.0.165.184|5103|Vietnam|Cẩm Thủy|Viettel Group|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.178.194.52|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|6|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|171.251.203.6|5110|Vietnam|Hanoi|Viettel Corporation|
-|9|102.221.40.114|8080|South Africa|George|Telkom SA Ltd.|
-|10|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|12|152.26.231.42|9443|United States|Concord|MCNC|
-|13|152.26.229.93|9443|United States|Concord|MCNC|
-|14|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|152.26.229.83|9443|United States|Concord|MCNC|
-|16|152.26.231.83|9443|United States|Concord|MCNC|
-|17|152.26.231.93|9443|United States|Concord|MCNC|
-|18|152.26.229.46|9443|United States|Concord|MCNC|
-|19|152.26.231.94|9443|United States|Concord|MCNC|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|171.251.196.55|5106|Vietnam|Hanoi|Viettel Corporation|
+|5|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|6|171.251.203.6|5110|Vietnam|Hanoi|Viettel Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|27.70.215.224|5109|Vietnam|Ho Chi Minh City|Viettel Group|
+|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|10|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|165.16.55.19|44444|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|13|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|152.26.231.42|9443|United States|Concord|MCNC|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
+|18|152.26.229.93|9443|United States|Concord|MCNC|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
