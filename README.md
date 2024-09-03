@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|27.74.124.53|5102|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|115.72.220.75|5105|Vietnam|Ho Chi Minh City|VIETELmetro|
+|5|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.188.175.35|80|Indonesia|Tarakan|PT. Fiber Networks Indonesia|
 |8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|9|80.87.178.175|8080|Czechia|Mikulov|Nordic Telecom Regional s.r.o.|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|124.83.51.94|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |13|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |14|152.26.229.34|9443|United States|Concord|MCNC|
-|15|152.26.231.94|9443|United States|Concord|MCNC|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|171.241.206.132|5108|Vietnam|Thanh Hóa|Viettel Corporation|
+|15|152.26.231.42|9443|United States|Concord|MCNC|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
 |18|152.26.229.46|9443|United States|Concord|MCNC|
-|19|152.26.229.83|9443|United States|Concord|MCNC|
-|20|152.26.231.93|9443|United States|Concord|MCNC|
+|19|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|72.10.164.178|32559|Canada|Montreal|GloboTech Communications|
 
 
 
