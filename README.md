@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|2|3.26.74.191|3128|Australia|Sydney|Amazon.com, Inc.|
+|3|45.77.147.46|3128|United States|Piscataway|The Constant Company|
 |4|85.172.174.30|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|5|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|7|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|152.26.231.94|9443|United States|Concord|MCNC|
-|9|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|10|152.26.231.42|9443|United States|Concord|MCNC|
-|11|152.26.229.34|9443|United States|Concord|MCNC|
-|12|129.205.127.30|8080|Nigeria|Lagos|Globacom Limited|
-|13|152.26.231.86|9443|United States|Concord|MCNC|
-|14|152.26.229.83|9443|United States|Concord|MCNC|
-|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|16|72.10.164.178|13135|Canada|Montreal|GloboTech Communications|
-|17|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|18|72.10.164.178|13135|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|13135|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.19|17787|Canada|Montreal|GloboTech Communications|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|9|45.189.252.245|999|Mexico|Lerdo de Tejada|Tracered SA De CV|
+|10|116.103.218.194|5103|Vietnam|Huế|Viettel Corporation|
+|11|67.43.236.18|1853|Canada|Montreal|GloboTech Communications|
+|12|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|152.26.231.94|9443|United States|Concord|MCNC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|77.77.210.90|21056|Bosnia and Herzegovina|Sarajevo|TELEMACH BH|
+|16|152.26.229.34|9443|United States|Concord|MCNC|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|72.10.164.178|15993|Canada|Montreal|GloboTech Communications|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
