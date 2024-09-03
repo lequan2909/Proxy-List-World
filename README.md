@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|5|103.153.149.61|1111|Indonesia|Gianyar|JARINGANKU|
-|6|171.226.32.221|5103|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|7|103.51.21.165|8080|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|85.118.117.165|8080|Georgia|Tbilisi|EGRISI|
-|11|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|152.26.229.34|9443|United States|Concord|MCNC|
-|13|152.26.229.46|9443|United States|Concord|MCNC|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|72.10.164.178|20689|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.93|9389|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.18|31081|Canada|Montreal|GloboTech Communications|
-|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|19|67.43.236.20|16721|Canada|Montreal|GloboTech Communications|
-|20|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|186.24.9.114|999|Venezuela|Caracas|TELEFONICA VENEZOLANA, C.A.|
+|7|152.26.229.34|9443|United States|Concord|MCNC|
+|8|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|152.26.229.46|9443|United States|Concord|MCNC|
+|10|116.105.31.16|5106|Vietnam|Da Nang|Viettel Corporation|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|72.10.164.178|23415|Canada|Montreal|GloboTech Communications|
+|13|117.40.32.133|8080|China|Taohua|Chinanet|
+|14|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|72.10.164.178|23415|Canada|Montreal|GloboTech Communications|
+|18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
+|20|152.26.229.47|9443|United States|Concord|MCNC|
 
 
 
