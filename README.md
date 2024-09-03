@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|103.172.70.138|1111|Indonesia|Karawang|AZNET|
-|9|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|10|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|11|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|45.182.176.38|9947|Brazil|São Paulo|Evolucao Telecom Ltda|
-|14|37.111.52.41|8080|Myanmar|Yangon|Telenor Myanmar|
-|15|77.87.19.54|8080|Saudi Arabia|Jeddah|WBC 1|
-|16|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|27.64.68.213|32650|Vietnam|Ho Chi Minh City|Viettel Group|
-|18|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|103.156.140.203|8080|Indonesia|Jember|PT Tekling Media Telematika|
-|20|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|2|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|8|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|9|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|27.70.197.16|8080|Vietnam|Ho Chi Minh City|Viettel Group|
+|11|45.70.201.253|999|Ecuador|Quito|Ufinet Panama S.A.|
+|12|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|152.26.229.83|9443|United States|Concord|MCNC|
+|14|152.26.229.46|9443|United States|Concord|MCNC|
+|15|160.248.190.241|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|18|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|85.172.174.30|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|20|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
