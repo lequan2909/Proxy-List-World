@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|182.160.124.214|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|152.26.229.46|9443|United States|Concord|MCNC|
-|9|152.26.231.94|9443|United States|Concord|MCNC|
-|10|152.26.231.86|9443|United States|Concord|MCNC|
-|11|152.26.231.42|9443|United States|Concord|MCNC|
-|12|152.26.229.83|9443|United States|Concord|MCNC|
-|13|67.43.227.226|2835|Canada|Montreal|GloboTech Communications|
-|14|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|15|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.164.178|20299|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.86|9443|United States|Concord|MCNC|
-|18|67.43.227.227|13891|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|9461|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|13891|Canada|Montreal|GloboTech Communications|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|152.26.229.46|9443|United States|Concord|MCNC|
+|8|152.26.231.94|9443|United States|Concord|MCNC|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|152.26.231.86|9443|United States|Concord|MCNC|
+|12|152.26.231.42|9443|United States|Concord|MCNC|
+|13|152.26.229.83|9443|United States|Concord|MCNC|
+|14|72.10.164.178|16995|Canada|Montreal|GloboTech Communications|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|72.10.160.90|13455|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.226|2835|Canada|Montreal|GloboTech Communications|
+|18|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 
 
 
