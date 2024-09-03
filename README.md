@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|4|47.76.54.39|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|103.77.16.190|80|Bangladesh|Kushtia|ICC Communication Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|119.235.209.77|3125|Indonesia|Senen|PT. Mora Telematika Indonesia|
-|9|171.241.206.132|5108|Vietnam|Thanh Hóa|Viettel Corporation|
-|10|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|12|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|27.74.124.53|5102|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|14|181.212.45.228|8080|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|15|152.26.229.47|9443|United States|Concord|MCNC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|116.107.138.0|5103|Vietnam|Bắc Giang|Viettel Corporation|
+|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|103.171.156.134|8080|Indonesia|Jakarta|MYREPUBLIC|
+|9|171.226.32.221|5103|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|10|157.100.56.47|999|Ecuador|Cariamanga|Ufinet Panama S.A.|
+|11|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|12|152.26.229.47|9443|United States|Concord|MCNC|
+|13|171.248.118.93|5107|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|14|171.226.32.221|5103|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|200.114.84.190|8080|Argentina|La Plata|Citarella S.A.|
-|18|72.10.160.90|9693|Canada|Montreal|GloboTech Communications|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |19|152.26.231.93|9443|United States|Concord|MCNC|
-|20|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
