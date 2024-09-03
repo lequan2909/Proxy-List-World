@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|103.175.157.72|8090|Indonesia|Jakarta|MYARSYILA|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|181.78.107.95|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|5|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|6|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|7|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |8|156.250.119.138|40021|South Africa|Johannesburg|Shenzhen Jizhan Technology Co|
-|9|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|10|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|11|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |13|152.26.231.86|9443|United States|Concord|MCNC|
-|14|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|14|152.26.231.42|9443|United States|Concord|MCNC|
 |15|152.26.231.93|9443|United States|Concord|MCNC|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
 |17|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|27.72.244.228|8080|Vietnam|Hanoi|Newass2011xDSLHN|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|18|152.26.229.86|9443|United States|Concord|MCNC|
+|19|27.121.82.102|8080|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
