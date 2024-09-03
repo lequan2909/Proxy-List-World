@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|18.228.173.200|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|188.132.222.54|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|1|18.228.173.200|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|46.166.165.33|4002|Lithuania|Šiauliai|Cherry Servers|
+|7|94.102.228.70|32650|Montenegro|Podgorica|One Crna Gora DOO|
 |8|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|220.150.76.92|6000|Japan|Chiyoda|FreeBit Co., Ltd.|
-|10|103.162.54.251|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
-|11|152.26.229.93|9443|United States|Concord|MCNC|
-|12|72.10.164.178|8831|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.170|33243|Canada|Montreal|GloboTech Communications|
-|14|46.166.165.33|4002|Lithuania|Šiauliai|Cherry Servers|
-|15|72.10.164.178|8831|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|8831|Canada|Montreal|GloboTech Communications|
-|17|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|85.172.174.30|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|72.10.164.178|8831|Canada|Montreal|GloboTech Communications|
+|9|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|10|152.26.229.93|9443|United States|Concord|MCNC|
+|11|72.10.164.178|15005|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|15005|Canada|Montreal|GloboTech Communications|
+|13|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|85.172.174.30|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|15|90.161.186.147|3128|Spain|Pineda de Mar|Uni2|
+|16|181.119.67.73|999|Colombia|Barrancabermeja|IFX Networks Argentina S.R.L|
+|17|152.26.231.86|9443|United States|Concord|MCNC|
+|18|72.10.164.178|15005|Canada|Montreal|GloboTech Communications|
+|19|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
