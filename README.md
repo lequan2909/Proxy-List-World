@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|104.248.156.163|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|43.132.124.11|3128|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|103.127.106.249|8090|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|2.136.56.212|8088|Spain|Madrid|RIMA (Red IP Multi Acceso)|
 |7|200.37.187.60|999|Peru|Huancavelica|Telefonica del Peru S.A.A.|
-|8|103.247.22.236|8080|Indonesia|Bekasi|PT wifian Solution|
-|9|119.18.156.242|8080|Indonesia|Bogor|PT. Jala Lintas Media|
-|10|160.25.180.35|8080|India|Mumbai|TAJ BROADBAND PRIVATE LIMITED|
-|11|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|152.26.231.94|9443|United States|Concord|MCNC|
-|13|152.26.229.86|9443|United States|Concord|MCNC|
-|14|120.202.162.210|80|China|Guangzhou|China Mobile communications corporation|
-|15|72.10.164.178|5945|Canada|Montreal|GloboTech Communications|
-|16|152.26.231.86|9443|United States|Concord|MCNC|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|200.37.187.60|999|Peru|Huancavelica|Telefonica del Peru S.A.A.|
-|19|152.26.231.93|9443|United States|Concord|MCNC|
-|20|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.159.96.131|3125|Indonesia|Gresik|PT Jinde Grup Indonesia|
+|10|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|212.3.188.172|8080|Italy|Cisternino|CLIO|
+|13|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|152.26.231.94|9443|United States|Concord|MCNC|
+|16|112.198.179.242|8082|Philippines|Carmona|Globe Telecom|
+|17|152.26.229.86|9443|United States|Concord|MCNC|
+|18|120.202.162.210|80|China|Guangzhou|China Mobile communications corporation|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
 
