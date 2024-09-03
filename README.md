@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|103.137.91.250|8080|Laos|Vientiane|SLT Network Co., LTD|
-|7|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|8|152.26.231.93|9443|United States|Concord|MCNC|
-|9|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|200.37.187.60|999|Peru|Huancavelica|Telefonica del Peru S.A.A.|
+|3|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|188.125.167.72|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|7|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|152.26.231.93|9443|United States|Concord|MCNC|
 |10|103.234.159.5|8080|India|Bengaluru|MWPL|
-|11|191.97.16.126|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
-|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|152.26.231.42|9443|United States|Concord|MCNC|
-|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|67.43.228.251|9381|Canada|Montreal|GloboTech Communications|
-|17|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|18|67.43.228.253|15865|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.94|9443|United States|Concord|MCNC|
+|11|152.26.231.42|9443|United States|Concord|MCNC|
+|12|152.26.231.94|9443|United States|Concord|MCNC|
+|13|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|19|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
 |20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
