@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.83.0.62|8085|Indonesia|Lamongan|PT Kia Integrasi Akses|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|6|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|8|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|11|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|12|72.10.164.178|7871|Canada|Montreal|GloboTech Communications|
-|13|152.26.229.46|9443|United States|Concord|MCNC|
-|14|72.10.164.178|7871|Canada|Montreal|GloboTech Communications|
-|15|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|17|117.68.38.183|24578|China|Hefei|China Telecom|
-|18|67.43.227.230|5475|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|32955|Canada|Montreal|GloboTech Communications|
-|20|171.236.112.177|5101|Vietnam|Hanoi|Viettel Corporation|
+|2|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|6|152.26.229.46|9443|United States|Concord|MCNC|
+|7|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|8|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|72.10.164.178|25445|Canada|Montreal|GloboTech Communications|
+|10|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|11|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|12|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|13|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|14|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|152.26.229.34|9443|United States|Concord|MCNC|
+|16|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|221.217.48.3|9000|China|Beijing|China Unicom Beijing Province Network|
+|18|72.10.160.173|20101|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.21|6679|Canada|Montreal|GloboTech Communications|
+|20|152.26.231.93|9443|United States|Concord|MCNC|
 
 
 
