@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|4|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|5|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
-|7|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|77.87.19.54|8080|Saudi Arabia|Jeddah|WBC 1|
-|11|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|103.124.196.218|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|2|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|3|103.148.45.60|8833|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|4|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|7|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|8|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|117.40.32.135|8080|China|Taohua|Chinanet|
+|11|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
 |12|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|13|117.40.32.135|8080|China|Taohua|Chinanet|
-|14|152.26.229.46|9443|United States|Concord|MCNC|
-|15|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|67.43.236.19|31223|Canada|Montreal|GloboTech Communications|
-|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|19|123.129.217.72|44099|China|Dongying|CNC Group CHINA169 Shandong Province Network|
-|20|152.26.231.93|9443|United States|Concord|MCNC|
+|13|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|103.77.16.190|80|Bangladesh|Kushtia|ICC Communication Ltd|
+|15|152.26.229.46|9443|United States|Concord|MCNC|
+|16|85.118.117.165|8080|Georgia|Tbilisi|EGRISI|
+|17|72.10.164.178|7169|Canada|Montreal|GloboTech Communications|
+|18|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|24.204.29.115|8080|United States|Longview|Network IP|
 
 
 
