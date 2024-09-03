@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
-|3|190.8.47.122|999|Dominican Republic|Santo Domingo|Trilogy Dominicana, S.A.|
-|4|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|202.137.31.186|8080|Indonesia|Bekasi|LINKNET|
-|6|125.209.88.46|8080|Pakistan|Karachi|Multinet 125-88/24|
-|7|152.26.229.47|9443|United States|Concord|MCNC|
-|8|41.180.70.2|8080|South Africa|Johannesburg|X-DSL Networking Solutions|
-|9|152.26.231.83|9443|United States|Concord|MCNC|
-|10|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|11|152.26.229.34|9443|United States|Concord|MCNC|
-|12|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|13|152.26.231.42|9443|United States|Concord|MCNC|
-|14|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|72.10.160.90|8169|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|161.49.215.28|10101|Philippines|Clark|Converge Information and Communications Technology Solutions|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|190.8.47.122|999|Dominican Republic|Santo Domingo|Trilogy Dominicana, S.A.|
+|7|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|8|202.162.213.182|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|9|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|11|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|152.26.229.34|9443|United States|Concord|MCNC|
+|13|152.26.231.83|9443|United States|Concord|MCNC|
+|14|152.26.229.47|9443|United States|Concord|MCNC|
+|15|152.26.231.42|9443|United States|Concord|MCNC|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
 
 
 
