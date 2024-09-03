@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|13.56.11.97|3128|United States|San Jose|Amazon.com, Inc.|
-|4|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
 |7|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|8|206.189.89.119|8888|United States|Rancho Cucamonga|DigitalOcean, LLC|
-|9|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|10|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|203.150.113.21|57322|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|10|34.219.154.7|3128|United States|Portland|Amazon.com, Inc.|
 |11|13.56.11.97|3128|United States|San Jose|Amazon.com, Inc.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|191.103.219.225|48612|Colombia|Medellín|Edatel S.a. E.S.P|
-|14|113.161.210.60|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|15|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|152.26.231.94|9443|United States|Concord|MCNC|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|103.55.159.51|6060|Indonesia|Sumbawa Besar|PT TELIO INTI NUSA|
+|16|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|206.189.89.119|8888|United States|Rancho Cucamonga|DigitalOcean, LLC|
+|18|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|152.26.231.94|9443|United States|Concord|MCNC|
 
 
 
