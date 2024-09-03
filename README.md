@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|171.234.77.133|5101|Vietnam|Thanh Hà|Viettel Corporation|
-|6|117.2.187.0|5110|Vietnam|Huế|Viettel Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|45.166.93.29|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|171.241.185.175|5107|Vietnam|Hanoi|Viettel Corporation|
-|12|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|14|34.125.246.223|80|United States|Las Vegas|Google LLC|
-|15|102.68.128.218|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|103.178.194.52|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|18|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|19|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|27.74.124.53|5102|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|5|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|180.191.40.160|8082|Philippines|Tarlac City|Globe Telecom|
+|8|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|152.26.229.83|9443|United States|Concord|MCNC|
+|11|152.26.229.86|9443|United States|Concord|MCNC|
+|12|152.26.231.83|9443|United States|Concord|MCNC|
+|13|152.26.231.86|9443|United States|Concord|MCNC|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|182.253.39.242|8080|Indonesia|Jakarta Pusat|BIZNET|
+|16|67.43.227.226|8101|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|9335|Canada|Montreal|GloboTech Communications|
+|18|45.184.224.200|999|Ecuador|Quito|Media Commerce Medcomm S.A|
+|19|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
+|20|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 
 
 
