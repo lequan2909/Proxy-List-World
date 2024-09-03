@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|2|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|104.244.78.150|5555|Luxembourg|Roost|FranTech Solutions|
-|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|64.31.63.160|3128|France|Paris|Limestone Networks|
-|8|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|103.84.177.212|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|10|12.88.29.66|9080|United States|New Orleans|AT&T Services, Inc.|
-|11|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|12|113.160.155.121|19132|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|13|103.234.159.5|8080|India|Bengaluru|MWPL|
-|14|152.26.229.34|9443|United States|Concord|MCNC|
-|15|152.26.229.93|9443|United States|Concord|MCNC|
-|16|72.10.164.178|11051|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|28991|Canada|Montreal|GloboTech Communications|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|152.26.231.86|9443|United States|Concord|MCNC|
-|20|72.10.164.178|11051|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|103.156.140.203|8080|Indonesia|Jember|PT Tekling Media Telematika|
+|10|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|11|152.26.229.34|9443|United States|Concord|MCNC|
+|12|152.26.229.93|9443|United States|Concord|MCNC|
+|13|38.51.243.137|999|Colombia|Túquerres|INTERCOMM DE NARIÑO SAS|
+|14|36.85.51.163|8080|Indonesia|Malang|PT. TELKOM INDONESIA|
+|15|152.26.231.94|9443|United States|Concord|MCNC|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|72.10.164.178|25489|Canada|Montreal|GloboTech Communications|
+|19|106.227.87.11|3128|China|Taohua|China Telecom|
+|20|72.10.164.178|25489|Canada|Montreal|GloboTech Communications|
 
 
 
