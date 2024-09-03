@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|223.205.75.119|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.159.195.193|8080|Indonesia|Rembang|PT Giga Digital Nusantara|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|10|103.158.253.29|8382|Indonesia|Brebes|Rapid Network|
 |11|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|152.26.229.42|9443|United States|Concord|MCNC|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|16|67.43.228.253|4419|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|13465|Canada|Montreal|GloboTech Communications|
-|18|117.68.38.166|39593|China|Hefei|China Telecom|
-|19|72.10.160.90|29131|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|31995|Canada|Montreal|GloboTech Communications|
+|12|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|13|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|103.234.159.5|8080|India|Bengaluru|MWPL|
+|15|5.189.146.57|80|Germany|Nuremberg|Contabo GmbH|
+|16|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|103.35.108.129|5020|Bangladesh|Dhaka|Ranks ITT|
+|20|120.202.162.210|80|China|Guangzhou|China Mobile communications corporation|
 
 
 
