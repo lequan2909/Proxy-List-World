@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|175.200.97.173|3128|South Korea|Seongnam-si|Korea Telecom|
+|3|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
-|7|145.239.86.159|8888|Poland|Wroclaw|OVH SAS|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|72.10.164.178|1417|Canada|Montreal|GloboTech Communications|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|13|203.113.114.94|33107|Thailand|Pathum Thani|TOT Public Company Limited|
-|14|152.26.229.47|9443|United States|Concord|MCNC|
-|15|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|16|72.10.164.178|1417|Canada|Montreal|GloboTech Communications|
-|17|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|152.26.229.46|9443|United States|Concord|MCNC|
-|19|223.206.49.175|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|20|72.10.164.178|1417|Canada|Montreal|GloboTech Communications|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|145.239.86.159|8888|Poland|Wroclaw|OVH SAS|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|16|119.47.90.240|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|17|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|19|152.26.229.47|9443|United States|Concord|MCNC|
+|20|72.10.164.178|7861|Canada|Montreal|GloboTech Communications|
 
 
 
