@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|121.101.135.46|8089|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
 |3|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|27.71.150.175|8080|Vietnam|Huế|Viettel Group|
-|5|103.152.101.69|8080|Pakistan|Lahore|IN CABLE INTERNET (PRIVATE) LIMITED|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |6|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
 |7|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|152.26.229.93|9443|United States|Concord|MCNC|
-|9|152.26.231.94|9443|United States|Concord|MCNC|
-|10|152.26.231.93|9443|United States|Concord|MCNC|
-|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|12|103.243.177.90|8080|Indonesia|Kalicari|Universitas Katolik Soegijapranata|
-|13|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|152.26.229.83|9443|United States|Concord|MCNC|
-|15|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
-|16|72.10.164.178|2495|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|15891|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|13607|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|2495|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|31427|Canada|Montreal|GloboTech Communications|
+|8|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|9|38.156.72.179|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|152.26.229.93|9443|United States|Concord|MCNC|
+|11|152.26.231.94|9443|United States|Concord|MCNC|
+|12|152.26.231.93|9443|United States|Concord|MCNC|
+|13|177.221.44.89|49999|Brazil|Jaboatão dos Guararapes|1telecom Servicos De Tecnologia EM Internet Ltda|
+|14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|15|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|152.26.229.83|9443|United States|Concord|MCNC|
+|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|18|38.9.56.70|8080|India|Chennai|Microsense Private Limited|
+|19|72.10.164.178|17941|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|17941|Canada|Montreal|GloboTech Communications|
 
 
 
