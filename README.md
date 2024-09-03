@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|94.102.228.70|32650|Montenegro|Podgorica|One Crna Gora DOO|
-|5|27.72.65.163|5106|Vietnam|Hanoi|Viettel Group|
-|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|8|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|103.153.134.150|8080|Indonesia|Tangerang|WMINET|
-|10|160.154.163.18|8080|Ivory Coast|Abidjan|ORANGE COTE D'IVOIRE|
-|11|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.183.98.222|7777|Indonesia|Trenggalek|PT.LEXXA DATA INDONUSA|
+|5|103.119.55.216|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|157.100.7.218|999|Ecuador|Quito|Telconet S.A|
+|9|15.235.171.221|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
+|10|36.93.68.47|41890|Indonesia|South Tangerang|Telekomunikasi Indonesia|
+|11|103.4.167.15|8080|Indonesia|Jakarta|FIBERNET|
 |12|152.26.229.46|9443|United States|Concord|MCNC|
-|13|67.43.227.230|2059|Canada|Montreal|GloboTech Communications|
-|14|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|15|72.10.164.178|25053|Canada|Montreal|GloboTech Communications|
-|16|103.77.16.190|80|Bangladesh|Kushtia|ICC Communication Ltd|
-|17|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|18|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
-|19|72.10.164.178|25053|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|15959|Canada|Montreal|GloboTech Communications|
+|13|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|14|72.10.164.178|12153|Canada|Montreal|GloboTech Communications|
+|15|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
+|16|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|17|72.10.164.178|12153|Canada|Montreal|GloboTech Communications|
+|18|103.243.177.90|8080|Indonesia|Kalicari|Universitas Katolik Soegijapranata|
+|19|72.10.164.178|12153|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|7415|Canada|Montreal|GloboTech Communications|
 
 
 
