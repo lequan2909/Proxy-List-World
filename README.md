@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|4|66.211.155.34|8080|United States|Mont Vernon|FirstLight Fiber|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|68.183.149.126|11010|United States|Clifton|DigitalOcean, LLC|
-|8|67.43.227.227|23883|Canada|Montreal|GloboTech Communications|
-|9|27.72.65.163|5107|Vietnam|Hanoi|Viettel Group|
-|10|72.10.160.170|2545|Canada|Montreal|GloboTech Communications|
+|3|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|4|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|103.40.121.33|8089|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
+|10|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
 |11|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|12|143.0.68.196|9292|Brazil|Auriflama|Nets Telecomunicacoes Ltda|
-|13|67.43.228.253|20181|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.174|6319|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|23883|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.230|2459|Canada|Montreal|GloboTech Communications|
-|17|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|18|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
-|19|51.77.211.107|80|France|Strasbourg|OVH SAS|
-|20|67.43.228.253|20181|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.227|33051|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.174|6319|Canada|Montreal|GloboTech Communications|
+|14|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|15|67.43.227.227|33051|Canada|Montreal|GloboTech Communications|
+|16|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|67.43.228.253|22579|Canada|Montreal|GloboTech Communications|
+|19|181.205.28.66|46380|Colombia|Medellín|Colombia Móvil|
+|20|82.129.154.218|1981|Egypt|Cairo|Vodafone Data - Egypt|
 
 
 
