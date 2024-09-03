@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|460|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|460|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|460|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|145.239.86.159|8888|Poland|Wroclaw|OVH SAS|
-|5|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|192.99.169.19|8444|Canada|Beauharnois|OVH SAS|
-|7|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|145.239.86.159|8888|Poland|Wroclaw|OVH SAS|
+|6|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
 |12|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |13|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|15.204.161.192|18080|United States|Reston|OVH SAS|
-|17|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|201.20.67.70|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|19|66.27.58.70|8080|United States|Artesia|Spectrum|
-|20|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|103.224.124.239|8080|Indonesia|Bogor|PT Curug Lintas Indonesia|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|152.26.229.93|9443|United States|Concord|MCNC|
+|19|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
