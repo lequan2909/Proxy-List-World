@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|43.203.192.57|3128|South Korea|Seoul|Amazon.com, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|7|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|103.18.77.36|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|9|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|152.26.229.46|9443|United States|Concord|MCNC|
-|14|24.204.29.115|8080|United States|Longview|Network IP|
-|15|94.70.195.145|8080|Greece|Athens|Ote SA (Hellenic Telecommunications Organisation)|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|72.10.160.90|2491|Canada|Montreal|GloboTech Communications|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|38.52.221.44|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|10|152.26.229.46|9443|United States|Concord|MCNC|
+|11|45.70.201.253|999|Ecuador|Quito|Ufinet Panama S.A.|
+|12|103.164.221.34|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|13|152.26.231.42|9443|United States|Concord|MCNC|
+|14|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|85.172.174.30|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|16|185.79.243.74|8080|Poland|Myszków|PHU Kario-Sat Sp. z o.o.|
+|17|117.4.115.59|8080|Vietnam|Bắc Ninh|VIETTEL|
+|18|103.139.126.31|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
 |19|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|85.172.174.30|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|20|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
 
 
 
