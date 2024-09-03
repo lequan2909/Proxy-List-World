@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|36.85.51.163|8080|Indonesia|Malang|PT. TELKOM INDONESIA|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.190.113.114|8080|Indonesia|Grobogan|PT Linkbit Inovasi Teknologi|
-|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|6|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|8|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|10|152.26.231.93|9443|United States|Concord|MCNC|
-|11|152.26.229.93|9443|United States|Concord|MCNC|
-|12|152.26.229.42|9443|United States|Concord|MCNC|
-|13|72.10.164.178|17229|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|17229|Canada|Montreal|GloboTech Communications|
+|1|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|103.13.204.89|8083|Indonesia|Bodeh|PT JARINGANKU SARANA NUSANTARA|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|7|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|9|152.26.229.42|9443|United States|Concord|MCNC|
+|10|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|152.26.231.93|9443|United States|Concord|MCNC|
+|12|152.26.229.93|9443|United States|Concord|MCNC|
+|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|14|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |15|152.26.229.86|9443|United States|Concord|MCNC|
 |16|152.26.231.83|9443|United States|Concord|MCNC|
-|17|72.10.160.170|16575|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|17229|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|17229|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|17229|Canada|Montreal|GloboTech Communications|
+|17|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
 
