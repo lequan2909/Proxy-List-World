@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,23 +40,23 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|103.190.113.114|8080|Indonesia|Grobogan|PT Linkbit Inovasi Teknologi|
-|6|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|7|103.83.0.62|8085|Indonesia|Lamongan|PT Kia Integrasi Akses|
-|8|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|152.26.231.93|9443|United States|Concord|MCNC|
-|11|152.26.229.83|9443|United States|Concord|MCNC|
-|12|152.26.231.42|9443|United States|Concord|MCNC|
-|13|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|14|72.10.164.178|11133|Canada|Montreal|GloboTech Communications|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|38.52.221.44|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|4|103.190.113.114|8080|Indonesia|Grobogan|PT Linkbit Inovasi Teknologi|
+|5|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|222.127.242.123|8082|Philippines|Iloilo City|GLBB|
+|9|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|177.221.44.89|49999|Brazil|Jaboatão dos Guararapes|1telecom Servicos De Tecnologia EM Internet Ltda|
+|11|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|152.26.229.83|9443|United States|Concord|MCNC|
+|13|152.26.231.42|9443|United States|Concord|MCNC|
+|14|152.26.231.93|9443|United States|Concord|MCNC|
+|15|152.26.229.34|9443|United States|Concord|MCNC|
+|16|72.10.164.178|1487|Canada|Montreal|GloboTech Communications|
 |17|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|152.26.229.34|9443|United States|Concord|MCNC|
+|18|72.10.164.178|1487|Canada|Montreal|GloboTech Communications|
 |19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 |20|152.26.229.86|9443|United States|Concord|MCNC|
 
