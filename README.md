@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
-|7|103.152.93.158|7777|Indonesia|Demak|PT. JAYA LINTAS INDONESIA|
+|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
+|4|217.52.247.86|1981|Egypt|Cairo|Etisalat Misr|
+|5|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|191.97.16.180|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
+|7|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |8|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|72.10.164.178|21231|Canada|Montreal|GloboTech Communications|
-|15|103.118.46.12|32650|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
-|18|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|19|125.25.82.48|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|20|160.248.190.241|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|10|186.16.14.104|3131|Paraguay|Asunción|Telecel S.A.|
+|11|160.248.190.241|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|154.0.132.35|3128|Uganda|Kampala|DATA-RT1|
+|13|152.26.231.93|9443|United States|Concord|MCNC|
+|14|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
+|15|222.129.139.112|9000|China|Beijing|China Unicom Beijing Province Network|
+|16|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|81.19.141.2|3128|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
