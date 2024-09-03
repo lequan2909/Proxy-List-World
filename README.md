@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|108.136.246.42|1945|Indonesia|Jakarta|Amazon.com|
-|5|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|190.61.116.42|8080|Honduras|Tegucigalpa|Ufinet Honduras|
-|8|102.221.40.114|8080|South Africa|George|Telkom SA Ltd.|
-|9|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|4|124.83.51.94|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|85.118.117.165|8080|Georgia|Tbilisi|EGRISI|
+|7|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
+|10|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|11|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
 |12|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|13|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
-|14|72.10.164.178|27783|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|27783|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|13|72.10.164.178|12931|Canada|Montreal|GloboTech Communications|
+|14|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
 |17|152.26.229.47|9443|United States|Concord|MCNC|
-|18|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|67.43.227.228|12121|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.42|9443|United States|Concord|MCNC|
+|18|101.255.208.18|3129|Indonesia|Ciputat|PT Remala Abadi|
+|19|72.10.164.178|12931|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.226|3395|Canada|Montreal|GloboTech Communications|
 
 
 
