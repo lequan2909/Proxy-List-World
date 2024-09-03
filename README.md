@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|12|152.26.229.46|9443|United States|Concord|MCNC|
-|13|103.81.64.85|8080|Indonesia|Bandar Lampung|QIUNET|
-|14|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|67.43.227.227|8173|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.230|12501|Canada|Montreal|GloboTech Communications|
+|2|223.31.56.194|8080|India|Chennai|Sify Limited|
+|3|103.156.15.55|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|4|103.83.0.46|8080|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|5|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|152.26.229.46|9443|United States|Concord|MCNC|
+|9|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|67.43.227.230|10623|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|11731|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|11731|Canada|Montreal|GloboTech Communications|
+|13|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|17|72.10.160.170|3525|Canada|Montreal|GloboTech Communications|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|182.160.124.214|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
