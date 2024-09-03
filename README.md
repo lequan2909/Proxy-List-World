@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|408|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|408|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|408|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|8|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|101.255.118.89|8080|Indonesia|Jakarta|PT Remala Abadi|
-|12|101.128.82.150|8181|Indonesia|Jakarta|CBN|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|103.76.149.134|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|17|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|8.218.202.190|1080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|123.231.189.166|3128|Indonesia|Jakarta Pusat|LINTASARTA|
+|9|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|103.146.170.193|83|India|Nalgonda|Thrishul Broadband Private Ltd|
+|17|114.79.146.166|8080|India|Mumbai|D-VoiS Broadband Private Limited|
 |18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|95.154.20.113|34248|Denmark|Ribe|SYD ENERGI|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|114.9.52.98|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
 
 
 
