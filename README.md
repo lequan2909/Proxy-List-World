@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|117.2.183.102|5107|Vietnam|Ho Chi Minh City|Viettel Corporation|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|103.81.64.85|8080|Indonesia|Bandar Lampung|QIUNET|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
 |5|152.26.229.46|9443|United States|Concord|MCNC|
-|6|103.55.159.51|6060|Indonesia|Sumbawa Besar|PT TELIO INTI NUSA|
-|7|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|202.62.67.209|53281|India|Visakhapatnam|CityOnline Services|
-|10|67.43.236.20|13997|Canada|Montreal|GloboTech Communications|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|152.26.231.94|9443|United States|Concord|MCNC|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|160.248.190.241|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|72.10.164.178|20965|Canada|Montreal|GloboTech Communications|
+|6|152.26.231.94|9443|United States|Concord|MCNC|
+|7|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|67.43.236.20|19399|Canada|Montreal|GloboTech Communications|
+|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|72.10.164.178|20965|Canada|Montreal|GloboTech Communications|
+|13|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|160.248.190.241|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|67.43.227.227|32355|Canada|Montreal|GloboTech Communications|
+|17|117.40.32.135|8080|China|Taohua|Chinanet|
+|18|85.172.174.30|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|19|38.52.221.44|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
 |20|72.10.164.178|20965|Canada|Montreal|GloboTech Communications|
 
 
