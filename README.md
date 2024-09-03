@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|103.119.55.216|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|6|103.133.26.107|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|7|45.122.123.182|8080|India|New Delhi|FusionNet|
-|8|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|152.26.231.93|9443|United States|Concord|MCNC|
-|10|152.26.231.42|9443|United States|Concord|MCNC|
-|11|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
-|12|72.10.160.90|21777|Canada|Montreal|GloboTech Communications|
-|13|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|14|152.26.229.47|9443|United States|Concord|MCNC|
-|15|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|16|152.26.229.34|9443|United States|Concord|MCNC|
-|17|67.43.228.251|3791|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|67.43.228.254|19909|Canada|Montreal|GloboTech Communications|
-|20|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|103.125.42.127|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
+|7|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
+|8|13.125.200.94|3128|South Korea|Seoul|Amazon Technologies Inc.|
+|9|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|13.231.224.254|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|13|103.59.44.75|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|14|152.26.231.93|9443|United States|Concord|MCNC|
+|15|152.26.231.42|9443|United States|Concord|MCNC|
+|16|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|17|152.26.229.47|9443|United States|Concord|MCNC|
+|18|181.119.67.73|999|Colombia|Barrancabermeja|IFX Networks Argentina S.R.L|
+|19|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
 
 
 
