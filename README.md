@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.18.232.153|8085|Indonesia|Demak|PT JARINGANKU SARANA NUSANTARA|
-|5|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
-|6|85.172.174.30|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|116.212.140.118|8080|Cambodia|Phnom Penh|MekongNet|
-|9|159.65.221.55|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|3.26.74.191|3128|Australia|Sydney|Amazon.com, Inc.|
-|11|200.106.124.22|999|Peru|Tacna|Telefonica del Peru|
-|12|159.65.221.55|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|43.204.25.168|3128|India|Mumbai|Amazon.com, Inc.|
-|14|103.81.64.85|8080|Indonesia|Bandar Lampung|QIUNET|
-|15|200.39.120.78|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
-|16|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|20|45.189.252.245|999|Mexico|Lerdo de Tejada|Tracered SA De CV|
+|2|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|171.241.185.78|5101|Vietnam|Hanoi|Viettel Corporation|
+|4|85.172.174.30|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|5|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|8|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|103.69.60.10|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|152.26.229.46|9443|United States|Concord|MCNC|
+|13|152.26.229.83|9443|United States|Concord|MCNC|
+|14|152.26.229.47|9443|United States|Concord|MCNC|
+|15|45.232.79.0|9292|Brazil|Buritama|D. A. F. BANSI & CIA LTDA|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|67.43.227.228|31281|Canada|Montreal|GloboTech Communications|
+|19|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|20|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
