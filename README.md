@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
-|5|117.2.183.102|5107|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
-|8|103.248.9.226|8181|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
-|9|43.203.205.233|3128|South Korea|Seoul|Amazon.com, Inc.|
-|10|152.26.229.46|9443|United States|Concord|MCNC|
-|11|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|12|152.26.229.86|9443|United States|Concord|MCNC|
-|13|152.26.229.42|9443|United States|Concord|MCNC|
-|14|117.40.32.133|8080|China|Taohua|Chinanet|
-|15|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
-|16|67.43.228.254|30803|Canada|Montreal|GloboTech Communications|
-|17|152.26.231.42|9443|United States|Concord|MCNC|
-|18|67.43.228.252|26107|Canada|Montreal|GloboTech Communications|
-|19|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|115.223.31.35|35010|China|Wenzhou|China Telecom|
+|1|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
+|2|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
+|3|34.124.190.108|8090|Singapore|Singapore|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|152.26.229.46|9443|United States|Concord|MCNC|
+|6|152.26.229.86|9443|United States|Concord|MCNC|
+|7|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|8|152.26.229.42|9443|United States|Concord|MCNC|
+|9|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|119.76.142.165|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
+|11|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|152.26.231.42|9443|United States|Concord|MCNC|
+|13|72.10.164.178|28667|Canada|Montreal|GloboTech Communications|
+|14|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
+|15|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|117.40.32.133|8080|China|Taohua|Chinanet|
+|17|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|18|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
+|19|72.10.164.178|28667|Canada|Montreal|GloboTech Communications|
+|20|101.255.117.197|8085|Indonesia|Jakarta|PT Remala Abadi|
 
 
 
