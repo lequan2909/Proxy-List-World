@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|145.239.86.159|8888|Poland|Wroclaw|OVH SAS|
-|6|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|156.250.117.14|40030|South Africa|Johannesburg|Shenzhen Jizhan Technology Co Ltd|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|8|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|10|103.78.171.10|83|India|Pune|SCC NETWORK PVT LTD|
+|11|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|12|167.249.29.218|999|Chile|Santiago|Grupo Metrowan Telecom SPA|
 |13|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |14|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|17|152.26.231.83|9443|United States|Concord|MCNC|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|152.26.229.47|9443|United States|Concord|MCNC|
-|20|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
+|15|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
+|16|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|18|67.43.236.20|20311|Canada|Montreal|GloboTech Communications|
+|19|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
