@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|456|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|456|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|456|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|181.224.207.142|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
-|5|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|145.239.86.159|8888|Poland|Wroclaw|OVH SAS|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|103.125.38.82|8080|Indonesia|Surabaya|PT. Eka Mas Republik|
-|14|36.88.125.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|9|145.239.86.159|8888|Poland|Wroclaw|OVH SAS|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
 |15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|190.94.212.198|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|17|110.164.128.124|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|18|223.206.49.175|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|18|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|46.166.165.33|4002|Lithuania|Šiauliai|Cherry Servers|
+|20|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
