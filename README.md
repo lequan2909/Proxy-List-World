@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|85.172.174.30|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|27.72.143.36|5115|Vietnam|Hanoi|Newass2011xDSLHN|
-|6|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|7|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|152.26.229.34|9443|United States|Concord|MCNC|
-|9|152.26.229.93|9443|United States|Concord|MCNC|
+|4|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|152.26.229.34|9443|United States|Concord|MCNC|
+|7|152.26.229.42|9443|United States|Concord|MCNC|
+|8|152.26.229.93|9443|United States|Concord|MCNC|
+|9|182.160.124.214|5020|Bangladesh|Dhaka|Aamra Networks Limited|
 |10|152.26.231.94|9443|United States|Concord|MCNC|
-|11|152.26.229.42|9443|United States|Concord|MCNC|
-|12|72.10.164.178|17421|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|18387|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.83|9443|United States|Concord|MCNC|
-|15|152.26.231.42|9443|United States|Concord|MCNC|
-|16|72.10.164.178|17421|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|22275|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|1265|Canada|Montreal|GloboTech Communications|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
+|11|72.10.164.178|29359|Canada|Montreal|GloboTech Communications|
+|12|152.26.231.42|9443|United States|Concord|MCNC|
+|13|152.26.229.83|9443|United States|Concord|MCNC|
+|14|72.10.160.90|21435|Canada|Montreal|GloboTech Communications|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|72.10.164.178|29359|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|29359|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|22275|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|2257|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.226|5525|Canada|Montreal|GloboTech Communications|
 
 
 
