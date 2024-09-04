@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
+|2|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
 |6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|103.41.33.165|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|9|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|12|103.75.54.230|8080|Indonesia|Jakarta|PT Quantum Tera Network|
-|13|192.99.169.19|8450|Canada|Beauharnois|OVH SAS|
-|14|152.26.229.83|9443|United States|Concord|MCNC|
-|15|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|106.227.87.11|3128|China|Taohua|China Telecom|
-|19|117.68.38.136|37391|China|Hefei|China Telecom|
-|20|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|103.168.254.162|8086|Indonesia|Jepara|PT Fahasa Tri Data|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|115.127.36.190|222|Bangladesh|Dhaka|BRACNet Limited|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|36.92.159.55|32650|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|14|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|152.26.229.83|9443|United States|Concord|MCNC|
+|16|188.72.6.178|8083|Iraq|Sulaymaniyah|AL-SARD FIBER Co. for Internet Fiber and Optical Cable Services /Ltd.|
+|17|111.68.26.237|8080|Indonesia|Yogyakarta|GMEDIA|
+|18|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|72.10.164.178|16929|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
