@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|43.205.208.164|3128|India|Mumbai|Amazon.com, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|103.155.197.98|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|8|103.154.91.250|8081|Indonesia|Jakarta|MORATELINDONAP|
-|9|103.250.130.106|8085|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|10|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|103.245.17.219|8080|Indonesia|Depok|PT Quantum Tera Network|
-|13|203.110.145.82|63128|Australia|Sydney|Macquarie Technology Operations Pty Limited|
-|14|152.26.229.47|9443|United States|Concord|MCNC|
-|15|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|16|43.205.208.164|3128|India|Mumbai|Amazon.com, Inc.|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|152.26.231.42|9443|United States|Concord|MCNC|
-|19|72.10.164.178|7047|Canada|Montreal|GloboTech Communications|
-|20|103.171.156.134|8080|Indonesia|Jakarta|MYREPUBLIC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|186.148.182.82|999|Colombia|Neiva|TV AZTECA SUCURSAL COLOMBIA|
+|9|203.110.145.82|63128|Australia|Sydney|Macquarie Technology Operations Pty Limited|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|27.124.93.197|8080|Indonesia|Pamulang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|13|43.204.23.66|3128|India|Mumbai|Amazon.com, Inc.|
+|14|190.220.1.173|56974|Argentina|Buenos Aires|Techtel LMDS Comunicaciones Interactivas S.A.|
+|15|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|50.235.247.114|8085|United States|Wallingford|Comcast Cable Communications, LLC|
+|17|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|38.56.23.33|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
+|19|152.26.229.47|9443|United States|Concord|MCNC|
+|20|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
