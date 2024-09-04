@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|2|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|152.26.229.42|9443|United States|Concord|MCNC|
-|5|72.10.164.178|25791|Canada|Montreal|GloboTech Communications|
-|6|152.26.229.34|9443|United States|Concord|MCNC|
-|7|152.26.231.93|9443|United States|Concord|MCNC|
-|8|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|152.26.229.47|9443|United States|Concord|MCNC|
-|10|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|11|152.26.229.93|9443|United States|Concord|MCNC|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|60.217.33.57|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
-|14|72.10.164.178|25791|Canada|Montreal|GloboTech Communications|
-|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|16|67.43.227.227|24729|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|25791|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|67.43.227.228|32635|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.252|28739|Canada|Montreal|GloboTech Communications|
+|1|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|2|111.1.61.50|3128|China|Wenzhou|China Mobile communications corporation|
+|3|152.26.229.42|9443|United States|Concord|MCNC|
+|4|152.26.229.34|9443|United States|Concord|MCNC|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|106.227.87.11|3128|China|Taohua|China Telecom|
+|7|152.26.229.47|9443|United States|Concord|MCNC|
+|8|152.26.229.93|9443|United States|Concord|MCNC|
+|9|210.61.207.92|3128|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|10|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|103.40.121.33|8089|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
+|12|117.40.32.133|8080|China|Taohua|Chinanet|
+|13|152.26.231.93|9443|United States|Concord|MCNC|
+|14|152.26.229.83|9443|United States|Concord|MCNC|
+|15|139.84.152.185|3129|India|Bengaluru|The Constant Company, LLC|
+|16|72.10.160.93|2975|Canada|Montreal|GloboTech Communications|
+|17|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|18|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|103.154.90.190|3128|Indonesia|Jakarta|MORATELINDONAP|
 
 
 
