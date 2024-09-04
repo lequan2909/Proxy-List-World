@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.4.167.15|8080|Indonesia|Jakarta|FIBERNET|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.147.118.240|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
-|5|157.20.144.138|8181|Indonesia|Ciputat|PT Lintas Network Solusi|
-|6|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|185.200.37.119|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|103.69.106.183|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
-|12|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|13|103.165.128.171|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|14|103.133.63.135|8181|Indonesia|Bandar Lampung|TLINK|
-|15|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|103.175.237.222|8080|Indonesia|Malang|PT Marva Global Telekomunikasi|
-|17|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
-|18|177.23.176.58|8080|Brazil|Rio de Janeiro|JM TELECOMUNICACOES E MANUTENCAO DE COMP. EIRELI|
-|19|177.234.227.147|999|Ecuador|Manta|Ufinet Panama S.A.|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|188.121.117.214|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|6|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|7|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|137.184.62.237|9090|United States|North Bergen|DigitalOcean, LLC|
+|10|103.162.63.181|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|11|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|152.26.229.46|9443|United States|Concord|MCNC|
+|14|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
+|15|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|58.69.247.70|8083|Philippines|Taal|Philippine Long Distance Telephone Co.|
+|18|103.40.121.33|8089|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
 
 
 
