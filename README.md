@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|43.204.28.150|3128|India|Mumbai|Amazon.com, Inc.|
-|4|103.156.233.157|3456|Indonesia|Bogor|MULTIMEDIALINKTECH|
-|5|103.1.50.17|3125|Indonesia|Pasuruan|CPCNet Hong Kong Ltd. - IP Administrator|
-|6|103.162.63.181|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|7|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|8|38.45.46.2|6332|Dominican Republic|Santo Domingo|FENIX NETWORKS, S.R.L.|
-|9|20.119.77.88|8197|United States|Boydton|Microsoft Corporation|
-|10|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|13|103.82.126.202|8080|Indonesia|Tangerang|PT.PLATINUM CITRA INDONESIA|
-|14|103.133.63.135|8181|Indonesia|Bandar Lampung|TLINK|
-|15|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|16|152.26.229.34|9443|United States|Concord|MCNC|
-|17|201.251.61.143|8080|Argentina|Laferrere|Telefonica de Argentina|
-|18|177.93.60.70|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|19|152.26.231.42|9443|United States|Concord|MCNC|
-|20|152.26.229.47|9443|United States|Concord|MCNC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|177.23.176.58|8080|Brazil|Rio de Janeiro|JM TELECOMUNICACOES E MANUTENCAO DE COMP. EIRELI|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|43.204.28.150|3128|India|Mumbai|Amazon.com, Inc.|
+|6|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|7|103.82.126.202|8080|Indonesia|Tangerang|PT.PLATINUM CITRA INDONESIA|
+|8|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|9|152.26.229.34|9443|United States|Concord|MCNC|
+|10|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|152.26.231.42|9443|United States|Concord|MCNC|
+|12|204.199.202.132|999|Mexico|Teotihuacán|Cirion Technologies Solutions|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
+|14|152.26.229.47|9443|United States|Concord|MCNC|
+|15|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|171.241.198.142|5104|Vietnam|Thanh Hóa|Viettel Corporation|
+|20|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 
 
 
