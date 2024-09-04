@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |4|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|5|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|8|103.156.15.64|1080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|9|139.84.145.23|3129|India|Bengaluru|The Constant Company, LLC|
-|10|189.205.215.202|8080|Mexico|Puebla City|Axtel, S.A.B. de C.V.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|45.171.108.253|999|Ecuador|Nueva Loja|Lagonet-tv Cia. Ltda.|
-|13|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|15|119.42.86.199|8080|Thailand|Bang Rak|CAT-BB|
-|16|68.162.217.121|8080|United States|Leominster|Verizon Business|
-|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|18|203.192.217.6|8080|India|Delhi|Entire In2Cable|
-|19|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|20|179.189.50.160|80|Brazil|Sinop|Avato Tecnologia S.A|
+|5|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|119.42.86.199|8080|Thailand|Bang Rak|CAT-BB|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|139.84.145.23|3129|India|Bengaluru|The Constant Company, LLC|
+|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|10|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|45.229.58.33|999|Panama|La Chorrera|GEEK NETWORKS, S.A|
+|12|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|13|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|103.180.122.71|8080|Indonesia|Bekasi|PT Indo Telemedia Solusi|
+|18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|202.162.213.182|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|20|191.97.16.126|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
 
 
 
