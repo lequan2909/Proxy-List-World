@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|152.26.229.93|9443|United States|Concord|MCNC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|152.26.231.86|9443|United States|Concord|MCNC|
-|6|72.10.164.178|10611|Canada|Montreal|GloboTech Communications|
-|7|72.10.164.178|10611|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|10611|Canada|Montreal|GloboTech Communications|
-|9|152.26.231.93|9443|United States|Concord|MCNC|
-|10|67.43.227.227|19557|Canada|Montreal|GloboTech Communications|
-|11|119.47.90.241|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|12|67.43.227.227|19557|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|10611|Canada|Montreal|GloboTech Communications|
-|14|180.210.191.122|8080|Bangladesh|Qasba|Premium Connectivity Limited|
-|15|67.43.227.228|32237|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|10611|Canada|Montreal|GloboTech Communications|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|36.64.162.194|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|20|67.43.228.251|18977|Canada|Montreal|GloboTech Communications|
+|3|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|180.94.8.52|8085|Indonesia|Cikarang|BAST|
+|5|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|7|103.41.91.161|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
+|8|152.26.229.93|9443|United States|Concord|MCNC|
+|9|152.26.231.86|9443|United States|Concord|MCNC|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|152.26.231.93|9443|United States|Concord|MCNC|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
+|14|27.124.93.197|8080|Indonesia|Pamulang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|15|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|17|103.156.15.64|1080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|18|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|38.52.221.44|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 
 
 
