@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|103.75.85.115|1111|Indonesia|Central Java|MEGADATA|
-|6|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|103.151.246.54|7777|Indonesia|Bogor|MANAKARRANET|
-|8|91.238.105.56|8080|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|136.232.224.202|8080|India|Nellore|Reliance Jio Infocomm Limited|
-|11|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|12|85.119.120.55|8080|Malta|Birkirkara|Melita Ltd|
-|13|43.204.24.51|3128|India|Mumbai|Amazon.com, Inc.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|192.99.169.19|8444|Canada|Beauharnois|OVH SAS|
-|16|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|152.26.229.42|9443|United States|Concord|MCNC|
+|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|91.238.105.56|8080|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|3|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|1.2.214.1|8080|Thailand|Bangkok|TOT Public Company Limited|
+|5|43.204.24.51|3128|India|Mumbai|Amazon.com, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.186.8.138|8080|Indonesia|Kediri|PRISMA|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|103.166.158.191|7777|Indonesia|Bekasi|PT Timor Lintas Nusantara|
+|10|103.137.91.250|8080|Laos|Vientiane|SLT Network Co., LTD|
+|11|103.105.55.170|8085|Indonesia|Klaten|PT. Mega Artha Lintas Data|
+|12|111.68.26.237|8080|Indonesia|Yogyakarta|GMEDIA|
+|13|223.25.110.206|1080|Indonesia|Surabaya|SinergiNet|
+|14|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|152.26.229.47|9443|United States|Concord|MCNC|
 
 
 
