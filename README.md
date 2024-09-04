@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|15.235.171.222|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
-|4|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|101.51.139.219|8180|Thailand|Chiang Mai|TOT Public Company Limited|
-|7|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|152.26.229.34|9443|United States|Concord|MCNC|
-|9|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|152.26.229.83|9443|United States|Concord|MCNC|
-|11|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|117.68.38.176|27929|China|Hefei|China Telecom|
-|14|103.153.136.10|8080|Indonesia|Gorontalo|PT Andalas Global Network|
-|15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|67.43.228.253|5607|Canada|Montreal|GloboTech Communications|
-|18|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|19|67.43.236.20|2853|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.83|9443|United States|Concord|MCNC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|15.235.171.210|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
+|4|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|202.183.209.77|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|8|103.217.224.150|8090|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|9|152.26.229.34|9443|United States|Concord|MCNC|
+|10|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|152.26.229.83|9443|United States|Concord|MCNC|
+|12|152.26.229.86|9443|United States|Concord|MCNC|
+|13|152.26.231.93|9443|United States|Concord|MCNC|
+|14|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|15|152.26.231.83|9443|United States|Concord|MCNC|
+|16|36.88.111.250|8787|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|17|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|18|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
+|19|72.10.164.178|5287|Canada|Montreal|GloboTech Communications|
+|20|15.204.161.192|18080|United States|Reston|OVH SAS|
 
 
 
