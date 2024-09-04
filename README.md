@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|83.220.172.87|3128|Russia|Markova|TheFirst|
-|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|38.253.88.242|999|United States|Miami|LAUAM MEGARED TELECOM, S.R.L.|
-|9|106.227.87.11|3128|China|Taohua|China Telecom|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|13|72.10.164.178|23021|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.47|9443|United States|Concord|MCNC|
-|15|67.43.236.20|16601|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|23021|Canada|Montreal|GloboTech Communications|
-|17|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|19|117.68.38.178|30474|China|Hefei|China Telecom|
-|20|103.181.129.30|80|Indonesia|Tanjung|Diskominfo Tabalong|
+|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|67.43.228.251|31547|Canada|Montreal|GloboTech Communications|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|119.47.90.76|8080|Indonesia|Batang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|13|117.40.32.135|8080|China|Taohua|Chinanet|
+|14|27.147.218.162|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|15|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|152.26.229.47|9443|United States|Concord|MCNC|
+|17|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|18|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|67.43.236.20|25901|Canada|Montreal|GloboTech Communications|
+|20|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
