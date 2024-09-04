@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|5|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|6|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|7|91.238.105.56|8080|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|8|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
-|9|85.172.174.30|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|45.184.224.200|999|Ecuador|Quito|Media Commerce Medcomm S.A|
-|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|15|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|85.172.174.30|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|8|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|41.173.7.82|8080|Uganda|Kampala|Liquid Telecommunications Ltd|
+|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|14|193.169.4.12|8091|Russia|Reutov|Lekstar Communication Ltd|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|200.125.170.21|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
 |18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|20|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 
 
 
