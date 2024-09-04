@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|27.124.93.197|8080|Indonesia|Pamulang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|6|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|7|120.202.162.210|80|China|Guangzhou|China Mobile communications corporation|
-|8|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|152.26.231.83|9443|United States|Concord|MCNC|
-|10|152.26.231.94|9443|United States|Concord|MCNC|
-|11|72.10.164.178|20971|Canada|Montreal|GloboTech Communications|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|67.43.227.227|32815|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|11495|Canada|Montreal|GloboTech Communications|
-|15|36.95.155.74|3126|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|16|203.110.145.82|63128|Australia|Sydney|Macquarie Technology Operations Pty Limited|
-|17|202.162.213.182|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|18|67.43.227.227|32815|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.42|9443|United States|Concord|MCNC|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|2|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|4|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|5|120.202.162.210|80|China|Guangzhou|China Mobile communications corporation|
+|6|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|152.26.231.83|9443|United States|Concord|MCNC|
+|8|152.26.231.94|9443|United States|Concord|MCNC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|191.102.248.3|8085|Argentina|Rosario|IP·RED|
+|11|103.166.227.82|8085|Indonesia|Majalengka|PT Arta Flash Sintesa Nusantara|
+|12|177.43.72.250|3128|Brazil|Campo Grande|Vivo|
+|13|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|106.227.87.11|3128|China|Taohua|China Telecom|
+|15|152.26.231.42|9443|United States|Concord|MCNC|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|72.10.164.178|30261|Canada|Montreal|GloboTech Communications|
+|18|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|19|67.43.227.227|32815|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|30261|Canada|Montreal|GloboTech Communications|
 
 
 
