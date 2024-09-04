@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|5|103.217.224.27|8085|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|20.119.77.88|8154|United States|Boydton|Microsoft Corporation|
-|8|152.26.231.86|9443|United States|Concord|MCNC|
-|9|103.175.238.122|8085|Indonesia|Subang|PT Uliz Netmedia Solusindo|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|20.119.77.88|8154|United States|Boydton|Microsoft Corporation|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|152.26.231.86|9443|United States|Concord|MCNC|
+|5|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|6|152.26.229.86|9443|United States|Concord|MCNC|
+|7|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|8|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|9|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
 |10|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|11|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|12|152.26.229.86|9443|United States|Concord|MCNC|
-|13|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
-|15|117.68.38.169|39078|China|Hefei|China Telecom|
-|16|103.76.151.74|8089|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|17|72.10.160.171|26437|Canada|Montreal|GloboTech Communications|
-|18|181.119.67.134|999|Colombia|Florida|IFX Networks Argentina S.R.L|
-|19|72.10.164.178|24239|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|12421|Canada|Montreal|GloboTech Communications|
+|11|117.40.32.135|8080|China|Taohua|Chinanet|
+|12|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|13|72.10.164.178|11929|Canada|Montreal|GloboTech Communications|
+|14|180.178.95.142|8080|Indonesia|Sukoharjo|PT Widya Intersat Nusantara|
+|15|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
+|16|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|112.17.10.41|3128|China|Hangzhou|China Mobile Communications Corporation|
+|18|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|131.100.51.45|999|Colombia|Neiva|Fibernet TV SAS|
 
 
 
