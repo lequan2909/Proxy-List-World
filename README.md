@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|35.187.154.146|3128|Taiwan|Taipei|Google LLC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|38.51.232.18|8080|Colombia|Sibundoy|SP SISTEMAS PALACIOS LTDA|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|195.54.171.228|25124|Hong Kong|Hong Kong|M247 Europe SRL|
-|14|36.93.32.137|8080|Indonesia|Tangerang|Telekomunikasi Indonesia|
-|15|110.164.175.110|8080|Thailand|Amphoe Phra Pradaeng|Triple T Broadband Public Company Limited|
-|16|36.67.7.74|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
-|17|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|18|103.111.207.138|80|Indonesia|Jakarta|PT Cyberindo Aditama|
-|19|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|20|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|139.84.152.185|3129|India|Bengaluru|The Constant Company, LLC|
+|5|38.51.232.18|8080|Colombia|Sibundoy|SP SISTEMAS PALACIOS LTDA|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|114.5.199.222|80|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|10|204.199.202.132|999|Mexico|Teotihuacán|Cirion Technologies Solutions|
+|11|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|203.142.74.115|8080|Indonesia|Semarang|BIZNET|
+|13|20.119.77.88|8123|United States|Boydton|Microsoft Corporation|
+|14|38.10.69.98|9090|Türkiye|Konya|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|15|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|16|103.233.103.238|5656|Indonesia|Cikarang|PT. Tujuh Ion Indonesia|
+|17|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|182.160.124.214|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|19|115.127.5.146|8674|Bangladesh|Dhaka|bracNet|
+|20|103.217.224.139|8090|Indonesia|Gunung Kendil|PT Nesta Indo Media|
 
 
 
