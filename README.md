@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5652** proxies at the latest update. Usable proxies are below.
+> Scraper found **5635** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|129|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|915|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|898|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|170|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3480|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|37.220.85.180|8085|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|4|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|103.234.27.78|9990|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
-|6|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|7|152.26.229.47|9443|United States|Concord|MCNC|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|45.184.224.194|999|Ecuador|Quito|Media Commerce Medcomm S.A|
-|11|201.168.199.7|999|Mexico|Juventino Rosas|Marcatel Com, S.A. de C.V.|
-|12|103.174.236.72|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|13|152.26.231.83|9443|United States|Concord|MCNC|
-|14|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|15|120.202.162.210|80|China|Guangzhou|China Mobile communications corporation|
-|16|20.119.77.88|8197|United States|Boydton|Microsoft Corporation|
-|17|103.55.159.51|6060|Indonesia|Sumbawa Besar|PT TELIO INTI NUSA|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|7|103.167.170.128|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|8|134.209.147.65|8080|India|Bengaluru|DigitalOcean, LLC|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|191.242.126.94|8080|Brazil|Montes Claros|Plim Telecomunicacoes Ltda-me|
+|11|103.77.16.190|80|Bangladesh|Kushtia|ICC Communication Ltd|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|72.10.164.178|22709|Canada|Montreal|GloboTech Communications|
+|16|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
 |18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|152.26.229.86|9443|United States|Concord|MCNC|
-|20|72.10.160.91|27475|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.47|9443|United States|Concord|MCNC|
+|20|117.68.38.152|39593|China|Hefei|China Telecom|
 
 
 
