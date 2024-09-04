@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|103.133.63.135|8181|Indonesia|Bandar Lampung|TLINK|
-|7|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|103.125.19.30|8080|Indonesia|Tangerang|JAVAMEDIA|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|103.69.106.183|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
+|10|45.190.52.24|8080|Brazil|Araranguá|Exa Internet|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |13|152.26.229.83|9443|United States|Concord|MCNC|
-|14|72.10.164.178|19681|Canada|Montreal|GloboTech Communications|
-|15|118.117.189.211|8089|China|Muping|Chinanet|
+|14|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|85.172.174.30|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
 |16|152.26.229.46|9443|United States|Concord|MCNC|
-|17|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|152.26.231.42|9443|United States|Concord|MCNC|
-|19|152.26.229.47|9443|United States|Concord|MCNC|
-|20|67.43.236.18|8147|Canada|Montreal|GloboTech Communications|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|152.26.229.47|9443|United States|Concord|MCNC|
+|19|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
