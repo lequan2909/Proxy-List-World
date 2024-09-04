@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5153** proxies at the latest update. Usable proxies are below.
+> Scraper found **5105** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|613|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|96|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3362|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3314|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|103.162.63.181|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|9|45.65.227.161|999|Argentina|Tres de Febrero|Solution LAN S.A|
-|10|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|88.135.210.179|8080|Ukraine|Ivano-Frankivsk|Uteam LTD|
-|12|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
-|13|152.26.229.86|9443|United States|Concord|MCNC|
-|14|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|157.66.50.81|8080|Indonesia|Jakarta|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|17|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|188.132.222.26|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|8|35.187.154.146|3128|Taiwan|Taipei|Google LLC|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|125.209.110.83|39617|Pakistan|Karachi|Multinet 125-110/24|
+|12|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|14|152.26.229.86|9443|United States|Concord|MCNC|
+|15|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|18|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|20|152.26.231.94|9443|United States|Concord|MCNC|
 
 
 
