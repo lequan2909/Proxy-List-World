@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|217.197.121.35|3128|Russia|Moscow|E-Style ISP|
-|5|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|103.172.35.19|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|7|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|9|152.26.229.83|9443|United States|Concord|MCNC|
-|10|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|51.77.211.107|80|France|Strasbourg|OVH SAS|
-|12|72.10.164.178|15089|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|12605|Canada|Montreal|GloboTech Communications|
-|14|62.171.183.48|3128|Germany|Nuremberg|Contabo GmbH|
-|15|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
-|17|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|72.10.160.93|3819|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.34|9443|United States|Concord|MCNC|
-|20|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|42.3.187.52|8080|Hong Kong|Kwu Tung|Hong Kong Telecommunications (HKT) Limited Mass Internet|
+|4|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|176.102.49.228|3128|Ukraine|Kyiv|PRIVATE JOINT STOCK COMPANY "DATAGROUP"|
+|8|103.24.215.146|8181|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
+|9|176.194.189.40|80|Russia|Belgorod|Net By Net Holding LLC|
+|10|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|103.162.63.181|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|12|131.100.51.45|999|Colombia|Neiva|Fibernet TV SAS|
+|13|103.31.132.42|9812|Indonesia|Kebon Melati|PT Arthatama Adhiprima Persada|
+|14|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|120.202.162.210|80|China|Guangzhou|China Mobile communications corporation|
+|16|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
+|17|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
+|20|72.10.164.178|15089|Canada|Montreal|GloboTech Communications|
 
 
 
