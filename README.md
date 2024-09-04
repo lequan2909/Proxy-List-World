@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|50.205.202.249|3128|United States|Kemah|Comcast Cable Communications, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|50.205.202.249|3128|United States|Kemah|Comcast Cable Communications, LLC|
 |6|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|50.205.202.249|3128|United States|Kemah|Comcast Cable Communications, LLC|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|11|103.173.244.210|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|14|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|15|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|58.65.197.91|8080|Pakistan|Karachi|Cyber Internet Services (Private) Limited|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|222.127.55.214|5050|Philippines|Lahug|INNOVE|
-|19|152.26.231.83|9443|United States|Concord|MCNC|
-|20|103.234.159.5|8080|India|Bengaluru|MWPL|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|50.205.202.249|3128|United States|Kemah|Comcast Cable Communications, LLC|
+|11|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|12|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|152.26.231.83|9443|United States|Concord|MCNC|
+|14|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|17|150.129.5.226|8080|Pakistan|Karachi|Ebone Network (Pvt) Ltd|
+|18|129.153.113.206|8118|United States|Phoenix|Oracle Corporation|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|186.16.14.104|3131|Paraguay|Asunción|Telecel S.A.|
 
 
 
