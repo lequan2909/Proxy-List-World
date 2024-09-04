@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|103.155.196.40|8080|Indonesia|Sukabumi|JEMBATANDATA|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|103.191.165.4|7777|Indonesia|Subang|PT Sakti Wijaya Network|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|188.132.222.37|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|9|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
-|10|103.217.224.150|8090|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|11|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|6|119.47.90.230|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|181.78.80.222|999|Colombia|Duitama|IFX Networks Argentina S.R.L|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |12|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|152.26.231.86|9443|United States|Concord|MCNC|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|152.26.231.94|9443|United States|Concord|MCNC|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|67.43.227.230|2059|Canada|Montreal|GloboTech Communications|
+|13|182.253.40.149|8080|Indonesia|Jakarta Pusat|BIZNET|
+|14|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|12.133.53.17|83|United States|Beachwood|AT&T Services, Inc.|
+|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|17|152.26.231.86|9443|United States|Concord|MCNC|
+|18|152.26.231.94|9443|United States|Concord|MCNC|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
