@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|103.75.54.230|8080|Indonesia|Jakarta|PT Quantum Tera Network|
-|6|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|7|117.40.32.135|8080|China|Taohua|Chinanet|
-|8|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|9|85.172.174.30|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|12|72.10.164.178|6285|Canada|Montreal|GloboTech Communications|
-|13|152.26.231.83|9443|United States|Concord|MCNC|
-|14|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|15|67.43.228.250|29747|Canada|Montreal|GloboTech Communications|
-|16|27.64.68.213|32650|Vietnam|Ho Chi Minh City|Viettel Group|
-|17|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|18|103.245.205.226|6969|Bangladesh|Dhaka|Next Online Limited|
-|19|191.242.224.185|3100|Brazil|Sorocaba|DIRECT LAN TELECOMUNICAÇÕES SOROCABA LTDA|
-|20|152.26.231.94|9443|United States|Concord|MCNC|
+|4|171.245.116.76|5000|Vietnam|Quảng Ninh|Viettel Corporation|
+|5|103.191.218.211|1111|Indonesia|Kuningan Barat|PT Replay Inti Media|
+|6|191.242.224.185|3100|Brazil|Sorocaba|DIRECT LAN TELECOMUNICAÇÕES SOROCABA LTDA|
+|7|20.119.77.88|8197|United States|Boydton|Microsoft Corporation|
+|8|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
+|9|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|10|152.26.231.42|9443|United States|Concord|MCNC|
+|11|103.40.121.33|8089|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
+|12|103.153.134.27|8090|Indonesia|Tangerang|WMINET|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|152.26.231.83|9443|United States|Concord|MCNC|
+|16|85.172.174.30|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|17|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|18|103.151.35.164|1111|Indonesia|Tangerang|GAYUHNET|
+|19|112.17.10.41|3128|China|Hangzhou|China Mobile Communications Corporation|
+|20|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
 
 
 
