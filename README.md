@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|59.152.104.29|8080|Bangladesh|Dhaka|Earth Telecommunication ( pvt ) Limited|
-|5|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|103.69.20.36|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|7|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|103.170.115.180|8080|Indonesia|Bengkalis|PT Mega Data Akses|
-|9|45.133.107.10|81|Russia|Tul'skiy|Art-net LLC|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|103.171.244.51|8088|Indonesia|Madiun|PT Data Arta Sedaya|
-|12|175.100.92.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|13|103.142.165.193|58080|India|Bengaluru|All Time Tele Infra Pvt Ltd|
-|14|139.84.145.23|3129|India|Bengaluru|The Constant Company, LLC|
-|15|90.161.186.147|3128|Spain|Pineda de Mar|Uni2|
-|16|152.26.231.94|9443|United States|Concord|MCNC|
-|17|152.26.229.34|9443|United States|Concord|MCNC|
-|18|152.26.231.83|9443|United States|Concord|MCNC|
-|19|72.10.164.178|20013|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|103.250.130.106|8085|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
+|5|103.154.139.83|8080|Indonesia|Jakarta|MORATELINDONAP|
+|6|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|7|177.43.72.250|3128|Brazil|Campo Grande|Vivo|
+|8|152.26.231.94|9443|United States|Concord|MCNC|
+|9|152.26.229.34|9443|United States|Concord|MCNC|
+|10|152.26.231.83|9443|United States|Concord|MCNC|
+|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|12|95.217.105.20|9016|Finland|Helsinki|Hetzner Online GmbH|
+|13|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|14|152.26.231.93|9443|United States|Concord|MCNC|
+|15|152.26.231.42|9443|United States|Concord|MCNC|
+|16|103.76.151.74|8089|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|17|72.10.164.178|3963|Canada|Montreal|GloboTech Communications|
+|18|101.255.208.22|3127|Indonesia|Ciputat|PT Remala Abadi|
+|19|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 
 
 
