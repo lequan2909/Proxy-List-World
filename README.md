@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|43.204.28.137|3128|India|Mumbai|Amazon.com, Inc.|
-|5|101.51.139.219|8180|Thailand|Chiang Mai|TOT Public Company Limited|
-|6|101.255.117.197|8085|Indonesia|Jakarta|PT Remala Abadi|
-|7|138.94.236.153|8080|Brazil|Novo Progresso Municipality|Nettcon Provedor De Internet Eireli EPP|
-|8|27.121.82.102|8080|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
-|9|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|10|27.72.244.228|8080|Vietnam|Hanoi|Newass2011xDSLHN|
-|11|152.26.229.86|9443|United States|Concord|MCNC|
-|12|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|13|27.54.71.231|8080|Australia|Pakenham|CNTC|
-|14|72.10.164.178|29501|Canada|Montreal|GloboTech Communications|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|6|152.26.229.86|9443|United States|Concord|MCNC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.88.113.202|8080|Vietnam|Hanoi|HTCITC|
+|9|72.10.164.178|33101|Canada|Montreal|GloboTech Communications|
+|10|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|152.26.229.47|9443|United States|Concord|MCNC|
+|14|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
 |15|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|17|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|144.76.207.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|103.76.151.74|8089|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|20|103.113.152.46|8080|Bangladesh|Dhaka|Md Ziaul Huque|
+|16|117.40.32.133|8080|China|Taohua|Chinanet|
+|17|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
+|18|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
 
 
 
