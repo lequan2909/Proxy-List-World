@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|203.142.74.115|8080|Indonesia|Semarang|BIZNET|
-|4|122.2.79.174|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|38.51.232.18|8080|Colombia|Sibundoy|SP SISTEMAS PALACIOS LTDA|
-|7|139.84.152.185|3129|India|Bengaluru|The Constant Company, LLC|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|195.54.171.228|25124|Hong Kong|Hong Kong|M247 Europe SRL|
+|3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|38.51.232.18|8080|Colombia|Sibundoy|SP SISTEMAS PALACIOS LTDA|
+|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |10|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|13|154.73.109.201|1981|Libya|Tripoli|Trans-Sahara IT & Communication|
-|14|103.99.27.26|7777|Indonesia|Tangerang|PT Lintas Network Solusi|
-|15|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|103.48.68.75|83|India|Hyderabad|Country Online Services PVT LTD|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|103.233.103.238|5656|Indonesia|Cikarang|PT. Tujuh Ion Indonesia|
+|13|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|14|103.171.244.40|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|15.235.171.209|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
 |17|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|19|103.77.16.190|80|Bangladesh|Kushtia|ICC Communication Ltd|
-|20|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|18|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
