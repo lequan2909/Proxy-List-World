@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|159.203.104.153|4550|United States|Clifton|DigitalOcean, LLC|
+|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|109.200.174.183|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|6|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|1.32.59.217|47045|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|8|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|103.180.123.19|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|13|103.174.236.43|3127|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|14|152.26.231.94|9443|United States|Concord|MCNC|
-|15|191.242.224.185|3100|Brazil|Sorocaba|DIRECT LAN TELECOMUNICAÇÕES SOROCABA LTDA|
-|16|152.26.229.46|9443|United States|Concord|MCNC|
-|17|152.26.229.34|9443|United States|Concord|MCNC|
-|18|120.202.162.210|80|China|Guangzhou|China Mobile communications corporation|
-|19|67.43.228.252|4347|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|16889|Canada|Montreal|GloboTech Communications|
+|5|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|103.189.249.196|1111|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
+|8|103.112.244.254|5656|Indonesia|Cikarang|PT. Tujuh Ion Indonesia|
+|9|103.174.236.43|3127|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|103.78.215.253|8080|Indonesia|Jakarta|MORATELINDO|
+|12|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|13|152.26.231.94|9443|United States|Concord|MCNC|
+|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|15|72.10.164.178|21029|Canada|Montreal|GloboTech Communications|
+|16|109.200.174.183|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|17|152.26.229.46|9443|United States|Concord|MCNC|
+|18|72.10.164.178|21029|Canada|Montreal|GloboTech Communications|
+|19|45.122.228.10|8899|Australia|Wangaratta|NETPTYLTD|
+|20|72.10.164.178|21029|Canada|Montreal|GloboTech Communications|
 
 
 
