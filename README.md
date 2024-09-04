@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5375** proxies at the latest update. Usable proxies are below.
+> Scraper found **5372** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|122|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|855|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|852|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|137|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3303|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|103.147.118.240|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
-|5|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|42.3.187.52|8080|Hong Kong|Kwu Tung|Hong Kong Telecommunications (HKT) Limited Mass Internet|
-|9|103.156.233.157|3456|Indonesia|Bogor|MULTIMEDIALINKTECH|
-|10|103.125.19.30|8080|Indonesia|Tangerang|JAVAMEDIA|
-|11|161.132.125.244|8080|Peru|Lima|WIN EMPRESAS S.A.C.|
-|12|103.133.63.135|8181|Indonesia|Bandar Lampung|TLINK|
-|13|190.94.212.150|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|14|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|191.102.107.238|999|Colombia|Chimichagua|TV AZTECA SUCURSAL COLOMBIA|
-|16|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|17|186.190.225.153|999|Colombia|Villanueva|TV AZTECA SUCURSAL COLOMBIA|
-|18|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|20|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|6|43.204.28.150|3128|India|Mumbai|Amazon.com, Inc.|
+|7|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|8|14.102.108.58|8080|India|Delhi|World Phone Internet Services Pvt Ltd|
+|9|103.65.238.174|8181|Indonesia|Medan|PT Media Alvina Sejati|
+|10|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|11|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|103.159.194.97|8080|Indonesia|Temanjang|PT Giga Digital Nusantara|
+|13|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|14|152.26.231.42|9443|United States|Concord|MCNC|
+|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|16|51.77.211.107|80|France|Strasbourg|OVH SAS|
+|17|72.10.164.178|10967|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|8781|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.226|4071|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.230|31535|Canada|Montreal|GloboTech Communications|
 
 
 
