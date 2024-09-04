@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5150** proxies at the latest update. Usable proxies are below.
+> Scraper found **5133** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -31,34 +31,34 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|120|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|645|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|113|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3314|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|107|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3303|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|1|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|2|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|6|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|103.124.139.212|1080|Indonesia|Semarang|Global Media Data Prima|
-|8|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|152.26.229.42|9443|United States|Concord|MCNC|
-|10|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|45.122.228.10|8899|Australia|Wangaratta|NETPTYLTD|
-|12|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|14|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|16|109.201.13.186|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|17|152.26.231.42|9443|United States|Concord|MCNC|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|115.72.46.96|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|6|49.49.42.241|8081|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
+|7|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|152.53.67.93|3128|Austria|Vienna|ANEXIA Internetdienstleistungs GmbH|
+|11|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|152.26.229.93|9443|United States|Concord|MCNC|
+|17|103.217.224.69|8585|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|18|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|19|72.10.164.178|23771|Canada|Montreal|GloboTech Communications|
+|20|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
