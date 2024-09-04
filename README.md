@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|202.51.121.59|8080|Indonesia|Kebon Sirih|PT iForte Global Internet|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|7|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
 |8|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|67.43.228.253|21607|Canada|Montreal|GloboTech Communications|
-|11|152.26.231.86|9443|United States|Concord|MCNC|
-|12|124.6.165.155|8082|Philippines|Lahug|INNOVE|
-|13|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|14|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|15|72.10.160.170|31993|Canada|Montreal|GloboTech Communications|
-|16|139.84.145.23|3129|India|Bengaluru|The Constant Company, LLC|
-|17|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
-|18|67.43.228.253|21607|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.174|20425|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|9|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|10|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|11|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|103.68.214.22|8080|Indonesia|Tangerang|PT Media Grasi Internet|
+|13|152.26.231.86|9443|United States|Concord|MCNC|
+|14|85.172.174.30|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|15|72.10.160.174|20425|Canada|Montreal|GloboTech Communications|
+|16|152.26.231.42|9443|United States|Concord|MCNC|
+|17|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|18|103.93.93.220|3127|Indonesia|Jombang|MYRISE|
+|19|152.26.229.47|9443|United States|Concord|MCNC|
+|20|139.84.145.23|3129|India|Bengaluru|The Constant Company, LLC|
 
 
 
