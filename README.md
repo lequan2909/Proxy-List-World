@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|18.118.163.4|3128|United States|Dublin|Amazon.com, Inc.|
-|6|103.80.82.178|8181|Indonesia|Batutering|Jaringanku Sarana Nusantara|
-|7|18.118.163.4|3128|United States|Dublin|Amazon.com, Inc.|
-|8|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|103.35.109.205|58080|Bangladesh|Dhaka|Ranks ITT|
-|13|152.26.229.83|9443|United States|Concord|MCNC|
-|14|152.26.231.42|9443|United States|Concord|MCNC|
-|15|152.26.231.93|9443|United States|Concord|MCNC|
-|16|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|103.173.138.163|8080|Indonesia|Babat|PT Serayu Multi Connection|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|120.202.162.210|80|China|Guangzhou|China Mobile communications corporation|
-|20|152.26.231.94|9443|United States|Concord|MCNC|
+|3|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|103.167.170.202|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|7|152.26.229.83|9443|United States|Concord|MCNC|
+|8|152.26.231.42|9443|United States|Concord|MCNC|
+|9|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|152.26.231.93|9443|United States|Concord|MCNC|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
+|14|152.26.231.94|9443|United States|Concord|MCNC|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|152.26.229.46|9443|United States|Concord|MCNC|
+|17|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
