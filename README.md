@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.187.154.146|3128|Taiwan|Taipei|Google LLC|
-|4|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|125.209.110.83|39617|Pakistan|Karachi|Multinet 125-110/24|
-|10|85.172.174.30|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|103.155.196.40|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|13|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|14|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|15|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|17|181.78.73.73|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|18|103.48.68.75|83|India|Hyderabad|Country Online Services PVT LTD|
-|19|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
-|20|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|6|120.202.162.210|80|China|Guangzhou|China Mobile communications corporation|
+|7|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|8|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|9|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|10|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|103.137.91.250|8080|Laos|Vientiane|SLT Network Co., LTD|
+|12|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|13|152.26.229.93|9443|United States|Concord|MCNC|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
+|15|152.26.231.94|9443|United States|Concord|MCNC|
+|16|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|19|119.47.90.109|8080|Indonesia|Jatiroto|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
