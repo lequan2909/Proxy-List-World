@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|8|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|45.112.127.222|8181|Indonesia|South Tangerang|FIBERNET|
-|12|58.80.134.185|1080|Japan|Kyoto|ARTERIA Networks Corporation|
-|13|181.48.155.78|8003|Colombia|Bogotá|Telmex Colombia S.A.|
-|14|203.142.71.54|8080|Indonesia|Jakarta|BIZNET|
-|15|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|20|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|91.238.105.56|8080|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|4|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|103.171.244.45|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|8|103.247.23.197|8080|Indonesia|Bekasi|PT wifian Solution|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|201.150.9.53|8081|Mexico|Monterrey|Jose Miguel Macias Contreras|
+|11|45.226.205.33|999|Ecuador|Hacienda El Triunfo|JEA.PC COMUNICACIONES S.A.|
+|12|152.26.229.86|9443|United States|Concord|MCNC|
+|13|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|152.26.231.93|9443|United States|Concord|MCNC|
+|15|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|16|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|27.121.82.102|8080|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
+|19|72.10.164.178|1747|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
