@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|3.71.22.39|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|5|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|177.234.227.215|999|Ecuador|Manta|Ufinet Panama S.A.|
-|10|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|12|152.26.229.86|9443|United States|Concord|MCNC|
-|13|152.26.229.46|9443|United States|Concord|MCNC|
-|14|152.26.231.83|9443|United States|Concord|MCNC|
-|15|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|67.43.227.227|28869|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|7|27.66.218.234|5109|Vietnam|Hà Tĩnh|Viettel Group|
+|8|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
+|14|152.26.229.46|9443|United States|Concord|MCNC|
+|15|152.26.231.83|9443|United States|Concord|MCNC|
+|16|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|152.26.231.93|9443|United States|Concord|MCNC|
+|18|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
