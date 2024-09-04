@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|116.104.129.231|5000|Vietnam|Hanoi|Viettel Corporation|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|198.13.52.240|18080|Japan|Motoyoyogichō|The Constant Company|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|15|106.227.87.11|3128|China|Taohua|China Telecom|
-|16|152.26.229.93|9443|United States|Concord|MCNC|
-|17|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|152.26.229.34|9443|United States|Concord|MCNC|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|67.43.227.227|14033|Canada|Montreal|GloboTech Communications|
+|3|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|139.84.157.107|3129|India|Bengaluru|The Constant Company, LLC|
+|7|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|116.104.129.231|5000|Vietnam|Hanoi|Viettel Corporation|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|11|103.217.224.27|8085|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|152.26.229.93|9443|United States|Concord|MCNC|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|152.26.229.34|9443|United States|Concord|MCNC|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
+|20|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
 
 
 
