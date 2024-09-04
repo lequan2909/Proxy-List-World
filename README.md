@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|139.84.152.185|3129|India|Bengaluru|The Constant Company, LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.170.226.10|83|India|Amalāpuram|Inet Fiber India Private Limited|
-|8|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|103.154.230.100|8080|Indonesia|Lamongan|DIGITNET|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|182.160.123.113|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|13|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|14|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
-|16|171.241.193.60|10003|Vietnam|Thanh Hóa|Viettel Corporation|
-|17|43.205.208.164|3128|India|Mumbai|Amazon.com, Inc.|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|67.43.227.227|6025|Canada|Montreal|GloboTech Communications|
-|20|114.5.199.222|80|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|7|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|180.250.189.59|8581|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|9|103.136.82.252|83|India|Ranchi|Protoact Digital Network Pvt. Ltd|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|103.48.68.75|83|India|Hyderabad|Country Online Services PVT LTD|
+|12|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
+|13|72.10.160.170|4131|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|15375|Canada|Montreal|GloboTech Communications|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|67.43.227.227|28861|Canada|Montreal|GloboTech Communications|
+|17|122.3.77.27|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|18|67.43.228.250|21003|Canada|Montreal|GloboTech Communications|
+|19|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
+|20|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
