@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|139.84.145.23|3129|India|Bengaluru|The Constant Company, LLC|
-|4|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|139.135.189.175|8081|Philippines|Calamba|ComClark Network & Technology Corp|
-|6|103.155.197.209|8090|Indonesia|Sukabumi|JEMBATANDATA|
-|7|138.2.58.57|8118|Japan|Osaka|Oracle Corporation|
-|8|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|200.24.152.210|999|Ecuador|Manta|Negocios Y Telefonia Nedetel S.A|
-|12|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|152.26.229.93|9443|United States|Concord|MCNC|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|152.26.229.46|9443|United States|Concord|MCNC|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.156.15.64|1080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|6|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|139.84.145.23|3129|India|Bengaluru|The Constant Company, LLC|
+|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|10|138.2.58.57|8118|Japan|Osaka|Oracle Corporation|
+|11|68.162.217.121|8080|United States|Leominster|Verizon Business|
+|12|103.70.93.70|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|13|5.32.37.218|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
+|14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|15|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|16|103.211.107.230|8080|Indonesia|Lampung|PT Atmega Telecomindo Nusantara|
+|17|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
