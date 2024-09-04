@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.182.41.197|8118|South Korea|Suseong-gu|Korea Telecom|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|202.57.2.19|80|Indonesia|Jakarta|Primanet - ISP|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|8|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|77.50.100.180|8080|Russia|Moscow|StarLink Telecom Network|
-|16|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|17|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|152.26.229.46|9443|United States|Concord|MCNC|
-|19|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|20|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|1|61.9.32.62|65535|Philippines|San Juan|Sky Cable Corporation|
+|2|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|103.174.236.43|3127|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|136.232.116.2|48976|India|Vadodara|Reliance Jio Infocomm Limited|
+|12|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|188.227.140.181|8080|Spain|Pozuelo de Alarcón|Aire Networks Del Mediterraneo SL Unipersonal|
+|15|103.189.122.107|8080|Indonesia|Jakarta|PT Ikhlas Cipta Teknologi|
+|16|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|17|103.40.121.33|8089|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
+|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 
 
 
