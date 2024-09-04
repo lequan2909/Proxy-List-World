@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|195.19.32.95|3128|Russia|Moscow|Moscow State Technical University named NE Bouwman|
-|5|103.101.193.46|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|6|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|10|72.10.164.178|20583|Canada|Montreal|GloboTech Communications|
-|11|103.77.16.190|80|Bangladesh|Kushtia|ICC Communication Ltd|
-|12|152.26.229.86|9443|United States|Concord|MCNC|
-|13|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|27.147.218.162|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|15|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|16|103.181.129.30|80|Indonesia|Tanjung|Diskominfo Tabalong|
-|17|72.10.164.178|20583|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|2273|Canada|Montreal|GloboTech Communications|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|67.43.236.20|11907|Canada|Montreal|GloboTech Communications|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|43.205.208.47|3128|India|Mumbai|Amazon.com, Inc.|
+|7|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|8|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|106.227.87.11|3128|China|Taohua|China Telecom|
+|13|41.203.213.211|8103|Kenya|Nairobi|Safaricom Limited|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|94.23.204.27|3128|France|Roubaix|OVH SAS|
+|16|72.10.164.178|20583|Canada|Montreal|GloboTech Communications|
+|17|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|18|152.26.229.86|9443|United States|Concord|MCNC|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|134.209.147.65|8080|India|Bengaluru|DigitalOcean, LLC|
 
 
 
