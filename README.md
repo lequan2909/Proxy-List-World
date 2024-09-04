@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5850** proxies at the latest update. Usable proxies are below.
+> Scraper found **5869** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|124|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|998|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1017|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|195|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3575|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|192.99.169.19|8444|Canada|Beauharnois|OVH SAS|
-|3|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|171.228.189.239|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|203.150.128.13|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|103.168.254.162|8086|Indonesia|Jepara|PT Fahasa Tri Data|
-|13|84.214.150.146|8080|Norway|Oslo|Get AS|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|131.100.51.45|999|Colombia|Neiva|Fibernet TV SAS|
-|18|152.26.229.47|9443|United States|Concord|MCNC|
-|19|152.26.229.34|9443|United States|Concord|MCNC|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|1|121.182.41.197|8118|South Korea|Suseong-gu|Korea Telecom|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|202.57.2.19|80|Indonesia|Jakarta|Primanet - ISP|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|8|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|77.50.100.180|8080|Russia|Moscow|StarLink Telecom Network|
+|16|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|17|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|20|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
 
 
 
