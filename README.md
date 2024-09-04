@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|1.2.214.1|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|43.205.208.164|3128|India|Mumbai|Amazon.com, Inc.|
-|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|8|45.226.205.33|999|Ecuador|Hacienda El Triunfo|JEA.PC COMUNICACIONES S.A.|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|11|170.81.171.189|8089|Brazil|Francisco Morato|Wireless Comm Services LTDA|
-|12|103.156.74.156|8080|Indonesia|Gianyar|PT Trika Global Media|
-|13|152.26.229.46|9443|United States|Concord|MCNC|
-|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|15|152.26.231.42|9443|United States|Concord|MCNC|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|152.26.229.93|9443|United States|Concord|MCNC|
-|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|19|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|91.238.105.56|8080|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|220.150.76.92|6000|Japan|Chiyoda|FreeBit Co., Ltd.|
+|7|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|128.92.239.190|8080|United States|Los Angeles|Spectrum|
+|9|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|38.41.27.150|11201|Venezuela|Caracas|MDS TELECOM C.A.|
+|13|36.67.199.171|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|14|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|15|103.40.121.33|8089|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
+|16|152.26.229.46|9443|United States|Concord|MCNC|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|177.87.15.141|8081|Brazil|Martins|L GONZAGA JUNIOR SERVICOS DE INTERNET - ME|
+|20|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
