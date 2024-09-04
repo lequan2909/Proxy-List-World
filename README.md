@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|2|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|103.160.207.53|32650|India|Morādābād|Moradabad Internet Services Private Limited|
 |6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |7|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|152.26.229.42|9443|United States|Concord|MCNC|
-|9|152.26.231.86|9443|United States|Concord|MCNC|
-|10|72.10.164.178|19183|Canada|Montreal|GloboTech Communications|
-|11|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|12|72.10.164.178|19183|Canada|Montreal|GloboTech Communications|
-|13|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|67.43.227.230|10411|Canada|Montreal|GloboTech Communications|
-|15|38.156.75.198|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|67.43.228.253|16953|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.46|9443|United States|Concord|MCNC|
-|19|72.10.164.178|19183|Canada|Montreal|GloboTech Communications|
-|20|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|180.178.98.93|2526|Indonesia|Jakarta|PT Hipernet Indodata|
+|9|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|152.26.231.86|9443|United States|Concord|MCNC|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|152.26.229.42|9443|United States|Concord|MCNC|
+|13|138.59.227.248|999|Paraguay|Ayolas|Aranda Cardozo Lider Ramon|
+|14|111.1.61.56|3128|China|Wenzhou|China Mobile communications corporation|
+|15|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|67.43.227.230|10411|Canada|Montreal|GloboTech Communications|
+|17|62.171.183.48|3128|Germany|Nuremberg|Contabo GmbH|
+|18|38.156.75.198|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|62.40.157.231|32650|Austria|Wilhelmsburg|Kabelsignal AG|
 
 
 
