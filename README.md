@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5245** proxies at the latest update. Usable proxies are below.
+> Scraper found **5220** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|121|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|677|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|652|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|127|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3362|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|103.151.35.164|1111|Indonesia|Tangerang|GAYUHNET|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|152.26.229.34|9443|United States|Concord|MCNC|
-|11|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|13|152.26.231.42|9443|United States|Concord|MCNC|
-|14|152.26.229.83|9443|United States|Concord|MCNC|
-|15|152.26.229.93|9443|United States|Concord|MCNC|
-|16|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|3|15.235.171.222|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
+|4|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|101.51.139.219|8180|Thailand|Chiang Mai|TOT Public Company Limited|
+|7|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|152.26.229.34|9443|United States|Concord|MCNC|
+|9|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|152.26.229.83|9443|United States|Concord|MCNC|
+|11|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|117.68.38.176|27929|China|Hefei|China Telecom|
+|14|103.153.136.10|8080|Indonesia|Gorontalo|PT Andalas Global Network|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|152.26.231.93|9443|United States|Concord|MCNC|
+|17|67.43.228.253|5607|Canada|Montreal|GloboTech Communications|
+|18|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|19|67.43.236.20|2853|Canada|Montreal|GloboTech Communications|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
