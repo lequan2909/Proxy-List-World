@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.187.154.146|3128|Taiwan|Taipei|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.187.154.146|3128|Taiwan|Taipei|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|6|91.238.105.56|8080|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|7|45.184.224.200|999|Ecuador|Quito|Media Commerce Medcomm S.A|
-|8|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|62.171.183.48|3128|Germany|Nuremberg|Contabo GmbH|
-|11|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|13|85.172.174.30|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|14|103.147.247.101|8080|Indonesia|Tangerang|PLBNET|
-|15|209.14.113.2|999|Colombia|Cértegui|AGIS|
-|16|27.147.218.162|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|200.106.124.22|999|Peru|Tacna|Telefonica del Peru|
-|20|87.242.9.167|53281|Hungary|Sárospatak|PR-TELECOM ZRt.|
+|4|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|7|171.251.194.130|5108|Vietnam|Hanoi|Viettel Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|91.238.105.56|8080|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|12|85.172.174.30|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|13|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|47.84.82.229|8080|United States|Ashburn|Alibaba.com LLC|
+|15|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|200.106.124.22|999|Peru|Tacna|Telefonica del Peru|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|152.26.229.47|9443|United States|Concord|MCNC|
+|20|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
