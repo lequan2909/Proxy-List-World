@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.154.230.108|8080|Indonesia|Lamongan|DIGITNET|
-|4|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|45.188.76.236|999|Mexico|Teapa|ONT NETWORKS SA de CV|
-|6|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|7|103.243.177.90|8080|Indonesia|Kalicari|Universitas Katolik Soegijapranata|
-|8|90.161.186.147|3128|Spain|Pineda de Mar|Uni2|
-|9|67.43.227.228|25901|Canada|Montreal|GloboTech Communications|
-|10|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|85.172.174.30|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|12|38.183.145.31|8090|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|13|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
-|14|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|15|103.245.205.226|6969|Bangladesh|Dhaka|Next Online Limited|
-|16|152.26.229.83|9443|United States|Concord|MCNC|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|72.10.160.172|16223|Canada|Montreal|GloboTech Communications|
-|19|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
-|20|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|103.184.54.12|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|7|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|8|103.88.113.202|8080|Vietnam|Hanoi|HTCITC|
+|9|101.51.139.219|8180|Thailand|Chiang Mai|TOT Public Company Limited|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|45.71.200.175|999|Ecuador|Quito|Negocios Y Telefonia Nedetel S.A|
+|13|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|14|103.155.196.40|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|15|103.81.64.85|8080|Indonesia|Bandar Lampung|QIUNET|
+|16|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|19|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
 
 
 
