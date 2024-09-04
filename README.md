@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|182.252.70.220|8082|Bangladesh|Kāfrul|Agni Systems Limited|
-|5|191.7.208.87|8080|Brazil|Novo Oriente|HTM SERVICOS DE TELECOMUNICACOES LTDA|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|152.26.229.34|9443|United States|Concord|MCNC|
-|10|72.10.164.178|18451|Canada|Montreal|GloboTech Communications|
-|11|152.26.229.93|9443|United States|Concord|MCNC|
-|12|72.10.164.178|18451|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.228|9129|Canada|Montreal|GloboTech Communications|
-|14|43.204.28.150|3128|India|Mumbai|Amazon.com, Inc.|
-|15|152.26.231.93|9443|United States|Concord|MCNC|
-|16|89.221.225.229|8118|Israel|Petah Tikva|Stark Industries Solutions LTD|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|197.245.248.42|8080|South Africa|Durban|Vox Telecom|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|5|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|188.132.222.49|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|7|152.26.229.34|9443|United States|Concord|MCNC|
+|8|152.26.229.93|9443|United States|Concord|MCNC|
+|9|152.26.231.93|9443|United States|Concord|MCNC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|72.10.164.178|14671|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|14671|Canada|Montreal|GloboTech Communications|
+|13|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|222.127.241.158|8082|Philippines|Iloilo City|GLBB|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|223.25.110.206|1080|Indonesia|Surabaya|SinergiNet|
+|18|197.245.248.42|8080|South Africa|Durban|Vox Telecom|
+|19|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 
 
 
