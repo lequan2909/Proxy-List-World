@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|9|103.36.11.246|8181|Indonesia|Pandeglang|PT Awinet Global Mandiri|
-|10|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|11|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|46.166.165.33|4002|Lithuania|Šiauliai|Cherry Servers|
-|15|97.76.251.138|8080|United States|Tampa|Spectrum|
+|2|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|6|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|7|45.133.107.10|81|Russia|Tul'skiy|Art-net LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.171.244.51|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|13|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|14|45.71.184.197|999|Ecuador|Naranjito|Ufinet Panama S.A.|
+|15|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
 |16|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|17|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|18|38.188.127.228|7777|Indonesia|Blitar|PT Data Buana Nusantara|
-|19|103.81.64.85|8080|Indonesia|Bandar Lampung|QIUNET|
-|20|103.110.10.69|3127|Indonesia|Bandung|PT Citra Jelajah Informatika|
+|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|152.26.231.94|9443|United States|Concord|MCNC|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|103.234.159.5|8080|India|Bengaluru|MWPL|
 
 
 
