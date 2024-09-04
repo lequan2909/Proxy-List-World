@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5465** proxies at the latest update. Usable proxies are below.
+> Scraper found **5431** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|117|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|841|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|807|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|131|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3418|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|2|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|10|152.26.229.86|9443|United States|Concord|MCNC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|15.235.171.196|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
-|17|72.10.164.178|26937|Canada|Montreal|GloboTech Communications|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
-|20|72.10.164.178|26937|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|27.66.218.234|5109|Vietnam|Hà Tĩnh|Viettel Group|
+|6|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|7|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|103.184.54.3|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|11|119.92.75.48|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|103.186.64.51|7001|Vietnam|Hai BàTrưng|GREENCLOUD|
+|15|152.26.229.93|9443|United States|Concord|MCNC|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|201.71.2.103|999|Venezuela|Caracas|Level 3 Communications, Inc.|
 
 
 
