@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|5|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|152.26.229.34|9443|United States|Concord|MCNC|
-|12|67.43.227.227|3995|Canada|Montreal|GloboTech Communications|
-|13|47.76.54.39|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|14.161.152.73|8080|Vietnam|Tân Uyên|VNPT|
-|15|67.43.236.20|1343|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.46|9443|United States|Concord|MCNC|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|72.10.160.173|2123|Canada|Montreal|GloboTech Communications|
+|1|18.228.173.77|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.70.93.77|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|4|24.116.218.204|8080|United States|Pascagoula|CABLE ONE, INC.|
+|5|152.26.229.34|9443|United States|Concord|MCNC|
+|6|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|8|72.10.164.178|2613|Canada|Montreal|GloboTech Communications|
+|9|152.26.229.46|9443|United States|Concord|MCNC|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|152.26.229.42|9443|United States|Concord|MCNC|
+|12|72.10.164.178|2613|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|2613|Canada|Montreal|GloboTech Communications|
+|14|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|15|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|16|72.10.164.178|2613|Canada|Montreal|GloboTech Communications|
+|17|152.26.231.94|9443|United States|Concord|MCNC|
+|18|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
 |19|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|67.43.236.18|11789|Canada|Montreal|GloboTech Communications|
+|20|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
