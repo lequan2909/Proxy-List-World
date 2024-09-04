@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|6|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
 |8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|10|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|152.26.229.46|9443|United States|Concord|MCNC|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|72.10.164.178|10655|Canada|Montreal|GloboTech Communications|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|18|72.10.164.178|10655|Canada|Montreal|GloboTech Communications|
-|19|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|152.26.229.42|9443|United States|Concord|MCNC|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|16|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|17|152.26.229.46|9443|United States|Concord|MCNC|
+|18|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 
 
 
