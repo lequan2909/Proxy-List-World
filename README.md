@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|121.182.41.197|8118|South Korea|Suseong-gu|Korea Telecom|
-|3|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|103.133.25.185|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|10|61.9.32.62|65535|Philippines|San Juan|Sky Cable Corporation|
-|11|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|106.227.87.11|3128|China|Taohua|China Telecom|
-|14|171.228.189.239|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|15|36.92.159.55|32650|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|121.182.41.197|8118|South Korea|Suseong-gu|Korea Telecom|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|2|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|152.26.231.86|9443|United States|Concord|MCNC|
+|5|61.129.2.212|8080|China|Beijing|CHINANET|
+|6|152.26.229.86|9443|United States|Concord|MCNC|
+|7|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|72.10.164.178|7669|Canada|Montreal|GloboTech Communications|
+|9|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|117.40.32.135|8080|China|Taohua|Chinanet|
+|11|152.26.231.94|9443|United States|Concord|MCNC|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|103.40.121.33|8089|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
+|14|72.10.164.178|7669|Canada|Montreal|GloboTech Communications|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|72.10.164.178|7669|Canada|Montreal|GloboTech Communications|
+|17|106.227.87.11|3128|China|Taohua|China Telecom|
+|18|117.40.32.133|8080|China|Taohua|Chinanet|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|27.121.82.102|8080|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
 
 
 
