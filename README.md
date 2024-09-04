@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|38.52.208.4|999|Guatemala|Jalapa|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|188.132.222.147|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|6|177.240.4.125|999|Mexico|Montemorelos|Mega Cable, S.A. de C.V.|
-|7|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|152.26.229.34|9443|United States|Concord|MCNC|
-|10|152.26.231.94|9443|United States|Concord|MCNC|
-|11|152.26.229.93|9443|United States|Concord|MCNC|
-|12|67.43.227.227|2047|Canada|Montreal|GloboTech Communications|
-|13|64.225.96.122|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|67.43.228.253|24613|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|2345|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|26021|Canada|Montreal|GloboTech Communications|
-|19|101.255.117.197|8085|Indonesia|Jakarta|PT Remala Abadi|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|5|88.99.126.109|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|114.9.26.238|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|7|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|152.26.229.34|9443|United States|Concord|MCNC|
+|9|152.26.231.94|9443|United States|Concord|MCNC|
+|10|152.26.229.93|9443|United States|Concord|MCNC|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|103.234.159.5|8080|India|Bengaluru|MWPL|
+|14|152.26.231.42|9443|United States|Concord|MCNC|
+|15|67.43.228.250|4475|Canada|Montreal|GloboTech Communications|
+|16|155.93.96.210|8080|Nigeria|Lagos|Vodacom Business Nigeria|
+|17|72.10.164.178|1333|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|15827|Canada|Montreal|GloboTech Communications|
+|19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|20|67.43.227.228|19585|Canada|Montreal|GloboTech Communications|
 
 
 
