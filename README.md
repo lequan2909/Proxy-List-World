@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.217.224.150|8090|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|3|15.235.171.210|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
-|4|103.184.54.12|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|8|185.49.170.20|43626|Spain|Madrid|OLIVE|
-|9|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|10|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
-|12|152.26.229.47|9443|United States|Concord|MCNC|
-|13|152.26.231.93|9443|United States|Concord|MCNC|
-|14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|152.26.229.83|9443|United States|Concord|MCNC|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|72.10.160.93|30425|Canada|Montreal|GloboTech Communications|
+|2|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|103.184.54.12|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|103.217.224.150|8090|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|6|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|7|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|8|54.218.216.198|3128|United States|Portland|Amazon.com, Inc.|
+|9|152.26.229.47|9443|United States|Concord|MCNC|
+|10|152.26.229.93|9443|United States|Concord|MCNC|
+|11|202.162.213.182|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|12|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|103.250.130.106|8085|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
