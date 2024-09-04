@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|103.125.42.127|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|10|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
-|13|182.253.39.242|8080|Indonesia|Jakarta Pusat|BIZNET|
-|14|103.169.131.26|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|103.156.15.55|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|18|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|19|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|161.97.97.155|3128|Germany|Nuremberg|Contabo GmbH|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|62.171.183.48|3128|Germany|Nuremberg|Contabo GmbH|
+|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|62.173.146.70|3128|Russia|Moscow|Internet-Cosmos Ltd.|
+|10|103.125.42.127|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
+|11|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|12|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|27.112.70.155|8083|Indonesia|Jakarta|GRAHANET|
+|15|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|106.227.87.11|3128|China|Taohua|China Telecom|
 
 
 
