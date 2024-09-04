@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|6|152.26.229.46|9443|United States|Concord|MCNC|
-|7|152.26.229.34|9443|United States|Concord|MCNC|
-|8|152.26.231.42|9443|United States|Concord|MCNC|
-|9|152.26.231.86|9443|United States|Concord|MCNC|
-|10|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|12|152.26.229.42|9443|United States|Concord|MCNC|
-|13|117.40.32.135|8080|China|Taohua|Chinanet|
-|14|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|103.51.21.165|8080|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
-|17|67.43.227.228|6785|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.47|9443|United States|Concord|MCNC|
-|19|85.172.174.30|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|20|180.191.32.166|8081|Philippines|Cabanatuan City|Globe Telecom|
+|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|103.4.167.15|8080|Indonesia|Jakarta|FIBERNET|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|103.247.23.192|8080|Indonesia|Bekasi|PT wifian Solution|
+|8|45.190.52.24|8080|Brazil|Araranguá|Exa Internet|
+|9|103.1.50.17|3125|Indonesia|Pasuruan|CPCNet Hong Kong Ltd. - IP Administrator|
+|10|20.119.77.88|8154|United States|Boydton|Microsoft Corporation|
+|11|103.4.167.15|8080|Indonesia|Jakarta|FIBERNET|
+|12|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|13|103.40.121.33|8089|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
+|14|152.26.229.34|9443|United States|Concord|MCNC|
+|15|152.26.229.46|9443|United States|Concord|MCNC|
+|16|152.26.231.42|9443|United States|Concord|MCNC|
+|17|152.26.231.86|9443|United States|Concord|MCNC|
+|18|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|19|38.7.1.185|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|20|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
 
 
 
