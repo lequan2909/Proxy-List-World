@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|203.176.129.85|8080|Cambodia|Phnom Penh|Angkor Data Communication|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|171.4.71.166|8686|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|10|186.96.174.168|80|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|11|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|45.233.90.10|443|Brazil|Cruz do Espírito Santo|D.R SERVICOS DE COMUNICACAO LTDA - ME|
-|13|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|103.41.33.169|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|16|152.26.229.34|9443|United States|Concord|MCNC|
-|17|152.26.229.93|9443|United States|Concord|MCNC|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|152.26.231.94|9443|United States|Concord|MCNC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|119.92.255.3|3128|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|8|85.119.120.55|8080|Malta|Birkirkara|Melita Ltd|
+|9|85.118.117.165|8080|Georgia|Tbilisi|EGRISI|
+|10|154.72.67.190|8080|Tanzania|Dar es Salaam|RAHA-LTZ|
+|11|186.96.174.168|80|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|12|103.69.20.104|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|13|94.23.204.27|3128|France|Roubaix|OVH SAS|
+|14|152.26.229.93|9443|United States|Concord|MCNC|
+|15|152.26.229.34|9443|United States|Concord|MCNC|
+|16|180.148.4.74|8080|Vietnam|Uyen Hung|VNTT|
+|17|152.26.231.86|9443|United States|Concord|MCNC|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|20|181.119.67.73|999|Colombia|Barrancabermeja|IFX Networks Argentina S.R.L|
 
 
 
