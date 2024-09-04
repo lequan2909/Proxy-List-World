@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|103.169.149.254|1111|Indonesia|Pekanbaru|PT Kangen Network Solusindo|
-|10|45.119.113.65|83|India|Hyderabad|Netrun Technologies PVT LTD|
-|11|139.255.67.212|8185|Indonesia|Jakarta|PT. LINKNET|
-|12|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|46.161.195.182|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|14|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|152.26.231.42|9443|United States|Concord|MCNC|
-|16|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|17|103.250.130.106|8085|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|18|15.204.161.192|18080|United States|Reston|OVH SAS|
-|19|103.81.64.85|8080|Indonesia|Bandar Lampung|QIUNET|
-|20|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|182.252.72.164|8082|Bangladesh|Dhaka|Agni Systems Limited|
+|3|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|152.26.231.42|9443|United States|Concord|MCNC|
+|7|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|8|152.26.229.83|9443|United States|Concord|MCNC|
+|9|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|10|72.10.164.178|22573|Canada|Montreal|GloboTech Communications|
+|11|152.26.231.93|9443|United States|Concord|MCNC|
+|12|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
+|13|152.26.229.47|9443|United States|Concord|MCNC|
+|14|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
+|15|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
+|18|72.10.164.178|22573|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|22573|Canada|Montreal|GloboTech Communications|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
