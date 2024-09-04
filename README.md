@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|203.177.216.158|8080|Philippines|Taguig|SIEMENS|
-|4|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|5|20.119.77.88|8197|United States|Boydton|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.119.77.88|8197|United States|Boydton|Microsoft Corporation|
+|4|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|20.119.77.88|8197|United States|Boydton|Microsoft Corporation|
-|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|8|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|9|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|10|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|12|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|13|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|14|20.119.77.88|8197|United States|Boydton|Microsoft Corporation|
-|15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|20.119.77.88|8197|United States|Boydton|Microsoft Corporation|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|120.202.162.210|80|China|Guangzhou|China Mobile communications corporation|
-|20|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|202.154.18.69|8081|Indonesia|Jombang|DIGITNET|
+|8|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|9|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|12|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
+|14|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|15|152.26.231.94|9443|United States|Concord|MCNC|
+|16|20.119.77.88|8197|United States|Boydton|Microsoft Corporation|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|20.119.77.88|8197|United States|Boydton|Microsoft Corporation|
 
 
 
