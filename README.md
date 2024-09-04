@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.119.77.88|8181|United States|Boydton|Microsoft Corporation|
-|6|27.147.218.162|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|7|103.59.44.33|2022|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|8|103.81.64.85|8080|Indonesia|Bandar Lampung|QIUNET|
-|9|103.172.120.219|9999|Indonesia|Semarang|PT Digital Akses Nusantara|
-|10|72.10.160.90|5365|Canada|Montreal|GloboTech Communications|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|13|67.43.227.227|9349|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.171|6791|Canada|Montreal|GloboTech Communications|
-|15|186.96.96.131|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|16|72.10.164.178|32371|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|32371|Canada|Montreal|GloboTech Communications|
-|18|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
-|19|152.26.231.86|9443|United States|Concord|MCNC|
-|20|117.40.32.135|8080|China|Taohua|Chinanet|
+|4|103.172.35.19|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|5|103.81.64.85|8080|Indonesia|Bandar Lampung|QIUNET|
+|6|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|7|152.26.229.86|9443|United States|Concord|MCNC|
+|8|72.10.164.178|1905|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|1905|Canada|Montreal|GloboTech Communications|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|72.10.164.178|1905|Canada|Montreal|GloboTech Communications|
+|12|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|13|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|152.26.231.86|9443|United States|Concord|MCNC|
+|15|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
+|16|179.228.17.8|8080|Brazil|São Paulo|Vivo|
+|17|152.26.229.47|9443|United States|Concord|MCNC|
+|18|152.26.231.93|9443|United States|Concord|MCNC|
+|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 
 
 
