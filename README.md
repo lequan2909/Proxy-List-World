@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
 |8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|103.176.96.178|1111|Indonesia|Purwakarta|PT Global Sarana Elektronika|
-|12|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|85.193.191.199|8080|Austria|Bad Erlach|RDI|
-|14|202.169.51.46|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|202.191.123.195|8090|Bangladesh|Dhaka|Bijoy Online Limited|
-|17|103.234.159.5|8080|India|Bengaluru|MWPL|
-|18|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|20|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|103.162.63.181|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|12|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|15|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
