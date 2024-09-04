@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|177.234.241.28|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|27.71.150.175|8080|Vietnam|Huế|Viettel Group|
-|9|103.53.78.26|8080|Indonesia|Surabaya|INTI|
-|10|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|180.191.20.206|8080|Philippines|Cabanatuan City|Globe Telecom|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|152.26.229.47|9443|United States|Concord|MCNC|
-|17|177.234.241.28|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|18|62.171.183.48|3128|Germany|Nuremberg|Contabo GmbH|
-|19|182.160.124.214|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|20|72.10.164.178|10503|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|116.104.129.231|5000|Vietnam|Hanoi|Viettel Corporation|
+|7|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|182.53.20.113|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|11|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|103.176.97.223|3127|Indonesia|Purwakarta|PT Global Sarana Elektronika|
+|15|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|16|103.76.151.74|8089|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|17|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|103.77.16.190|80|Bangladesh|Kushtia|ICC Communication Ltd|
 
 
 
