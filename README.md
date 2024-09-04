@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|12|152.26.231.83|9443|United States|Concord|MCNC|
-|13|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|14|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|15|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|152.26.229.46|9443|United States|Concord|MCNC|
-|17|103.169.148.5|1111|Indonesia|Pekanbaru|PT Kangen Network Solusindo|
-|18|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|152.26.231.94|9443|United States|Concord|MCNC|
-|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|9|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|152.26.231.83|9443|United States|Concord|MCNC|
+|11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|12|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|13|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|152.26.229.46|9443|United States|Concord|MCNC|
+|15|152.26.231.94|9443|United States|Concord|MCNC|
+|16|106.227.87.11|3128|China|Taohua|China Telecom|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|121.182.41.197|8118|South Korea|Suseong-gu|Korea Telecom|
+|20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
 
