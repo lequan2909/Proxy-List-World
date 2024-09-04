@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|6|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
-|7|160.22.190.10|8080|Indonesia|Loakulu|PT Aldiyanur Mahakam Telemedia|
-|8|152.26.229.47|9443|United States|Concord|MCNC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|7|202.154.36.211|8080|Indonesia|Surabaya|RADNET-BDG|
+|8|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
 |9|152.26.231.94|9443|United States|Concord|MCNC|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|12|67.43.227.226|23009|Canada|Montreal|GloboTech Communications|
-|13|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
-|18|87.229.205.227|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|19|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|10|188.132.222.147|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|31.172.79.14|8080|United States|Dallas|FORNEX|
+|13|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
+|14|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|152.26.229.47|9443|United States|Concord|MCNC|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
