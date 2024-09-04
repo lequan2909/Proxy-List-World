@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|6|114.9.26.122|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|7|152.26.229.34|9443|United States|Concord|MCNC|
-|8|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|152.26.229.86|9443|United States|Concord|MCNC|
-|10|152.26.229.42|9443|United States|Concord|MCNC|
-|11|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|152.26.229.47|9443|United States|Concord|MCNC|
-|14|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|152.26.231.83|9443|United States|Concord|MCNC|
-|17|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
-|18|72.10.164.178|29501|Canada|Montreal|GloboTech Communications|
-|19|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|38.52.221.44|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|15.235.171.222|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|160.248.190.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|103.176.227.197|8009|Indonesia|Brebes|PT Pass Internet Indonesia|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|152.26.229.34|9443|United States|Concord|MCNC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|152.26.229.86|9443|United States|Concord|MCNC|
+|11|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|152.26.229.42|9443|United States|Concord|MCNC|
+|13|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|14|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
+|17|152.26.229.47|9443|United States|Concord|MCNC|
+|18|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
