@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
 |3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|8|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|138.121.161.86|8190|Argentina|Rosario|WICORP SA|
-|11|103.175.237.222|8080|Indonesia|Malang|PT Marva Global Telekomunikasi|
-|12|124.107.151.85|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|13|43.243.174.3|82|India|Pune|Shah Solutions|
-|14|103.137.91.250|8080|Laos|Vientiane|SLT Network Co., LTD|
-|15|72.10.164.178|20239|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.21|24175|Canada|Montreal|GloboTech Communications|
-|17|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|18|117.40.32.133|8080|China|Taohua|Chinanet|
-|19|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|20|72.10.160.170|21349|Canada|Montreal|GloboTech Communications|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|157.20.144.138|8181|Indonesia|Ciputat|PT Lintas Network Solusi|
+|10|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
+|12|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|72.10.164.178|17761|Canada|Montreal|GloboTech Communications|
+|14|120.202.162.210|80|China|Guangzhou|China Mobile communications corporation|
+|15|103.69.106.183|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
+|16|152.26.229.46|9443|United States|Concord|MCNC|
+|17|202.40.179.34|9090|Bangladesh|Dhaka|Ranks ITT|
+|18|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|19|117.40.32.135|8080|China|Taohua|Chinanet|
+|20|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
 
 
 
