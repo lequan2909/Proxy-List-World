@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|8|18.228.173.77|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|152.26.231.42|9443|United States|Concord|MCNC|
-|16|152.26.229.47|9443|United States|Concord|MCNC|
-|17|103.55.159.51|6060|Indonesia|Sumbawa Besar|PT TELIO INTI NUSA|
-|18|152.26.231.93|9443|United States|Concord|MCNC|
-|19|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|18.228.173.77|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|6|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|152.26.231.42|9443|United States|Concord|MCNC|
+|10|152.26.229.47|9443|United States|Concord|MCNC|
+|11|152.26.231.93|9443|United States|Concord|MCNC|
+|12|72.10.164.178|2613|Canada|Montreal|GloboTech Communications|
+|13|103.55.159.51|6060|Indonesia|Sumbawa Besar|PT TELIO INTI NUSA|
+|14|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|72.10.164.178|2613|Canada|Montreal|GloboTech Communications|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|103.157.218.209|3128|Vietnam|Ba Đình District|3S Viet Nam Technology Joint Stock Company|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
+|20|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
