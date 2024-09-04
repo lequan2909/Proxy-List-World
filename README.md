@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|62.171.183.48|3128|Germany|Nuremberg|Contabo GmbH|
-|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|35.187.154.146|3128|Taiwan|Taipei|Google LLC|
-|9|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|10|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|152.26.229.47|9443|United States|Concord|MCNC|
-|14|152.26.231.93|9443|United States|Concord|MCNC|
-|15|152.26.231.86|9443|United States|Concord|MCNC|
-|16|103.40.121.33|8089|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
-|17|152.26.231.42|9443|United States|Concord|MCNC|
-|18|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|72.10.164.178|22123|Canada|Montreal|GloboTech Communications|
+|3|35.187.154.146|3128|Taiwan|Taipei|Google LLC|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|91.238.105.56|8080|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|8|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|85.172.174.30|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|103.234.159.5|8080|India|Bengaluru|MWPL|
+|14|152.26.231.86|9443|United States|Concord|MCNC|
+|15|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|16|152.26.229.47|9443|United States|Concord|MCNC|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|27.147.218.162|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|155.93.96.210|8080|Nigeria|Lagos|Vodacom Business Nigeria|
 
 
 
