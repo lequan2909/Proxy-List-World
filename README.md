@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|139.84.145.23|3129|India|Bengaluru|The Constant Company, LLC|
-|5|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|186.96.97.206|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|13|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|16|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|18|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|19|103.70.93.70|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
-|20|103.10.71.81|8080|Indonesia|Situsaeur|PT Wadma Berkah Sedaya|
+|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|6|223.25.110.206|1080|Indonesia|Surabaya|SinergiNet|
+|7|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|103.180.122.71|8080|Indonesia|Bekasi|PT Indo Telemedia Solusi|
+|9|15.235.171.228|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
+|10|103.189.116.115|8080|Indonesia|Temanggung|PT Callysta Total Solusindo|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|101.255.117.197|8085|Indonesia|Jakarta|PT Remala Abadi|
+|13|152.26.231.93|9443|United States|Concord|MCNC|
+|14|139.84.145.23|3129|India|Bengaluru|The Constant Company, LLC|
+|15|152.26.229.47|9443|United States|Concord|MCNC|
+|16|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|19|120.202.162.210|80|China|Guangzhou|China Mobile communications corporation|
+|20|67.43.227.227|15683|Canada|Montreal|GloboTech Communications|
 
 
 
