@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.184.54.12|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|7|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|8|103.88.113.202|8080|Vietnam|Hanoi|HTCITC|
-|9|101.51.139.219|8180|Thailand|Chiang Mai|TOT Public Company Limited|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|45.71.200.175|999|Ecuador|Quito|Negocios Y Telefonia Nedetel S.A|
-|13|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|14|103.155.196.40|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|15|103.81.64.85|8080|Indonesia|Bandar Lampung|QIUNET|
-|16|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|19|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.153.136.10|8080|Indonesia|Gorontalo|PT Andalas Global Network|
+|6|119.47.90.230|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|7|152.26.229.93|9443|United States|Concord|MCNC|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|103.217.224.150|8090|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|13|36.71.76.170|8080|Indonesia|Malang|PT. Telekomunikasi Indonesia|
+|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|15|103.184.54.12|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|72.10.164.178|7895|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|203.202.252.149|1200|Bangladesh|Dhaka|Aamra Networks Limited|
 
 
 
