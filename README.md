@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|2|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|103.114.52.72|8080|Indonesia|Boyolali|Proxy-registered|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|36.67.114.94|8187|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|9|202.169.51.46|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
-|10|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|152.26.231.94|9443|United States|Concord|MCNC|
-|12|106.227.87.11|3128|China|Taohua|China Telecom|
-|13|152.26.229.83|9443|United States|Concord|MCNC|
-|14|152.26.231.42|9443|United States|Concord|MCNC|
-|15|152.26.231.93|9443|United States|Concord|MCNC|
-|16|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|72.10.164.178|14267|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|14267|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|41.209.10.229|8080|Kenya|Nairobi|MTN Business Kenya|
+|7|103.114.52.72|8080|Indonesia|Boyolali|Proxy-registered|
+|8|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|152.26.231.94|9443|United States|Concord|MCNC|
+|10|72.10.164.178|12421|Canada|Montreal|GloboTech Communications|
+|11|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|13|72.10.160.90|5431|Canada|Montreal|GloboTech Communications|
+|14|152.26.231.93|9443|United States|Concord|MCNC|
+|15|152.26.231.42|9443|United States|Concord|MCNC|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|103.243.177.90|8080|Indonesia|Kalicari|Universitas Katolik Soegijapranata|
+|18|152.26.231.83|9443|United States|Concord|MCNC|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
 
 
 
