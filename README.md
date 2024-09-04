@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|47.243.55.21|8118|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|9|116.104.129.231|5000|Vietnam|Hanoi|Viettel Corporation|
-|10|192.203.0.122|999|Puerto Rico|Fajardo|Boom NET|
-|11|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
 |14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |16|152.26.229.47|9443|United States|Concord|MCNC|
-|17|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|27.147.218.162|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|19|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|20|72.10.164.178|20245|Canada|Montreal|GloboTech Communications|
+|17|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|117.40.32.133|8080|China|Taohua|Chinanet|
+|20|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
