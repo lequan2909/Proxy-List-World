@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|103.169.38.118|8080|Indonesia|Klaten|PT Boombas Carlo Medianet|
-|5|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|6|50.205.202.249|3128|United States|Kemah|Comcast Cable Communications, LLC|
-|7|190.61.101.73|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|50.205.202.249|3128|United States|Kemah|Comcast Cable Communications, LLC|
-|10|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|14|70.90.138.109|8080|United States|Fraser|Comcast Cable Communications, LLC|
-|15|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|15.204.161.192|18080|United States|Reston|OVH SAS|
-|17|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|19|103.234.159.5|8080|India|Bengaluru|MWPL|
-|20|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|54.92.7.81|3128|Japan|Tokyo|Amazon Technologies Inc|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|54.179.173.215|3128|Singapore|Singapore|Amazon.com, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|12|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|13|103.69.20.89|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|14|3.250.226.194|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|50.205.202.249|3128|United States|Kemah|Comcast Cable Communications, LLC|
+|18|138.2.58.57|8118|Japan|Osaka|Oracle Corporation|
+|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
 
 
 
