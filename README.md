@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|152.26.229.93|9443|United States|Concord|MCNC|
-|7|182.252.70.220|8082|Bangladesh|Kāfrul|Agni Systems Limited|
-|8|152.26.231.42|9443|United States|Concord|MCNC|
-|9|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|10|72.10.164.178|18451|Canada|Montreal|GloboTech Communications|
-|11|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
-|12|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
-|13|176.36.235.47|8087|Ukraine|Kyiv|Lanet Network|
-|14|152.26.231.83|9443|United States|Concord|MCNC|
-|15|103.114.52.130|8080|Indonesia|Boyolali|Proxy-registered|
-|16|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|17|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|18|103.189.116.109|8080|Indonesia|Temanggung|PT Callysta Total Solusindo|
-|19|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|152.26.229.93|9443|United States|Concord|MCNC|
+|6|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|7|152.26.231.42|9443|United States|Concord|MCNC|
+|8|103.245.16.140|8080|Indonesia|Depok|PT Quantum Tera Network|
+|9|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|10|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
+|11|195.54.171.228|25124|Hong Kong|Hong Kong|M247 Europe SRL|
+|12|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
+|13|152.26.231.83|9443|United States|Concord|MCNC|
+|14|103.77.16.190|80|Bangladesh|Kushtia|ICC Communication Ltd|
+|15|72.10.164.178|32847|Canada|Montreal|GloboTech Communications|
+|16|27.121.82.102|8080|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
+|17|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|72.10.164.178|32847|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
