@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|6|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|4|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|119.42.86.199|8080|Thailand|Bang Rak|CAT-BB|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|213.130.144.225|3128|France|Paris|Hostinger International Limited|
 |8|139.84.145.23|3129|India|Bengaluru|The Constant Company, LLC|
-|9|103.189.116.115|8080|Indonesia|Temanggung|PT Callysta Total Solusindo|
-|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|12|103.197.241.55|32650|Cambodia|Phnom Penh|COGETEL Co., Ltd|
+|9|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|103.67.90.25|8181|Indonesia|Cihaseum|PT Soultan Network Indonesia|
+|11|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |13|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|14|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|15|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|103.156.15.64|1080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|17|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|15.204.161.192|18080|United States|Reston|OVH SAS|
-|19|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|20|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|103.65.238.51|8080|Indonesia|Medan|PT Media Alvina Sejati|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|5.32.37.218|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
+|17|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|20|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
