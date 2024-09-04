@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|152.26.229.93|9443|United States|Concord|MCNC|
-|7|152.26.229.83|9443|United States|Concord|MCNC|
-|8|67.43.236.20|30465|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|4009|Canada|Montreal|GloboTech Communications|
-|10|120.202.162.210|80|China|Guangzhou|China Mobile communications corporation|
-|11|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|152.26.231.94|9443|United States|Concord|MCNC|
-|14|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|17|67.43.236.20|30465|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.34|9443|United States|Concord|MCNC|
-|19|72.10.164.178|4009|Canada|Montreal|GloboTech Communications|
-|20|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|171.241.206.3|5108|Vietnam|Thanh Hóa|Viettel Corporation|
+|11|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|152.26.229.93|9443|United States|Concord|MCNC|
+|13|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|14|152.26.229.83|9443|United States|Concord|MCNC|
+|15|88.135.210.179|8080|Ukraine|Ivano-Frankivsk|Uteam LTD|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|19|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|152.26.229.34|9443|United States|Concord|MCNC|
 
 
 
