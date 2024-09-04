@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|20.119.77.88|8154|United States|Boydton|Microsoft Corporation|
-|11|27.112.70.155|8083|Indonesia|Jakarta|GRAHANET|
-|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|15|36.93.32.137|8080|Indonesia|Tangerang|Telekomunikasi Indonesia|
-|16|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|198.13.52.240|18080|Japan|Motoyoyogichō|The Constant Company|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|27.71.150.175|8080|Vietnam|Huế|Viettel Group|
+|11|162.254.38.91|3128|United States|Los Angeles|Namecheap, Inc.|
+|12|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|20.119.77.88|8154|United States|Boydton|Microsoft Corporation|
+|14|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
+|16|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
+|17|15.204.161.192|18080|United States|Reston|OVH SAS|
+|18|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|19|198.13.52.240|18080|Japan|Motoyoyogichō|The Constant Company|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
