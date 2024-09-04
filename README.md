@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|4|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|143.0.243.70|8080|Brazil|São Gonçalo|Nova Info Internet e Telecomunicações LTDA|
-|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|213.130.144.225|3128|France|Paris|Hostinger International Limited|
-|12|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|13|119.42.86.199|8080|Thailand|Bang Rak|CAT-BB|
-|14|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|45.177.179.65|999|Mexico|San Luis Potosí City|Wantelco SAS de CV|
-|16|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|17|111.68.26.237|8080|Indonesia|Yogyakarta|GMEDIA|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|152.26.231.42|9443|United States|Concord|MCNC|
-|20|103.234.159.5|8080|India|Bengaluru|MWPL|
+|6|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|8|213.130.144.225|3128|France|Paris|Hostinger International Limited|
+|9|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|13|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|103.47.175.161|83|India|Srīnagar|Precious netcom pvt ltd|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|72.10.164.178|6493|Canada|Montreal|GloboTech Communications|
 
 
 
