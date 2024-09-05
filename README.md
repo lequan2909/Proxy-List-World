@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|5|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|7|139.255.67.54|3888|Indonesia|Jakarta|PT. LINKNET|
-|8|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|152.26.231.93|9443|United States|Concord|MCNC|
-|11|152.26.229.93|9443|United States|Concord|MCNC|
-|12|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
-|13|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|152.26.229.34|9443|United States|Concord|MCNC|
-|15|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|222.129.139.112|9000|China|Beijing|China Unicom Beijing Province Network|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|72.10.160.172|29953|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|4719|Canada|Montreal|GloboTech Communications|
+|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|6|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|152.26.231.93|9443|United States|Concord|MCNC|
+|10|152.26.229.93|9443|United States|Concord|MCNC|
+|11|152.26.229.34|9443|United States|Concord|MCNC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|152.26.231.94|9443|United States|Concord|MCNC|
+|16|112.17.10.41|3128|China|Hangzhou|China Mobile Communications Corporation|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|62.40.157.231|32650|Austria|Wilhelmsburg|Kabelsignal AG|
+|19|152.26.229.47|9443|United States|Concord|MCNC|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
