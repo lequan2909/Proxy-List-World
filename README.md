@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|27.74.124.53|5101|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|87.103.208.200|3128|Russia|Belovo|Kuzbass Network|
-|8|103.106.219.132|1111|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
-|9|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|64.225.96.122|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
-|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|14|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|15|45.174.57.22|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
-|16|103.168.44.105|3127|Indonesia|Jakarta|PT CYB Media Group|
-|17|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|20|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|173.249.60.246|14344|Germany|Nuremberg|Contabo GmbH|
+|6|87.103.208.200|3128|Russia|Belovo|Kuzbass Network|
+|7|202.154.36.21|8080|Indonesia|Surabaya|RADNET-BDG|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.166.158.201|8080|Indonesia|Bekasi|PT Timor Lintas Nusantara|
+|10|88.87.89.180|8181|Russia|Volgograd|CJSC "ER-Telecom Holding" Volgograd branch|
+|11|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|13|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|14|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|152.26.229.42|9443|United States|Concord|MCNC|
+|16|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|17|152.26.231.83|9443|United States|Concord|MCNC|
+|18|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
