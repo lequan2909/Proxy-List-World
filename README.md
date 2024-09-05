@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
-|2|178.128.118.29|8888|Singapore|Singapore|DigitalOcean, LLC|
+|1|171.6.73.171|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|195.54.171.228|25124|Hong Kong|Hong Kong|M247 Europe SRL|
-|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
-|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|9|117.40.32.133|8080|China|Taohua|Chinanet|
-|10|45.188.156.121|8088|Brazil|Teresina|Marcelo & Renato Digital Net LTDA|
-|11|106.227.87.11|3128|China|Taohua|China Telecom|
-|12|24.34.197.15|8080|United States|Wayland|Comcast Cable Communications|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|24.34.197.15|8080|United States|Wayland|Comcast Cable Communications|
-|16|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|164.92.167.4|1194|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|103.77.16.190|80|Bangladesh|Kushtia|ICC Communication Ltd|
+|4|190.60.35.50|8080|Colombia|Zipaquirá|IFX NETWORKS COLOMBIA|
+|5|45.249.122.198|8080|India|Coimbatore|Airconnect Services|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|8|177.221.44.113|49999|Brazil|Jaboatão dos Guararapes|1telecom Servicos De Tecnologia EM Internet Ltda|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|106.227.87.11|3128|China|Taohua|China Telecom|
+|11|14.142.36.210|1111|India|Navi Mumbai|Tata Communications Limited|
+|12|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|13|117.40.32.133|8080|China|Taohua|Chinanet|
+|14|223.31.56.194|8080|India|Chennai|Sify Limited|
+|15|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|16|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|17|103.165.156.148|8090|Indonesia|Jember|MEGADATA-ISP|
+|18|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|19|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
+|20|186.0.144.141|9595|Brazil|Araçatuba|Tellius Telecomunicacoes DAS Americas Ltda|
 
 
 
