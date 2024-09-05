@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|163.172.33.137|4003|France|Vitry-sur-Seine|Online S.A.S.|
-|5|201.17.17.35|8080|Brazil|Rio de Janeiro|Claro NXT Telecomunicacoes Ltda|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|220.130.186.59|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|9|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|152.26.231.83|9443|United States|Concord|MCNC|
-|13|179.32.62.127|999|Colombia|Medellín|Colombia Telecomunicaciones S.a. ESP|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|152.26.229.83|9443|United States|Concord|MCNC|
-|16|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|17|103.186.91.39|8989|Indonesia|Jepara|PT Akses Data Internusa|
-|18|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
-|19|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|103.107.84.191|8080|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
+|5|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|152.26.231.83|9443|United States|Concord|MCNC|
+|9|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|10|152.26.229.42|9443|United States|Concord|MCNC|
+|11|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|12|152.26.229.83|9443|United States|Concord|MCNC|
+|13|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|191.97.16.126|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
+|18|38.159.232.6|8080|Dominican Republic|Santiago de los Caballeros|Lightwave S.R.L|
+|19|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
 
 
 
