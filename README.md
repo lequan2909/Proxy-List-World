@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|106.227.87.11|3128|China|Taohua|China Telecom|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|152.26.229.93|9443|United States|Concord|MCNC|
-|7|72.10.164.178|7405|Canada|Montreal|GloboTech Communications|
-|8|152.26.231.83|9443|United States|Concord|MCNC|
-|9|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|10|103.143.168.130|84|India|Hyderabad|Aspt Networks Pvt Ltd|
-|11|72.10.160.171|3611|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|3703|Canada|Montreal|GloboTech Communications|
-|13|103.133.27.247|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|14|152.26.229.34|9443|United States|Concord|MCNC|
-|15|117.40.32.134|8080|China|Taohua|Chinanet|
-|16|67.43.236.18|5261|Canada|Montreal|GloboTech Communications|
-|17|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|18|67.43.227.227|32607|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|3703|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|32607|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|95.216.218.146|3128|Finland|Helsinki|Hetzner Online GmbH|
+|8|157.10.157.2|8080|Indonesia|Jakarta|Dinas Komunikasi dan Informatika Kabupaten Ciamis|
+|9|152.26.229.93|9443|United States|Concord|MCNC|
+|10|152.26.231.83|9443|United States|Concord|MCNC|
+|11|200.39.120.81|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|12|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|13|152.26.229.34|9443|United States|Concord|MCNC|
+|14|103.48.71.26|83|India|Hyderabad|Country Online Services PVT LTD|
+|15|72.10.160.171|3611|Canada|Montreal|GloboTech Communications|
+|16|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
+|18|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|116.96.101.32|5121|Vietnam|Hanoi|Viettel Corporation|
+|20|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
 
 
 
