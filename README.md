@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|171.245.116.177|5000|Vietnam|Quảng Ninh|Viettel Corporation|
+|3|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|147.50.140.182|8080|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|6|202.144.139.201|8080|Bhutan|Thimphu|Bhutan Telecom Ltd|
-|7|45.185.163.111|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
-|10|103.40.121.33|8089|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
-|11|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|13|113.161.187.190|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|14|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|152.26.231.86|9443|United States|Concord|MCNC|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|20|152.26.229.34|9443|United States|Concord|MCNC|
+|6|124.107.144.249|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|7|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|8|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|11|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|152.26.231.86|9443|United States|Concord|MCNC|
+|13|152.26.231.42|9443|United States|Concord|MCNC|
+|14|120.202.162.210|80|China|Guangzhou|China Mobile communications corporation|
+|15|152.26.229.34|9443|United States|Concord|MCNC|
+|16|112.17.10.41|3128|China|Hangzhou|China Mobile Communications Corporation|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
