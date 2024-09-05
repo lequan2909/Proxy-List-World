@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|147.50.140.182|8080|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
 |3|85.172.174.30|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|204.199.202.132|999|Mexico|Teotihuacán|Cirion Technologies Solutions|
-|9|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|103.111.136.82|8080|Indonesia|Samarinda|PT Mitra Lintas Multimedia|
-|12|72.10.164.178|1225|Canada|Montreal|GloboTech Communications|
-|13|152.26.229.47|9443|United States|Concord|MCNC|
-|14|103.173.138.218|8080|Indonesia|Babat|PT Serayu Multi Connection|
-|15|111.1.61.52|3128|China|Wenzhou|China Mobile communications corporation|
-|16|152.26.231.94|9443|United States|Concord|MCNC|
-|17|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|18|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|20|72.10.160.170|16211|Canada|Montreal|GloboTech Communications|
+|6|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|85.118.117.165|8080|Georgia|Tbilisi|EGRISI|
+|9|212.200.39.210|8080|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
+|10|113.161.187.190|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|11|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|152.26.229.47|9443|United States|Concord|MCNC|
+|16|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|152.26.231.94|9443|United States|Concord|MCNC|
+|19|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|163.172.33.137|4000|France|Vitry-sur-Seine|Online S.A.S.|
 
 
 
