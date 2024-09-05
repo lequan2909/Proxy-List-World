@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|124.104.149.53|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|6|103.143.168.130|84|India|Hyderabad|Aspt Networks Pvt Ltd|
-|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
+|4|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|181.114.61.17|8085|Argentina|Ramallo|INTERAIR|
+|6|212.110.188.204|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|7|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|8|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|11|152.26.229.83|9443|United States|Concord|MCNC|
 |12|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|152.26.229.83|9443|United States|Concord|MCNC|
-|14|152.26.231.86|9443|United States|Concord|MCNC|
-|15|72.10.164.178|1053|Canada|Montreal|GloboTech Communications|
-|16|27.121.82.102|8080|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
-|17|152.26.229.93|9443|United States|Concord|MCNC|
-|18|72.10.164.178|1053|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.93|9443|United States|Concord|MCNC|
-|20|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|13|152.26.231.86|9443|United States|Concord|MCNC|
+|14|152.26.229.93|9443|United States|Concord|MCNC|
+|15|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|16|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|17|152.26.231.93|9443|United States|Concord|MCNC|
+|18|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|72.10.164.178|1053|Canada|Montreal|GloboTech Communications|
 
 
 
