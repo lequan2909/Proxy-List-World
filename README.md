@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|6|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|103.81.195.194|8088|Indonesia|Bogor|PT Rtiga Global Media|
-|12|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|13|67.43.227.227|24553|Canada|Montreal|GloboTech Communications|
-|14|103.149.238.27|3128|Indonesia|Pasuruan|PT BITNIAGA CIPTA GEMILANG|
-|15|72.10.160.170|13767|Canada|Montreal|GloboTech Communications|
-|16|152.26.231.86|9443|United States|Concord|MCNC|
-|17|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|18|67.43.228.250|9815|Canada|Montreal|GloboTech Communications|
-|19|85.118.117.165|8080|Georgia|Tbilisi|EGRISI|
-|20|117.68.38.138|30000|China|Hefei|China Telecom|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|11|152.26.231.86|9443|United States|Concord|MCNC|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|14|72.10.160.170|24461|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|22309|Canada|Montreal|GloboTech Communications|
+|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|17|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|18|85.172.174.30|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|19|72.10.164.178|22309|Canada|Montreal|GloboTech Communications|
+|20|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
 
 
 
