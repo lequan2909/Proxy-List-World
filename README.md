@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|46.250.255.227|8000|Japan|Tokyo|Contabo Asia Private Limited|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |3|147.50.140.182|8080|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
 |4|85.172.174.30|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|5|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|186.97.192.60|999|Colombia|Medellín|Colombia Móvil|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|120.202.162.210|80|China|Guangzhou|China Mobile communications corporation|
-|12|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|152.26.229.34|9443|United States|Concord|MCNC|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|72.10.164.178|8763|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.254|32077|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.86|9443|United States|Concord|MCNC|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|110.49.110.45|8080|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
+|7|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|103.143.169.153|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|10|147.50.140.182|8080|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|11|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|103.145.68.77|8080|Indonesia|Sumenep|ALFANET|
+|14|152.26.229.34|9443|United States|Concord|MCNC|
+|15|152.26.229.42|9443|United States|Concord|MCNC|
+|16|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |18|152.26.231.42|9443|United States|Concord|MCNC|
-|19|152.26.229.47|9443|United States|Concord|MCNC|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
 |20|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
