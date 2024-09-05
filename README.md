@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|81.19.141.2|3128|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|5|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|103.159.194.121|8080|Indonesia|Temanjang|PT Giga Digital Nusantara|
-|7|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|185.44.232.30|53281|Spain|Alcobendas|AVATEL TELECOM, SA|
-|9|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|67.43.227.227|29627|Canada|Montreal|GloboTech Communications|
-|12|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|152.26.231.94|9443|United States|Concord|MCNC|
-|14|67.43.236.20|18927|Canada|Montreal|GloboTech Communications|
-|15|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.164.178|14535|Canada|Montreal|GloboTech Communications|
-|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|18|82.137.244.221|8080|Syria|Damascus|ISP-TARASSUL|
-|19|67.43.236.18|14125|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|27.64.68.213|32650|Vietnam|Ho Chi Minh City|Viettel Group|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|103.169.129.4|1111|Indonesia|Cirebon|PT Media Akses Data|
+|9|190.61.80.98|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
+|10|120.28.189.82|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|11|24.144.84.1|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|13|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|14|103.83.18.149|8080|Australia|South Brisbane|Asia Pacific Network Information Center|
+|15|103.186.90.41|8080|Indonesia|Jepara|PT Akses Data Internusa|
+|16|190.72.102.42|999|Venezuela|Caracas|CANTV Servicios, Venezuela|
+|17|83.171.122.21|8080|Russia|Petrozavodsk|Rostelecom networks|
+|18|116.96.101.32|5121|Vietnam|Hanoi|Viettel Corporation|
+|19|103.154.230.107|8080|Indonesia|Lamongan|DIGITNET|
+|20|24.144.84.1|3128|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
