@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|202.93.244.54|8085|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
-|5|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
-|6|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|119.47.90.76|8080|Indonesia|Batang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|8|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|9|120.202.162.210|80|China|Guangzhou|China Mobile communications corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |10|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|152.26.229.42|9443|United States|Concord|MCNC|
 |13|152.26.229.34|9443|United States|Concord|MCNC|
-|14|203.190.46.127|8090|Indonesia|Sleman|PT Jaring Lintas Utara|
-|15|72.10.160.172|7919|Canada|Montreal|GloboTech Communications|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|67.43.227.226|27829|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.172|7919|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.19|10363|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|27829|Canada|Montreal|GloboTech Communications|
+|14|120.202.162.210|80|China|Guangzhou|China Mobile communications corporation|
+|15|200.24.157.121|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|16|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
+|20|152.26.231.94|9443|United States|Concord|MCNC|
 
 
 
