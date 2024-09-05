@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
-|6|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|7|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|9|190.52.108.248|6666|Venezuela|Porlamar|Gold Data USA Inc|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|103.167.171.216|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
-|14|23.162.160.1|16099|United States|McAllen|SMARTCOM TELEPHONE, LLC|
-|15|202.154.36.21|8080|Indonesia|Surabaya|RADNET-BDG|
-|16|129.153.113.206|8118|United States|Phoenix|Oracle Corporation|
-|17|179.125.51.54|27234|Brazil|Duque de Caxias|Via Link Telecomunicacoes|
-|18|42.113.88.14|8080|Vietnam|Vĩnh Long|FPT Telecom Company|
-|19|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|9|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|103.154.230.124|8080|Indonesia|Lamongan|DIGITNET|
+|13|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|16|45.184.224.194|999|Ecuador|Quito|Media Commerce Medcomm S.A|
+|17|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
+|19|157.10.97.167|8080|Indonesia|Bengkulu|PT Lintas Jaringan Nusantara|
+|20|36.92.44.82|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
 
 
 
