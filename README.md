@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|118.99.127.1|8080|Indonesia|Malang|Biznet Metronet|
-|2|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|7|152.26.231.83|9443|United States|Concord|MCNC|
-|8|117.40.32.133|8080|China|Taohua|Chinanet|
-|9|117.40.32.134|8080|China|Taohua|Chinanet|
-|10|103.250.130.106|8085|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|11|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|117.40.32.133|8080|China|Taohua|Chinanet|
-|14|67.43.228.253|10275|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.226|6725|Canada|Montreal|GloboTech Communications|
-|16|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
-|17|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
-|18|152.26.231.93|9443|United States|Concord|MCNC|
-|19|103.81.64.85|8080|Indonesia|Bandar Lampung|QIUNET|
-|20|67.43.227.227|1121|Canada|Montreal|GloboTech Communications|
+|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|118.99.127.1|8080|Indonesia|Malang|Biznet Metronet|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|8|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
+|9|117.40.32.133|8080|China|Taohua|Chinanet|
+|10|152.26.231.83|9443|United States|Concord|MCNC|
+|11|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|12|117.40.32.133|8080|China|Taohua|Chinanet|
+|13|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|117.40.32.134|8080|China|Taohua|Chinanet|
+|15|103.243.177.90|8080|Indonesia|Kalicari|Universitas Katolik Soegijapranata|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|152.26.231.93|9443|United States|Concord|MCNC|
+|18|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|103.51.21.165|8080|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
+|20|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
