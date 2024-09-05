@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5332** proxies at the latest update. Usable proxies are below.
+> Scraper found **5350** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|129|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|744|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|762|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|89|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3412|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|124.107.144.249|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.173.138.218|8080|Indonesia|Babat|PT Serayu Multi Connection|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|120.202.162.210|80|China|Guangzhou|China Mobile communications corporation|
-|10|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|12|15.235.171.196|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
-|13|152.26.231.93|9443|United States|Concord|MCNC|
-|14|152.26.229.86|9443|United States|Concord|MCNC|
-|15|152.26.229.93|9443|United States|Concord|MCNC|
-|16|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
-|17|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|152.26.229.47|9443|United States|Concord|MCNC|
-|19|152.26.231.94|9443|United States|Concord|MCNC|
-|20|152.26.231.83|9443|United States|Concord|MCNC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|171.245.116.177|5000|Vietnam|Quảng Ninh|Viettel Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|124.107.144.249|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|5|167.250.222.233|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|6|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|103.81.64.85|8080|Indonesia|Bandar Lampung|QIUNET|
+|8|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|125.25.82.48|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|11|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|152.26.231.86|9443|United States|Concord|MCNC|
+|14|103.77.16.190|80|Bangladesh|Kushtia|ICC Communication Ltd|
+|15|152.26.229.34|9443|United States|Concord|MCNC|
+|16|185.139.56.133|6961|Georgia|Tbilisi|datacenter|
+|17|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|45.185.163.111|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
