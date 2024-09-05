@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
-|3|103.46.4.101|8080|Indonesia|Pekanbaru|PT Akses Sentral Teknologi|
-|4|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|9|106.227.87.11|3128|China|Taohua|China Telecom|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|117.40.32.133|8080|China|Taohua|Chinanet|
-|12|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|15|101.255.117.197|8085|Indonesia|Jakarta|PT Remala Abadi|
-|16|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|18|27.72.244.228|8080|Vietnam|Hanoi|Newass2011xDSLHN|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|195.54.171.228|25124|Hong Kong|Hong Kong|M247 Europe SRL|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|27.147.142.138|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|10|106.227.87.11|3128|China|Taohua|China Telecom|
+|11|27.72.244.228|8080|Vietnam|Hanoi|Newass2011xDSLHN|
+|12|119.18.149.9|5020|Bangladesh|Chittagong|BBTS Network|
+|13|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|14|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|15|93.125.3.22|8080|Belarus|Minsk|TELECOMAT|
+|16|124.105.24.80|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|17|182.160.124.214|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
 |19|152.26.229.93|9443|United States|Concord|MCNC|
 |20|152.26.229.47|9443|United States|Concord|MCNC|
 
