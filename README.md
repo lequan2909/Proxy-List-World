@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|181.224.205.42|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
-|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|10|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|103.19.59.10|8080|Indonesia|Ngawi|BITSNET|
+|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|7|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|9|159.255.163.153|47193|Iraq|Erbil|Tarin General Trading and Setting Up Internet Device LTD|
+|10|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |12|152.26.229.34|9443|United States|Concord|MCNC|
-|13|152.26.231.93|9443|United States|Concord|MCNC|
-|14|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|198.91.163.172|808|Canada|Richmond Hill|Distributel Communications Limited|
-|20|67.43.227.227|29389|Canada|Montreal|GloboTech Communications|
+|13|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|14|198.91.163.172|808|Canada|Richmond Hill|Distributel Communications Limited|
+|15|152.26.231.93|9443|United States|Concord|MCNC|
+|16|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|17|181.224.205.42|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
+|18|170.238.104.213|8080|Brazil|São Fidélis|Ubbinet Provedor de Servicos de Internet Ltda ME|
+|19|152.26.231.94|9443|United States|Concord|MCNC|
+|20|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
 
 
 
