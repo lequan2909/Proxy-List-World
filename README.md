@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
 |3|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
 |4|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|85.94.24.29|1488|Russia|Noginsk|PJSC Rostelecom|
-|6|103.46.10.100|8080|Indonesia|Malang|Lintas Data Prima, PT|
-|7|24.112.3.220|8080|United States|Durant|Vyve Broadband|
-|8|182.253.93.4|53281|Indonesia|Jakarta Pusat|BIZNET|
-|9|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|157.66.84.27|8181|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
-|11|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|152.26.229.46|9443|United States|Concord|MCNC|
-|15|152.26.231.94|9443|United States|Concord|MCNC|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|152.26.229.93|9443|United States|Concord|MCNC|
-|18|72.10.164.178|2899|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|32729|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|103.143.169.9|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|6|203.177.216.158|8080|Philippines|Taguig|SIEMENS|
+|7|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|9|152.26.229.46|9443|United States|Concord|MCNC|
+|10|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|41.180.70.2|8080|South Africa|Johannesburg|X-DSL Networking Solutions|
+|12|152.26.229.93|9443|United States|Concord|MCNC|
+|13|176.121.48.97|23500|Russia|Zhavoronki|ZAO Greenline|
+|14|152.26.231.94|9443|United States|Concord|MCNC|
+|15|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|72.10.160.90|7249|Canada|Montreal|GloboTech Communications|
+|20|199.195.253.213|3128|United States|New York|FranTech Solutions|
 
 
 
