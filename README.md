@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
 |5|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|6|45.70.203.107|999|Ecuador|Quito|Ufinet Panama S.A.|
-|7|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|181.119.67.73|999|Colombia|Barrancabermeja|IFX Networks Argentina S.R.L|
-|9|106.227.87.11|3128|China|Taohua|China Telecom|
-|10|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|152.26.229.93|9443|United States|Concord|MCNC|
-|12|157.10.157.2|8080|Indonesia|Jakarta|Dinas Komunikasi dan Informatika Kabupaten Ciamis|
-|13|152.26.229.83|9443|United States|Concord|MCNC|
-|14|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
-|15|152.26.229.47|9443|United States|Concord|MCNC|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|72.10.160.90|15945|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|5089|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.86|9443|United States|Concord|MCNC|
-|20|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|6|103.158.121.66|1080|Indonesia|Indramayu|CDN|
+|7|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|103.133.27.247|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
+|12|222.127.246.81|8082|Philippines|Iloilo City|GLBB|
+|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|14|152.26.229.93|9443|United States|Concord|MCNC|
+|15|152.26.229.42|9443|United States|Concord|MCNC|
+|16|103.176.97.166|8080|Indonesia|Purwakarta|PT Global Sarana Elektronika|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
+|18|177.93.36.74|3128|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
+|19|152.26.229.47|9443|United States|Concord|MCNC|
+|20|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
