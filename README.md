@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|197.155.230.206|8080|Zimbabwe|Bulawayo|Liquid Telecommunications Ltd|
-|8|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|152.26.229.93|9443|United States|Concord|MCNC|
-|10|152.26.231.94|9443|United States|Concord|MCNC|
-|11|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|13|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|14|72.10.160.173|13403|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.46|9443|United States|Concord|MCNC|
-|16|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
-|17|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
+|1|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|190.53.46.11|38525|Nicaragua|Ticuantepe|Amnet Telecomunicaciones S.A.|
+|5|124.107.144.249|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|6|85.172.174.30|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|7|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|177.234.192.223|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|10|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|5.83.244.1|8080|Ireland|Roscommon|EURONA-BRISKNET|
+|12|204.199.202.132|999|Mexico|Teotihuacán|Cirion Technologies Solutions|
+|13|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|95.154.20.113|34248|Denmark|Ribe|SYD ENERGI|
+|15|152.26.229.93|9443|United States|Concord|MCNC|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 |19|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 
 
 
