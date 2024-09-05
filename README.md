@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|15.235.171.245|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
-|7|139.84.144.55|3129|India|Bengaluru|The Constant Company, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|177.37.114.5|3128|Brazil|Cataguases|Brasilnet Telecomunicações Ltda ME|
-|11|103.84.208.170|8080|Indonesia|Padang|CINOXMEDIANET|
-|12|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|13|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|14|190.61.80.98|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
-|15|103.76.151.74|8089|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|16|158.140.177.206|8080|Indonesia|South Tangerang|MYREPUBLIC|
-|17|87.247.186.40|1080|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|18|24.144.84.1|3128|United States|Santa Clara|DigitalOcean, LLC|
-|19|182.160.124.214|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|20|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|116.111.239.7|5109|Vietnam|Tam Kỳ|Viettel Corporation|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|116.96.101.32|5121|Vietnam|Hanoi|Viettel Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|120.28.189.82|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|9|187.190.99.229|8080|Mexico|Valle de Santiago|Total Play Telecomunicaciones SA De CV|
+|10|103.84.208.170|8080|Indonesia|Padang|CINOXMEDIANET|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|182.160.124.214|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|13|152.26.229.34|9443|United States|Concord|MCNC|
+|14|190.95.183.242|2020|Ecuador|General Villamil|Telconet S.A|
+|15|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|16|72.10.164.178|6663|Canada|Montreal|GloboTech Communications|
+|17|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|46.243.71.2|8888|Slovakia|Michalovce|Minet s.r.o.|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
