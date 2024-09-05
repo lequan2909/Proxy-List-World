@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|393|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|393|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|393|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|198.13.52.240|18080|Japan|Motoyoyogichō|The Constant Company|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|101.255.209.242|8080|Indonesia|Jakarta|PT Remala Abadi|
-|10|103.69.20.99|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|89.168.49.75|3128|France|Paris|Oracle Corporation|
-|14|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|15|152.26.229.34|9443|United States|Concord|MCNC|
-|16|120.202.162.210|80|China|Guangzhou|China Mobile communications corporation|
-|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|18|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|152.26.229.93|9443|United States|Concord|MCNC|
-|20|152.26.229.42|9443|United States|Concord|MCNC|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|167.71.110.174|8118|United States|Clifton|DigitalOcean, LLC|
+|7|112.198.130.51|8082|Philippines|Nasugbu|Globe Telecom|
+|8|203.79.29.150|8080|Indonesia|Surabaya|PT Surya Global Teknologi|
+|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|11|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|12|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|152.26.229.34|9443|United States|Concord|MCNC|
+|15|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|16|190.124.160.147|8080|Honduras|San Pedro Sula|Redes y Telecomunicaciones|
+|17|120.202.162.210|80|China|Guangzhou|China Mobile communications corporation|
+|18|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
+|19|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|103.76.151.74|8089|Indonesia|Cibinong|PT. Java Digital Nusantara|
 
 
 
