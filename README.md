@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|5|98.147.60.146|48678|United States|Wahiawa|Spectrum|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|3|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|4|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|5|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 |6|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|7|91.200.161.250|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|58.69.117.2|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|36.91.135.141|40|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
-|13|74.62.179.122|8080|United States|Montebello|Charter Communications Inc|
+|7|112.198.179.242|8082|Philippines|Carmona|Globe Telecom|
+|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|9|98.147.60.146|48678|United States|Wahiawa|Spectrum|
+|10|85.119.120.55|8080|Malta|Birkirkara|Melita Ltd|
+|11|200.32.51.179|8080|Argentina|Mercedes|Telefonica de Argentina|
+|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|13|187.103.105.22|8999|Brazil|Blumenau|BR.Digital Provider|
 |14|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|16|152.26.229.47|9443|United States|Concord|MCNC|
-|17|152.26.229.83|9443|United States|Concord|MCNC|
+|15|38.156.75.234|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |18|152.26.229.46|9443|United States|Concord|MCNC|
-|19|177.93.44.227|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|20|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|19|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|20|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 
 
 
