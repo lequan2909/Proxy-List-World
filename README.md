@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|36.91.15.241|8080|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|24.34.197.15|8080|United States|Wayland|Comcast Cable Communications|
+|5|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
 |6|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|79.106.170.34|8989|Albania|Tirana|ONE ALBANIA SH.A.|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
-|13|103.245.16.35|8080|Indonesia|Depok|PT Quantum Tera Network|
-|14|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|15|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|106.227.87.11|3128|China|Taohua|China Telecom|
-|18|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|7|24.34.197.15|8080|United States|Wayland|Comcast Cable Communications|
+|8|171.6.73.171|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|9|178.128.118.29|8888|Singapore|Singapore|DigitalOcean, LLC|
+|10|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|14.142.36.210|1111|India|Navi Mumbai|Tata Communications Limited|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|17|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|18|61.29.96.146|80|Australia|Melbourne|AAPT Limited|
+|19|43.252.237.210|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
