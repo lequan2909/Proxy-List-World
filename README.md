@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|4|200.119.218.94|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|5|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|6|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|7|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|122.210.119.110|32323|Japan|Yokohama|ARTERIA Networks Corporation|
-|10|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
-|11|111.68.26.237|8080|Indonesia|Yogyakarta|GMEDIA|
-|12|152.26.229.86|9443|United States|Concord|MCNC|
-|13|72.10.160.90|18889|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|2141|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.173|27855|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.171|9927|Canada|Montreal|GloboTech Communications|
-|17|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|18|67.43.227.227|14543|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.93|9443|United States|Concord|MCNC|
-|20|69.197.135.43|34445|United States|Kansas City|WholeSale Internet|
+|2|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|3|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|5|182.160.124.214|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|6|152.26.229.86|9443|United States|Concord|MCNC|
+|7|103.51.21.165|8080|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
+|8|72.10.160.171|9927|Canada|Montreal|GloboTech Communications|
+|9|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|11|27.147.218.162|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|12|72.10.160.173|17611|Canada|Montreal|GloboTech Communications|
+|13|152.26.231.93|9443|United States|Concord|MCNC|
+|14|72.10.164.178|4755|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|4755|Canada|Montreal|GloboTech Communications|
+|16|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
+|17|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|118.117.190.91|8089|China|Muping|Chinanet|
+|19|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|20|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
 
 
 
