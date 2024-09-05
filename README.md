@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|181.114.62.1|8085|Argentina|Ramallo|INTERAIR|
-|5|152.26.231.42|9443|United States|Concord|MCNC|
-|6|152.26.229.83|9443|United States|Concord|MCNC|
-|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|114.7.160.142|8080|Indonesia|Tangerang|PT. INDOSAT Tbk|
-|9|72.10.164.178|24983|Canada|Montreal|GloboTech Communications|
-|10|152.26.229.47|9443|United States|Concord|MCNC|
-|11|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|200.119.218.94|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|13|72.10.164.178|24983|Canada|Montreal|GloboTech Communications|
-|14|131.100.51.45|999|Colombia|Neiva|Fibernet TV SAS|
-|15|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.164.178|24983|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|18679|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|17969|Canada|Montreal|GloboTech Communications|
-|19|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|36.95.78.156|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|177.93.36.74|3128|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
+|7|181.114.62.1|8085|Argentina|Ramallo|INTERAIR|
+|8|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|152.26.231.42|9443|United States|Concord|MCNC|
+|10|152.26.229.83|9443|United States|Concord|MCNC|
+|11|103.143.168.130|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|12|181.114.61.17|8085|Argentina|Ramallo|INTERAIR|
+|13|152.26.229.47|9443|United States|Concord|MCNC|
+|14|72.10.160.91|31697|Canada|Montreal|GloboTech Communications|
+|15|103.55.159.51|6060|Indonesia|Sumbawa Besar|PT TELIO INTI NUSA|
+|16|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|67.43.227.226|31345|Canada|Montreal|GloboTech Communications|
+|18|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
+|19|72.10.160.90|17061|Canada|Montreal|GloboTech Communications|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
