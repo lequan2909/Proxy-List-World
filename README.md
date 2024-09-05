@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5219** proxies at the latest update. Usable proxies are below.
+> Scraper found **5202** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|131|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|637|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|132|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|619|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|207|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3286|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.81.64.85|8080|Indonesia|Bandar Lampung|QIUNET|
-|6|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|152.26.229.42|9443|United States|Concord|MCNC|
-|11|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|12|152.26.229.47|9443|United States|Concord|MCNC|
-|13|152.26.231.42|9443|United States|Concord|MCNC|
-|14|152.26.231.83|9443|United States|Concord|MCNC|
-|15|152.26.229.46|9443|United States|Concord|MCNC|
-|16|152.26.229.34|9443|United States|Concord|MCNC|
-|17|152.26.231.94|9443|United States|Concord|MCNC|
-|18|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|27.147.218.162|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|20|103.82.8.242|8989|Bangladesh|Dhaka|FNF Online|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|163.172.33.137|4003|France|Vitry-sur-Seine|Online S.A.S.|
+|5|201.17.17.35|8080|Brazil|Rio de Janeiro|Claro NXT Telecomunicacoes Ltda|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|220.130.186.59|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|9|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|152.26.231.83|9443|United States|Concord|MCNC|
+|13|179.32.62.127|999|Colombia|Medellín|Colombia Telecomunicaciones S.a. ESP|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
+|15|152.26.229.83|9443|United States|Concord|MCNC|
+|16|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|103.186.91.39|8989|Indonesia|Jepara|PT Akses Data Internusa|
+|18|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
+|19|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
