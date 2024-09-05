@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|487|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|487|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|487|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|173.212.237.47|3128|Germany|Nuremberg|Contabo GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|103.125.174.49|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|9|119.76.142.239|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
-|10|67.43.227.227|1063|Canada|Montreal|GloboTech Communications|
-|11|152.26.229.42|9443|United States|Concord|MCNC|
-|12|67.43.227.228|7531|Canada|Montreal|GloboTech Communications|
-|13|152.26.231.83|9443|United States|Concord|MCNC|
-|14|67.43.227.226|3755|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|1063|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.34|9443|United States|Concord|MCNC|
-|17|82.137.244.221|8080|Syria|Damascus|ISP-TARASSUL|
-|18|72.10.164.178|21779|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|5239|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|5239|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|89.116.33.72|3128|India|Mumbai|Hostinger International Limited|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|173.212.237.47|3128|Germany|Nuremberg|Contabo GmbH|
+|8|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|9|122.152.55.61|8080|Bangladesh|Chittagong|Innovative Online Ltd|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|12|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|67.43.227.228|10827|Canada|Montreal|GloboTech Communications|
+|17|103.125.174.49|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|18|152.26.231.83|9443|United States|Concord|MCNC|
+|19|201.222.83.146|999|Bolivia|Warnes|Cotas Ltda.|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
