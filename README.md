@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
-|5|24.34.197.15|8080|United States|Wayland|Comcast Cable Communications|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|176.99.2.43|1081|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|6|70.63.90.245|8080|United States|Wilmington|Spectrum|
 |7|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|24.34.197.15|8080|United States|Wayland|Comcast Cable Communications|
-|9|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|177.93.36.151|999|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|106.227.87.11|3128|China|Taohua|China Telecom|
-|15|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
-|16|190.53.46.11|38525|Nicaragua|Ticuantepe|Amnet Telecomunicaciones S.A.|
-|17|102.182.134.53|8082|South Africa|Cape Town|Afrihost (Pty) Ltd|
-|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|152.26.229.83|9443|United States|Concord|MCNC|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|101.109.159.215|8080|Thailand|Pattaya|TOT Public Company Limited|
+|12|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|14|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|177.93.36.151|999|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
+|16|171.6.73.171|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|17|106.227.87.11|3128|China|Taohua|China Telecom|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|117.40.32.133|8080|China|Taohua|Chinanet|
+|20|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
 
 
 
