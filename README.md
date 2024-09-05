@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|152.26.229.93|9443|United States|Concord|MCNC|
-|5|152.26.231.42|9443|United States|Concord|MCNC|
-|6|152.26.231.93|9443|United States|Concord|MCNC|
+|3|152.26.229.93|9443|United States|Concord|MCNC|
+|4|152.26.231.42|9443|United States|Concord|MCNC|
+|5|152.26.231.93|9443|United States|Concord|MCNC|
+|6|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
 |7|152.26.229.34|9443|United States|Concord|MCNC|
-|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|9|152.26.229.42|9443|United States|Concord|MCNC|
-|10|152.26.229.86|9443|United States|Concord|MCNC|
-|11|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|117.40.32.133|8080|China|Taohua|Chinanet|
-|14|152.26.229.47|9443|United States|Concord|MCNC|
-|15|5.61.62.24|8118|United Kingdom|Failsworth|M247 Europe SRL|
-|16|181.78.95.217|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|17|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|116.96.101.32|5121|Vietnam|Hanoi|Viettel Corporation|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|72.10.160.92|11291|Canada|Montreal|GloboTech Communications|
+|13|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
+|17|152.26.229.47|9443|United States|Concord|MCNC|
 |18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|45.184.224.200|999|Ecuador|Quito|Media Commerce Medcomm S.A|
+|19|191.97.16.126|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
+|20|181.78.95.217|999|Paraguay|Asunción|Ufinet Paraguay S.A|
 
 
 
