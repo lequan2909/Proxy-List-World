@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |3|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|4|103.133.63.135|8181|Indonesia|Bandar Lampung|TLINK|
-|5|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|6|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|181.192.19.172|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
+|4|181.192.19.172|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
+|5|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|7|82.64.186.155|8080|France|Paris|Proxad / Free SAS|
 |8|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|103.105.76.100|8080|Indonesia|Bojonegoro|GARUDA|
-|10|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|9|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|42.200.124.211|8080|Hong Kong|Central|PCCW IMSBiz|
 |11|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|103.189.249.194|1111|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
 |13|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|152.26.231.86|9443|United States|Concord|MCNC|
-|16|72.10.160.170|9129|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.34|9443|United States|Concord|MCNC|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|139.255.67.54|3888|Indonesia|Jakarta|PT. LINKNET|
+|14|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|152.26.231.83|9443|United States|Concord|MCNC|
+|17|152.26.231.86|9443|United States|Concord|MCNC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|152.26.229.34|9443|United States|Concord|MCNC|
+|20|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
