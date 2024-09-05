@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|427|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|427|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|427|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|104.128.228.69|8118|United States|Los Angeles|HostUS|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|144.76.207.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|87.103.208.200|3128|Russia|Belovo|Kuzbass Network|
-|8|103.247.23.72|7777|Indonesia|Banyumas|PT wifian Solution|
-|9|181.78.79.63|999|Colombia|Pamplona|IFX Networks Argentina S.R.L|
+|5|87.103.208.200|3128|Russia|Belovo|Kuzbass Network|
+|6|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|8|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
+|9|24.115.120.39|8888|United States|Lititz|PenTeleData Inc.|
 |10|64.225.96.122|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
-|12|182.253.93.4|53281|Indonesia|Jakarta Pusat|BIZNET|
-|13|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|14|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|15|5.58.33.187|55507|Ukraine|Ternopil|Columbus|
-|16|88.87.89.180|8181|Russia|Volgograd|CJSC "ER-Telecom Holding" Volgograd branch|
-|17|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|18|20.119.77.88|8221|United States|Boydton|Microsoft Corporation|
-|19|190.186.1.126|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|20|4.247.152.147|3128|India|Pune|Microsoft Corporation|
+|11|173.249.60.246|14344|Germany|Nuremberg|Contabo GmbH|
+|12|120.202.162.210|80|China|Guangzhou|China Mobile communications corporation|
+|13|152.26.229.93|9443|United States|Concord|MCNC|
+|14|36.64.145.108|8080|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
+|15|117.40.32.133|8080|China|Taohua|Chinanet|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|72.10.164.178|2483|Canada|Montreal|GloboTech Communications|
+|20|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
