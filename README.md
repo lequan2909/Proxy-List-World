@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.67.90.2|8181|Indonesia|Cihaseum|PT Soultan Network Indonesia|
-|4|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|6|177.93.40.182|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|8|177.73.136.29|8080|Brazil|Pomerode|UNIFIQUE TELECOMUNICACOES S/A|
-|9|38.52.221.43|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|2|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|3|103.172.70.138|1111|Indonesia|Karawang|AZNET|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|152.26.229.83|9443|United States|Concord|MCNC|
+|7|152.26.231.93|9443|United States|Concord|MCNC|
+|8|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |10|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|103.181.168.202|8080|India|Madurai|Mrkr Communications Private Limited|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|181.192.19.172|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
-|15|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|67.43.227.228|13303|Canada|Montreal|GloboTech Communications|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|72.10.164.178|18803|Canada|Montreal|GloboTech Communications|
+|12|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|181.192.19.172|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|72.10.160.94|22613|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.86|9443|United States|Concord|MCNC|
+|19|152.26.231.94|9443|United States|Concord|MCNC|
+|20|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
 
 
 
