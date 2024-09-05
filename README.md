@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|190.60.35.50|8080|Colombia|Zipaquirá|IFX NETWORKS COLOMBIA|
-|6|24.34.197.15|8080|United States|Wayland|Comcast Cable Communications|
-|7|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|36.91.15.241|8080|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
-|9|24.34.197.15|8080|United States|Wayland|Comcast Cable Communications|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|27.121.82.102|8080|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
-|15|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|16|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|17|117.40.32.133|8080|China|Taohua|Chinanet|
-|18|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|38.52.221.44|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|20|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
+|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|7|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|43.252.237.210|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|13|152.53.19.8|3128|Austria|Vienna|ANX|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|114.141.51.51|8080|Indonesia|Bekasi|PT Cyberplus Media Pratama|
+|16|103.165.234.46|8080|Indonesia|Palembang|PT iForte Global Internet|
+|17|191.102.248.5|8085|Argentina|Rosario|IP·RED|
+|18|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|27.121.82.102|8080|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
+|20|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
 
 
 
