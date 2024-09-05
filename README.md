@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|36.89.209.146|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|114.5.97.150|8080|Indonesia|Surabaya|PT. INDOSAT Tbk|
-|7|181.78.22.109|999|Colombia|Astrea|IFX Networks Argentina S.R.L|
-|8|177.75.223.29|8080|Brazil|São Lourenço|Videomar Rede Nordeste S/A|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|93.115.18.235|8118|The Netherlands|Dronten|Mvps LTD|
-|11|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|182.252.70.220|8082|Bangladesh|Kāfrul|Agni Systems Limited|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|72.10.164.178|27217|Canada|Montreal|GloboTech Communications|
-|18|181.78.95.217|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|19|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|20|103.40.121.31|8087|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|183.88.214.44|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|119.47.90.76|8080|Indonesia|Batang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|11|178.212.48.80|8080|Poland|Zielona Góra|Lubuskie Sieci Swiatlowodowe Sp. z o. o.|
+|12|103.104.192.114|8080|Pakistan|Karachi|Redtone Telecommunications Pakistan (Private) Limited|
+|13|103.156.75.41|8181|Indonesia|Gianyar|PT Trika Global Media|
+|14|149.86.144.101|8080|Turkey|Kışlak|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|15|119.47.90.76|8080|Indonesia|Batang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|18|103.159.194.171|3128|Indonesia|Welahan|PT Giga Digital Nusantara|
+|19|1.20.207.107|8080|Thailand|Rayong|TOT Public Company Limited|
+|20|181.78.95.217|999|Paraguay|Asunción|Ufinet Paraguay S.A|
 
 
 
