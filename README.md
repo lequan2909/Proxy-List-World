@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|2|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|1|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|36.64.142.177|8080|Indonesia|Malang|PT. Telekomunikasi Indonesia|
-|5|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|6|188.132.222.54|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|7|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|62.122.205.30|8080|Ukraine|Ivano-Frankivsk|Uteam LTD|
-|10|152.26.229.83|9443|United States|Concord|MCNC|
-|11|152.26.229.42|9443|United States|Concord|MCNC|
-|12|85.119.120.55|8080|Malta|Birkirkara|Melita Ltd|
-|13|72.10.164.178|19069|Canada|Montreal|GloboTech Communications|
-|14|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|15|72.10.164.178|19069|Canada|Montreal|GloboTech Communications|
-|16|152.26.231.86|9443|United States|Concord|MCNC|
-|17|67.43.227.227|24567|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|12255|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|21073|Canada|Montreal|GloboTech Communications|
-|20|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|4|27.72.65.163|5102|Vietnam|Hanoi|Viettel Group|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|7|152.26.229.83|9443|United States|Concord|MCNC|
+|8|152.26.229.42|9443|United States|Concord|MCNC|
+|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|10|152.26.231.86|9443|United States|Concord|MCNC|
+|11|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|12|152.26.231.83|9443|United States|Concord|MCNC|
+|13|152.26.229.46|9443|United States|Concord|MCNC|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|16|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|152.26.231.94|9443|United States|Concord|MCNC|
+|18|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|19|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|117.40.32.135|8080|China|Taohua|Chinanet|
 
 
 
