@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.172.70.138|1111|Indonesia|Karawang|AZNET|
 |6|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|7|163.172.33.137|4003|France|Vitry-sur-Seine|Online S.A.S.|
-|8|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|10|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|152.26.231.94|9443|United States|Concord|MCNC|
-|13|152.26.229.42|9443|United States|Concord|MCNC|
-|14|117.40.32.133|8080|China|Taohua|Chinanet|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|152.26.231.86|9443|United States|Concord|MCNC|
-|17|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|92.51.126.42|8080|Georgia|Tbilisi|Delta NET Network|
-|20|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|7|103.107.84.191|8080|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
+|10|103.177.235.132|83|India|Bengaluru|Coastal Live Channel|
+|11|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|13|91.229.28.110|3128|Slovakia|Nitra|KOMNET, s.r.o.|
+|14|106.227.87.11|3128|China|Taohua|China Telecom|
+|15|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|152.26.231.42|9443|United States|Concord|MCNC|
+|17|152.26.231.94|9443|United States|Concord|MCNC|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|181.192.19.172|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
+|20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
 
