@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.122.66.140|1111|Indonesia|Gianyar|PT. Jinom Network Indonesia|
-|3|103.68.214.19|8080|Indonesia|Tangerang|PT Media Grasi Internet|
-|4|103.182.79.141|8080|Indonesia|Gresik|PT Cybernet Data Multimedia|
-|5|200.24.157.121|999|Ecuador|Cuenca|Ufinet Panama S.A.|
-|6|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|7|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|27.71.150.175|8080|Vietnam|Huế|Viettel Group|
+|4|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|152.26.231.42|9443|United States|Concord|MCNC|
+|6|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
 |8|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
-|9|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|152.26.231.42|9443|United States|Concord|MCNC|
-|11|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|72.10.164.178|13271|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|12149|Canada|Montreal|GloboTech Communications|
-|17|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|67.43.236.20|13145|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|13271|Canada|Montreal|GloboTech Communications|
+|9|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|152.26.229.42|9443|United States|Concord|MCNC|
+|13|147.50.140.182|8080|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|14|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|15|200.119.218.94|999|Bolivia|Santa Cruz|Cotas Ltda.|
+|16|72.10.164.178|32505|Canada|Montreal|GloboTech Communications|
+|17|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|18|177.43.72.250|3128|Brazil|Campo Grande|Vivo|
+|19|103.175.237.222|8080|Indonesia|Malang|PT Marva Global Telekomunikasi|
+|20|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
 
 
 
