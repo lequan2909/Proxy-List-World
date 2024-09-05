@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|180.180.133.184|8080|Thailand|Bangkok|TOT Public Company Limited|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.81.64.85|8080|Indonesia|Bandar Lampung|QIUNET|
-|4|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|152.53.67.93|3128|Austria|Vienna|ANEXIA Internetdienstleistungs GmbH|
-|6|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|7|152.26.229.46|9443|United States|Concord|MCNC|
-|8|152.26.229.34|9443|United States|Concord|MCNC|
-|9|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|10|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|114.7.160.142|8080|Indonesia|Tangerang|PT. INDOSAT Tbk|
-|12|202.154.18.137|8090|Indonesia|Jombang|DIGITNET|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|15|103.156.17.241|8080|Indonesia|Indramayu|RSTNET|
-|16|72.10.160.170|1255|Canada|Montreal|GloboTech Communications|
-|17|120.202.162.210|80|China|Guangzhou|China Mobile communications corporation|
-|18|31.172.79.14|8080|United States|Dallas|FORNEX|
-|19|152.26.229.47|9443|United States|Concord|MCNC|
-|20|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|103.171.244.45|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|6|203.177.216.158|8080|Philippines|Taguig|SIEMENS|
+|7|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|103.137.91.250|8080|Laos|Vientiane|SLT Network Co., LTD|
+|9|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|10|152.26.229.46|9443|United States|Concord|MCNC|
+|11|152.26.229.34|9443|United States|Concord|MCNC|
+|12|2.32.87.44|58080|Italy|Montesilvano Marina|VODAFONE|
+|13|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|14|103.190.113.114|8080|Indonesia|Grobogan|PT Linkbit Inovasi Teknologi|
+|15|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|16|72.10.160.170|1337|Canada|Montreal|GloboTech Communications|
+|17|117.40.32.135|8080|China|Taohua|Chinanet|
+|18|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|120.202.162.210|80|China|Guangzhou|China Mobile communications corporation|
+|20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
 
