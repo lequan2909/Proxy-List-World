@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.155.198.50|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|7|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|8|112.198.129.234|8085|Philippines|Nasugbu|Globe Telecom|
-|9|103.156.17.241|8080|Indonesia|Indramayu|RSTNET|
-|10|170.238.104.213|8080|Brazil|São Fidélis|Ubbinet Provedor de Servicos de Internet Ltda ME|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|177.130.25.76|8080|Brazil|Água Boa|Help Internet|
-|13|114.7.160.142|8080|Indonesia|Tangerang|PT. INDOSAT Tbk|
-|14|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|15|72.10.160.173|20299|Canada|Montreal|GloboTech Communications|
-|16|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|17|103.250.130.106|8085|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|18|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|20|152.26.231.83|9443|United States|Concord|MCNC|
+|1|198.13.52.240|18080|Japan|Motoyoyogichō|The Constant Company|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|8|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|9|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|10|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|152.26.231.83|9443|United States|Concord|MCNC|
+|13|72.10.160.173|13661|Canada|Montreal|GloboTech Communications|
+|14|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|15|72.10.164.178|8857|Canada|Montreal|GloboTech Communications|
+|16|152.26.229.93|9443|United States|Concord|MCNC|
+|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|18|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|67.43.236.20|23367|Canada|Montreal|GloboTech Communications|
 
 
 
