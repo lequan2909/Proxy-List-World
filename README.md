@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|37.187.109.70|10111|France|Gravelines|OVH SAS|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|117.4.115.59|8080|Vietnam|Bắc Ninh|VIETTEL|
-|13|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|14|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|15|103.55.159.51|6060|Indonesia|Sumbawa Besar|PT TELIO INTI NUSA|
+|4|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|37.187.109.70|10111|France|Gravelines|OVH SAS|
+|8|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|9|103.203.175.49|84|India|Hyderabad|Softgaurd Powertronics|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|103.204.82.34|3212|Bangladesh|Dhaka|Nexdecade Technology Pvt. LTD|
+|12|106.227.87.11|3128|China|Taohua|China Telecom|
+|13|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|38.183.144.108|8080|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
+|15|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
 |16|152.26.231.42|9443|United States|Concord|MCNC|
 |17|152.26.229.86|9443|United States|Concord|MCNC|
-|18|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|67.43.228.251|17055|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
+|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
