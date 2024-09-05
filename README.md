@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|101.109.159.215|8080|Thailand|Pattaya|TOT Public Company Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|178.128.118.29|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|8|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|9|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|117.40.32.133|8080|China|Taohua|Chinanet|
-|13|103.105.55.51|9090|Indonesia|Klaten|PT. Mega Artha Lintas Data|
-|14|112.198.200.62|8082|Philippines|Nasugbu|Globe Telecom|
-|15|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|152.26.229.34|9443|United States|Concord|MCNC|
-|17|152.26.229.86|9443|United States|Concord|MCNC|
-|18|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|152.26.231.93|9443|United States|Concord|MCNC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|103.139.126.31|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|6|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|94.70.195.145|8080|Greece|Athens|Ote SA (Hellenic Telecommunications Organisation)|
+|8|195.54.171.228|25124|Hong Kong|Hong Kong|M247 Europe SRL|
+|9|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|190.53.46.11|38525|Nicaragua|Ticuantepe|Amnet Telecomunicaciones S.A.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|190.94.212.249|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|13|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|15|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|16|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|19|45.190.78.50|999|Mexico|Tala|Meta Networks SA De CV|
+|20|38.183.144.108|8080|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
 
 
 
