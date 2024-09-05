@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|24.34.197.15|8080|United States|Wayland|Comcast Cable Communications|
-|5|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|6|2.136.56.212|8088|Spain|Madrid|RIMA (Red IP Multi Acceso)|
-|7|117.40.32.133|8080|China|Taohua|Chinanet|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|125.25.82.48|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|10|36.64.162.194|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|11|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|152.26.229.93|9443|United States|Concord|MCNC|
-|13|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|118.99.127.1|8080|Indonesia|Malang|Biznet Metronet|
+|6|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|106.227.87.11|3128|China|Taohua|China Telecom|
+|10|152.26.229.93|9443|United States|Concord|MCNC|
+|11|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |14|152.26.229.83|9443|United States|Concord|MCNC|
-|15|72.10.160.173|30137|Canada|Montreal|GloboTech Communications|
-|16|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|17|152.26.229.47|9443|United States|Concord|MCNC|
-|18|106.227.87.11|3128|China|Taohua|China Telecom|
-|19|152.26.231.86|9443|United States|Concord|MCNC|
-|20|67.43.227.227|1099|Canada|Montreal|GloboTech Communications|
+|15|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|16|152.26.229.47|9443|United States|Concord|MCNC|
+|17|72.10.160.173|24631|Canada|Montreal|GloboTech Communications|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|152.26.229.34|9443|United States|Concord|MCNC|
+|20|119.96.188.171|30000|China|Shanghai|CHINANET Hubei province network|
 
 
 
