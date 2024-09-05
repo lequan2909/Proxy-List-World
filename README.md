@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|103.170.62.7|8080|India|Aizawl|Hyosec Solutions Private Limited|
-|9|117.40.32.133|8080|China|Taohua|Chinanet|
-|10|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|11|177.55.247.174|8080|Brazil|Jericoacoara|VAS Freitas Servicos de Internet Ltda|
-|12|152.26.229.34|9443|United States|Concord|MCNC|
-|13|152.26.229.86|9443|United States|Concord|MCNC|
+|7|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|8|117.40.32.133|8080|China|Taohua|Chinanet|
+|9|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|13|152.26.229.34|9443|United States|Concord|MCNC|
 |14|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|152.26.229.46|9443|United States|Concord|MCNC|
-|16|72.10.160.173|16349|Canada|Montreal|GloboTech Communications|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|152.26.231.42|9443|United States|Concord|MCNC|
-|19|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
-|20|67.43.228.250|12989|Canada|Montreal|GloboTech Communications|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|152.26.229.46|9443|United States|Concord|MCNC|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
+|19|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|20|106.227.87.11|3128|China|Taohua|China Telecom|
 
 
 
