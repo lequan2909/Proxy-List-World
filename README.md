@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |5|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|6|142.215.53.8|8118|United States|Ashburn|Equinix (EMEA) Acquisition Enterprises B.V.|
-|7|66.206.15.148|8130|United States|Los Angeles|Primary|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|103.172.70.138|1111|Indonesia|Karawang|AZNET|
-|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|11|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|163.172.33.137|4003|France|Vitry-sur-Seine|Online S.A.S.|
-|14|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|15|103.48.71.26|83|India|Hyderabad|Country Online Services PVT LTD|
-|16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|152.26.229.34|9443|United States|Concord|MCNC|
-|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|152.26.231.94|9443|United States|Concord|MCNC|
+|6|139.255.67.54|3888|Indonesia|Jakarta|PT. LINKNET|
+|7|103.93.193.141|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|8|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|10|152.26.229.34|9443|United States|Concord|MCNC|
+|11|152.26.231.93|9443|United States|Concord|MCNC|
+|12|152.26.231.94|9443|United States|Concord|MCNC|
+|13|152.26.229.42|9443|United States|Concord|MCNC|
+|14|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|19|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
