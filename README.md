@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.26.229.34|9443|United States|Concord|MCNC|
-|2|152.26.229.47|9443|United States|Concord|MCNC|
-|3|152.26.229.46|9443|United States|Concord|MCNC|
-|4|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|152.26.231.86|9443|United States|Concord|MCNC|
-|6|152.26.231.83|9443|United States|Concord|MCNC|
-|7|152.26.231.42|9443|United States|Concord|MCNC|
-|8|72.10.164.178|14331|Canada|Montreal|GloboTech Communications|
-|9|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|72.10.160.91|22571|Canada|Montreal|GloboTech Communications|
-|11|152.26.229.93|9443|United States|Concord|MCNC|
+|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|152.26.229.42|9443|United States|Concord|MCNC|
+|3|152.26.229.34|9443|United States|Concord|MCNC|
+|4|152.26.229.47|9443|United States|Concord|MCNC|
+|5|152.26.229.93|9443|United States|Concord|MCNC|
+|6|152.26.229.46|9443|United States|Concord|MCNC|
+|7|152.26.231.83|9443|United States|Concord|MCNC|
+|8|152.26.231.42|9443|United States|Concord|MCNC|
+|9|152.26.231.86|9443|United States|Concord|MCNC|
+|10|103.166.143.243|3128|Vietnam|Thanh Xuân|Hand Viet NAM Joint Stock Company|
+|11|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |12|152.26.229.83|9443|United States|Concord|MCNC|
-|13|119.47.90.230|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|14|181.232.190.218|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
-|15|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|16|72.10.164.178|14331|Canada|Montreal|GloboTech Communications|
-|17|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
-|18|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
-|19|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
-|20|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|210.61.207.92|3128|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|18|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
+|19|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
+|20|115.72.46.96|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
 
 
 
