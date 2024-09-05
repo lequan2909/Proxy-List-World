@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|58.84.20.18|8080|India|Mathura|Power Grid Corporation of India Limited|
-|5|101.128.92.243|7777|Indonesia|Jakarta|CBN|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|103.248.9.226|8181|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|103.77.16.190|80|Bangladesh|Kushtia|ICC Communication Ltd|
-|10|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
-|11|36.76.189.154|80|Indonesia|Palembang|PT. TELKOM INDONESIA|
-|12|200.119.218.94|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|13|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|152.26.229.47|9443|United States|Concord|MCNC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|152.26.229.34|9443|United States|Concord|MCNC|
-|17|72.10.160.90|2675|Canada|Montreal|GloboTech Communications|
-|18|103.51.21.165|8080|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
-|19|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|20|27.121.82.102|8080|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|58.84.20.18|8080|India|Mathura|Power Grid Corporation of India Limited|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|35.187.154.146|3128|Taiwan|Taipei|Google LLC|
+|10|111.68.26.237|8080|Indonesia|Yogyakarta|GMEDIA|
+|11|191.102.248.1|8085|Argentina|Rosario|IP·RED|
+|12|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|165.16.46.193|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|14|152.26.229.34|9443|United States|Concord|MCNC|
+|15|152.26.229.47|9443|United States|Concord|MCNC|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|103.179.252.76|8181|Indonesia|Sawangan|PT Pusaka Kreasi Mandiri|
+|18|204.199.202.132|999|Mexico|Teotihuacán|Cirion Technologies Solutions|
+|19|203.150.128.178|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
