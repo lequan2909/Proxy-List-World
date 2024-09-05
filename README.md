@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|72.10.164.178|4199|Canada|Montreal|GloboTech Communications|
-|4|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|72.10.164.178|4199|Canada|Montreal|GloboTech Communications|
-|7|152.26.229.83|9443|United States|Concord|MCNC|
-|8|72.10.160.170|23847|Canada|Montreal|GloboTech Communications|
-|9|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|10|72.10.164.178|4199|Canada|Montreal|GloboTech Communications|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|72.10.164.178|4199|Canada|Montreal|GloboTech Communications|
-|13|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
-|14|67.43.228.252|18929|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|16789|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.19|15213|Canada|Montreal|GloboTech Communications|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|72.10.160.173|2911|Canada|Montreal|GloboTech Communications|
-|19|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.187.154.146|3128|Taiwan|Taipei|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.113.3.22|8080|Indonesia|South Tangerang|Diskominfo Tangerang Selatan|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|152.26.229.83|9443|United States|Concord|MCNC|
+|9|72.10.160.170|21643|Canada|Montreal|GloboTech Communications|
+|10|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
+|11|157.10.157.2|8080|Indonesia|Jakarta|Dinas Komunikasi dan Informatika Kabupaten Ciamis|
+|12|101.255.117.197|8085|Indonesia|Jakarta|PT Remala Abadi|
+|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|14|85.172.174.30|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|15|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|16|72.10.160.174|29023|Canada|Montreal|GloboTech Communications|
+|17|152.26.229.86|9443|United States|Concord|MCNC|
+|18|204.199.202.132|999|Mexico|Teotihuacán|Cirion Technologies Solutions|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|72.10.164.178|7991|Canada|Montreal|GloboTech Communications|
 
 
 
