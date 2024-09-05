@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|142.215.53.8|8118|United States|Ashburn|Equinix (EMEA) Acquisition Enterprises B.V.|
-|4|103.93.193.141|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|5|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|6|89.26.83.25|8080|Austria|Mittersill|SALZBURG AG fur Energie, Verkehr und Telekommunikation|
-|7|72.10.160.170|18203|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|29481|Canada|Montreal|GloboTech Communications|
-|9|106.227.87.11|3128|China|Taohua|China Telecom|
-|10|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|11|72.10.160.94|29195|Canada|Montreal|GloboTech Communications|
-|12|152.26.229.46|9443|United States|Concord|MCNC|
-|13|72.10.164.178|29481|Canada|Montreal|GloboTech Communications|
-|14|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|1|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|201.17.17.35|8080|Brazil|Rio de Janeiro|Claro NXT Telecomunicacoes Ltda|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|163.172.33.137|4003|France|Vitry-sur-Seine|Online S.A.S.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|7|103.93.193.141|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|10|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|11|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|12|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|152.26.229.46|9443|United States|Concord|MCNC|
+|14|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |15|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|16|67.43.227.227|9067|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.92|16043|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|2839|Canada|Montreal|GloboTech Communications|
-|19|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|20|72.10.160.91|19015|Canada|Montreal|GloboTech Communications|
+|16|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|17|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|117.40.32.135|8080|China|Taohua|Chinanet|
+|20|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
