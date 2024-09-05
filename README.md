@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|36.68.28.195|8080|Indonesia|Surakarta|PT. TELKOM INDONESIA|
-|5|27.71.150.175|8080|Vietnam|Huế|Viettel Group|
-|6|69.160.223.33|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
-|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|8|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|152.26.229.42|9443|United States|Concord|MCNC|
-|10|111.68.26.237|8080|Indonesia|Yogyakarta|GMEDIA|
-|11|69.160.223.33|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
-|12|157.20.144.138|8181|Indonesia|Ciputat|PT Lintas Network Solusi|
-|13|152.26.231.42|9443|United States|Concord|MCNC|
-|14|35.187.154.146|3128|Taiwan|Taipei|Google LLC|
-|15|103.250.130.106|8085|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|16|103.76.151.74|8089|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|17|106.227.87.11|3128|China|Taohua|China Telecom|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
+|2|103.248.9.226|8181|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|36.76.189.154|80|Indonesia|Palembang|PT. TELKOM INDONESIA|
+|6|103.235.181.249|8080|Indonesia|Jakarta|PT Top Class Universal|
+|7|103.168.44.191|8083|Indonesia|Jakarta|PT CYB Media Group|
+|8|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|10|120.202.162.210|80|China|Guangzhou|China Mobile communications corporation|
+|11|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|152.26.229.42|9443|United States|Concord|MCNC|
+|13|58.84.20.18|8080|India|Mathura|Power Grid Corporation of India Limited|
+|14|157.20.144.138|8181|Indonesia|Ciputat|PT Lintas Network Solusi|
+|15|152.26.231.42|9443|United States|Concord|MCNC|
+|16|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|103.131.18.20|8080|Indonesia|Kudus|PT Global Media Data Prima|
+|18|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |19|173.212.237.47|3128|Germany|Nuremberg|Contabo GmbH|
-|20|177.93.59.71|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
