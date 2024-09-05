@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|38.156.75.27|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|6|167.71.110.174|8118|United States|Clifton|DigitalOcean, LLC|
-|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|8|94.102.234.186|32650|Montenegro|Podgorica|VOLI-MNE|
-|9|77.237.28.191|8080|Poland|Byszewy|Toya sp. z o.o.|
-|10|171.228.189.239|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|11|177.37.114.5|3128|Brazil|Cataguases|Brasilnet Telecomunicações Ltda ME|
-|12|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|103.84.208.170|8080|Indonesia|Padang|CINOXMEDIANET|
-|14|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|15|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|67.43.227.226|3005|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|19523|Canada|Montreal|GloboTech Communications|
-|19|103.76.151.74|8089|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|20|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|139.84.144.55|3129|India|Bengaluru|The Constant Company, LLC|
+|4|45.117.30.9|58081|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|5|103.156.17.137|8181|Indonesia|Indramayu|RSTNET|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|24.204.29.115|8080|United States|Longview|Network IP|
+|8|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|103.55.159.51|6060|Indonesia|Sumbawa Besar|PT TELIO INTI NUSA|
+|10|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|177.37.114.5|3128|Brazil|Cataguases|Brasilnet Telecomunicações Ltda ME|
+|13|152.26.231.83|9443|United States|Concord|MCNC|
+|14|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|16|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|152.26.229.47|9443|United States|Concord|MCNC|
+|19|85.172.174.30|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|20|67.43.227.227|2707|Canada|Montreal|GloboTech Communications|
 
 
 
