@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|103.160.12.50|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|4|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|5|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|6|117.40.32.133|8080|China|Taohua|Chinanet|
-|7|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|8|191.252.219.129|8889|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
-|9|117.4.115.59|8080|Vietnam|Bắc Ninh|VIETTEL|
-|10|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|11|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|14|72.10.160.171|4755|Canada|Montreal|GloboTech Communications|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|103.55.159.51|6060|Indonesia|Sumbawa Besar|PT TELIO INTI NUSA|
-|17|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|20|152.26.229.83|9443|United States|Concord|MCNC|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|8|103.160.12.50|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|9|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|11|164.92.167.4|1194|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|17|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|19|103.18.232.153|8085|Indonesia|Demak|PT JARINGANKU SARANA NUSANTARA|
+|20|103.199.139.14|82|India|Pune|Syscon Infoway Pvt. Ltd.|
 
 
 
