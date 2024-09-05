@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|103.166.159.163|8080|Indonesia|Bekasi|PT Timor Lintas Nusantara|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
-|8|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|10|72.10.160.173|30751|Canada|Montreal|GloboTech Communications|
-|11|152.26.229.46|9443|United States|Concord|MCNC|
-|12|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|103.182.79.141|8080|Indonesia|Gresik|PT Cybernet Data Multimedia|
+|6|45.5.119.112|8080|Guatemala|Guatemala City|Infinitum S.A.|
+|7|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|177.234.211.63|999|Ecuador|Guayaquil|VUELATECHNOLOGY|
+|9|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|10|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|152.32.67.243|10101|Philippines|Quezon City|Converge ICT Solution Inc|
+|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
 |13|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|14|152.26.231.42|9443|United States|Concord|MCNC|
-|15|147.50.140.182|8080|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|16|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|17|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|20|72.10.164.178|14571|Canada|Montreal|GloboTech Communications|
+|14|152.26.229.46|9443|United States|Concord|MCNC|
+|15|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|147.50.140.182|8080|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|18|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|19|152.26.231.94|9443|United States|Concord|MCNC|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
