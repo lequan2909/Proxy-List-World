@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|4|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|5|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|207.230.8.70|999|Colombia|Bogotá|Cogent Communications|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|152.26.229.34|9443|United States|Concord|MCNC|
-|10|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|11|152.26.231.83|9443|United States|Concord|MCNC|
-|12|152.26.231.94|9443|United States|Concord|MCNC|
-|13|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|14|191.97.6.150|999|Colombia|Líbano|TV AZTECA SUCURSAL COLOMBIA|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
-|19|152.26.231.86|9443|United States|Concord|MCNC|
-|20|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|2|206.189.89.119|8888|United States|Rancho Cucamonga|DigitalOcean, LLC|
+|3|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|111.1.61.50|3128|China|Wenzhou|China Mobile communications corporation|
+|8|152.26.229.34|9443|United States|Concord|MCNC|
+|9|152.26.231.83|9443|United States|Concord|MCNC|
+|10|152.26.231.94|9443|United States|Concord|MCNC|
+|11|152.26.229.42|9443|United States|Concord|MCNC|
+|12|152.26.231.86|9443|United States|Concord|MCNC|
+|13|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|14|185.79.243.74|8080|Poland|Myszków|PHU Kario-Sat Sp. z o.o.|
+|15|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|152.26.231.93|9443|United States|Concord|MCNC|
 
 
 
