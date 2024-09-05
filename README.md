@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|11|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|12|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|17|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
-|18|157.10.97.167|8080|Indonesia|Bengkulu|PT Lintas Jaringan Nusantara|
-|19|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|20|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|12|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|13|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|14|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|15|152.26.231.42|9443|United States|Concord|MCNC|
+|16|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|152.26.231.94|9443|United States|Concord|MCNC|
+|19|72.10.164.178|17293|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|17293|Canada|Montreal|GloboTech Communications|
 
 
 
