@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|400|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|400|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|400|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|198.13.52.240|18080|Japan|Motoyoyogichō|The Constant Company|
-|5|218.145.131.182|443|South Korea|Seocho-gu|Korea Telecom|
-|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|11|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|2|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|103.125.38.50|8080|Indonesia|Surabaya|PT. Eka Mas Republik|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|9|103.156.17.41|8818|Indonesia|Indramayu|RSTNET|
+|10|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
+|11|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
 |12|190.95.202.210|999|Ecuador|Cuenca|Telconet S.A|
-|13|190.61.101.95|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
-|14|103.40.121.33|8089|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
-|15|195.54.171.228|25124|Hong Kong|Hong Kong|M247 Europe SRL|
-|16|186.208.81.214|3129|Brazil|Passo Fundo|RazaoInfo Internet Ltda|
-|17|152.26.229.83|9443|United States|Concord|MCNC|
-|18|120.202.162.210|80|China|Guangzhou|China Mobile communications corporation|
-|19|27.121.82.102|8080|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
-|20|94.23.84.25|8118|Spain|Madrid|OVH ISP|
+|13|103.81.64.85|8080|Indonesia|Bandar Lampung|QIUNET|
+|14|190.94.212.43|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|27.121.82.102|8080|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
+|18|103.127.106.245|1080|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
+|19|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
+|20|45.227.195.121|8082|Brazil|Maravilha|Mhnet Telecom|
 
 
 
