@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|85.94.24.29|1488|Russia|Noginsk|PJSC Rostelecom|
-|5|152.26.231.86|9443|United States|Concord|MCNC|
-|6|152.26.229.42|9443|United States|Concord|MCNC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|152.26.231.94|9443|United States|Concord|MCNC|
-|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|11|72.10.164.178|18721|Canada|Montreal|GloboTech Communications|
-|12|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|14|152.26.229.86|9443|United States|Concord|MCNC|
+|4|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|5|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|6|222.127.55.155|8083|Philippines|Lahug|INNOVE|
+|7|62.122.205.30|8080|Ukraine|Ivano-Frankivsk|Uteam LTD|
+|8|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
+|9|152.26.231.86|9443|United States|Concord|MCNC|
+|10|152.26.229.42|9443|United States|Concord|MCNC|
+|11|152.26.231.94|9443|United States|Concord|MCNC|
+|12|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
+|14|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |15|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|18|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
-|19|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|20|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|16|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
