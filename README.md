@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|119.76.142.239|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
-|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|8|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|9|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|12|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|173.212.237.47|3128|Germany|Nuremberg|Contabo GmbH|
+|4|89.116.33.72|3128|India|Mumbai|Hostinger International Limited|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|119.76.142.239|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
+|7|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|38.183.145.25|8181|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
+|12|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |15|152.26.229.47|9443|United States|Concord|MCNC|
-|16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|117.40.32.133|8080|China|Taohua|Chinanet|
-|18|67.43.236.20|13881|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.42|9443|United States|Concord|MCNC|
-|20|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|152.26.231.42|9443|United States|Concord|MCNC|
+|17|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
+|18|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|139.84.157.107|3129|India|Bengaluru|The Constant Company, LLC|
 
 
 
