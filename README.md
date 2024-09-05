@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|116.107.138.9|5103|Vietnam|Bắc Giang|Viettel Corporation|
-|6|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|9|77.77.210.90|21056|Bosnia and Herzegovina|Sarajevo|TELEMACH BH|
-|10|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|11|190.95.202.210|999|Ecuador|Cuenca|Telconet S.A|
-|12|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|13|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|14|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|15|103.141.180.254|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|8|198.13.52.240|18080|Japan|Motoyoyogichō|The Constant Company|
+|9|203.79.29.150|8080|Indonesia|Surabaya|PT Surya Global Teknologi|
+|10|36.95.142.35|8080|Indonesia|Bekasi|Telekomunikasi Indonesia|
+|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|12|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
+|13|103.81.64.85|8080|Indonesia|Bandar Lampung|QIUNET|
+|14|41.65.0.205|1981|Egypt|6th of October City|Enterprise|
+|15|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|189.89.188.14|2020|Brazil|Salvador|ITS TELECOMUNICACOES LTDA|
 |17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|152.26.231.42|9443|United States|Concord|MCNC|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|72.10.164.178|20241|Canada|Montreal|GloboTech Communications|
+|18|101.255.165.217|8080|Indonesia|Bekasi|PT Remala Abadi|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|103.160.15.38|3125|Indonesia|Tanjung Pinang|PT INFORMASI NUSANTARA TEKNOLOGI|
 
 
 
