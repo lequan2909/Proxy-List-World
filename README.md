@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|400|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|400|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|400|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|180.191.16.9|8085|Philippines|Cabanatuan City|Globe Telecom|
-|6|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
 |7|173.212.237.47|3128|Germany|Nuremberg|Contabo GmbH|
-|8|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|9|195.54.171.228|25124|Hong Kong|Hong Kong|M247 Europe SRL|
-|10|122.3.121.231|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|11|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|12|81.19.141.2|3128|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|13|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
-|14|24.152.55.21|999|Guatemala|Morales|TV CABLE UNIVERSAL S.A|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|67.43.227.226|12423|Canada|Montreal|GloboTech Communications|
-|17|119.76.142.239|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|72.10.164.178|14785|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|14785|Canada|Montreal|GloboTech Communications|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|10|43.251.84.242|8080|Bangladesh|Dhaka|Md. Abdul Kayum Rashed|
+|11|123.200.14.194|8080|Bangladesh|Khulna|Link3 Technologies Limited|
+|12|101.128.78.202|32650|Indonesia|Palembang|CBN|
+|13|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|38.183.145.25|8181|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
+|15|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|72.10.160.92|14735|Canada|Montreal|GloboTech Communications|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
