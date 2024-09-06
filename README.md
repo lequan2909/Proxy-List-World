@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|159.65.139.180|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|159.65.139.180|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |4|69.197.135.43|35389|United States|Kansas City|WholeSale Internet|
-|5|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
-|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|8|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|9|171.6.52.235|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|10|173.249.34.184|3128|Germany|Nuremberg|Contabo GmbH|
+|5|182.253.233.250|8080|Indonesia|Jakarta|BIZNET|
+|6|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|7|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|8|69.197.135.43|35389|United States|Kansas City|WholeSale Internet|
+|9|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|223.205.28.208|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|69.197.135.43|35389|United States|Kansas City|WholeSale Internet|
-|13|185.215.24.44|8080|France|Paris|fr.naitways-network3 LIR|
-|14|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|173.249.34.184|3128|Germany|Nuremberg|Contabo GmbH|
+|13|171.228.114.32|5106|Vietnam|Hanoi|Viettel Corporation|
+|14|41.189.173.155|3128|Ghana|Accra|Scancom Ltd.|
 |15|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|91.187.113.68|8080|Kosovo|Pristina|IPKO Telecommunications LLC|
-|17|223.205.28.208|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|101.255.105.26|8181|Indonesia|Jakarta|PT Remala Abadi|
-|20|103.81.223.157|8080|Indonesia|Bandung|STARNET|
+|16|179.106.27.27|9090|Brazil|Patrocínio|OnNet Telecomunicações LTDA|
+|17|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|18|203.150.128.144|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|185.215.24.44|8080|France|Paris|fr.naitways-network3 LIR|
 
 
 
