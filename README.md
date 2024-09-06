@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|160.248.91.126|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|5|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|6|116.96.37.141|9002|Vietnam|Hanoi|Viettel Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|171.241.57.18|5106|Vietnam|Hanoi|Viettel Corporation|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|193.30.13.231|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|49.49.188.43|8080|Thailand|Wang Noi|Triple T Broadband Public Company Limited|
-|13|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|14|94.102.228.70|32650|Montenegro|Podgorica|One Crna Gora DOO|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|116.111.238.228|5103|Vietnam|Tam Kỳ|Viettel Corporation|
-|17|38.183.144.108|8080|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|18|195.54.171.21|25299|Hong Kong|Hong Kong|M247 Europe SRL|
-|19|50.204.36.138|60808|United States|Sacramento|Comcast Cable Communications, LLC|
-|20|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|8|103.155.197.112|1080|Indonesia|Sukabumi|JEMBATANDATA|
+|9|27.72.244.228|8080|Vietnam|Hanoi|Newass2011xDSLHN|
+|10|116.96.37.141|9002|Vietnam|Hanoi|Viettel Corporation|
+|11|149.86.137.72|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|12|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|13|117.4.115.59|8080|Vietnam|Bắc Ninh|VIETTEL|
+|14|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|159.65.139.180|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|185.217.84.15|8080|Lebanon|Zahle|SMART|
+|17|181.224.207.142|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
+|18|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|19|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
