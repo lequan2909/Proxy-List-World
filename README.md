@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|3|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|5|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|103.247.22.147|8080|Indonesia|Bekasi|PT wifian Solution|
-|11|183.89.205.173|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|12|103.236.177.154|8081|Philippines|Manila|Infinivan Incorporated|
-|13|200.119.218.94|999|Bolivia|Santa Cruz|Cotas Ltda.|
+|7|102.39.156.37|8080|South Africa|Cape Town|Vox Telecom|
+|8|103.118.175.42|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|9|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|103.147.118.237|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
+|11|191.97.15.94|11201|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |14|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|120.50.18.146|58080|Bangladesh|Dhaka|TelNET Communication Ltd|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|72.10.164.178|11435|Canada|Montreal|GloboTech Communications|
+|15|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|186.125.218.162|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|18|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
+|19|103.217.224.139|8090|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
