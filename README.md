@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|116.111.237.39|5108|Vietnam|Tam Kỳ|Viettel Corporation|
-|5|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|182.253.39.242|8080|Indonesia|Jakarta Pusat|BIZNET|
-|10|115.73.14.58|5102|Vietnam|Ho Chi Minh City|VIETELmetro|
-|11|34.207.149.11|3128|United States|Ashburn|Amazon.com, Inc.|
-|12|103.217.216.12|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|103.16.118.179|1080|Indonesia|Madiun|CV Trustnet Media|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|34.207.149.11|3128|United States|Ashburn|Amazon.com, Inc.|
-|18|103.69.20.28|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|19|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|20|160.248.11.213|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|159.65.139.180|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|34.207.149.11|3128|United States|Ashburn|Amazon.com, Inc.|
+|7|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|49.49.38.229|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
+|10|34.207.149.11|3128|United States|Ashburn|Amazon.com, Inc.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|103.16.118.179|1080|Indonesia|Madiun|CV Trustnet Media|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|160.248.11.213|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|182.253.39.242|8080|Indonesia|Jakarta Pusat|BIZNET|
+|18|160.248.94.16|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|78.108.109.0|8080|Czechia|Pilsen|Neutral Free eXchange members - FreeTel alternate|
 
 
 
