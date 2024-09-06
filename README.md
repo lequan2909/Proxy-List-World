@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5538** proxies at the latest update. Usable proxies are below.
+> Scraper found **5634** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|176|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|657|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|175|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|754|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|315|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3432|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|179.43.8.15|8084|Brazil|Jaicós|Voex Telecom Ltda|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|170.83.170.2|9191|Brazil|Macaíba|MT INTERNET COMERCIO & SERVICO LTDA|
-|11|204.199.202.132|999|Mexico|Teotihuacán|Cirion Technologies Solutions|
-|12|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|13|195.54.171.228|25124|Hong Kong|Hong Kong|M247 Europe SRL|
-|14|109.111.152.43|53281|Russia|Kaliningrad|TIS-DIALOG|
-|15|152.26.231.42|9443|United States|Concord|MCNC|
-|16|185.65.247.133|48049|Ukraine|Kyiv|Hosting Ukraine LTD|
-|17|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|186.225.19.57|8080|Brazil|Mogi das Cruzes|76 TELECOMUNICAÇÃO LTDA|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|117.4.115.59|8080|Vietnam|Bắc Ninh|VIETTEL|
+|7|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|8|43.251.84.242|8080|Bangladesh|Dhaka|Md. Abdul Kayum Rashed|
+|9|152.26.231.42|9443|United States|Concord|MCNC|
+|10|103.81.64.85|8080|Indonesia|Bandar Lampung|QIUNET|
+|11|117.40.32.133|8080|China|Taohua|Chinanet|
+|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|200.76.28.202|999|Mexico|Reynosa|Alestra, S. de R.L. de C.V.|
+|15|45.184.224.194|999|Ecuador|Quito|Media Commerce Medcomm S.A|
+|16|177.129.249.165|8080|Brazil|Penápolis|Maxcomm Ltda EPP|
+|17|152.26.229.47|9443|United States|Concord|MCNC|
+|18|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|19|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|20|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
