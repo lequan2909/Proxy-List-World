@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|412|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|412|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|412|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|24.34.197.15|8080|United States|Wayland|Comcast Cable Communications|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
+|2|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|103.171.244.45|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|7|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |10|24.34.197.15|8080|United States|Wayland|Comcast Cable Communications|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|101.255.118.89|8080|Indonesia|Jakarta|PT Remala Abadi|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|61.9.32.62|65535|Philippines|San Juan|Sky Cable Corporation|
-|17|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|18|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|20|139.84.152.185|3129|India|Bengaluru|The Constant Company, LLC|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|201.174.224.174|999|Mexico|Mexicali|Transtelco Inc|
+|13|103.197.241.55|32650|Cambodia|Phnom Penh|COGETEL Co., Ltd|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|24.152.55.3|999|Guatemala|Morales|TV CABLE UNIVERSAL S.A|
+|16|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|202.154.12.144|7777|Indonesia|Jakarta|MENAKSOPAL|
+|18|202.21.117.75|8080|Mongolia|Ulan Bator|Mobinet LLC|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
