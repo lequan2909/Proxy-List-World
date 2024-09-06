@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.11.229|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|5|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|45.235.16.121|27234|Brazil|Chapecó|Acessoline Telecom|
-|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|9|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|10|161.34.36.157|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|47.236.156.89|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|160.248.11.229|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|195.54.171.21|25299|Hong Kong|Hong Kong|M247 Europe SRL|
+|6|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|7|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|8|117.40.32.133|8080|China|Taohua|Chinanet|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|181.224.207.142|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
 |11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|103.189.197.75|8181|Indonesia|Serang|PT Graha Sumber Teknologi|
 |13|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|117.40.32.133|8080|China|Taohua|Chinanet|
-|15|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
-|17|34.207.149.11|3128|United States|Ashburn|Amazon.com, Inc.|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|152.26.229.47|9443|United States|Concord|MCNC|
-|20|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.36.157|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|16|177.43.72.250|3128|Brazil|Campo Grande|Vivo|
+|17|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|152.26.229.47|9443|United States|Concord|MCNC|
+|19|152.26.231.94|9443|United States|Concord|MCNC|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
