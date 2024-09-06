@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.35.245|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|4|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
-|5|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.160.182.77|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|8|47.236.156.89|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|190.14.251.109|999|Colombia|Barrancabermeja|Media Commerce Partners S.A|
-|10|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|11|152.26.229.93|9443|United States|Concord|MCNC|
-|12|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|13|160.248.11.213|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|114.7.160.142|8080|Indonesia|Tangerang|PT. INDOSAT Tbk|
-|15|72.10.160.172|16991|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.34|9443|United States|Concord|MCNC|
-|17|64.225.96.122|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|161.34.35.245|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|103.48.68.18|83|India|Hyderabad|Country Online Services PVT LTD|
+|4|47.236.156.89|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
+|6|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|117.40.32.133|8080|China|Taohua|Chinanet|
+|9|115.74.116.141|5106|Vietnam|Ho Chi Minh City|VIETELxdsl|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|103.24.215.146|8181|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
+|12|14.241.111.97|8080|Vietnam|Hanoi|VNPT|
+|13|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|14|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|190.14.251.109|999|Colombia|Barrancabermeja|Media Commerce Partners S.A|
+|17|89.218.175.84|8080|Kazakhstan|Atyrau|JSC Kazakhtelecom|
+|18|103.40.121.33|8089|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
+|19|191.102.254.11|8085|Argentina|Rosario|IP·RED|
+|20|185.200.37.99|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
