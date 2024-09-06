@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|1|15.204.161.192|18080|United States|Reston|OVH SAS|
 |2|47.236.156.89|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|159.65.139.180|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.124.196.218|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|5|203.29.27.210|7777|Indonesia|Jember|PT Indotrans Data|
-|6|27.76.176.83|5102|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|7|34.207.149.11|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|171.5.46.108|8081|Thailand|Rayong|Triple T Broadband Public Company Limited|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|138.201.184.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|16|38.7.3.15|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|17|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|18|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|103.197.207.20|8080|Bangladesh|Gāzipur|Cosmopolitan Communications Limited Khan Sons Center 37|
-|20|103.36.10.0|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|3|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|4|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|202.137.122.4|8082|Philippines|Davao City|Dataconnect Network Services Inc.|
+|7|117.40.32.133|8080|China|Taohua|Chinanet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
+|10|138.59.227.248|999|Paraguay|Ayolas|Aranda Cardozo Lider Ramon|
+|11|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|186.224.68.6|8080|Brazil|Cascavel|DIGITAL DESIGN SERVIÇOS DE TELECOMUNICAÇÕES EIRELI|
+|13|119.47.90.76|8080|Indonesia|Batang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|15|152.26.229.46|9443|United States|Concord|MCNC|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|152.26.231.93|9443|United States|Concord|MCNC|
+|19|45.184.73.32|40033|Brazil|Nordestina|A2 TELECOM PROVEDOR DE INTERNET LTDA|
+|20|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
 
 
 
