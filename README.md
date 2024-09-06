@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|160.248.91.126|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|1|160.248.91.126|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |7|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|8|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|9|103.155.197.112|1080|Indonesia|Sukabumi|JEMBATANDATA|
-|10|116.96.37.141|9002|Vietnam|Hanoi|Viettel Corporation|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|13|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|14|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|103.178.3.59|8181|Indonesia|Karawang|RSTNET|
-|17|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|19|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|20|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|103.178.3.59|8181|Indonesia|Karawang|RSTNET|
+|11|81.91.151.146|3128|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|16|77.243.217.32|8080|Hungary|Szombathely|GPINET Internet Kereskedelmi es Szolgaltato Kft|
+|17|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|18|103.159.194.241|8080|Indonesia|Welahan|PT Giga Digital Nusantara|
+|19|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
