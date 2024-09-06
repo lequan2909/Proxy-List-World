@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|159.65.139.180|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|1|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|27.76.176.83|5102|Vietnam|Hanoi|Newass2011xDSLHCMC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|34.207.149.11|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|34.207.149.11|3128|United States|Ashburn|Amazon.com, Inc.|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|38.156.72.18|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|160.248.94.16|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|128.90.43.62|8118|United States|Austin|Paradise Networks LLC|
-|17|152.26.229.46|9443|United States|Concord|MCNC|
-|18|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|19|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|5|34.207.149.11|3128|United States|Ashburn|Amazon.com, Inc.|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|134.209.147.65|8080|India|Bengaluru|DigitalOcean, LLC|
+|10|34.207.149.11|3128|United States|Ashburn|Amazon.com, Inc.|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|38.156.72.18|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|190.60.36.78|8080|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|160.248.94.16|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|20|82.129.154.218|1981|Egypt|Cairo|Vodafone Data - Egypt|
 
 
 
