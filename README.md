@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
 |2|15.204.161.192|18080|United States|Reston|OVH SAS|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|160.248.11.229|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|12|91.92.181.99|8090|Iran|Tehran|TIC|
-|13|103.191.251.34|8083|Indonesia|Batam|PT Mulia Batam Net|
-|14|152.26.229.83|9443|United States|Concord|MCNC|
-|15|152.26.231.86|9443|United States|Concord|MCNC|
-|16|103.48.68.75|83|India|Hyderabad|Country Online Services PVT LTD|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|19|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|20|117.40.32.133|8080|China|Taohua|Chinanet|
+|3|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.16.118.179|1080|Indonesia|Madiun|CV Trustnet Media|
+|10|5.227.219.47|8424|Russia|Saratov|MTS-SRTV|
+|11|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|12|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|196.0.111.194|34638|Uganda|Kampala|Uganda Telecom Ltd|
+|14|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|15|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|160.19.231.226|8080|Indonesia|Jakarta|PT TELSAR JAYA NETWORK TEKNOLOGY|
+|17|160.248.11.229|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|102.66.97.202|8080|South Africa|Emalahleni|HERO TELECOMS (PTY) LTD|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
+|20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
 
