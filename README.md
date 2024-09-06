@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|160.248.91.126|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|5|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|116.96.37.141|9002|Vietnam|Hanoi|Viettel Corporation|
-|7|116.103.17.135|5102|Vietnam|Da Nang|Viettel Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|41.189.173.155|3128|Ghana|Accra|Scancom Ltd.|
-|10|50.204.36.138|60808|United States|Sacramento|Comcast Cable Communications, LLC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|5.135.188.78|3127|France|Roubaix|OVH SAS|
-|14|159.65.139.180|8888|Singapore|Singapore|DigitalOcean, LLC|
-|15|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|16|185.217.84.15|8080|Lebanon|Zahle|SMART|
-|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|103.125.174.27|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|20|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|5|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|6|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|116.103.17.135|5102|Vietnam|Da Nang|Viettel Corporation|
+|9|116.96.37.141|9002|Vietnam|Hanoi|Viettel Corporation|
+|10|42.113.238.102|32650|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|11|103.186.91.25|1111|Indonesia|Jepara|PT Akses Data Internusa|
+|12|134.236.29.226|8080|Thailand|Bang Lamung|CAT-BB|
+|13|103.125.174.27|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|14|103.155.197.68|8181|Indonesia|Sukabumi|JEMBATANDATA|
+|15|125.24.198.240|8080|Thailand|Bangkok|TOT Public Company Limited|
+|16|41.189.173.155|3128|Ghana|Accra|Scancom Ltd.|
+|17|206.1.211.108|9090|Venezuela|Maracaibo|Airtek Solutions C.A.|
+|18|112.201.188.62|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|19|103.158.253.38|8080|Indonesia|Brebes|Rapid Network|
+|20|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 
 
 
