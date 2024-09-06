@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
-|2|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|103.167.170.202|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|103.147.118.237|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|15|49.0.2.194|8090|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|16|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|20|152.26.229.83|9443|United States|Concord|MCNC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|4|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|103.1.50.17|3125|Indonesia|Pasuruan|CPCNet Hong Kong Ltd. - IP Administrator|
+|12|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|13|43.247.33.60|8080|Indonesia|Jakarta|PT MEDIA LINTAS DATA|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
+|15|152.26.229.93|9443|United States|Concord|MCNC|
+|16|115.74.246.138|8080|Vietnam|Quận Mười Một|VIETELxdsl|
+|17|103.81.64.85|8080|Indonesia|Bandar Lampung|QIUNET|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
