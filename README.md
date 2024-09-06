@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|4|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.124.196.130|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|9|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
-|10|103.76.151.90|8090|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|11|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|103.126.172.245|8080|Indonesia|Bandar Lampung|MEGARAP|
-|13|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|14|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|15|49.156.151.246|83|India|Hyderabad|City Online|
-|16|122.3.139.85|8181|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|103.48.68.220|83|India|Hyderabad|Country Online Services PVT LTD|
-|19|103.87.148.40|1111|Indonesia|Demak|Lintas Data Prima, PT|
-|20|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|103.68.214.22|8080|Indonesia|Tangerang|PT Media Grasi Internet|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|38.41.5.107|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|11|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|12|117.40.32.133|8080|China|Taohua|Chinanet|
+|13|119.47.90.76|8080|Indonesia|Batang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|14|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|152.26.229.47|9443|United States|Concord|MCNC|
+|20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
 
