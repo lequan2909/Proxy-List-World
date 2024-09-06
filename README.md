@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.65.139.180|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|5|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|69.197.135.43|35389|United States|Kansas City|WholeSale Internet|
-|7|45.10.163.174|1080|Germany|Karlsruhe|Contabo GmbH|
-|8|41.189.173.155|3128|Ghana|Accra|Scancom Ltd.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|3|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|69.197.135.43|35389|United States|Kansas City|WholeSale Internet|
+|5|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|101.255.166.241|8080|Indonesia|Bekasi|PT Remala Abadi|
+|8|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
 |9|69.197.135.43|35389|United States|Kansas City|WholeSale Internet|
-|10|147.45.48.147|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
-|11|209.14.119.228|999|Colombia|Bogotá|AGIS|
-|12|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|14|176.236.232.50|9090|Türkiye|Kartal|Superonline Iletisim Hizmetleri A.S.|
-|15|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|16|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|49.157.62.205|8181|Philippines|Makati City|Eastern Telecommunications Philippines, Inc.|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|160.248.94.16|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|11|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|115.73.7.1|5102|Vietnam|Ho Chi Minh City|VIETELmetro|
+|14|171.237.64.23|5102|Vietnam|Hanoi|Viettel Corporation|
+|15|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|160.248.94.16|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|45.10.163.174|1080|Germany|Karlsruhe|Contabo GmbH|
+|19|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|20|36.76.103.115|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
 
 
 
