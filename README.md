@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.65.139.180|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|3|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
-|4|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
-|5|69.197.135.43|35389|United States|Kansas City|WholeSale Internet|
-|6|182.253.233.250|8080|Indonesia|Jakarta|BIZNET|
-|7|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|8|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|1|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|69.197.135.43|35389|United States|Kansas City|WholeSale Internet|
+|4|159.65.139.180|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|117.5.19.111|5102|Vietnam|Vĩnh Yên|VIETTEL|
+|7|182.253.233.250|8080|Indonesia|Jakarta|BIZNET|
+|8|103.148.45.60|8833|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
 |9|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|45.10.163.174|1080|Germany|Karlsruhe|Contabo GmbH|
-|12|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
-|13|69.197.135.43|35389|United States|Kansas City|WholeSale Internet|
-|14|173.249.34.184|3128|Germany|Nuremberg|Contabo GmbH|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|223.205.28.208|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|17|223.25.110.225|1080|Indonesia|Surabaya|SinergiNet|
-|18|109.165.195.11|8181|Bosnia and Herzegovina|Bijeljina|TEOL-ADSL|
-|19|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|11|69.197.135.43|35389|United States|Kansas City|WholeSale Internet|
+|12|173.249.34.184|3128|Germany|Nuremberg|Contabo GmbH|
+|13|45.10.163.174|1080|Germany|Karlsruhe|Contabo GmbH|
+|14|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|15|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|16|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|43.229.254.221|8181|Indonesia|Bandung|PT. Media Antar Nusa|
+|20|160.248.11.213|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
