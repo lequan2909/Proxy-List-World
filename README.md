@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.156.248.45|8080|Indonesia|Medan|Trans Media Telekomunikasi|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|103.189.116.115|8080|Indonesia|Temanggung|PT Callysta Total Solusindo|
-|8|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|10|103.40.121.33|8089|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
-|11|72.10.160.170|16575|Canada|Montreal|GloboTech Communications|
-|12|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|67.43.227.227|30211|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|13039|Canada|Montreal|GloboTech Communications|
-|16|117.68.38.180|22968|China|Hefei|China Telecom|
-|17|125.209.110.83|39617|Pakistan|Karachi|Multinet 125-110/24|
-|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|19|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|67.43.227.227|30211|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|187.188.172.14|8080|Mexico|Puebla City|Total Play Telecomunicaciones SA De CV|
+|7|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
+|8|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|9|103.137.91.250|8080|Laos|Vientiane|SLT Network Co., LTD|
+|10|72.10.160.90|13039|Canada|Montreal|GloboTech Communications|
+|11|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|12|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
+|15|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|17|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|72.10.164.178|23765|Canada|Montreal|GloboTech Communications|
 
 
 
