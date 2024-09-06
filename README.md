@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|69.197.135.43|35389|United States|Kansas City|WholeSale Internet|
-|4|103.191.250.66|8083|Indonesia|Batam|PT Mulia Batam Net|
-|5|171.6.52.235|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|6|173.249.34.184|3128|Germany|Nuremberg|Contabo GmbH|
-|7|69.197.135.43|35389|United States|Kansas City|WholeSale Internet|
-|8|45.114.146.174|32650|India|Jaipur|Tejays Dynamic Limited|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|103.171.244.42|8088|Indonesia|Madiun|PT Data Arta Sedaya|
-|13|178.214.80.28|1981|Israel|Giv'on HaHadasha|Gemzo information technology Private Joint-Stock company|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|103.158.27.88|1212|Indonesia|Sleman|PT Madina Solusi Indonesia|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|152.26.229.46|9443|United States|Concord|MCNC|
-|19|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|69.197.135.43|35389|United States|Kansas City|WholeSale Internet|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|3|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|69.197.135.43|35389|United States|Kansas City|WholeSale Internet|
+|7|118.175.224.141|8088|Thailand|Lampang|TOT Public Company Limited|
+|8|185.215.24.44|8080|France|Paris|fr.naitways-network3 LIR|
+|9|103.157.24.84|7788|Indonesia|Depok|PT Dapur Remaja Multi Sarana|
+|10|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|69.197.135.43|35389|United States|Kansas City|WholeSale Internet|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|173.249.34.184|3128|Germany|Nuremberg|Contabo GmbH|
+|14|171.232.43.72|5106|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|103.31.132.42|9812|Indonesia|Kebon Melati|PT Arthatama Adhiprima Persada|
+|19|103.83.0.46|8080|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|20|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
