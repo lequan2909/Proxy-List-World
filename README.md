@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.248.11.213|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
-|7|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|160.248.11.213|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|180.191.32.166|8081|Philippines|Cabanatuan City|Globe Telecom|
 |9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|80.66.112.2|31280|Spain|La Zenia|Servicios Digitales Codinet S.L.|
-|12|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|14|117.40.32.133|8080|China|Taohua|Chinanet|
-|15|106.227.87.11|3128|China|Taohua|China Telecom|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|18|35.238.133.20|3128|United States|Council Bluffs|Google LLC|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|10|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|117.40.32.133|8080|China|Taohua|Chinanet|
+|13|103.162.63.181|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|16|101.255.117.197|8085|Indonesia|Jakarta|PT Remala Abadi|
+|17|157.66.16.40|8080|Indonesia|Jatibarang|PT Mitra Mandiri Network|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|35.238.133.20|3128|United States|Council Bluffs|Google LLC|
 
 
 
