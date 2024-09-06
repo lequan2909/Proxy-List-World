@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5353** proxies at the latest update. Usable proxies are below.
+> Scraper found **5335** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|193|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|650|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|192|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|633|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|227|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3325|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|103.177.199.29|1111|Indonesia|Bekasi|PT Eyza Kausa Sinergi Abadi|
-|6|47.236.156.89|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
-|10|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
-|11|171.248.236.134|5102|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|12|134.209.147.65|8080|India|Bengaluru|DigitalOcean, LLC|
-|13|103.102.12.153|8404|Indonesia|Rembangan|FISNET|
-|14|103.191.251.34|8083|Indonesia|Batam|PT Mulia Batam Net|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|15.204.161.192|18080|United States|Reston|OVH SAS|
-|17|58.136.238.61|8080|Thailand|Bangkok|AIS-Fibre|
-|18|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|49.48.95.95|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|1|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|2|47.236.156.89|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|159.65.139.180|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|103.124.196.218|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|5|203.29.27.210|7777|Indonesia|Jember|PT Indotrans Data|
+|6|27.76.176.83|5102|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|7|34.207.149.11|3128|United States|Ashburn|Amazon.com, Inc.|
+|8|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|171.5.46.108|8081|Thailand|Rayong|Triple T Broadband Public Company Limited|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|138.201.184.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|16|38.7.3.15|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|17|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|18|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|103.197.207.20|8080|Bangladesh|Gāzipur|Cosmopolitan Communications Limited Khan Sons Center 37|
+|20|103.36.10.0|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
 
 
 
