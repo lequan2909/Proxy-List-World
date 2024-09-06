@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|446|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|446|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|446|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|7|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|136.232.224.202|8080|India|Nellore|Reliance Jio Infocomm Limited|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|206.201.3.83|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|12|49.48.46.180|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|13|167.86.99.29|3128|Germany|Nuremberg|Contabo GmbH|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|16|189.201.153.91|999|Mexico|Tuxtla Gutiérrez|IP Matrix, S.A. de C.V.|
-|17|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|103.143.8.126|8089|India|Mumbai|Juweriyah Networks Private Limited|
-|20|188.121.117.214|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|1|61.7.191.124|8080|Thailand|Ao Nang|CAT Telecom Public Company Limited|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|77.243.81.20|32528|Kazakhstan|Almaty|PS Internet Company LLP|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|13|148.64.110.245|3129|United States|Oakland|Another Corporate ISP, LLC|
+|14|201.149.100.32|8085|Brazil|Cruzeiro do Oeste|Crznet Telecom Ltda|
+|15|148.64.110.245|3129|United States|Oakland|Another Corporate ISP, LLC|
+|16|103.102.15.41|18181|Indonesia|Rembangan|FISNET|
+|17|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|111.68.26.237|8080|Indonesia|Yogyakarta|GMEDIA|
+|20|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
