@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|159.65.139.180|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
-|5|139.84.217.120|3129|India|Bengaluru|The Constant Company, LLC|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|103.177.199.29|1111|Indonesia|Bekasi|PT Eyza Kausa Sinergi Abadi|
 |6|47.236.156.89|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|103.180.118.103|3128|Indonesia|Gresik|PT Persada Data Multimedia|
-|8|46.161.195.182|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|160.19.231.226|8080|Indonesia|Jakarta|PT TELSAR JAYA NETWORK TEKNOLOGY|
-|11|171.5.46.108|8081|Thailand|Rayong|Triple T Broadband Public Company Limited|
-|12|139.84.217.120|3129|India|Bengaluru|The Constant Company, LLC|
-|13|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|80.71.188.22|8080|Russia|Novosibirsk|MTS PJSC|
-|15|103.176.96.140|8082|Indonesia|Purwakarta|PT Global Sarana Elektronika|
-|16|182.253.102.67|3128|Indonesia|Cikampek|BIZNET|
-|17|103.102.12.153|8404|Indonesia|Rembangan|FISNET|
-|18|186.224.68.6|8080|Brazil|Cascavel|DIGITAL DESIGN SERVIÇOS DE TELECOMUNICAÇÕES EIRELI|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
+|10|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
+|11|171.248.236.134|5102|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|12|134.209.147.65|8080|India|Bengaluru|DigitalOcean, LLC|
+|13|103.102.12.153|8404|Indonesia|Rembangan|FISNET|
+|14|103.191.251.34|8083|Indonesia|Batam|PT Mulia Batam Net|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|58.136.238.61|8080|Thailand|Bangkok|AIS-Fibre|
+|18|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|49.48.95.95|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
 
 
 
