@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.207.149.11|3128|United States|Ashburn|Amazon.com, Inc.|
-|3|115.73.14.58|5102|Vietnam|Ho Chi Minh City|VIETELmetro|
-|4|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|5|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|159.65.139.180|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|171.5.46.108|8081|Thailand|Rayong|Triple T Broadband Public Company Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|34.207.149.11|3128|United States|Ashburn|Amazon.com, Inc.|
+|7|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|34.207.149.11|3128|United States|Ashburn|Amazon.com, Inc.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|223.25.110.206|1080|Indonesia|Surabaya|SinergiNet|
-|14|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|117.40.32.133|8080|China|Taohua|Chinanet|
-|19|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|20|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|115.73.14.58|5102|Vietnam|Ho Chi Minh City|VIETELmetro|
+|11|171.248.236.134|5102|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|12|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|152.26.231.86|9443|United States|Concord|MCNC|
+|18|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
