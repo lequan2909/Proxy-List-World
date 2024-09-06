@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|47.236.156.89|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|47.236.156.89|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|159.65.139.180|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|49.48.95.95|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|49.48.95.95|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|8|5.135.188.78|3127|France|Roubaix|OVH SAS|
+|9|103.177.199.29|1111|Indonesia|Bekasi|PT Eyza Kausa Sinergi Abadi|
 |10|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|117.40.32.133|8080|China|Taohua|Chinanet|
-|12|168.205.63.188|9090|Brazil|Frutal|TCF Telecomunicações Campo Florido Ltda|
-|13|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|14|5.135.188.78|3127|France|Roubaix|OVH SAS|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|77.242.30.9|8088|Albania|Tirana|Abissnet ISP|
-|17|49.49.38.229|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
-|18|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|103.243.177.90|8080|Indonesia|Kalicari|Universitas Katolik Soegijapranata|
-|20|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|168.205.63.188|9090|Brazil|Frutal|TCF Telecomunicações Campo Florido Ltda|
+|12|39.62.3.7|3127|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
+|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|14|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|186.215.68.51|3127|Brazil|Brasília|Vivo|
+|19|91.92.181.99|8090|Iran|Tehran|TIC|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
