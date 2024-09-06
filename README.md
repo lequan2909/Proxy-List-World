@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|2|47.236.156.89|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
 |3|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|160.248.94.16|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|7|139.84.220.92|3129|India|Bengaluru|The Constant Company, LLC|
-|8|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|27.71.168.233|5102|Vietnam|Duy Xuyên|Viettel Group|
-|10|139.84.220.92|3129|India|Bengaluru|The Constant Company, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|14.167.35.72|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|13|177.222.25.9|8080|Brazil|Duque de Caxias|Wireless Comm Services LTDA|
-|14|103.75.54.230|8080|Indonesia|Jakarta|PT Quantum Tera Network|
-|15|103.247.122.166|8080|Indonesia|Semarang|PT Media Sarana Data|
-|16|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|17|160.248.91.125|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|152.26.231.83|9443|United States|Concord|MCNC|
-|20|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|160.248.94.16|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
+|7|83.54.10.24|3128|Spain|León|Telefonica de Espana SAU|
+|8|103.180.118.76|3128|Indonesia|Gresik|PT Persada Data Multimedia|
+|9|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
+|11|223.206.190.238|8080|Thailand|Sam Phran|Triple T Broadband Public Company Limited|
+|12|47.236.156.89|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|103.174.236.72|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|14|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
+|15|188.132.222.162|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|164.92.167.4|1194|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|19|45.117.29.33|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|20|202.51.121.59|8080|Indonesia|Kebon Sirih|PT iForte Global Internet|
 
 
 
