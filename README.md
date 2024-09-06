@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5346** proxies at the latest update. Usable proxies are below.
+> Scraper found **5298** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|169|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|786|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|738|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|283|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3150|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|119.18.149.9|5020|Bangladesh|Chittagong|BBTS Network|
-|13|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|14|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|124.105.24.80|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|16|120.28.204.19|80|Philippines|Cagayan de Oro|Globe Telecom|
-|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|200.76.28.202|999|Mexico|Reynosa|Alestra, S. de R.L. de C.V.|
-|20|93.125.3.22|8080|Belarus|Minsk|TELECOMAT|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|117.40.32.133|8080|China|Taohua|Chinanet|
+|6|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
+|7|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|8|103.162.63.127|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|9|117.40.32.133|8080|China|Taohua|Chinanet|
+|10|117.40.32.135|8080|China|Taohua|Chinanet|
+|11|152.26.229.42|9443|United States|Concord|MCNC|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|14|67.43.236.20|5189|Canada|Montreal|GloboTech Communications|
+|15|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|103.76.151.74|8089|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|17|72.10.160.90|31239|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
