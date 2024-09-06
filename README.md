@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|103.154.139.83|8080|Indonesia|Jakarta|MORATELINDONAP|
+|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|4|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|202.51.212.146|8080|Indonesia|Cibinong|PT. Sejahtera Globalindo|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|103.239.253.66|8080|Bangladesh|Dhaka|Carnival Internet|
-|11|103.143.168.58|84|India|Hyderabad|Aspt Networks Pvt Ltd|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|41.189.173.155|3128|Ghana|Accra|Scancom Ltd.|
-|16|72.10.160.173|13121|Canada|Montreal|GloboTech Communications|
-|17|152.26.231.93|9443|United States|Concord|MCNC|
-|18|204.199.202.132|999|Mexico|Teotihuacán|Cirion Technologies Solutions|
-|19|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|72.10.164.178|8273|Canada|Montreal|GloboTech Communications|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|8|41.189.173.155|3128|Ghana|Accra|Scancom Ltd.|
+|9|187.157.243.254|8080|Mexico|Puebla City|Uninet S.A. de C.V.|
+|10|106.227.87.11|3128|China|Taohua|China Telecom|
+|11|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|103.143.168.58|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|14|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|152.26.231.93|9443|United States|Concord|MCNC|
+|17|72.10.164.178|26291|Canada|Montreal|GloboTech Communications|
+|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
