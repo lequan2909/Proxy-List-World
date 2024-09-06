@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|116.104.174.192|5020|Vietnam|Hanoi|Viettel Corporation|
-|6|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|8|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
-|9|103.186.8.162|8080|Indonesia|Kediri|PRISMA|
-|10|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|128.90.43.62|8118|United States|Austin|Paradise Networks LLC|
-|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
+|3|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|171.5.163.156|8080|Thailand|Phuket|Triple T Broadband Public Company Limited|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|202.52.12.86|8080|Indonesia|Bandung|PT SKYLINE SEMESTA|
+|9|103.110.10.69|3127|Indonesia|Bandung|PT Citra Jelajah Informatika|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
+|14|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|203.192.217.6|8080|India|Delhi|Entire In2Cable|
 |16|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|103.203.233.105|3125|Indonesia|Klapanunggal|INDANA|
-|19|191.102.248.6|8085|Argentina|Rosario|IP·RED|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|102.211.108.2|8082|Mozambique|Maputo|Netmoz Sociedade Unipessoal Lda|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|58.69.247.70|8083|Philippines|Taal|Philippine Long Distance Telephone Co.|
 
 
 
