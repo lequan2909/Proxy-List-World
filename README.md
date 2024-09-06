@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|45.127.56.194|83|India|Hyderabad|Pioneer Elabs Ltd|
 |4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|152.26.229.86|9443|United States|Concord|MCNC|
-|7|152.26.229.42|9443|United States|Concord|MCNC|
-|8|152.26.231.86|9443|United States|Concord|MCNC|
-|9|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|10|67.43.228.251|20605|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.173|11625|Canada|Montreal|GloboTech Communications|
-|12|168.138.211.5|8080|Japan|Tokyo|Oracle Corporation|
-|13|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|14|103.41.90.52|84|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|15|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|16|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|17|72.10.160.170|6133|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|26165|Canada|Montreal|GloboTech Communications|
-|19|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
+|5|58.69.137.62|8081|Philippines|Paombong|Philippine Long Distance Telephone Co.|
+|6|103.40.121.33|8089|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
+|7|181.205.28.66|46380|Colombia|Medellín|Colombia Móvil|
+|8|38.183.144.108|8080|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
+|9|152.26.229.42|9443|United States|Concord|MCNC|
+|10|152.26.231.86|9443|United States|Concord|MCNC|
+|11|152.26.229.86|9443|United States|Concord|MCNC|
+|12|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|13|103.67.84.78|8085|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
+|14|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|15|72.10.164.178|30013|Canada|Montreal|GloboTech Communications|
+|16|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
+|18|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
+|19|85.118.117.165|8080|Georgia|Tbilisi|EGRISI|
 |20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
