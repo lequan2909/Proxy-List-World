@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 |2|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |3|216.238.186.130|80|United States|Castro Valley|Etheric Networks, Inc.|
 |4|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
-|5|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|6|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
-|7|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|216.238.186.130|80|United States|Castro Valley|Etheric Networks, Inc.|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |9|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
-|10|216.238.186.130|80|United States|Castro Valley|Etheric Networks, Inc.|
-|11|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|186.225.19.57|8080|Brazil|Mogi das Cruzes|76 TELECOMUNICAÇÃO LTDA|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|17|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|210.87.89.229|8080|Indonesia|Teluknaga|MYREPUBLIC|
+|10|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|117.40.32.133|8080|China|Taohua|Chinanet|
+|15|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|16|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|18|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
