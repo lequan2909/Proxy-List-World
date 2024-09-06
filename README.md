@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|160.248.11.229|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|3|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|160.248.11.229|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|223.205.182.32|8080|Thailand|Hat Yai|Triple T Broadband Public Company Limited|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|43.167.241.228|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|9|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|10|103.66.196.166|8080|Indonesia|Bekasi|PT. Mora Telematika Indonesia|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|9|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
+|12|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |13|152.26.229.93|9443|United States|Concord|MCNC|
-|14|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|190.104.20.82|8080|Bolivia|Santa Cruz|Telefónica Celular de Bolivia S.A.|
-|16|72.10.164.178|1307|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.46|9443|United States|Concord|MCNC|
+|14|117.40.32.133|8080|China|Taohua|Chinanet|
+|15|152.26.229.46|9443|United States|Concord|MCNC|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|17|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
 |18|72.10.164.178|1307|Canada|Montreal|GloboTech Communications|
-|19|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|20|157.90.14.155|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|67.43.236.20|26655|Canada|Montreal|GloboTech Communications|
 
 
 
