@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|202.180.20.10|55443|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|8|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|203.176.129.85|8080|Cambodia|Phnom Penh|Angkor Data Communication|
-|13|45.4.132.144|8080|Brazil|Pedro Leopoldo|R2 DADOS LTDA - ME|
-|14|103.171.244.45|8088|Indonesia|Madiun|PT Data Arta Sedaya|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|24.34.197.15|8080|United States|Wayland|Comcast Cable Communications|
-|17|24.34.197.15|8080|United States|Wayland|Comcast Cable Communications|
-|18|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|19|177.12.107.167|443|Brazil|Cajazeiras|Netline Telecom|
-|20|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|8|207.180.192.43|8118|Germany|Nuremberg|Contabo GmbH|
+|9|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|12|160.20.165.231|8587|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|13|103.148.131.108|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
