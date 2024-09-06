@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|3|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|36.93.22.154|8080|Indonesia|Keagungan|Telekomunikasi Indonesia|
-|6|77.37.132.129|8080|Russia|Moscow|NCNET|
-|7|103.168.44.210|3127|Indonesia|Jakarta|PT CYB Media Group|
-|8|5.32.37.218|8080|United Arab Emirates|Dubai|Emirates Integrated Telecommunications Company PJSC|
-|9|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|10|45.121.41.11|8080|Indonesia|Makassar|FAJAR|
-|11|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|103.1.50.17|3125|Indonesia|Pasuruan|CPCNet Hong Kong Ltd. - IP Administrator|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|223.25.110.206|1080|Indonesia|Surabaya|SinergiNet|
-|17|103.125.50.234|8080|Indonesia|Pondok Bambu|PT. Eka Mas Republik|
-|18|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|19|15.204.161.192|18080|United States|Reston|OVH SAS|
-|20|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|4|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|8|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|37.26.86.206|47464|Albania|Tirana|ATU|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|103.69.106.183|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
+|14|170.245.132.82|9000|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
+|15|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|16|103.25.110.222|8080|Indonesia|Banjar|PT. Indonesia Comnet Plus|
+|17|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|19|117.68.38.158|20133|China|Hefei|China Telecom|
+|20|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
 
 
 
