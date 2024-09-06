@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|47.88.17.170|8118|United States|Minkler|Alibaba.com LLC|
 |2|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|81.19.141.2|3128|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|7|148.64.110.245|3129|United States|Oakland|Another Corporate ISP, LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|162.254.38.91|3128|United States|Los Angeles|Namecheap, Inc.|
 |8|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|148.64.110.245|3129|United States|Oakland|Another Corporate ISP, LLC|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|103.171.156.218|8080|Indonesia|Jakarta|MYREPUBLIC|
-|12|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|69.75.140.157|8080|United States|Los Angeles|Spectrum|
-|15|103.122.0.91|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
-|16|185.208.102.133|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|17|116.206.56.142|8080|Bangladesh|Dhaka|Aamra Management Solution|
-|18|201.234.186.234|999|Colombia|Bogotá|Level 3 Colombia S.A|
-|19|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|20|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|9|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|193.188.22.20|3128|United States|Los Angeles|Aeza International LTD|
+|12|188.121.117.214|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|13|191.102.248.4|8085|Argentina|Rosario|IP·RED|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|17|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|31.172.72.216|8080|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
