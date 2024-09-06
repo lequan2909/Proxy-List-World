@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|27.64.29.170|8085|Vietnam|Ho Chi Minh City|Viettel Group|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|69.197.135.43|35389|United States|Kansas City|WholeSale Internet|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|5|49.149.113.57|8082|Philippines|Malaybalay|Philippine Long Distance Telephone Co.|
-|6|117.5.237.25|5102|Vietnam|Hanoi|VIETTEL|
-|7|69.197.135.43|35389|United States|Kansas City|WholeSale Internet|
-|8|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|9|185.215.24.44|8080|France|Paris|fr.naitways-network3 LIR|
-|10|173.249.34.184|3128|Germany|Nuremberg|Contabo GmbH|
-|11|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|171.6.52.235|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|13|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|14|69.197.135.43|35389|United States|Kansas City|WholeSale Internet|
-|15|91.203.179.72|65056|Russia|Smolensk|MAN net Ltd.|
-|16|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|17|125.25.145.168|8080|Thailand|Bangkok|TOT Public Company Limited|
-|18|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|103.164.160.66|4995|Bangladesh|Feni|Genfive Technology|
+|5|36.72.254.207|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|7|49.149.113.57|8082|Philippines|Malaybalay|Philippine Long Distance Telephone Co.|
+|8|118.175.224.141|8088|Thailand|Lampang|TOT Public Company Limited|
+|9|173.249.34.184|3128|Germany|Nuremberg|Contabo GmbH|
+|10|157.20.100.10|1111|Indonesia|Jakarta|PT Muria Global Network|
+|11|69.197.135.43|35389|United States|Kansas City|WholeSale Internet|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|171.4.81.112|8080|Thailand|Rayong|Triple T Broadband Public Company Limited|
+|15|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|27.64.29.170|8085|Vietnam|Ho Chi Minh City|Viettel Group|
+|17|41.189.173.155|3128|Ghana|Accra|Scancom Ltd.|
+|18|101.109.176.196|8080|Thailand|Bangkok|TOT Public Company Limited|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
 
 
 
