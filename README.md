@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|7|164.92.167.4|1194|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|177.37.217.45|8080|Brazil|Caruaru|Brisanet Servicos De Telecomunicacoes Ltda|
 |8|152.26.231.94|9443|United States|Concord|MCNC|
-|9|103.40.121.33|8089|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
-|10|67.43.228.253|20697|Canada|Montreal|GloboTech Communications|
+|9|152.26.229.83|9443|United States|Concord|MCNC|
+|10|201.77.107.0|8087|Brazil|Porto Alegre|TURBONET - Provedor de Acesso a Internet|
 |11|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|12|152.26.229.83|9443|United States|Concord|MCNC|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|103.35.109.205|58080|Bangladesh|Dhaka|Ranks ITT|
-|15|27.147.218.162|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|16|103.48.68.75|83|India|Hyderabad|Country Online Services PVT LTD|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|67.43.227.228|19331|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.42|9443|United States|Concord|MCNC|
-|20|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
+|12|64.225.96.122|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|152.26.231.86|9443|United States|Concord|MCNC|
+|14|152.26.231.42|9443|United States|Concord|MCNC|
+|15|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|152.26.229.34|9443|United States|Concord|MCNC|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
