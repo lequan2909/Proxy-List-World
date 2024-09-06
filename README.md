@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|6|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|103.127.220.130|8080|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|206.84.104.126|8080|Indonesia|Jakarta|AGIS|
-|17|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|18|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|19|72.10.164.178|20075|Canada|Montreal|GloboTech Communications|
-|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|8|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|122.54.165.123|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|13|152.26.229.42|9443|United States|Concord|MCNC|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|72.10.164.178|20075|Canada|Montreal|GloboTech Communications|
+|16|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|201.144.25.10|8080|Mexico|Mexico City|UNINET|
+|19|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
+|20|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
