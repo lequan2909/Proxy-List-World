@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|160.248.94.16|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|4|43.167.243.107|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|161.34.35.245|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|139.84.215.83|3129|India|Bengaluru|The Constant Company, LLC|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
-|11|139.84.215.83|3129|India|Bengaluru|The Constant Company, LLC|
-|12|202.51.121.59|8080|Indonesia|Kebon Sirih|PT iForte Global Internet|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|47.236.156.89|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|14.167.35.72|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|103.124.138.149|8080|Indonesia|Adiwerna|Global Media Data Prima|
-|18|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|3|161.34.35.245|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|6|115.74.116.141|5106|Vietnam|Ho Chi Minh City|VIETELxdsl|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|139.84.158.191|3129|India|Bengaluru|The Constant Company, LLC|
+|9|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
+|12|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
+|13|188.125.167.67|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|103.115.31.39|8181|Indonesia|Depok|HSPNET|
+|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|18|117.40.32.133|8080|China|Taohua|Chinanet|
+|19|202.179.95.174|58080|India|Mumbai|Ankhnet|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
