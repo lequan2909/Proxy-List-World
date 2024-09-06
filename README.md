@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|171.97.85.194|8080|Thailand|Khon Kaen|True Internet Corporation CO. Ltd.|
-|4|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|103.147.118.240|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
-|9|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|106.227.87.11|3128|China|Taohua|China Telecom|
-|13|190.94.212.199|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|14|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|15|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|16|160.248.94.16|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|67.43.228.254|8105|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.46|9443|United States|Concord|MCNC|
-|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|20|175.143.205.175|3128|Malaysia|Puchong Batu Dua Belas|TM TECHNOLOGY SERVICES SDN BHD|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|171.97.85.194|8080|Thailand|Khon Kaen|True Internet Corporation CO. Ltd.|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|113.192.30.159|1111|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|16|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|17|103.48.68.171|83|India|Hyderabad|Country Online Services PVT LTD|
+|18|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|20|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
 
 
 
