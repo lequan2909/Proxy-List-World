@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|110.78.85.161|8080|Thailand|Chon Buri|CAT Telecom Public Company Limited|
-|11|103.124.139.212|1080|Indonesia|Semarang|Global Media Data Prima|
-|12|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|13|118.70.12.171|53281|Vietnam|Hanoi|FPT Telecom Company|
-|14|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|152.26.229.47|9443|United States|Concord|MCNC|
+|1|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|103.105.76.214|9090|Indonesia|Bojonegoro|GARUDA|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|14|117.40.32.133|8080|China|Taohua|Chinanet|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|179.228.17.8|8080|Brazil|São Paulo|Vivo|
+|17|103.76.151.114|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|216.238.186.130|80|United States|Castro Valley|Etheric Networks, Inc.|
+|20|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
