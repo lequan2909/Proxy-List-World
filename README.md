@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
 |5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|6|103.189.250.89|8090|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|202.93.244.38|8080|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
+|9|109.111.152.43|53281|Russia|Kaliningrad|TIS-DIALOG|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
 |11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|115.74.246.138|8080|Vietnam|Quận Mười Một|VIETELxdsl|
-|14|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|15|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|122.152.4.135|6000|Japan|Chiyoda|FreeBit Co., Ltd.|
-|18|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|19|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|20|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|15|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
