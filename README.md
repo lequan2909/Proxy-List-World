@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.11.229|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|152.26.229.93|9443|United States|Concord|MCNC|
-|8|152.26.229.83|9443|United States|Concord|MCNC|
-|9|117.40.32.133|8080|China|Taohua|Chinanet|
-|10|67.43.228.253|11523|Canada|Montreal|GloboTech Communications|
-|11|152.26.229.47|9443|United States|Concord|MCNC|
-|12|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|13|72.10.160.90|15049|Canada|Montreal|GloboTech Communications|
-|14|173.249.34.184|3128|Germany|Nuremberg|Contabo GmbH|
-|15|161.34.35.245|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|67.43.227.227|23631|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|30081|Canada|Montreal|GloboTech Communications|
-|19|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
-|20|72.10.164.178|4239|Canada|Montreal|GloboTech Communications|
+|2|47.236.156.89|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|160.248.11.229|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|110.78.164.224|8888|Thailand|Bangkok|CAT-BB|
+|5|115.127.5.146|8674|Bangladesh|Dhaka|bracNet|
+|6|152.26.229.93|9443|United States|Concord|MCNC|
+|7|152.26.229.83|9443|United States|Concord|MCNC|
+|8|152.26.229.47|9443|United States|Concord|MCNC|
+|9|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|10|161.34.35.245|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|113.240.99.148|65007|China|Qingyuan|No.293, Wanbao Avenue|
+|12|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|72.10.164.178|3149|Canada|Montreal|GloboTech Communications|
+|14|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|117.40.32.135|8080|China|Taohua|Chinanet|
+|16|173.249.34.184|3128|Germany|Nuremberg|Contabo GmbH|
+|17|117.40.32.134|8080|China|Taohua|Chinanet|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|72.10.160.90|9507|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.92|3669|Canada|Montreal|GloboTech Communications|
 
 
 
