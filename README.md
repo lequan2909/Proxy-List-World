@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|49.145.178.200|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|152.26.229.47|9443|United States|Concord|MCNC|
-|14|67.43.236.20|21771|Canada|Montreal|GloboTech Communications|
-|15|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|16|152.26.229.93|9443|United States|Concord|MCNC|
-|17|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|18|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|152.26.229.83|9443|United States|Concord|MCNC|
-|20|204.199.202.132|999|Mexico|Teotihuacán|Cirion Technologies Solutions|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|152.26.229.47|9443|United States|Concord|MCNC|
+|12|152.26.229.93|9443|United States|Concord|MCNC|
+|13|103.126.219.37|8080|Bangladesh|Dhaka|MD IMTIAZ KHAN ABIR|
+|14|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|15|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|16|152.26.229.83|9443|United States|Concord|MCNC|
+|17|91.203.242.66|222|Russia|Moscow|JSC Advanced Business Network|
+|18|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|103.69.20.28|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|20|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
 
 
 
