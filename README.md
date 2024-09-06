@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|103.165.157.79|8090|Indonesia|Taman|MEGADATA-ISP|
+|3|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.31.132.42|9812|Indonesia|Kebon Melati|PT Arthatama Adhiprima Persada|
-|6|187.157.243.254|8080|Mexico|Puebla City|Uninet S.A. de C.V.|
-|7|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|41.189.173.155|3128|Ghana|Accra|Scancom Ltd.|
-|9|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|154.72.67.190|8080|Tanzania|Dar es Salaam|RAHA-LTZ|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|103.143.168.58|84|India|Hyderabad|Aspt Networks Pvt Ltd|
-|14|110.78.85.161|8080|Thailand|Chon Buri|CAT Telecom Public Company Limited|
-|15|93.157.12.234|8080|Russia|Moscow|PE "TK AMT"|
-|16|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|41.189.173.155|3128|Ghana|Accra|Scancom Ltd.|
+|6|59.152.104.29|8080|Bangladesh|Dhaka|Earth Telecommunication ( pvt ) Limited|
+|7|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|103.83.0.46|8080|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|124.6.165.155|8082|Philippines|Lahug|INNOVE|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|117.40.32.133|8080|China|Taohua|Chinanet|
+|15|187.157.243.254|8080|Mexico|Puebla City|Uninet S.A. de C.V.|
+|16|103.239.253.66|8080|Bangladesh|Dhaka|Carnival Internet|
 |17|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|103.250.130.106|8085|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|19|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|20|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|19|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
