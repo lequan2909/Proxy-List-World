@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.207.149.11|3128|United States|Ashburn|Amazon.com, Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
-|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|34.207.149.11|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|115.73.14.58|5102|Vietnam|Ho Chi Minh City|VIETELmetro|
-|8|77.242.30.9|8088|Albania|Tirana|Abissnet ISP|
-|9|160.19.231.226|8080|Indonesia|Jakarta|PT TELSAR JAYA NETWORK TEKNOLOGY|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|34.207.149.11|3128|United States|Ashburn|Amazon.com, Inc.|
+|8|103.217.216.12|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|9|49.48.95.95|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|34.207.149.11|3128|United States|Ashburn|Amazon.com, Inc.|
 |12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|103.248.196.73|3125|Indonesia|Tarutung|PERMANA|
-|14|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|171.248.236.134|5102|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|16|15.204.161.192|18080|United States|Reston|OVH SAS|
-|17|103.190.171.155|1111|Indonesia|Jakarta|WMS|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|201.67.24.237|8080|Brazil|Goiânia|V tal|
-|20|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|91.92.181.99|8090|Iran|Tehran|TIC|
+|15|89.46.249.253|53018|United Kingdom|London|Hydra Communications Ltd|
+|16|43.252.237.211|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|17|49.49.38.229|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
+|18|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
