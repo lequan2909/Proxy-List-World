@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
-|5|103.172.70.191|8181|Indonesia|Gemolong|AZNET|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|192.99.169.19|8450|Canada|Beauharnois|OVH SAS|
-|8|202.180.20.10|55443|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|9|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|181.114.62.1|8085|Argentina|Ramallo|INTERAIR|
-|12|103.124.196.134|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|13|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|36.67.199.171|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|16|177.12.107.167|443|Brazil|Cajazeiras|Netline Telecom|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|3|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|103.156.140.203|8080|Indonesia|Jember|PT Tekling Media Telematika|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|103.178.43.26|8080|Indonesia|Jakarta|PT PHATRIA INTI PERSADA|
+|10|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|13|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|15|103.197.241.55|32650|Cambodia|Phnom Penh|COGETEL Co., Ltd|
+|16|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
