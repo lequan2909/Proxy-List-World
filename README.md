@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|36.93.22.154|8080|Indonesia|Keagungan|Telekomunikasi Indonesia|
-|5|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|2|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|186.148.175.118|999|Colombia|Paz de Ariporo|TV AZTECA SUCURSAL COLOMBIA|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|175.100.98.190|8080|Cambodia|Phumĭ Kândal|VIETTEL (CAMBODIA) PTE., LTD|
+|7|77.37.132.129|8080|Russia|Moscow|NCNET|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |9|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|10|103.69.106.183|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.1.50.17|3125|Indonesia|Pasuruan|CPCNet Hong Kong Ltd. - IP Administrator|
-|13|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|200.76.28.202|999|Mexico|Reynosa|Alestra, S. de R.L. de C.V.|
+|11|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|49.49.136.175|8080|Thailand|Prachin Buri|Triple T Broadband Public Company Limited|
 |14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|182.253.69.95|8080|Indonesia|Ciputat|BIZNET|
-|16|106.227.87.11|3128|China|Taohua|China Telecom|
-|17|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|18|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|152.26.229.83|9443|United States|Concord|MCNC|
-|20|103.35.109.205|58080|Bangladesh|Dhaka|Ranks ITT|
+|15|200.119.218.94|999|Bolivia|Santa Cruz|Cotas Ltda.|
+|16|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
+|18|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
+|20|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
 
 
 
