@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.164.112.123|10001|Indonesia|Jakarta|SOLUSINET|
-|11|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|113.160.241.196|19132|Vietnam|Yên Lập|VietNam Post and Telecom Corporation|
-|15|117.40.32.133|8080|China|Taohua|Chinanet|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|18|152.26.231.83|9443|United States|Concord|MCNC|
-|19|181.224.207.142|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
-|20|171.241.193.60|10001|Vietnam|Thanh Hóa|Viettel Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|7|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|12|117.40.32.133|8080|China|Taohua|Chinanet|
+|13|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|117.40.32.134|8080|China|Taohua|Chinanet|
+|16|152.26.231.83|9443|United States|Concord|MCNC|
+|17|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|18|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|19|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|20|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 
 
 
