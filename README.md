@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|395|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|395|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|395|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.11.224|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|5|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|188.132.222.8|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|14|181.78.95.30|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|15|160.248.11.224|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|72.10.160.90|6139|Canada|Montreal|GloboTech Communications|
-|18|103.81.64.85|8080|Indonesia|Bandar Lampung|QIUNET|
-|19|152.26.231.94|9443|United States|Concord|MCNC|
-|20|181.209.111.146|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|1|160.248.11.224|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|8|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|18|15.204.161.192|18080|United States|Reston|OVH SAS|
+|19|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
