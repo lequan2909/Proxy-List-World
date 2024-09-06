@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.91.126|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|1|160.248.91.126|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |5|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|6|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|7|116.96.37.141|9002|Vietnam|Hanoi|Viettel Corporation|
-|8|171.241.57.18|5106|Vietnam|Hanoi|Viettel Corporation|
-|9|112.201.188.62|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|10|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|117.5.6.125|5102|Vietnam|Thanh Hóa|VIETTEL|
-|14|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|15|49.49.188.43|8080|Thailand|Wang Noi|Triple T Broadband Public Company Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|42.113.238.102|32650|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|8|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|9|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|11|41.189.173.155|3128|Ghana|Accra|Scancom Ltd.|
+|12|103.189.249.207|8090|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
+|13|94.102.228.70|32650|Montenegro|Podgorica|One Crna Gora DOO|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
 |16|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |17|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|18|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|19|152.26.231.94|9443|United States|Concord|MCNC|
+|18|38.183.144.108|8080|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
+|19|117.40.32.133|8080|China|Taohua|Chinanet|
 |20|160.248.11.213|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
