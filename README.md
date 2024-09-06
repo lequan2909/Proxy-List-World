@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|125.25.145.168|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
-|6|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|7|103.180.126.42|8181|Indonesia|Jakarta|PT Alam Media Data|
-|8|41.189.173.155|3128|Ghana|Accra|Scancom Ltd.|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|103.143.168.58|84|India|Hyderabad|Aspt Networks Pvt Ltd|
-|11|186.166.138.51|999|Venezuela|Barinas|TELEFONICA VENEZOLANA, C.A.|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
-|15|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|94.231.192.2|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|106.227.87.11|3128|China|Taohua|China Telecom|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|117.40.32.133|8080|China|Taohua|Chinanet|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|203.150.128.144|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|7|41.189.173.155|3128|Ghana|Accra|Scancom Ltd.|
+|8|103.70.93.70|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|9|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|103.114.97.98|8999|Bangladesh|Chatkhil|Skynet Chowmuhani|
+|13|124.6.165.155|8082|Philippines|Lahug|INNOVE|
+|14|103.158.27.88|1212|Indonesia|Sleman|PT Madina Solusi Indonesia|
+|15|186.16.14.104|3131|Paraguay|Asunción|Telecel S.A.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|190.104.20.85|8080|Bolivia|Santa Cruz|Telefónica Celular de Bolivia S.A.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|190.61.116.42|8080|Honduras|Tegucigalpa|Ufinet Honduras|
+|20|103.48.68.75|83|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
