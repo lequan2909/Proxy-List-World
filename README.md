@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|47.236.156.89|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|114.130.153.46|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|1|160.248.11.229|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|177.93.40.56|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|5|103.76.151.74|8089|Indonesia|Cibinong|PT. Java Digital Nusantara|
 |6|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|7|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|181.224.207.142|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|45.71.184.197|999|Ecuador|Naranjito|Ufinet Panama S.A.|
-|12|72.128.133.154|16099|United States|Hutto|Charter Communications|
-|13|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|14|152.26.229.86|9443|United States|Concord|MCNC|
-|15|160.248.91.126|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|117.40.32.133|8080|China|Taohua|Chinanet|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|190.85.141.170|9090|Colombia|Bogotá|Telmex Colombia S.A.|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|152.26.229.83|9443|United States|Concord|MCNC|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|117.40.32.133|8080|China|Taohua|Chinanet|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|45.235.16.121|27234|Brazil|Chapecó|Acessoline Telecom|
+|11|152.26.229.86|9443|United States|Concord|MCNC|
+|12|152.26.229.93|9443|United States|Concord|MCNC|
+|13|117.40.32.133|8080|China|Taohua|Chinanet|
+|14|103.243.177.90|8080|Indonesia|Kalicari|Universitas Katolik Soegijapranata|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|152.26.229.83|9443|United States|Concord|MCNC|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
+|20|160.248.91.126|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
