@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|7|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
-|8|103.144.102.230|8085|Indonesia|Bandung|PANDAWANET|
-|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|10|103.148.24.234|8080|Indonesia|Mojokerto|Menaksopal Link Nusantara|
-|11|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
-|12|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|72.10.164.178|19373|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.173|15147|Canada|Montreal|GloboTech Communications|
-|17|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|18|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|72.10.164.178|19373|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|19373|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
+|3|167.86.99.29|3128|Germany|Nuremberg|Contabo GmbH|
+|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|6|77.243.81.20|32528|Kazakhstan|Almaty|PS Internet Company LLP|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
+|9|186.3.98.230|999|Ecuador|Esmeraldas|Telconet S.A|
+|10|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|103.123.64.234|3128|Indonesia|Surabaya|CEPATNET|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|119.2.45.51|8080|Indonesia|Jakarta|PT. Laxo Global Akses|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|193.188.22.20|3128|United States|Los Angeles|Aeza International LTD|
+|17|69.75.140.157|8080|United States|Los Angeles|Spectrum|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
 
 
 
