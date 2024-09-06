@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|203.150.113.113|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|36.95.3.243|8080|Indonesia|Padang|PT. Telekomunikasi Indonesia|
-|14|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|45.177.179.65|999|Mexico|San Luis Potosí City|Wantelco SAS de CV|
-|18|152.26.231.83|9443|United States|Concord|MCNC|
-|19|177.37.217.45|8080|Brazil|Caruaru|Brisanet Servicos De Telecomunicacoes Ltda|
-|20|72.10.164.178|21707|Canada|Montreal|GloboTech Communications|
+|2|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|103.159.194.131|8080|Indonesia|Welahan|PT Giga Digital Nusantara|
+|4|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|103.67.84.78|8085|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|203.150.113.113|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|8|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|11|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|152.26.231.42|9443|United States|Concord|MCNC|
+|15|103.35.109.205|58080|Bangladesh|Dhaka|Ranks ITT|
+|16|152.26.231.83|9443|United States|Concord|MCNC|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|72.10.160.170|27411|Canada|Montreal|GloboTech Communications|
+|19|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|38.183.144.108|8080|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
 
 
 
