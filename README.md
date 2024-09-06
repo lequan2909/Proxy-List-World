@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|117.4.115.59|8080|Vietnam|Bắc Ninh|VIETTEL|
-|7|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|8|200.76.28.202|999|Mexico|Reynosa|Alestra, S. de R.L. de C.V.|
-|9|72.10.160.174|13291|Canada|Montreal|GloboTech Communications|
-|10|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|12|152.26.229.93|9443|United States|Concord|MCNC|
-|13|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|15|182.252.70.220|8082|Bangladesh|Kāfrul|Agni Systems Limited|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|152.26.229.47|9443|United States|Concord|MCNC|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|113.240.99.148|65007|China|Qingyuan|No.293, Wanbao Avenue|
-|20|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
+|2|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|4|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|62.171.183.48|3128|Germany|Nuremberg|Contabo GmbH|
+|9|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|13|103.227.61.51|8899|Australia|Sydney|Origin Net Pty Ltd|
+|14|168.228.51.84|999|Costa Rica|Quesada|Cooperativa de Electrificación Rural de San Carlos R.L. (Coopelesca R.L.)|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|103.88.239.118|84|India|Hyderabad|Mana Communications|
+|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|18|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
+|19|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|20|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
