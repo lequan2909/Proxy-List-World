@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|103.153.63.146|8080|Indonesia|Bekasi|IMEDIANET|
-|5|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|89.237.32.65|37647|Russia|Novotroitsk|multi-origin SUTTK|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
+|4|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|45.117.64.3|8080|India|Hyderabad|Mithril Telecommunications Private Limited|
+|6|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.178.42.23|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|49.48.104.248|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|11|203.150.113.113|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|103.18.47.139|80|Indonesia|Tangerang|PT. Fiber Networks Indonesia|
-|14|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|16|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|103.51.21.165|8080|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|103.48.68.75|83|India|Hyderabad|Country Online Services PVT LTD|
+|8|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|82.200.237.11|8080|Kazakhstan|Almaty Oblysy|Kazakhtelecom Data Network Administration|
+|10|103.247.22.147|8080|Indonesia|Bekasi|PT wifian Solution|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|103.18.47.139|80|Indonesia|Tangerang|PT. Fiber Networks Indonesia|
+|13|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|103.153.63.146|8080|Indonesia|Bekasi|IMEDIANET|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|17|200.76.28.202|999|Mexico|Reynosa|Alestra, S. de R.L. de C.V.|
+|18|131.100.51.45|999|Colombia|Neiva|Fibernet TV SAS|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
 
 
 
