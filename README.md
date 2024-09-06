@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.248.11.229|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|43.167.243.6|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|5|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|160.248.11.229|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|6|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
 |7|178.254.42.100|8118|Germany|Berlin|BLU-VH|
-|8|112.204.115.181|8082|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|9|195.54.171.21|25299|Hong Kong|Hong Kong|M247 Europe SRL|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|12|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
-|13|20.169.241.33|3128|United States|Boydton|Microsoft Corporation|
-|14|45.235.16.121|27234|Brazil|Chapecó|Acessoline Telecom|
-|15|181.232.190.218|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
-|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|19|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|117.40.32.133|8080|China|Taohua|Chinanet|
+|8|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|103.108.156.38|8080|Indonesia|Bekasi|Pop Net Indonesia|
+|10|201.77.108.21|999|Mexico|Jiménez Municipality|Nidix Networks S.a. De C.V.|
+|11|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|15|161.34.36.157|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|117.40.32.133|8080|China|Taohua|Chinanet|
+|17|85.117.56.85|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|18|177.130.104.118|33333|Brazil|Presidente Prudente|FIT Telecom Eireli|
+|19|152.26.229.34|9443|United States|Concord|MCNC|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
