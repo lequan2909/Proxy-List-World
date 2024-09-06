@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5410** proxies at the latest update. Usable proxies are below.
+> Scraper found **5451** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|177|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|658|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|178|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|698|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|277|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3340|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|3|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|49.148.104.232|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|9|223.25.110.204|1080|Indonesia|Surabaya|SinergiNet|
-|10|101.255.123.18|8181|Indonesia|Jakarta|PT Remala Abadi|
-|11|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|12|58.9.2.49|5002|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|13|80.66.112.2|31280|Spain|La Zenia|Servicios Digitales Codinet S.L.|
-|14|122.3.139.85|8181|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|38.41.5.107|999|Venezuela|Caracas|MDS TELECOM C.A.|
-|17|181.78.95.217|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|103.87.148.40|1111|Indonesia|Demak|Lintas Data Prima, PT|
-|20|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|2|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|103.189.250.89|8090|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|11|182.48.77.173|8674|Bangladesh|Dhaka|Corporate Office|
+|12|91.205.69.126|8080|Bosnia and Herzegovina|Gradačac|Telesat d.o.o.|
+|13|45.179.201.73|999|Colombia|Medellín|NET&COM LTDA.|
+|14|80.66.112.2|31280|Spain|La Zenia|Servicios Digitales Codinet S.L.|
+|15|103.163.227.178|8080|Indonesia|Mojokerto|PT.Delta Surya Solusitama|
+|16|212.110.188.202|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|17|109.111.152.43|53281|Russia|Kaliningrad|TIS-DIALOG|
+|18|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|103.48.71.6|83|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
