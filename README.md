@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|171.248.236.134|5102|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|3|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
-|4|103.16.118.179|1080|Indonesia|Madiun|CV Trustnet Media|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|103.55.159.51|6060|Indonesia|Sumbawa Besar|PT TELIO INTI NUSA|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|12|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
-|15|103.19.58.179|8082|Indonesia|Ngawi|BITSNET|
-|16|152.26.229.34|9443|United States|Concord|MCNC|
-|17|152.26.229.46|9443|United States|Concord|MCNC|
-|18|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|19|160.248.11.224|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|6|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|14|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|152.26.229.46|9443|United States|Concord|MCNC|
+|17|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|18|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
