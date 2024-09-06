@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|203.175.102.22|8082|Indonesia|Darma|MITRAKITA|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|203.175.102.22|8082|Indonesia|Darma|MITRAKITA|
+|5|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
 |6|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|8|182.160.109.162|8080|Bangladesh|Dhaka|Aamra Networks Limited|
-|9|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |10|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|11|72.10.164.178|27451|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.174|28111|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|27451|Canada|Montreal|GloboTech Communications|
-|14|103.55.159.51|6060|Indonesia|Sumbawa Besar|PT TELIO INTI NUSA|
-|15|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|171.250.59.97|5115|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|17|67.43.228.253|19293|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|11923|Canada|Montreal|GloboTech Communications|
-|19|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|11|72.10.164.178|8475|Canada|Montreal|GloboTech Communications|
+|12|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|106.227.87.11|3128|China|Taohua|China Telecom|
+|15|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
+|16|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|17|72.10.160.174|28111|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|20|72.10.164.178|8475|Canada|Montreal|GloboTech Communications|
 
 
 
