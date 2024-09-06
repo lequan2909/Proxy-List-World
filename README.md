@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|45.117.64.3|8080|India|Hyderabad|Mithril Telecommunications Private Limited|
-|4|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|119.47.90.230|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|8|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|9|41.89.96.16|80|Kenya|Nairobi|KENET|
-|10|103.178.42.23|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
-|11|41.89.96.25|80|Kenya|Nairobi|KENET|
-|12|103.118.175.42|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|13|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|160.248.191.7|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|187.188.16.28|999|Mexico|Xalapa|Total Play Telecomunicaciones SA De CV|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
+|13|103.28.114.157|66|Indonesia|Malang|PT Lintas Data Prima|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|120.50.18.146|58080|Bangladesh|Dhaka|TelNET Communication Ltd|
+|16|119.47.90.230|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
 |17|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
 |18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|103.67.84.78|8085|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|19|103.156.15.55|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|20|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
 
 
 
