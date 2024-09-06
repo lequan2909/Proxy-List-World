@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
-|4|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|5|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |6|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|180.250.189.59|8581|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|13|143.0.243.70|8080|Brazil|São Gonçalo|Nova Info Internet e Telecomunicações LTDA|
-|14|66.186.199.16|8080|Albania|Kashar|Vodafone Albania Sh.A.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|17|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|18|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|19|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|20|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|7|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|62.171.183.48|3128|Germany|Nuremberg|Contabo GmbH|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
+|12|177.93.48.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|13|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|122.53.75.222|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|15|192.140.42.83|31511|Brazil|Boa Vista|Allfiber Telecom Serviços de Telecomunicações|
+|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|103.124.198.190|3125|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|19|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
