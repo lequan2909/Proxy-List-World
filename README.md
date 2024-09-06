@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|452|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|452|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|452|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.11.213|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.248.11.213|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |4|171.97.85.194|8080|Thailand|Khon Kaen|True Internet Corporation CO. Ltd.|
-|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|157.66.16.40|8080|Indonesia|Jatibarang|PT Mitra Mandiri Network|
-|11|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|13|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|14|43.167.241.228|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|17|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|19|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|8|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|103.109.237.18|8080|Bangladesh|Tāngāil|City Computer|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|118.70.12.171|53281|Vietnam|Hanoi|FPT Telecom Company|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|103.147.118.240|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
+|15|103.54.43.131|8080|Bangladesh|Kāfrul|THE NET HEADS|
+|16|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|17|188.125.169.39|8080|Turkey|Gebze|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
