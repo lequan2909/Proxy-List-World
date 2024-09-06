@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|171.248.236.134|5102|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|160.19.231.226|8080|Indonesia|Jakarta|PT TELSAR JAYA NETWORK TEKNOLOGY|
-|7|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|103.101.193.78|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|11|223.25.110.206|1080|Indonesia|Surabaya|SinergiNet|
-|12|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|14|160.248.11.224|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|103.55.159.51|6060|Indonesia|Sumbawa Besar|PT TELIO INTI NUSA|
-|16|117.40.32.133|8080|China|Taohua|Chinanet|
-|17|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|18|160.248.11.213|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|34.207.149.11|3128|United States|Ashburn|Amazon.com, Inc.|
-|20|72.10.160.90|14785|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
+|5|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|34.207.149.11|3128|United States|Ashburn|Amazon.com, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|171.5.46.108|8081|Thailand|Rayong|Triple T Broadband Public Company Limited|
+|11|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|160.248.11.224|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|160.19.231.226|8080|Indonesia|Jakarta|PT TELSAR JAYA NETWORK TEKNOLOGY|
+|14|117.40.32.133|8080|China|Taohua|Chinanet|
+|15|34.207.149.11|3128|United States|Ashburn|Amazon.com, Inc.|
+|16|160.248.11.213|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|103.190.171.155|1111|Indonesia|Jakarta|WMS|
+|20|37.187.109.70|10111|France|Gravelines|OVH SAS|
 
 
 
