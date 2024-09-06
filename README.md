@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|202.52.184.67|3128|Japan|Chiyoda|INTERLINK|
-|3|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|4|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|116.104.88.130|5106|Vietnam|Hanoi|Viettel Corporation|
-|7|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.125.174.27|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|10|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|11|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|12|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|15|117.40.32.133|8080|China|Taohua|Chinanet|
-|16|116.50.174.219|8080|Philippines|Quezon City|Eastern Telecommunications Philippines, Inc.|
-|17|122.53.243.220|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|18|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|3|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|171.237.64.23|5102|Vietnam|Hanoi|Viettel Corporation|
+|6|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|9|147.45.48.80|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
+|10|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|11|49.157.62.205|8181|Philippines|Makati City|Eastern Telecommunications Philippines, Inc.|
+|12|103.48.71.26|83|India|Hyderabad|Country Online Services PVT LTD|
+|13|152.26.229.42|9443|United States|Concord|MCNC|
+|14|152.26.229.86|9443|United States|Concord|MCNC|
+|15|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
+|18|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|72.10.164.178|24235|Canada|Montreal|GloboTech Communications|
+|20|47.88.85.102|443|United States|Minkler|Alibaba.com LLC|
 
 
 
