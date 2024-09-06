@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|2|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|4|118.99.96.174|8080|Indonesia|Jakarta|Biznet Networks|
-|5|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|139.255.67.212|8185|Indonesia|Jakarta|PT. LINKNET|
-|8|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|9|87.229.205.227|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|152.26.229.47|9443|United States|Concord|MCNC|
-|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|152.26.231.83|9443|United States|Concord|MCNC|
-|16|117.40.32.133|8080|China|Taohua|Chinanet|
-|17|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
-|18|34.207.149.11|3128|United States|Ashburn|Amazon.com, Inc.|
-|19|106.227.87.11|3128|China|Taohua|China Telecom|
-|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|12|191.102.248.6|8085|Argentina|Rosario|IP·RED|
+|13|176.121.48.97|23500|Russia|Zhavoronki|ZAO Greenline|
+|14|68.162.217.121|8080|United States|Leominster|Verizon Business|
+|15|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|16|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|17|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|152.26.229.47|9443|United States|Concord|MCNC|
 
 
 
