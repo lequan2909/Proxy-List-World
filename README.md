@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.91.125|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|2|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|160.248.11.224|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|12|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|13|152.26.229.34|9443|United States|Concord|MCNC|
-|14|72.10.164.178|20645|Canada|Montreal|GloboTech Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|38.156.75.27|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|9|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|160.248.11.224|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|14|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |15|152.26.229.46|9443|United States|Concord|MCNC|
-|16|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|17|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|67.43.227.227|31293|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|31293|Canada|Montreal|GloboTech Communications|
+|16|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|20|152.26.229.34|9443|United States|Concord|MCNC|
 
 
 
