@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|181.114.62.1|8085|Argentina|Ramallo|INTERAIR|
+|3|72.10.160.172|27975|Canada|Montreal|GloboTech Communications|
+|4|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
 |5|117.40.32.133|8080|China|Taohua|Chinanet|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|34.207.149.11|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|9|72.10.160.90|29415|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.172|3973|Canada|Montreal|GloboTech Communications|
-|11|223.25.110.206|1080|Indonesia|Surabaya|SinergiNet|
-|12|152.26.231.83|9443|United States|Concord|MCNC|
-|13|67.43.228.251|8109|Canada|Montreal|GloboTech Communications|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|152.26.229.83|9443|United States|Concord|MCNC|
-|16|152.26.229.93|9443|United States|Concord|MCNC|
-|17|72.10.160.171|16531|Canada|Montreal|GloboTech Communications|
-|18|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
-|19|27.121.82.102|8080|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
-|20|67.43.236.20|16205|Canada|Montreal|GloboTech Communications|
+|6|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|7|182.160.124.214|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|8|152.26.231.83|9443|United States|Concord|MCNC|
+|9|67.43.236.20|16205|Canada|Montreal|GloboTech Communications|
+|10|152.26.229.93|9443|United States|Concord|MCNC|
+|11|152.26.229.83|9443|United States|Concord|MCNC|
+|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|13|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|14|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
+|15|72.10.164.178|18135|Canada|Montreal|GloboTech Communications|
+|16|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|17|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
+|18|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|152.26.231.94|9443|United States|Concord|MCNC|
+|20|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
 
 
 
