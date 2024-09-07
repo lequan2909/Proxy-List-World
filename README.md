@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.180.118.170|8080|Indonesia|Gresik|PT Persada Data Multimedia|
-|4|117.40.32.133|8080|China|Taohua|Chinanet|
-|5|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|9|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|152.26.229.34|9443|United States|Concord|MCNC|
-|11|34.207.149.11|3128|United States|Ashburn|Amazon.com, Inc.|
-|12|117.40.32.133|8080|China|Taohua|Chinanet|
-|13|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|14|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
-|15|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|17|152.26.231.94|9443|United States|Concord|MCNC|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|160.248.11.224|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|109.123.251.121|8001|Germany|Düsseldorf|Contabo GmbH|
+|3|38.242.227.223|8001|Germany|Düsseldorf|Contabo GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|91.230.110.95|8010|Germany|Düsseldorf|Contabo GmbH|
+|6|82.208.21.45|8001|Germany|Düsseldorf|Casablanca INT fraction|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|192.145.37.197|8001|Germany|Düsseldorf|Contabo GmbH|
+|11|45.85.249.245|8001|Germany|Düsseldorf|Contabo GmbH|
+|12|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|13|117.40.32.133|8080|China|Taohua|Chinanet|
+|14|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|103.180.118.170|8080|Indonesia|Gresik|PT Persada Data Multimedia|
+|20|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
