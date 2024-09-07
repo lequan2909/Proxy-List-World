@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|103.137.111.65|7777|Indonesia|Mojokerto|PT. Capoeng Digital Nusantara|
-|4|203.150.113.178|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|8|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|109.127.82.162|8080|Iraq|Erbil|Newroz Telecom|
-|12|47.51.51.190|8080|United States|Glendale|Charter Communications|
-|13|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|103.41.35.162|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|103.153.62.155|8080|Indonesia|Jakarta|IMEDIANET|
-|17|38.50.166.244|999|Dominican Republic|Santiago de los Caballeros|Israel De Los Santos Wifi SRL|
-|18|131.108.139.217|8080|Brazil|Manaus|Speed Wireless Servicos De Comunicacao Multimidia|
-|19|177.93.33.122|999|Colombia|La Sierra|TV AZTECA SUCURSAL COLOMBIA|
-|20|103.84.208.170|8080|Indonesia|Padang|CINOXMEDIANET|
+|3|203.150.113.178|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|4|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|43.167.241.123|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|13|121.101.131.67|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|14|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|171.4.71.166|8686|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|16|201.222.83.146|999|Bolivia|Warnes|Cotas Ltda.|
+|17|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|19|38.50.166.244|999|Dominican Republic|Santiago de los Caballeros|Israel De Los Santos Wifi SRL|
+|20|190.53.46.11|38525|Nicaragua|Ticuantepe|Amnet Telecomunicaciones S.A.|
 
 
 
