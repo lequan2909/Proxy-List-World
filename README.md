@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.11.224|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.248.11.224|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |4|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|103.154.178.106|3128|Indonesia|Jambi City|PT Aneka Teguh Jaya|
-|7|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|200.76.28.202|999|Mexico|Reynosa|Alestra, S. de R.L. de C.V.|
-|11|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|16|119.47.90.76|8080|Indonesia|Batang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|17|175.111.129.156|8080|India|Jaipur|Spiderlink Networks Pvt Ltd|
-|18|95.161.194.74|8090|Russia|Kazan'|"OBIT" Ltd.|
-|19|117.40.32.133|8080|China|Taohua|Chinanet|
-|20|177.234.247.234|999|Ecuador|Esmeraldas|Ufinet Panama S.A.|
+|5|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|38.7.131.240|999|Dominican Republic|Esperanza|SERVICIOS NUÑEZ EIRL|
+|7|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|13|103.81.64.85|8080|Indonesia|Bandar Lampung|QIUNET|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|16|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|18|152.26.229.93|9443|United States|Concord|MCNC|
+|19|152.26.231.94|9443|United States|Concord|MCNC|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
