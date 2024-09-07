@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|181.232.190.218|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
-|9|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|152.26.229.42|9443|United States|Concord|MCNC|
-|12|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|152.26.229.83|9443|United States|Concord|MCNC|
-|14|152.26.231.94|9443|United States|Concord|MCNC|
-|15|72.10.164.178|23151|Canada|Montreal|GloboTech Communications|
-|16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|72.10.164.178|23151|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.173|6935|Canada|Montreal|GloboTech Communications|
-|19|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|3|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|6|117.40.32.133|8080|China|Taohua|Chinanet|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|13|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
+|15|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|72.10.164.178|1045|Canada|Montreal|GloboTech Communications|
 
 
 
