@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|203.150.128.55|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|187.102.238.49|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
-|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|9|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|10|103.77.16.190|80|Bangladesh|Kushtia|ICC Communication Ltd|
-|11|117.40.32.133|8080|China|Taohua|Chinanet|
-|12|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|13|72.10.160.90|17057|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.93|9443|United States|Concord|MCNC|
-|15|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.160.170|29899|Canada|Montreal|GloboTech Communications|
-|17|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|152.26.229.47|9443|United States|Concord|MCNC|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.203.234.24|8090|Indonesia|Ungaran|PT Nesta Indo Media|
+|5|200.76.28.202|999|Mexico|Reynosa|Alestra, S. de R.L. de C.V.|
+|6|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|117.40.32.133|8080|China|Taohua|Chinanet|
+|9|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|97.76.251.138|8080|United States|Tampa|Spectrum|
+|11|103.36.10.0|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|103.54.43.131|8080|Bangladesh|Kāfrul|THE NET HEADS|
+|14|122.3.77.27|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|15|152.26.229.93|9443|United States|Concord|MCNC|
+|16|176.88.166.218|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|17|72.10.160.91|21951|Canada|Montreal|GloboTech Communications|
+|18|204.199.202.132|999|Mexico|Teotihuacán|Cirion Technologies Solutions|
+|19|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.229.47|9443|United States|Concord|MCNC|
 
 
 
