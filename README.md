@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|103.87.169.199|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|6|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|6|124.217.64.88|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
+|7|116.96.101.32|5121|Vietnam|Hanoi|Viettel Corporation|
+|8|24.152.40.49|8080|Paraguay|Coronel Oviedo|TV MAX CABLE S.A.|
+|9|204.199.202.132|999|Mexico|Teotihuacán|Cirion Technologies Solutions|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|170.81.171.189|8089|Brazil|Francisco Morato|Wireless Comm Services LTDA|
+|12|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|13|121.182.41.197|8118|South Korea|Suseong-gu|Korea Telecom|
+|14|152.26.231.42|9443|United States|Concord|MCNC|
+|15|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
 |16|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|17|124.217.64.88|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
-|18|152.26.231.42|9443|United States|Concord|MCNC|
-|19|213.160.150.237|8080|Ukraine|Kyiv|"SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY|
-|20|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|17|161.34.35.245|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
