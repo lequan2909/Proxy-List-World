@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|101.109.176.247|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|9|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|203.150.113.178|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|13|38.45.44.109|999|Dominican Republic|Santo Domingo|FENIX NETWORKS, S.R.L.|
-|14|180.94.12.137|8080|Indonesia|Siak Sri Indrapura|PT Agsa Global Network|
-|15|181.13.246.139|999|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|16|103.132.245.100|58080|India|Pune|Limerick Technologies Pvt Ltd|
-|17|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|20|58.84.20.18|8080|India|Mathura|Power Grid Corporation of India Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|101.109.176.247|8080|Thailand|Bangkok|TOT Public Company Limited|
+|5|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|103.182.213.65|8080|Bangladesh|Tongi|Rapid Network|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|103.174.238.98|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|11|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|12|191.191.181.159|8082|Brazil|Anápolis|Claro NXT Telecomunicacoes Ltda|
+|13|177.136.85.193|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
+|14|186.227.119.91|8080|Brazil|Guaraniaçu|Orssatto Telecom Telecomunicacoes - Eireli|
+|15|58.84.20.18|8080|India|Mathura|Power Grid Corporation of India Limited|
+|16|213.97.158.42|3128|Spain|Sant Antoni de Portmany|Telefonica de Espana SAU|
+|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|187.19.200.217|8090|Brazil|Petrópolis|Brisanet Servicos De Telecomunicacoes S.A|
+|19|188.132.222.2|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
