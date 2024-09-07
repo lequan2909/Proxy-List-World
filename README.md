@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|5.161.77.3|8080|United States|Ashburn|Hetzner Online GmbH|
-|4|36.72.241.107|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|5|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|5.161.77.3|8080|United States|Ashburn|Hetzner Online GmbH|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|103.231.203.234|8080|Indonesia|Bekasi|East Regional|
-|11|51.255.204.242|8392|France|Gravelines|OVH SAS|
-|12|31.129.253.30|40223|Ukraine|Izium|FOP Samoilenko Igor Olegovich|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|6|36.72.241.107|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|7|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|8|103.106.219.132|1111|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|188.132.150.87|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|119.235.209.77|3125|Indonesia|Senen|PT. Mora Telematika Indonesia|
+|13|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
+|14|103.161.30.65|83|India|Andhra Pradesh|Venkata Sai Internet Pvt Ltd|
+|15|119.47.90.76|8080|Indonesia|Batang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|117.40.32.133|8080|China|Taohua|Chinanet|
+|19|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
