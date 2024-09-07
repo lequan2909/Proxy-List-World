@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.204.161.192|18080|United States|Reston|OVH SAS|
-|3|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
 |4|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|8|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|9|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|103.243.177.90|8080|Indonesia|Kalicari|Universitas Katolik Soegijapranata|
-|11|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|12|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|103.114.52.130|8080|Indonesia|Boyolali|Proxy-registered|
+|6|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|117.40.32.133|8080|China|Taohua|Chinanet|
+|11|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 |13|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|27.147.129.26|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|16|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|72.10.160.90|17721|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|13551|Canada|Montreal|GloboTech Communications|
-|19|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|87.79.237.97|3128|Germany|Cologne|NetCologne Gesellschaft fur Telekommunikation mbH|
+|17|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|67.43.236.20|14713|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|12927|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
 
