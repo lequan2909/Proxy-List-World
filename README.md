@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
 |2|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
-|6|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|80.82.55.71|80|Russia|Voronezh|CenterTelecom Voronezh ISP|
-|10|161.34.36.157|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|106.227.87.11|3128|China|Taohua|China Telecom|
-|12|160.248.91.126|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|136.243.73.229|80|Germany|Falkenstein|Hetzner Online GmbH|
-|14|119.47.90.76|8080|Indonesia|Batang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|15|103.165.156.171|8090|Indonesia|Jember|MEGADATA-ISP|
-|16|37.56.23.95|8080|Saudi Arabia|Jeddah|Saudi Telecom Company JSC|
-|17|103.77.16.190|80|Bangladesh|Kushtia|ICC Communication Ltd|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|20|72.10.164.178|22291|Canada|Montreal|GloboTech Communications|
+|3|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|103.157.117.61|8080|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
+|7|103.91.137.193|8080|Indonesia|Metro|PT Inhqi Media Infotek|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|10|160.248.91.126|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|11|117.40.32.133|8080|China|Taohua|Chinanet|
+|12|38.183.144.108|8080|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
+|13|182.160.124.214|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|14|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|152.26.229.46|9443|United States|Concord|MCNC|
+|16|152.26.229.47|9443|United States|Concord|MCNC|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|34.207.149.11|3128|United States|Ashburn|Amazon.com, Inc.|
+|19|181.224.207.142|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
+|20|72.10.164.178|31815|Canada|Montreal|GloboTech Communications|
 
 
 
