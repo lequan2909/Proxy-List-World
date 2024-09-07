@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|117.40.32.133|8080|China|Taohua|Chinanet|
-|4|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|7|152.26.231.83|9443|United States|Concord|MCNC|
-|8|72.10.160.171|21647|Canada|Montreal|GloboTech Communications|
-|9|117.40.32.134|8080|China|Taohua|Chinanet|
-|10|152.26.229.86|9443|United States|Concord|MCNC|
-|11|152.26.231.86|9443|United States|Concord|MCNC|
-|12|72.10.164.178|5349|Canada|Montreal|GloboTech Communications|
-|13|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|14|103.69.20.28|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|15|72.10.160.90|7153|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|2947|Canada|Montreal|GloboTech Communications|
-|17|62.171.183.48|3128|Germany|Nuremberg|Contabo GmbH|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|67.43.228.253|22391|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|117.40.32.133|8080|China|Taohua|Chinanet|
+|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|103.167.2.63|8080|Indonesia|Dukuh|Institut Agama Islam Negeri Salatiga|
+|9|223.25.110.206|1080|Indonesia|Surabaya|SinergiNet|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|212.252.73.23|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|14|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|152.26.231.86|9443|United States|Concord|MCNC|
+|18|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
+|19|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |20|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
 
 
