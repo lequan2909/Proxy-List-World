@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|5|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|117.4.115.59|8080|Vietnam|Bắc Ninh|VIETTEL|
-|7|106.227.87.11|3128|China|Taohua|China Telecom|
-|8|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|9|152.26.231.42|9443|United States|Concord|MCNC|
-|10|152.26.229.42|9443|United States|Concord|MCNC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|173.249.34.184|3128|Germany|Nuremberg|Contabo GmbH|
-|14|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|64.227.6.0|4003|United States|North Bergen|DigitalOcean, LLC|
+|11|173.249.34.184|3128|Germany|Nuremberg|Contabo GmbH|
+|12|152.26.231.42|9443|United States|Concord|MCNC|
+|13|152.26.229.42|9443|United States|Concord|MCNC|
+|14|67.43.236.20|7749|Canada|Montreal|GloboTech Communications|
 |15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|18|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|20|103.166.158.191|7777|Indonesia|Bekasi|PT Timor Lintas Nusantara|
+|16|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|17|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|18|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
+|20|182.253.68.150|80|Indonesia|Jakarta Pusat|BIZNET|
 
 
 
