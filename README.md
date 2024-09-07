@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.248.91.125|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|183.91.80.194|8089|Indonesia|Bandung|PT Aplikanusa Lintasarta|
-|10|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|152.26.229.86|9443|United States|Concord|MCNC|
-|15|183.88.214.44|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|16|123.200.14.194|8080|Bangladesh|Khulna|Link3 Technologies Limited|
-|17|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|11|152.26.229.86|9443|United States|Concord|MCNC|
+|12|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|152.26.231.93|9443|United States|Concord|MCNC|
+|14|152.26.231.94|9443|United States|Concord|MCNC|
+|15|152.26.229.93|9443|United States|Concord|MCNC|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|72.10.160.90|12555|Canada|Montreal|GloboTech Communications|
 |18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
