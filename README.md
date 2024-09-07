@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|1|157.10.157.2|8080|Indonesia|Jakarta|Dinas Komunikasi dan Informatika Kabupaten Ciamis|
+|2|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 |3|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|152.26.229.83|9443|United States|Concord|MCNC|
-|5|152.26.229.34|9443|United States|Concord|MCNC|
-|6|152.26.231.94|9443|United States|Concord|MCNC|
-|7|152.26.229.46|9443|United States|Concord|MCNC|
-|8|152.26.231.93|9443|United States|Concord|MCNC|
-|9|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|10|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|11|152.26.229.93|9443|United States|Concord|MCNC|
-|12|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|72.10.160.170|8703|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|32777|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.42|9443|United States|Concord|MCNC|
-|16|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
-|17|72.10.160.90|32777|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|117.40.32.134|8080|China|Taohua|Chinanet|
-|20|67.43.227.228|23203|Canada|Montreal|GloboTech Communications|
+|5|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|6|152.26.229.34|9443|United States|Concord|MCNC|
+|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|8|152.26.231.94|9443|United States|Concord|MCNC|
+|9|152.26.231.93|9443|United States|Concord|MCNC|
+|10|152.26.229.46|9443|United States|Concord|MCNC|
+|11|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|217.24.245.58|8079|Albania|Tirana|ONE ALBANIA SH.A.|
+|13|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
+|15|117.40.32.133|8080|China|Taohua|Chinanet|
+|16|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
+|17|72.10.160.171|11735|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.93|9443|United States|Concord|MCNC|
+|19|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|20|160.248.11.224|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
