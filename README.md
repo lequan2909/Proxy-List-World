@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.42.120.31|8080|Indonesia|Jakarta|PT Transhybrid Communication|
-|6|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|7|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|8|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|9|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|152.26.231.93|9443|United States|Concord|MCNC|
-|11|152.26.231.94|9443|United States|Concord|MCNC|
-|12|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|72.10.160.90|30511|Canada|Montreal|GloboTech Communications|
-|14|122.152.4.135|6000|Japan|Chiyoda|FreeBit Co., Ltd.|
-|15|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|9|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|10|103.166.227.85|8080|Indonesia|Majalengka|PT Arta Flash Sintesa Nusantara|
+|11|152.26.231.93|9443|United States|Concord|MCNC|
+|12|152.26.231.94|9443|United States|Concord|MCNC|
+|13|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|72.10.160.90|28427|Canada|Montreal|GloboTech Communications|
+|15|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|117.40.32.133|8080|China|Taohua|Chinanet|
-|18|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|72.10.160.90|30511|Canada|Montreal|GloboTech Communications|
-|20|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
+|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|38.52.221.44|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
 
 
 
