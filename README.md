@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.11.224|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|10|38.156.72.198|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|220.130.186.59|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|12|119.47.90.240|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|13|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
-|14|45.236.107.160|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|17|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|18|103.171.244.44|8088|Indonesia|Madiun|PT Data Arta Sedaya|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|119.47.90.76|8080|Indonesia|Batang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|24.152.55.21|999|Guatemala|Morales|TV CABLE UNIVERSAL S.A|
+|12|181.224.207.142|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|103.156.17.41|8818|Indonesia|Indramayu|RSTNET|
+|15|103.81.64.85|8080|Indonesia|Bandar Lampung|QIUNET|
+|16|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|15.204.161.192|18080|United States|Reston|OVH SAS|
+|19|123.200.14.194|8080|Bangladesh|Khulna|Link3 Technologies Limited|
+|20|24.144.84.1|3128|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
