@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|128.90.145.247|8118|Belgium|Brussels|Powerhouse Management, Inc.|
-|5|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|6|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|88.119.139.237|53281|Lithuania|Klaipėda|Telia Lietuva|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|103.182.79.141|8080|Indonesia|Gresik|PT Cybernet Data Multimedia|
-|11|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|12|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
-|13|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|14|45.130.146.195|3128|Russia|Novosibirsk|LLC Baxet|
-|15|160.248.11.229|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|67.43.227.227|13597|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|117.40.32.133|8080|China|Taohua|Chinanet|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|1|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|4|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|103.81.64.85|8080|Indonesia|Bandar Lampung|QIUNET|
+|8|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|160.248.11.229|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|11|117.40.32.133|8080|China|Taohua|Chinanet|
+|12|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
+|13|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|20|103.51.21.165|8080|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
 
 
 
