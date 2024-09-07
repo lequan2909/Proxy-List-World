@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|117.40.32.133|8080|China|Taohua|Chinanet|
-|9|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|12|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|160.248.11.224|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|15|152.26.231.42|9443|United States|Concord|MCNC|
-|16|152.26.231.86|9443|United States|Concord|MCNC|
-|17|152.26.229.83|9443|United States|Concord|MCNC|
-|18|152.26.231.83|9443|United States|Concord|MCNC|
-|19|72.10.164.178|2155|Canada|Montreal|GloboTech Communications|
-|20|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|160.248.11.224|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|6|152.26.229.93|9443|United States|Concord|MCNC|
+|7|152.26.231.42|9443|United States|Concord|MCNC|
+|8|152.26.231.86|9443|United States|Concord|MCNC|
+|9|152.26.229.83|9443|United States|Concord|MCNC|
+|10|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|11|152.26.231.83|9443|United States|Concord|MCNC|
+|12|117.40.32.133|8080|China|Taohua|Chinanet|
+|13|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|14|152.26.229.47|9443|United States|Concord|MCNC|
+|15|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|87.103.128.128|4444|Russia|Irkutsk|SIBNET-IRKUTSK|
+|17|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|103.81.64.85|8080|Indonesia|Bandar Lampung|QIUNET|
+|20|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
