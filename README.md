@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
-|3|161.34.36.157|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|7|103.127.220.206|8080|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|203.128.80.178|8099|Indonesia|Jakarta|Neuviz|
-|12|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|14|177.221.44.113|49999|Brazil|Jaboatão dos Guararapes|1telecom Servicos De Tecnologia EM Internet Ltda|
-|15|177.93.16.66|8080|Costa Rica|San José|Telecable Economico S.A|
-|16|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|17|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|18|160.248.190.253|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|7|161.34.36.157|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|13|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
+|14|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|17|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|19|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|20|103.125.38.50|8080|Indonesia|Surabaya|PT. Eka Mas Republik|
 
 
 
