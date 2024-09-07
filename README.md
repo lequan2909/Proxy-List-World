@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|2|168.138.211.5|8080|Japan|Tokyo|Oracle Corporation|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|152.26.231.83|9443|United States|Concord|MCNC|
-|5|34.207.149.11|3128|United States|Ashburn|Amazon.com, Inc.|
-|6|152.26.231.42|9443|United States|Concord|MCNC|
-|7|152.26.229.86|9443|United States|Concord|MCNC|
-|8|160.248.91.125|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|9|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|10|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|72.10.160.170|7995|Canada|Montreal|GloboTech Communications|
-|12|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|13|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|6|117.40.32.133|8080|China|Taohua|Chinanet|
+|7|152.26.231.83|9443|United States|Concord|MCNC|
+|8|152.26.231.42|9443|United States|Concord|MCNC|
+|9|152.26.229.86|9443|United States|Concord|MCNC|
+|10|152.26.229.93|9443|United States|Concord|MCNC|
+|11|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
+|12|160.248.91.125|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|49.147.133.154|8081|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
 |14|72.10.160.174|24411|Canada|Montreal|GloboTech Communications|
-|15|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
-|16|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|152.26.229.34|9443|United States|Concord|MCNC|
-|18|67.43.228.250|6893|Canada|Montreal|GloboTech Communications|
-|19|101.255.117.197|8085|Indonesia|Jakarta|PT Remala Abadi|
-|20|116.169.54.248|8080|China|Chengdu|China Unicom CHINA169 Network|
+|15|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|16|72.10.160.170|9413|Canada|Montreal|GloboTech Communications|
+|17|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
+|19|116.169.54.248|8080|China|Chengdu|China Unicom CHINA169 Network|
+|20|152.26.229.34|9443|United States|Concord|MCNC|
 
 
 
