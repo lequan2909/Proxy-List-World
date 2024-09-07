@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.54.36.90|8674|Bangladesh|Khulna|Earth Telecommunication (Pvt.) Ltd|
-|5|117.40.32.133|8080|China|Taohua|Chinanet|
+|4|188.132.222.72|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|45.166.93.27|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|10|47.88.17.170|8118|United States|Minkler|Alibaba.com LLC|
-|11|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|152.26.231.42|9443|United States|Concord|MCNC|
-|13|152.26.229.93|9443|United States|Concord|MCNC|
-|14|161.34.36.157|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|16|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|152.26.231.83|9443|United States|Concord|MCNC|
+|8|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|152.26.231.42|9443|United States|Concord|MCNC|
+|10|152.26.229.93|9443|United States|Concord|MCNC|
+|11|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|161.34.36.157|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|14|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|152.26.231.83|9443|United States|Concord|MCNC|
+|16|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|17|177.43.72.250|3128|Brazil|Campo Grande|Vivo|
 |18|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|19|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
