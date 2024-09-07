@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
 |6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|117.40.32.133|8080|China|Taohua|Chinanet|
-|10|176.98.239.142|52900|Kazakhstan|Astana|JSC Transtelecom|
-|11|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|12|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|15|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|182.252.70.220|8082|Bangladesh|Kāfrul|Agni Systems Limited|
-|18|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|117.40.32.135|8080|China|Taohua|Chinanet|
+|7|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|103.81.64.85|8080|Indonesia|Bandar Lampung|QIUNET|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|13|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|14|82.208.21.45|8001|Germany|Düsseldorf|Casablanca INT fraction|
+|15|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
+|16|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
