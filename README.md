@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|103.172.23.82|8080|Indonesia|Batang|PT Tujuhlangit Lintas Nusantara|
-|7|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|12|117.40.32.133|8080|China|Taohua|Chinanet|
-|13|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|152.26.229.93|9443|United States|Concord|MCNC|
-|16|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|152.26.229.47|9443|United States|Concord|MCNC|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|181.214.208.150|80|The Netherlands|Amsterdam|rack400 com netherlands Infrastructure|
+|7|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|9|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|200.76.28.202|999|Mexico|Reynosa|Alestra, S. de R.L. de C.V.|
+|11|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|12|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|13|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|152.26.229.93|9443|United States|Concord|MCNC|
+|15|152.26.229.47|9443|United States|Concord|MCNC|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
