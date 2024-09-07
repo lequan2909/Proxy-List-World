@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|5|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|6|152.26.231.94|9443|United States|Concord|MCNC|
-|7|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|8|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|9|222.74.73.202|42055|China|Hechi|Chinanet|
-|10|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|4|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|7|152.26.231.94|9443|United States|Concord|MCNC|
+|8|117.40.32.135|8080|China|Taohua|Chinanet|
+|9|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|10|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
 |11|152.26.229.93|9443|United States|Concord|MCNC|
 |12|152.26.229.42|9443|United States|Concord|MCNC|
-|13|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|67.43.227.226|1497|Canada|Montreal|GloboTech Communications|
-|15|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|72.10.160.93|7093|Canada|Montreal|GloboTech Communications|
-|17|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|152.26.231.93|9443|United States|Concord|MCNC|
-|19|72.10.160.90|10493|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|17655|Canada|Montreal|GloboTech Communications|
+|13|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|72.10.160.93|7093|Canada|Montreal|GloboTech Communications|
+|16|152.26.231.93|9443|United States|Concord|MCNC|
+|17|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|18|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|103.54.43.131|8080|Bangladesh|Kāfrul|THE NET HEADS|
+|20|101.6.56.75|7897|China|Haidian|CERNET|
 
 
 
