@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|117.40.32.133|8080|China|Taohua|Chinanet|
-|6|38.156.72.203|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|13|72.10.164.178|25965|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.83|9443|United States|Concord|MCNC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|138.59.187.1|666|Brazil|São Francisco do Conde|Icaro Oliveira DA Cunha - ME|
+|5|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|103.81.64.85|8080|Indonesia|Bandar Lampung|QIUNET|
+|11|117.40.32.133|8080|China|Taohua|Chinanet|
+|12|152.26.229.83|9443|United States|Concord|MCNC|
+|13|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|14|72.10.164.178|18081|Canada|Montreal|GloboTech Communications|
 |15|152.26.229.86|9443|United States|Concord|MCNC|
 |16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|152.26.231.83|9443|United States|Concord|MCNC|
-|18|67.43.228.252|23659|Canada|Montreal|GloboTech Communications|
-|19|117.40.32.135|8080|China|Taohua|Chinanet|
-|20|72.10.164.178|25965|Canada|Montreal|GloboTech Communications|
+|17|179.32.62.127|999|Colombia|Medellín|Colombia Telecomunicaciones S.a. ESP|
+|18|72.10.164.178|18081|Canada|Montreal|GloboTech Communications|
+|19|117.40.32.134|8080|China|Taohua|Chinanet|
+|20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
 
