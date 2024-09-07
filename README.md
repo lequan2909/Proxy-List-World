@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|206.85.9.10|999|Mexico|Venustiano Carranza|Internet Telefonia Y TV De Michoacan SA De CV|
-|7|103.26.110.125|84|India|Chennai|Niss Networks|
-|8|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|117.40.32.133|8080|China|Taohua|Chinanet|
-|11|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|12|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|13|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|16|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|115.223.31.89|20201|China|Wenzhou|China Telecom|
-|18|157.230.89.122|18084|United States|North Bergen|DigitalOcean, LLC|
-|19|152.26.231.93|9443|United States|Concord|MCNC|
-|20|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|5|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|6|36.50.11.198|8080|Bangladesh|Dhaka|Stardust Telecom Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|170.238.14.115|8080|Brazil|São Luís|WIPY COMERCIO E SERVIÇOS DE TELEINFORMATICA LTDA|
+|11|202.179.69.216|58080|India|Pune|Ankhnet|
+|12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|204.199.174.75|999|Peru|Arequipa|Fiberred Sociedad Anonima Cerrada|
+|15|168.0.239.225|8787|Brazil|São Sebastião do Passé|VOANET Telecomunicações Ltda.|
+|16|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|19|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|152.26.231.93|9443|United States|Concord|MCNC|
 
 
 
