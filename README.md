@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|5.161.77.3|8080|United States|Ashburn|Hetzner Online GmbH|
-|6|36.72.241.107|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|7|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|5.9.112.247|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|12|103.31.235.102|8080|Indonesia|Ciampea|PT Usaha Adi Sanggoro|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|131.0.207.140|8080|Brazil|Espumoso|CB NET TELECOM LTDA|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|119.47.90.76|8080|Indonesia|Batang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|1|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|5.161.77.3|8080|United States|Ashburn|Hetzner Online GmbH|
+|4|36.72.241.107|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|8|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|9|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|13|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|47.88.17.170|8118|United States|Minkler|Alibaba.com LLC|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|18|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|36.89.212.253|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 
 
 
