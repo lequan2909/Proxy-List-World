@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.91.125|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|160.248.191.3|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|103.147.134.238|1111|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|160.248.11.229|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|165.16.59.225|8080|Libya|Tripoli|Aljeel Aljadeed Technology|
-|12|117.40.32.133|8080|China|Taohua|Chinanet|
-|13|160.248.11.213|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|103.247.21.117|1111|Indonesia|Bekasi|PT wifian Solution|
-|15|152.26.229.34|9443|United States|Concord|MCNC|
-|16|152.26.229.47|9443|United States|Concord|MCNC|
-|17|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|18|67.43.236.19|28801|Canada|Montreal|GloboTech Communications|
-|19|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
+|9|102.223.27.226|8080|Equatorial Guinea|Malabo|Muni S.A|
+|10|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|160.248.11.229|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|160.248.11.213|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|152.26.229.34|9443|United States|Concord|MCNC|
+|14|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|152.26.229.47|9443|United States|Concord|MCNC|
+|20|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
 
 
 
