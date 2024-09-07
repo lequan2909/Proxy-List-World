@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|36.72.241.107|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.106.219.132|1111|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
-|8|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|9|202.191.123.195|8090|Bangladesh|Dhaka|Bijoy Online Limited|
-|10|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|11|203.150.128.55|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|222.124.193.118|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|14|189.85.82.38|3128|Brazil|Brasília|Networld Provedor e Servicos de Internet Ltda|
-|15|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
-|16|15.235.171.244|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
-|17|103.81.64.85|8080|Indonesia|Bandar Lampung|QIUNET|
-|18|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|19|105.174.43.194|8080|Angola|Luanda|UNITEL SA|
-|20|117.54.181.21|8080|Indonesia|Jakarta|PT IndoInternet|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|5|5.161.77.3|8080|United States|Ashburn|Hetzner Online GmbH|
+|6|36.72.241.107|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|7|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|103.107.84.177|8080|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
+|11|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|117.40.32.133|8080|China|Taohua|Chinanet|
+|13|177.93.51.213|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|14|45.122.228.10|8899|Australia|Wangaratta|NETPTYLTD|
+|15|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
+|16|189.85.82.38|3128|Brazil|Brasília|Networld Provedor e Servicos de Internet Ltda|
+|17|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|38.172.128.25|8080|Peru|Lima|Conex TV E.I.R.L.|
+|19|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|20|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
