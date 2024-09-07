@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|6|103.255.241.101|8080|Indonesia|Purwokerto|PT Media Sarana Data|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|102.221.40.114|8080|South Africa|George|Telkom SA Ltd.|
-|11|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|117.40.32.133|8080|China|Taohua|Chinanet|
-|13|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|14|190.108.12.117|8080|Uruguay|Montevideo|Tecnowind S.A.|
-|15|38.45.33.130|999|Venezuela|La Guaira|TELECOMUNICACIONES G-NETWORK, C.A.|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|103.247.21.117|1111|Indonesia|Bekasi|PT wifian Solution|
-|18|72.10.164.178|26191|Canada|Montreal|GloboTech Communications|
-|19|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|20|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|115.72.46.96|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|13|203.150.128.55|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|14|117.40.32.133|8080|China|Taohua|Chinanet|
+|15|103.255.241.101|8080|Indonesia|Purwokerto|PT Media Sarana Data|
+|16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|62.33.136.242|8080|Russia|Chusovoy|Joint Stock Company TransTeleCom|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|187.102.238.49|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
 
 
 
