@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.151.223.209|8080|Indonesia|Bangkinang|CMEDIANET|
-|3|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |5|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
-|9|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|117.40.32.133|8080|China|Taohua|Chinanet|
-|11|203.150.128.108|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|152.26.231.94|9443|United States|Concord|MCNC|
-|15|152.26.231.93|9443|United States|Concord|MCNC|
-|16|152.26.229.47|9443|United States|Concord|MCNC|
-|17|173.249.34.184|3128|Germany|Nuremberg|Contabo GmbH|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|203.150.128.108|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|8|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|152.26.231.94|9443|United States|Concord|MCNC|
+|11|152.26.229.47|9443|United States|Concord|MCNC|
+|12|152.26.231.93|9443|United States|Concord|MCNC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|15|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|19|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
