@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.36.157|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|103.147.118.240|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
-|11|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|12|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|13|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|14|103.187.113.165|3125|Indonesia|Tubanan|PT Adi Solusindo Teknologi|
-|15|103.25.79.178|4700|Myanmar|Yangon|Global Technology Co|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|103.154.230.129|8080|Indonesia|Lamongan|DIGITNET|
-|18|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|20|117.40.32.133|8080|China|Taohua|Chinanet|
+|4|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|7|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
+|8|83.54.10.24|3128|Spain|León|Telefonica de Espana SAU|
+|9|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|14|103.125.38.50|8080|Indonesia|Surabaya|PT. Eka Mas Republik|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|85.234.120.200|32650|Russia|Irkutsk|LLC "Regional company Svyaztranzit"|
+|18|117.40.32.133|8080|China|Taohua|Chinanet|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
