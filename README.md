@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |3|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|36.73.75.82|8080|Indonesia|Yogyakarta|PT. TELKOM INDONESIA|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|7|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|10|161.34.36.157|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|13|4.234.52.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|5.135.188.78|3127|France|Roubaix|OVH SAS|
-|18|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|161.34.36.157|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|14|103.83.0.62|8085|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|15|122.185.198.242|7999|India|New Delhi|Bharti Airtel Limited|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|19|160.248.191.5|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
