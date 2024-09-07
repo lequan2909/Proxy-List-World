@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|2|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|6|103.87.169.191|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|7|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
 |8|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|103.153.246.142|8181|Indonesia|Purwakarta|PRIMAHOME|
-|10|103.174.238.98|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|14|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|203.150.113.178|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|16|223.25.110.206|1080|Indonesia|Surabaya|SinergiNet|
-|17|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|202.5.36.164|5020|Bangladesh|Comilla|BBTS-NEW|
+|9|157.10.97.167|8080|Indonesia|Bengkulu|PT Lintas Jaringan Nusantara|
+|10|103.87.169.191|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|11|95.214.123.199|8080|Hungary|Kecskemét|Deltakon Kft.|
+|12|45.174.57.26|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|13|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|103.176.96.178|1111|Indonesia|Purwakarta|PT Global Sarana Elektronika|
+|16|119.47.90.76|8080|Indonesia|Batang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|19|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|103.163.175.28|8080|Indonesia|Jakarta|PT Lima Satu Tiga Global Tel-Access|
 
 
 
