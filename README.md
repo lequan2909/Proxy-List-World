@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|7|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|103.173.138.171|8080|Indonesia|Babat|PT Serayu Multi Connection|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|45.153.165.66|999|Dominican Republic|Santo Domingo|Silkglobal Dominicana SRL|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
+|7|45.153.165.66|999|Dominican Republic|Santo Domingo|Silkglobal Dominicana SRL|
+|8|4.158.106.190|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|170.81.171.189|8089|Brazil|Francisco Morato|Wireless Comm Services LTDA|
+|11|189.51.123.7|80|Brazil|Medina|Rapeedo Telecom|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|24.152.40.49|8080|Paraguay|Coronel Oviedo|TV MAX CABLE S.A.|
+|15|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|16|117.40.32.133|8080|China|Taohua|Chinanet|
 |17|152.26.229.93|9443|United States|Concord|MCNC|
 |18|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|152.26.231.94|9443|United States|Concord|MCNC|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|152.26.231.94|9443|United States|Concord|MCNC|
 
 
 
