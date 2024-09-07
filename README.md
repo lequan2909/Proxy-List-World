@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|4|103.155.196.40|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|5|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|6|49.49.209.242|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|7|103.179.182.241|8090|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|8|77.37.206.89|7003|Russia|Moscow|NCNET|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|8|49.49.209.242|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
 |9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|202.179.69.216|58080|India|Pune|Ankhnet|
-|11|45.182.176.38|9947|Brazil|São Paulo|Evolucao Telecom Ltda|
-|12|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|170.238.14.115|8080|Brazil|São Luís|WIPY COMERCIO E SERVIÇOS DE TELEINFORMATICA LTDA|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|206.85.9.10|999|Mexico|Venustiano Carranza|Internet Telefonia Y TV De Michoacan SA De CV|
-|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|81.31.234.70|80|Thailand|Bangkok|Y.U.T Corporate Company Limited|
-|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|170.238.14.115|8080|Brazil|São Luís|WIPY COMERCIO E SERVIÇOS DE TELEINFORMATICA LTDA|
+|12|119.18.149.110|5020|Bangladesh|Chittagong|BBTS Network|
+|13|103.69.151.189|8080|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
+|14|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
+|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|27.74.251.99|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|202.179.69.216|58080|India|Pune|Ankhnet|
 
 
 
