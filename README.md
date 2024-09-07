@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|91.230.110.95|8010|Germany|Düsseldorf|Contabo GmbH|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|7|192.145.37.197|8001|Germany|Düsseldorf|Contabo GmbH|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
 |8|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|9|117.40.32.133|8080|China|Taohua|Chinanet|
-|10|45.85.249.245|8001|Germany|Düsseldorf|Contabo GmbH|
-|11|103.180.118.170|8080|Indonesia|Gresik|PT Persada Data Multimedia|
-|12|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|152.26.231.42|9443|United States|Concord|MCNC|
-|15|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
-|16|152.26.231.94|9443|United States|Concord|MCNC|
-|17|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
-|19|152.26.231.93|9443|United States|Concord|MCNC|
+|9|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|11|152.26.231.42|9443|United States|Concord|MCNC|
+|12|152.26.231.94|9443|United States|Concord|MCNC|
+|13|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|178.211.130.186|3128|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|152.26.231.93|9443|United States|Concord|MCNC|
+|17|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
+|18|192.145.37.197|8001|Germany|Düsseldorf|Contabo GmbH|
+|19|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |20|116.169.54.253|8080|China|Chengdu|China Unicom CHINA169 Network|
 
 
