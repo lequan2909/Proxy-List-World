@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
-|5|24.115.120.39|8888|United States|Lititz|PenTeleData Inc.|
-|6|24.115.120.39|8888|United States|Lititz|PenTeleData Inc.|
-|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|8|194.8.144.84|8080|Ukraine|Chernivtsi|DYNAMIC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|121.54.190.174|3129|United States|Los Angeles|Zenlayer Inc|
-|13|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|14|72.10.164.178|31133|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|177.43.72.250|3128|Brazil|Campo Grande|Vivo|
-|17|152.26.231.83|9443|United States|Concord|MCNC|
-|18|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|152.26.231.93|9443|United States|Concord|MCNC|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|27.147.185.219|8090|Bangladesh|Khulna|Link3 Technologies Limited|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|8|38.183.144.108|8080|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
+|9|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|10|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|62.122.205.30|8080|Ukraine|Ivano-Frankivsk|Uteam LTD|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
+|14|35.238.133.20|3128|United States|Council Bluffs|Google LLC|
+|15|24.115.120.39|8888|United States|Lititz|PenTeleData Inc.|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|87.103.208.200|3128|Russia|Belovo|Kuzbass Network|
+|18|152.26.231.83|9443|United States|Concord|MCNC|
+|19|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|72.10.164.178|19809|Canada|Montreal|GloboTech Communications|
 
 
 
