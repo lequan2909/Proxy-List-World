@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|11|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|12|103.40.121.33|8089|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
-|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|14|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|15|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|16|117.40.32.133|8080|China|Taohua|Chinanet|
-|17|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|18|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|2|203.150.128.192|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|200.76.28.202|999|Mexico|Reynosa|Alestra, S. de R.L. de C.V.|
+|7|152.26.231.83|9443|United States|Concord|MCNC|
+|8|152.26.231.86|9443|United States|Concord|MCNC|
+|9|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|10|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|11|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
+|12|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|67.43.227.227|6775|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|2759|Canada|Montreal|GloboTech Communications|
+|15|212.252.73.23|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|16|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|17|67.43.228.253|21077|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|2759|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|116.169.54.248|8080|China|Chengdu|China Unicom CHINA169 Network|
 
 
 
