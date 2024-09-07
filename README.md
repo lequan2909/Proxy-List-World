@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|410|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|410|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|410|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|103.133.26.107|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|5|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|201.77.107.0|8087|Brazil|Porto Alegre|TURBONET - Provedor de Acesso a Internet|
-|9|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|201.71.2.185|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|11|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|191.191.181.159|8082|Brazil|Anápolis|Claro NXT Telecomunicacoes Ltda|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|15|45.136.198.90|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|16|122.152.55.61|8080|Bangladesh|Chittagong|Innovative Online Ltd|
-|17|103.165.157.167|8080|Indonesia|Purbalingga|MEGADATA-ISP|
-|18|152.26.231.42|9443|United States|Concord|MCNC|
-|19|152.26.231.83|9443|United States|Concord|MCNC|
-|20|152.26.229.93|9443|United States|Concord|MCNC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|36.67.8.169|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
+|6|203.150.113.178|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|11|45.249.122.198|8080|India|Coimbatore|Airconnect Services|
+|12|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|13|181.57.171.254|8085|Colombia|Bogotá|Telmex Colombia S.A.|
+|14|103.217.224.139|8090|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|15|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|16|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|17|191.191.181.159|8082|Brazil|Anápolis|Claro NXT Telecomunicacoes Ltda|
+|18|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
