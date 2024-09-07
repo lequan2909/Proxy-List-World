@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|103.133.63.77|8181|Indonesia|Bandar Lampung|TLINK|
-|8|103.156.70.70|8090|Indonesia|Banyuwangi|PT Indo Access Semesta|
-|9|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|203.150.128.178|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|11|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|201.150.9.53|8081|Mexico|Monterrey|Jose Miguel Macias Contreras|
-|13|117.40.32.133|8080|China|Taohua|Chinanet|
-|14|1.10.133.79|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|15|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|16|72.10.164.178|1205|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|18971|Canada|Montreal|GloboTech Communications|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|6|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|170.238.14.115|8080|Brazil|São Luís|WIPY COMERCIO E SERVIÇOS DE TELEINFORMATICA LTDA|
+|9|24.172.82.94|53281|United States|Concord|Spectrum|
+|10|45.188.167.25|999|Mexico|Tototlán|Velocom SA De CV|
+|11|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|132.255.220.17|9500|Brazil|Camaçari|LCD Serviços de Telecomunicações Multimidia|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|17|72.10.164.178|9219|Canada|Montreal|GloboTech Communications|
+|18|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
 
