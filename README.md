@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|181.214.208.150|80|The Netherlands|Amsterdam|rack400 com netherlands Infrastructure|
-|5|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|152.26.229.86|9443|United States|Concord|MCNC|
-|10|152.26.231.86|9443|United States|Concord|MCNC|
-|11|152.26.229.46|9443|United States|Concord|MCNC|
-|12|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|13|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|152.26.229.93|9443|United States|Concord|MCNC|
-|15|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|16|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|17|103.83.97.46|7777|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|18|72.10.160.173|16819|Canada|Montreal|GloboTech Communications|
-|19|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|181.214.208.150|80|The Netherlands|Amsterdam|rack400 com netherlands Infrastructure|
+|4|103.165.155.60|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|5|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
+|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|103.147.247.101|8080|Indonesia|Tangerang|PLBNET|
+|8|217.77.102.18|3128|Russia|Samara|"Region Svyaz Konsalt" LLC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|103.151.223.209|8080|Indonesia|Bangkinang|CMEDIANET|
+|11|181.78.95.50|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|103.156.75.41|8181|Indonesia|Gianyar|PT Trika Global Media|
+|14|117.40.32.133|8080|China|Taohua|Chinanet|
+|15|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|16|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|152.26.231.86|9443|United States|Concord|MCNC|
+|18|152.26.229.86|9443|United States|Concord|MCNC|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
 
 
 
