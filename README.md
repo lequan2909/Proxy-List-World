@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|203.150.128.108|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|203.150.128.108|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |6|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|161.34.36.157|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|103.55.159.51|6060|Indonesia|Sumbawa Besar|PT TELIO INTI NUSA|
 |8|160.248.94.16|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |9|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|152.26.229.83|9443|United States|Concord|MCNC|
-|13|117.40.32.133|8080|China|Taohua|Chinanet|
-|14|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|152.26.229.34|9443|United States|Concord|MCNC|
-|16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|18|72.10.164.178|13115|Canada|Montreal|GloboTech Communications|
-|19|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|10|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|20.26.80.147|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|14|152.26.229.47|9443|United States|Concord|MCNC|
+|15|152.26.229.83|9443|United States|Concord|MCNC|
+|16|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|112.17.10.41|3128|China|Hangzhou|China Mobile Communications Corporation|
 
 
 
