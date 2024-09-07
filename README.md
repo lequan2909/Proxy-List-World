@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|417|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|417|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|417|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
 |4|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|6|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|157.10.157.2|8080|Indonesia|Jakarta|Dinas Komunikasi dan Informatika Kabupaten Ciamis|
-|11|64.6.8.5|8080|United States|Macomb|MTC Communications|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|15|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|16|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|177.93.59.71|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
-|18|181.232.190.218|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
-|19|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|20|72.10.160.90|28159|Canada|Montreal|GloboTech Communications|
+|5|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|36.93.3.31|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|9|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
+|10|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|11|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|103.157.117.61|8080|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
+|16|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|178.130.104.153|8080|Yemen|Ibb|Yemen-net-bb-pool 178|
+|18|36.64.162.194|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
