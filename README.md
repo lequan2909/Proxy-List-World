@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|103.145.68.77|8080|Indonesia|Sumenep|ALFANET|
-|3|103.215.16.38|8080|Indonesia|Jakarta|PT. Kreasi Sejahtera Teknologi|
-|4|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|6|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|8|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|10|202.212.71.126|3128|Japan|Chiyoda|SIMPLEIA|
-|11|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|81.91.151.146|3128|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|5|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|8|202.212.71.126|3128|Japan|Chiyoda|SIMPLEIA|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|11|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
 |12|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|152.26.229.83|9443|United States|Concord|MCNC|
-|15|152.26.231.83|9443|United States|Concord|MCNC|
-|16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|117.4.115.59|8080|Vietnam|Bắc Ninh|VIETTEL|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
-|20|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|13|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|14|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|15|152.26.229.83|9443|United States|Concord|MCNC|
+|16|152.26.231.83|9443|United States|Concord|MCNC|
+|17|103.169.131.26|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
