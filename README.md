@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|117.40.32.133|8080|China|Taohua|Chinanet|
-|10|36.95.78.156|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|11|152.26.229.47|9443|United States|Concord|MCNC|
+|5|139.84.218.153|3129|India|Bengaluru|The Constant Company, LLC|
+|6|91.230.110.95|8010|Germany|Düsseldorf|Contabo GmbH|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|139.84.218.153|3129|India|Bengaluru|The Constant Company, LLC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|103.166.227.85|8080|Indonesia|Majalengka|PT Arta Flash Sintesa Nusantara|
+|11|94.23.204.27|3128|France|Roubaix|OVH SAS|
 |12|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|67.43.227.228|2267|Canada|Montreal|GloboTech Communications|
-|14|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|152.26.229.83|9443|United States|Concord|MCNC|
-|17|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|67.43.227.227|25373|Canada|Montreal|GloboTech Communications|
-|20|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|13|152.26.229.47|9443|United States|Concord|MCNC|
+|14|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|15|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|16|103.180.118.170|8080|Indonesia|Gresik|PT Persada Data Multimedia|
+|17|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
