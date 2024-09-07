@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.160.178.5|3128|Indonesia|Jakarta|PT Infonet Nusa Solusindo|
-|3|128.90.145.247|8118|Belgium|Brussels|Powerhouse Management, Inc.|
-|4|20.26.186.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|8|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|9|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|152.26.229.46|9443|United States|Concord|MCNC|
-|11|103.69.20.28|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|1|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|2|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|6|152.26.229.46|9443|United States|Concord|MCNC|
+|7|173.249.34.184|3128|Germany|Nuremberg|Contabo GmbH|
+|8|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|160.248.91.126|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|11|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |12|101.6.56.75|7897|China|Haidian|CERNET|
-|13|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|117.40.32.133|8080|China|Taohua|Chinanet|
-|16|160.248.91.126|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
-|20|111.89.146.128|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|13|4.159.24.156|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
+|15|116.169.54.248|8080|China|Chengdu|China Unicom CHINA169 Network|
+|16|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|17|152.26.231.83|9443|United States|Concord|MCNC|
+|18|72.10.160.172|27975|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
