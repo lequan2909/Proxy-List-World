@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|203.150.113.178|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
 |5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|177.93.33.122|999|Colombia|La Sierra|TV AZTECA SUCURSAL COLOMBIA|
-|9|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|10|103.139.126.234|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|11|103.170.100.96|8080|Indonesia|Jakarta|Subnet Data Nusantara|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|20.162.128.52|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|103.69.60.10|8080|Indonesia|Medan|PT Sukha Karya Teknologi|
+|10|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
+|11|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |12|51.145.56.126|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|103.18.232.18|8080|Indonesia|Demak|PT JARINGANKU SARANA NUSANTARA|
-|15|5.104.174.199|23500|Bulgaria|Dobrich|DobrudjaCable Ltd.|
+|13|115.127.39.18|58080|Bangladesh|Dhaka|BRACNet Limited|
+|14|177.93.33.122|999|Colombia|La Sierra|TV AZTECA SUCURSAL COLOMBIA|
+|15|46.243.71.2|8888|Slovakia|Michalovce|Minet s.r.o.|
 |16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|98.147.60.146|48678|United States|Wahiawa|Spectrum|
-|19|119.47.90.76|8080|Indonesia|Batang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|20|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|115.127.98.18|58080|Bangladesh|Dhaka|BRACNet Limited|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|201.222.83.146|999|Bolivia|Warnes|Cotas Ltda.|
 
 
 
