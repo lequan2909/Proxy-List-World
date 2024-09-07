@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
+|7|195.54.171.21|25299|Hong Kong|Hong Kong|M247 Europe SRL|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|124.248.180.163|8080|Cambodia|Phnom Penh|COGETEL Co., Ltd|
-|13|171.228.190.122|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|14|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|158.51.210.75|8888|Canada|Headingley|Prairie-Sky Wireless|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|171.228.190.122|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
+|12|103.42.120.31|8080|Indonesia|Jakarta|PT Transhybrid Communication|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |16|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|17|101.255.149.58|8080|Indonesia|Bekasi|PT Remala Abadi|
-|18|181.209.82.154|23500|Argentina|Caseros|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|19|200.29.109.112|44749|Colombia|Santiago de Cali|Empresas Municipales De Cali E.i.c.e. E.S.P.|
+|17|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
+|18|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
+|19|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |20|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
