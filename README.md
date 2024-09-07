@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|91.202.197.1|3128|Russia|Vologda|Electrics Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|10|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
-|11|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|12|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|152.26.231.86|9443|United States|Concord|MCNC|
-|16|72.10.164.178|15089|Canada|Montreal|GloboTech Communications|
-|17|101.255.117.197|8085|Indonesia|Jakarta|PT Remala Abadi|
-|18|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|4|103.78.158.6|3125|Indonesia|Banjarmasin|PT Global Jaringan Borneo|
+|5|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|6|157.10.157.2|8080|Indonesia|Jakarta|Dinas Komunikasi dan Informatika Kabupaten Ciamis|
+|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|8|117.40.32.133|8080|China|Taohua|Chinanet|
+|9|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|11|43.251.84.242|8080|Bangladesh|Dhaka|Md. Abdul Kayum Rashed|
+|12|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|152.26.231.86|9443|United States|Concord|MCNC|
+|15|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|18|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
