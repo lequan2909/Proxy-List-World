@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|139.84.220.63|3129|India|Bengaluru|The Constant Company, LLC|
-|5|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|3|139.84.220.63|3129|India|Bengaluru|The Constant Company, LLC|
+|4|139.84.219.76|3129|India|Bengaluru|The Constant Company, LLC|
+|5|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
-|8|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |9|103.165.215.78|8080|Indonesia|Jakarta|PT iForte Global Internet|
 |10|139.84.220.63|3129|India|Bengaluru|The Constant Company, LLC|
-|11|103.166.227.82|8085|Indonesia|Majalengka|PT Arta Flash Sintesa Nusantara|
-|12|103.149.238.27|3128|Indonesia|Pasuruan|PT BITNIAGA CIPTA GEMILANG|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|113.192.48.90|8090|Indonesia|Batu|PT.Global Media Data Prima|
-|15|103.118.175.42|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|16|117.40.32.133|8080|China|Taohua|Chinanet|
-|17|114.5.97.150|8080|Indonesia|Surabaya|PT. INDOSAT Tbk|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|103.147.73.50|7777|Indonesia|Kediri|ALFATINDO|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|103.36.10.118|8090|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|13|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|14|139.84.219.76|3129|India|Bengaluru|The Constant Company, LLC|
+|15|101.255.166.241|8080|Indonesia|Bekasi|PT Remala Abadi|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|91.217.179.134|8080|Ukraine|Kyiv|Startnet LTD|
+|18|103.234.27.194|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
+|19|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
