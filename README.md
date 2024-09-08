@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|426|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|426|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|426|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|1|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
 |6|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|115.74.246.138|8080|Vietnam|Quận Mười Một|VIETELxdsl|
 |8|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|9|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|10|200.10.31.220|999|Colombia|Pereira|Super Redes S.A.S|
-|11|37.232.13.2|8080|Georgia|Tbilisi|JSC "Silknet"|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|103.19.59.10|8080|Indonesia|Ngawi|BITSNET|
-|14|152.26.229.83|9443|United States|Concord|MCNC|
-|15|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|16|103.169.254.9|8090|Indonesia|Curahjati|PT Master Star Network|
-|17|67.43.236.20|11663|Canada|Montreal|GloboTech Communications|
-|18|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|19|200.5.196.218|3128|Argentina|San Telmo|Telefonica de Argentina|
-|20|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|185.19.4.22|3128|Ukraine|Kyiv|Triolan|
+|10|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|11|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|12|152.26.229.83|9443|United States|Concord|MCNC|
+|13|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|16|152.26.231.93|9443|United States|Concord|MCNC|
+|17|72.10.160.171|28465|Canada|Montreal|GloboTech Communications|
+|18|139.84.216.215|3129|India|Bengaluru|The Constant Company, LLC|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
 
