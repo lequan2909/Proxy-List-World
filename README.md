@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -44,19 +44,19 @@ Click the file format that you want and copy the URL.
 |3|160.248.94.110|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |5|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|9|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|12|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|14|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|8|103.224.124.239|8080|Indonesia|Bogor|PT Curug Lintas Indonesia|
+|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|159.203.104.153|4550|United States|Clifton|DigitalOcean, LLC|
+|11|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|24.181.66.92|8080|United States|McDonough|Charter Communications|
 |16|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|144.86.187.47|3129|United States|Malden|Charles River Operation|
-|18|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|24.181.66.92|8080|United States|McDonough|Charter Communications|
 |19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 |20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
