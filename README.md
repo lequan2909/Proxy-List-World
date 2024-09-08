@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|9|140.245.118.195|3128|Singapore|Singapore|Oracle Corporation|
-|10|67.43.228.252|25443|Canada|Montreal|GloboTech Communications|
-|11|152.26.229.46|9443|United States|Concord|MCNC|
-|12|152.26.231.93|9443|United States|Concord|MCNC|
-|13|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|14|72.10.160.90|2127|Canada|Montreal|GloboTech Communications|
-|15|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|16|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|67.43.236.20|2293|Canada|Montreal|GloboTech Communications|
-|18|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|19|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|186.125.218.185|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|6|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|7|140.245.118.195|3128|Singapore|Singapore|Oracle Corporation|
+|8|152.26.229.46|9443|United States|Concord|MCNC|
+|9|152.26.231.93|9443|United States|Concord|MCNC|
+|10|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|11|67.43.228.252|25443|Canada|Montreal|GloboTech Communications|
+|12|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|13|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|152.26.231.86|9443|United States|Concord|MCNC|
+|15|160.248.91.125|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|129.151.112.176|8899|Chile|Santiago|Oracle Corporation|
+|17|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|18|67.43.227.227|11925|Canada|Montreal|GloboTech Communications|
+|19|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
