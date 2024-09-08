@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |3|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|8|67.43.228.254|2679|Canada|Montreal|GloboTech Communications|
-|9|14.177.235.17|8080|Vietnam|Hanoi|VNPT|
-|10|117.54.130.66|53281|Indonesia|Jakarta|PT IndoInternet|
+|4|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|5|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
+|6|190.2.209.62|999|Colombia|Tumaco|TV AZTECA SUCURSAL COLOMBIA|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|171.229.67.60|10089|Vietnam|Hanoi|Viettel Corporation|
+|10|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
 |11|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |12|160.248.91.126|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|152.26.231.93|9443|United States|Concord|MCNC|
-|14|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|160.248.11.225|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|152.26.229.93|9443|United States|Concord|MCNC|
-|18|67.43.227.227|12879|Canada|Montreal|GloboTech Communications|
-|19|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
-|20|67.43.227.227|12879|Canada|Montreal|GloboTech Communications|
+|13|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
+|14|202.152.142.186|8080|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
+|15|152.26.231.93|9443|United States|Concord|MCNC|
+|16|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|17|190.107.232.202|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|67.43.227.227|1453|Canada|Montreal|GloboTech Communications|
 
 
 
