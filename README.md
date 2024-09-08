@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|454|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|454|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|454|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
-|6|171.228.140.144|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|7|41.173.7.82|8080|Uganda|Kampala|Liquid Telecommunications Ltd|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|10|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|11|152.32.77.213|8095|Philippines|Quezon City|ComClark Network & Technology Corp|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
+|8|188.235.146.220|40754|Russia|Saratov|JSC "ER-Telecom Holding"|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|11|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|12|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |14|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|16|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|103.19.59.10|8080|Indonesia|Ngawi|BITSNET|
+|15|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|16|67.43.227.230|29413|Canada|Montreal|GloboTech Communications|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |18|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|72.10.164.178|2641|Canada|Montreal|GloboTech Communications|
 |20|67.43.236.18|4505|Canada|Montreal|GloboTech Communications|
 
 
