@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|220.247.162.70|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|10|171.229.67.60|10085|Vietnam|Hanoi|Viettel Corporation|
-|11|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|12|152.26.229.34|9443|United States|Concord|MCNC|
-|13|152.26.229.46|9443|United States|Concord|MCNC|
-|14|67.43.227.227|31409|Canada|Montreal|GloboTech Communications|
-|15|114.9.27.194|7777|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|16|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|17|72.10.160.92|21703|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
+|4|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|5|171.229.67.60|10085|Vietnam|Hanoi|Viettel Corporation|
+|6|152.26.231.42|9443|United States|Concord|MCNC|
+|7|152.26.229.34|9443|United States|Concord|MCNC|
+|8|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|9|67.43.227.227|31409|Canada|Montreal|GloboTech Communications|
+|10|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|11|152.26.229.86|9443|United States|Concord|MCNC|
+|12|152.26.229.46|9443|United States|Concord|MCNC|
+|13|72.10.160.170|33079|Canada|Montreal|GloboTech Communications|
+|14|152.26.229.93|9443|United States|Concord|MCNC|
+|15|72.10.164.178|14201|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.92|10557|Canada|Montreal|GloboTech Communications|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
 |18|117.40.32.133|8080|China|Taohua|Chinanet|
-|19|152.26.229.86|9443|United States|Concord|MCNC|
-|20|152.26.229.83|9443|United States|Concord|MCNC|
+|19|72.10.160.172|18445|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
