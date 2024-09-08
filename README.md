@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|103.171.244.47|8088|Indonesia|Madiun|PT Data Arta Sedaya|
-|8|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
-|9|152.26.229.47|9443|United States|Concord|MCNC|
-|10|157.230.89.122|18084|United States|North Bergen|DigitalOcean, LLC|
-|11|152.26.229.93|9443|United States|Concord|MCNC|
-|12|152.26.229.86|9443|United States|Concord|MCNC|
+|2|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|5|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|6|200.24.157.120|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|152.26.229.93|9443|United States|Concord|MCNC|
+|10|152.26.229.47|9443|United States|Concord|MCNC|
+|11|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|12|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |13|152.26.229.42|9443|United States|Concord|MCNC|
-|14|72.10.164.178|19125|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|27013|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.91|11129|Canada|Montreal|GloboTech Communications|
-|17|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|72.10.164.178|19125|Canada|Montreal|GloboTech Communications|
-|19|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|14|152.26.231.86|9443|United States|Concord|MCNC|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|72.10.164.178|19125|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|19125|Canada|Montreal|GloboTech Communications|
+|18|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|19|103.171.244.42|8088|Indonesia|Madiun|PT Data Arta Sedaya|
 |20|72.10.164.178|19125|Canada|Montreal|GloboTech Communications|
 
 
