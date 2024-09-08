@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|405|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|405|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|405|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |2|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|144.86.187.62|3129|United States|Malden|Charles River Operation|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|144.86.187.56|3129|United States|Malden|Charles River Operation|
-|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|9|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|139.84.219.76|3129|India|Bengaluru|The Constant Company, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|144.86.187.51|3129|United States|Malden|Charles River Operation|
-|15|144.86.187.54|3129|United States|Malden|Charles River Operation|
-|16|61.247.34.98|8080|Indonesia|Jakarta|Linknet-Fastnet ASN|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|144.86.187.36|3129|United States|Malden|Charles River Operation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|144.86.187.42|3129|United States|Malden|Charles River Operation|
+|7|144.86.187.50|3129|United States|Malden|Charles River Operation|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|144.86.187.52|3129|United States|Malden|Charles River Operation|
+|10|83.54.10.24|3128|Spain|León|Telefonica de Espana SAU|
+|11|139.84.219.76|3129|India|Bengaluru|The Constant Company, LLC|
+|12|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|15|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|16|139.84.220.63|3129|India|Bengaluru|The Constant Company, LLC|
 |17|139.84.219.76|3129|India|Bengaluru|The Constant Company, LLC|
 |18|139.84.220.63|3129|India|Bengaluru|The Constant Company, LLC|
 |19|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|144.86.187.56|3129|United States|Malden|Charles River Operation|
+|20|144.86.187.45|3129|United States|Malden|Charles River Operation|
 
 
 
