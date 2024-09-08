@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|171.229.67.60|10089|Vietnam|Hanoi|Viettel Corporation|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|6|180.94.8.52|8085|Indonesia|Cikarang|BAST|
-|7|202.52.12.86|8080|Indonesia|Bandung|PT SKYLINE SEMESTA|
-|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|9|45.184.152.97|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|152.26.231.86|9443|United States|Concord|MCNC|
-|12|72.10.164.178|15751|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|29181|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.171|2219|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.42|9443|United States|Concord|MCNC|
-|16|72.10.160.91|33035|Canada|Montreal|GloboTech Communications|
-|17|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|18|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|19|72.10.160.170|14099|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|15751|Canada|Montreal|GloboTech Communications|
+|1|161.34.35.245|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|171.229.67.60|10089|Vietnam|Hanoi|Viettel Corporation|
+|4|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|5|103.69.20.55|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|6|209.14.118.118|999|Colombia|Neiva|AGIS|
+|7|103.173.138.240|1111|Indonesia|Babat|PT Serayu Multi Connection|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|181.214.147.25|9595|Lithuania|Vilnius|UAB "Baltnetos komunikacijos"|
+|10|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|11|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|12|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|13|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
+|18|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|171.229.67.60|10089|Vietnam|Hanoi|Viettel Corporation|
 
 
 
