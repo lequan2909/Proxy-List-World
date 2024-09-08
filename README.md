@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5445** proxies at the latest update. Usable proxies are below.
+> Scraper found **5205** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|665|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|278|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3501|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3261|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.229.67.60|10089|Vietnam|Hanoi|Viettel Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|18.228.173.160|3128|Brazil|São Paulo|Amazon Technologies Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|6|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|7|160.202.42.156|80|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
-|8|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|9|152.26.231.94|9443|United States|Concord|MCNC|
-|10|152.26.229.93|9443|United States|Concord|MCNC|
-|11|152.26.229.86|9443|United States|Concord|MCNC|
-|12|72.10.164.178|3921|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.171|29279|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.250|4161|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.46|9443|United States|Concord|MCNC|
-|16|67.43.227.227|10015|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|3921|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|3921|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|4|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|5|103.167.114.211|8080|Indonesia|Jepara|Dinas Komunikasi dan Informatika Kabupaten Jepara|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|8|139.84.218.194|3129|India|Bengaluru|The Constant Company, LLC|
+|9|171.228.140.144|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
+|10|152.26.229.86|9443|United States|Concord|MCNC|
+|11|152.26.231.94|9443|United States|Concord|MCNC|
+|12|152.26.229.93|9443|United States|Concord|MCNC|
+|13|139.84.218.194|3129|India|Bengaluru|The Constant Company, LLC|
+|14|152.26.229.46|9443|United States|Concord|MCNC|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|67.43.227.230|10989|Canada|Montreal|GloboTech Communications|
+|17|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|18|72.10.164.178|22733|Canada|Montreal|GloboTech Communications|
+|19|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
+|20|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
