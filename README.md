@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|422|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|422|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|422|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|408|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|408|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|408|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|9|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|139.84.150.195|3129|India|Bengaluru|The Constant Company, LLC|
-|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|8|125.26.99.38|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
 |13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|43.231.78.204|8080|Bangladesh|Azimpur|Gateway Online Access Limited|
-|15|64.225.96.122|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|17|139.84.217.120|3129|India|Bengaluru|The Constant Company, LLC|
-|18|181.49.177.198|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|19|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|20|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|14|102.68.128.212|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|15|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|16|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
+|17|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|18|36.94.185.122|60080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|19|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|20|185.208.101.216|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
 
 
 
