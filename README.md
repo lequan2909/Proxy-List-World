@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|160.248.11.225|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|9|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|103.190.171.155|1111|Indonesia|Jakarta|WMS|
-|12|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|200.76.28.202|999|Mexico|Reynosa|Alestra, S. de R.L. de C.V.|
-|18|181.224.207.142|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
-|19|103.156.15.64|1080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|20|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|3|160.248.11.225|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|11|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|12|103.175.224.93|4444|Indonesia|Jakarta|MYREPUBLIC|
+|13|125.26.99.38|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|14|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|5.135.188.78|3127|France|Roubaix|OVH SAS|
+|16|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|17|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|18|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
+|19|45.231.170.137|999|Mexico|Juárez|GigNet, S.A. de C.V.|
+|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
