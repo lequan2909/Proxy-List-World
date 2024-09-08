@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.7.168.193|8080|Thailand|Samut Sakhon|CAT Telecom Public Company Limited|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|4|61.7.168.193|8080|Thailand|Samut Sakhon|CAT Telecom Public Company Limited|
 |5|160.248.11.224|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|8|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|9|103.217.224.148|8090|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|10|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
-|11|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|7|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
+|8|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
+|10|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|103.172.42.81|8080|Indonesia|Karawang|PT Media Solusi Sukses|
 |13|24.181.66.92|8080|United States|McDonough|Charter Communications|
 |14|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|16|152.26.229.47|9443|United States|Concord|MCNC|
-|17|152.26.229.86|9443|United States|Concord|MCNC|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|72.10.164.178|1127|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|1845|Canada|Montreal|GloboTech Communications|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|152.26.229.47|9443|United States|Concord|MCNC|
+|18|190.61.55.138|999|Colombia|San Marcos|Ufinet Panama S.A.|
+|19|72.10.160.173|10381|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
