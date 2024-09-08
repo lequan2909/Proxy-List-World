@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|7|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|8|36.94.60.26|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|9|103.69.106.93|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
-|13|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|103.155.196.40|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|15|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|3|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|5|103.99.27.234|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
+|6|173.249.34.184|3128|Germany|Nuremberg|Contabo GmbH|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|9|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|10|103.234.159.5|8080|India|Bengaluru|MWPL|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|13|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|14|45.70.202.71|999|Ecuador|Quito|Ufinet Panama S.A.|
+|15|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|16|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|17|103.171.244.45|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|202.154.36.231|8080|Indonesia|Surabaya|PT Gayatri Lintas Nusantara|
+|20|62.171.183.48|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 
