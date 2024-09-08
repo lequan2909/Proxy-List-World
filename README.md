@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|68.183.149.126|11007|United States|Clifton|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|7|171.229.67.60|10089|Vietnam|Hanoi|Viettel Corporation|
-|8|68.183.149.126|11007|United States|Clifton|DigitalOcean, LLC|
-|9|38.7.1.198|8080|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|10|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|11|188.132.150.41|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|12|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|68.183.149.126|11007|United States|Clifton|DigitalOcean, LLC|
+|4|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|9|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|122.185.198.242|7999|India|New Delhi|Bharti Airtel Limited|
+|11|171.229.67.60|10089|Vietnam|Hanoi|Viettel Corporation|
+|12|188.132.150.41|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
 |13|152.26.229.83|9443|United States|Concord|MCNC|
-|14|148.64.110.245|3129|United States|Oakland|Another Corporate ISP, LLC|
-|15|124.105.24.80|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|16|67.43.227.227|30367|Canada|Montreal|GloboTech Communications|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|152.26.229.34|9443|United States|Concord|MCNC|
-|20|160.248.91.126|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|152.26.231.86|9443|United States|Concord|MCNC|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|160.248.91.126|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
 
 
 
