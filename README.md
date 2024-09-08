@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|37.72.174.21|8080|United States|New York|HIVELOCITY, Inc.|
-|4|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|3|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|4|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|7|77.37.206.89|7003|Russia|Moscow|NCNET|
-|8|43.153.104.42|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|43.153.104.42|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|81.31.234.70|80|Thailand|Bangkok|Y.U.T Corporate Company Limited|
-|11|103.157.83.229|8080|Indonesia|Jakarta Pusat|PT. Fiber Networks Indonesia|
-|12|36.50.11.198|8080|Bangladesh|Dhaka|Stardust Telecom Ltd|
-|13|180.191.23.115|8082|Philippines|Cabanatuan City|Globe Telecom|
-|14|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
-|15|178.217.168.164|55443|Kyrgyzstan|Bishkek|KRENA - Kyrgyz research and education network association|
-|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|202.179.69.216|58080|India|Pune|Ankhnet|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|115.72.46.96|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|103.69.106.93|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
+|12|5.42.72.98|3128|Sweden|Stockholm|Aeza International LTD|
+|13|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
+|14|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|16|103.159.96.74|8080|Indonesia|Gresik|PT Jinde Grup Indonesia|
 |17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|204.199.174.75|999|Peru|Arequipa|Fiberred Sociedad Anonima Cerrada|
+|18|103.125.174.17|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
 |19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
 
 
 
