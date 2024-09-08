@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|160.248.11.224|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|5|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|10|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|191.243.46.30|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|13|213.6.78.87|8080|Palestine|Nablus|Palestine Telecommunications Company|
-|14|61.7.168.193|8080|Thailand|Samut Sakhon|CAT Telecom Public Company Limited|
-|15|160.248.11.229|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|7|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|8|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|9|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|103.153.134.22|8080|Indonesia|Tangerang|WMINET|
+|12|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|160.248.11.229|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
 |16|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|117.40.32.135|8080|China|Taohua|Chinanet|
 |18|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|67.43.227.226|18089|Canada|Montreal|GloboTech Communications|
-|20|1.32.59.217|47045|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|119.93.148.191|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
