@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.229.67.60|10089|Vietnam|Hanoi|Viettel Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|8|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|9|36.72.241.107|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|10|152.26.229.47|9443|United States|Concord|MCNC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|152.26.229.93|9443|United States|Concord|MCNC|
-|13|152.26.229.46|9443|United States|Concord|MCNC|
-|14|72.10.160.170|5883|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|15927|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|16343|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|10333|Canada|Montreal|GloboTech Communications|
-|18|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|72.10.164.178|15927|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|20983|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|18.228.173.160|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|3|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|4|171.229.67.60|10089|Vietnam|Hanoi|Viettel Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|178.214.80.12|1976|Israel|Giv'on HaHadasha|Gemzo information technology Private Joint-Stock company|
+|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|10|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|36.72.241.107|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|12|152.26.229.42|9443|United States|Concord|MCNC|
+|13|152.26.229.47|9443|United States|Concord|MCNC|
+|14|152.26.229.46|9443|United States|Concord|MCNC|
+|15|152.26.229.93|9443|United States|Concord|MCNC|
+|16|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
+|18|67.43.227.228|21657|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.171|10281|Canada|Montreal|GloboTech Communications|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
