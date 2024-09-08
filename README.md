@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.91.126|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|42.200.124.211|8080|Hong Kong|Central|PCCW IMSBiz|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|200.39.120.81|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
-|9|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|10|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|11|171.5.163.156|8080|Thailand|Phuket|Triple T Broadband Public Company Limited|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|27.147.218.162|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|14|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|119.148.54.78|1419|Bangladesh|Dhaka|Agni Systems Limited|
-|19|103.250.130.106|8085|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|20|103.203.233.105|3125|Indonesia|Klapanunggal|INDANA|
+|1|160.248.91.126|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|7|103.159.194.131|8080|Indonesia|Welahan|PT Giga Digital Nusantara|
+|8|119.47.90.76|8080|Indonesia|Batang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|9|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|103.203.233.105|3125|Indonesia|Klapanunggal|INDANA|
+|11|117.40.32.133|8080|China|Taohua|Chinanet|
+|12|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|186.125.218.145|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|15|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|181.119.67.73|999|Colombia|Barrancabermeja|IFX Networks Argentina S.R.L|
+|18|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|27.64.29.170|8085|Vietnam|Ho Chi Minh City|Viettel Group|
+|20|67.43.227.227|11455|Canada|Montreal|GloboTech Communications|
 
 
 
