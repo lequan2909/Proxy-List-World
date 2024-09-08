@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|171.229.67.60|10089|Vietnam|Hanoi|Viettel Corporation|
-|2|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
 |4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|38.156.75.15|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|7|103.165.155.69|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|10|190.94.213.14|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|11|160.248.11.225|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|12|152.26.231.83|9443|United States|Concord|MCNC|
-|13|152.26.229.46|9443|United States|Concord|MCNC|
-|14|72.10.160.170|7977|Canada|Montreal|GloboTech Communications|
-|15|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|16|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|17|72.10.160.91|13461|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.174|28995|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.251|7435|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|16239|Canada|Montreal|GloboTech Communications|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|200.106.124.219|999|Peru|Tacna|Telefonica del Peru|
+|7|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|8|209.14.115.101|999|Colombia|Neiva|AGIS|
+|9|160.248.11.225|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|152.26.231.83|9443|United States|Concord|MCNC|
+|11|152.26.229.46|9443|United States|Concord|MCNC|
+|12|72.10.160.174|28995|Canada|Montreal|GloboTech Communications|
+|13|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|72.10.160.90|5739|Canada|Montreal|GloboTech Communications|
+|15|152.26.231.42|9443|United States|Concord|MCNC|
+|16|67.43.227.230|10059|Canada|Montreal|GloboTech Communications|
+|17|152.26.231.94|9443|United States|Concord|MCNC|
+|18|152.26.229.47|9443|United States|Concord|MCNC|
+|19|72.10.160.91|13461|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
