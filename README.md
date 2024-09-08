@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|139.84.219.76|3129|India|Bengaluru|The Constant Company, LLC|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|103.149.238.27|3128|Indonesia|Pasuruan|PT BITNIAGA CIPTA GEMILANG|
+|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|139.84.220.63|3129|India|Bengaluru|The Constant Company, LLC|
+|5|139.84.219.76|3129|India|Bengaluru|The Constant Company, LLC|
+|6|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|49.48.81.20|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|9|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
 |11|139.84.219.76|3129|India|Bengaluru|The Constant Company, LLC|
-|12|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
-|13|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|14|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|15|212.110.188.198|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|16|27.64.29.170|8085|Vietnam|Ho Chi Minh City|Viettel Group|
-|17|103.162.63.163|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|18|117.40.32.133|8080|China|Taohua|Chinanet|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|139.84.220.63|3129|India|Bengaluru|The Constant Company, LLC|
+|13|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|14|203.192.217.6|8080|India|Delhi|Entire In2Cable|
+|15|103.173.138.163|8080|Indonesia|Babat|PT Serayu Multi Connection|
+|16|171.6.82.69|8899|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|17|101.255.169.250|8080|Indonesia|Bekasi|PT Remala Abadi|
+|18|101.255.166.241|8080|Indonesia|Bekasi|PT Remala Abadi|
+|19|103.36.10.118|8090|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
