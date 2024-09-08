@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
-|2|15.204.161.192|18080|United States|Reston|OVH SAS|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|49.12.240.0|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|171.229.67.60|10085|Vietnam|Hanoi|Viettel Corporation|
-|8|112.17.10.41|3128|China|Hangzhou|China Mobile Communications Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
+|7|159.223.64.157|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|171.229.67.60|10085|Vietnam|Hanoi|Viettel Corporation|
 |9|38.7.1.198|8080|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|10|103.87.169.167|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|11|139.84.211.23|3129|India|Bengaluru|The Constant Company, LLC|
-|12|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|13|152.26.231.83|9443|United States|Concord|MCNC|
-|14|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|15|152.26.229.47|9443|United States|Concord|MCNC|
-|16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|180.191.59.191|8081|Philippines|Tarlac City|Globe Telecom|
+|12|68.183.149.126|11007|United States|Clifton|DigitalOcean, LLC|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|15|152.26.231.83|9443|United States|Concord|MCNC|
+|16|152.26.229.47|9443|United States|Concord|MCNC|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
 |18|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|19|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|20|160.248.94.16|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|49.12.240.0|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|20|112.17.10.41|3128|China|Hangzhou|China Mobile Communications Corporation|
 
 
 
