@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|165.22.111.221|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
-|6|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|2|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|165.22.111.221|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|8|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|13|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|14|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
-|16|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|17|103.133.61.203|1111|Indonesia|Bandar Lampung|TLINK|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|204.199.202.132|999|Mexico|Teotihuacán|Cirion Technologies Solutions|
+|8|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
+|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|11|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|16|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|131.100.148.76|8080|Brazil|Brasília|Linkwap Provedor De Internet E Fibra Optica Ltda|
+|18|203.150.128.112|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|19|103.89.233.226|83|India|Mangalore|Deenet Services Pvt. Ltd|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
