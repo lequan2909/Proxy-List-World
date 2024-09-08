@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.35.245|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|8|103.235.181.249|8080|Indonesia|Jakarta|PT Top Class Universal|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|12|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|13|152.26.229.47|9443|United States|Concord|MCNC|
-|14|160.248.91.125|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|187.188.16.28|999|Mexico|Xalapa|Total Play Telecomunicaciones SA De CV|
-|17|67.43.236.20|2659|Canada|Montreal|GloboTech Communications|
-|18|103.156.15.55|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|19|67.43.227.227|2069|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|4|161.34.35.245|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|171.229.67.60|10089|Vietnam|Hanoi|Viettel Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|49.149.63.241|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|10|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|11|181.214.147.25|9595|Lithuania|Vilnius|UAB "Baltnetos komunikacijos"|
+|12|103.168.254.162|8086|Indonesia|Jepara|PT Fahasa Tri Data|
+|13|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|14|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|15|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|152.26.229.47|9443|United States|Concord|MCNC|
+|19|173.249.34.184|3128|Germany|Nuremberg|Contabo GmbH|
+|20|103.88.113.202|8080|Vietnam|Hanoi|HTCITC|
 
 
 
