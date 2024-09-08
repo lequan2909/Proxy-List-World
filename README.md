@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.11.224|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|160.248.11.224|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|206.189.155.106|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|192.203.0.122|999|Puerto Rico|Fajardo|Boom NET|
-|10|115.127.19.163|9090|Bangladesh|Dhaka|BRACNet Limited|
-|11|147.45.48.94|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
-|12|103.189.122.107|8080|Indonesia|Jakarta|PT Ikhlas Cipta Teknologi|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|152.26.231.93|9443|United States|Concord|MCNC|
-|15|117.40.32.134|8080|China|Taohua|Chinanet|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|18|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|19|36.92.162.220|8080|Indonesia|Tuban Timur|Telekomunikasi Indonesia|
-|20|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|6|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|206.189.155.106|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|119.93.148.191|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|152.26.231.93|9443|United States|Concord|MCNC|
+|14|117.40.32.135|8080|China|Taohua|Chinanet|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|67.43.236.18|17501|Canada|Montreal|GloboTech Communications|
+|17|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|152.26.231.94|9443|United States|Concord|MCNC|
 
 
 
