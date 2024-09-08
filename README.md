@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|3|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|173.249.34.184|3128|Germany|Nuremberg|Contabo GmbH|
-|9|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|12|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|13|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|190.145.227.114|999|Colombia|Santiago de Cali|Telmex Colombia S.A.|
-|15|103.234.159.5|8080|India|Bengaluru|MWPL|
-|16|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|202.154.36.231|8080|Indonesia|Surabaya|PT Gayatri Lintas Nusantara|
-|20|103.112.212.57|83|India|Bijapur|Supersonic Isp Connectivity India Pvt Ltd|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
+|4|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|5|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|7|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|8|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|173.249.34.184|3128|Germany|Nuremberg|Contabo GmbH|
+|10|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|11|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
+|15|34.207.149.11|3128|United States|Ashburn|Amazon.com, Inc.|
+|16|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|17|202.51.212.146|8080|Indonesia|Cibinong|PT. Sejahtera Globalindo|
+|18|139.84.220.92|3129|India|Bengaluru|The Constant Company, LLC|
+|19|103.31.132.42|9812|Indonesia|Kebon Melati|PT Arthatama Adhiprima Persada|
+|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
