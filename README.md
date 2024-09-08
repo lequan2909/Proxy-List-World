@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|7|171.229.67.60|10089|Vietnam|Hanoi|Viettel Corporation|
-|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|9|160.248.91.126|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|10|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|11|72.10.160.170|1259|Canada|Montreal|GloboTech Communications|
-|12|152.26.229.47|9443|United States|Concord|MCNC|
-|13|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|152.26.231.42|9443|United States|Concord|MCNC|
-|15|152.26.231.94|9443|United States|Concord|MCNC|
-|16|152.26.229.46|9443|United States|Concord|MCNC|
-|17|67.43.227.227|3895|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|11849|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|3895|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|23281|Canada|Montreal|GloboTech Communications|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|171.229.67.60|10089|Vietnam|Hanoi|Viettel Corporation|
+|4|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|5|112.78.44.238|1111|Indonesia|Semarang|PT DES Teknologi Informasi|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|160.248.91.126|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|9|152.26.229.47|9443|United States|Concord|MCNC|
+|10|152.26.231.94|9443|United States|Concord|MCNC|
+|11|152.26.231.42|9443|United States|Concord|MCNC|
+|12|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|14|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|15|152.26.229.83|9443|United States|Concord|MCNC|
+|16|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|17|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|171.229.67.60|10089|Vietnam|Hanoi|Viettel Corporation|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
