@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
-|7|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|24.181.66.92|8080|United States|McDonough|Charter Communications|
 |9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|45.71.3.50|999|Ecuador|La Troncal|Sysnovelltel S.A|
-|11|103.24.125.33|83|India|Hyderabad|Pioneer Elabs Ltd.|
-|12|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|160.248.94.110|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|152.26.229.93|9443|United States|Concord|MCNC|
-|16|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|72.10.160.90|15421|Canada|Montreal|GloboTech Communications|
-|19|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|20|152.26.229.83|9443|United States|Concord|MCNC|
+|10|181.233.62.9|999|Guatemala|Guatemala City|CROSS CONNECT LAC, S.A.|
+|11|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|12|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|13|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
+|15|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
+|16|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|160.248.94.110|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
 
 
 
