@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|6|58.147.186.226|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
-|7|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|164.92.167.4|1194|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|10|222.74.73.202|42055|China|Hechi|Chinanet|
-|11|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|117.40.32.133|8080|China|Taohua|Chinanet|
-|15|157.10.157.2|8080|Indonesia|Jakarta|Dinas Komunikasi dan Informatika Kabupaten Ciamis|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|72.10.160.170|16937|Canada|Montreal|GloboTech Communications|
-|19|103.83.97.11|8090|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|20|67.43.227.228|21865|Canada|Montreal|GloboTech Communications|
+|6|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|43.251.84.242|8080|Bangladesh|Dhaka|Md. Abdul Kayum Rashed|
+|9|117.40.32.133|8080|China|Taohua|Chinanet|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|58.147.186.226|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
+|12|152.26.231.86|9443|United States|Concord|MCNC|
+|13|181.224.207.142|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
+|14|72.10.160.170|17005|Canada|Montreal|GloboTech Communications|
+|15|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|16|152.26.229.34|9443|United States|Concord|MCNC|
+|17|152.26.231.93|9443|United States|Concord|MCNC|
+|18|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|19|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
