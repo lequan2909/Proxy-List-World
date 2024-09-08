@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|5|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|171.229.67.60|10085|Vietnam|Hanoi|Viettel Corporation|
-|8|103.105.126.9|83|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd|
-|9|201.187.70.18|999|Chile|Valdivia|Telefonica del Sur S.A.|
-|10|188.132.222.47|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|13|43.167.241.105|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|14|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|15|160.248.94.110|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|160.248.11.225|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|139.84.211.23|3129|India|Bengaluru|The Constant Company, LLC|
+|1|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
+|8|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|9|41.216.186.73|8080|Indonesia|Purbalingga|FASTHOSTING|
+|10|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
+|13|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|14|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|15|201.187.70.18|999|Chile|Valdivia|Telefonica del Sur S.A.|
+|16|160.248.94.110|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|160.248.11.225|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|72.10.164.178|7843|Canada|Montreal|GloboTech Communications|
-|20|160.16.109.252|18080|Japan|Tokyo|SAKURA Internet Inc.|
+|19|45.71.3.50|999|Ecuador|La Troncal|Sysnovelltel S.A|
+|20|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
