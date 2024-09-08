@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|160.248.94.110|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.248.94.110|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
 |7|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|8|144.86.187.49|3129|United States|Malden|Charles River Operation|
+|8|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|10|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|144.86.187.44|3129|United States|Malden|Charles River Operation|
-|15|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|16|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|91.205.69.126|8080|Bosnia and Herzegovina|Gradačac|Telesat d.o.o.|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|144.86.187.53|3129|United States|Malden|Charles River Operation|
 |17|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|18|177.93.36.74|3128|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
-|19|200.76.28.202|999|Mexico|Reynosa|Alestra, S. de R.L. de C.V.|
-|20|212.110.188.202|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|18|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|19|144.86.187.37|3129|United States|Malden|Charles River Operation|
+|20|190.82.105.122|43949|Chile|La Cisterna|Telefonica Empresas|
 
 
 
