@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
 |3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|152.53.67.93|3128|Austria|Vienna|ANEXIA Internetdienstleistungs GmbH|
-|8|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
-|9|190.186.216.60|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|202.180.20.10|55443|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|9|103.231.177.120|5020|Bangladesh|Gazipur|Sayed Farhad Ahmed|
+|10|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
 |11|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|12|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
-|15|68.183.149.126|11007|United States|Clifton|DigitalOcean, LLC|
-|16|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|72.10.164.178|21365|Canada|Montreal|GloboTech Communications|
-|18|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|19|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
-|20|152.26.229.93|9443|United States|Concord|MCNC|
+|12|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|13|42.113.88.14|8080|Vietnam|Vĩnh Long|FPT Telecom Company|
+|14|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|72.10.164.178|28293|Canada|Montreal|GloboTech Communications|
+|17|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|18|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|159.223.64.157|8888|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
