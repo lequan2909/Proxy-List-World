@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|171.228.140.144|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|7|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|8|152.32.77.213|8095|Philippines|Quezon City|ComClark Network & Technology Corp|
-|9|202.47.188.133|8090|Indonesia|Magetan|PT.CITRA BERDIKARI NUSANTARA|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|13|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|14|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|4|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|5|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|8|103.234.31.59|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
+|9|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|171.229.67.60|10089|Vietnam|Hanoi|Viettel Corporation|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|152.26.229.83|9443|United States|Concord|MCNC|
-|17|152.26.229.86|9443|United States|Concord|MCNC|
-|18|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|20|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|17|84.214.150.146|8080|Norway|Oslo|Get AS|
+|18|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
+|20|103.169.254.9|8090|Indonesia|Curahjati|PT Master Star Network|
 
 
 
