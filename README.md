@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|160.248.94.110|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|7|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
-|8|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|144.86.187.44|3129|United States|Malden|Charles River Operation|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|15|144.86.187.49|3129|United States|Malden|Charles River Operation|
-|16|103.27.22.65|32650|Pakistan|Lahore|Supernet|
-|17|144.86.187.44|3129|United States|Malden|Charles River Operation|
-|18|15.204.161.192|18080|United States|Reston|OVH SAS|
-|19|24.172.82.94|53281|United States|Concord|Spectrum|
-|20|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|5|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|6|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
+|7|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|11|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|12|38.156.73.202|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|103.180.122.71|8080|Indonesia|Bekasi|PT Indo Telemedia Solusi|
+|16|103.199.139.14|82|India|Pune|Syscon Infoway Pvt. Ltd.|
+|17|103.160.202.118|8090|Indonesia|Sidoarjo|PT Sembilan Mediadata Nusaraya|
+|18|223.25.110.225|1080|Indonesia|Surabaya|SinergiNet|
+|19|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|20|187.49.86.114|8222|Brazil|Cascavel|DIGITAL DESIGN SERVIÇOS DE TELECOMUNICAÇÕES EIRELI|
 
 
 
