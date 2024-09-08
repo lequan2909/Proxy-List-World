@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.248.11.224|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|8|103.217.224.148|8090|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|103.147.246.184|3127|Indonesia|Tangerang|PLBNET|
-|15|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|16|61.7.168.193|8080|Thailand|Samut Sakhon|CAT Telecom Public Company Limited|
-|17|152.26.231.94|9443|United States|Concord|MCNC|
-|18|152.26.229.34|9443|United States|Concord|MCNC|
-|19|72.10.160.90|2201|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.229|8375|Canada|Montreal|GloboTech Communications|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|160.248.11.224|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|5|61.7.168.193|8080|Thailand|Samut Sakhon|CAT Telecom Public Company Limited|
+|6|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|7|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|9|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
+|12|103.146.170.252|83|India|Nalgonda|Thrishul Broadband Private Ltd|
+|13|36.92.162.220|8080|Indonesia|Tuban Timur|Telekomunikasi Indonesia|
+|14|38.156.75.13|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|152.26.231.94|9443|United States|Concord|MCNC|
+|16|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|72.10.164.178|2539|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.229|8375|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|12089|Canada|Montreal|GloboTech Communications|
 
 
 
