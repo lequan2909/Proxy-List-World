@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|144.86.187.44|3129|United States|Malden|Charles River Operation|
+|5|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|103.188.252.160|8080|Indonesia|Ungaran|PT Data Lintas Media Indonesia|
-|9|144.86.187.53|3129|United States|Malden|Charles River Operation|
+|7|144.86.187.49|3129|United States|Malden|Charles River Operation|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|103.172.42.235|1111|Indonesia|Karawang|PT Media Solusi Sukses|
 |10|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|103.178.194.122|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|12|103.169.148.5|1111|Indonesia|Pekanbaru|PT Kangen Network Solusindo|
 |13|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|103.133.222.64|8090|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
-|15|103.250.130.106|8085|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|16|152.53.67.93|3128|Austria|Vienna|ANEXIA Internetdienstleistungs GmbH|
-|17|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|103.245.205.226|6969|Bangladesh|Dhaka|Next Online Limited|
+|15|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|16|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|17|152.26.231.86|9443|United States|Concord|MCNC|
 |18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|19|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.164.178|27429|Canada|Montreal|GloboTech Communications|
 
 
 
