@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|161.34.35.245|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |5|171.229.67.60|10089|Vietnam|Hanoi|Viettel Corporation|
-|6|49.149.63.241|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|8|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|14.139.57.195|23500|India|Lucknow|National Knowledge Network|
-|14|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|15|85.232.243.235|8080|Poland|Warsaw|ATMAN|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|19|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|49.48.95.95|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|9|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|139.84.222.26|3129|India|Bengaluru|The Constant Company, LLC|
+|12|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|14|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|83.54.10.24|3128|Spain|León|Telefonica de Espana SAU|
+|16|103.173.138.240|1111|Indonesia|Babat|PT Serayu Multi Connection|
+|17|84.255.35.210|9898|Malta|Sliema|Melita plc|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|72.10.164.178|25107|Canada|Montreal|GloboTech Communications|
+|20|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
