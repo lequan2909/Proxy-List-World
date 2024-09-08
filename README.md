@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.11.224|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.248.11.224|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|5|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|152.26.231.93|9443|United States|Concord|MCNC|
-|10|152.26.229.42|9443|United States|Concord|MCNC|
-|11|152.26.231.94|9443|United States|Concord|MCNC|
-|12|72.10.160.170|10459|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|3197|Canada|Montreal|GloboTech Communications|
-|14|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
-|15|152.26.229.93|9443|United States|Concord|MCNC|
-|16|67.43.227.227|2443|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|2443|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.171|16563|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|15221|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.83|9443|United States|Concord|MCNC|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|152.26.231.93|9443|United States|Concord|MCNC|
+|12|190.83.15.241|999|Ecuador|Zamora Nuevo|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
+|13|152.26.229.42|9443|United States|Concord|MCNC|
+|14|152.26.231.94|9443|United States|Concord|MCNC|
+|15|212.110.188.202|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|16|72.10.164.178|3197|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.228|9201|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.93|9443|United States|Concord|MCNC|
+|19|67.43.227.227|9201|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.171|9165|Canada|Montreal|GloboTech Communications|
 
 
 
