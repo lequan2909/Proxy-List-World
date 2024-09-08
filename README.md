@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5770** proxies at the latest update. Usable proxies are below.
+> Scraper found **5740** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|224|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|748|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|718|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|370|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3470|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |4|160.248.91.126|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|9|103.172.0.13|8181|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|10|200.39.120.78|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|177.130.63.80|8080|Brazil|Itaituba|Wsp Serviços de Telecomunicações Ltda|
-|15|125.209.110.83|39617|Pakistan|Karachi|Multinet 125-110/24|
-|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|20|90.161.186.147|3128|Spain|Pineda de Mar|Uni2|
+|5|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|6|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|9|103.159.96.131|3125|Indonesia|Gresik|PT Jinde Grup Indonesia|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|103.189.116.109|8080|Indonesia|Temanggung|PT Callysta Total Solusindo|
+|12|103.156.248.27|8085|Indonesia|Medan|Trans Media Telekomunikasi|
+|13|103.147.73.50|7777|Indonesia|Kediri|ALFATINDO|
+|14|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|117.40.32.133|8080|China|Taohua|Chinanet|
+|19|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|117.68.38.137|37994|China|Hefei|China Telecom|
 
 
 
