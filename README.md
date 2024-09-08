@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|38.183.209.33|8080|Indonesia|Tangerang|PT. Putra Lebak Banten|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
 |4|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|49.48.95.95|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|7|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|9|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
+|6|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|200.24.157.120|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |11|160.248.11.213|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|12|152.26.231.86|9443|United States|Concord|MCNC|
-|13|160.248.11.225|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|15|72.10.164.178|6799|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|23343|Canada|Montreal|GloboTech Communications|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|12|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|13|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|152.26.231.86|9443|United States|Concord|MCNC|
+|15|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|112.17.10.41|3128|China|Hangzhou|China Mobile Communications Corporation|
+|19|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |20|152.26.231.94|9443|United States|Concord|MCNC|
 
 
