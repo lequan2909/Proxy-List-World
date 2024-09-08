@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|171.229.67.60|10089|Vietnam|Hanoi|Viettel Corporation|
-|5|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|202.56.166.157|8080|Indonesia|Yogyakarta|PT Lintas Data Prima|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|10|49.151.71.117|8080|Philippines|Tarlac City|Philippine Long Distance Telephone Co.|
-|11|160.248.94.110|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|12|115.74.118.95|5110|Vietnam|Ho Chi Minh City|VIETELxdsl|
-|13|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
-|14|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|67.43.227.227|4495|Canada|Montreal|GloboTech Communications|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|72.10.160.173|30125|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.42|9443|United States|Concord|MCNC|
-|20|152.26.231.94|9443|United States|Concord|MCNC|
+|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|5|103.179.182.211|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|6|38.183.145.31|8090|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
+|7|160.248.94.110|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|8|171.229.67.60|10089|Vietnam|Hanoi|Viettel Corporation|
+|9|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|11|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|12|152.26.229.86|9443|United States|Concord|MCNC|
+|13|152.26.231.93|9443|United States|Concord|MCNC|
+|14|152.26.231.94|9443|United States|Concord|MCNC|
+|15|152.26.231.42|9443|United States|Concord|MCNC|
+|16|179.106.22.130|9090|Brazil|Patrocínio|OnNet Telecomunicações LTDA|
+|17|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|18|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
