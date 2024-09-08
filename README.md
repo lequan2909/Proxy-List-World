@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|103.83.178.222|8080|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
 |4|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
-|13|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|164.92.167.4|1194|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|93.157.196.58|8080|Bosnia and Herzegovina|Gradačac|Telesat d.o.o.|
-|16|103.149.194.58|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
-|17|103.144.102.230|8085|Indonesia|Bandung|PANDAWANET|
-|18|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|35.238.133.20|3128|United States|Council Bluffs|Google LLC|
+|7|36.76.189.154|80|Indonesia|Palembang|PT. TELKOM INDONESIA|
+|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|64.225.96.122|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|35.238.133.20|3128|United States|Council Bluffs|Google LLC|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|14|182.23.127.2|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|15|35.238.133.20|3128|United States|Council Bluffs|Google LLC|
+|16|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|17|43.231.78.204|8080|Bangladesh|Azimpur|Gateway Online Access Limited|
+|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|103.70.93.77|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|20|114.141.51.51|8080|Indonesia|Bekasi|PT Cyberplus Media Pratama|
 
 
 
