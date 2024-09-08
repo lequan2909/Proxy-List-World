@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|3|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|6|144.86.187.40|3129|United States|Malden|Charles River Operation|
-|7|144.86.187.51|3129|United States|Malden|Charles River Operation|
-|8|144.86.187.59|3129|United States|Malden|Charles River Operation|
-|9|144.86.187.38|3129|United States|Malden|Charles River Operation|
-|10|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|11|144.86.187.58|3129|United States|Malden|Charles River Operation|
-|12|144.86.187.60|3129|United States|Malden|Charles River Operation|
-|13|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
-|14|144.86.187.55|3129|United States|Malden|Charles River Operation|
-|15|144.86.187.57|3129|United States|Malden|Charles River Operation|
-|16|144.86.187.61|3129|United States|Malden|Charles River Operation|
-|17|144.86.187.46|3129|United States|Malden|Charles River Operation|
-|18|139.84.219.76|3129|India|Bengaluru|The Constant Company, LLC|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|144.86.187.62|3129|United States|Malden|Charles River Operation|
+|2|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|144.86.187.53|3129|United States|Malden|Charles River Operation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|144.86.187.54|3129|United States|Malden|Charles River Operation|
+|7|144.86.187.36|3129|United States|Malden|Charles River Operation|
+|8|144.86.187.42|3129|United States|Malden|Charles River Operation|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|11|139.84.219.76|3129|India|Bengaluru|The Constant Company, LLC|
+|12|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|171.228.190.122|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
+|15|144.86.187.50|3129|United States|Malden|Charles River Operation|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|18|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|19|139.255.33.242|8080|Indonesia|Jakarta|PT. LINKNET|
+|20|94.23.204.27|3128|France|Roubaix|OVH SAS|
 
 
 
