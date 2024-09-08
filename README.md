@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|171.229.67.60|10089|Vietnam|Hanoi|Viettel Corporation|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|7|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 |8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|152.26.229.47|9443|United States|Concord|MCNC|
-|10|148.64.110.245|3129|United States|Oakland|Another Corporate ISP, LLC|
-|11|152.26.229.42|9443|United States|Concord|MCNC|
-|12|67.43.236.20|10257|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|32195|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.34|9443|United States|Concord|MCNC|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|152.26.229.83|9443|United States|Concord|MCNC|
-|18|160.248.11.225|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|72.10.160.90|5003|Canada|Montreal|GloboTech Communications|
+|9|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|152.26.229.47|9443|United States|Concord|MCNC|
+|12|152.26.229.42|9443|United States|Concord|MCNC|
+|13|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|72.10.160.90|15249|Canada|Montreal|GloboTech Communications|
+|16|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|67.43.228.253|12719|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
