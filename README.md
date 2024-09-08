@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |5|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|103.69.106.183|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
-|11|64.225.96.122|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|119.110.69.215|57413|Indonesia|Jakarta|Maxindo|
-|13|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|14|103.191.250.130|8083|Indonesia|Batam|PT Mulia Batam Net|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|17|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|18|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|19|103.183.98.222|7777|Indonesia|Trenggalek|PT.LEXXA DATA INDONUSA|
+|8|64.225.96.122|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|13|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|14|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|15|119.82.242.200|8080|Indonesia|Gedangan|Indonesia Network Information Center|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|103.183.98.222|7777|Indonesia|Trenggalek|PT.LEXXA DATA INDONUSA|
+|18|111.68.26.237|8080|Indonesia|Yogyakarta|GMEDIA|
+|19|35.238.133.20|3128|United States|Council Bluffs|Google LLC|
 |20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
