@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|3|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|11|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|112.198.179.17|8082|Philippines|Carmona|Globe Telecom|
-|13|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|117.40.32.133|8080|China|Taohua|Chinanet|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|19|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|20|182.23.127.2|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|175.100.35.238|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|10|112.198.179.17|8082|Philippines|Carmona|Globe Telecom|
+|11|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|103.76.151.74|8089|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|13|90.161.186.147|3128|Spain|Pineda de Mar|Uni2|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|200.201.134.188|8787|Brazil|São Paulo|Telium Telecomunicações Ltda|
+|16|103.48.68.75|83|India|Hyderabad|Country Online Services PVT LTD|
+|17|182.23.127.2|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|18|119.18.149.147|5020|Bangladesh|Chittagong|BBTS Network|
+|19|117.40.32.133|8080|China|Taohua|Chinanet|
+|20|160.248.190.250|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
