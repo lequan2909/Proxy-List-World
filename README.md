@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|152.26.229.86|9443|United States|Concord|MCNC|
-|7|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|152.26.229.83|9443|United States|Concord|MCNC|
-|9|152.26.229.34|9443|United States|Concord|MCNC|
-|10|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|72.10.160.90|26055|Canada|Montreal|GloboTech Communications|
-|12|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|14|152.26.231.86|9443|United States|Concord|MCNC|
-|15|72.10.160.93|11461|Canada|Montreal|GloboTech Communications|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|18|152.26.231.93|9443|United States|Concord|MCNC|
-|19|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|152.26.229.42|9443|United States|Concord|MCNC|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|6|206.189.155.106|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|152.26.229.86|9443|United States|Concord|MCNC|
+|12|152.26.229.83|9443|United States|Concord|MCNC|
+|13|152.26.229.34|9443|United States|Concord|MCNC|
+|14|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 
 
 
