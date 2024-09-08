@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|9|45.71.3.50|999|Ecuador|La Troncal|Sysnovelltel S.A|
-|10|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|11|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|41.65.160.171|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|14|160.248.11.229|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|2|15.168.136.9|80|Japan|Osaka|Amazon Technologies Inc.|
+|3|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|4|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
+|9|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|10|41.65.160.171|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|11|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|12|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|203.189.96.232|80|Japan|Chiyoda|GMO Internet, Inc|
+|14|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|15|160.248.11.229|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |16|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|139.84.222.26|3129|India|Bengaluru|The Constant Company, LLC|
 
 
 
