@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|160.248.11.224|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |3|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|160.248.11.224|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
 |5|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|61.7.168.193|8080|Thailand|Samut Sakhon|CAT Telecom Public Company Limited|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
 |8|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|9|181.214.147.36|3128|Lithuania|Vilnius|UAB "Baltnetos komunikacijos"|
-|10|109.230.92.50|3128|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|11|190.6.179.26|8080|Colombia|Santiago de Cali|Empresa de Recursos Tecnologicos S.A E.S.P|
-|12|36.92.162.220|8080|Indonesia|Tuban Timur|Telekomunikasi Indonesia|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|180.211.183.2|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
-|15|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|17|45.175.252.18|999|Mexico|Chihuahua City|Alma Jessica Gallegos Gutierrez|
-|18|72.10.160.90|3115|Canada|Montreal|GloboTech Communications|
-|19|103.146.170.252|83|India|Nalgonda|Thrishul Broadband Private Ltd|
-|20|152.26.229.93|9443|United States|Concord|MCNC|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|139.84.211.23|3129|India|Bengaluru|The Constant Company, LLC|
+|12|67.43.227.227|25129|Canada|Montreal|GloboTech Communications|
+|13|160.248.91.125|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|152.26.229.93|9443|United States|Concord|MCNC|
+|15|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|72.10.160.90|32427|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|25129|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
