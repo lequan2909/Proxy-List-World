@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
-|7|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|152.26.229.46|9443|United States|Concord|MCNC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|72.10.164.178|19125|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.230|10411|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.250|21339|Canada|Montreal|GloboTech Communications|
-|13|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|14|152.26.231.86|9443|United States|Concord|MCNC|
-|15|152.26.231.42|9443|United States|Concord|MCNC|
-|16|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|17|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|18|72.10.164.178|19125|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.83|9443|United States|Concord|MCNC|
-|20|36.95.78.156|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|5|195.54.171.21|25299|Hong Kong|Hong Kong|M247 Europe SRL|
+|6|103.153.246.46|8080|Indonesia|Purwakarta|PRIMAHOME|
+|7|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
+|10|72.10.164.178|15653|Canada|Montreal|GloboTech Communications|
+|11|152.26.229.46|9443|United States|Concord|MCNC|
+|12|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|72.10.164.178|15653|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.34|9443|United States|Concord|MCNC|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
