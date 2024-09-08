@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|1.20.203.152|8080|Thailand|Surat Thani|TOT Public Company Limited|
-|5|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
-|6|182.253.66.122|8080|Indonesia|Jakarta|BIZNET|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|1.20.203.152|8080|Thailand|Surat Thani|TOT Public Company Limited|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
+|5|171.229.67.60|10089|Vietnam|Hanoi|Viettel Corporation|
+|6|103.87.169.167|32650|India|Jaipur|Tejays Industries Pvt Ltd|
 |7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|8|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|9|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |10|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|11|152.26.231.94|9443|United States|Concord|MCNC|
-|12|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|148.64.110.245|3129|United States|Oakland|Another Corporate ISP, LLC|
+|12|160.248.11.213|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |13|152.26.229.83|9443|United States|Concord|MCNC|
-|14|160.248.11.213|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|152.26.229.46|9443|United States|Concord|MCNC|
 |15|152.26.229.47|9443|United States|Concord|MCNC|
-|16|148.64.110.245|3129|United States|Oakland|Another Corporate ISP, LLC|
-|17|152.26.229.34|9443|United States|Concord|MCNC|
-|18|72.10.164.178|4133|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|117.40.32.134|8080|China|Taohua|Chinanet|
+|16|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|17|72.10.160.90|28429|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|103.175.157.72|8090|Indonesia|Jakarta|MYARSYILA|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
