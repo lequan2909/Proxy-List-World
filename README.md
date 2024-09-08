@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.149.238.27|3128|Indonesia|Pasuruan|PT BITNIAGA CIPTA GEMILANG|
 |4|160.248.91.126|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|5|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|6|152.53.67.93|3128|Austria|Vienna|ANEXIA Internetdienstleistungs GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|216.122.181.249|8080|Dominican Republic|Santiago de los Caballeros|Colocation America Corporation|
-|10|187.157.243.254|8080|Mexico|Puebla City|Uninet S.A. de C.V.|
-|11|101.51.139.219|8180|Thailand|Chiang Mai|TOT Public Company Limited|
-|12|186.96.96.134|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|178.217.168.164|55443|Kyrgyzstan|Bishkek|KRENA - Kyrgyz research and education network association|
-|15|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|117.40.32.133|8080|China|Taohua|Chinanet|
+|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|8|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|103.76.151.74|8089|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|14|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|118.99.96.174|8080|Indonesia|Jakarta|Biznet Networks|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |19|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|5.161.77.3|8080|United States|Ashburn|Hetzner Online GmbH|
+|20|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 
 
 
