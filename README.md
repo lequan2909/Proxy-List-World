@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|171.229.67.60|10089|Vietnam|Hanoi|Viettel Corporation|
-|5|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|6|152.26.229.42|9443|United States|Concord|MCNC|
-|7|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|8|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|9|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|10|152.26.231.94|9443|United States|Concord|MCNC|
-|11|160.248.11.213|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|12|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|101.255.118.89|8080|Indonesia|Jakarta|PT Remala Abadi|
+|6|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|7|152.26.229.42|9443|United States|Concord|MCNC|
+|8|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|9|152.26.231.94|9443|United States|Concord|MCNC|
+|10|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|11|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|12|72.10.164.178|20225|Canada|Montreal|GloboTech Communications|
 |13|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
-|14|117.68.38.152|35578|China|Hefei|China Telecom|
-|15|72.10.164.178|28463|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|9947|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.252|30281|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|14725|Canada|Montreal|GloboTech Communications|
-|19|112.17.10.41|3128|China|Hangzhou|China Mobile Communications Corporation|
-|20|72.10.160.90|14019|Canada|Montreal|GloboTech Communications|
+|14|160.248.11.213|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|109.164.38.201|2306|Czechia|Prague|STARNET, s.r.o.|
+|18|5.83.248.1|8080|Ireland|Roscommon|EURONA-BRISKNET|
+|19|67.43.227.226|31935|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|21715|Canada|Montreal|GloboTech Communications|
 
 
 
