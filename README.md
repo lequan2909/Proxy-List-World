@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |5|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|206.189.155.106|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |7|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|152.26.229.86|9443|United States|Concord|MCNC|
-|11|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|12|117.68.38.153|27038|China|Hefei|China Telecom|
-|13|120.28.180.171|8080|Philippines|San Juan|Globe Telecom|
-|14|72.10.160.90|14337|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|22337|Canada|Montreal|GloboTech Communications|
-|16|119.93.148.191|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|152.26.229.86|9443|United States|Concord|MCNC|
+|13|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|14|36.92.162.220|8080|Indonesia|Tuban Timur|Telekomunikasi Indonesia|
+|15|67.43.227.227|5813|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|5813|Canada|Montreal|GloboTech Communications|
 |17|152.26.229.34|9443|United States|Concord|MCNC|
-|18|67.43.227.227|5813|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|15221|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|32625|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|10241|Canada|Montreal|GloboTech Communications|
+|19|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
+|20|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
 
 
 
