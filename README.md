@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|171.229.67.60|10089|Vietnam|Hanoi|Viettel Corporation|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|5|45.77.147.46|3128|United States|Piscataway|The Constant Company|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|68.162.217.121|8080|United States|Leominster|Verizon Business|
-|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|103.167.114.211|8080|Indonesia|Jepara|Dinas Komunikasi dan Informatika Kabupaten Jepara|
-|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|11|200.106.124.219|999|Peru|Tacna|Telefonica del Peru|
-|12|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|13|152.26.229.83|9443|United States|Concord|MCNC|
-|14|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|148.64.110.245|3129|United States|Oakland|Another Corporate ISP, LLC|
-|16|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|17|138.59.227.20|999|Paraguay|Ayolas|Aranda Cardozo Lider Ramon|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|152.26.229.93|9443|United States|Concord|MCNC|
+|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|9|49.151.71.117|8080|Philippines|Tarlac City|Philippine Long Distance Telephone Co.|
+|10|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|152.26.229.83|9443|United States|Concord|MCNC|
+|13|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|152.26.229.93|9443|United States|Concord|MCNC|
+|17|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|72.10.160.171|12409|Canada|Montreal|GloboTech Communications|
+|20|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
