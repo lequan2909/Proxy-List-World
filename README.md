@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|160.248.94.110|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|160.248.94.110|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
 |7|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|12|103.189.250.89|8090|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|71.14.23.121|8080|United States|Hoover|Spectrum|
-|18|103.169.148.5|1111|Indonesia|Pekanbaru|PT Kangen Network Solusindo|
-|19|144.86.187.37|3129|United States|Malden|Charles River Operation|
-|20|181.65.180.190|999|Peru|La Oroya|Telefonica del Peru S.A.A.|
+|8|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|103.80.88.74|443|Indonesia|Gorontalo|PT Jala Lintas Media|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|111.89.146.130|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
