@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|148.64.110.245|3129|United States|Oakland|Another Corporate ISP, LLC|
-|7|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|45.76.158.129|3129|Singapore|Singapore|The Constant Company|
-|10|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|11|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|12|103.115.31.161|8090|Indonesia|Depok|HSPNET|
-|13|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|152.26.229.47|9443|United States|Concord|MCNC|
-|19|47.88.85.102|443|United States|Minkler|Alibaba.com LLC|
-|20|152.26.229.34|9443|United States|Concord|MCNC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|152.26.229.86|9443|United States|Concord|MCNC|
+|6|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|7|152.26.229.42|9443|United States|Concord|MCNC|
+|8|152.26.229.46|9443|United States|Concord|MCNC|
+|9|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
+|10|152.26.229.93|9443|United States|Concord|MCNC|
+|11|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
+|12|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|152.26.229.34|9443|United States|Concord|MCNC|
+|14|43.252.237.211|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|15|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|16|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|17|152.26.229.47|9443|United States|Concord|MCNC|
+|18|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
 
 
 
