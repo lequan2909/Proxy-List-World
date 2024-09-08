@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|5|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
-|6|41.216.186.73|8080|Indonesia|Purbalingga|FASTHOSTING|
-|7|79.143.177.29|21972|Germany|Munich|Contabo GmbH|
+|4|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
 |8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|160.248.91.125|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|10|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|11|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|160.248.91.125|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |12|152.26.229.93|9443|United States|Concord|MCNC|
-|13|67.43.236.19|29883|Canada|Montreal|GloboTech Communications|
+|13|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
 |14|152.26.231.93|9443|United States|Concord|MCNC|
-|15|72.10.160.90|29071|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|19387|Canada|Montreal|GloboTech Communications|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|15|160.248.11.229|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|72.10.164.178|17131|Canada|Montreal|GloboTech Communications|
+|18|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
 |19|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|20|67.43.227.227|1517|Canada|Montreal|GloboTech Communications|
+|20|24.181.66.92|8080|United States|McDonough|Charter Communications|
 
 
 
