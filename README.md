@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|171.229.67.60|10085|Vietnam|Hanoi|Viettel Corporation|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|12|72.10.164.178|30101|Canada|Montreal|GloboTech Communications|
-|13|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|14|112.17.10.41|3128|China|Hangzhou|China Mobile Communications Corporation|
-|15|152.26.229.46|9443|United States|Concord|MCNC|
-|16|152.26.231.83|9443|United States|Concord|MCNC|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|19|152.26.231.93|9443|United States|Concord|MCNC|
-|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|36.92.87.137|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|5|171.229.67.60|10085|Vietnam|Hanoi|Viettel Corporation|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|8|1.20.203.152|8080|Thailand|Surat Thani|TOT Public Company Limited|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|72.10.164.178|30101|Canada|Montreal|GloboTech Communications|
+|11|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|12|152.26.229.46|9443|United States|Concord|MCNC|
+|13|152.26.231.83|9443|United States|Concord|MCNC|
+|14|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|15|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|16|152.26.231.93|9443|United States|Concord|MCNC|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
+|18|112.17.10.41|3128|China|Hangzhou|China Mobile Communications Corporation|
+|19|1.32.59.217|47045|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|20|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
 
 
 
