@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|2|171.229.67.60|10089|Vietnam|Hanoi|Viettel Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|6|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|7|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|8|51.195.200.115|31280|United Kingdom|Edmonton|OVH SAS|
-|9|72.10.160.170|11909|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|4193|Canada|Montreal|GloboTech Communications|
-|11|179.106.22.130|9090|Brazil|Patrocínio|OnNet Telecomunicações LTDA|
-|12|72.10.160.90|25957|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|6737|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.47|9443|United States|Concord|MCNC|
-|15|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
-|16|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|67.43.227.227|2687|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|25957|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|2687|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|11909|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|5|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|6|5.9.112.247|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|13|72.10.164.178|2917|Canada|Montreal|GloboTech Communications|
+|14|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|72.10.160.90|16023|Canada|Montreal|GloboTech Communications|
+|16|152.26.229.47|9443|United States|Concord|MCNC|
+|17|103.90.233.210|3128|Vietnam|Quận Mười Một|WEBPANDA|
+|18|67.43.227.227|2687|Canada|Montreal|GloboTech Communications|
+|19|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|160.248.11.225|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
