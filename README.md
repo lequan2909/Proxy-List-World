@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|452|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|452|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|452|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|7|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.81.195.194|8088|Indonesia|Bogor|PT Rtiga Global Media|
-|10|103.168.129.124|8080|Indonesia|Jakarta|LINTASARTA|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|64.225.96.122|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|202.154.36.21|8080|Indonesia|Surabaya|RADNET-BDG|
-|15|101.255.148.86|8085|Indonesia|Bekasi|PT Remala Abadi|
-|16|206.84.104.126|8080|Indonesia|Jakarta|AGIS|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|103.70.93.70|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
-|20|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|15|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|16|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|17|64.225.96.122|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|77.77.210.90|21056|Bosnia and Herzegovina|Sarajevo|TELEMACH BH|
 
 
 
