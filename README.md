@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
-|5|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|8|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|9|36.64.27.57|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|10|203.150.128.112|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|11|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|152.26.229.83|9443|United States|Concord|MCNC|
-|14|36.91.135.141|40|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
-|15|152.26.231.86|9443|United States|Concord|MCNC|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|160.248.91.125|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|72.10.160.173|22827|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.47|9443|United States|Concord|MCNC|
+|7|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|9|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|152.26.229.83|9443|United States|Concord|MCNC|
+|11|152.26.231.86|9443|United States|Concord|MCNC|
+|12|152.26.231.42|9443|United States|Concord|MCNC|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|160.248.91.125|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|117.40.32.133|8080|China|Taohua|Chinanet|
+|17|152.26.229.47|9443|United States|Concord|MCNC|
+|18|188.120.248.28|8080|Russia|Raduzhny|JSC IOT|
+|19|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
+|20|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
 
 
 
