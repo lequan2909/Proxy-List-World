@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|417|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|417|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|417|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |4|111.89.146.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|5|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|171.229.67.60|10001|Vietnam|Hanoi|Viettel Corporation|
 |8|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|9|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
+|9|24.181.66.92|8080|United States|McDonough|Charter Communications|
 |10|24.181.66.92|8080|United States|McDonough|Charter Communications|
 |11|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|12|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|13|152.26.229.83|9443|United States|Concord|MCNC|
-|14|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|72.10.160.91|21997|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|2687|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.173|19057|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|4245|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|21937|Canada|Montreal|GloboTech Communications|
+|12|190.107.232.202|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|152.26.229.83|9443|United States|Concord|MCNC|
+|15|67.43.227.227|28087|Canada|Montreal|GloboTech Communications|
+|16|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|17|152.26.231.94|9443|United States|Concord|MCNC|
+|18|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|19|72.10.160.170|19785|Canada|Montreal|GloboTech Communications|
+|20|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
 
 
 
