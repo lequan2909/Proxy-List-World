@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
-|5|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|152.26.229.46|9443|United States|Concord|MCNC|
-|8|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|9|152.26.231.86|9443|United States|Concord|MCNC|
-|10|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|67.43.227.227|5507|Canada|Montreal|GloboTech Communications|
-|13|152.26.231.83|9443|United States|Concord|MCNC|
-|14|4.155.2.13|9401|United States|Quincy|Microsoft Corporation|
-|15|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|72.10.164.178|30101|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.173|14847|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|30101|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|4923|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.230|2423|Canada|Montreal|GloboTech Communications|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|103.20.90.120|8581|Indonesia|Surabaya|Wowrack Indonesia|
+|8|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|9|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|10|152.26.229.46|9443|United States|Concord|MCNC|
+|11|138.118.106.237|999|Guatemala|Guatemala City|ONNO NETWORKS, SOCIEDAD ANÓNIMA|
+|12|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|13|122.185.198.242|7999|India|New Delhi|Bharti Airtel Limited|
+|14|152.26.231.86|9443|United States|Concord|MCNC|
+|15|72.10.160.173|14847|Canada|Montreal|GloboTech Communications|
+|16|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|152.26.231.83|9443|United States|Concord|MCNC|
+|18|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
+|19|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|67.43.227.227|8309|Canada|Montreal|GloboTech Communications|
 
 
 
