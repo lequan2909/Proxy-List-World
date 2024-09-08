@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|7|185.186.25.246|3128|Lithuania|Vilnius|UAB "Baltnetos komunikacijos"|
-|8|38.7.20.137|999|Mexico|Pénjamo|Internet Telefonia Y TV De Michoacan SA De CV|
-|9|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|10|103.189.249.194|1111|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
-|11|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|67.43.227.227|17691|Canada|Montreal|GloboTech Communications|
-|15|152.26.231.42|9443|United States|Concord|MCNC|
-|16|152.26.229.46|9443|United States|Concord|MCNC|
-|17|72.10.160.170|13583|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|72.10.160.170|13583|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.252|16053|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|4|181.214.147.25|3128|Lithuania|Vilnius|UAB "Baltnetos komunikacijos"|
+|5|180.94.8.52|8085|Indonesia|Cikarang|BAST|
+|6|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|8|103.189.249.194|1111|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
+|9|200.24.157.120|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|10|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|11|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|152.26.229.46|9443|United States|Concord|MCNC|
+|14|152.26.229.83|9443|United States|Concord|MCNC|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|160.248.94.16|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|72.10.160.170|13859|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.93|2917|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.226|8491|Canada|Montreal|GloboTech Communications|
 
 
 
