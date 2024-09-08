@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|160.248.94.110|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|5|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|8|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|12|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|13|144.86.187.49|3129|United States|Malden|Charles River Operation|
-|14|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
-|18|117.40.32.133|8080|China|Taohua|Chinanet|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.248.94.110|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|6|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|7|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|8|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|144.86.187.49|3129|United States|Malden|Charles River Operation|
+|12|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|103.27.22.65|32650|Pakistan|Lahore|Supernet|
+|15|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|16|160.248.91.120|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|88.99.126.109|8080|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
