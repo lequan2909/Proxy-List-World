@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |4|160.248.91.126|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|9|152.53.67.93|3128|Austria|Vienna|ANEXIA Internetdienstleistungs GmbH|
-|10|212.248.95.26|6565|Russia|Moscow|MTS PJSC|
-|11|103.162.63.163|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|12|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|182.253.39.242|8080|Indonesia|Jakarta Pusat|BIZNET|
-|17|66.211.155.34|8080|United States|Mont Vernon|FirstLight Fiber|
-|18|103.203.233.105|3125|Indonesia|Klapanunggal|INDANA|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|6|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|7|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|117.102.76.252|8080|Indonesia|Jakarta|Biznet Networks|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|103.155.197.68|8181|Indonesia|Sukabumi|JEMBATANDATA|
+|14|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|103.127.220.74|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|19|103.69.20.100|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|20|152.26.231.94|9443|United States|Concord|MCNC|
 
 
 
