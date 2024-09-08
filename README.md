@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|3|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
-|4|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|5|68.183.149.126|11007|United States|Clifton|DigitalOcean, LLC|
-|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|68.183.149.126|11007|United States|Clifton|DigitalOcean, LLC|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|152.53.67.93|3128|Austria|Vienna|ANEXIA Internetdienstleistungs GmbH|
-|15|72.10.164.178|32325|Canada|Montreal|GloboTech Communications|
-|16|15.168.136.9|80|Japan|Osaka|Amazon Technologies Inc.|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|19|72.10.164.178|32325|Canada|Montreal|GloboTech Communications|
-|20|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|10|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|11|152.26.231.93|9443|United States|Concord|MCNC|
+|12|152.26.231.42|9443|United States|Concord|MCNC|
+|13|152.26.231.86|9443|United States|Concord|MCNC|
+|14|112.17.10.41|3128|China|Hangzhou|China Mobile Communications Corporation|
+|15|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|16|152.26.229.83|9443|United States|Concord|MCNC|
+|17|152.26.231.94|9443|United States|Concord|MCNC|
+|18|72.10.164.178|16781|Canada|Montreal|GloboTech Communications|
+|19|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
+|20|14.204.150.67|8080|China|Qujing|China Unicom Yunnan Province Network|
 
 
 
