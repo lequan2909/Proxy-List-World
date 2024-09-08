@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
-|5|119.76.142.137|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
-|6|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|7|152.26.231.86|9443|United States|Concord|MCNC|
-|8|152.26.231.94|9443|United States|Concord|MCNC|
-|9|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|152.26.229.86|9443|United States|Concord|MCNC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
+|3|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
+|4|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
+|5|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|8|152.26.231.86|9443|United States|Concord|MCNC|
+|9|152.26.229.86|9443|United States|Concord|MCNC|
+|10|152.26.231.94|9443|United States|Concord|MCNC|
 |11|152.26.229.46|9443|United States|Concord|MCNC|
-|12|152.26.231.83|9443|United States|Concord|MCNC|
-|13|103.162.141.146|3128|Indonesia|Batam|PT Filltech Antar Nusa|
-|14|117.40.32.134|8080|China|Taohua|Chinanet|
-|15|152.26.231.93|9443|United States|Concord|MCNC|
-|16|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|17|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|18|67.43.227.228|8985|Canada|Montreal|GloboTech Communications|
-|19|181.214.147.25|9595|Lithuania|Vilnius|UAB "Baltnetos komunikacijos"|
-|20|67.43.236.20|16721|Canada|Montreal|GloboTech Communications|
+|12|152.26.231.93|9443|United States|Concord|MCNC|
+|13|93.85.74.175|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|14|152.26.231.83|9443|United States|Concord|MCNC|
+|15|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|16|117.40.32.134|8080|China|Taohua|Chinanet|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
+|18|161.34.67.50|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
