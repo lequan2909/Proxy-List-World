@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|400|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|400|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|400|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|160.248.91.126|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|122.152.4.131|6000|Japan|Chiyoda|FreeBit Co., Ltd.|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.248.91.126|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|51.250.109.156|8080|Russia|Moscow|Yandex.Cloud LLC|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
-|10|27.64.29.170|8085|Vietnam|Ho Chi Minh City|Viettel Group|
-|11|103.234.31.59|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
-|12|115.127.137.51|58080|Bangladesh|Kāfrul|BRACNet Limited|
-|13|187.157.243.254|8080|Mexico|Puebla City|Uninet S.A. de C.V.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|16|203.192.217.6|8080|India|Delhi|Entire In2Cable|
-|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|9|103.172.0.13|8181|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
+|10|200.39.120.78|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|177.130.63.80|8080|Brazil|Itaituba|Wsp Serviços de Telecomunicações Ltda|
+|15|125.209.110.83|39617|Pakistan|Karachi|Multinet 125-110/24|
+|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|20|90.161.186.147|3128|Spain|Pineda de Mar|Uni2|
 
 
 
