@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|5.234.184.63|8080|Iran|Urmia|Iran Telecommunication Company PJS|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|180.211.183.130|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
-|7|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|152.26.229.83|9443|United States|Concord|MCNC|
-|9|152.26.231.93|9443|United States|Concord|MCNC|
-|10|152.26.229.93|9443|United States|Concord|MCNC|
-|11|67.43.228.253|9799|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|1781|Canada|Montreal|GloboTech Communications|
-|13|152.26.231.94|9443|United States|Concord|MCNC|
-|14|67.43.228.253|9799|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|22187|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|25461|Canada|Montreal|GloboTech Communications|
-|17|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|18|67.43.227.227|10995|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|22187|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|22187|Canada|Montreal|GloboTech Communications|
+|3|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.93.93.130|8181|Indonesia|Wedoro|MYRISE|
+|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|5.234.184.63|8080|Iran|Urmia|Iran Telecommunication Company PJS|
+|10|152.26.231.93|9443|United States|Concord|MCNC|
+|11|152.26.229.93|9443|United States|Concord|MCNC|
+|12|152.26.229.83|9443|United States|Concord|MCNC|
+|13|72.10.164.178|32611|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|32611|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|10927|Canada|Montreal|GloboTech Communications|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|72.10.164.178|32611|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|26509|Canada|Montreal|GloboTech Communications|
+|20|38.156.74.48|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
