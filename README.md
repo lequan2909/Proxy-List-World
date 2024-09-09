@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|2|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|160.248.11.206|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|5|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|12|152.26.229.46|9443|United States|Concord|MCNC|
-|13|152.26.229.34|9443|United States|Concord|MCNC|
-|14|160.248.11.213|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|181.94.244.22|8080|Paraguay|Asunción|Núcleo S.A.|
-|17|152.26.229.83|9443|United States|Concord|MCNC|
-|18|152.26.231.42|9443|United States|Concord|MCNC|
-|19|152.26.229.93|9443|United States|Concord|MCNC|
-|20|72.10.160.92|16027|Canada|Montreal|GloboTech Communications|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|5|160.248.11.206|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|6|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|109.111.152.43|53281|Russia|Kaliningrad|TIS-DIALOG|
+|8|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|9|152.26.229.46|9443|United States|Concord|MCNC|
+|10|152.26.229.34|9443|United States|Concord|MCNC|
+|11|152.26.231.94|9443|United States|Concord|MCNC|
+|12|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|160.248.11.213|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|152.26.229.93|9443|United States|Concord|MCNC|
+|15|152.26.231.42|9443|United States|Concord|MCNC|
+|16|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
+|17|72.10.164.178|30283|Canada|Montreal|GloboTech Communications|
+|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|152.26.231.93|9443|United States|Concord|MCNC|
 
 
 
