@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|4|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.172.17.51|8080|Indonesia|Ciamis|PT Media Access Telematika|
-|9|103.159.194.181|1080|Indonesia|Welahan|PT Giga Digital Nusantara|
-|10|2.59.181.125|19056|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|45.91.237.170|8085|Poland|Warsaw|Stark Industries Solutions LTD|
+|6|103.133.26.126|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|7|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|103.199.117.101|8080|Indonesia|Bumiayu|PT Hepra Teknologi Indonesia|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|103.172.17.51|8080|Indonesia|Ciamis|PT Media Access Telematika|
 |12|152.26.231.83|9443|United States|Concord|MCNC|
 |13|152.26.231.42|9443|United States|Concord|MCNC|
 |14|152.26.231.93|9443|United States|Concord|MCNC|
-|15|148.251.86.68|16379|Germany|Falkenstein|Hetzner Online GmbH|
-|16|152.26.229.34|9443|United States|Concord|MCNC|
-|17|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|18|72.10.160.174|23265|Canada|Montreal|GloboTech Communications|
-|19|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|152.26.229.34|9443|United States|Concord|MCNC|
+|16|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|17|45.91.237.170|8085|Poland|Warsaw|Stark Industries Solutions LTD|
+|18|152.26.231.94|9443|United States|Concord|MCNC|
+|19|177.115.155.191|8085|Brazil|Santo André|Vivo|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
