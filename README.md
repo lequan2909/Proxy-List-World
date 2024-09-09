@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|557|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|557|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|557|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|497|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|497|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|497|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|110.77.171.193|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|2|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|2|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|152.53.67.93|3128|Austria|Vienna|ANEXIA Internetdienstleistungs GmbH|
+|6|103.115.114.150|8080|Australia|Melbourne|NET360|
 |7|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|8|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|9|27.77.140.199|8080|Vietnam|Đồng Nai Province|Newass2011xDSLHCMC|
-|10|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|11|103.155.196.40|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|139.84.216.215|3129|India|Bengaluru|The Constant Company, LLC|
-|15|139.84.222.26|3129|India|Bengaluru|The Constant Company, LLC|
-|16|152.26.229.47|9443|United States|Concord|MCNC|
-|17|152.26.231.93|9443|United States|Concord|MCNC|
-|18|66.186.199.16|8080|Albania|Kashar|Vodafone Albania Sh.A.|
-|19|103.154.230.124|8080|Indonesia|Lamongan|DIGITNET|
-|20|72.10.160.90|10947|Canada|Montreal|GloboTech Communications|
+|8|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
+|9|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|11|72.10.160.90|10947|Canada|Montreal|GloboTech Communications|
+|12|139.84.222.26|3129|India|Bengaluru|The Constant Company, LLC|
+|13|139.84.216.215|3129|India|Bengaluru|The Constant Company, LLC|
+|14|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
+|15|152.26.229.47|9443|United States|Concord|MCNC|
+|16|152.26.231.93|9443|United States|Concord|MCNC|
+|17|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|18|67.43.227.228|15221|Canada|Montreal|GloboTech Communications|
+|19|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|20|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 
 
 
