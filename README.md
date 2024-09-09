@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6064** proxies at the latest update. Usable proxies are below.
+> Scraper found **5998** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|457|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|457|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|457|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|561|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|561|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|561|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|47|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1126|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1060|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|500|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3433|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|1|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|8|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.1.50.17|3125|Indonesia|Pasuruan|CPCNet Hong Kong Ltd. - IP Administrator|
-|11|101.255.149.202|8080|Indonesia|Bekasi|PT Remala Abadi|
-|12|103.174.236.88|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|13|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|14|103.248.9.206|3127|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
-|15|103.41.33.246|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|16|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|17|67.43.227.226|20701|Canada|Montreal|GloboTech Communications|
-|18|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|19|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|20|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|3|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.174.236.88|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|7|103.248.9.206|3127|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
+|8|103.24.212.250|8082|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
+|9|124.104.149.53|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|10|190.2.209.58|999|Colombia|Tumaco|TV AZTECA SUCURSAL COLOMBIA|
+|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|13|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
+|14|167.86.96.187|3128|Germany|Nuremberg|Contabo GmbH|
+|15|170.238.200.50|999|Chile|Buin|Bitred Group SPA|
+|16|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|131.100.48.105|999|Colombia|Neiva|Fibernet TV SAS|
+|18|124.107.144.249|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|67.43.227.227|16523|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|16523|Canada|Montreal|GloboTech Communications|
 
 
 
