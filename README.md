@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|2|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|34.170.211.141|3128|United States|Council Bluffs|Google LLC|
-|5|34.170.211.141|3128|United States|Council Bluffs|Google LLC|
-|6|103.234.159.5|8080|India|Bengaluru|MWPL|
-|7|152.26.231.83|9443|United States|Concord|MCNC|
-|8|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
+|1|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|3|58.69.247.70|8083|Philippines|Taal|Philippine Long Distance Telephone Co.|
+|4|103.234.159.5|8080|India|Bengaluru|MWPL|
+|5|152.26.231.83|9443|United States|Concord|MCNC|
+|6|103.139.98.157|8080|Indonesia|Bandaragung|Digital Network Setiawan|
+|7|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |10|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|67.43.227.227|32873|Canada|Montreal|GloboTech Communications|
-|12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|45.71.114.150|999|Ecuador|Loja|Ufinet Panama S.A.|
-|14|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|72.10.164.178|32897|Canada|Montreal|GloboTech Communications|
-|16|202.154.36.231|8080|Indonesia|Surabaya|PT Gayatri Lintas Nusantara|
-|17|72.10.160.90|5405|Canada|Montreal|GloboTech Communications|
-|18|103.159.93.132|3125|Indonesia|Kabupaten Trenggalek|PT Chandela Lintas Media|
-|19|72.10.160.90|5405|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|32873|Canada|Montreal|GloboTech Communications|
+|11|152.26.231.42|9443|United States|Concord|MCNC|
+|12|67.43.227.227|23269|Canada|Montreal|GloboTech Communications|
+|13|160.248.11.206|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
+|15|72.10.164.178|16779|Canada|Montreal|GloboTech Communications|
+|16|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|17|67.43.227.227|23269|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|21181|Canada|Montreal|GloboTech Communications|
+|19|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|24.181.66.92|8080|United States|McDonough|Charter Communications|
 
 
 
