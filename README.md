@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5819** proxies at the latest update. Usable proxies are below.
+> Scraper found **5878** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|408|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|408|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|408|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|56|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|840|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|899|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|367|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3598|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|4|201.134.169.214|8205|Mexico|Mexico City|Uninet S.A. de C.V.|
-|5|139.84.209.48|3129|India|Bengaluru|The Constant Company, LLC|
-|6|202.40.177.46|8080|Bangladesh|Dhaka|Ranks ITT|
-|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|160.248.94.16|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|10|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|11|124.108.19.6|9292|India|Navi Mumbai|Advantus Corporate Infoserv Private Ltd|
-|12|45.5.119.112|8080|Guatemala|Guatemala City|Infinitum S.A.|
-|13|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|139.84.209.48|3129|India|Bengaluru|The Constant Company, LLC|
-|16|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|17|177.234.236.134|8080|Ecuador|Machala|Ufinet Panama S.A.|
-|18|72.10.164.178|25693|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|72.10.164.178|25693|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|6|139.84.209.48|3129|India|Bengaluru|The Constant Company, LLC|
+|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|139.84.209.48|3129|India|Bengaluru|The Constant Company, LLC|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|103.165.156.171|8090|Indonesia|Jember|MEGADATA-ISP|
+|11|177.93.40.57|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|12|160.248.94.16|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|14|67.43.227.227|25445|Canada|Montreal|GloboTech Communications|
+|15|193.193.253.114|8080|Kazakhstan|Almaty|"ASTEL" JSC|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|72.10.164.178|13167|Canada|Montreal|GloboTech Communications|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|72.10.160.90|16815|Canada|Montreal|GloboTech Communications|
+|20|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
 
 
 
