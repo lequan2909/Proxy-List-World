@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|487|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|487|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|487|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|452|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|452|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|452|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|7|139.84.215.252|3129|India|Bengaluru|The Constant Company, LLC|
-|8|116.104.90.218|5102|Vietnam|Hanoi|Viettel Corporation|
-|9|181.39.24.157|999|Ecuador|Guayaquil|Telconet S.A|
-|10|103.4.167.15|8080|Indonesia|Jakarta|FIBERNET|
-|11|190.61.101.73|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
-|12|139.84.215.252|3129|India|Bengaluru|The Constant Company, LLC|
-|13|87.103.208.200|3128|Russia|Belovo|Kuzbass Network|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|16|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|139.84.215.252|3129|India|Bengaluru|The Constant Company, LLC|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|20|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|64.6.8.5|8080|United States|Macomb|MTC Communications|
+|5|139.84.215.252|3129|India|Bengaluru|The Constant Company, LLC|
+|6|182.253.93.4|53281|Indonesia|Jakarta Pusat|BIZNET|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|139.84.215.252|3129|India|Bengaluru|The Constant Company, LLC|
+|9|103.66.196.166|8080|Indonesia|Bekasi|PT. Mora Telematika Indonesia|
+|10|103.145.149.36|8080|Indonesia|Gandul|PT. Indonesia Comnets Plus|
+|11|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
+|13|139.84.215.252|3129|India|Bengaluru|The Constant Company, LLC|
+|14|181.78.107.139|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|173.249.34.184|3128|Germany|Nuremberg|Contabo GmbH|
+|17|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|18|64.6.8.5|8080|United States|Macomb|MTC Communications|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|72.10.160.90|2093|Canada|Montreal|GloboTech Communications|
 
 
 
