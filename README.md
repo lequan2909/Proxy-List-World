@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|36.72.241.107|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|3|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|9|43.167.243.16|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|10|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|72.10.164.178|12605|Canada|Montreal|GloboTech Communications|
-|12|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|13|72.10.164.178|12605|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|16323|Canada|Montreal|GloboTech Communications|
-|15|152.26.231.83|9443|United States|Concord|MCNC|
-|16|43.167.240.126|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|17|152.26.229.93|9443|United States|Concord|MCNC|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|72.10.164.178|12605|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|3|36.72.241.107|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|4|103.145.160.3|8080|Indonesia|South Tangerang|PT Indonesia Comnets Plus|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|38.180.170.146|8080|The Netherlands|Amsterdam|Scalaxy B.V.|
+|7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|8|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
+|9|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|11|152.26.231.83|9443|United States|Concord|MCNC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|152.26.229.46|9443|United States|Concord|MCNC|
+|14|72.10.164.178|8079|Canada|Montreal|GloboTech Communications|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|72.10.164.178|8079|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|26137|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|20|152.26.231.94|9443|United States|Concord|MCNC|
 
 
 
