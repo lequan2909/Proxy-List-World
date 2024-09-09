@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,23 +40,23 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|38.7.1.88|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|13|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|8|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|38.188.127.86|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|12|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|152.26.229.34|9443|United States|Concord|MCNC|
 |14|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|15|103.224.124.53|1111|Indonesia|Bogor|PT Curug Lintas Indonesia|
-|16|152.26.229.34|9443|United States|Concord|MCNC|
-|17|49.48.95.155|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|18|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|14.103.168.150|8088|China|Beijing|BITNET|
+|17|67.43.227.227|17693|Canada|Montreal|GloboTech Communications|
+|18|114.130.86.145|5443|Bangladesh|Dhaka|Mango Teleservices Limited|
 |19|152.26.229.86|9443|United States|Concord|MCNC|
 |20|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
 
