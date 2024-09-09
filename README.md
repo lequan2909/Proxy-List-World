@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|474|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|474|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|474|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|439|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|439|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|439|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|160.248.94.16|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|9|103.41.33.165|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|4|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|5|193.188.22.20|3127|United States|Los Angeles|Aeza International LTD|
+|6|195.54.171.231|25299|Hong Kong|Hong Kong|M247 Europe SRL|
+|7|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|8|193.188.22.20|3127|United States|Los Angeles|Aeza International LTD|
+|9|160.248.94.16|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|103.171.244.42|8088|Indonesia|Madiun|PT Data Arta Sedaya|
 |11|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|12|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|13|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
-|14|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|72.10.160.90|15637|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|17347|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|18039|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|22337|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.42|9443|United States|Concord|MCNC|
+|12|38.45.45.60|999|Dominican Republic|Santo Domingo|FENIX NETWORKS, S.R.L.|
+|13|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|14|129.151.112.176|8899|Chile|Santiago|Oracle Corporation|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|20|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
 
 
 
