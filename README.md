@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|103.247.21.44|1111|Indonesia|Bekasi|PT wifian Solution|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|122.3.77.27|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|179.125.51.54|27234|Brazil|Duque de Caxias|Via Link Telecomunicacoes|
-|8|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|9|72.10.164.178|1175|Canada|Montreal|GloboTech Communications|
-|10|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|11|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|12|72.10.164.178|1175|Canada|Montreal|GloboTech Communications|
-|13|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|14|103.84.176.101|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|15|152.26.231.94|9443|United States|Concord|MCNC|
-|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|17|112.198.129.234|8085|Philippines|Nasugbu|Globe Telecom|
-|18|72.10.164.178|1175|Canada|Montreal|GloboTech Communications|
-|19|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
+|2|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|27.74.154.191|5106|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|179.125.51.54|27234|Brazil|Duque de Caxias|Via Link Telecomunicacoes|
+|7|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|222.127.241.158|8082|Philippines|Iloilo City|GLBB|
+|12|103.184.54.3|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|13|150.107.136.205|39843|Indonesia|Medan|PT. Media Antar Nusa|
+|14|72.10.164.178|1175|Canada|Montreal|GloboTech Communications|
+|15|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|159.203.167.230|3128|United States|Clifton|DigitalOcean, LLC|
+|17|103.78.113.9|8080|Indonesia|Jakarta|MORATELINDO|
+|18|152.26.231.94|9443|United States|Concord|MCNC|
+|19|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|20|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
 
 
 
