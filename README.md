@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|152.26.229.86|9443|United States|Concord|MCNC|
-|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|8|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|72.10.160.90|13473|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|5|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|6|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|7|45.71.202.201|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|8|152.26.229.86|9443|United States|Concord|MCNC|
+|9|181.204.81.178|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
 |10|152.26.229.46|9443|United States|Concord|MCNC|
-|11|72.10.160.90|13473|Canada|Montreal|GloboTech Communications|
-|12|129.151.112.176|8899|Chile|Santiago|Oracle Corporation|
-|13|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
-|14|152.26.229.83|9443|United States|Concord|MCNC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|36.93.140.71|8080|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|152.26.229.83|9443|United States|Concord|MCNC|
 |16|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|17|72.10.164.178|16715|Canada|Montreal|GloboTech Communications|
-|18|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|19|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|67.43.236.20|11503|Canada|Montreal|GloboTech Communications|
+|17|103.167.168.11|5040|Indonesia|Cianjur|PT Argon Internet Amariqindo|
+|18|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
+|19|72.10.160.90|29031|Canada|Montreal|GloboTech Communications|
+|20|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
