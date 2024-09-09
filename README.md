@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|506|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|506|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|506|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|449|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|449|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|449|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|3|103.180.123.27|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|4|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|62.171.183.48|3128|Germany|Nuremberg|Contabo GmbH|
+|1|103.154.230.124|8080|Indonesia|Lamongan|DIGITNET|
+|2|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|3|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
 |7|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|8|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|9|128.90.145.247|8118|Belgium|Brussels|Powerhouse Management, Inc.|
-|10|103.31.235.102|8080|Indonesia|Ciampea|PT Usaha Adi Sanggoro|
+|8|62.171.183.48|3128|Germany|Nuremberg|Contabo GmbH|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
 |11|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|12|152.26.229.86|9443|United States|Concord|MCNC|
-|13|160.248.11.224|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|72.10.160.90|6689|Canada|Montreal|GloboTech Communications|
-|15|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|16|72.10.160.171|8687|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|6237|Canada|Montreal|GloboTech Communications|
-|18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|152.26.231.93|9443|United States|Concord|MCNC|
-|20|139.84.218.194|3129|India|Bengaluru|The Constant Company, LLC|
+|12|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
+|14|72.10.160.93|10797|Canada|Montreal|GloboTech Communications|
+|15|160.248.11.224|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|72.10.164.178|10707|Canada|Montreal|GloboTech Communications|
+|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|72.10.160.90|13667|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.171|8687|Canada|Montreal|GloboTech Communications|
+|20|5.42.72.98|3128|Sweden|Stockholm|Aeza International LTD|
 
 
 
