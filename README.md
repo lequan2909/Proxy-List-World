@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|2.59.181.125|19056|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|9|67.43.227.227|32953|Canada|Montreal|GloboTech Communications|
-|10|113.53.156.11|8080|Thailand|Bangkok|TOT Public Company Limited|
-|11|72.10.160.91|11253|Canada|Montreal|GloboTech Communications|
-|12|115.223.31.74|28540|China|Wenzhou|China Telecom|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|200.109.64.194|3128|Venezuela|Valencia|CANTV Servicios, Venezuela|
-|15|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|117.68.38.175|32351|China|Hefei|China Telecom|
-|17|92.204.163.211|8881|France|Strasbourg|velia.net Internetdienste GmbH|
-|18|72.10.164.178|15961|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.47|9443|United States|Concord|MCNC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|2.59.181.125|19056|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|8|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|10|111.1.61.56|3128|China|Wenzhou|China Mobile communications corporation|
+|11|152.26.229.47|9443|United States|Concord|MCNC|
+|12|67.43.228.252|15395|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|17059|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|30005|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|4285|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.170|27833|Canada|Montreal|GloboTech Communications|
+|17|171.224.189.177|5102|Vietnam|Hanoi|Viettel Corporation|
+|18|2.59.181.125|19056|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
+|19|72.10.160.90|14547|Canada|Montreal|GloboTech Communications|
 |20|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
