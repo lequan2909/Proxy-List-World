@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|139.84.209.48|3129|India|Bengaluru|The Constant Company, LLC|
-|10|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|11|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|12|139.84.209.48|3129|India|Bengaluru|The Constant Company, LLC|
-|13|201.134.169.214|8205|Mexico|Mexico City|Uninet S.A. de C.V.|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|160.248.94.16|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|177.93.40.57|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|18|161.49.215.28|10101|Philippines|Clark|Converge Information and Communications Technology Solutions|
-|19|103.116.82.136|8080|Indonesia|Indramayu|PT SSR Digital Informatika|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|1|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|139.84.209.48|3129|India|Bengaluru|The Constant Company, LLC|
+|4|157.15.44.105|7777|Indonesia|Kalibuntu|PT Sheep Network Teknologi|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|139.84.209.48|3129|India|Bengaluru|The Constant Company, LLC|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|160.248.94.16|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|103.172.42.177|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|103.159.93.139|8095|Indonesia|Kabupaten Trenggalek|PT Chandela Lintas Media|
+|13|202.154.18.137|8090|Indonesia|Jombang|DIGITNET|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
+|18|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|20|160.248.91.126|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
