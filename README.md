@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|36.72.241.107|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|37.32.127.162|8080|Iran|Tehran|Rayaneh Pardazan Baran Co. Ltd|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|119.252.167.130|41890|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|6|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|7|152.26.229.93|9443|United States|Concord|MCNC|
-|8|152.26.229.47|9443|United States|Concord|MCNC|
-|9|152.26.231.83|9443|United States|Concord|MCNC|
-|10|152.26.231.94|9443|United States|Concord|MCNC|
-|11|67.43.227.228|26169|Canada|Montreal|GloboTech Communications|
-|12|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|13|72.10.164.178|1085|Canada|Montreal|GloboTech Communications|
-|14|152.26.231.42|9443|United States|Concord|MCNC|
-|15|67.43.227.227|18867|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|36.72.241.107|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|37.32.127.162|8080|Iran|Tehran|Rayaneh Pardazan Baran Co. Ltd|
+|5|152.26.229.42|9443|United States|Concord|MCNC|
+|6|152.26.231.83|9443|United States|Concord|MCNC|
+|7|152.26.231.94|9443|United States|Concord|MCNC|
+|8|152.26.231.42|9443|United States|Concord|MCNC|
+|9|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|10|152.26.229.47|9443|United States|Concord|MCNC|
+|11|72.10.164.178|1085|Canada|Montreal|GloboTech Communications|
+|12|1.32.59.217|47045|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|13|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |16|72.10.164.178|1085|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|1085|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|1085|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|1085|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
 
 
 
