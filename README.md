@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|438|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|438|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|438|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|103.180.123.19|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|7|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.139.127.244|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|13|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|15|72.10.164.178|28667|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|13159|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|28667|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.34|9443|United States|Concord|MCNC|
-|19|72.10.160.93|28675|Canada|Montreal|GloboTech Communications|
-|20|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|8|72.10.164.178|3607|Canada|Montreal|GloboTech Communications|
+|9|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|10|72.10.160.93|26193|Canada|Montreal|GloboTech Communications|
+|11|152.26.231.42|9443|United States|Concord|MCNC|
+|12|152.26.229.34|9443|United States|Concord|MCNC|
+|13|67.43.227.227|30589|Canada|Montreal|GloboTech Communications|
+|14|42.113.88.14|8080|Vietnam|Vĩnh Long|FPT Telecom Company|
+|15|72.10.160.90|15599|Canada|Montreal|GloboTech Communications|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|66.27.58.70|8080|United States|Artesia|Spectrum|
+|18|67.43.227.227|30589|Canada|Montreal|GloboTech Communications|
+|19|149.104.31.64|3128|Singapore|Singapore|Lucidacloud Limited|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
