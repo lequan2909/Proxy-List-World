@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|4|103.124.198.110|1080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|5|103.78.113.9|8080|Indonesia|Jakarta|MORATELINDO|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|9|114.8.131.178|8080|Indonesia|Gambir|PT. INDOSAT Tbk|
-|10|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|11|103.184.54.3|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
-|12|103.160.205.170|8080|Indonesia|Mataram|PRIME|
-|13|103.154.230.107|8080|Indonesia|Lamongan|DIGITNET|
-|14|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|152.26.229.93|9443|United States|Concord|MCNC|
-|16|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|17|103.26.110.110|84|India|Chennai|Niss Networks|
-|18|72.10.164.178|33175|Canada|Montreal|GloboTech Communications|
-|19|119.76.142.192|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
-|20|67.43.227.227|24571|Canada|Montreal|GloboTech Communications|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|6|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|10|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|11|58.136.173.248|8080|Thailand|Udon Thani|AIS-Fibre|
+|12|203.150.113.135|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|13|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|16|103.124.198.110|1080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|19|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|20|160.248.94.16|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
