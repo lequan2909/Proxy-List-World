@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.151.30.25|6969|Bangladesh|Tongi|Bright Star Network|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|7|67.43.228.250|4453|Canada|Montreal|GloboTech Communications|
-|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|10|144.91.120.37|80|Germany|Nuremberg|Contabo GmbH|
-|11|67.43.236.20|20753|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|17101|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|17101|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.230|10705|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|17101|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|17101|Canada|Montreal|GloboTech Communications|
-|17|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|72.10.164.178|17101|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|200.133.247.3|3130|Brazil|Vila Clementino|Rede Nacional de Ensino e Pesquisa|
+|4|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
+|5|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|10|72.10.164.178|7121|Canada|Montreal|GloboTech Communications|
+|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|12|72.10.164.178|7121|Canada|Montreal|GloboTech Communications|
+|13|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
+|14|38.156.75.13|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|113.240.99.148|65007|China|Qingyuan|No.293, Wanbao Avenue|
+|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|72.10.164.178|7121|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|15069|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|7121|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
