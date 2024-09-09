@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|34.170.211.141|3128|United States|Council Bluffs|Google LLC|
-|4|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|5|34.170.211.141|3128|United States|Council Bluffs|Google LLC|
-|6|103.234.159.5|8080|India|Bengaluru|MWPL|
-|7|72.10.164.178|13701|Canada|Montreal|GloboTech Communications|
-|8|67.43.236.20|10769|Canada|Montreal|GloboTech Communications|
-|9|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|10|152.26.231.86|9443|United States|Concord|MCNC|
-|11|67.43.228.253|15557|Canada|Montreal|GloboTech Communications|
-|12|160.248.11.225|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|14|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
-|16|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|152.26.229.47|9443|United States|Concord|MCNC|
-|20|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|6|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|7|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|160.248.11.225|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|11|152.26.231.86|9443|United States|Concord|MCNC|
+|12|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|152.26.229.47|9443|United States|Concord|MCNC|
+|15|152.26.229.42|9443|United States|Concord|MCNC|
+|16|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|152.26.231.94|9443|United States|Concord|MCNC|
+|18|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|19|72.10.160.173|11105|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|16839|Canada|Montreal|GloboTech Communications|
 
 
 
