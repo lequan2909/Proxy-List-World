@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|36.72.241.107|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|3|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|3|36.72.241.107|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|7|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|103.88.113.202|8080|Vietnam|Hanoi|HTCITC|
-|9|72.10.164.178|33001|Canada|Montreal|GloboTech Communications|
-|10|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|152.26.229.34|9443|United States|Concord|MCNC|
-|13|72.10.160.174|15065|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.47|9443|United States|Concord|MCNC|
-|15|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|16|72.10.160.170|11063|Canada|Montreal|GloboTech Communications|
-|17|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
-|18|72.10.160.91|12841|Canada|Montreal|GloboTech Communications|
-|19|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|6|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|72.10.164.178|7309|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.91|12841|Canada|Montreal|GloboTech Communications|
+|12|152.26.229.47|9443|United States|Concord|MCNC|
+|13|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|152.26.229.34|9443|United States|Concord|MCNC|
+|15|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|16|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|17|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|72.10.160.174|15065|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
 
 
 
