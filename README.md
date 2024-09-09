@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|5|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|110.78.143.119|8080|Thailand|Bang Rak|CAT-BB|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|210.79.146.222|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|10|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|11|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
 |12|152.26.229.46|9443|United States|Concord|MCNC|
-|13|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|13|72.10.164.178|4267|Canada|Montreal|GloboTech Communications|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 |18|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|117.68.38.182|24161|China|Hefei|China Telecom|
+|19|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
