@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|414|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|414|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|414|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
+|1|160.248.191.8|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|9|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|10|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|203.192.199.158|8080|India|Ponda|Entire In2Cable|
-|13|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
-|17|152.26.229.47|9443|United States|Concord|MCNC|
-|18|152.26.229.46|9443|United States|Concord|MCNC|
-|19|152.26.231.93|9443|United States|Concord|MCNC|
-|20|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
+|10|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|152.26.229.47|9443|United States|Concord|MCNC|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|160.248.190.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|72.10.164.178|6685|Canada|Montreal|GloboTech Communications|
 
 
 
