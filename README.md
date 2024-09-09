@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.172.254.145|84|India|Hyderabad|Willaegis Online Private Limited|
+|5|3.1.220.221|8118|Singapore|Singapore|Amazon Technologies Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|8|185.125.169.24|8118|Norway|Sandefjord|TERRAHOST|
-|9|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|10|103.48.69.173|83|India|Hyderabad|Country Online Services PVT LTD|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|10|103.159.194.181|1080|Indonesia|Welahan|PT Giga Digital Nusantara|
 |11|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|103.127.106.249|8090|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
-|14|119.47.90.38|1111|Indonesia|Jatiroto|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|15|152.26.229.83|9443|United States|Concord|MCNC|
-|16|152.26.229.93|9443|United States|Concord|MCNC|
-|17|103.35.108.190|5020|Bangladesh|Dhaka|Ranks ITT|
-|18|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|19|152.26.231.93|9443|United States|Concord|MCNC|
-|20|114.5.199.222|80|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|12|152.26.229.83|9443|United States|Concord|MCNC|
+|13|103.186.90.18|8080|Indonesia|Jepara|PT Akses Data Internusa|
+|14|152.26.229.93|9443|United States|Concord|MCNC|
+|15|67.43.227.227|11731|Canada|Montreal|GloboTech Communications|
+|16|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|152.26.231.93|9443|United States|Concord|MCNC|
+|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|67.43.227.226|11919|Canada|Montreal|GloboTech Communications|
 
 
 
