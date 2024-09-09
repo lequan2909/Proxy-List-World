@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|191.97.16.12|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
-|5|20.162.131.57|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|43.247.33.60|8080|Indonesia|Jakarta|PT MEDIA LINTAS DATA|
-|7|38.9.141.63|8080|Indonesia|Medan|PT. Media Antar Nusa|
-|8|67.43.236.18|26627|Canada|Montreal|GloboTech Communications|
-|9|152.26.229.46|9443|United States|Concord|MCNC|
-|10|152.26.229.47|9443|United States|Concord|MCNC|
-|11|72.10.164.178|2325|Canada|Montreal|GloboTech Communications|
-|12|139.84.218.194|3129|India|Bengaluru|The Constant Company, LLC|
-|13|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|14|67.43.227.227|27955|Canada|Montreal|GloboTech Communications|
-|15|115.223.31.62|24103|China|Wenzhou|China Telecom|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|5|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|6|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
+|7|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|152.26.229.47|9443|United States|Concord|MCNC|
+|10|152.26.229.46|9443|United States|Concord|MCNC|
+|11|72.10.164.178|2957|Canada|Montreal|GloboTech Communications|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
+|14|67.43.227.227|20619|Canada|Montreal|GloboTech Communications|
+|15|37.187.109.70|10111|France|Gravelines|OVH SAS|
 |16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|152.26.229.83|9443|United States|Concord|MCNC|
-|18|95.140.203.231|3128|Armenia|Yerevan|ADC Network|
-|19|152.26.229.34|9443|United States|Concord|MCNC|
-|20|67.43.236.20|21319|Canada|Montreal|GloboTech Communications|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.229.34|9443|United States|Concord|MCNC|
 
 
 
