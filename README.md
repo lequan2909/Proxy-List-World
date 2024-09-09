@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5535** proxies at the latest update. Usable proxies are below.
+> Scraper found **5602** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|789|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|297|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3427|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3494|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|36.72.241.107|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|4|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|7|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|10|152.26.229.46|9443|United States|Concord|MCNC|
-|11|152.26.229.93|9443|United States|Concord|MCNC|
-|12|152.26.231.94|9443|United States|Concord|MCNC|
-|13|152.26.229.47|9443|United States|Concord|MCNC|
-|14|72.10.160.90|24631|Canada|Montreal|GloboTech Communications|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|67.43.236.20|31103|Canada|Montreal|GloboTech Communications|
-|17|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|67.43.227.227|6165|Canada|Montreal|GloboTech Communications|
-|19|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|20|72.10.164.178|13901|Canada|Montreal|GloboTech Communications|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|152.26.229.93|9443|United States|Concord|MCNC|
+|5|152.26.229.46|9443|United States|Concord|MCNC|
+|6|148.72.140.24|30105|United States|St Louis|GoDaddy.com|
+|7|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|8|152.26.231.94|9443|United States|Concord|MCNC|
+|9|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|11|72.10.164.178|1085|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.90|1709|Canada|Montreal|GloboTech Communications|
+|13|106.227.91.57|3129|China|Taohua|China Telecom|
+|14|152.26.231.83|9443|United States|Concord|MCNC|
+|15|72.10.164.178|1085|Canada|Montreal|GloboTech Communications|
+|16|160.248.91.125|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|67.43.227.227|26657|Canada|Montreal|GloboTech Communications|
+|20|38.156.72.86|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
