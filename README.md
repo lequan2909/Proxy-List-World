@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|45.77.147.46|3128|United States|Piscataway|The Constant Company|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|34.170.211.141|3128|United States|Council Bluffs|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|34.170.211.141|3128|United States|Council Bluffs|Google LLC|
-|9|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|10|152.26.229.86|9443|United States|Concord|MCNC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|13|72.10.160.91|23799|Canada|Montreal|GloboTech Communications|
-|14|103.48.68.30|83|India|Hyderabad|Country Online Services PVT LTD|
-|15|72.10.164.178|17461|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|17461|Canada|Montreal|GloboTech Communications|
-|17|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
-|18|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|34.170.211.141|3128|United States|Council Bluffs|Google LLC|
-|20|67.43.227.227|14671|Canada|Montreal|GloboTech Communications|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|7|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|8|152.26.229.86|9443|United States|Concord|MCNC|
+|9|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
+|10|72.10.164.178|5725|Canada|Montreal|GloboTech Communications|
+|11|49.51.138.111|8118|Germany|Frankfurt am Main|OPHL|
+|12|152.26.231.86|9443|United States|Concord|MCNC|
+|13|152.26.229.34|9443|United States|Concord|MCNC|
+|14|152.26.229.47|9443|United States|Concord|MCNC|
+|15|152.26.229.42|9443|United States|Concord|MCNC|
+|16|152.26.229.83|9443|United States|Concord|MCNC|
+|17|1.32.59.217|47045|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|18|112.17.10.41|3128|China|Hangzhou|China Mobile Communications Corporation|
+|19|160.248.91.125|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|72.10.164.178|5725|Canada|Montreal|GloboTech Communications|
 
 
 
