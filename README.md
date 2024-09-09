@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|410|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|410|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|410|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|2|24.181.66.92|8080|United States|McDonough|Charter Communications|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|103.165.155.161|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|152.26.229.86|9443|United States|Concord|MCNC|
-|11|72.10.160.90|16803|Canada|Montreal|GloboTech Communications|
-|12|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|13|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|14|58.80.134.185|1080|Japan|Kyoto|ARTERIA Networks Corporation|
-|15|72.10.160.91|16833|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|6905|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|3283|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|6905|Canada|Montreal|GloboTech Communications|
-|19|112.198.179.57|8082|Philippines|Carmona|Globe Telecom|
-|20|67.43.236.20|3283|Canada|Montreal|GloboTech Communications|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|152.26.229.86|9443|United States|Concord|MCNC|
+|9|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|10|72.10.160.90|17677|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.91|7457|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|10749|Canada|Montreal|GloboTech Communications|
+|13|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|72.10.164.178|10749|Canada|Montreal|GloboTech Communications|
+|15|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|67.43.236.20|20039|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|10749|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|72.10.164.178|10749|Canada|Montreal|GloboTech Communications|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
