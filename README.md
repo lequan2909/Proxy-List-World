@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|3.1.220.221|8118|Singapore|Singapore|Amazon Technologies Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
 |4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|45.77.147.46|3128|United States|Piscataway|The Constant Company|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|45.77.147.46|3128|United States|Piscataway|The Constant Company|
 |8|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|9|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|72.10.164.178|29645|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|24195|Canada|Montreal|GloboTech Communications|
+|10|152.26.231.93|9443|United States|Concord|MCNC|
+|11|24.181.66.92|8080|United States|McDonough|Charter Communications|
 |12|152.26.229.46|9443|United States|Concord|MCNC|
-|13|152.26.231.93|9443|United States|Concord|MCNC|
-|14|67.43.228.253|16535|Canada|Montreal|GloboTech Communications|
-|15|117.68.38.176|39050|China|Hefei|China Telecom|
-|16|72.10.164.178|29645|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|29453|Canada|Montreal|GloboTech Communications|
-|18|118.117.189.116|8089|China|Muping|Chinanet|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|152.26.229.47|9443|United States|Concord|MCNC|
+|13|72.10.164.178|24195|Canada|Montreal|GloboTech Communications|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|152.26.229.47|9443|United States|Concord|MCNC|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|72.10.164.178|24195|Canada|Montreal|GloboTech Communications|
+|19|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
