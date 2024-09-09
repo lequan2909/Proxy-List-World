@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |5|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|7|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|8|120.28.213.45|8080|Philippines|Cagayan de Oro|Globe Telecom|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|171.228.171.78|5106|Vietnam|Hanoi|Viettel Corporation|
-|11|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
-|12|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|13|103.154.230.107|8080|Indonesia|Lamongan|DIGITNET|
-|14|152.26.229.46|9443|United States|Concord|MCNC|
-|15|152.26.231.42|9443|United States|Concord|MCNC|
-|16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|72.10.164.178|2675|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|2675|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|32983|Canada|Montreal|GloboTech Communications|
-|20|181.78.11.219|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|6|119.76.142.192|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|103.125.18.22|8080|Indonesia|Tangerang|JAVAMEDIA|
+|9|159.203.104.153|4550|United States|Clifton|DigitalOcean, LLC|
+|10|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|11|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|12|114.8.131.178|8080|Indonesia|Gambir|PT. INDOSAT Tbk|
+|13|103.78.113.9|8080|Indonesia|Jakarta|MORATELINDO|
+|14|103.26.110.110|84|India|Chennai|Niss Networks|
+|15|152.26.231.93|9443|United States|Concord|MCNC|
+|16|152.26.229.46|9443|United States|Concord|MCNC|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|103.154.230.107|8080|Indonesia|Lamongan|DIGITNET|
 
 
 
