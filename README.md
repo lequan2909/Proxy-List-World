@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|20.184.18.156|80|Singapore|Singapore|Microsoft Corporation|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|3.1.220.221|8118|Singapore|Singapore|Amazon Technologies Inc.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|6|43.167.241.52|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|7|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|10|72.10.160.90|16953|Canada|Montreal|GloboTech Communications|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|152.26.229.86|9443|United States|Concord|MCNC|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|15|152.26.229.93|9443|United States|Concord|MCNC|
-|16|67.43.228.253|31635|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|6549|Canada|Montreal|GloboTech Communications|
-|18|15.204.161.192|18080|United States|Reston|OVH SAS|
-|19|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|152.26.229.86|9443|United States|Concord|MCNC|
+|11|152.26.229.93|9443|United States|Concord|MCNC|
+|12|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|13|14.103.168.150|8088|China|Beijing|BITNET|
+|14|152.26.231.42|9443|United States|Concord|MCNC|
+|15|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|16|152.26.229.46|9443|United States|Concord|MCNC|
+|17|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|18|67.43.227.226|31127|Canada|Montreal|GloboTech Communications|
+|19|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
+|20|160.248.11.213|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
