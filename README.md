@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|7|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|8|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|9|157.10.97.103|8080|Indonesia|Bengkulu|PT Lintas Jaringan Nusantara|
-|10|152.26.229.34|9443|United States|Concord|MCNC|
-|11|152.26.231.94|9443|United States|Concord|MCNC|
-|12|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
-|13|93.118.119.15|8080|Iran|Tehran|Telecommunication Company of Iran|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|148.251.87.79|16379|Germany|Falkenstein|Hetzner Online GmbH|
+|5|152.26.229.34|9443|United States|Concord|MCNC|
+|6|152.26.231.94|9443|United States|Concord|MCNC|
+|7|157.10.97.103|8080|Indonesia|Bengkulu|PT Lintas Jaringan Nusantara|
+|8|152.26.229.83|9443|United States|Concord|MCNC|
+|9|103.234.159.5|8080|India|Bengaluru|MWPL|
+|10|152.26.229.93|9443|United States|Concord|MCNC|
+|11|114.130.86.145|5443|Bangladesh|Dhaka|Mango Teleservices Limited|
+|12|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
 |14|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|15|103.133.63.77|8181|Indonesia|Bandar Lampung|TLINK|
-|16|152.26.229.93|9443|United States|Concord|MCNC|
-|17|72.10.160.174|9089|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|72.10.164.178|26307|Canada|Montreal|GloboTech Communications|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|72.10.164.178|17461|Canada|Montreal|GloboTech Communications|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|38.188.127.86|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|18|67.43.227.227|32147|Canada|Montreal|GloboTech Communications|
+|19|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
