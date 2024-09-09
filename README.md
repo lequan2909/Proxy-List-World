@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|34.170.211.141|3128|United States|Council Bluffs|Google LLC|
-|3|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|4|34.170.211.141|3128|United States|Council Bluffs|Google LLC|
-|5|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|6|152.26.229.47|9443|United States|Concord|MCNC|
-|7|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
-|9|152.26.229.34|9443|United States|Concord|MCNC|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|72.10.160.91|13275|Canada|Montreal|GloboTech Communications|
-|12|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|72.10.160.173|14083|Canada|Montreal|GloboTech Communications|
-|14|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|15|72.10.160.170|32485|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|29043|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|13731|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.171|13139|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|23269|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|13731|Canada|Montreal|GloboTech Communications|
+|3|34.170.211.141|3128|United States|Council Bluffs|Google LLC|
+|4|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|5|152.26.229.47|9443|United States|Concord|MCNC|
+|6|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|9|152.26.231.83|9443|United States|Concord|MCNC|
+|10|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|11|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|12|152.26.229.34|9443|United States|Concord|MCNC|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|67.43.227.228|24805|Canada|Montreal|GloboTech Communications|
+|16|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|17|72.10.164.178|11005|Canada|Montreal|GloboTech Communications|
+|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|72.10.160.91|13275|Canada|Montreal|GloboTech Communications|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
