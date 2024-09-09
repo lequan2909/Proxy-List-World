@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
 |4|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|189.39.207.47|9090|Brazil|Governador Valadares|Konnet Telecomunicacoes Ltda - EPP|
-|9|171.228.190.144|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|11|147.45.48.147|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
-|12|103.186.90.18|8080|Indonesia|Jepara|PT Akses Data Internusa|
-|13|67.43.236.20|21487|Canada|Montreal|GloboTech Communications|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|152.53.67.93|3128|Austria|Vienna|ANEXIA Internetdienstleistungs GmbH|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|67.43.236.20|21487|Canada|Montreal|GloboTech Communications|
+|9|103.184.56.125|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
+|10|152.26.229.42|9443|United States|Concord|MCNC|
+|11|103.76.151.90|8090|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|12|72.10.164.178|1309|Canada|Montreal|GloboTech Communications|
+|13|152.26.229.93|9443|United States|Concord|MCNC|
 |14|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|15|103.35.108.190|5020|Bangladesh|Dhaka|Ranks ITT|
-|16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|67.43.227.226|31659|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|152.26.231.42|9443|United States|Concord|MCNC|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|152.26.231.42|9443|United States|Concord|MCNC|
+|16|103.120.175.243|9191|Indonesia|Bekasi|PT. Eka Mas Republik|
+|17|67.43.227.226|6143|Canada|Montreal|GloboTech Communications|
+|18|103.172.17.51|8080|Indonesia|Ciamis|PT Media Access Telematika|
+|19|72.10.160.91|7493|Canada|Montreal|GloboTech Communications|
+|20|103.159.194.181|1080|Indonesia|Welahan|PT Giga Digital Nusantara|
 
 
 
