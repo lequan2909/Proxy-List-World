@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|3|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|160.248.94.16|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|8|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|9|103.139.127.244|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|101.255.117.138|2020|Indonesia|Jakarta|PT Remala Abadi|
-|13|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|14|185.200.38.99|1080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|152.26.229.83|9443|United States|Concord|MCNC|
-|17|152.26.231.42|9443|United States|Concord|MCNC|
-|18|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|152.26.229.47|9443|United States|Concord|MCNC|
-|20|72.10.164.178|10969|Canada|Montreal|GloboTech Communications|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|4|207.180.228.55|80|Germany|Nuremberg|Contabo GmbH|
+|5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|9|103.172.42.17|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|14|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
+|15|160.248.94.16|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|200.125.170.104|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|17|152.53.67.93|3128|Austria|Vienna|ANEXIA Internetdienstleistungs GmbH|
+|18|103.53.78.26|8080|Indonesia|Surabaya|INTI|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
