@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|424|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|424|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|424|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|393|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|393|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|393|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|160.248.94.16|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|8|103.118.46.77|32650|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|9|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|10|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|11|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|12|177.54.229.121|9292|Brazil|Parauapebas|Aranet Comunicacao Ltda|
-|13|152.26.229.83|9443|United States|Concord|MCNC|
-|14|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|103.101.193.78|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|16|67.43.228.253|13971|Canada|Montreal|GloboTech Communications|
-|17|82.200.237.11|8080|Kazakhstan|Almaty Oblysy|Kazakhtelecom Data Network Administration|
-|18|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|7|103.48.71.18|83|India|Hyderabad|Country Online Services PVT LTD|
+|8|49.48.123.38|8081|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|9|103.101.193.78|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|160.248.94.16|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
+|15|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|16|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|18|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|77.137.21.78|18000|Israel|Tel Aviv|Hot-Net internet services Ltd.|
 
 
 
