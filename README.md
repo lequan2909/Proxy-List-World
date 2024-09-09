@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.11.213|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.157.79.158|8080|Indonesia|Jakarta|EASTMEDIA|
-|10|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|181.114.61.17|8085|Argentina|Ramallo|INTERAIR|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|19|72.10.160.170|3753|Canada|Montreal|GloboTech Communications|
-|20|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|103.4.167.15|8080|Indonesia|Jakarta|FIBERNET|
+|8|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|9|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|13|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|14|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
