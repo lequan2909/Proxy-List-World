@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|5|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|10|103.168.44.105|3127|Indonesia|Jakarta|PT CYB Media Group|
-|11|67.43.227.230|10231|Canada|Montreal|GloboTech Communications|
-|12|152.26.231.86|9443|United States|Concord|MCNC|
-|13|72.10.164.178|26307|Canada|Montreal|GloboTech Communications|
-|14|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
+|8|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|9|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|10|187.1.16.36|92|Brazil|Birigui|FIT Telecom Eireli|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|67.43.227.230|10231|Canada|Montreal|GloboTech Communications|
+|13|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
+|14|152.26.231.86|9443|United States|Concord|MCNC|
 |15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|72.10.164.178|26307|Canada|Montreal|GloboTech Communications|
-|17|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
-|18|46.166.165.33|4000|Lithuania|Šiauliai|Cherry Servers|
-|19|157.66.36.40|3125|Indonesia|Ciruas|PT Trik Media Data|
-|20|67.43.227.226|32325|Canada|Montreal|GloboTech Communications|
+|16|103.125.155.230|8080|India|Tirupur|Live Fibernet|
+|17|67.43.227.226|8765|Canada|Montreal|GloboTech Communications|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|67.43.227.227|19761|Canada|Montreal|GloboTech Communications|
 
 
 
