@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|499|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|499|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|499|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|160.19.231.226|8080|Indonesia|Jakarta|PT TELSAR JAYA NETWORK TEKNOLOGY|
-|6|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|201.134.169.214|8205|Mexico|Mexico City|Uninet S.A. de C.V.|
-|8|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|9|103.124.196.218|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|139.84.209.48|3129|India|Bengaluru|The Constant Company, LLC|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |10|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|11|139.84.209.48|3129|India|Bengaluru|The Constant Company, LLC|
-|12|103.247.12.18|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|45.5.119.112|8080|Guatemala|Guatemala City|Infinitum S.A.|
-|15|43.167.241.52|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|16|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|17|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|18|5.135.188.78|3127|France|Roubaix|OVH SAS|
-|19|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|20|152.26.229.47|9443|United States|Concord|MCNC|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|103.159.194.121|8080|Indonesia|Temanjang|PT Giga Digital Nusantara|
+|13|152.26.229.47|9443|United States|Concord|MCNC|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|18|72.10.160.90|1093|Canada|Montreal|GloboTech Communications|
+|19|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|20|112.17.10.41|3128|China|Hangzhou|China Mobile Communications Corporation|
 
 
 
