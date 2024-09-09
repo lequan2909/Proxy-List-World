@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|6|182.253.42.148|8082|Indonesia|Jakarta Pusat|BIZNET|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|1|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|5|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|7|103.171.182.229|8080|Indonesia|Bogor|PT Hayat Teknologi Informatika|
 |8|160.248.94.16|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|11|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|10|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|11|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
 |12|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|67.43.227.228|27975|Canada|Montreal|GloboTech Communications|
-|14|103.10.230.246|1337|Thailand|Bangkok|CATBB|
+|13|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|14|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |15|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|18|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|72.10.160.171|23271|Canada|Montreal|GloboTech Communications|
+|16|38.52.221.66|8080|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|17|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|139.84.158.191|3129|India|Bengaluru|The Constant Company, LLC|
+|20|45.77.147.46|3128|United States|Piscataway|The Constant Company|
 
 
 
