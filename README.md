@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|160.248.11.206|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|7|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|8|85.15.91.59|7541|Russia|Khabarovsk|Vostoktelecom Telephone Company Limited Liability Company|
-|9|103.168.44.210|3127|Indonesia|Jakarta|PT CYB Media Group|
-|10|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|11|79.106.108.150|8079|Albania|Tepelenë|ALBTELECOM VI|
-|12|183.88.214.44|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|2|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|160.248.11.206|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|8|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|9|5.35.37.110|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|24.181.66.92|8080|United States|McDonough|Charter Communications|
 |13|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|152.26.231.93|9443|United States|Concord|MCNC|
-|18|67.43.227.228|20483|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.47|9443|United States|Concord|MCNC|
-|20|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|152.26.231.42|9443|United States|Concord|MCNC|
+|16|67.43.236.20|22153|Canada|Montreal|GloboTech Communications|
+|17|46.166.165.33|4000|Lithuania|Šiauliai|Cherry Servers|
+|18|152.26.231.93|9443|United States|Concord|MCNC|
+|19|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
