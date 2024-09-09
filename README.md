@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|191.97.16.12|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|7|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|8|103.156.17.35|8181|Indonesia|Indramayu|RSTNET|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|152.26.229.34|9443|United States|Concord|MCNC|
-|12|185.64.208.230|53281|Russia|Kstovo|Svyazist LLC|
-|13|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|118.117.188.40|8089|China|Muping|Chinanet|
-|15|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|152.26.229.46|9443|United States|Concord|MCNC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.162.131.57|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|191.97.16.12|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|152.26.229.34|9443|United States|Concord|MCNC|
+|10|152.26.231.93|9443|United States|Concord|MCNC|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|72.10.160.91|10567|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.228|8389|Canada|Montreal|GloboTech Communications|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|20.162.131.57|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|161.34.35.245|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |18|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|67.43.227.228|12829|Canada|Montreal|GloboTech Communications|
-|20|161.34.35.245|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 
