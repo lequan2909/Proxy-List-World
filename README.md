@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|597|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|597|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|597|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|577|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|577|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|577|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|103.172.197.163|8181|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|4|36.91.208.219|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|5|91.203.242.66|222|Russia|Moscow|JSC Advanced Business Network|
-|6|103.124.196.130|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|7|27.116.21.46|8080|India|Hyderabad|Vainavi Industries Ltd.|
-|8|121.101.131.67|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|9|203.176.129.85|8080|Cambodia|Phnom Penh|Angkor Data Communication|
-|10|38.156.75.61|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|72.10.164.178|7953|Canada|Montreal|GloboTech Communications|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|14|43.167.240.126|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|15|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|16|152.26.231.83|9443|United States|Concord|MCNC|
-|17|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|18|103.172.42.149|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|19|152.26.231.94|9443|United States|Concord|MCNC|
-|20|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|103.48.68.67|84|India|Hyderabad|Country Online Services PVT LTD|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.84.177.246|8084|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|46.161.194.65|1976|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|36.93.140.183|8080|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|13|103.169.131.26|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|14|103.172.197.163|8181|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|15|103.44.19.220|3127|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
+|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|17|72.10.164.178|7953|Canada|Montreal|GloboTech Communications|
+|18|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|19|186.97.192.60|999|Colombia|Medellín|Colombia Móvil|
+|20|122.2.48.121|8080|Philippines|Ormoc City|Philippine Long Distance Telephone Co.|
 
 
 
