@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.191.4|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
-|11|103.107.85.249|1111|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|16|62.109.15.27|3120|Russia|Khimki|JSC IOT|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|19|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|9|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|10|38.49.152.103|8080|Mexico|San José Iturbide|Ientc S De RL De CV|
+|11|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|72.10.164.178|27637|Canada|Montreal|GloboTech Communications|
+|14|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|72.10.160.171|1685|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|30547|Canada|Montreal|GloboTech Communications|
+|19|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|72.10.160.171|1685|Canada|Montreal|GloboTech Communications|
 
 
 
