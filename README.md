@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|5|20.184.18.156|80|Singapore|Singapore|Microsoft Corporation|
-|6|159.203.167.230|3128|United States|Clifton|DigitalOcean, LLC|
-|7|104.248.167.148|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|159.203.167.230|3128|United States|Clifton|DigitalOcean, LLC|
-|12|45.153.165.66|999|Dominican Republic|Santo Domingo|Silkglobal Dominicana SRL|
-|13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|6|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|7|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|8|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|9|72.10.164.178|20371|Canada|Montreal|GloboTech Communications|
+|10|152.26.231.83|9443|United States|Concord|MCNC|
+|11|152.26.229.83|9443|United States|Concord|MCNC|
+|12|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
 |14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|72.10.164.178|1175|Canada|Montreal|GloboTech Communications|
-|18|179.125.51.54|27234|Brazil|Duque de Caxias|Via Link Telecomunicacoes|
-|19|152.26.231.83|9443|United States|Concord|MCNC|
-|20|152.26.229.83|9443|United States|Concord|MCNC|
+|15|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|16|35.238.133.20|3128|United States|Council Bluffs|Google LLC|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|72.10.164.178|20371|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|30289|Canada|Montreal|GloboTech Communications|
+|20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
 
