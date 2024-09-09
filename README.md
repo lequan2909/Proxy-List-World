@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|453|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|453|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|453|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|451|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|451|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|451|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 |2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|8|139.84.209.48|3129|India|Bengaluru|The Constant Company, LLC|
-|9|103.116.82.136|8080|Indonesia|Indramayu|PT SSR Digital Informatika|
-|10|191.97.16.182|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|13|103.165.156.171|8090|Indonesia|Jember|MEGADATA-ISP|
-|14|45.5.119.112|8080|Guatemala|Guatemala City|Infinitum S.A.|
-|15|177.93.40.57|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|16|182.253.168.6|8080|Indonesia|Jakarta|BIZNET|
-|17|139.84.209.48|3129|India|Bengaluru|The Constant Company, LLC|
-|18|77.48.22.49|33347|Czechia|Klopotovice|Vodafone Czech Republic|
-|19|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|20|160.248.94.16|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|103.124.196.218|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|160.248.94.16|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|14|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|15|139.84.209.48|3129|India|Bengaluru|The Constant Company, LLC|
+|16|139.84.209.48|3129|India|Bengaluru|The Constant Company, LLC|
+|17|203.177.216.158|8080|Philippines|Taguig|SIEMENS|
+|18|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|19|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|103.172.42.177|1111|Indonesia|Karawang|PT Media Solusi Sukses|
 
 
 
