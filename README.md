@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|122.152.55.61|8080|Bangladesh|Chittagong|Innovative Online Ltd|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|103.247.216.70|8080|Indonesia|Penggilingan|PT. Parsaoran Global Datatrans|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|45.71.184.197|999|Ecuador|Naranjito|Ufinet Panama S.A.|
 |6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|103.156.17.171|8181|Indonesia|Indramayu|RSTNET|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|10|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|11|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|12|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|13|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|14|114.9.26.118|8090|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|15|38.45.36.72|8080|Venezuela|La Guaira|TELECOMUNICACIONES G-NETWORK, C.A.|
-|16|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|17|103.24.212.250|8082|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
-|18|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|19|67.43.227.227|14543|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.83|9443|United States|Concord|MCNC|
+|7|152.26.231.83|9443|United States|Concord|MCNC|
+|8|140.245.118.195|3128|Singapore|Singapore|Oracle Corporation|
+|9|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|10|72.10.164.178|2337|Canada|Montreal|GloboTech Communications|
+|11|14.204.150.68|8080|China|Qujing|China Unicom Yunnan Province Network|
+|12|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|13|72.10.164.178|2337|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|14543|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|2337|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|14543|Canada|Montreal|GloboTech Communications|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|116.169.54.254|8080|China|Chengdu|China Unicom CHINA169 Network|
+|19|72.10.164.178|2337|Canada|Montreal|GloboTech Communications|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
