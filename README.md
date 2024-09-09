@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|5|20.162.131.57|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|9|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|10|191.97.16.12|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
-|11|72.10.164.178|14697|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|14697|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|16725|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|28199|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|14697|Canada|Montreal|GloboTech Communications|
-|16|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|72.10.160.170|15463|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|14325|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.93|9443|United States|Concord|MCNC|
+|3|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|6|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|7|183.88.212.129|8213|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|8|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|9|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|112.17.10.41|3128|China|Hangzhou|China Mobile Communications Corporation|
+|12|106.227.87.11|3128|China|Taohua|China Telecom|
+|13|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|66.96.235.34|8080|Indonesia|Jakarta|MYREPUBLIC|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|72.10.164.178|2229|Canada|Montreal|GloboTech Communications|
+|18|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|19|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|72.10.160.170|19327|Canada|Montreal|GloboTech Communications|
 
 
 
