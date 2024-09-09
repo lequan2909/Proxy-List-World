@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|426|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|426|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|426|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|417|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|417|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|417|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|38.188.127.77|1111|Indonesia|Blitar|PT Data Buana Nusantara|
-|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.87.169.194|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|13|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|14|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|15|191.102.248.7|8084|Argentina|Rosario|IP·RED|
-|16|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|17|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|152.26.231.83|9443|United States|Concord|MCNC|
-|20|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|4|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|8|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|9|103.169.129.4|1111|Indonesia|Cirebon|PT Media Akses Data|
+|10|103.125.117.50|5000|Indonesia|Bandung|PT Baraya Telematika Nusantara|
+|11|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|95.161.194.74|8090|Russia|Kazan'|"OBIT" Ltd.|
+|14|103.1.50.17|3125|Indonesia|Pasuruan|CPCNet Hong Kong Ltd. - IP Administrator|
+|15|115.127.98.18|58080|Bangladesh|Dhaka|BRACNet Limited|
+|16|101.255.149.202|8080|Indonesia|Bekasi|PT Remala Abadi|
+|17|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|18|103.248.9.206|3127|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
+|19|103.247.23.72|7777|Indonesia|Banyumas|PT wifian Solution|
+|20|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
 
 
 
