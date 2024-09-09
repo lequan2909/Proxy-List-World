@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|431|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|431|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|431|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.234.31.60|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
-|3|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|1|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |6|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
-|7|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|137.59.161.177|8080|Indonesia|Depok|PT SumberKoneksi Indotelematika|
-|12|103.40.121.31|8087|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
-|13|160.248.94.16|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|67.43.236.20|6643|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|1327|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|1327|Canada|Montreal|GloboTech Communications|
-|17|152.53.67.93|3128|Austria|Vienna|ANEXIA Internetdienstleistungs GmbH|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|103.167.171.216|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|20|144.76.207.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|14.167.34.180|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|9|160.248.94.16|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|103.10.230.246|1337|Thailand|Bangkok|CATBB|
+|11|72.10.164.178|15633|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|6643|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|15633|Canada|Montreal|GloboTech Communications|
+|14|152.26.231.86|9443|United States|Concord|MCNC|
+|15|129.151.112.176|8899|Chile|Santiago|Oracle Corporation|
+|16|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|17|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|18|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|72.10.164.178|15633|Canada|Montreal|GloboTech Communications|
+|20|24.181.66.92|8080|United States|McDonough|Charter Communications|
 
 
 
