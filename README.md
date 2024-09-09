@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|420|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|420|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|420|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|192.99.169.19|8450|Canada|Beauharnois|OVH SAS|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|6|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|7|160.19.231.226|8080|Indonesia|Jakarta|PT TELSAR JAYA NETWORK TEKNOLOGY|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |9|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
-|10|187.157.243.254|8080|Mexico|Puebla City|Uninet S.A. de C.V.|
-|11|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|12|139.84.209.48|3129|India|Bengaluru|The Constant Company, LLC|
-|13|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|103.184.54.12|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|1.32.59.217|47045|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|20|152.26.229.47|9443|United States|Concord|MCNC|
+|10|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|11|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|103.116.82.136|8080|Indonesia|Indramayu|PT SSR Digital Informatika|
+|17|139.84.209.48|3129|India|Bengaluru|The Constant Company, LLC|
+|18|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|19|72.10.160.90|7805|Canada|Montreal|GloboTech Communications|
+|20|15.204.161.192|18080|United States|Reston|OVH SAS|
 
 
 
