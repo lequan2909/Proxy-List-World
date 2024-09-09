@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|157.10.97.103|8080|Indonesia|Bengkulu|PT Lintas Jaringan Nusantara|
-|7|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|8|103.133.63.135|8181|Indonesia|Bandar Lampung|TLINK|
-|9|103.90.67.35|8080|Indonesia|Bengkalis|PT Rajawali Bintang Cemerlang Telkomedia|
-|10|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
-|11|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|103.139.98.157|8080|Indonesia|Bandaragung|Digital Network Setiawan|
-|15|152.26.229.83|9443|United States|Concord|MCNC|
-|16|152.26.229.93|9443|United States|Concord|MCNC|
-|17|152.26.229.47|9443|United States|Concord|MCNC|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|9|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|103.133.63.135|8181|Indonesia|Bandar Lampung|TLINK|
+|11|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|12|152.26.229.83|9443|United States|Concord|MCNC|
+|13|152.26.229.47|9443|United States|Concord|MCNC|
+|14|152.26.229.93|9443|United States|Concord|MCNC|
+|15|173.249.34.184|3128|Germany|Nuremberg|Contabo GmbH|
+|16|159.65.0.8|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|18|159.89.209.26|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|181.119.67.134|999|Colombia|Florida|IFX Networks Argentina S.R.L|
+|20|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
