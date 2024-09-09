@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|474|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|474|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|474|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|405|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|405|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|405|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|157.66.84.8|7777|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
-|8|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
-|9|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|10|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
 |11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|13|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|12|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
+|13|24.181.66.92|8080|United States|McDonough|Charter Communications|
 |14|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|15|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|18|72.10.164.178|6689|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|6689|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|30591|Canada|Montreal|GloboTech Communications|
+|15|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|16|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
