@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|451|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|451|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|451|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|139.84.209.48|3129|India|Bengaluru|The Constant Company, LLC|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|139.84.209.48|3129|India|Bengaluru|The Constant Company, LLC|
-|8|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|9|103.159.194.121|8080|Indonesia|Temanjang|PT Giga Digital Nusantara|
-|10|160.248.94.16|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|103.165.156.171|8090|Indonesia|Jember|MEGADATA-ISP|
-|12|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|13|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|14|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|15|103.87.169.202|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|16|103.4.167.15|8080|Indonesia|Jakarta|FIBERNET|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
-|19|36.95.78.156|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|20|67.43.227.227|25531|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|103.159.194.121|8080|Indonesia|Temanjang|PT Giga Digital Nusantara|
+|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|10|139.84.209.48|3129|India|Bengaluru|The Constant Company, LLC|
+|11|182.253.168.6|8080|Indonesia|Jakarta|BIZNET|
+|12|131.221.140.225|8080|Brazil|Barcarena Nova|MVM PINTO COMERCIO E SERVICOS ME|
+|13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|14|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|15|139.84.209.48|3129|India|Bengaluru|The Constant Company, LLC|
+|16|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|17|120.28.180.171|8080|Philippines|San Juan|Globe Telecom|
+|18|15.204.161.192|18080|United States|Reston|OVH SAS|
+|19|202.154.18.137|8090|Indonesia|Jombang|DIGITNET|
+|20|61.7.191.58|8080|Thailand|Ao Nang|CAT Telecom Public Company Limited|
 
 
 
