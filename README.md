@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|36.72.241.107|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|3|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|190.94.213.109|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|8|66.96.233.62|8085|Indonesia|Jakarta|MYREPUBLIC|
-|9|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|10|103.247.23.33|1111|Indonesia|Banyumas|PT wifian Solution|
-|11|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|152.26.229.46|9443|United States|Concord|MCNC|
-|13|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|15|160.248.91.126|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|103.139.98.157|8080|Indonesia|Bandaragung|Digital Network Setiawan|
-|18|103.90.233.210|3128|Vietnam|Quận Mười Một|WEBPANDA|
-|19|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|20|72.10.160.90|17783|Canada|Montreal|GloboTech Communications|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|7|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|8|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|9|36.72.241.107|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|10|45.179.201.73|999|Colombia|Medellín|NET&COM LTDA.|
+|11|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|12|47.88.85.102|443|United States|Minkler|Alibaba.com LLC|
+|13|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|152.26.229.46|9443|United States|Concord|MCNC|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|17|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|72.10.160.171|24431|Canada|Montreal|GloboTech Communications|
+|19|160.248.91.126|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|193.188.22.20|3127|United States|Los Angeles|Aeza International LTD|
 
 
 
