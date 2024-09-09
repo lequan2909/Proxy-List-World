@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|6|103.133.63.77|8181|Indonesia|Bandar Lampung|TLINK|
-|7|152.26.229.83|9443|United States|Concord|MCNC|
-|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|9|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|103.244.23.226|8181|Indonesia|Cileungsir|PT Kahuripan Makmur Sentosa|
-|12|67.43.228.253|8273|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|3063|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.133.63.77|8181|Indonesia|Bandar Lampung|TLINK|
+|4|34.170.211.141|3128|United States|Council Bluffs|Google LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|7|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|8|34.170.211.141|3128|United States|Council Bluffs|Google LLC|
+|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|152.26.229.83|9443|United States|Concord|MCNC|
+|13|24.181.66.92|8080|United States|McDonough|Charter Communications|
 |14|161.34.35.245|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|184.105.182.254|3128|United States|Gilroy|Hurricane Electric LLC|
-|16|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|17|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
-|18|72.10.164.178|7481|Canada|Montreal|GloboTech Communications|
-|19|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
-|20|67.43.227.228|27153|Canada|Montreal|GloboTech Communications|
+|15|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|16|103.244.207.113|8080|Indonesia|Tangerang|PT. Web Data Solusindo|
+|17|103.139.98.157|8080|Indonesia|Bandaragung|Digital Network Setiawan|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|67.43.227.228|27153|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|32745|Canada|Montreal|GloboTech Communications|
 
 
 
