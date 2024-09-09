@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|101.255.210.2|1111|Indonesia|Jakarta|PT Remala Abadi|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|5.202.95.171|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|9|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|10|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|11|152.26.231.42|9443|United States|Concord|MCNC|
-|12|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|13|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|14|152.26.229.83|9443|United States|Concord|MCNC|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|103.88.90.53|8080|Indonesia|Malang|PT Paket Switch Bersama|
+|6|5.202.95.171|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|84.247.141.245|80|Germany|Düsseldorf|Contabo GmbH|
+|9|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|122.3.131.143|8082|Philippines|Tuguegarao City|Philippine Long Distance Telephone Co.|
+|11|12.163.95.129|8080|United States|Alex|AT&T Services, Inc.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|168.196.246.118|8080|Argentina|Moreno|Linkear SRL|
 |15|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|58.11.15.192|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|189.193.224.122|999|Mexico|Atoyatempan|Mega Cable, S.A. de C.V.|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|109.205.126.6|8080|Latvia|Riga|Kronospan Riga SIA|
+|16|152.26.231.42|9443|United States|Concord|MCNC|
+|17|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|18|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
+|20|103.114.52.130|8080|Indonesia|Boyolali|Proxy-registered|
 
 
 
