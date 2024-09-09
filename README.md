@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|223.205.78.224|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|7|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|9|27.71.175.203|5102|Vietnam|Duy Xuyên|Viettel Group|
-|10|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|11|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|12|152.26.229.86|9443|United States|Concord|MCNC|
-|13|152.26.231.86|9443|United States|Concord|MCNC|
-|14|72.10.164.178|2027|Canada|Montreal|GloboTech Communications|
-|15|118.117.188.221|8089|China|Muping|Chinanet|
-|16|72.10.164.178|2027|Canada|Montreal|GloboTech Communications|
-|17|202.154.18.141|8088|Indonesia|Jombang|DIGITNET|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|67.43.236.20|17177|Canada|Montreal|GloboTech Communications|
+|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|9|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|10|103.167.170.202|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|13|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|27.71.175.203|5102|Vietnam|Duy Xuyên|Viettel Group|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|144.76.207.193|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|20|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
 
 
 
