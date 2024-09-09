@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
-|6|49.147.39.19|8080|Philippines|Lucena City|Philippine Long Distance Telephone Co.|
-|7|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|195.62.32.117|22331|The Netherlands|Amsterdam|PIO-Hosting GmbH|
 |8|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|11|160.19.231.226|8080|Indonesia|Jakarta|PT TELSAR JAYA NETWORK TEKNOLOGY|
-|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|13|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|10|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|11|45.174.79.32|999|Mexico|Delicias|Raul Duarte Urita|
+|12|42.112.65.30|8081|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|13|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|14|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |15|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|16|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|17|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|16|103.239.254.72|58080|Bangladesh|Dhaka|Carnival Internet|
+|17|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
 |18|160.248.190.246|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|152.26.231.94|9443|United States|Concord|MCNC|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|20|103.165.155.60|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
 
 
 
