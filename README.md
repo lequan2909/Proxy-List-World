@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.156.141.130|1111|Indonesia|Jember|PT Tekling Media Telematika|
-|5|43.247.33.60|8080|Indonesia|Jakarta|PT MEDIA LINTAS DATA|
-|6|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|7|191.97.16.12|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
-|8|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|9|103.133.24.5|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|10|179.61.98.3|999|Chile|San Clemente|HomeNet LTDA|
-|11|152.26.229.34|9443|United States|Concord|MCNC|
-|12|152.26.231.83|9443|United States|Concord|MCNC|
-|13|152.26.229.83|9443|United States|Concord|MCNC|
-|14|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|15|152.26.229.42|9443|United States|Concord|MCNC|
-|16|152.26.231.94|9443|United States|Concord|MCNC|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|112.17.10.41|3128|China|Hangzhou|China Mobile Communications Corporation|
-|19|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|20|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|3|84.247.141.245|80|Germany|Düsseldorf|Contabo GmbH|
+|4|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|5|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|6|103.195.252.37|83|India|Ranchi|Speed Airlive Broadband Services PVT LTD|
+|7|103.84.176.101|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|8|112.17.10.41|3128|China|Hangzhou|China Mobile Communications Corporation|
+|9|152.26.231.83|9443|United States|Concord|MCNC|
+|10|152.26.229.34|9443|United States|Concord|MCNC|
+|11|152.26.229.83|9443|United States|Concord|MCNC|
+|12|152.26.229.42|9443|United States|Concord|MCNC|
+|13|152.26.231.94|9443|United States|Concord|MCNC|
+|14|222.127.242.123|8082|Philippines|Iloilo City|GLBB|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
+|17|46.166.165.33|4000|Lithuania|Šiauliai|Cherry Servers|
+|18|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|173.249.34.184|3128|Germany|Nuremberg|Contabo GmbH|
+|20|72.10.160.90|2809|Canada|Montreal|GloboTech Communications|
 
 
 
