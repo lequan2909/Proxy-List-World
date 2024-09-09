@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |4|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|202.137.155.184|8088|Laos|Vientiane|Lao Telecommunication Co Ltd|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.69.20.100|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|8|103.172.17.51|8080|Indonesia|Ciamis|PT Media Access Telematika|
-|9|103.165.157.37|3125|Indonesia|Taman|MEGADATA-ISP|
-|10|45.91.237.170|8085|Poland|Warsaw|Stark Industries Solutions LTD|
-|11|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|12|171.228.190.144|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|200.109.64.194|3128|Venezuela|Valencia|CANTV Servicios, Venezuela|
-|15|103.159.194.181|1080|Indonesia|Welahan|PT Giga Digital Nusantara|
-|16|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|152.26.229.46|9443|United States|Concord|MCNC|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|67.43.227.228|25329|Canada|Montreal|GloboTech Communications|
-|20|152.53.67.93|3128|Austria|Vienna|ANEXIA Internetdienstleistungs GmbH|
+|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|103.178.21.91|3125|Indonesia|Sumberpucung|PT Trisna Mega Abadi|
+|7|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|114.5.199.222|80|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|10|171.228.190.144|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
+|11|171.224.189.177|5102|Vietnam|Hanoi|Viettel Corporation|
+|12|103.159.194.181|1080|Indonesia|Welahan|PT Giga Digital Nusantara|
+|13|138.204.154.189|11201|Argentina|Oncativo|Cooperativa Electrica de Servicios y Obras Publicas de Oncativo Ltda.|
+|14|103.147.250.198|83|India|Prayagraj|Prayag Broadband Pvt Ltd|
+|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|16|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|17|45.91.237.170|8085|Poland|Warsaw|Stark Industries Solutions LTD|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
+|20|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
