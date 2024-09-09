@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
-|6|198.20.116.100|3128|The Netherlands|Amsterdam|SingleHop LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
-|9|58.147.186.31|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
-|10|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|11|126.209.16.218|8082|Philippines|Manila|Infinivan Incorporated|
-|12|203.150.113.135|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|13|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|188.132.222.70|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|152.26.231.94|9443|United States|Concord|MCNC|
-|18|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|91.134.101.142|80|France|Roubaix|OVH SAS|
+|5|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|8|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|9|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|152.26.231.94|9443|United States|Concord|MCNC|
+|12|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|13|72.10.164.178|22187|Canada|Montreal|GloboTech Communications|
+|14|152.26.229.46|9443|United States|Concord|MCNC|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|67.43.227.229|29875|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.171|2867|Canada|Montreal|GloboTech Communications|
+|18|43.167.243.210|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|19|67.43.227.227|13243|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
