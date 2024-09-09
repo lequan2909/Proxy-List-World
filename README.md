@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|458|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|458|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|458|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|110.77.171.193|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|4|103.124.196.130|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|5|103.147.134.238|1111|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
-|6|36.50.11.198|8080|Bangladesh|Dhaka|Stardust Telecom Ltd|
-|7|103.46.4.101|8080|Indonesia|Pekanbaru|PT Akses Sentral Teknologi|
-|8|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|9|45.166.93.29|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|10|103.82.126.34|1111|Indonesia|Tangerang|PT.PLATINUM CITRA INDONESIA|
-|11|27.116.21.46|8080|India|Hyderabad|Vainavi Industries Ltd.|
-|12|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
-|13|115.74.5.71|8080|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
-|14|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|17|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|18|103.171.182.229|8080|Indonesia|Bogor|PT Hayat Teknologi Informatika|
-|19|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|20|122.2.48.121|8080|Philippines|Ormoc City|Philippine Long Distance Telephone Co.|
+|3|103.127.220.251|8080|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|4|110.77.171.193|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|103.154.230.124|8080|Indonesia|Lamongan|DIGITNET|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|9|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|10|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|13|202.137.31.186|8080|Indonesia|Bekasi|LINKNET|
+|14|160.248.190.247|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|16|103.215.207.34|84|India|Kondagaon|Foxtel Telecommunications Pvt. Ltd.|
+|17|103.110.34.133|8089|Indonesia|Purwodadi Grobogan|PT RECONET SEMESTA INDONESIA|
+|18|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|19|202.154.12.144|7777|Indonesia|Jakarta|MENAKSOPAL|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
