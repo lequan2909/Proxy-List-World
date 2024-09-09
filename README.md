@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|5|152.26.231.86|9443|United States|Concord|MCNC|
-|6|152.26.229.86|9443|United States|Concord|MCNC|
-|7|152.26.229.34|9443|United States|Concord|MCNC|
-|8|67.43.227.227|4563|Canada|Montreal|GloboTech Communications|
-|9|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|179.61.98.3|999|Chile|San Clemente|HomeNet LTDA|
-|13|67.43.236.19|24861|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.250|2043|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|31345|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|31345|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|21413|Canada|Montreal|GloboTech Communications|
-|18|152.26.231.83|9443|United States|Concord|MCNC|
-|19|152.26.231.93|9443|United States|Concord|MCNC|
-|20|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|6|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|7|186.249.227.26|3128|Brazil|Belo Horizonte|Century Telecom Ltda|
+|8|152.26.231.86|9443|United States|Concord|MCNC|
+|9|152.26.229.86|9443|United States|Concord|MCNC|
+|10|152.26.229.34|9443|United States|Concord|MCNC|
+|11|173.249.34.184|3128|Germany|Nuremberg|Contabo GmbH|
+|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|13|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|180.191.40.160|8082|Philippines|Tarlac City|Globe Telecom|
+|17|101.255.117.197|8085|Indonesia|Jakarta|PT Remala Abadi|
+|18|67.43.227.227|6369|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|10483|Canada|Montreal|GloboTech Communications|
+|20|152.26.231.93|9443|United States|Concord|MCNC|
 
 
 
