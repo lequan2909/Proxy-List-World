@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |5|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |6|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|120.28.213.45|8080|Philippines|Cagayan de Oro|Globe Telecom|
-|9|103.78.113.9|8080|Indonesia|Jakarta|MORATELINDO|
-|10|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|8|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|9|52.226.125.25|8080|United States|Boydton|Microsoft Corporation|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |11|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|12|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|13|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|152.26.231.94|9443|United States|Concord|MCNC|
-|15|103.143.169.121|84|India|Hyderabad|Aspt Networks Pvt Ltd|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|103.125.18.22|8080|Indonesia|Tangerang|JAVAMEDIA|
-|18|67.43.227.227|4571|Canada|Montreal|GloboTech Communications|
-|19|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
-|20|103.250.130.104|1111|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
+|12|152.26.231.94|9443|United States|Concord|MCNC|
+|13|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|58.136.173.248|8080|Thailand|Udon Thani|AIS-Fibre|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|87.103.128.128|4444|Russia|Irkutsk|SIBNET-IRKUTSK|
+|17|72.10.164.178|20347|Canada|Montreal|GloboTech Communications|
+|18|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|19|72.10.164.178|20347|Canada|Montreal|GloboTech Communications|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
