@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|103.160.205.170|8080|Indonesia|Mataram|PRIME|
+|3|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|7|104.248.167.148|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|10|103.166.8.228|1080|Indonesia|Jakarta|PT Akses Bersama Sedaya|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|103.147.247.38|8181|Indonesia|Tangerang|PLBNET|
+|9|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|10|103.133.27.247|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
 |11|2.59.181.125|19056|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
-|12|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|14|103.133.27.247|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|15|122.3.77.27|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|16|171.228.171.78|5106|Vietnam|Hanoi|Viettel Corporation|
-|17|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|18|182.16.171.42|43188|Indonesia|Depok|PT iForte Global Internet|
-|19|67.43.228.253|31591|Canada|Montreal|GloboTech Communications|
-|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|152.26.229.34|9443|United States|Concord|MCNC|
+|13|36.73.128.63|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|14|49.70.172.219|8089|China|Shanghai|Chinanet|
+|15|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|17|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|18|152.26.231.93|9443|United States|Concord|MCNC|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
