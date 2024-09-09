@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|223.205.78.224|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|7|45.91.237.170|8085|Poland|Warsaw|Stark Industries Solutions LTD|
+|8|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |10|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|11|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|67.43.227.227|32153|Canada|Montreal|GloboTech Communications|
-|16|185.125.169.24|8118|Norway|Sandefjord|TERRAHOST|
-|17|67.43.228.252|19491|Canada|Montreal|GloboTech Communications|
-|18|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|20|72.10.164.178|9693|Canada|Montreal|GloboTech Communications|
+|11|103.124.139.184|8080|Indonesia|Kartasura|Global Media Data Prima|
+|12|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|138.204.154.189|11201|Argentina|Oncativo|Cooperativa Electrica de Servicios y Obras Publicas de Oncativo Ltda.|
+|16|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|203.104.34.144|3128|China|Guangzhou|Fuzhou|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
 
 
 
