@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|469|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|469|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|469|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|418|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|418|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|418|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|2|103.159.196.145|1080|Indonesia|Serang|PT Andalan Dinamika Informatika|
-|3|36.72.241.107|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|4|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|3|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
 |6|171.229.85.238|10039|Vietnam|Hanoi|Viettel Corporation|
-|7|103.123.168.202|3932|Bangladesh|Comilla|Sajid Trading Ltd.|
-|8|160.248.94.110|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|9|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|10|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|11|27.112.70.155|8083|Indonesia|Jakarta|GRAHANET|
-|12|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|13|72.10.164.178|28045|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.83|9443|United States|Concord|MCNC|
-|15|72.10.160.174|3633|Canada|Montreal|GloboTech Communications|
+|7|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
+|8|43.252.107.102|7777|Indonesia|Blitar|PT Lintas Data Prima|
+|9|62.171.183.48|3128|Germany|Nuremberg|Contabo GmbH|
+|10|198.91.163.172|808|Canada|Richmond Hill|Distributel Communications Limited|
+|11|103.234.159.5|8080|India|Bengaluru|MWPL|
+|12|160.248.94.110|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|103.233.156.42|8080|Indonesia|Jakarta Pusat|PT. Mora Telematika Indonesia|
+|14|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|15|103.174.238.233|8181|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
 |16|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|67.43.236.20|12323|Canada|Montreal|GloboTech Communications|
-|18|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
-|19|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
-|20|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|17|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|18|72.10.164.178|15109|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
+|20|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
 
 
 
