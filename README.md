@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|455|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|455|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|455|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|62.171.183.48|3128|Germany|Nuremberg|Contabo GmbH|
-|8|103.46.4.101|8080|Indonesia|Pekanbaru|PT Akses Sentral Teknologi|
-|9|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|10|94.130.212.219|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|103.156.75.41|8181|Indonesia|Gianyar|PT Trika Global Media|
-|12|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|13|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|15|103.233.156.42|8080|Indonesia|Jakarta Pusat|PT. Mora Telematika Indonesia|
-|16|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|17|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|103.154.230.124|8080|Indonesia|Lamongan|DIGITNET|
-|19|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|139.84.216.215|3129|India|Bengaluru|The Constant Company, LLC|
+|2|27.77.140.199|8080|Vietnam|Đồng Nai Province|Newass2011xDSLHCMC|
+|3|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|6|62.171.183.48|3128|Germany|Nuremberg|Contabo GmbH|
+|7|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|8|103.53.170.199|3128|Vietnam|Ô Chợ Dừa|VCIC|
+|9|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|11|36.95.78.156|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|12|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|13|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|41.89.96.25|3128|Kenya|Nairobi|KENET|
+|15|72.10.160.93|25269|Canada|Montreal|GloboTech Communications|
+|16|152.26.231.42|9443|United States|Concord|MCNC|
+|17|139.84.216.215|3129|India|Bengaluru|The Constant Company, LLC|
+|18|72.10.164.178|5893|Canada|Montreal|GloboTech Communications|
+|19|14.204.150.66|8080|China|Qujing|China Unicom Yunnan Province Network|
+|20|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
