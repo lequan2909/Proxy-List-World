@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|3.1.220.221|8118|Singapore|Singapore|Amazon Technologies Inc.|
-|5|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|6|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|9|217.251.109.178|8080|Germany|Traunstein|Deutsche Telekom AG|
-|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|8|3.1.220.221|8118|Singapore|Singapore|Amazon Technologies Inc.|
+|9|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|10|177.184.199.36|80|Brazil|São Paulo|Wireless Comm Services LTDA|
 |11|152.26.231.94|9443|United States|Concord|MCNC|
-|12|152.26.229.46|9443|United States|Concord|MCNC|
-|13|152.26.231.42|9443|United States|Concord|MCNC|
-|14|67.43.236.20|3831|Canada|Montreal|GloboTech Communications|
+|12|152.26.231.42|9443|United States|Concord|MCNC|
+|13|152.26.229.46|9443|United States|Concord|MCNC|
+|14|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
 |15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|67.43.236.20|3831|Canada|Montreal|GloboTech Communications|
-|17|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|64.227.6.0|4003|United States|North Bergen|DigitalOcean, LLC|
-|19|72.10.164.178|1175|Canada|Montreal|GloboTech Communications|
+|16|160.248.94.15|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|35.238.133.20|3128|United States|Council Bluffs|Google LLC|
+|18|95.217.143.180|8111|Finland|Helsinki|Hetzner Online GmbH|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
 |20|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
