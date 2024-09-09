@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|171.228.190.144|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|5|45.91.237.170|8085|Poland|Warsaw|Stark Industries Solutions LTD|
-|6|2.59.181.125|19056|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|113.53.156.11|8080|Thailand|Bangkok|TOT Public Company Limited|
-|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|10|200.109.64.194|3128|Venezuela|Valencia|CANTV Servicios, Venezuela|
-|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|12|210.87.125.58|1080|Indonesia|Kediri|CV Brawijaya Giga Network|
-|13|113.240.99.148|65007|China|Qingyuan|No.293, Wanbao Avenue|
-|14|152.26.229.86|9443|United States|Concord|MCNC|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
-|18|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|72.10.164.178|24437|Canada|Montreal|GloboTech Communications|
+|3|2.59.181.125|19056|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|210.87.125.58|1080|Indonesia|Kediri|CV Brawijaya Giga Network|
+|7|31.128.69.121|8080|Ukraine|Kyiv|PRIVATE JOINT STOCK COMPANY "DATAGROUP"|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|11|116.198.234.189|58080|China|Beijing|CHINATELECOM Jiangsu Suqian IDC network|
+|12|152.26.229.86|9443|United States|Concord|MCNC|
+|13|83.54.10.24|3128|Spain|León|Telefonica de Espana SAU|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|154.73.29.129|8080|Libya|Tripoli|Rawafed|
+|16|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|113.240.99.148|65007|China|Qingyuan|No.293, Wanbao Avenue|
+|18|114.169.212.252|443|Japan|Aioichō|NTT Communications Corporation|
+|19|67.43.227.227|32927|Canada|Montreal|GloboTech Communications|
 |20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
