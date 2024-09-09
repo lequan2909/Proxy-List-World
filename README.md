@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|4|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|7|45.91.237.170|8085|Poland|Warsaw|Stark Industries Solutions LTD|
-|8|27.71.175.203|5102|Vietnam|Duy Xuyên|Viettel Group|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|11|37.72.174.21|8090|United States|New York|HIVELOCITY, Inc.|
-|12|152.26.231.86|9443|United States|Concord|MCNC|
-|13|72.10.164.178|16069|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.91|6369|Canada|Montreal|GloboTech Communications|
-|15|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|16|67.43.227.226|12859|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|16069|Canada|Montreal|GloboTech Communications|
-|18|203.104.34.144|3128|China|Guangzhou|Fuzhou|
-|19|67.43.228.253|32081|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.34|9443|United States|Concord|MCNC|
+|4|3.1.220.221|8118|Singapore|Singapore|Amazon Technologies Inc.|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|171.224.189.177|5102|Vietnam|Hanoi|Viettel Corporation|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|103.68.214.19|8080|Indonesia|Tangerang|PT Media Grasi Internet|
+|12|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|13|2.59.181.125|19056|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
+|14|103.178.21.91|3125|Indonesia|Sumberpucung|PT Trisna Mega Abadi|
+|15|27.71.175.203|5102|Vietnam|Duy Xuyên|Viettel Group|
+|16|103.133.27.197|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|17|83.54.10.24|3128|Spain|León|Telefonica de Espana SAU|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|20|103.165.157.37|3125|Indonesia|Taman|MEGADATA-ISP|
 
 
 
