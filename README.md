@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5574** proxies at the latest update. Usable proxies are below.
+> Scraper found **5357** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|63|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|949|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|732|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|217|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3387|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|45.91.237.170|8085|Poland|Warsaw|Stark Industries Solutions LTD|
-|6|103.133.26.126|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|7|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|103.199.117.101|8080|Indonesia|Bumiayu|PT Hepra Teknologi Indonesia|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|103.172.17.51|8080|Indonesia|Ciamis|PT Media Access Telematika|
-|12|152.26.231.83|9443|United States|Concord|MCNC|
-|13|152.26.231.42|9443|United States|Concord|MCNC|
-|14|152.26.231.93|9443|United States|Concord|MCNC|
-|15|152.26.229.34|9443|United States|Concord|MCNC|
-|16|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|17|45.91.237.170|8085|Poland|Warsaw|Stark Industries Solutions LTD|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|177.115.155.191|8085|Brazil|Santo André|Vivo|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|4|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|7|45.91.237.170|8085|Poland|Warsaw|Stark Industries Solutions LTD|
+|8|27.71.175.203|5102|Vietnam|Duy Xuyên|Viettel Group|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|11|37.72.174.21|8090|United States|New York|HIVELOCITY, Inc.|
+|12|152.26.231.86|9443|United States|Concord|MCNC|
+|13|72.10.164.178|16069|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.91|6369|Canada|Montreal|GloboTech Communications|
+|15|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|16|67.43.227.226|12859|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|16069|Canada|Montreal|GloboTech Communications|
+|18|203.104.34.144|3128|China|Guangzhou|Fuzhou|
+|19|67.43.228.253|32081|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.34|9443|United States|Concord|MCNC|
 
 
 
