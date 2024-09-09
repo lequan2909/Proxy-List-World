@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|110.78.143.119|8080|Thailand|Bang Rak|CAT-BB|
 |3|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|6|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|7|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|8|203.189.153.19|8083|Cambodia|Phnom Penh|ONLINE|
-|9|152.26.231.94|9443|United States|Concord|MCNC|
-|10|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|11|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|12|72.10.160.174|14979|Canada|Montreal|GloboTech Communications|
-|13|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|152.26.231.42|9443|United States|Concord|MCNC|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|72.10.160.174|14979|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|28721|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|3421|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.171|6903|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|15327|Canada|Montreal|GloboTech Communications|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|9|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|36.67.7.74|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
+|11|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|12|43.167.242.71|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|103.153.62.155|8080|Indonesia|Jakarta|IMEDIANET|
+|15|88.119.139.237|53281|Lithuania|Klaipėda|Telia Lietuva|
+|16|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|17|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|18|152.26.231.94|9443|United States|Concord|MCNC|
+|19|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|20|103.139.98.157|8080|Indonesia|Bandaragung|Digital Network Setiawan|
 
 
 
