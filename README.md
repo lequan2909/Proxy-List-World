@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|6|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
-|9|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|11|42.113.88.14|8080|Vietnam|Vĩnh Long|FPT Telecom Company|
-|12|67.43.236.20|4325|Canada|Montreal|GloboTech Communications|
-|13|152.26.229.93|9443|United States|Concord|MCNC|
-|14|152.26.231.93|9443|United States|Concord|MCNC|
-|15|103.48.68.30|83|India|Hyderabad|Country Online Services PVT LTD|
-|16|69.160.223.129|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
-|17|103.75.96.70|8080|Indonesia|Bandung|MORATELINDO|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|72.10.164.178|8003|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|103.159.194.241|8080|Indonesia|Welahan|PT Giga Digital Nusantara|
+|4|103.31.241.210|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
+|5|202.93.244.98|8080|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
+|6|103.154.230.100|8080|Indonesia|Lamongan|DIGITNET|
+|7|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|8|152.26.231.93|9443|United States|Concord|MCNC|
+|9|152.26.229.93|9443|United States|Concord|MCNC|
+|10|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|103.139.98.157|8080|Indonesia|Bandaragung|Digital Network Setiawan|
+|12|103.165.155.67|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|210.45.70.92|15893|China|Hefei|USTC1|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|179.189.236.201|20183|Brazil|São Paulo|America-NET Ltda.|
+|17|103.22.99.93|7777|Indonesia|Magetan|KHALISTAGROUP|
+|18|72.10.160.170|6597|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|30715|Canada|Montreal|GloboTech Communications|
+|20|103.35.109.205|58080|Bangladesh|Dhaka|Ranks ITT|
 
 
 
