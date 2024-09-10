@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|6|46.17.249.66|35782|Kazakhstan|Kostanay|Eurasia-Star LLP|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|24.181.66.92|8080|United States|McDonough|Charter Communications|
 |7|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|8|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|8|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
+|9|24.181.66.92|8080|United States|McDonough|Charter Communications|
 |10|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|152.26.229.83|9443|United States|Concord|MCNC|
-|12|152.26.229.86|9443|United States|Concord|MCNC|
-|13|67.43.227.227|31083|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|22187|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|12351|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|22187|Canada|Montreal|GloboTech Communications|
-|17|152.26.231.94|9443|United States|Concord|MCNC|
-|18|72.10.164.178|22187|Canada|Montreal|GloboTech Communications|
-|19|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|20|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
+|14|152.26.229.83|9443|United States|Concord|MCNC|
+|15|177.73.186.12|8080|Brazil|Videira|UNIFIQUE TELECOMUNICACOES S/A|
+|16|72.10.164.178|24985|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|24985|Canada|Montreal|GloboTech Communications|
+|18|123.103.51.22|3128|China|Beijing|IDC, China Telecommunications Corporation|
+|19|72.10.164.178|24985|Canada|Montreal|GloboTech Communications|
+|20|152.26.231.94|9443|United States|Concord|MCNC|
 
 
 
