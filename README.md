@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 |4|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|119.76.142.247|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|36.64.206.107|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|202.5.36.152|5020|Bangladesh|Comilla|BBTS-NEW|
-|18|102.66.222.137|8080|South Africa|Sebokeng|HERO TELECOMS (PTY) LTD|
-|19|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|72.10.160.170|3539|Canada|Montreal|GloboTech Communications|
+|5|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|6|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
+|7|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|8|152.53.67.93|3128|Austria|Vienna|ANEXIA Internetdienstleistungs GmbH|
+|9|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|27.72.244.228|8080|Vietnam|Hanoi|Newass2011xDSLHN|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|14|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
+|15|42.113.88.14|8080|Vietnam|Vĩnh Long|FPT Telecom Company|
+|16|164.90.136.32|999|United States|Clifton|DigitalOcean, LLC|
+|17|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|18|103.243.177.90|8080|Indonesia|Kalicari|Universitas Katolik Soegijapranata|
+|19|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|20|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
 
 
 
