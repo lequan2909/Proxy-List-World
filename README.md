@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|152.26.229.83|9443|United States|Concord|MCNC|
-|7|152.26.229.47|9443|United States|Concord|MCNC|
-|8|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|9|113.192.48.90|8090|Indonesia|Batu|PT.Global Media Data Prima|
-|10|152.26.229.86|9443|United States|Concord|MCNC|
-|11|103.234.159.5|8080|India|Bengaluru|MWPL|
-|12|67.43.227.226|1293|Canada|Montreal|GloboTech Communications|
-|13|152.26.231.93|9443|United States|Concord|MCNC|
-|14|154.73.111.133|1981|Libya|Tripoli|Trans-Sahara IT & Communication|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|5|152.26.229.86|9443|United States|Concord|MCNC|
+|6|152.26.231.93|9443|United States|Concord|MCNC|
+|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|67.43.227.227|17435|Canada|Montreal|GloboTech Communications|
+|9|103.159.194.191|3128|Indonesia|Demak|PT Giga Digital Nusantara|
+|10|67.43.227.227|17435|Canada|Montreal|GloboTech Communications|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|152.26.231.86|9443|United States|Concord|MCNC|
+|13|152.26.229.46|9443|United States|Concord|MCNC|
+|14|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
 |15|67.43.227.227|17435|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|24461|Canada|Montreal|GloboTech Communications|
-|17|118.117.189.141|8089|China|Muping|Chinanet|
-|18|103.59.45.89|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|19|103.88.113.202|8080|Vietnam|Hanoi|HTCITC|
-|20|72.10.164.178|27951|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|7635|Canada|Montreal|GloboTech Communications|
+|17|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|18|67.43.227.230|10207|Canada|Montreal|GloboTech Communications|
+|19|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|20|67.43.227.227|17435|Canada|Montreal|GloboTech Communications|
 
 
 
