@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|6|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
 |7|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|8|122.54.165.123|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|9|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|8|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|9|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
 |10|152.26.229.86|9443|United States|Concord|MCNC|
 |11|152.26.229.93|9443|United States|Concord|MCNC|
 |12|152.26.229.42|9443|United States|Concord|MCNC|
-|13|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
-|14|58.69.125.145|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|15|72.10.164.178|25451|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|30151|Canada|Montreal|GloboTech Communications|
-|17|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|72.10.164.178|25451|Canada|Montreal|GloboTech Communications|
-|20|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|36.93.130.219|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|14|103.146.185.139|1111|Indonesia|Wonogiri|YAMNET|
+|15|152.26.229.83|9443|United States|Concord|MCNC|
+|16|67.43.227.227|16565|Canada|Montreal|GloboTech Communications|
+|17|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|113.240.99.148|65007|China|Qingyuan|No.293, Wanbao Avenue|
+|20|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
 
 
 
