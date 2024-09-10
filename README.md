@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|152.26.229.86|9443|United States|Concord|MCNC|
-|5|152.26.229.42|9443|United States|Concord|MCNC|
-|6|152.26.231.94|9443|United States|Concord|MCNC|
-|7|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|8|152.26.231.42|9443|United States|Concord|MCNC|
-|9|67.43.227.228|3281|Canada|Montreal|GloboTech Communications|
-|10|152.26.229.46|9443|United States|Concord|MCNC|
-|11|67.43.227.227|9427|Canada|Montreal|GloboTech Communications|
-|12|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
+|3|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|10|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|152.26.231.94|9443|United States|Concord|MCNC|
+|12|152.26.229.42|9443|United States|Concord|MCNC|
 |13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|15|72.10.164.178|13743|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|9427|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|9427|Canada|Montreal|GloboTech Communications|
+|14|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|15|152.26.229.46|9443|United States|Concord|MCNC|
+|16|152.26.231.42|9443|United States|Concord|MCNC|
+|17|112.17.10.41|3128|China|Hangzhou|China Mobile Communications Corporation|
 |18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|152.26.231.83|9443|United States|Concord|MCNC|
-|20|72.10.164.178|13743|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
