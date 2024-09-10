@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|1|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
 |4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|6|220.247.162.70|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|103.174.236.96|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|10|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|103.176.97.223|3127|Indonesia|Purwakarta|PT Global Sarana Elektronika|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|103.41.250.97|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|9|103.142.165.193|58080|India|Bengaluru|All Time Tele Infra Pvt Ltd|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|103.46.8.11|8088|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
 |12|160.248.11.213|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|152.26.231.94|9443|United States|Concord|MCNC|
-|15|177.107.198.14|8080|Brazil|São Paulo|HIT Telecomunicações Ltda.|
-|16|152.26.229.83|9443|United States|Concord|MCNC|
-|17|103.41.250.97|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|18|210.45.70.92|15893|China|Hefei|USTC1|
-|19|67.43.227.226|14239|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|12199|Canada|Montreal|GloboTech Communications|
+|13|103.126.172.245|8080|Indonesia|Bandar Lampung|MEGARAP|
+|14|220.247.162.70|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
+|15|103.159.194.241|8080|Indonesia|Welahan|PT Giga Digital Nusantara|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
+|18|49.157.62.205|8181|Philippines|Makati City|Eastern Telecommunications Philippines, Inc.|
+|19|36.92.162.220|8080|Indonesia|Tuban Timur|Telekomunikasi Indonesia|
+|20|210.45.70.92|15893|China|Hefei|USTC1|
 
 
 
