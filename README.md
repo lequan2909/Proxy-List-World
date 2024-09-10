@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|2|36.73.132.193|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|7|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|8|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|7|152.26.229.47|9443|United States|Concord|MCNC|
+|8|38.156.75.45|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 |9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|103.177.199.29|1111|Indonesia|Bekasi|PT Eyza Kausa Sinergi Abadi|
-|11|152.26.229.47|9443|United States|Concord|MCNC|
-|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|72.10.160.170|24267|Canada|Montreal|GloboTech Communications|
-|14|152.26.231.86|9443|United States|Concord|MCNC|
-|15|152.26.231.94|9443|United States|Concord|MCNC|
-|16|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|17|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|1.32.59.217|47045|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|19|152.26.231.83|9443|United States|Concord|MCNC|
-|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|152.26.231.94|9443|United States|Concord|MCNC|
+|11|152.26.231.86|9443|United States|Concord|MCNC|
+|12|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|152.26.231.83|9443|United States|Concord|MCNC|
+|15|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|16|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|106.227.87.11|3128|China|Taohua|China Telecom|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|20|157.230.89.122|18084|United States|North Bergen|DigitalOcean, LLC|
 
 
 
