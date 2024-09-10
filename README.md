@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|496|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|496|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|496|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|424|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|424|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|424|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|191.97.19.86|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
-|11|36.80.25.14|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|12|179.106.22.130|9090|Brazil|Patrocínio|OnNet Telecomunicações LTDA|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|7|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|8|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|144.86.187.54|3129|United States|Malden|Charles River Operation|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|94.183.230.166|3128|Iran|Tehran|Aria Shatel PJSC|
-|18|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|19|46.166.165.33|4000|Lithuania|Šiauliai|Cherry Servers|
-|20|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|15|103.68.214.22|8080|Indonesia|Tangerang|PT Media Grasi Internet|
+|16|144.86.187.58|3129|United States|Malden|Charles River Operation|
+|17|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|18|191.97.19.86|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
+|19|13.80.177.101|8118|Netherlands|Amsterdam|Microsoft Corporation|
+|20|1.52.48.25|11111|Vietnam|Vĩnh Phúc Province|Vietnam Internet Network Information Center|
 
 
 
