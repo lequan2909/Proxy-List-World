@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|395|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|395|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|395|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|3|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
-|4|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|144.86.187.36|3129|United States|Malden|Charles River Operation|
-|7|139.84.211.23|3129|India|Bengaluru|The Constant Company, LLC|
-|8|144.86.187.60|3129|United States|Malden|Charles River Operation|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|49.0.3.125|7777|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|11|139.84.211.23|3129|India|Bengaluru|The Constant Company, LLC|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|181.13.246.140|999|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|14|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|15|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|18|103.139.126.234|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|19|93.190.14.204|8080|Turkey|Osmangazi|Kobikom Telekomunikasyon Bilisim Hizmetler SAN VE TIC AS|
-|20|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
+|5|144.86.187.39|3129|United States|Malden|Charles River Operation|
+|6|144.86.187.53|3129|United States|Malden|Charles River Operation|
+|7|144.86.187.48|3129|United States|Malden|Charles River Operation|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|69.160.223.241|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
+|10|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
+|11|191.242.224.185|3100|Brazil|Sorocaba|DIRECT LAN TELECOMUNICAÇÕES SOROCABA LTDA|
+|12|181.13.246.140|999|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|13|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|67.43.228.253|17557|Canada|Montreal|GloboTech Communications|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|17|144.86.187.36|3129|United States|Malden|Charles River Operation|
+|18|69.160.223.241|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
+|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|20|72.10.164.178|6723|Canada|Montreal|GloboTech Communications|
 
 
 
