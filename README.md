@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |7|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|8|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|11|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|12|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|13|112.17.10.41|3128|China|Hangzhou|China Mobile Communications Corporation|
-|14|160.248.11.206|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|144.86.187.35|3129|United States|Malden|Charles River Operation|
-|17|152.26.229.47|9443|United States|Concord|MCNC|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|72.10.164.178|8439|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|8439|Canada|Montreal|GloboTech Communications|
+|8|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|160.248.11.206|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|11|163.47.210.74|8080|India|Bengaluru|Microsense Pvt. Limited|
+|12|152.26.229.47|9443|United States|Concord|MCNC|
+|13|72.10.164.178|8439|Canada|Montreal|GloboTech Communications|
+|14|152.26.229.86|9443|United States|Concord|MCNC|
+|15|173.249.34.184|3128|Germany|Nuremberg|Contabo GmbH|
+|16|112.17.10.41|3128|China|Hangzhou|China Mobile Communications Corporation|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|103.35.109.205|58080|Bangladesh|Dhaka|Ranks ITT|
+|20|103.139.98.157|8080|Indonesia|Bandaragung|Digital Network Setiawan|
 
 
 
