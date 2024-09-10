@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|190.53.46.11|38525|Nicaragua|Ticuantepe|Amnet Telecomunicaciones S.A.|
-|7|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|11|103.159.194.241|8080|Indonesia|Welahan|PT Giga Digital Nusantara|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|103.154.230.100|8080|Indonesia|Lamongan|DIGITNET|
+|5|103.22.99.93|7777|Indonesia|Magetan|KHALISTAGROUP|
+|6|103.159.194.241|8080|Indonesia|Welahan|PT Giga Digital Nusantara|
+|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|103.182.79.141|8080|Indonesia|Gresik|PT Cybernet Data Multimedia|
+|9|168.194.248.18|8080|Brazil|Goiânia|CANAA TELECOMUNICAÇÕES LTDA - ME|
+|10|190.53.46.11|38525|Nicaragua|Ticuantepe|Amnet Telecomunicaciones S.A.|
+|11|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
 |12|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|13|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|14|152.26.229.47|9443|United States|Concord|MCNC|
-|15|103.31.241.210|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
-|16|138.59.227.20|999|Paraguay|Ayolas|Aranda Cardozo Lider Ramon|
-|17|200.178.4.153|8080|Brazil|São Paulo|Claro S.A|
-|18|152.26.229.34|9443|United States|Concord|MCNC|
-|19|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
-|20|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|13|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|152.26.229.47|9443|United States|Concord|MCNC|
+|16|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|17|75.25.159.161|3128|United States|San Francisco|AT&T Services, Inc.|
+|18|45.224.22.30|999|Ecuador|Riobamba|Ufinet Panama S.A.|
+|19|152.26.229.34|9443|United States|Concord|MCNC|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
