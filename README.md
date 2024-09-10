@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|160.248.91.126|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.248.91.126|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|5|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|6|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |8|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 |9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|11|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|103.231.236.14|8080|Indonesia|Pemalang|PT Level Indodata Teknologi|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|103.28.114.157|66|Indonesia|Malang|PT Lintas Data Prima|
-|17|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|18|81.19.141.2|3128|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|11|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|14|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|15|103.87.212.140|8999|Bangladesh|Dhaka|Arifuzzaman Auni|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|120.28.220.26|8080|Philippines|Cagayan de Oro|Globe Telecom|
 |20|24.181.66.92|8080|United States|McDonough|Charter Communications|
 
 
