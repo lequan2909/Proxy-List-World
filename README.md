@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|36.73.132.193|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|103.178.194.114|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|8|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|200.39.120.78|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|13|182.253.68.150|8080|Indonesia|Jakarta Pusat|BIZNET|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|152.26.229.34|9443|United States|Concord|MCNC|
-|18|67.43.227.227|26841|Canada|Montreal|GloboTech Communications|
-|19|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|6|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|103.211.107.230|8080|Indonesia|Lampung|PT Atmega Telecomindo Nusantara|
+|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|45.233.67.226|999|Guatemala|Jalapa|Conectividad Y Tecnologia S.A.|
+|12|106.227.87.11|3128|China|Taohua|China Telecom|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|152.26.229.86|9443|United States|Concord|MCNC|
+|15|152.26.229.34|9443|United States|Concord|MCNC|
+|16|72.10.164.178|17425|Canada|Montreal|GloboTech Communications|
+|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
 
