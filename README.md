@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|10|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|125.25.33.41|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
 |12|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|15|180.250.189.59|8581|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|20.184.18.156|31280|Singapore|Singapore|Microsoft Corporation|
-|18|15.204.161.192|18080|United States|Reston|OVH SAS|
-|19|72.10.164.178|26937|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.93|9443|United States|Concord|MCNC|
+|13|51.21.145.123|80|Sweden|Stockholm|Amazon.com, Inc.|
+|14|20.184.18.156|31280|Singapore|Singapore|Microsoft Corporation|
+|15|152.26.231.93|9443|United States|Concord|MCNC|
+|16|36.67.114.94|8187|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|17|15.204.161.192|18080|United States|Reston|OVH SAS|
+|18|152.26.229.93|9443|United States|Concord|MCNC|
+|19|46.19.112.62|8890|Russia|Moscow|SVYAZ-ENERGO telecommunications company|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
