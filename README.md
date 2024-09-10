@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|8|20.184.18.156|80|Singapore|Singapore|Microsoft Corporation|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|144.86.187.55|3129|United States|Malden|Charles River Operation|
-|12|144.86.187.54|3129|United States|Malden|Charles River Operation|
-|13|144.86.187.49|3129|United States|Malden|Charles River Operation|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|144.86.187.62|3129|United States|Malden|Charles River Operation|
-|16|160.19.231.226|8080|Indonesia|Jakarta|PT TELSAR JAYA NETWORK TEKNOLOGY|
-|17|144.86.187.55|3129|United States|Malden|Charles River Operation|
-|18|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|8|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|10|209.14.113.12|999|Colombia|Cértegui|AGIS|
+|11|15.235.171.214|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|144.86.187.49|3129|United States|Malden|Charles River Operation|
+|15|116.254.99.14|8080|Indonesia|Jakarta|SpaceX Starlink|
+|16|144.86.187.46|3129|United States|Malden|Charles River Operation|
+|17|103.165.155.69|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|18|182.253.102.67|3128|Indonesia|Cikampek|BIZNET|
 |19|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|20|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
