@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|5|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|12|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|5.189.172.158|3128|Germany|Nuremberg|Contabo GmbH|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|6|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|94.183.230.166|3128|Iran|Tehran|Aria Shatel PJSC|
+|13|144.86.187.42|3129|United States|Malden|Charles River Operation|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|17|62.171.161.88|2018|Germany|Nuremberg|Contabo GmbH|
-|18|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|19|27.64.60.205|5102|Vietnam|Ho Chi Minh City|Viettel Group|
-|20|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|16|144.86.187.38|3129|United States|Malden|Charles River Operation|
+|17|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|18|119.47.90.230|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|19|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|20|27.64.60.205|5102|Vietnam|Ho Chi Minh City|Viettel Group|
 
 
 
