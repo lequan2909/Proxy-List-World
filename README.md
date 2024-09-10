@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|7|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|11|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
-|12|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|13|187.188.169.169|8080|Mexico|Santa Cruz Huitziltepec|Total Play Telecomunicaciones SA De CV|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|16|152.26.229.93|9443|United States|Concord|MCNC|
-|17|103.63.26.254|8080|Indonesia|Tangerang|PT Global Media Data Prima|
-|18|67.43.227.227|26955|Canada|Montreal|GloboTech Communications|
-|19|173.249.34.184|3128|Germany|Nuremberg|Contabo GmbH|
-|20|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|36.66.130.147|8080|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
+|7|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|8|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|9|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|10|45.70.202.232|999|Ecuador|Quito|Ufinet Panama S.A.|
+|11|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|12|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|13|103.17.150.49|8080|Bangladesh|Dhaka|SYSSOLUTION|
+|14|152.26.229.93|9443|United States|Concord|MCNC|
+|15|67.43.227.227|26955|Canada|Montreal|GloboTech Communications|
+|16|152.26.229.83|9443|United States|Concord|MCNC|
+|17|152.26.229.86|9443|United States|Concord|MCNC|
+|18|38.252.216.21|999|Peru|Lima|Telcom Mikrotik Peru S.A.C.|
+|19|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
+|20|67.43.227.227|26955|Canada|Montreal|GloboTech Communications|
 
 
 
