@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|128.90.145.151|8118|Belgium|Brussels|Powerhouse Management, Inc.|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|144.86.187.55|3129|United States|Malden|Charles River Operation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|20.184.18.156|80|Singapore|Singapore|Microsoft Corporation|
+|8|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|9|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
 |14|144.86.187.62|3129|United States|Malden|Charles River Operation|
-|15|144.86.187.56|3129|United States|Malden|Charles River Operation|
-|16|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|19|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|20|91.192.33.52|43801|Czechia|Chomutov|ISP Alliance a.s.|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|17|144.86.187.58|3129|United States|Malden|Charles River Operation|
+|18|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|20|160.248.11.213|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
