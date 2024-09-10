@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.248.11.225|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|49.48.71.126|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|4|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|4|160.248.11.225|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|6|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|103.176.96.226|8082|Indonesia|Purwakarta|PT Global Sarana Elektronika|
-|9|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|8|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|9|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |11|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|12|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
-|13|182.253.39.242|8080|Indonesia|Jakarta Pusat|BIZNET|
-|14|152.26.231.83|9443|United States|Concord|MCNC|
-|15|72.10.164.178|12871|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|72.10.160.173|14083|Canada|Montreal|GloboTech Communications|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|144.86.187.61|3129|United States|Malden|Charles River Operation|
-|20|67.43.227.227|6225|Canada|Montreal|GloboTech Communications|
+|12|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|13|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|15|204.199.120.60|8080|Colombia|Bogotá|Sistemas Telecomunicaciones Y Biomedicos De Colombia SAS|
+|16|72.10.160.173|27295|Canada|Montreal|GloboTech Communications|
+|17|152.26.231.83|9443|United States|Concord|MCNC|
+|18|67.43.227.226|26883|Canada|Montreal|GloboTech Communications|
+|19|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
