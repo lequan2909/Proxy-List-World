@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|8|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|11|20.169.242.13|3128|United States|Boydton|Microsoft Corporation|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|144.86.187.62|3129|United States|Malden|Charles River Operation|
-|16|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|17|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|18|206.84.104.126|8080|Indonesia|Jakarta|AGIS|
-|19|119.92.255.3|3128|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|10|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|11|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|81.19.141.2|3128|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|201.124.207.211|80|Mexico|Miguel Hidalgo|Uninet S.A. de C.V.|
+|15|171.228.165.118|48344|Vietnam|Hanoi|Viettel Corporation|
+|16|144.86.187.49|3129|United States|Malden|Charles River Operation|
+|17|144.86.187.38|3129|United States|Malden|Charles River Operation|
+|18|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|19|91.192.33.52|43801|Czechia|Chomutov|ISP Alliance a.s.|
+|20|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 
 
 
