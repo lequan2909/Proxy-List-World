@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|152.26.231.83|9443|United States|Concord|MCNC|
-|8|46.19.112.62|8890|Russia|Moscow|SVYAZ-ENERGO telecommunications company|
-|9|190.128.195.58|999|Paraguay|Luque|Telecel S.A.|
-|10|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|67.43.227.227|9367|Canada|Montreal|GloboTech Communications|
-|12|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|152.26.229.34|9443|United States|Concord|MCNC|
-|14|152.26.231.93|9443|United States|Concord|MCNC|
-|15|72.10.160.174|29385|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|1459|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|1459|Canada|Montreal|GloboTech Communications|
+|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.195.65.103|80|Indonesia|Tigaraksa|Indonesia Network Information Center|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|114.5.199.197|80|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|12|103.143.169.230|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|13|223.25.110.228|3125|Indonesia|Surabaya|SinergiNet|
+|14|152.26.231.83|9443|United States|Concord|MCNC|
+|15|118.117.189.18|8089|China|Muping|Chinanet|
+|16|177.53.155.32|999|Peru|Lima|Moreno Yanoc Nemias Bernardo|
+|17|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |18|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|19|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|152.26.229.34|9443|United States|Concord|MCNC|
 
 
 
