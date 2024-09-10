@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|103.81.254.249|8080|Indonesia|Karawang|PT. Nusa Jaya Prasetyo|
-|6|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|5|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |7|152.26.231.93|9443|United States|Concord|MCNC|
-|8|67.43.227.226|13407|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.90|25745|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|15827|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|4365|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|15827|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.226|13407|Canada|Montreal|GloboTech Communications|
-|14|58.240.211.250|7890|China|Suzhou|CNC Group Jiangsu province network|
-|15|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|16|67.43.227.228|8561|Canada|Montreal|GloboTech Communications|
-|17|103.234.159.5|8080|India|Bengaluru|MWPL|
-|18|67.43.236.19|23339|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|11949|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|8|72.10.164.178|8989|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|8989|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.171|10751|Canada|Montreal|GloboTech Communications|
+|11|103.139.98.157|8080|Indonesia|Bandaragung|Digital Network Setiawan|
+|12|72.10.160.90|8507|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|4365|Canada|Montreal|GloboTech Communications|
+|14|27.147.159.221|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|15|103.147.73.50|7777|Indonesia|Kediri|ALFATINDO|
+|16|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
+|17|58.240.211.250|7890|China|Suzhou|CNC Group Jiangsu province network|
+|18|190.82.105.122|43949|Chile|La Cisterna|Telefonica Empresas|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
