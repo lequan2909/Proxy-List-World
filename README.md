@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|9|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|10|172.104.74.14|8181|Japan|Tokyo|Akamai Technologies|
-|11|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|12|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|152.26.229.86|9443|United States|Concord|MCNC|
-|14|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|15|103.90.233.210|3128|Vietnam|Quận Mười Một|WEBPANDA|
-|16|72.10.160.173|20975|Canada|Montreal|GloboTech Communications|
-|17|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|18|67.43.227.227|28047|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.86|9443|United States|Concord|MCNC|
-|20|152.26.229.42|9443|United States|Concord|MCNC|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|7|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
+|8|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|9|103.90.233.210|3128|Vietnam|Quận Mười Một|WEBPANDA|
+|10|160.248.190.245|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|152.26.231.86|9443|United States|Concord|MCNC|
+|12|152.26.229.47|9443|United States|Concord|MCNC|
+|13|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
+|15|67.43.227.227|28047|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|7081|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|7081|Canada|Montreal|GloboTech Communications|
+|18|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|19|72.10.160.91|32453|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|7081|Canada|Montreal|GloboTech Communications|
 
 
 
