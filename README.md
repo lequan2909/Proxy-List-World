@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|118.96.185.137|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|103.69.106.183|8181|Indonesia|Serang|PT. Berkat Dunia Digital Cikande|
-|10|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|11|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|13|201.131.239.233|999|Mexico|Fresnillo|Telecable del Mineral, S. A. de C.V.|
-|14|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|15|188.138.125.4|8080|Germany|Frankfurt am Main|velia.net Internetdienste GmbH|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|195.54.171.21|25299|Hong Kong|Hong Kong|M247 Europe SRL|
-|18|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|19|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|8|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|9|144.86.187.37|3129|United States|Malden|Charles River Operation|
+|10|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|11|49.0.3.125|7777|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|12|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|13|38.183.209.33|8080|Indonesia|Tangerang|PT. Putra Lebak Banten|
+|14|144.86.187.47|3129|United States|Malden|Charles River Operation|
+|15|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|16|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|185.236.182.3|18080|Colombia|Sibundoy|Hydra Soluciones Empresariales Ingeniería SAS|
+|19|67.43.227.227|28423|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|24631|Canada|Montreal|GloboTech Communications|
 
 
 
