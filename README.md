@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|5|103.17.213.102|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
 |6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|10|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|12|152.26.229.93|9443|United States|Concord|MCNC|
-|13|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
-|14|181.209.82.196|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|15|72.10.164.178|3511|Canada|Montreal|GloboTech Communications|
-|16|15.204.161.192|18080|United States|Reston|OVH SAS|
-|17|46.19.112.62|8890|Russia|Moscow|SVYAZ-ENERGO telecommunications company|
-|18|72.10.164.178|3511|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|27319|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.93|9443|United States|Concord|MCNC|
+|9|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|147.182.242.222|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|13|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|147.182.242.222|3128|United States|Santa Clara|DigitalOcean, LLC|
+|15|152.26.229.93|9443|United States|Concord|MCNC|
+|16|209.14.115.197|999|Colombia|Neiva|AGIS|
+|17|72.10.160.172|6431|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|11089|Canada|Montreal|GloboTech Communications|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|46.19.112.62|8890|Russia|Moscow|SVYAZ-ENERGO telecommunications company|
 
 
 
