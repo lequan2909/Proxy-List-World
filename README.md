@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
-|6|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|8|182.253.36.52|33128|Indonesia|Sukabumi|BIZNET|
-|9|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|10|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|11|152.26.229.86|9443|United States|Concord|MCNC|
-|12|180.191.59.191|8081|Philippines|Tarlac City|Globe Telecom|
-|13|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
-|14|72.10.164.178|16513|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.34|9443|United States|Concord|MCNC|
-|16|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|5|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|10|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|11|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|12|152.26.229.86|9443|United States|Concord|MCNC|
+|13|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|14|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|15|72.10.160.172|28691|Canada|Montreal|GloboTech Communications|
+|16|152.26.229.34|9443|United States|Concord|MCNC|
+|17|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|103.234.159.5|8080|India|Bengaluru|MWPL|
+|19|103.84.176.101|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|20|38.252.216.21|999|Peru|Lima|Telcom Mikrotik Peru S.A.C.|
 
 
 
