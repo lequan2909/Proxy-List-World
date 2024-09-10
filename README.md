@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|421|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|421|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|421|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|8|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|13|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|14|103.76.149.134|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|15|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|144.86.187.56|3129|United States|Malden|Charles River Operation|
-|19|103.68.214.22|8080|Indonesia|Tangerang|PT Media Grasi Internet|
-|20|201.124.207.211|80|Mexico|Miguel Hidalgo|Uninet S.A. de C.V.|
+|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|12|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|14|2.59.181.125|19056|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
+|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|201.124.207.211|80|Mexico|Miguel Hidalgo|Uninet S.A. de C.V.|
+|19|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|20|103.173.138.163|8080|Indonesia|Babat|PT Serayu Multi Connection|
 
 
 
