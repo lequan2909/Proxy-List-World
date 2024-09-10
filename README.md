@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|8|95.164.86.161|8080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|103.84.177.26|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|182.253.40.149|8080|Indonesia|Jakarta Pusat|BIZNET|
-|18|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|19|106.227.87.11|3128|China|Taohua|China Telecom|
-|20|152.26.229.42|9443|United States|Concord|MCNC|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|6|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|67.43.227.227|25181|Canada|Montreal|GloboTech Communications|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|160.248.190.244|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|182.253.68.150|8080|Indonesia|Jakarta Pusat|BIZNET|
+|20|117.68.38.152|20840|China|Hefei|China Telecom|
 
 
 
