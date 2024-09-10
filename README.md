@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|103.102.49.26|3128|Indonesia|Banjar Kerobokan|PT Aplikanusa Lintasarta|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|9|144.86.187.58|3129|United States|Malden|Charles River Operation|
-|10|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|11|160.19.231.226|8080|Indonesia|Jakarta|PT TELSAR JAYA NETWORK TEKNOLOGY|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|18|152.26.229.34|9443|United States|Concord|MCNC|
-|19|104.236.78.102|3128|United States|Clifton|DigitalOcean, LLC|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|103.78.215.253|8080|Indonesia|Jakarta|MORATELINDO|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|12|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|189.201.236.83|1515|Brazil|Nova Viçosa|GIGASAT SERVIÇOS DE PROCESSAMENTOS DE DADOS LTDA|
+|14|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|152.26.229.34|9443|United States|Concord|MCNC|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|20|152.26.231.93|9443|United States|Concord|MCNC|
 
 
 
