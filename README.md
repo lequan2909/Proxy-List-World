@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|72.10.160.170|31895|Canada|Montreal|GloboTech Communications|
-|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|7|72.10.160.171|17485|Canada|Montreal|GloboTech Communications|
-|8|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|9|152.26.229.34|9443|United States|Concord|MCNC|
-|10|103.234.34.38|8080|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
-|11|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|152.26.229.46|9443|United States|Concord|MCNC|
-|13|152.26.229.42|9443|United States|Concord|MCNC|
-|14|67.43.228.253|10015|Canada|Montreal|GloboTech Communications|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|72.10.164.178|22187|Canada|Montreal|GloboTech Communications|
-|17|112.198.179.57|8082|Philippines|Carmona|Globe Telecom|
-|18|32.142.206.26|9081|United States|Bolton|AT&T Services, Inc.|
-|19|72.10.160.170|31895|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|1291|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|7|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|8|177.93.59.71|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
+|9|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|11|72.10.160.171|17485|Canada|Montreal|GloboTech Communications|
+|12|2.59.181.125|19056|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
+|13|152.26.229.34|9443|United States|Concord|MCNC|
+|14|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|152.26.229.46|9443|United States|Concord|MCNC|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|103.90.233.210|3128|Vietnam|Quận Mười Một|WEBPANDA|
+|18|72.10.164.178|22187|Canada|Montreal|GloboTech Communications|
+|19|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|20|45.224.149.243|999|Ecuador|Quito|Ufinet Panama S.A.|
 
 
 
