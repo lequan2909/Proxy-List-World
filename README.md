@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
-|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|7|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|36.72.245.209|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|9|2.59.181.125|19056|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|12|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|103.84.176.100|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|14|103.184.66.37|8181|Indonesia|Pandeglang|PT Siber Tech Indonesia|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|6|36.72.245.209|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
+|10|103.153.135.58|8083|Indonesia|Tangerang|WMINET|
+|11|115.127.19.163|9090|Bangladesh|Dhaka|BRACNet Limited|
+|12|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
+|13|2.59.181.125|19056|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |15|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|16|42.200.124.211|8080|Hong Kong|Central|PCCW IMSBiz|
-|17|202.51.212.146|8080|Indonesia|Cibinong|PT. Sejahtera Globalindo|
+|16|190.187.163.2|999|Peru|Lima region|Americatel Peru S.A.|
+|17|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
 |18|152.26.229.46|9443|United States|Concord|MCNC|
 |19|152.26.231.42|9443|United States|Concord|MCNC|
-|20|165.16.27.42|1981|Libya|Benghazi|Aljeel Aljadeed For Technology|
+|20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
 
