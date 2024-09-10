@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |5|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|27.98.187.65|8080|Japan|Shimada|TOKAI Communications Corporation|
 |7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|103.70.93.77|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
-|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|103.158.27.88|1212|Indonesia|Sleman|PT Madina Solusi Indonesia|
-|13|144.86.187.59|3129|United States|Malden|Charles River Operation|
-|14|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|15|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|69.75.140.157|8080|United States|Los Angeles|Spectrum|
+|15|144.86.187.44|3129|United States|Malden|Charles River Operation|
 |16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |17|160.248.191.9|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|72.10.160.172|18273|Canada|Montreal|GloboTech Communications|
-|19|160.248.11.213|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|144.86.187.57|3129|United States|Malden|Charles River Operation|
+|18|160.248.11.213|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|72.10.160.172|7295|Canada|Montreal|GloboTech Communications|
+|20|212.110.188.207|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
 
 
 
