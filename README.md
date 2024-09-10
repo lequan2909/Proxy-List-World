@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|443|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|443|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|443|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 |5|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
 |6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|203.150.128.16|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|9|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|36.80.25.14|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|8|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
 |10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|43.167.241.243|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|12|124.106.66.194|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|13|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|14|27.64.60.205|5102|Vietnam|Ho Chi Minh City|Viettel Group|
-|15|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|16|178.212.48.80|8080|Poland|Zielona Góra|Lubuskie Sieci Swiatlowodowe Sp. z o. o.|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|15.204.161.192|18080|United States|Reston|OVH SAS|
-|19|36.64.27.57|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|20|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|12|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|13|103.83.178.222|8080|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|14|119.47.90.230|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|15|94.183.230.166|3128|Iran|Tehran|Aria Shatel PJSC|
+|16|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|17|144.86.187.50|3129|United States|Malden|Charles River Operation|
+|18|144.86.187.56|3129|United States|Malden|Charles River Operation|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
