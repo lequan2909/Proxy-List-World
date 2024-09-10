@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|160.248.91.126|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|8|24.181.66.92|8080|United States|McDonough|Charter Communications|
-|9|144.86.187.43|3129|United States|Malden|Charles River Operation|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|45.5.196.62|9898|Brazil|Cascavel|Rpnet Informatica Ltda - ME|
-|12|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|160.248.191.2|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|160.248.91.126|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|9|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|12|24.181.66.92|8080|United States|McDonough|Charter Communications|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
 |15|152.26.231.83|9443|United States|Concord|MCNC|
 |16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|122.54.135.155|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|19|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
+|17|45.5.196.62|9898|Brazil|Cascavel|Rpnet Informatica Ltda - ME|
+|18|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|15.204.161.192|18080|United States|Reston|OVH SAS|
 
 
 
