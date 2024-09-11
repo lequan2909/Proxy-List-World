@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|7|46.19.112.62|8890|Russia|Moscow|SVYAZ-ENERGO telecommunications company|
-|8|72.10.160.174|17901|Canada|Montreal|GloboTech Communications|
-|9|152.26.229.42|9443|United States|Concord|MCNC|
-|10|67.43.227.227|26819|Canada|Montreal|GloboTech Communications|
-|11|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|12|72.10.164.178|7903|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|7903|Canada|Montreal|GloboTech Communications|
-|14|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|72.10.164.178|7903|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|32405|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.173|22105|Canada|Montreal|GloboTech Communications|
-|18|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|152.26.231.86|9443|United States|Concord|MCNC|
-|20|67.43.227.227|26819|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|15.235.171.254|8888|Singapore|Singapore|OVH Singapore PTE. LTD|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|11|103.42.120.31|8080|Indonesia|Jakarta|PT Transhybrid Communication|
+|12|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|14|72.10.160.174|7745|Canada|Montreal|GloboTech Communications|
+|15|41.79.33.170|8080|Botswana|Gaborone|Electro Metic Enterprises PTY LTD|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|72.10.164.178|22493|Canada|Montreal|GloboTech Communications|
+|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
 
