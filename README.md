@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5772** proxies at the latest update. Usable proxies are below.
+> Scraper found **5836** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|148|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|897|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|961|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|199|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3570|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|4|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
-|5|49.48.81.197|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|6|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|103.231.239.137|58080|Bangladesh|Dhaka|Carnival Internet|
-|8|24.106.221.230|53281|United States|Wilmington|Spectrum|
-|9|45.88.192.56|8080|United States|Los Angeles|DM-HK|
-|10|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|170.245.132.82|9000|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
-|13|112.198.179.57|8082|Philippines|Carmona|Globe Telecom|
-|14|189.201.153.89|999|Mexico|Tuxtla Gutiérrez|IP Matrix, S.A. de C.V.|
-|15|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
-|16|106.227.87.11|3128|China|Taohua|China Telecom|
-|17|103.147.247.101|8080|Indonesia|Tangerang|PLBNET|
-|18|72.10.160.170|5723|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.83|9443|United States|Concord|MCNC|
-|20|103.172.70.153|8080|Indonesia|Karangampel|AZNET|
+|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|3|116.111.236.209|5108|Vietnam|Tam Kỳ|Viettel Corporation|
+|4|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|7|67.43.227.226|2131|Canada|Montreal|GloboTech Communications|
+|8|106.227.87.11|3128|China|Taohua|China Telecom|
+|9|72.10.160.170|23961|Canada|Montreal|GloboTech Communications|
+|10|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|12|61.118.38.234|60808|Japan|Chiyoda|Open Computer Network|
+|13|72.10.160.171|1053|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|22623|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|18885|Canada|Montreal|GloboTech Communications|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|15.204.161.192|18080|United States|Reston|OVH SAS|
+|18|72.10.164.178|18885|Canada|Montreal|GloboTech Communications|
+|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|20|200.116.230.212|8080|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P|
 
 
 
