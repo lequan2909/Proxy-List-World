@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
-|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|4|8.222.136.49|3333|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|7|103.224.124.53|1111|Indonesia|Bogor|PT Curug Lintas Indonesia|
-|8|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|12|152.26.231.42|9443|United States|Concord|MCNC|
-|13|152.26.231.83|9443|United States|Concord|MCNC|
-|14|8.222.136.49|3333|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|17|152.26.229.86|9443|United States|Concord|MCNC|
-|18|67.43.236.20|15425|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.251|19931|Canada|Montreal|GloboTech Communications|
-|20|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|7|103.176.96.104|8082|Indonesia|Purwakarta|PT Global Sarana Elektronika|
+|8|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|103.227.61.51|8899|Australia|Sydney|Origin Net Pty Ltd|
+|11|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|12|36.95.78.156|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|13|91.136.142.155|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
+|14|103.84.176.101|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|15|67.43.227.227|16873|Canada|Montreal|GloboTech Communications|
+|16|152.26.231.42|9443|United States|Concord|MCNC|
+|17|152.26.231.83|9443|United States|Concord|MCNC|
+|18|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|19|147.45.48.151|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
+|20|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
 
 
 
