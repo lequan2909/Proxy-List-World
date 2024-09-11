@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|36.72.245.209|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|4|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
-|5|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|117.247.233.50|8080|India|Ghaziabad|BSNL Internet|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|36.72.245.209|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
 |7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|177.73.68.150|8080|Brazil|Brasília|OPENTEL Comércio e Serviços Ltda|
+|8|203.82.39.231|3128|Philippines|Pasig|WifiCity, Inc|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
 |10|163.5.142.238|3128|France|Paris|IONIS|
-|11|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|152.26.231.83|9443|United States|Concord|MCNC|
-|15|152.26.231.94|9443|United States|Concord|MCNC|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|160.248.11.206|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|154.73.29.33|8080|Libya|Tripoli|Rawafed|
+|14|85.89.172.66|8080|Poland|Lodz|TOYA Sp. z o.o.|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|17|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|200.111.232.94|8080|Chile|Santiago|Entel Chile S.A.|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|152.26.231.94|9443|United States|Concord|MCNC|
 
 
 
