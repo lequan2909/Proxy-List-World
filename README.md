@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|396|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|396|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|396|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|103.28.113.22|8080|Indonesia|Babat|PT Lintas Data Prima|
-|4|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|6|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|49.49.188.43|8080|Thailand|Wang Noi|Triple T Broadband Public Company Limited|
-|12|106.227.87.11|3128|China|Taohua|China Telecom|
-|13|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
-|15|72.10.164.178|11751|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|12969|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.92|16451|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|15993|Canada|Montreal|GloboTech Communications|
-|19|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
-|20|72.10.164.178|11751|Canada|Montreal|GloboTech Communications|
+|3|151.80.199.88|3128|France|Roubaix|OVH SAS|
+|4|103.156.248.55|8080|Indonesia|Medan|Trans Media Telekomunikasi|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|183.89.205.173|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|11|103.137.85.29|83|India|Jaipur|Bakliwal Telecom Services Pvt Ltd|
+|12|36.91.68.149|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
+|13|191.243.46.154|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|14|106.227.87.11|3128|China|Taohua|China Telecom|
+|15|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|16|180.191.23.149|8082|Philippines|Cabanatuan City|Globe Telecom|
+|17|15.204.161.192|18080|United States|Reston|OVH SAS|
+|18|103.48.68.220|83|India|Hyderabad|Country Online Services PVT LTD|
+|19|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|20|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
