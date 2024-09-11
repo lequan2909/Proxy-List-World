@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5919** proxies at the latest update. Usable proxies are below.
+> Scraper found **5964** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|148|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1080|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1089|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|163|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|199|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3570|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|9|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|156.247.9.140|80|United States|Los Angeles|SonderCloud Limited|
-|12|42.113.88.14|8080|Vietnam|Vĩnh Long|FPT Telecom Company|
-|13|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|101.101.217.36|80|South Korea|Seongnam-si|NBP|
-|15|103.232.20.166|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
-|16|103.139.98.157|8080|Indonesia|Bandaragung|Digital Network Setiawan|
-|17|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|116.111.236.209|5108|Vietnam|Tam Kỳ|Viettel Corporation|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|7|72.10.164.178|20925|Canada|Montreal|GloboTech Communications|
+|8|72.10.160.170|10231|Canada|Montreal|GloboTech Communications|
+|9|106.227.87.11|3128|China|Taohua|China Telecom|
+|10|72.10.160.170|10231|Canada|Montreal|GloboTech Communications|
+|11|103.88.113.202|8080|Vietnam|Hanoi|HTCITC|
+|12|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|14|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|15|67.43.236.19|15489|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.170|10231|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|17939|Canada|Montreal|GloboTech Communications|
+|18|185.200.38.199|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|20|42.113.88.14|8080|Vietnam|Vĩnh Long|FPT Telecom Company|
 
 
 
