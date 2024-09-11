@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|89.221.225.229|8118|Israel|Petah Tikva|Stark Industries Solutions LTD|
-|6|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|103.190.171.213|8181|Indonesia|Jakarta|WMS|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
-|12|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|14|72.10.164.178|2445|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|2445|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.171|26827|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|12977|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|72.10.160.90|7077|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|5|103.148.49.243|8080|Indonesia|Pontianak|BCMEDIA|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|103.113.149.217|6969|Bangladesh|Dhaka|DigiCon Telecommunication Ltd|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|114.9.27.190|3125|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|11|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|12|131.0.207.140|8080|Brazil|Espumoso|CB NET TELECOM LTDA|
+|13|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
+|14|72.10.164.178|22633|Canada|Montreal|GloboTech Communications|
+|15|189.193.230.235|999|Mexico|Tejupilco de Hidalgo|Mega Cable, S.A. de C.V.|
+|16|67.43.227.228|17891|Canada|Montreal|GloboTech Communications|
+|17|62.69.253.32|8080|Poland|Warsaw|Fornet Swinoujscie|
+|18|103.231.200.229|3128|Indonesia|Bekasi|PT. Berdikari Prima Mandiri|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|72.10.164.178|22633|Canada|Montreal|GloboTech Communications|
 
 
 
