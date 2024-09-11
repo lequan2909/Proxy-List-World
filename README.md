@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|500|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|500|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|500|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|5|152.200.189.105|999|Colombia|Florencia|Colombia Telecomunicaciones S.a. ESP|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|168.205.63.188|9090|Brazil|Frutal|TCF Telecomunicações Campo Florido Ltda|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|177.93.59.71|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
-|10|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|11|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|12|180.191.23.149|8082|Philippines|Cabanatuan City|Globe Telecom|
-|13|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|14|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|15|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
-|16|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
-|17|42.191.215.164|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|18|103.83.0.62|8085|Indonesia|Lamongan|PT Kia Integrasi Akses|
-|19|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
-|20|106.227.87.11|3128|China|Taohua|China Telecom|
+|7|41.216.186.131|10001|Indonesia|Purbalingga|FASTHOSTING|
+|8|193.188.22.20|3127|United States|Los Angeles|Aeza International LTD|
+|9|157.66.84.8|7777|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
+|10|45.77.147.46|3128|United States|Piscataway|The Constant Company|
+|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|12|103.217.224.139|8090|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|13|103.90.67.35|8080|Indonesia|Bengkalis|PT Rajawali Bintang Cemerlang Telkomedia|
+|14|202.154.12.144|7777|Indonesia|Jakarta|MENAKSOPAL|
+|15|103.157.59.75|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
+|16|42.113.88.14|8080|Vietnam|Vĩnh Long|FPT Telecom Company|
+|17|106.227.87.11|3128|China|Taohua|China Telecom|
+|18|120.28.180.171|8080|Philippines|San Juan|Globe Telecom|
+|19|190.61.84.166|9812|Costa Rica|San José|Ufinet Costa Rica|
+|20|152.26.231.93|9443|United States|Concord|MCNC|
 
 
 
