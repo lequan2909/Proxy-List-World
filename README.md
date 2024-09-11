@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|430|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|430|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|430|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
-|4|41.65.160.171|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|7|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|8|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|9|8.222.136.49|3333|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|36.94.60.26|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|187.62.191.3|61456|Brazil|Bariri|Conexao Networks Provedor de Internet|
-|14|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|67.43.227.230|10471|Canada|Montreal|GloboTech Communications|
-|17|106.227.87.11|3128|China|Taohua|China Telecom|
-|18|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|180.191.23.149|8082|Philippines|Cabanatuan City|Globe Telecom|
+|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|6|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
+|7|167.235.185.47|6969|Germany|Falkenstein|Hetzner Online GmbH|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|13|115.72.46.96|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|14|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|15|36.67.223.231|8090|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|16|106.227.87.11|3128|China|Taohua|China Telecom|
+|17|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
