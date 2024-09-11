@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|439|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|439|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|439|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |5|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|58.136.90.187|8080|Thailand|Ratchathewi|AIS-Fibre|
-|7|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
-|8|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|9|36.73.132.193|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|12|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|173.249.34.184|3128|Germany|Nuremberg|Contabo GmbH|
-|15|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|16|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|17|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|18|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|7|103.169.254.9|8090|Indonesia|Curahjati|PT Master Star Network|
+|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|9|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|10|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|11|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
+|12|62.171.183.48|3128|Germany|Nuremberg|Contabo GmbH|
+|13|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|15|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|16|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|17|41.216.186.146|8080|Indonesia|Purbalingga|FASTHOSTING|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|20|208.87.243.199|9898|United States|Walnut|Psychz Networks|
 
 
 
