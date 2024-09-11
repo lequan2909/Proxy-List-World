@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
 |4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|103.122.66.140|1111|Indonesia|Gianyar|PT. Jinom Network Indonesia|
-|8|103.55.159.51|6060|Indonesia|Sumbawa Besar|PT TELIO INTI NUSA|
-|9|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|10|186.96.31.46|7070|Mexico|Cholula|Total Play Telecomunicaciones SA De CV|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|101.255.149.202|8080|Indonesia|Bekasi|PT Remala Abadi|
-|15|103.245.205.226|6969|Bangladesh|Dhaka|Next Online Limited|
-|16|209.14.115.33|999|Colombia|Neiva|AGIS|
-|17|124.217.246.133|9989|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
-|18|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|19|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|1.4.225.116|8081|Thailand|Udon Thani|TOT Public Company Limited|
+|10|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|12|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|106.227.87.11|3128|China|Taohua|China Telecom|
+|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|72.10.164.178|13553|Canada|Montreal|GloboTech Communications|
+|18|103.84.176.101|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|19|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|20|91.136.142.155|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
 
 
 
