@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|439|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|439|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|439|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|103.189.123.223|8080|Indonesia|Jakarta|PT Ikhlas Cipta Teknologi|
-|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|7|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|8|180.148.4.74|8080|Vietnam|Uyen Hung|VNTT|
-|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|58.147.171.110|8085|Bangladesh|Dhaka|Aftab IT Limited|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|103.124.138.149|8080|Indonesia|Adiwerna|Global Media Data Prima|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|15|27.147.137.90|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|16|52.90.158.57|3128|United States|Ashburn|Amazon.com, Inc.|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|19|117.1.141.34|5104|Vietnam|Hanoi|Viettel Corporation|
-|20|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|152.53.67.93|3128|Austria|Vienna|ANEXIA Internetdienstleistungs GmbH|
+|8|52.90.158.57|3128|United States|Ashburn|Amazon.com, Inc.|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|117.1.141.34|5104|Vietnam|Hanoi|Viettel Corporation|
+|11|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|12|36.93.130.219|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|13|103.84.176.101|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|18|168.194.169.101|999|Peru|Lima|FASTNET|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
 
 
 
