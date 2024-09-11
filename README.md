@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|463|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|463|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|463|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|499|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|499|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|499|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|103.156.15.244|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|95.164.86.161|8080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|43.167.239.241|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|8|110.34.8.110|8080|Nepal|Kathmandu|Subisu Cablenet|
-|9|45.77.147.46|3128|United States|Piscataway|The Constant Company|
-|10|182.253.68.150|8080|Indonesia|Jakarta Pusat|BIZNET|
-|11|184.105.182.254|3128|United States|Gilroy|Hurricane Electric LLC|
-|12|103.148.45.60|8833|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
-|13|181.78.107.95|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|14|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.160.174|32127|Canada|Montreal|GloboTech Communications|
-|17|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
-|18|72.10.164.178|25811|Canada|Montreal|GloboTech Communications|
-|19|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|20|193.188.22.20|3127|United States|Los Angeles|Aeza International LTD|
+|1|184.105.182.254|3128|United States|Gilroy|Hurricane Electric LLC|
+|2|43.167.239.241|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|3|104.167.6.218|80|United States|Boca Raton|Cloud South|
+|4|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|103.166.158.201|8080|Indonesia|Bekasi|PT Timor Lintas Nusantara|
+|6|88.255.106.27|8080|Türkiye|Istanbul|TurkTelekom|
+|7|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|103.179.252.76|8181|Indonesia|Sawangan|PT Pusaka Kreasi Mandiri|
+|10|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|103.148.45.60|8833|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|12|103.90.67.35|8080|Indonesia|Bengkalis|PT Rajawali Bintang Cemerlang Telkomedia|
+|13|43.167.241.83|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|14|152.200.189.105|999|Colombia|Florencia|Colombia Telecomunicaciones S.a. ESP|
+|15|50.235.247.114|8085|United States|Wallingford|Comcast Cable Communications, LLC|
+|16|45.236.106.245|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|17|103.231.179.4|8080|Bangladesh|Dhaka|Sayed Farhad Ahmed|
+|18|156.67.172.185|3128|Germany|Rheinberg|Deutsche Glasfaser Business GmbH|
+|19|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|20|159.203.167.230|3128|United States|Clifton|DigitalOcean, LLC|
 
 
 
