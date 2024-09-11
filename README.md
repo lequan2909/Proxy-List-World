@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|134.236.16.83|8080|Thailand|Bang Lamung|CAT-BB|
-|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|103.166.158.53|3127|Indonesia|Bekasi|PT Timor Lintas Nusantara|
-|6|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|202.53.224.206|8088|Indonesia|Jakarta|PT IndoInternet|
-|10|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|103.69.20.108|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|8|134.236.16.83|8080|Thailand|Bang Lamung|CAT-BB|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
 |11|149.102.139.233|3128|Germany|Düsseldorf|Cogent Communications|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|190.121.239.195|999|Venezuela|Caracas|Corporacion Digitel C.A|
-|15|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
-|17|186.125.218.162|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|12|206.42.19.56|8080|Brazil|Pereiro|Brisanet Prestacao De Servicos De Internet Ltda|
+|13|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|14|190.61.80.98|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
+|15|103.171.244.44|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|16|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|17|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
 |18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|106.227.87.11|3128|China|Taohua|China Telecom|
-|20|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|72.10.164.178|3495|Canada|Montreal|GloboTech Communications|
 
 
 
