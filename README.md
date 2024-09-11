@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|447|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|447|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|447|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|103.174.81.10|80|India|Nandyāl|Panduranga Cable & Networks|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|9|80.249.112.45|3128|Iran|Tehran|Parsian Technology Innovative Solution Co., PJS.|
-|10|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|11|138.118.200.49|999|Venezuela|San Francisco|Iguana Network Services C.A.|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|190.8.164.24|8086|Venezuela|Maiquetía|CORPORACION FIBEX TELECOM, C.A.|
-|14|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|15|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|190.193.142.156|3128|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|18|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
-|19|128.90.145.151|8118|Belgium|Brussels|Powerhouse Management, Inc.|
-|20|212.110.188.211|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|7|54.219.98.253|3128|United States|San Jose|Amazon.com, Inc.|
+|8|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|11|190.193.142.156|3128|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|12|103.174.81.10|80|India|Nandyāl|Panduranga Cable & Networks|
+|13|95.164.86.161|8080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|14|191.97.96.208|8080|Argentina|General Roca|Vision NET|
+|15|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|16|74.208.112.135|3128|United States|Philadelphia|IONOS SE|
+|17|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
+|18|103.143.168.58|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|19|190.90.233.33|8080|Colombia|Bogotá|InterNexa Global Network|
+|20|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
