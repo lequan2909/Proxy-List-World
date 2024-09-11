@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5920** proxies at the latest update. Usable proxies are below.
+> Scraper found **5825** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|147|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1034|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|939|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|211|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3570|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|151.80.199.88|3128|France|Roubaix|OVH SAS|
-|4|103.156.248.55|8080|Indonesia|Medan|Trans Media Telekomunikasi|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|183.89.205.173|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|9|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|11|103.137.85.29|83|India|Jaipur|Bakliwal Telecom Services Pvt Ltd|
-|12|36.91.68.149|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
-|13|191.243.46.154|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|14|106.227.87.11|3128|China|Taohua|China Telecom|
-|15|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|16|180.191.23.149|8082|Philippines|Cabanatuan City|Globe Telecom|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|103.48.68.220|83|India|Hyderabad|Country Online Services PVT LTD|
-|19|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|20|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|177.234.241.28|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|4|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|5|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|6|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
+|7|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|8|177.234.241.30|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|9|103.28.113.22|8080|Indonesia|Babat|PT Lintas Data Prima|
+|10|91.134.101.142|80|France|Roubaix|OVH SAS|
+|11|103.58.95.5|8080|Bangladesh|Kāfrul|Metaphor Digital Media|
+|12|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|17|188.125.169.39|8080|Turkey|Gebze|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|19|103.99.27.26|7777|Indonesia|Tangerang|PT Lintas Network Solusi|
+|20|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
 
 
 
