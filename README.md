@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|395|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|395|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|395|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.11.206|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|194.164.206.37|3128|United Kingdom|Farnham|NETKONECT|
-|5|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|6|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|7|182.253.66.122|8080|Indonesia|Jakarta|BIZNET|
-|8|36.93.130.219|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
-|9|103.109.237.18|8080|Bangladesh|Tāngāil|City Computer|
-|10|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|13|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|14|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|191.97.19.14|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
-|16|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|17|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
-|18|106.227.87.11|3128|China|Taohua|China Telecom|
-|19|67.43.228.252|17975|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|28139|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|160.248.11.206|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|61.7.191.166|80|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|7|180.190.200.24|8085|Philippines|Lahug|Globe Telecom|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|146.196.41.141|8080|Indonesia|Karawang|UNINA|
+|11|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|12|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|13|138.94.236.165|8080|Brazil|Novo Progresso Municipality|Nettcon Provedor De Internet Eireli EPP|
+|14|117.54.181.21|8080|Indonesia|Jakarta|PT IndoInternet|
+|15|184.82.130.44|8080|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
+|16|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
+|17|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|103.156.15.55|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|19|202.154.18.141|8088|Indonesia|Jombang|DIGITNET|
+|20|210.87.125.58|1080|Indonesia|Kediri|CV Brawijaya Giga Network|
 
 
 
