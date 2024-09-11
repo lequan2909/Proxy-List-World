@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|405|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|405|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|405|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|119.76.142.228|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
-|4|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|5|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|8|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|103.154.90.190|8080|Indonesia|Jakarta|MORATELINDONAP|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|180.191.20.206|8080|Philippines|Cabanatuan City|Globe Telecom|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|203.150.128.210|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|11|202.5.60.46|5020|Bangladesh|Khulna|BBTS-NEW|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
 |13|208.67.28.28|58090|United States|Eagle River|SonicNet Inc.|
-|14|80.66.112.2|31280|Spain|La Zenia|Servicios Digitales Codinet S.L.|
-|15|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|16|202.191.125.147|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
-|17|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|31.128.69.121|8080|Ukraine|Kyiv|PRIVATE JOINT STOCK COMPANY "DATAGROUP"|
-|19|185.32.5.130|8090|Poland|Warsaw|AS Consulting Sp. z o. o.|
-|20|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|78.25.68.130|8088|Russia|Krasnyy Oktyabr'|Volga Branch of OJSC MegaFon|
+|16|206.42.27.113|8080|Brazil|Pereiro|Brisanet Prestacao De Servicos De Internet Ltda|
+|17|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|18|103.208.102.6|8080|Indonesia|Wonosobo|PT Tidar Lintas Nusa|
+|19|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|20|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
 
 
 
