@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|4|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
-|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|8|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|9|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|12|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|157.15.63.230|8090|Indonesia|Malang|PT Anugerah Media Data Nusantara|
-|14|72.10.160.174|16649|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.93|9443|United States|Concord|MCNC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|157.15.63.230|8090|Indonesia|Malang|PT Anugerah Media Data Nusantara|
+|7|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|188.138.125.4|8080|Germany|Frankfurt am Main|velia.net Internetdienste GmbH|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 |16|152.26.231.83|9443|United States|Concord|MCNC|
-|17|152.26.231.42|9443|United States|Concord|MCNC|
-|18|15.204.161.192|18080|United States|Reston|OVH SAS|
-|19|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
-|20|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
+|17|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|24.152.58.132|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|19|42.113.88.14|8080|Vietnam|Vĩnh Long|FPT Telecom Company|
+|20|36.64.162.194|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 
 
 
