@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
+|2|179.125.51.54|27234|Brazil|Duque de Caxias|Via Link Telecomunicacoes|
+|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
 |4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
+|5|114.9.27.190|3125|Indonesia|Jakarta|PT. INDOSAT Tbk|
 |6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|8|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|11|177.93.40.182|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|103.83.0.62|8085|Indonesia|Lamongan|PT Kia Integrasi Akses|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|152.26.231.94|9443|United States|Concord|MCNC|
-|17|160.248.11.206|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|152.26.231.83|9443|United States|Concord|MCNC|
-|19|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|119.148.54.78|1419|Bangladesh|Dhaka|Agni Systems Limited|
+|7|36.93.130.219|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|8|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|160.248.11.206|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|11|152.26.231.94|9443|United States|Concord|MCNC|
+|12|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|152.26.231.83|9443|United States|Concord|MCNC|
+|14|8.222.136.49|3333|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|72.10.160.170|6371|Canada|Montreal|GloboTech Communications|
+|16|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|18|67.43.227.226|12887|Canada|Montreal|GloboTech Communications|
+|19|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
+|20|72.10.164.178|26305|Canada|Montreal|GloboTech Communications|
 
 
 
