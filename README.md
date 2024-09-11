@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5345** proxies at the latest update. Usable proxies are below.
+> Scraper found **5618** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|430|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|430|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|430|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|145|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|860|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1133|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|127|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3255|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|4|8.222.136.49|3333|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|27.50.29.82|8080|Indonesia|South Tangerang|PT. Mora Telematika Indonesia|
-|7|103.80.116.61|8080|India|Nashik|Multicraft Digital Technologies Private Limited|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|10|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|11|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
+|4|41.65.160.171|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|7|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|8|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|9|8.222.136.49|3333|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|36.94.60.26|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|103.131.18.20|8080|Indonesia|Kudus|PT Global Media Data Prima|
-|14|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|15|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|16|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|152.26.229.86|9443|United States|Concord|MCNC|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|13|187.62.191.3|61456|Brazil|Bariri|Conexao Networks Provedor de Internet|
+|14|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|67.43.227.230|10471|Canada|Montreal|GloboTech Communications|
+|17|106.227.87.11|3128|China|Taohua|China Telecom|
+|18|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|180.191.23.149|8082|Philippines|Cabanatuan City|Globe Telecom|
 
 
 
