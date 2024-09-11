@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
 |3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|190.94.213.4|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|9|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
-|12|103.176.227.197|8009|Indonesia|Brebes|PT Pass Internet Indonesia|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|6|43.247.33.60|8080|Indonesia|Jakarta|PT MEDIA LINTAS DATA|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|103.159.194.33|1111|Indonesia|Temanjang|PT Giga Digital Nusantara|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |13|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|200.125.170.20|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|15|31.204.199.54|81|Montenegro|Podgorica|Crnogorski Telekom|
-|16|103.143.169.130|84|India|Hyderabad|Aspt Networks Pvt Ltd|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|152.26.229.47|9443|United States|Concord|MCNC|
+|14|36.95.78.156|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|15|27.147.142.138|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|16|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|38.52.221.44|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|19|191.243.46.154|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|20|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
