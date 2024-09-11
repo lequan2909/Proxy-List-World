@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|4|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|1.4.225.116|8081|Thailand|Udon Thani|TOT Public Company Limited|
-|7|36.67.223.231|8090|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|8|136.232.224.202|8080|India|Nellore|Reliance Jio Infocomm Limited|
-|9|118.97.75.86|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|10|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|103.245.16.222|8888|Indonesia|Depok|PT Quantum Tera Network|
-|12|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|103.48.68.220|83|India|Hyderabad|Country Online Services PVT LTD|
-|16|103.131.18.20|8080|Indonesia|Kudus|PT Global Media Data Prima|
-|17|102.0.9.116|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|18|181.78.13.68|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|19|106.227.87.11|3128|China|Taohua|China Telecom|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|6|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|202.173.217.4|8080|Thailand|Bangkok|KIRZ Company Limited|
+|8|1.4.225.116|8081|Thailand|Udon Thani|TOT Public Company Limited|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|103.88.90.54|8080|Indonesia|Malang|PT Paket Switch Bersama|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|62.69.253.32|8080|Poland|Warsaw|Fornet Swinoujscie|
+|16|72.128.133.154|16099|United States|Hutto|Charter Communications|
+|17|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
+|18|204.199.174.74|999|Peru|Arequipa|Fiberred Sociedad Anonima Cerrada|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
