@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|3|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
-|4|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
 |5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|103.51.21.165|8080|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
-|13|67.43.227.226|24007|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.93|9443|United States|Concord|MCNC|
-|15|14.103.168.150|8088|China|Beijing|BITNET|
-|16|61.129.2.212|8080|China|Beijing|CHINANET|
-|17|67.43.227.228|28643|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.46|9443|United States|Concord|MCNC|
+|6|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|1.32.59.217|47045|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|11|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|152.26.229.93|9443|United States|Concord|MCNC|
+|14|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
+|17|67.43.227.226|24007|Canada|Montreal|GloboTech Communications|
+|18|61.129.2.212|8080|China|Beijing|CHINANET|
 |19|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|20|67.43.227.230|8097|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.228|8389|Canada|Montreal|GloboTech Communications|
 
 
 
