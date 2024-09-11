@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|9|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|10|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|210.76.194.158|7897|China|Beijing|Chinese Science & Technology Network|
+|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|6|103.87.169.195|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|10|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|210.76.194.158|7897|China|Beijing|Chinese Science & Technology Network|
+|13|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |15|152.26.229.83|9443|United States|Concord|MCNC|
 |16|152.26.231.86|9443|United States|Concord|MCNC|
 |17|152.26.229.34|9443|United States|Concord|MCNC|
-|18|72.10.164.178|10011|Canada|Montreal|GloboTech Communications|
-|19|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|19|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
