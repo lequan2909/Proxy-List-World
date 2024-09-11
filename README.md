@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|45.173.230.181|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|6|106.227.87.11|3128|China|Taohua|China Telecom|
-|7|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|54.219.98.253|3128|United States|San Jose|Amazon.com, Inc.|
-|9|36.73.132.193|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|152.26.229.47|9443|United States|Concord|MCNC|
-|12|72.10.160.173|13259|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.251|19201|Canada|Montreal|GloboTech Communications|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|45.173.230.181|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|201.77.48.147|8080|Peru|Lima region|Telcom Mikrotik Peru S.A.C.|
+|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|8|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|9|115.127.98.18|58080|Bangladesh|Dhaka|BRACNet Limited|
+|10|36.93.130.219|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|11|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|152.26.229.47|9443|United States|Concord|MCNC|
 |14|72.10.160.173|13259|Canada|Montreal|GloboTech Communications|
-|15|152.26.231.83|9443|United States|Concord|MCNC|
-|16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|67.43.227.228|27023|Canada|Montreal|GloboTech Communications|
-|18|148.251.86.76|16379|Germany|Falkenstein|Hetzner Online GmbH|
-|19|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|20|54.219.98.253|3128|United States|San Jose|Amazon.com, Inc.|
+|15|36.73.132.193|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|16|72.10.160.173|13259|Canada|Montreal|GloboTech Communications|
+|17|152.26.231.93|9443|United States|Concord|MCNC|
+|18|152.26.231.83|9443|United States|Concord|MCNC|
+|19|67.43.227.226|6403|Canada|Montreal|GloboTech Communications|
+|20|106.227.87.11|3128|China|Taohua|China Telecom|
 
 
 
