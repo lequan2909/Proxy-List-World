@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|2|36.73.132.193|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|3|20.205.16.47|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|4|160.248.11.213|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|6|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|7|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
-|8|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|9|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
-|11|61.7.191.243|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
-|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|13|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|45.224.151.253|999|Ecuador|Latacunga|Ufinet Panama S.A.|
-|16|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|17|103.182.213.65|8080|Bangladesh|Tongi|Rapid Network|
-|18|103.165.215.78|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|19|5.189.146.57|80|Germany|Nuremberg|Contabo GmbH|
-|20|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|36.73.132.193|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|5|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
+|6|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|7|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|62.171.183.48|3128|Germany|Nuremberg|Contabo GmbH|
+|10|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|94.23.204.27|3128|France|Roubaix|OVH SAS|
+|17|41.216.186.146|8080|Indonesia|Purbalingga|FASTHOSTING|
+|18|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|19|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|20|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
 
 
 
