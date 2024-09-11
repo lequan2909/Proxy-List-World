@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|505|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|505|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|505|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|146.19.196.4|4555|Singapore|Singapore|Melbikomas UAB|
-|9|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|144.86.187.40|3129|United States|Malden|Charles River Operation|
+|10|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |12|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
-|13|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|14|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|15|45.171.108.253|999|Ecuador|Nueva Loja|Lagonet-tv Cia. Ltda.|
-|16|103.190.113.114|8080|Indonesia|Grobogan|PT Linkbit Inovasi Teknologi|
-|17|189.201.153.91|999|Mexico|Tuxtla Gutiérrez|IP Matrix, S.A. de C.V.|
-|18|54.219.98.253|3128|United States|San Jose|Amazon.com, Inc.|
-|19|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|20|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|13|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|103.166.227.85|8080|Indonesia|Majalengka|PT Arta Flash Sintesa Nusantara|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
+|19|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
