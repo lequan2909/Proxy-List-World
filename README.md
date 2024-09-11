@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|493|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|493|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|493|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|480|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|480|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|480|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|6|4.247.152.147|3128|India|Pune|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|52.90.158.57|3128|United States|Ashburn|Amazon.com, Inc.|
-|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|52.90.158.57|3128|United States|Ashburn|Amazon.com, Inc.|
-|11|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|15|124.6.165.155|8082|Philippines|Lahug|INNOVE|
-|16|36.88.125.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|17|103.81.64.85|8080|Indonesia|Bandar Lampung|QIUNET|
-|18|27.147.131.41|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|20|119.2.45.51|8080|Indonesia|Jakarta|PT. Laxo Global Akses|
+|4|203.176.179.255|8080|Indonesia|Jakarta|PT Hipernet Indodata|
+|5|15.235.171.203|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
+|6|103.156.141.130|1111|Indonesia|Jember|PT Tekling Media Telematika|
+|7|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|52.90.158.57|3128|United States|Ashburn|Amazon.com, Inc.|
+|10|45.189.117.199|999|Peru|Lima|Conex TV E.I.R.L|
+|11|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
+|12|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|14|113.192.48.90|8090|Indonesia|Batu|PT.Global Media Data Prima|
+|15|115.147.20.176|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|16|177.67.86.96|999|Brazil|São Paulo|W I X NET DO BRASIL LTDA - ME|
+|17|103.127.106.249|8090|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
+|18|36.95.78.156|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|19|152.26.229.47|9443|United States|Concord|MCNC|
+|20|38.252.216.21|999|Peru|Lima|Telcom Mikrotik Peru S.A.C.|
 
 
 
