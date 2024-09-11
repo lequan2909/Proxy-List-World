@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|413|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|413|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|413|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
 |6|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|8|54.219.98.253|3128|United States|San Jose|Amazon.com, Inc.|
-|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|208.87.243.199|9898|United States|Walnut|Psychz Networks|
-|13|54.219.98.253|3128|United States|San Jose|Amazon.com, Inc.|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|20|103.173.138.171|8080|Indonesia|Babat|PT Serayu Multi Connection|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|10|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|103.125.38.50|8080|Indonesia|Surabaya|PT. Eka Mas Republik|
+|15|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|16|58.136.90.187|8080|Thailand|Ratchathewi|AIS-Fibre|
+|17|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|43.167.243.210|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
