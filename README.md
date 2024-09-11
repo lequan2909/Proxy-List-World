@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|439|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|439|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|439|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|7|144.76.42.215|8118|Germany|Falkenstein|Hetzner Online GmbH|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|15.235.171.226|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
-|10|67.43.236.19|25753|Canada|Montreal|GloboTech Communications|
-|11|190.61.41.163|999|Colombia|Turbo|Ufinet Panama S.A.|
-|12|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|13|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|14|78.25.68.130|8088|Russia|Krasnyy Oktyabr'|Volga Branch of OJSC MegaFon|
-|15|152.26.231.86|9443|United States|Concord|MCNC|
-|16|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|152.26.229.83|9443|United States|Concord|MCNC|
-|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|19|72.10.164.178|22369|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.34|9443|United States|Concord|MCNC|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|6|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|10|152.26.229.83|9443|United States|Concord|MCNC|
+|11|152.26.231.86|9443|United States|Concord|MCNC|
+|12|152.26.229.34|9443|United States|Concord|MCNC|
+|13|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|121.101.131.67|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|15|72.10.164.178|27563|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|15773|Canada|Montreal|GloboTech Communications|
+|17|1.20.169.172|8180|Thailand|Pattaya|TOT Public Company Limited|
+|18|72.10.164.178|27563|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|15773|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.254|25643|Canada|Montreal|GloboTech Communications|
 
 
 
