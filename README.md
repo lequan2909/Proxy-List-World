@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.167.240.63|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
-|4|101.255.209.242|8080|Indonesia|Jakarta|PT Remala Abadi|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|165.227.33.242|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|119.235.209.92|3125|Indonesia|Senen|PT. Mora Telematika Indonesia|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|11|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|12|116.68.170.115|8019|Indonesia|Jakarta|Asia Pacific Network Information Center|
-|13|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|14|58.11.15.192|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|15|152.26.231.93|9443|United States|Concord|MCNC|
-|16|103.165.222.190|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|17|101.255.40.98|8080|Indonesia|Bekasi|PT Remala Abadi|
-|18|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|103.176.97.166|8080|Indonesia|Purwakarta|PT Global Sarana Elektronika|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|98.147.60.146|48678|United States|Wahiawa|Spectrum|
+|7|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|10|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|11|103.165.157.37|3125|Indonesia|Taman|MEGADATA-ISP|
+|12|152.26.231.93|9443|United States|Concord|MCNC|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
+|16|67.43.236.20|5615|Canada|Montreal|GloboTech Communications|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|67.43.236.20|5615|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.34|9443|United States|Concord|MCNC|
+|20|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
 
 
 
