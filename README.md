@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|4|45.88.192.56|8080|United States|Los Angeles|DM-HK|
-|5|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|45.88.192.56|8080|United States|Los Angeles|DM-HK|
-|7|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|8|103.180.198.23|8181|Indonesia|Sukabumi|PT Bentang Johar Awal|
-|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|13|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|14|152.26.229.34|9443|United States|Concord|MCNC|
-|15|67.43.227.227|13857|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|13857|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|2317|Canada|Montreal|GloboTech Communications|
-|18|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|19|117.91.186.166|20037|China|Nanjing|CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou, Jiangsu Province, P.|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|116.111.239.7|5108|Vietnam|Tam Kỳ|Viettel Corporation|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|13|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|14|103.41.35.153|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|15|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|101.101.217.36|80|South Korea|Seongnam-si|NBP|
+|18|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|19|152.26.229.34|9443|United States|Concord|MCNC|
+|20|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
