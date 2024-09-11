@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|45.173.230.181|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
 |5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|7|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
 |8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|9|45.173.230.181|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|72.10.160.173|24781|Canada|Montreal|GloboTech Communications|
-|13|152.26.229.93|9443|United States|Concord|MCNC|
-|14|67.43.227.228|3795|Canada|Montreal|GloboTech Communications|
-|15|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|16|72.10.160.170|32485|Canada|Montreal|GloboTech Communications|
-|17|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|67.43.236.18|28293|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|3453|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.173|24781|Canada|Montreal|GloboTech Communications|
+|9|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|10|103.245.205.226|6969|Bangladesh|Dhaka|Next Online Limited|
+|11|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|12|190.107.232.202|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|14|115.127.98.18|58080|Bangladesh|Dhaka|BRACNet Limited|
+|15|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|45.249.122.198|8080|India|Coimbatore|Airconnect Services|
+|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|18|152.26.229.93|9443|United States|Concord|MCNC|
+|19|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
