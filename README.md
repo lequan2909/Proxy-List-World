@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|36.94.47.59|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|6|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|172.104.56.132|8181|Singapore|Singapore|Akamai Technologies|
+|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |9|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|14|180.211.186.158|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|15|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
-|16|36.94.47.59|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|17|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|18|45.188.78.49|999|Mexico|Nacajuca|ONT NETWORKS SA de CV|
-|19|36.93.130.219|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
-|20|85.232.243.235|8080|Poland|Warsaw|ATMAN|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|52.90.158.57|3128|United States|Ashburn|Amazon.com, Inc.|
+|12|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|13|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|14|52.90.158.57|3128|United States|Ashburn|Amazon.com, Inc.|
+|15|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|38.188.127.86|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|18|27.147.131.41|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|119.2.45.51|8080|Indonesia|Jakarta|PT. Laxo Global Akses|
+|20|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
 
 
 
