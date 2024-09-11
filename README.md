@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|3|45.88.192.56|8080|United States|Los Angeles|DM-HK|
-|4|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|5|45.88.192.56|8080|United States|Los Angeles|DM-HK|
-|6|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|177.234.241.30|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|8|177.234.241.28|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|9|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|103.247.23.65|2022|Indonesia|Banyumas|PT wifian Solution|
-|12|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|13|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|14|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|172.190.226.115|3128|United States|Boydton|Microsoft|
-|17|20.169.241.234|3128|United States|Boydton|Microsoft Corporation|
-|18|41.205.24.249|8080|Cameroon|Douala|MTN Network Solutions (Cameroon)|
-|19|103.169.254.155|3127|Indonesia|Curahjati|PT Master Star Network|
-|20|49.12.240.0|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|2|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|5|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|8|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|38.156.73.59|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|106.227.87.11|3128|China|Taohua|China Telecom|
+|13|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|14|177.200.80.6|11221|Brazil|Eusébio|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
+|15|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|18|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
+|19|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|20|103.19.58.179|8082|Indonesia|Ngawi|BITSNET|
 
 
 
