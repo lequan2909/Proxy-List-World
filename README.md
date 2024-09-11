@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|5|217.196.50.219|8000|United States|Phoenix|HOSTINGER US|
 |6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|160.248.11.225|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|10|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|11|72.10.160.170|16913|Canada|Montreal|GloboTech Communications|
-|12|160.248.11.213|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|14|152.26.231.94|9443|United States|Concord|MCNC|
-|15|72.10.164.178|10539|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|16913|Canada|Montreal|GloboTech Communications|
-|17|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|18|72.10.160.174|32059|Canada|Montreal|GloboTech Communications|
-|19|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|20|67.43.227.227|22073|Canada|Montreal|GloboTech Communications|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|103.166.10.7|8090|Indonesia|Kediri|PT. Yasmin Amanah Media|
+|10|160.248.11.225|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|11|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|12|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|13|222.127.242.123|8082|Philippines|Iloilo City|GLBB|
+|14|160.248.11.213|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|72.10.164.178|1325|Canada|Montreal|GloboTech Communications|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|72.10.160.170|16913|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|23707|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|23707|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.174|22539|Canada|Montreal|GloboTech Communications|
 
 
 
