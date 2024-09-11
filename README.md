@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|3|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|7|103.83.0.62|8085|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
+|7|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |8|152.26.229.83|9443|United States|Concord|MCNC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|152.26.231.83|9443|United States|Concord|MCNC|
 |11|152.26.229.42|9443|United States|Concord|MCNC|
-|12|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
-|14|72.10.160.170|4275|Canada|Montreal|GloboTech Communications|
-|15|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|72.10.164.178|12751|Canada|Montreal|GloboTech Communications|
-|17|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|72.10.160.173|5095|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|12751|Canada|Montreal|GloboTech Communications|
+|12|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|13|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|152.26.229.93|9443|United States|Concord|MCNC|
+|15|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|16|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|36.95.78.156|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|19|72.10.164.178|12751|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.47|9443|United States|Concord|MCNC|
 
 
 
