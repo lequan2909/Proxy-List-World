@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |4|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|207.65.132.78|3128|Japan|Honchō|Sony Network Communications Inc|
-|6|189.201.153.91|999|Mexico|Tuxtla Gutiérrez|IP Matrix, S.A. de C.V.|
+|5|54.219.98.253|3128|United States|San Jose|Amazon.com, Inc.|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
 |7|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|124.158.153.218|8180|Indonesia|Pulo Gebang|PT iForte Global Internet|
-|11|144.86.187.62|3129|United States|Malden|Charles River Operation|
-|12|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|103.177.199.29|1111|Indonesia|Bekasi|PT Eyza Kausa Sinergi Abadi|
-|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|15|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|69.75.140.157|8080|United States|Los Angeles|Spectrum|
-|18|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
-|19|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|9|54.219.98.253|3128|United States|San Jose|Amazon.com, Inc.|
+|10|183.88.212.184|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|11|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
+|12|37.111.52.41|8080|Myanmar|Yangon|Telenor Myanmar|
+|13|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|15|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|16|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|103.143.168.58|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
