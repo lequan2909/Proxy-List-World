@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|103.172.42.89|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
 |4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|106.227.87.11|3128|China|Taohua|China Telecom|
-|8|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|10|67.43.227.228|33081|Canada|Montreal|GloboTech Communications|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|72.10.160.90|22623|Canada|Montreal|GloboTech Communications|
-|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|14|72.10.164.178|11683|Canada|Montreal|GloboTech Communications|
-|15|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
-|17|148.72.140.24|30134|United States|St Louis|GoDaddy.com|
-|18|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
-|19|67.43.227.226|5831|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|18309|Canada|Montreal|GloboTech Communications|
+|7|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|67.43.228.250|5557|Canada|Montreal|GloboTech Communications|
+|9|117.68.38.180|27391|China|Hefei|China Telecom|
+|10|72.10.164.178|30089|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.170|23915|Canada|Montreal|GloboTech Communications|
+|12|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|15|200.24.157.121|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|16|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|67.43.227.227|18309|Canada|Montreal|GloboTech Communications|
+|18|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
+|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
