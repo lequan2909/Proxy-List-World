@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|72.10.160.90|7039|Canada|Montreal|GloboTech Communications|
-|9|190.61.40.186|999|Colombia|Riohacha|Ufinet Panama S.A.|
-|10|152.26.229.46|9443|United States|Concord|MCNC|
-|11|152.26.231.93|9443|United States|Concord|MCNC|
-|12|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|6|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|152.26.229.46|9443|United States|Concord|MCNC|
+|8|152.26.231.93|9443|United States|Concord|MCNC|
+|9|182.253.66.122|8080|Indonesia|Jakarta|BIZNET|
+|10|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|11|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|12|103.90.233.210|3128|Vietnam|Quận Mười Một|WEBPANDA|
 |13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|14|67.43.236.22|30629|Canada|Montreal|GloboTech Communications|
+|14|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
 |15|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.164.178|28959|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|28729|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|28959|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|32635|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.230|10863|Canada|Montreal|GloboTech Communications|
+|16|103.167.171.216|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|17|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|144.86.187.61|3129|United States|Malden|Charles River Operation|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
