@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|103.166.158.53|3127|Indonesia|Bekasi|PT Timor Lintas Nusantara|
 |4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
-|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|149.102.139.233|3128|Germany|Düsseldorf|Cogent Communications|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|14|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
-|16|45.227.195.121|8082|Brazil|Maravilha|Mhnet Telecom|
-|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|18|72.10.160.172|11023|Canada|Montreal|GloboTech Communications|
-|19|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|20|72.10.160.170|22987|Canada|Montreal|GloboTech Communications|
+|5|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|8|103.101.216.2|8080|Indonesia|Sungai Bamban|PT Duta Trans Nusantara Network|
+|9|116.197.132.201|8080|Indonesia|Bogor|PT. Fiber Networks Indonesia|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|149.102.139.233|3128|Germany|Düsseldorf|Cogent Communications|
+|12|222.124.193.118|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|13|103.48.71.18|83|India|Hyderabad|Country Online Services PVT LTD|
+|14|103.65.238.51|8080|Indonesia|Medan|PT Media Alvina Sejati|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|103.110.10.69|3127|Indonesia|Bandung|PT Citra Jelajah Informatika|
+|17|181.176.69.189|999|Peru|Lima|VIETTEL PERÚ S.A.C.|
+|18|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|19|103.217.224.36|3127|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|20|202.5.36.164|5020|Bangladesh|Comilla|BBTS-NEW|
 
 
 
