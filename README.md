@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|10|38.41.0.62|11201|Venezuela|Caracas|MDS TELECOM C.A.|
-|11|163.5.142.238|3128|France|Paris|IONIS|
-|12|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|14|72.10.164.178|17473|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|20405|Canada|Montreal|GloboTech Communications|
-|16|202.40.179.34|9090|Bangladesh|Dhaka|Ranks ITT|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|67.43.236.20|10579|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|20405|Canada|Montreal|GloboTech Communications|
-|20|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|163.5.142.238|3128|France|Paris|IONIS|
+|7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|8|152.26.229.42|9443|United States|Concord|MCNC|
+|9|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|10|152.26.229.47|9443|United States|Concord|MCNC|
+|11|152.26.231.83|9443|United States|Concord|MCNC|
+|12|152.26.229.93|9443|United States|Concord|MCNC|
+|13|72.10.160.171|23409|Canada|Montreal|GloboTech Communications|
+|14|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|152.26.229.34|9443|United States|Concord|MCNC|
+|16|160.248.11.206|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|72.10.164.178|7903|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|7903|Canada|Montreal|GloboTech Communications|
+|19|203.189.153.19|8083|Cambodia|Phnom Penh|ONLINE|
+|20|72.10.164.178|7903|Canada|Montreal|GloboTech Communications|
 
 
 
