@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |4|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|6|217.196.50.219|8000|United States|Phoenix|HOSTINGER US|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|159.203.104.153|4550|United States|Clifton|DigitalOcean, LLC|
-|11|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|103.84.208.170|8080|Indonesia|Padang|CINOXMEDIANET|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|67.43.227.227|12389|Canada|Montreal|GloboTech Communications|
-|17|101.255.149.202|8080|Indonesia|Bekasi|PT Remala Abadi|
-|18|67.43.227.226|23471|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.174|31709|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|20397|Canada|Montreal|GloboTech Communications|
+|5|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
+|6|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|103.151.30.25|6969|Bangladesh|Tongi|Bright Star Network|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|103.84.208.170|8080|Indonesia|Padang|CINOXMEDIANET|
+|12|103.166.10.7|8090|Indonesia|Kediri|PT. Yasmin Amanah Media|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|15|190.94.213.109|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|17|72.10.160.174|1777|Canada|Montreal|GloboTech Communications|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|46.254.220.30|8080|Russia|Ivanteyevka|Ivanteevskie telekommunikacii LLC|
 
 
 
