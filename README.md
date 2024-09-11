@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|480|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|480|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|480|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|457|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|457|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|457|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|203.176.179.255|8080|Indonesia|Jakarta|PT Hipernet Indodata|
-|5|15.235.171.203|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
-|6|103.156.141.130|1111|Indonesia|Jember|PT Tekling Media Telematika|
-|7|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|52.90.158.57|3128|United States|Ashburn|Amazon.com, Inc.|
-|10|45.189.117.199|999|Peru|Lima|Conex TV E.I.R.L|
-|11|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
-|12|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|14|113.192.48.90|8090|Indonesia|Batu|PT.Global Media Data Prima|
-|15|115.147.20.176|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|16|177.67.86.96|999|Brazil|São Paulo|W I X NET DO BRASIL LTDA - ME|
-|17|103.127.106.249|8090|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
-|18|36.95.78.156|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|19|152.26.229.47|9443|United States|Concord|MCNC|
-|20|38.252.216.21|999|Peru|Lima|Telcom Mikrotik Peru S.A.C.|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|124.6.165.155|8082|Philippines|Lahug|INNOVE|
+|9|38.188.127.86|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|120.28.213.45|8080|Philippines|Cagayan de Oro|Globe Telecom|
+|13|52.90.158.57|3128|United States|Ashburn|Amazon.com, Inc.|
+|14|95.164.86.161|8080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|15|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|16|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|118.173.81.237|8080|Thailand|Bangkok|TOT Public Company Limited|
+|18|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|19|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|20|35.185.196.38|3128|United States|The Dalles|Google LLC|
 
 
 
