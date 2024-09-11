@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|223.205.182.32|8080|Thailand|Hat Yai|Triple T Broadband Public Company Limited|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |7|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|176.121.1.163|8989|Ukraine|Manyava|FOP Saiv Igor Stepanovich|
-|11|72.10.164.178|15341|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.172|25107|Canada|Montreal|GloboTech Communications|
-|13|103.234.159.5|8080|India|Bengaluru|MWPL|
+|8|184.105.182.254|3128|United States|Gilroy|Hurricane Electric LLC|
+|9|173.249.60.246|14344|Germany|Nuremberg|Contabo GmbH|
+|10|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|11|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
 |14|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
-|15|72.10.164.178|15341|Canada|Montreal|GloboTech Communications|
-|16|103.90.233.210|3128|Vietnam|Quận Mười Một|WEBPANDA|
-|17|20.184.18.156|80|Singapore|Singapore|Microsoft Corporation|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|72.10.164.178|15341|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|72.10.164.178|26459|Canada|Montreal|GloboTech Communications|
+|16|106.227.87.11|3128|China|Taohua|China Telecom|
+|17|20.184.18.156|31280|Singapore|Singapore|Microsoft Corporation|
+|18|72.10.164.178|26459|Canada|Montreal|GloboTech Communications|
+|19|190.61.40.186|999|Colombia|Riohacha|Ufinet Panama S.A.|
+|20|72.10.164.178|26459|Canada|Montreal|GloboTech Communications|
 
 
 
