@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|545|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|545|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|545|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|474|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|474|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|474|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
-|7|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|2.187.210.20|8080|Iran|Urmia|Iran Telecommunication Company PJS|
-|9|103.171.244.44|8088|Indonesia|Madiun|PT Data Arta Sedaya|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|8.215.41.90|8080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|13|50.204.36.138|60808|United States|Sacramento|Comcast Cable Communications, LLC|
-|14|1.20.169.172|8180|Thailand|Pattaya|TOT Public Company Limited|
-|15|103.180.118.138|1111|Indonesia|Gresik|PT Persada Data Multimedia|
-|16|36.93.130.219|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
-|17|185.200.38.199|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|125.17.13.54|3129|India|Bengaluru|Bharti Airtel Limited|
-|19|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|4|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|8|103.122.1.14|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
+|9|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|10|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|12|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|1.20.169.172|8180|Thailand|Pattaya|TOT Public Company Limited|
+|14|103.178.194.226|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|144.76.42.215|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|17|103.174.175.99|8085|Indonesia|Kayu Manis|PT Lintas Teknologi Solusindo|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|103.102.153.215|33128|Indonesia|Jakarta|PT Qwords Company International|
 
 
 
