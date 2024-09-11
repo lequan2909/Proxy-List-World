@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|5|184.105.182.254|3128|United States|Gilroy|Hurricane Electric LLC|
-|6|193.188.22.20|3127|United States|Los Angeles|Aeza International LTD|
-|7|120.28.180.171|8080|Philippines|San Juan|Globe Telecom|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|101.255.123.18|8181|Indonesia|Jakarta|PT Remala Abadi|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|103.165.157.79|8090|Indonesia|Taman|MEGADATA-ISP|
+|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
 |8|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|9|156.200.123.170|8080|Egypt|Cairo|TE Data|
-|10|190.14.249.197|999|Colombia|Bucaramanga|Media Commerce Partners S.A|
-|11|103.165.157.79|8090|Indonesia|Taman|MEGADATA-ISP|
-|12|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|103.116.82.135|8080|Indonesia|Indramayu|PT SSR Digital Informatika|
-|14|36.93.130.219|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
-|15|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|67.43.227.227|7987|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|202.180.20.66|8080|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|10|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|185.236.182.3|18080|Colombia|Sibundoy|Hydra Soluciones Empresariales Ingeniería SAS|
+|12|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|106.227.87.11|3128|China|Taohua|China Telecom|
+|14|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|16|38.52.208.6|999|Guatemala|Jalapa|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|17|67.43.227.228|27949|Canada|Montreal|GloboTech Communications|
+|18|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|19|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
