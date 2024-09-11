@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|2|36.73.132.193|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|3|36.72.245.209|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|5.227.215.234|8424|Russia|Saratov|MTS-SRTV|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|9|117.247.233.50|8080|India|Ghaziabad|BSNL Internet|
-|10|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|12|152.26.229.46|9443|United States|Concord|MCNC|
-|13|152.26.229.86|9443|United States|Concord|MCNC|
-|14|152.26.229.93|9443|United States|Concord|MCNC|
-|15|72.10.160.170|24177|Canada|Montreal|GloboTech Communications|
-|16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|18|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|19|152.26.229.34|9443|United States|Concord|MCNC|
-|20|180.191.23.149|8082|Philippines|Cabanatuan City|Globe Telecom|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|36.72.245.209|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|5|36.73.132.193|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|6|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|163.5.142.238|3128|France|Paris|IONIS|
+|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|9|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
+|10|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|13|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|16|38.196.150.3|8080|Costa Rica|Mercedes|RED Y COMUNICACIONES REYCOM DEL SUR SOCIEDAD ANONIMA|
+|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|18|74.62.179.122|8080|United States|Montebello|Charter Communications Inc|
+|19|106.227.87.11|3128|China|Taohua|China Telecom|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
