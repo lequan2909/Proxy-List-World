@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
-|5|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|203.150.128.171|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|152.26.229.93|9443|United States|Concord|MCNC|
-|13|152.26.229.34|9443|United States|Concord|MCNC|
-|14|152.26.229.46|9443|United States|Concord|MCNC|
-|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|16|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|152.26.231.94|9443|United States|Concord|MCNC|
-|20|182.253.68.150|8080|Indonesia|Jakarta Pusat|BIZNET|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|5|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
+|6|103.167.171.216|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|160.20.165.231|8587|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|58.136.168.42|8080|Thailand|Udon Thani|AIS-Fibre|
+|11|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|12|103.247.12.18|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|13|203.150.128.171|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|14|152.26.229.93|9443|United States|Concord|MCNC|
+|15|103.65.238.51|8080|Indonesia|Medan|PT Media Alvina Sejati|
+|16|152.26.229.34|9443|United States|Concord|MCNC|
+|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
