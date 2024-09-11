@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|36.73.132.193|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|4|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
-|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|6|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|180.191.51.166|8082|Philippines|Tarlac City|Globe Telecom|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|12|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|14|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|152.26.229.83|9443|United States|Concord|MCNC|
-|17|67.43.227.227|30913|Canada|Montreal|GloboTech Communications|
-|18|106.227.87.11|3128|China|Taohua|China Telecom|
-|19|152.26.231.86|9443|United States|Concord|MCNC|
-|20|72.10.160.170|8703|Canada|Montreal|GloboTech Communications|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|36.73.132.193|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|3|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|5|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|6|103.234.159.5|8080|India|Bengaluru|MWPL|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|9|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|10|152.26.229.83|9443|United States|Concord|MCNC|
+|11|67.43.227.227|28435|Canada|Montreal|GloboTech Communications|
+|12|152.26.231.86|9443|United States|Concord|MCNC|
+|13|67.43.227.227|28435|Canada|Montreal|GloboTech Communications|
+|14|152.26.229.47|9443|United States|Concord|MCNC|
+|15|72.10.160.170|30583|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|6367|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.18|1531|Canada|Montreal|GloboTech Communications|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|72.10.160.170|30583|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|28435|Canada|Montreal|GloboTech Communications|
 
 
 
