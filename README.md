@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|178.128.21.165|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|2|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
+|3|103.131.19.156|3127|Indonesia|Pasarkemis|PT Global Media Data Prima|
+|4|95.164.86.161|8080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|5|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|6|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|7|198.20.116.100|3128|The Netherlands|Amsterdam|SingleHop LLC|
 |8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|10|147.45.77.58|3128|Sweden|Stockholm|Aeza International LTD|
-|11|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|103.159.96.131|3125|Indonesia|Gresik|PT Jinde Grup Indonesia|
-|13|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|152.26.231.94|9443|United States|Concord|MCNC|
+|9|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|10|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|70.63.90.245|8080|United States|Wilmington|Spectrum|
+|12|62.171.183.48|3128|Germany|Nuremberg|Contabo GmbH|
+|13|103.67.90.25|8181|Indonesia|Cihaseum|PT Soultan Network Indonesia|
+|14|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|15|208.87.243.199|9898|United States|Walnut|Psychz Networks|
+|16|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 |17|152.26.229.46|9443|United States|Concord|MCNC|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|72.10.160.90|18333|Canada|Montreal|GloboTech Communications|
+|18|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|38.188.127.86|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|20|152.26.231.94|9443|United States|Concord|MCNC|
 
 
 
