@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|6|103.191.165.4|7777|Indonesia|Subang|PT Sakti Wijaya Network|
-|7|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|35.185.196.38|3128|United States|The Dalles|Google LLC|
-|9|202.154.18.137|8090|Indonesia|Jombang|DIGITNET|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|5|35.185.196.38|3128|United States|The Dalles|Google LLC|
+|6|202.154.18.137|8090|Indonesia|Jombang|DIGITNET|
+|7|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|8|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |10|52.90.158.57|3128|United States|Ashburn|Amazon.com, Inc.|
-|11|189.39.207.47|9090|Brazil|Governador Valadares|Konnet Telecomunicacoes Ltda - EPP|
+|11|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|103.124.196.218|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
 |14|52.90.158.57|3128|United States|Ashburn|Amazon.com, Inc.|
 |15|103.169.254.9|8090|Indonesia|Curahjati|PT Master Star Network|
 |16|152.26.229.93|9443|United States|Concord|MCNC|
-|17|67.43.227.227|7371|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|7371|Canada|Montreal|GloboTech Communications|
-|19|36.93.130.219|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
-|20|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|152.26.231.93|9443|United States|Concord|MCNC|
+|19|201.77.107.0|8087|Brazil|Porto Alegre|TURBONET - Provedor de Acesso a Internet|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
