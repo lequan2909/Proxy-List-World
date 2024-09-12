@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|2|104.248.146.99|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|163.172.33.137|4000|France|Vitry-sur-Seine|Online S.A.S.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |6|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|7|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|84.247.190.159|3128|Germany|Düsseldorf|Contabo GmbH|
-|10|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|11|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|152.26.231.86|9443|United States|Concord|MCNC|
-|14|67.43.227.227|1905|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|7055|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|13555|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.83|9443|United States|Concord|MCNC|
-|18|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|72.10.160.170|13705|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|7159|Canada|Montreal|GloboTech Communications|
+|7|45.179.201.73|999|Colombia|Medellín|NET&COM LTDA.|
+|8|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|13|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|152.26.231.86|9443|United States|Concord|MCNC|
+|18|72.10.160.170|22257|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
+|20|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
