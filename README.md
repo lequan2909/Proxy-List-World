@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5918** proxies at the latest update. Usable proxies are below.
+> Scraper found **5973** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|154|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1172|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1227|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|233|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3401|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
 |3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.208.102.6|8080|Indonesia|Wonosobo|PT Tidar Lintas Nusa|
-|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|103.102.153.215|33128|Indonesia|Jakarta|PT Qwords Company International|
-|11|20.169.241.58|3128|United States|Boydton|Microsoft Corporation|
-|12|45.4.132.144|8080|Brazil|Pedro Leopoldo|R2 DADOS LTDA - ME|
-|13|36.66.123.193|8989|Indonesia|Bogor|PT. Telekomunikasi Indonesia|
-|14|119.76.142.228|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
-|15|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|16|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|17|49.156.151.246|83|India|Hyderabad|City Online|
-|18|8.215.41.90|8080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|19|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|6|185.64.208.230|53281|Russia|Kstovo|Svyazist LLC|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|8.215.41.90|8080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|9|78.25.68.130|8088|Russia|Krasnyy Oktyabr'|Volga Branch of OJSC MegaFon|
+|10|143.0.243.80|8080|Brazil|São Gonçalo|Nova Info Internet e Telecomunicações LTDA|
+|11|36.66.123.193|8989|Indonesia|Bogor|PT. Telekomunikasi Indonesia|
+|12|46.166.165.33|4007|Lithuania|Šiauliai|Cherry Servers|
+|13|85.15.91.59|7541|Russia|Khabarovsk|Vostoktelecom Telephone Company Limited Liability Company|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|94.231.199.226|1971|Iraq|Tall ‘Afar|Net Tech Ltd|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|119.18.149.147|5020|Bangladesh|Chittagong|BBTS Network|
+|18|49.0.32.48|8000|Bangladesh|Nārāyanganj|Always On Network Bangladesh Ltd.|
+|19|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
