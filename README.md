@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|67.43.227.227|13405|Canada|Montreal|GloboTech Communications|
-|7|152.26.231.83|9443|United States|Concord|MCNC|
-|8|152.26.231.94|9443|United States|Concord|MCNC|
-|9|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|10|72.10.164.178|31215|Canada|Montreal|GloboTech Communications|
-|11|152.26.231.93|9443|United States|Concord|MCNC|
-|12|72.10.160.170|21409|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.94|24425|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|31215|Canada|Montreal|GloboTech Communications|
-|15|36.88.125.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|16|72.10.160.93|11395|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|31215|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|22867|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|31215|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|8871|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
+|6|152.26.231.83|9443|United States|Concord|MCNC|
+|7|67.43.227.227|28231|Canada|Montreal|GloboTech Communications|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|152.26.231.94|9443|United States|Concord|MCNC|
+|10|152.26.229.86|9443|United States|Concord|MCNC|
+|11|103.48.68.220|83|India|Hyderabad|Country Online Services PVT LTD|
+|12|72.10.164.178|32673|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|32673|Canada|Montreal|GloboTech Communications|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|72.10.160.90|27981|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|32673|Canada|Montreal|GloboTech Communications|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|72.10.164.178|32673|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|28231|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|27981|Canada|Montreal|GloboTech Communications|
 
 
 
