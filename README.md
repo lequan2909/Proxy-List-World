@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|5.161.77.3|8080|United States|Ashburn|Hetzner Online GmbH|
-|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|6|5.161.77.3|8080|United States|Ashburn|Hetzner Online GmbH|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|9|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|10|103.80.82.178|8181|Indonesia|Batutering|Jaringanku Sarana Nusantara|
-|11|152.26.231.83|9443|United States|Concord|MCNC|
-|12|152.26.231.42|9443|United States|Concord|MCNC|
-|13|152.26.231.86|9443|United States|Concord|MCNC|
-|14|72.10.164.178|9743|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|9743|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|103.231.200.229|3128|Indonesia|Bekasi|PT. Berdikari Prima Mandiri|
-|18|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|19|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|20|72.10.164.178|9743|Canada|Montreal|GloboTech Communications|
+|3|5.161.77.3|8080|United States|Ashburn|Hetzner Online GmbH|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|5|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|45.9.43.28|8080|Russia|St Petersburg|Beget LLC|
+|7|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|163.172.33.137|4000|France|Vitry-sur-Seine|Online S.A.S.|
+|9|5.161.77.3|8080|United States|Ashburn|Hetzner Online GmbH|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|14|152.26.231.83|9443|United States|Concord|MCNC|
+|15|103.234.159.5|8080|India|Bengaluru|MWPL|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|152.26.229.86|9443|United States|Concord|MCNC|
+|19|72.10.164.178|15101|Canada|Montreal|GloboTech Communications|
+|20|14.103.168.150|8088|China|Beijing|BITNET|
 
 
 
