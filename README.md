@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|2|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |3|202.212.71.142|3128|Japan|Chiyoda|SIMPLEIA|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|110.78.149.142|8080|Thailand|Chon Buri|CAT-BB|
 |5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|6|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|9|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|103.165.155.67|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|11|38.123.220.16|8080|Mexico|Ixtlahuaca de Rayón|Cogent Communications|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|14.177.237.52|8080|Vietnam|Hanoi|VNPT|
-|16|120.28.220.26|8080|Philippines|Cagayan de Oro|Globe Telecom|
-|17|103.217.224.148|8090|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
-|20|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|103.87.148.40|1111|Indonesia|Demak|Lintas Data Prima, PT|
+|9|103.199.117.101|8080|Indonesia|Bumiayu|PT Hepra Teknologi Indonesia|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|103.173.230.88|8080|Indonesia|Serang|PT Jaringan Internet Banten|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|143.208.84.2|8589|Brazil|Ubiratã|V. GRAZIOLI & CIA. LTDA. - ME|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|14.177.237.52|8080|Vietnam|Hanoi|VNPT|
+|17|93.177.126.211|8088|Russia|Balashikha|G COM Ltd.|
+|18|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
