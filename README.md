@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|36.93.3.31|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|152.26.229.42|9443|United States|Concord|MCNC|
-|6|152.26.231.83|9443|United States|Concord|MCNC|
-|7|152.26.231.42|9443|United States|Concord|MCNC|
-|8|152.26.231.94|9443|United States|Concord|MCNC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|13|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|15|72.10.164.178|8151|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.171|15493|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|8151|Canada|Montreal|GloboTech Communications|
-|18|103.41.35.153|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|19|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|20|121.101.131.67|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|2|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|163.172.33.137|4000|France|Vitry-sur-Seine|Online S.A.S.|
+|7|24.152.49.189|999|Dominican Republic|Pimentel|Lightwave S.R.L|
+|8|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|152.26.231.83|9443|United States|Concord|MCNC|
+|11|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|152.26.231.42|9443|United States|Concord|MCNC|
+|13|152.26.229.42|9443|United States|Concord|MCNC|
+|14|152.26.231.94|9443|United States|Concord|MCNC|
+|15|154.64.211.145|999|United States|Jacksonville|OSNET Wireless|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|101.128.107.210|7777|Indonesia|Jakarta|CBN|
+|18|72.10.160.171|15493|Canada|Montreal|GloboTech Communications|
+|19|103.84.176.101|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|20|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
 
 
 
