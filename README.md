@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|140.227.124.230|3128|Japan|Chiyoda|InfoSphere|
-|4|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|10|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|11|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|187.157.243.254|8080|Mexico|Puebla City|Uninet S.A. de C.V.|
-|16|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
-|18|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|2|140.227.124.230|3128|Japan|Chiyoda|InfoSphere|
+|3|110.77.170.92|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|103.172.254.145|84|India|Hyderabad|Willaegis Online Private Limited|
+|11|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|14|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|152.26.231.83|9443|United States|Concord|MCNC|
+|17|190.94.245.179|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|72.10.160.173|23047|Canada|Montreal|GloboTech Communications|
 
 
 
