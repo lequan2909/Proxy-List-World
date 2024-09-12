@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|160.248.11.225|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|12|36.93.214.253|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|13|185.64.208.164|53281|Russia|Kstovo|Svyazist LLC|
-|14|103.180.123.27|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|15|116.104.90.218|5102|Vietnam|Hanoi|Viettel Corporation|
-|16|103.222.255.140|8080|Indonesia|Jakarta|PT Iktiar Doa Tawakal|
-|17|101.255.166.241|8080|Indonesia|Bekasi|PT Remala Abadi|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|36.64.206.107|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|20|15.204.161.192|18080|United States|Reston|OVH SAS|
+|2|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|4|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|6|160.248.11.225|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|8|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|79.143.177.29|21972|Germany|Munich|Contabo GmbH|
+|10|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|185.64.208.164|53281|Russia|Kstovo|Svyazist LLC|
+|13|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|204.199.120.60|8080|Colombia|Bogotá|Sistemas Telecomunicaciones Y Biomedicos De Colombia SAS|
+|17|125.26.99.41|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|18|103.180.118.76|3128|Indonesia|Gresik|PT Persada Data Multimedia|
+|19|101.255.166.241|8080|Indonesia|Bekasi|PT Remala Abadi|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
