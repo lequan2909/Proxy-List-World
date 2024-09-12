@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5860** proxies at the latest update. Usable proxies are below.
+> Scraper found **5859** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|155|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1144|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1143|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|202|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3401|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |3|164.70.66.79|3128|Japan|Chiyoda|InfoSphere|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|200.159.143.38|8080|Brazil|Rio de Janeiro|Winfnet Telecom Wireless Ltda|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|10|106.227.87.11|3128|China|Taohua|China Telecom|
-|11|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|12|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|13|120.29.124.131|8080|Philippines|Pasig|ComClark Network & Technology Corp|
-|14|38.156.74.49|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|16|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|17|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|18|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|19|103.139.98.157|8080|Indonesia|Bandaragung|Digital Network Setiawan|
-|20|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|182.160.103.220|8090|Bangladesh|Dhaka|Aamra Networks Limited|
+|7|103.172.42.17|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|91.205.69.126|8080|Bosnia and Herzegovina|Gradačac|Telesat d.o.o.|
+|12|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|13|103.69.20.81|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|14|106.227.87.11|3128|China|Taohua|China Telecom|
+|15|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|16|223.206.59.24|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|17|212.112.125.44|45555|Kyrgyzstan|Bishkek|AKNET Ltd.|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|124.107.144.249|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|20|72.10.164.178|16855|Canada|Montreal|GloboTech Communications|
 
 
 
