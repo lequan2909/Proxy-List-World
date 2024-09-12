@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|3|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|4|103.70.93.70|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|46.166.165.33|4007|Lithuania|Šiauliai|Cherry Servers|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
-|10|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|11|103.70.93.70|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|185.64.208.230|53281|Russia|Kstovo|Svyazist LLC|
-|14|36.66.123.193|8989|Indonesia|Bogor|PT. Telekomunikasi Indonesia|
-|15|103.247.21.226|1111|Indonesia|Bekasi|PT wifian Solution|
-|16|106.227.87.11|3128|China|Taohua|China Telecom|
-|17|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|18|103.171.244.44|8088|Indonesia|Madiun|PT Data Arta Sedaya|
-|19|45.71.202.148|1993|Ecuador|Cuenca|Ufinet Panama S.A.|
-|20|119.76.142.228|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
+|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|8|58.147.186.31|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|11|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|12|103.180.118.5|8888|Indonesia|Gresik|PT Persada Data Multimedia|
+|13|36.66.123.193|8989|Indonesia|Bogor|PT. Telekomunikasi Indonesia|
+|14|31.211.82.232|3128|Russia|Tomsk|OOO NETCOM|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|103.169.255.171|8080|Indonesia|Banyuwangi|PT Master Star Network|
+|17|122.50.6.186|80|Indonesia|Jakarta Pusat|PT Mora Telematika Indonesia|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|117.68.38.137|20017|China|Hefei|China Telecom|
 
 
 
