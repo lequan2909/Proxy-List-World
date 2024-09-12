@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|8|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|202.93.244.98|8080|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
-|12|200.114.87.2|8080|Argentina|Bosques|Citarella S.A.|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|70.63.90.245|8080|United States|Wilmington|Spectrum|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
 |14|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
-|16|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|17|152.26.229.34|9443|United States|Concord|MCNC|
-|18|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|19|152.26.231.93|9443|United States|Concord|MCNC|
-|20|152.26.229.47|9443|United States|Concord|MCNC|
+|15|103.84.176.101|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|16|113.192.30.159|1111|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|17|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|18|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
+|19|152.26.229.34|9443|United States|Concord|MCNC|
+|20|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
 
 
 
