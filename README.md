@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|4|24.207.79.154|8000|Canada|Delta|Delta Cable Communications Ltd.|
-|5|160.22.190.10|8080|Indonesia|Loakulu|PT Aldiyanur Mahakam Telemedia|
-|6|103.177.10.139|8080|Indonesia|Tulungagung|PT Nalendra Gigantara Media|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|117.68.38.173|34567|China|Hefei|China Telecom|
-|10|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
-|11|191.243.46.154|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|12|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
-|13|67.43.236.20|28921|Canada|Montreal|GloboTech Communications|
-|14|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|67.43.227.227|13341|Canada|Montreal|GloboTech Communications|
-|17|84.254.0.86|32650|Greece|Athens|Tellas S.A|
-|18|152.26.229.46|9443|United States|Concord|MCNC|
-|19|103.90.233.210|3128|Vietnam|Quận Mười Một|WEBPANDA|
-|20|166.111.54.11|7896|China|Haidian|China Education and Research Network Center|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
+|8|103.154.91.250|8081|Indonesia|Jakarta|MORATELINDONAP|
+|9|67.43.227.227|4073|Canada|Montreal|GloboTech Communications|
+|10|67.43.227.227|4073|Canada|Montreal|GloboTech Communications|
+|11|218.1.142.112|57114|China|Shanghai|China Telecom (Group)|
+|12|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|13|152.26.229.46|9443|United States|Concord|MCNC|
+|14|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|72.10.164.178|17011|Canada|Montreal|GloboTech Communications|
+|16|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|152.26.231.94|9443|United States|Concord|MCNC|
+|19|72.10.164.178|17011|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|17011|Canada|Montreal|GloboTech Communications|
 
 
 
