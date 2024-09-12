@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.204.161.192|18080|United States|Reston|OVH SAS|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|152.26.229.46|9443|United States|Concord|MCNC|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |5|152.26.229.83|9443|United States|Concord|MCNC|
-|6|152.26.231.93|9443|United States|Concord|MCNC|
-|7|160.248.11.206|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|8|72.10.164.178|2753|Canada|Montreal|GloboTech Communications|
+|6|152.26.229.46|9443|United States|Concord|MCNC|
+|7|152.26.231.93|9443|United States|Concord|MCNC|
+|8|160.248.11.206|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |9|152.26.229.47|9443|United States|Concord|MCNC|
-|10|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|103.87.169.207|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|12|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|13|72.10.160.173|27855|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|29993|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|29993|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|17|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
-|18|72.10.160.171|14773|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|2753|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|10|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
+|12|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|72.10.164.178|26501|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.173|27855|Canada|Montreal|GloboTech Communications|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|72.10.160.171|20201|Canada|Montreal|GloboTech Communications|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 
 
 
