@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|5|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|10|160.248.11.206|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|12|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|13|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|152.26.231.42|9443|United States|Concord|MCNC|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|160.248.11.206|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|11|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|13|152.26.231.42|9443|United States|Concord|MCNC|
+|14|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
 |15|152.26.231.94|9443|United States|Concord|MCNC|
-|16|67.43.227.226|5923|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.34|9443|United States|Concord|MCNC|
-|18|152.26.229.46|9443|United States|Concord|MCNC|
-|19|152.26.229.93|9443|United States|Concord|MCNC|
-|20|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|152.26.229.93|9443|United States|Concord|MCNC|
+|17|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|36.93.129.73|8080|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|20|67.43.227.226|15593|Canada|Montreal|GloboTech Communications|
 
 
 
