@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|103.188.175.35|80|Indonesia|Tarakan|PT. Fiber Networks Indonesia|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|45.117.29.33|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|6|190.94.213.6|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|7|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|103.84.176.101|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|9|194.164.206.37|3128|United Kingdom|Farnham|NETKONECT|
-|10|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|36.93.129.73|8080|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |11|160.248.11.206|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|12|103.227.61.51|8899|Australia|Sydney|Origin Net Pty Ltd|
-|13|152.26.231.94|9443|United States|Concord|MCNC|
-|14|191.243.46.154|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|12|152.26.231.94|9443|United States|Concord|MCNC|
+|13|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|67.43.227.228|23959|Canada|Montreal|GloboTech Communications|
 |15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|91.136.142.155|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
-|17|95.0.90.242|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|18|72.10.164.178|3619|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|3619|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|3619|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|13255|Canada|Montreal|GloboTech Communications|
+|17|36.95.78.156|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|38.159.232.6|8080|Dominican Republic|Santiago de los Caballeros|Lightwave S.R.L|
+|20|188.132.221.21|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
