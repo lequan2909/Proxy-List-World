@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|140.227.124.230|3128|Japan|Chiyoda|InfoSphere|
-|4|101.109.109.88|8080|Thailand|Chon Buri|TOT Public Company Limited|
-|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|7|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|8|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|47.88.17.170|8118|United States|Minkler|Alibaba.com LLC|
+|2|140.227.124.230|3128|Japan|Chiyoda|InfoSphere|
+|3|101.109.109.88|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|5|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|6|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|9|1.160.1.221|8081|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
 |11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|15|103.247.22.233|3127|Indonesia|Bekasi|PT wifian Solution|
-|16|152.26.229.34|9443|United States|Concord|MCNC|
-|17|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|210.76.194.158|7897|China|Beijing|Chinese Science & Technology Network|
-|20|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|69.160.223.225|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
+|15|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|16|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|17|121.101.131.67|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|18|195.158.197.96|8088|Ukraine|Kyiv|Teremky LAN ISP LLC|
+|19|152.26.229.34|9443|United States|Concord|MCNC|
+|20|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
 
 
 
