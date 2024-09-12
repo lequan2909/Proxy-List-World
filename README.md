@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|3|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|112.201.188.62|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|3|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|152.26.229.86|9443|United States|Concord|MCNC|
 |9|202.212.71.137|3128|Japan|Chiyoda|SIMPLEIA|
-|10|103.169.129.4|1111|Indonesia|Cirebon|PT Media Akses Data|
-|11|152.26.229.86|9443|United States|Concord|MCNC|
-|12|72.10.160.90|23429|Canada|Montreal|GloboTech Communications|
-|13|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.160.93|12747|Canada|Montreal|GloboTech Communications|
-|17|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|72.10.164.178|2781|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.174|8633|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|6235|Canada|Montreal|GloboTech Communications|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
+|15|67.43.227.228|6235|Canada|Montreal|GloboTech Communications|
+|16|165.255.244.220|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
+|17|72.10.164.178|33237|Canada|Montreal|GloboTech Communications|
+|18|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
