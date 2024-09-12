@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
 |4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
 |7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|148.251.87.79|16379|Germany|Falkenstein|Hetzner Online GmbH|
-|9|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|140.227.124.230|3128|Japan|Chiyoda|InfoSphere|
 |11|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|152.26.231.86|9443|United States|Concord|MCNC|
-|13|148.251.86.76|16379|Germany|Falkenstein|Hetzner Online GmbH|
+|12|202.212.79.147|3128|Japan|Chiyoda|SIMPLEIA|
+|13|152.26.231.86|9443|United States|Concord|MCNC|
 |14|152.26.229.86|9443|United States|Concord|MCNC|
-|15|140.227.124.230|3128|Japan|Chiyoda|InfoSphere|
-|16|67.43.236.20|32563|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.46|9443|United States|Concord|MCNC|
-|18|117.68.38.174|29133|China|Hefei|China Telecom|
-|19|202.212.79.147|3128|Japan|Chiyoda|SIMPLEIA|
-|20|72.10.160.173|17821|Canada|Montreal|GloboTech Communications|
+|15|152.26.229.46|9443|United States|Concord|MCNC|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|18|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
