@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|392|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|392|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|392|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|180.191.16.9|8085|Philippines|Cabanatuan City|Globe Telecom|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|7|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|49.48.81.245|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|102.39.156.37|8080|South Africa|Cape Town|Vox Telecom|
-|12|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|14.240.43.203|8080|Vietnam|Hanoi|VNPT|
-|16|103.162.16.47|8080|Indonesia|Pati|PT Mega Data Perkasa|
-|17|186.0.144.141|9595|Brazil|Araçatuba|Tellius Telecomunicacoes DAS Americas Ltda|
-|18|103.53.78.26|8080|Indonesia|Surabaya|INTI|
-|19|93.177.126.211|8088|Russia|Balashikha|G COM Ltd.|
-|20|78.25.68.130|8088|Russia|Krasnyy Oktyabr'|Volga Branch of OJSC MegaFon|
+|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|3|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|103.189.249.220|1111|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
+|6|103.146.184.101|8090|Indonesia|Sragen|YAMNET|
+|7|180.191.16.9|8085|Philippines|Cabanatuan City|Globe Telecom|
+|8|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|14.240.43.203|8080|Vietnam|Hanoi|VNPT|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|106.227.87.11|3128|China|Taohua|China Telecom|
+|14|164.70.66.79|3128|Japan|Chiyoda|InfoSphere|
+|15|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|16|36.80.25.14|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|17|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
