@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|140.227.124.212|3128|Japan|Chiyoda|InfoSphere|
 |3|164.70.117.212|3128|Japan|Chiyoda|InfoSphere|
 |4|164.70.68.45|3128|Japan|Chiyoda|InfoSphere|
-|5|140.227.124.231|3128|Japan|Chiyoda|InfoSphere|
+|5|164.70.117.197|3128|Japan|Chiyoda|InfoSphere|
 |6|202.212.71.137|3128|Japan|Chiyoda|SIMPLEIA|
-|7|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|8|164.70.117.197|3128|Japan|Chiyoda|InfoSphere|
+|7|140.227.124.231|3128|Japan|Chiyoda|InfoSphere|
+|8|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |9|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|12|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|18|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|19|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|157.100.57.180|999|Ecuador|Juan Montalvo|Ufinet Panama S.A.|
+|11|178.254.42.100|8118|Germany|Berlin|BLU-VH|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|14|200.24.138.137|999|Ecuador|Quito|Ufinet Panama S.A.|
+|15|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|202.152.142.186|8080|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
+|19|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|67.43.227.227|5601|Canada|Montreal|GloboTech Communications|
 
 
 
