@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|154.55.245.69|3128|Hong Kong|Hong Kong|HONG KONG Megalayer Technology Co., Limited|
-|8|202.212.79.147|3128|Japan|Chiyoda|SIMPLEIA|
-|9|164.70.66.79|3128|Japan|Chiyoda|InfoSphere|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|67.43.236.20|23795|Canada|Montreal|GloboTech Communications|
-|13|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|72.10.160.90|2689|Canada|Montreal|GloboTech Communications|
-|15|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
+|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|4|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|103.147.134.231|8080|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|103.125.19.29|8080|Indonesia|Tangerang|JAVAMEDIA|
+|10|46.19.112.62|8890|Russia|Moscow|SVYAZ-ENERGO telecommunications company|
+|11|202.212.79.147|3128|Japan|Chiyoda|SIMPLEIA|
+|12|164.70.66.79|3128|Japan|Chiyoda|InfoSphere|
+|13|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|190.237.238.211|999|Peru|Trujillo|TDP-GRS|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |17|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|67.43.227.230|10131|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|24839|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|22367|Canada|Montreal|GloboTech Communications|
+|18|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|36.95.78.156|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 
 
 
