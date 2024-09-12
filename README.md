@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5619** proxies at the latest update. Usable proxies are below.
+> Scraper found **5543** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|157|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|919|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|843|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|160|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3425|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|140.227.124.230|3128|Japan|Chiyoda|InfoSphere|
-|3|101.109.109.88|8080|Thailand|Chon Buri|TOT Public Company Limited|
-|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|6|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|9|1.160.1.221|8081|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|69.160.223.225|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
-|15|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|16|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|17|121.101.131.67|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|18|195.158.197.96|8088|Ukraine|Kyiv|Teremky LAN ISP LLC|
-|19|152.26.229.34|9443|United States|Concord|MCNC|
-|20|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
+|3|103.162.63.65|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|4|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|6|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|11|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|181.78.94.157|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|13|103.247.12.18|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|14|103.247.23.192|8080|Indonesia|Bekasi|PT wifian Solution|
+|15|200.39.120.81|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|16|152.26.229.47|9443|United States|Concord|MCNC|
+|17|152.26.229.46|9443|United States|Concord|MCNC|
+|18|202.212.79.147|3128|Japan|Chiyoda|SIMPLEIA|
+|19|46.19.112.62|8890|Russia|Moscow|SVYAZ-ENERGO telecommunications company|
+|20|152.26.231.94|9443|United States|Concord|MCNC|
 
 
 
