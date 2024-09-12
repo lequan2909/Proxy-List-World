@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|164.70.117.141|3128|Japan|Chiyoda|InfoSphere|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
 |6|37.60.255.91|3128|Germany|Düsseldorf|SiteGround|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|12|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
-|14|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|152.26.231.42|9443|United States|Concord|MCNC|
-|16|152.26.231.83|9443|United States|Concord|MCNC|
-|17|152.26.231.94|9443|United States|Concord|MCNC|
-|18|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|72.10.164.178|24171|Canada|Montreal|GloboTech Communications|
-|20|37.60.255.91|3128|Germany|Düsseldorf|SiteGround|
+|10|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|164.70.66.79|3128|Japan|Chiyoda|InfoSphere|
+|14|36.72.245.209|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|15|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
+|16|103.148.192.82|9012|Indonesia|Bandung|PT. Akashia Thuba Jaya|
+|17|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
+|18|152.26.229.93|9443|United States|Concord|MCNC|
+|19|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
