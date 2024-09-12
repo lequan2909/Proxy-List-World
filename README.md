@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5732** proxies at the latest update. Usable proxies are below.
+> Scraper found **5669** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|157|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1072|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1009|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|144|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3401|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|5|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|160.248.11.225|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|7|103.46.8.61|8080|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
-|8|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|10|185.64.208.164|53281|Russia|Kstovo|Svyazist LLC|
-|11|101.255.166.241|8080|Indonesia|Bekasi|PT Remala Abadi|
-|12|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|13|113.192.48.90|8090|Indonesia|Batu|PT.Global Media Data Prima|
-|14|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|58.69.117.149|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|1|61.7.191.7|8080|Thailand|Ao Nang|CAT Telecom Public Company Limited|
+|2|43.167.239.102|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|3|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|4|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|24.172.82.94|53281|United States|Concord|Spectrum|
+|13|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|14|188.209.239.95|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
+|15|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
 |16|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|17|223.25.110.225|1080|Indonesia|Surabaya|SinergiNet|
-|18|124.106.66.194|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|19|103.81.158.137|8080|India|Chandīgarh|Digitax India Communications Pvt Ltd.|
-|20|185.79.243.74|8080|Poland|Myszków|PHU Kario-Sat Sp. z o.o.|
+|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|18|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
