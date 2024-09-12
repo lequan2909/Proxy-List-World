@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|468|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|468|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|468|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |3|164.70.66.79|3128|Japan|Chiyoda|InfoSphere|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|103.162.54.251|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
-|6|144.86.187.54|3129|United States|Malden|Charles River Operation|
-|7|200.114.84.190|8080|Argentina|La Plata|Citarella S.A.|
-|8|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|9|120.28.196.74|8082|Philippines|Davao City|Globe Telecom|
-|10|103.164.214.122|8080|Indonesia|Cilangkap|PT iForte Global Internet|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|27.66.24.106|8080|Vietnam|Da Nang|Viettel Group|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|49.51.244.112|8888|United States|San Jose|OPHL|
-|15|202.137.122.4|8082|Philippines|Davao City|Dataconnect Network Services Inc.|
-|16|189.205.215.202|8080|Mexico|Puebla City|Axtel, S.A.B. de C.V.|
-|17|102.68.128.212|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|15.204.161.192|18080|United States|Reston|OVH SAS|
-|20|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|200.159.143.38|8080|Brazil|Rio de Janeiro|Winfnet Telecom Wireless Ltda|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|10|106.227.87.11|3128|China|Taohua|China Telecom|
+|11|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|12|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|13|120.29.124.131|8080|Philippines|Pasig|ComClark Network & Technology Corp|
+|14|38.156.74.49|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|16|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|17|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|18|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|19|103.139.98.157|8080|Indonesia|Bandaragung|Digital Network Setiawan|
+|20|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
