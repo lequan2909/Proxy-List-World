@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.204.161.192|18080|United States|Reston|OVH SAS|
-|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
 |5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|36.93.130.219|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
-|8|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
-|9|152.26.231.83|9443|United States|Concord|MCNC|
-|10|152.26.229.34|9443|United States|Concord|MCNC|
-|11|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|12|72.10.164.178|2341|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.170|3211|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.226|22227|Canada|Montreal|GloboTech Communications|
+|6|103.139.98.157|8080|Indonesia|Bandaragung|Digital Network Setiawan|
+|7|165.16.27.42|1981|Libya|Benghazi|Aljeel Aljadeed For Technology|
+|8|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|14.143.130.210|1111|India|Mumbai|Tata Communications Limited|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|12|152.26.231.83|9443|United States|Concord|MCNC|
+|13|152.26.229.34|9443|United States|Concord|MCNC|
+|14|72.10.164.178|2341|Canada|Montreal|GloboTech Communications|
 |15|210.45.70.92|15893|China|Hefei|USTC1|
 |16|152.26.229.83|9443|United States|Concord|MCNC|
-|17|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|72.10.164.178|2341|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|2341|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|6751|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.170|3211|Canada|Montreal|GloboTech Communications|
+|18|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|72.10.160.173|10863|Canada|Montreal|GloboTech Communications|
+|20|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
