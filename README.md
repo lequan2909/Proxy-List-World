@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|164.70.117.46|3128|Japan|Chiyoda|InfoSphere|
-|3|164.70.117.120|3128|Japan|Chiyoda|InfoSphere|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|164.70.117.212|3128|Japan|Chiyoda|InfoSphere|
-|6|140.227.124.212|3128|Japan|Chiyoda|InfoSphere|
-|7|164.70.117.197|3128|Japan|Chiyoda|InfoSphere|
+|1|140.227.124.51|3128|Japan|Chiyoda|InfoSphere|
+|2|164.70.117.120|3128|Japan|Chiyoda|InfoSphere|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|140.227.124.212|3128|Japan|Chiyoda|InfoSphere|
+|6|164.70.117.46|3128|Japan|Chiyoda|InfoSphere|
+|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
 |8|164.70.68.45|3128|Japan|Chiyoda|InfoSphere|
 |9|140.227.124.231|3128|Japan|Chiyoda|InfoSphere|
-|10|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|202.212.71.137|3128|Japan|Chiyoda|SIMPLEIA|
+|10|164.70.117.197|3128|Japan|Chiyoda|InfoSphere|
+|11|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |12|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|14|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|17|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|18|89.46.249.252|5080|United Kingdom|London|Hydra Communications Ltd|
-|19|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|20|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|13|164.70.117.212|3128|Japan|Chiyoda|InfoSphere|
+|14|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|15|202.212.71.137|3128|Japan|Chiyoda|SIMPLEIA|
+|16|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|17|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|103.213.218.37|33650|Vietnam|Lê Chân District|V9ERP|
+|20|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
 
 
 
