@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|5|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|10|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|4|160.248.11.225|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|5|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|8|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|9|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|11|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
 |13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|103.22.99.93|7777|Indonesia|Magetan|KHALISTAGROUP|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|202.57.2.20|8080|Indonesia|Jakarta|Primanet - ISP|
-|20|182.160.103.220|8090|Bangladesh|Dhaka|Aamra Networks Limited|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|200.92.201.126|999|Mexico|San Felipe|Mega Cable, S.A. de C.V.|
+|19|103.22.99.93|7777|Indonesia|Magetan|KHALISTAGROUP|
+|20|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
 
 
 
