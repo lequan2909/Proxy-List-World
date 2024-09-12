@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5658** proxies at the latest update. Usable proxies are below.
+> Scraper found **5717** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|157|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|998|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1057|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|144|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3401|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|103.188.175.35|80|Indonesia|Tarakan|PT. Fiber Networks Indonesia|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|45.117.29.33|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|6|190.94.213.6|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|7|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|103.84.176.101|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|9|194.164.206.37|3128|United Kingdom|Farnham|NETKONECT|
-|10|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|160.248.11.206|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|12|103.227.61.51|8899|Australia|Sydney|Origin Net Pty Ltd|
-|13|152.26.231.94|9443|United States|Concord|MCNC|
-|14|191.243.46.154|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|91.136.142.155|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
-|17|95.0.90.242|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|18|72.10.164.178|3619|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|3619|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|3619|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|4|24.207.79.154|8000|Canada|Delta|Delta Cable Communications Ltd.|
+|5|160.22.190.10|8080|Indonesia|Loakulu|PT Aldiyanur Mahakam Telemedia|
+|6|103.177.10.139|8080|Indonesia|Tulungagung|PT Nalendra Gigantara Media|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|117.68.38.173|34567|China|Hefei|China Telecom|
+|10|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
+|11|191.243.46.154|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|12|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
+|13|67.43.236.20|28921|Canada|Montreal|GloboTech Communications|
+|14|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|15|15.204.161.192|18080|United States|Reston|OVH SAS|
+|16|67.43.227.227|13341|Canada|Montreal|GloboTech Communications|
+|17|84.254.0.86|32650|Greece|Athens|Tellas S.A|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|103.90.233.210|3128|Vietnam|Quận Mười Một|WEBPANDA|
+|20|166.111.54.11|7896|China|Haidian|China Education and Research Network Center|
 
 
 
