@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|412|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|412|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|412|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|164.70.66.79|3128|Japan|Chiyoda|InfoSphere|
-|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|182.160.103.220|8090|Bangladesh|Dhaka|Aamra Networks Limited|
-|7|103.172.42.17|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|91.205.69.126|8080|Bosnia and Herzegovina|Gradačac|Telesat d.o.o.|
-|12|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|13|103.69.20.81|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|14|106.227.87.11|3128|China|Taohua|China Telecom|
-|15|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|16|223.206.59.24|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|17|212.112.125.44|45555|Kyrgyzstan|Bishkek|AKNET Ltd.|
-|18|152.26.231.42|9443|United States|Concord|MCNC|
-|19|124.107.144.249|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|72.10.164.178|16855|Canada|Montreal|GloboTech Communications|
+|2|164.70.66.79|3128|Japan|Chiyoda|InfoSphere|
+|3|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|223.206.59.24|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|8|144.86.187.55|3129|United States|Malden|Charles River Operation|
+|9|1.20.200.154|8081|Thailand|Bangkok|TOT Public Company Limited|
+|10|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|11|185.200.37.99|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|103.180.118.170|8080|Indonesia|Gresik|PT Persada Data Multimedia|
+|15|38.156.74.49|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
+|17|46.19.112.62|8890|Russia|Moscow|SVYAZ-ENERGO telecommunications company|
+|18|42.113.88.14|8080|Vietnam|Vĩnh Long|FPT Telecom Company|
+|19|186.16.14.104|3131|Paraguay|Asunción|Telecel S.A.|
+|20|38.45.32.131|999|Venezuela|La Guaira|TELECOMUNICACIONES G-NETWORK, C.A.|
 
 
 
