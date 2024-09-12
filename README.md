@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|448|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|448|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|448|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.148.45.60|8833|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|7|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|8|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|9|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|103.154.139.83|8080|Indonesia|Jakarta|MORATELINDONAP|
-|13|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|144.86.187.50|3129|United States|Malden|Charles River Operation|
-|16|103.178.42.100|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
-|17|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|18|101.109.147.159|8080|Thailand|Rayong|TOT Public Company Limited|
-|19|36.95.78.156|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|2|61.7.191.149|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
+|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|5|101.109.147.159|8080|Thailand|Rayong|TOT Public Company Limited|
+|6|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|114.130.183.66|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|9|103.154.139.83|8080|Indonesia|Jakarta|MORATELINDONAP|
+|10|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|103.131.19.156|3127|Indonesia|Pasarkemis|PT Global Media Data Prima|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|103.88.237.91|84|India|Hyderabad|Mana Communications|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|17|109.86.182.203|3128|Ukraine|Kharkiv|Triolan|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
 |20|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
 
 
