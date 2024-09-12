@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|6|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
 |8|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|152.26.231.83|9443|United States|Concord|MCNC|
-|12|152.26.229.42|9443|United States|Concord|MCNC|
-|13|72.10.164.178|14931|Canada|Montreal|GloboTech Communications|
-|14|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|72.10.164.178|14931|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|21223|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|21223|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|14931|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|14931|Canada|Montreal|GloboTech Communications|
-|20|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|10|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|152.26.231.83|9443|United States|Concord|MCNC|
+|15|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|72.10.164.178|4357|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|4357|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|21223|Canada|Montreal|GloboTech Communications|
+|20|202.212.79.147|3128|Japan|Chiyoda|SIMPLEIA|
 
 
 
