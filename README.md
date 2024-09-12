@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
 |4|15.204.161.192|18080|United States|Reston|OVH SAS|
 |5|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|103.139.126.31|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|9|49.48.80.231|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|10|142.132.193.244|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|191.97.19.86|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
-|12|14.139.57.195|23500|India|Lucknow|National Knowledge Network|
-|13|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|14|103.193.144.85|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|15|68.162.217.121|8080|United States|Leominster|Verizon Business|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|20|67.43.228.253|4431|Canada|Montreal|GloboTech Communications|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|160.19.231.226|8080|Indonesia|Jakarta|PT TELSAR JAYA NETWORK TEKNOLOGY|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|10|191.97.19.86|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
+|11|71.14.23.121|8080|United States|Hoover|Spectrum|
+|12|144.86.187.42|3129|United States|Malden|Charles River Operation|
+|13|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
+|15|142.132.193.244|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|49.48.80.231|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|17|191.243.46.154|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|19|72.10.164.178|12565|Canada|Montreal|GloboTech Communications|
+|20|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
