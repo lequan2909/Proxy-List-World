@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5821** proxies at the latest update. Usable proxies are below.
+> Scraper found **5796** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|159|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|939|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|200|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|175|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3565|✅|
 
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
-|9|190.8.47.122|999|Dominican Republic|Santo Domingo|Trilogy Dominicana, S.A.|
-|10|103.88.239.178|84|India|Hyderabad|Mana Communications|
-|11|84.255.40.228|8998|Malta|Sliema|Melita plc|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|102.209.18.38|8080|Kenya|Nairobi|Vennet Solutions Limited|
-|14|185.200.37.121|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|185.44.26.217|43097|Spain|Pozo Estrecho|Electronica Martinez de Cartagena S.L.|
-|16|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|91.229.28.110|3128|Slovakia|Nitra|KOMNET, s.r.o.|
-|19|103.113.170.230|3128|Indonesia|Jakarta|PT Cloudata Indonesia|
-|20|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|4|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|119.47.90.76|8080|Indonesia|Batang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|15.235.171.205|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
+|10|180.191.16.9|8085|Philippines|Cabanatuan City|Globe Telecom|
+|11|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|12|103.171.244.45|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|13|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|49.48.81.245|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|18|103.178.21.91|3125|Indonesia|Sumberpucung|PT Trisna Mega Abadi|
+|19|103.247.21.225|2024|Indonesia|Bekasi|PT wifian Solution|
+|20|190.53.46.11|38525|Nicaragua|Ticuantepe|Amnet Telecomunicaciones S.A.|
 
 
 
