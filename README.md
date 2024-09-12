@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|4|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|5|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|10|152.26.229.47|9443|United States|Concord|MCNC|
-|11|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|152.26.231.94|9443|United States|Concord|MCNC|
-|13|152.26.229.83|9443|United States|Concord|MCNC|
-|14|67.43.227.230|10597|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|8263|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|5571|Canada|Montreal|GloboTech Communications|
-|17|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|67.43.227.228|6597|Canada|Montreal|GloboTech Communications|
-|19|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|20|67.43.236.20|23025|Canada|Montreal|GloboTech Communications|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|200.114.87.2|8080|Argentina|Bosques|Citarella S.A.|
+|12|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|16|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|121.101.131.67|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|18|152.26.229.47|9443|United States|Concord|MCNC|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
+|20|152.26.231.94|9443|United States|Concord|MCNC|
 
 
 
