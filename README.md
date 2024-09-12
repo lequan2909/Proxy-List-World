@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|164.70.117.141|3128|Japan|Chiyoda|InfoSphere|
-|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|103.153.247.46|3128|Indonesia|Jakarta|PRIMAHOME|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|202.191.123.195|8090|Bangladesh|Dhaka|Bijoy Online Limited|
-|12|103.80.82.178|8181|Indonesia|Batutering|Jaringanku Sarana Nusantara|
-|13|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|139.255.33.242|3128|Indonesia|Jakarta|PT. LINKNET|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|17|103.156.248.27|8085|Indonesia|Medan|Trans Media Telekomunikasi|
-|18|27.124.93.197|8080|Indonesia|Pamulang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|19|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|1|164.70.117.141|3128|Japan|Chiyoda|InfoSphere|
+|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|3|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
+|9|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|159.255.163.153|47193|Iraq|Erbil|Tarin General Trading and Setting Up Internet Device LTD|
+|11|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
+|14|101.255.167.173|8080|Indonesia|Bekasi|PT Remala Abadi|
+|15|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|18|152.26.229.47|9443|United States|Concord|MCNC|
+|19|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|20|103.178.42.102|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
 
 
 
