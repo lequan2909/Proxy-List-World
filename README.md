@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |4|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
 |5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|155.232.186.30|3128|South Africa|Cape Town|TENET (The UNINET Project)|
-|7|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|201.20.118.146|27234|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|9|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|10|103.83.0.62|8085|Indonesia|Lamongan|PT Kia Integrasi Akses|
-|11|152.26.229.83|9443|United States|Concord|MCNC|
-|12|152.26.229.46|9443|United States|Concord|MCNC|
-|13|152.26.231.42|9443|United States|Concord|MCNC|
-|14|72.10.160.171|9285|Canada|Montreal|GloboTech Communications|
-|15|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|16|72.10.160.171|9285|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|14611|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|152.26.231.94|9443|United States|Concord|MCNC|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|6|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|7|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|8|152.26.229.83|9443|United States|Concord|MCNC|
+|9|152.26.229.46|9443|United States|Concord|MCNC|
+|10|152.26.231.42|9443|United States|Concord|MCNC|
+|11|152.26.229.86|9443|United States|Concord|MCNC|
+|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|13|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
+|14|160.248.11.206|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|148.72.140.24|30120|United States|St Louis|GoDaddy.com|
+|16|202.212.71.142|3128|Japan|Chiyoda|SIMPLEIA|
+|17|103.234.159.5|8080|India|Bengaluru|MWPL|
+|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|19|67.43.227.226|31263|Canada|Montreal|GloboTech Communications|
+|20|152.26.231.94|9443|United States|Concord|MCNC|
 
 
 
