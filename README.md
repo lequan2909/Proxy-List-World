@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|49.49.90.225|8081|Thailand|Nakhon Phanom|Triple T Broadband Public Company Limited|
-|7|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|194.156.88.125|2411|United Kingdom|Bradford|aurologic GmbH|
-|9|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|10|42.200.124.211|8080|Hong Kong|Central|PCCW IMSBiz|
-|11|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|160.248.11.213|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|152.26.229.46|9443|United States|Concord|MCNC|
-|14|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|152.26.229.34|9443|United States|Concord|MCNC|
-|16|152.26.229.93|9443|United States|Concord|MCNC|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|152.26.231.83|9443|United States|Concord|MCNC|
-|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|86.109.3.28|10013|United States|Chicago|Packet Host, Inc.|
+|9|103.167.114.211|8080|Indonesia|Jepara|Dinas Komunikasi dan Informatika Kabupaten Jepara|
+|10|36.88.125.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|27.147.132.145|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|13|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|14|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|15|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|103.48.71.6|83|India|Hyderabad|Country Online Services PVT LTD|
+|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|18|160.248.11.213|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
