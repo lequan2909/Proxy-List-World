@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|417|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|417|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|417|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.227.119.179|3128|Japan|Chiyoda|InfoSphere|
 |2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|140.227.124.51|3128|Japan|Chiyoda|InfoSphere|
-|6|164.70.68.40|3128|Japan|Chiyoda|InfoSphere|
-|7|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
-|8|164.70.117.120|3128|Japan|Chiyoda|InfoSphere|
-|9|164.70.117.46|3128|Japan|Chiyoda|InfoSphere|
-|10|140.227.124.212|3128|Japan|Chiyoda|InfoSphere|
-|11|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|202.212.71.137|3128|Japan|Chiyoda|SIMPLEIA|
-|13|164.70.68.45|3128|Japan|Chiyoda|InfoSphere|
-|14|164.70.117.212|3128|Japan|Chiyoda|InfoSphere|
-|15|164.70.117.197|3128|Japan|Chiyoda|InfoSphere|
-|16|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|164.70.68.40|3128|Japan|Chiyoda|InfoSphere|
+|5|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
+|6|140.227.124.51|3128|Japan|Chiyoda|InfoSphere|
+|7|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|8|202.212.71.137|3128|Japan|Chiyoda|SIMPLEIA|
+|9|140.227.124.212|3128|Japan|Chiyoda|InfoSphere|
+|10|164.70.117.212|3128|Japan|Chiyoda|InfoSphere|
+|11|164.70.117.197|3128|Japan|Chiyoda|InfoSphere|
+|12|164.70.117.46|3128|Japan|Chiyoda|InfoSphere|
+|13|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|14|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|164.70.68.45|3128|Japan|Chiyoda|InfoSphere|
+|16|203.150.128.23|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
 |17|140.227.124.231|3128|Japan|Chiyoda|InfoSphere|
-|18|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|203.150.128.23|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|18|164.70.117.120|3128|Japan|Chiyoda|InfoSphere|
+|19|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
