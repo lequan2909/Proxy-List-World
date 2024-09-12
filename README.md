@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|3|171.5.163.156|8080|Thailand|Phuket|Triple T Broadband Public Company Limited|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|7|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|8|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
-|9|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|10|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
-|12|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|14|202.137.122.4|8082|Philippines|Davao City|Dataconnect Network Services Inc.|
-|15|188.163.170.130|41209|Ukraine|Lviv|Kyivstar UA|
-|16|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|17|72.10.164.178|8337|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|72.10.160.173|5073|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|8337|Canada|Montreal|GloboTech Communications|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|5|142.215.53.8|8118|United States|Ashburn|Equinix (EMEA) Acquisition Enterprises B.V.|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|9|42.113.88.14|8080|Vietnam|Vĩnh Long|FPT Telecom Company|
+|10|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|11|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|12|191.243.46.154|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|13|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|103.76.209.229|2020|India|Kharagpur|Lightwave Technologies Pvt Ltd|
+|16|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|103.178.42.100|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
+|19|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|72.10.160.173|20525|Canada|Montreal|GloboTech Communications|
 
 
 
