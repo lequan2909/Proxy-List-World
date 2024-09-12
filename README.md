@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|202.212.71.137|3128|Japan|Chiyoda|SIMPLEIA|
-|3|164.70.117.197|3128|Japan|Chiyoda|InfoSphere|
-|4|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|5|140.227.124.231|3128|Japan|Chiyoda|InfoSphere|
-|6|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|223.25.110.228|3125|Indonesia|Surabaya|SinergiNet|
-|8|103.213.218.37|33650|Vietnam|Lê Chân District|V9ERP|
-|9|178.254.42.100|8118|Germany|Berlin|BLU-VH|
-|10|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|200.114.87.4|8080|Argentina|Bosques|Citarella S.A.|
-|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|16|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|17|193.93.29.11|6082|Russia|Moscow|North-western Trade House LLC|
+|2|164.70.117.212|3128|Japan|Chiyoda|InfoSphere|
+|3|164.70.68.45|3128|Japan|Chiyoda|InfoSphere|
+|4|202.212.71.137|3128|Japan|Chiyoda|SIMPLEIA|
+|5|164.70.117.197|3128|Japan|Chiyoda|InfoSphere|
+|6|140.227.124.231|3128|Japan|Chiyoda|InfoSphere|
+|7|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|223.25.110.228|3125|Indonesia|Surabaya|SinergiNet|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|13|186.96.174.168|80|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|14|103.234.159.5|8080|India|Bengaluru|MWPL|
+|15|103.139.98.157|8080|Indonesia|Bandaragung|Digital Network Setiawan|
+|16|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|17|177.37.114.5|3128|Brazil|Cataguases|Brasilnet Telecomunicações Ltda ME|
 |18|140.227.124.231|3128|Japan|Chiyoda|InfoSphere|
 |19|140.227.124.51|3128|Japan|Chiyoda|InfoSphere|
-|20|72.10.164.178|24037|Canada|Montreal|GloboTech Communications|
+|20|164.70.118.29|3128|Japan|Chiyoda|InfoSphere|
 
 
 
