@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5785** proxies at the latest update. Usable proxies are below.
+> Scraper found **5860** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|468|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|468|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|468|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|155|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1069|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1144|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|202|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3401|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |3|164.70.66.79|3128|Japan|Chiyoda|InfoSphere|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|6|144.86.187.46|3129|United States|Malden|Charles River Operation|
-|7|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|190.94.212.198|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|103.162.54.251|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
+|6|144.86.187.54|3129|United States|Malden|Charles River Operation|
+|7|200.114.84.190|8080|Argentina|La Plata|Citarella S.A.|
+|8|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|9|120.28.196.74|8082|Philippines|Davao City|Globe Telecom|
+|10|103.164.214.122|8080|Indonesia|Cilangkap|PT iForte Global Internet|
 |11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|91.205.69.126|8080|Bosnia and Herzegovina|Gradačac|Telesat d.o.o.|
-|14|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|152.26.229.34|9443|United States|Concord|MCNC|
-|17|152.26.229.47|9443|United States|Concord|MCNC|
-|18|152.26.231.93|9443|United States|Concord|MCNC|
-|19|45.71.114.150|999|Ecuador|Loja|Ufinet Panama S.A.|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|12|27.66.24.106|8080|Vietnam|Da Nang|Viettel Group|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|49.51.244.112|8888|United States|San Jose|OPHL|
+|15|202.137.122.4|8082|Philippines|Davao City|Dataconnect Network Services Inc.|
+|16|189.205.215.202|8080|Mexico|Puebla City|Axtel, S.A.B. de C.V.|
+|17|102.68.128.212|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
 
 
 
