@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5175** proxies at the latest update. Usable proxies are below.
+> Scraper found **5077** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|165|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|670|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|572|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|88|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3294|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|103.105.126.2|83|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd|
-|8|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|10|103.148.29.229|80|Indonesia|Sigi|DEWATA|
-|11|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|12|103.184.180.30|8080|Indonesia|Magetan|Lintas Data Prima, PT|
-|13|103.243.177.90|8080|Indonesia|Kalicari|Universitas Katolik Soegijapranata|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|152.26.229.46|9443|United States|Concord|MCNC|
-|16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|103.83.0.62|8085|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|49.49.90.225|8081|Thailand|Nakhon Phanom|Triple T Broadband Public Company Limited|
+|7|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|194.156.88.125|2411|United Kingdom|Bradford|aurologic GmbH|
+|9|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|10|42.200.124.211|8080|Hong Kong|Central|PCCW IMSBiz|
+|11|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|160.248.11.213|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|152.26.229.46|9443|United States|Concord|MCNC|
+|14|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|152.26.229.34|9443|United States|Concord|MCNC|
+|16|152.26.229.93|9443|United States|Concord|MCNC|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
