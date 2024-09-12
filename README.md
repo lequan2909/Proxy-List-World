@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|186.0.144.141|9595|Brazil|Araçatuba|Tellius Telecomunicacoes DAS Americas Ltda|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|13|94.75.76.10|8080|Poland|Warsaw|ASTER Sp. z o.o|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|16|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|17|202.57.25.152|8099|Indonesia|Semarang|announced of WINET|
-|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|19|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|67.43.227.227|9773|Canada|Montreal|GloboTech Communications|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|10|204.199.120.60|8080|Colombia|Bogotá|Sistemas Telecomunicaciones Y Biomedicos De Colombia SAS|
+|11|152.26.229.86|9443|United States|Concord|MCNC|
+|12|152.26.229.34|9443|United States|Concord|MCNC|
+|13|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|103.178.21.91|3125|Indonesia|Sumberpucung|PT Trisna Mega Abadi|
+|15|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
+|18|152.26.231.83|9443|United States|Concord|MCNC|
+|19|103.171.244.45|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|20|72.10.160.90|5825|Canada|Montreal|GloboTech Communications|
 
 
 
