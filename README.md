@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|164.70.117.248|3128|Japan|Chiyoda|InfoSphere|
 |3|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|4|103.189.250.67|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
-|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|6|200.37.187.59|999|Peru|Huancavelica|Telefonica del Peru S.A.A.|
-|7|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|103.139.98.157|8080|Indonesia|Bandaragung|Digital Network Setiawan|
-|10|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|182.253.68.150|8080|Indonesia|Jakarta Pusat|BIZNET|
-|12|15.235.171.226|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
-|13|103.80.82.178|8181|Indonesia|Batutering|Jaringanku Sarana Nusantara|
-|14|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|15|191.97.18.185|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
-|16|67.43.227.226|7381|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.46|9443|United States|Concord|MCNC|
-|18|103.90.233.210|3128|Vietnam|Quận Mười Một|WEBPANDA|
-|19|152.26.229.34|9443|United States|Concord|MCNC|
-|20|72.10.160.173|18211|Canada|Montreal|GloboTech Communications|
+|4|200.37.187.59|999|Peru|Huancavelica|Telefonica del Peru S.A.A.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|8|152.26.229.46|9443|United States|Concord|MCNC|
+|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|10|152.26.229.34|9443|United States|Concord|MCNC|
+|11|152.26.231.93|9443|United States|Concord|MCNC|
+|12|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|152.26.231.86|9443|United States|Concord|MCNC|
+|14|152.26.229.86|9443|United States|Concord|MCNC|
+|15|36.95.78.156|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|16|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|17|152.26.231.94|9443|United States|Concord|MCNC|
+|18|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
