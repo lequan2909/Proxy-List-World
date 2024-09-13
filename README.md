@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|688|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|688|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|688|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|620|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|620|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|620|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|164.70.117.133|3128|Japan|Chiyoda|InfoSphere|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|140.227.125.16|3128|Japan|Chiyoda|InfoSphere|
-|6|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|129.213.167.127|3128|United States|Ashburn|Oracle Corporation|
+|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
 |7|88.255.102.13|8080|Türkiye|Istanbul|TurkTelekom|
-|8|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|9|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|13|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|38.253.225.2|8080|Indonesia|Cileungsir|PT Merdeka Media Teknologi|
-|15|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|16|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|164.70.118.29|3128|Japan|Chiyoda|InfoSphere|
-|18|164.70.69.51|3128|Japan|Chiyoda|InfoSphere|
-|19|140.227.123.24|3128|Japan|Tokyo|InfoSphere|
-|20|164.70.117.198|3128|Japan|Chiyoda|InfoSphere|
+|8|177.12.107.167|443|Brazil|Cajazeiras|Netline Telecom|
+|9|129.213.167.127|3128|United States|Ashburn|Oracle Corporation|
+|10|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
+|11|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|13|46.252.35.91|8080|Albania|Tirana|Vodafone Albania Sh.A.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|16|103.153.62.155|8080|Indonesia|Jakarta|IMEDIANET|
+|17|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|103.247.12.18|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|19|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|103.162.63.181|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
 
 
 
