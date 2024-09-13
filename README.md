@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|617|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|617|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|617|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|534|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|534|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|534|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.68.248|3128|Japan|Chiyoda|InfoSphere|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|178.128.16.224|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|164.70.118.12|3128|Japan|Chiyoda|InfoSphere|
-|6|164.70.117.170|3128|Japan|Chiyoda|InfoSphere|
-|7|164.70.117.232|3128|Japan|Chiyoda|InfoSphere|
-|8|203.138.198.123|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|9|140.227.124.228|3128|Japan|Chiyoda|InfoSphere|
-|10|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|11|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|12|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|13|164.70.118.19|3128|Japan|Chiyoda|InfoSphere|
-|14|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|16|164.70.68.187|3128|Japan|Chiyoda|InfoSphere|
-|17|164.70.117.139|3128|Japan|Chiyoda|InfoSphere|
-|18|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|19|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|203.138.198.123|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|8|178.128.16.224|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|164.70.118.12|3128|Japan|Chiyoda|InfoSphere|
+|10|164.70.117.232|3128|Japan|Chiyoda|InfoSphere|
+|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|12|103.172.70.153|8080|Indonesia|Karangampel|AZNET|
+|13|140.227.124.228|3128|Japan|Chiyoda|InfoSphere|
+|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|15|164.70.117.170|3128|Japan|Chiyoda|InfoSphere|
+|16|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|164.70.118.19|3128|Japan|Chiyoda|InfoSphere|
+|19|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|164.70.68.187|3128|Japan|Chiyoda|InfoSphere|
 
 
 
