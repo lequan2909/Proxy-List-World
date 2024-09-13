@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|533|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|533|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|533|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|492|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|492|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|492|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |3|164.70.117.103|3128|Japan|Chiyoda|InfoSphere|
 |4|140.227.118.206|3128|Japan|Chiyoda|InfoSphere|
-|5|164.70.119.11|3128|Japan|Chiyoda|InfoSphere|
-|6|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|10|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
-|11|181.114.225.125|8080|Argentina|Mar del Plata|CyberWave S.A.|
-|12|164.70.117.242|3128|Japan|Chiyoda|InfoSphere|
-|13|164.70.119.20|3128|Japan|Chiyoda|InfoSphere|
-|14|164.70.119.15|3128|Japan|Chiyoda|InfoSphere|
-|15|103.88.236.113|84|India|Hyderabad|Mana Communications|
-|16|164.70.117.188|3128|Japan|Chiyoda|InfoSphere|
-|17|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|18|37.111.52.46|8081|Myanmar|Yangon|Telenor Myanmar|
-|19|164.70.117.213|3128|Japan|Chiyoda|InfoSphere|
-|20|164.70.117.241|3128|Japan|Chiyoda|InfoSphere|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|164.70.119.11|3128|Japan|Chiyoda|InfoSphere|
+|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
+|10|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|103.106.219.114|1080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|15|20.84.219.130|3128|United States|Des Moines|Microsoft Corporation|
+|16|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
+|17|142.171.157.207|3128|United States|Los Angeles|Multacom Corporation|
+|18|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|103.174.175.99|8085|Indonesia|Kayu Manis|PT Lintas Teknologi Solusindo|
+|20|116.203.229.72|3128|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
