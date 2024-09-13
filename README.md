@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|542|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|542|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|542|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|508|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|508|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|508|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.68.202|3128|Japan|Chiyoda|InfoSphere|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|203.138.198.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|164.70.68.202|3128|Japan|Chiyoda|InfoSphere|
+|4|203.138.198.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
 |5|202.212.62.80|3128|Japan|Naniwa Ku|SIMPLEIA|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|8|213.160.150.237|8080|Ukraine|Kyiv|"SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY|
-|9|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|140.227.119.176|3128|Japan|Chiyoda|InfoSphere|
-|11|164.70.117.244|3128|Japan|Chiyoda|InfoSphere|
-|12|164.70.118.12|3128|Japan|Chiyoda|InfoSphere|
-|13|140.227.119.112|3128|Japan|Chiyoda|InfoSphere|
-|14|140.227.119.140|3128|Japan|Chiyoda|InfoSphere|
-|15|164.70.117.212|3128|Japan|Chiyoda|InfoSphere|
-|16|164.70.117.201|3128|Japan|Chiyoda|InfoSphere|
-|17|140.227.123.30|3128|Japan|Tokyo|InfoSphere|
-|18|164.70.68.161|3128|Japan|Chiyoda|InfoSphere|
-|19|164.70.117.190|3128|Japan|Chiyoda|InfoSphere|
-|20|140.227.125.17|3128|Japan|Chiyoda|InfoSphere|
+|6|116.99.229.83|20592|Vietnam|Đức Phong|Viettel Corporation|
+|7|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
+|10|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|11|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|36.73.81.114|8080|Indonesia|Yogyakarta|Telekomunikasi Indonesia|
+|14|66.96.233.62|8085|Indonesia|Jakarta|MYREPUBLIC|
+|15|103.155.198.111|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
+|18|46.19.112.62|8890|Russia|Moscow|SVYAZ-ENERGO telecommunications company|
+|19|103.69.20.54|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|20|140.227.119.176|3128|Japan|Chiyoda|InfoSphere|
 
 
 
