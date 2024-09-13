@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|557|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|557|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|557|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|553|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|553|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|553|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|179.51.144.122|999|Dominican Republic|Santiago de los Caballeros|Delta Comunicaciones|
-|6|164.70.68.202|3128|Japan|Chiyoda|InfoSphere|
-|7|202.212.71.136|3128|Japan|Chiyoda|SIMPLEIA|
+|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|202.212.79.182|3128|Japan|Chiyoda|SIMPLEIA|
+|4|202.212.71.136|3128|Japan|Chiyoda|SIMPLEIA|
+|5|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|7|164.70.68.202|3128|Japan|Chiyoda|InfoSphere|
 |8|203.138.198.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|9|103.87.169.206|56642|India|Jaipur|Tejays Industries Pvt Ltd|
-|10|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|103.233.156.42|8080|Indonesia|Jakarta Pusat|PT. Mora Telematika Indonesia|
-|15|202.212.79.182|3128|Japan|Chiyoda|SIMPLEIA|
-|16|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|186.180.79.19|999|Colombia|Cúcuta|Colombia Móvil|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|15.235.171.233|3128|Singapore|Singapore|OVH Singapore PTE. LTD|
+|10|103.69.20.54|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|14|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|15|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|140.227.124.231|3128|Japan|Chiyoda|InfoSphere|
+|17|140.227.124.212|3128|Japan|Chiyoda|InfoSphere|
+|18|202.212.62.86|3128|Japan|Naniwa Ku|SIMPLEIA|
+|19|164.70.117.31|3128|Japan|Chiyoda|InfoSphere|
+|20|140.227.125.11|3128|Japan|Chiyoda|InfoSphere|
 
 
 
