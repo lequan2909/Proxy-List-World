@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|455|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|455|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|455|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|421|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|421|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|421|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|164.70.66.53|3128|Japan|Chiyoda|InfoSphere|
-|3|164.70.117.168|3128|Japan|Chiyoda|InfoSphere|
-|4|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|5|140.227.119.162|3128|Japan|Chiyoda|InfoSphere|
-|6|116.99.229.83|20592|Vietnam|Đức Phong|Viettel Corporation|
-|7|140.227.119.176|3128|Japan|Chiyoda|InfoSphere|
-|8|140.227.119.140|3128|Japan|Chiyoda|InfoSphere|
-|9|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|10|101.255.123.18|8181|Indonesia|Jakarta|PT Remala Abadi|
-|11|36.72.245.209|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|12|164.70.66.12|3128|Japan|Chiyoda|InfoSphere|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|140.227.119.162|3128|Japan|Chiyoda|InfoSphere|
+|5|140.227.119.176|3128|Japan|Chiyoda|InfoSphere|
+|6|164.70.117.168|3128|Japan|Chiyoda|InfoSphere|
+|7|140.227.119.140|3128|Japan|Chiyoda|InfoSphere|
+|8|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|9|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|10|164.70.68.161|3128|Japan|Chiyoda|InfoSphere|
+|11|164.70.66.12|3128|Japan|Chiyoda|InfoSphere|
+|12|36.72.245.209|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
 |13|164.70.117.153|3128|Japan|Chiyoda|InfoSphere|
-|14|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|15|164.70.68.161|3128|Japan|Chiyoda|InfoSphere|
-|16|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|17|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|18|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|19|36.67.223.231|8090|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|20|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|14|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
+|15|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
+|16|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|17|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|18|45.224.151.253|999|Ecuador|Latacunga|Ufinet Panama S.A.|
+|19|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
+|20|101.255.209.41|8080|Indonesia|Jakarta|PT Remala Abadi|
 
 
 
