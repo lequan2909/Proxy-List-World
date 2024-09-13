@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|640|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|640|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|640|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|563|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|563|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|563|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|164.70.117.173|3128|Japan|Chiyoda|InfoSphere|
 |2|164.70.68.185|3128|Japan|Chiyoda|InfoSphere|
-|3|164.70.117.173|3128|Japan|Chiyoda|InfoSphere|
-|4|164.70.68.191|3128|Japan|Chiyoda|InfoSphere|
-|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|6|164.70.117.189|3128|Japan|Chiyoda|InfoSphere|
-|7|164.70.68.201|3128|Japan|Chiyoda|InfoSphere|
-|8|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|9|164.70.117.155|3128|Japan|Chiyoda|InfoSphere|
-|10|164.70.117.157|3128|Japan|Chiyoda|InfoSphere|
-|11|164.70.68.159|3128|Japan|Chiyoda|InfoSphere|
-|12|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
-|13|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|14|177.234.241.30|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|15|177.234.241.28|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|16|193.192.124.74|8080|Türkiye|Istanbul|TurkNet Iletisim Hizmetleri A.S.|
-|17|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|202.212.62.97|3128|Japan|Naniwa Ku|SIMPLEIA|
-|19|140.227.119.129|3128|Japan|Chiyoda|InfoSphere|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|164.70.68.191|3128|Japan|Chiyoda|InfoSphere|
+|4|164.70.117.189|3128|Japan|Chiyoda|InfoSphere|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|164.70.117.157|3128|Japan|Chiyoda|InfoSphere|
+|7|164.70.69.49|3128|Japan|Chiyoda|InfoSphere|
+|8|164.70.117.155|3128|Japan|Chiyoda|InfoSphere|
+|9|177.234.241.25|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|177.234.241.28|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|11|177.234.241.30|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|12|202.212.62.97|3128|Japan|Naniwa Ku|SIMPLEIA|
+|13|140.227.119.129|3128|Japan|Chiyoda|InfoSphere|
+|14|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
+|15|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|18|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|164.70.117.174|3128|Japan|Chiyoda|InfoSphere|
+|20|164.70.117.197|3128|Japan|Chiyoda|InfoSphere|
 
 
 
