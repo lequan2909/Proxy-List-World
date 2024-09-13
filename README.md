@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|498|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|498|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|498|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|450|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|450|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|450|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|164.70.118.244|3128|Japan|Chiyoda|InfoSphere|
-|4|164.70.116.114|3128|Japan|Chiyoda|InfoSphere|
-|5|164.70.119.11|3128|Japan|Chiyoda|InfoSphere|
-|6|164.70.118.247|3128|Japan|Chiyoda|InfoSphere|
+|2|164.70.119.11|3128|Japan|Chiyoda|InfoSphere|
+|3|164.70.116.114|3128|Japan|Chiyoda|InfoSphere|
+|4|164.70.118.244|3128|Japan|Chiyoda|InfoSphere|
+|5|164.70.118.247|3128|Japan|Chiyoda|InfoSphere|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |7|164.70.117.133|3128|Japan|Chiyoda|InfoSphere|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|119.47.90.228|3127|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|10|103.182.213.65|8080|Bangladesh|Tongi|Rapid Network|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|94.130.212.219|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|79.106.108.132|8079|Albania|Gjirokastër|ALBTELECOM VI|
-|17|191.97.96.86|8080|Argentina|General Roca|Vision NET|
-|18|103.231.200.229|3128|Indonesia|Bekasi|PT. Berdikari Prima Mandiri|
-|19|152.26.231.86|9443|United States|Concord|MCNC|
-|20|72.10.160.90|4619|Canada|Montreal|GloboTech Communications|
+|8|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|103.126.86.200|3127|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
+|11|42.113.88.14|8080|Vietnam|Vĩnh Long|FPT Telecom Company|
+|12|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|13|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
+|14|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|95.161.193.46|8080|Russia|St Petersburg|"OBIT" Ltd.|
+|18|157.119.211.133|8080|India|Tirupati|Finecom Internet services Pvt Ltd|
+|19|180.211.177.206|58080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|20|190.61.41.163|999|Colombia|Turbo|Ufinet Panama S.A.|
 
 
 
