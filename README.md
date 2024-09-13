@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|575|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|575|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|575|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|545|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|545|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|545|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|202.212.79.151|3128|Japan|Chiyoda|SIMPLEIA|
-|3|202.212.79.91|3128|Japan|Chiyoda|SIMPLEIA|
-|4|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|5|203.150.113.185|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|1|164.70.68.202|3128|Japan|Chiyoda|InfoSphere|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|125.26.128.158|8080|Thailand|Lopburi|TOT Public Company Limited|
+|5|202.212.62.80|3128|Japan|Naniwa Ku|SIMPLEIA|
 |6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|202.212.79.116|3128|Japan|Chiyoda|SIMPLEIA|
-|9|164.70.116.116|3128|Japan|Chiyoda|InfoSphere|
-|10|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|11|103.172.70.138|1111|Indonesia|Karawang|AZNET|
-|12|144.86.187.52|3129|United States|Malden|Charles River Operation|
-|13|144.86.187.57|3129|United States|Malden|Charles River Operation|
-|14|144.86.187.36|3129|United States|Malden|Charles River Operation|
-|15|144.86.187.37|3129|United States|Malden|Charles River Operation|
-|16|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|144.86.187.51|3129|United States|Malden|Charles River Operation|
-|18|144.86.187.45|3129|United States|Malden|Charles River Operation|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|164.70.117.242|3128|Japan|Chiyoda|InfoSphere|
+|14|140.227.119.219|3128|Japan|Chiyoda|InfoSphere|
+|15|164.70.117.213|3128|Japan|Chiyoda|InfoSphere|
+|16|164.70.117.160|3128|Japan|Chiyoda|InfoSphere|
+|17|202.212.79.96|3128|Japan|Chiyoda|SIMPLEIA|
+|18|203.138.198.132|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|19|140.227.124.59|3128|Japan|Chiyoda|InfoSphere|
+|20|140.227.119.134|3128|Japan|Chiyoda|InfoSphere|
 
 
 
