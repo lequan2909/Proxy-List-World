@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|67.43.236.20|10145|Canada|Montreal|GloboTech Communications|
-|5|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|6|103.26.110.46|84|India|Chennai|Niss Networks|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|119.47.90.76|8080|Indonesia|Batang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|9|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
-|10|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|11|57.128.169.167|3128|United Kingdom|Erith|OVH SAS|
-|12|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
-|13|36.64.162.194|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|14|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|15|103.122.0.91|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
-|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|152.26.229.47|9443|United States|Concord|MCNC|
-|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|4|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|190.61.40.186|999|Colombia|Riohacha|Ufinet Panama S.A.|
+|8|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|181.209.82.154|23500|Argentina|Caseros|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|10|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|11|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|13|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|152.26.229.47|9443|United States|Concord|MCNC|
+|15|152.26.229.83|9443|United States|Concord|MCNC|
+|16|152.26.231.83|9443|United States|Concord|MCNC|
+|17|152.26.231.94|9443|United States|Concord|MCNC|
+|18|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|67.43.236.18|19753|Canada|Montreal|GloboTech Communications|
+|20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
 
