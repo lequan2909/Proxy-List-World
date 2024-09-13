@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5598** proxies at the latest update. Usable proxies are below.
+> Scraper found **5607** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|463|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|463|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|463|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|484|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|484|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|484|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|227|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|827|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|226|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|837|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|269|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3317|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|164.70.64.235|3128|Japan|Chiyoda|InfoSphere|
-|3|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|4|202.212.79.106|3128|Japan|Chiyoda|SIMPLEIA|
-|5|164.70.117.204|3128|Japan|Chiyoda|InfoSphere|
-|6|164.70.117.122|3128|Japan|Chiyoda|InfoSphere|
-|7|164.70.68.185|3128|Japan|Chiyoda|InfoSphere|
-|8|164.70.68.191|3128|Japan|Chiyoda|InfoSphere|
-|9|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|10|164.70.117.173|3128|Japan|Chiyoda|InfoSphere|
-|11|164.70.117.189|3128|Japan|Chiyoda|InfoSphere|
+|3|202.212.79.106|3128|Japan|Chiyoda|SIMPLEIA|
+|4|164.70.117.122|3128|Japan|Chiyoda|InfoSphere|
+|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|6|164.70.68.185|3128|Japan|Chiyoda|InfoSphere|
+|7|164.70.117.204|3128|Japan|Chiyoda|InfoSphere|
+|8|164.70.117.189|3128|Japan|Chiyoda|InfoSphere|
+|9|164.70.68.191|3128|Japan|Chiyoda|InfoSphere|
+|10|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |12|140.227.119.129|3128|Japan|Chiyoda|InfoSphere|
-|13|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
-|14|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|202.212.62.97|3128|Japan|Naniwa Ku|SIMPLEIA|
-|16|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|164.70.68.232|3128|Japan|Chiyoda|InfoSphere|
-|19|164.70.69.49|3128|Japan|Chiyoda|InfoSphere|
-|20|103.48.68.220|83|India|Hyderabad|Country Online Services PVT LTD|
+|13|36.88.125.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|14|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|15|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
+|17|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
+|18|202.212.62.97|3128|Japan|Naniwa Ku|SIMPLEIA|
+|19|140.227.118.201|3128|Japan|Chiyoda|InfoSphere|
+|20|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
