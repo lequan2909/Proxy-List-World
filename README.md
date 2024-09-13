@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|437|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|437|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|437|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|465|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|465|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|465|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|164.70.66.53|3128|Japan|Chiyoda|InfoSphere|
-|3|140.227.119.162|3128|Japan|Chiyoda|InfoSphere|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|140.227.119.176|3128|Japan|Chiyoda|InfoSphere|
-|6|167.205.50.5|3128|Indonesia|Bandung|Institut Teknologi Bandung Jl. Ganesha 10 Bandung 40132 INDONESIA|
-|7|140.227.119.140|3128|Japan|Chiyoda|InfoSphere|
-|8|164.70.68.161|3128|Japan|Chiyoda|InfoSphere|
-|9|164.70.66.12|3128|Japan|Chiyoda|InfoSphere|
-|10|36.72.245.209|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|11|164.70.117.168|3128|Japan|Chiyoda|InfoSphere|
-|12|164.70.117.153|3128|Japan|Chiyoda|InfoSphere|
-|13|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|14|177.234.241.29|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|15|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|16|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
-|17|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|18|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|19|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|194.164.206.37|3128|United Kingdom|Farnham|NETKONECT|
+|2|164.70.68.41|3128|Japan|Chiyoda|InfoSphere|
+|3|202.212.79.110|3128|Japan|Chiyoda|SIMPLEIA|
+|4|164.70.68.233|3128|Japan|Chiyoda|InfoSphere|
+|5|202.212.79.113|3128|Japan|Chiyoda|SIMPLEIA|
+|6|140.227.119.142|3128|Japan|Chiyoda|InfoSphere|
+|7|103.186.91.25|1111|Indonesia|Jepara|PT Akses Data Internusa|
+|8|164.70.66.53|3128|Japan|Chiyoda|InfoSphere|
+|9|140.227.119.162|3128|Japan|Chiyoda|InfoSphere|
+|10|140.227.119.176|3128|Japan|Chiyoda|InfoSphere|
+|11|116.99.229.83|20592|Vietnam|Đức Phong|Viettel Corporation|
+|12|140.227.119.140|3128|Japan|Chiyoda|InfoSphere|
+|13|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|15|164.70.117.168|3128|Japan|Chiyoda|InfoSphere|
+|16|48.216.234.146|3128|United States|Boydton|Microsoft Corporation|
+|17|101.109.176.247|8080|Thailand|Bangkok|TOT Public Company Limited|
+|18|103.166.8.228|1080|Indonesia|Jakarta|PT Akses Bersama Sedaya|
+|19|103.137.111.65|7777|Indonesia|Mojokerto|PT. Capoeng Digital Nusantara|
+|20|103.174.18.11|8080|Indonesia|Jakarta|MORATELINDONAP|
 
 
 
