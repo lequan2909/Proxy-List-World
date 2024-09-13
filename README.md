@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|537|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|537|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|537|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|452|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|452|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|452|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|164.70.117.213|3128|Japan|Chiyoda|InfoSphere|
-|3|164.70.117.135|3128|Japan|Chiyoda|InfoSphere|
-|4|79.106.170.34|8989|Albania|Tirana|ONE ALBANIA SH.A.|
-|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|6|202.212.62.78|3128|Japan|Naniwa Ku|SIMPLEIA|
-|7|36.68.25.40|8080|Indonesia|Surakarta|PT. TELKOM INDONESIA|
-|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|9|183.91.80.194|8089|Indonesia|Bandung|PT Aplikanusa Lintasarta|
-|10|201.20.67.70|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|2|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|164.70.117.213|3128|Japan|Chiyoda|InfoSphere|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|5|202.212.62.78|3128|Japan|Naniwa Ku|SIMPLEIA|
+|6|202.154.12.144|7777|Indonesia|Jakarta|MENAKSOPAL|
+|7|206.201.3.83|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|8|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|27.121.82.102|8080|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
+|10|189.203.181.34|8080|Mexico|Cocoyoc|Total Play Telecomunicaciones SA De CV|
 |11|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
-|12|120.28.189.82|8181|Philippines|Cagayan de Oro|Globe Telecom|
-|13|27.121.82.102|8080|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
-|14|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|15|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|103.48.68.123|83|India|Hyderabad|Country Online Services PVT LTD|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|19|103.4.167.15|8080|Indonesia|Jakarta|FIBERNET|
-|20|213.202.216.34|8080|Germany|Düsseldorf|myLoc managed IT AG|
+|12|139.255.33.244|8080|Indonesia|Jakarta|PT. LINKNET|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|103.122.0.115|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
+|15|38.188.127.86|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|16|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
+|17|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|19|213.202.216.34|8080|Germany|Düsseldorf|myLoc managed IT AG|
+|20|161.97.178.90|3128|Germany|Düsseldorf|Contabo GmbH|
 
 
 
