@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|519|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|519|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|519|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|490|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|490|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|490|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|27.147.128.26|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|3|117.247.233.50|8080|India|Ghaziabad|BSNL Internet|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|203.138.198.123|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|6|202.212.62.100|3128|Japan|Naniwa Ku|SIMPLEIA|
-|7|202.212.71.166|3128|Japan|Chiyoda|SIMPLEIA|
-|8|164.70.68.187|3128|Japan|Chiyoda|InfoSphere|
-|9|202.212.62.70|3128|Japan|Naniwa Ku|SIMPLEIA|
-|10|164.70.68.39|3128|Japan|Chiyoda|InfoSphere|
-|11|202.212.79.96|3128|Japan|Chiyoda|SIMPLEIA|
-|12|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|13|164.70.64.234|3128|Japan|Chiyoda|InfoSphere|
-|14|164.70.68.41|3128|Japan|Chiyoda|InfoSphere|
-|15|164.70.68.205|3128|Japan|Chiyoda|InfoSphere|
-|16|164.70.68.45|3128|Japan|Chiyoda|InfoSphere|
-|17|202.212.62.94|3128|Japan|Naniwa Ku|SIMPLEIA|
-|18|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|203.138.190.104|3128|Japan|Tokyo|SIMPLEIA|
+|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|3|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|103.231.179.4|8080|Bangladesh|Dhaka|Sayed Farhad Ahmed|
+|5|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|6|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|8|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|11|202.212.71.166|3128|Japan|Chiyoda|SIMPLEIA|
+|12|202.212.62.100|3128|Japan|Naniwa Ku|SIMPLEIA|
+|13|164.70.68.187|3128|Japan|Chiyoda|InfoSphere|
+|14|164.70.68.45|3128|Japan|Chiyoda|InfoSphere|
+|15|202.212.79.96|3128|Japan|Chiyoda|SIMPLEIA|
+|16|164.70.68.39|3128|Japan|Chiyoda|InfoSphere|
+|17|164.70.68.41|3128|Japan|Chiyoda|InfoSphere|
+|18|164.70.64.234|3128|Japan|Chiyoda|InfoSphere|
+|19|164.70.68.205|3128|Japan|Chiyoda|InfoSphere|
+|20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
