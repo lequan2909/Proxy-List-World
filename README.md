@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|512|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|512|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|512|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|427|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|427|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|427|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.118.78|3128|Japan|Chiyoda|InfoSphere|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|164.70.118.78|3128|Japan|Chiyoda|InfoSphere|
 |3|164.70.119.13|3128|Japan|Chiyoda|InfoSphere|
 |4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
 |6|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
-|10|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|103.83.0.46|8080|Indonesia|Lamongan|PT Kia Integrasi Akses|
-|12|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|140.227.119.206|3128|Japan|Chiyoda|InfoSphere|
-|14|140.227.119.179|3128|Japan|Chiyoda|InfoSphere|
-|15|164.70.117.186|3128|Japan|Chiyoda|InfoSphere|
-|16|140.227.119.148|3128|Japan|Chiyoda|InfoSphere|
-|17|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|140.227.119.181|3128|Japan|Chiyoda|InfoSphere|
-|19|140.227.118.207|3128|Japan|Chiyoda|InfoSphere|
-|20|164.70.118.186|3128|Japan|Chiyoda|InfoSphere|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
+|9|164.70.118.186|3128|Japan|Chiyoda|InfoSphere|
+|10|140.227.119.206|3128|Japan|Chiyoda|InfoSphere|
+|11|164.70.117.186|3128|Japan|Chiyoda|InfoSphere|
+|12|140.227.119.179|3128|Japan|Chiyoda|InfoSphere|
+|13|140.227.119.181|3128|Japan|Chiyoda|InfoSphere|
+|14|140.227.119.217|3128|Japan|Chiyoda|InfoSphere|
+|15|140.227.119.148|3128|Japan|Chiyoda|InfoSphere|
+|16|140.227.118.207|3128|Japan|Chiyoda|InfoSphere|
+|17|164.70.117.188|3128|Japan|Chiyoda|InfoSphere|
+|18|164.70.118.212|3128|Japan|Chiyoda|InfoSphere|
+|19|106.227.87.11|3128|China|Taohua|China Telecom|
+|20|164.70.116.103|3128|Japan|Chiyoda|InfoSphere|
 
 
 
