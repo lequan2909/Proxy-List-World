@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|601|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|601|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|601|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|561|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|561|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|561|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|3|164.70.116.116|3128|Japan|Chiyoda|InfoSphere|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|6|202.212.71.139|3128|Japan|Chiyoda|SIMPLEIA|
-|7|202.212.79.184|3128|Japan|Chiyoda|SIMPLEIA|
-|8|202.212.79.103|3128|Japan|Chiyoda|SIMPLEIA|
-|9|202.212.79.97|3128|Japan|Chiyoda|SIMPLEIA|
-|10|202.212.79.114|3128|Japan|Chiyoda|SIMPLEIA|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
-|13|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|36.93.130.219|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
-|15|223.25.110.204|1080|Indonesia|Surabaya|SinergiNet|
-|16|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|17|191.102.248.9|8085|Argentina|Rosario|IP·RED|
-|18|164.70.117.232|3128|Japan|Chiyoda|InfoSphere|
-|19|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|20|164.70.68.57|3128|Japan|Chiyoda|InfoSphere|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|4|164.70.116.116|3128|Japan|Chiyoda|InfoSphere|
+|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|7|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|8|202.212.71.139|3128|Japan|Chiyoda|SIMPLEIA|
+|9|202.212.79.184|3128|Japan|Chiyoda|SIMPLEIA|
+|10|202.212.79.97|3128|Japan|Chiyoda|SIMPLEIA|
+|11|202.212.79.114|3128|Japan|Chiyoda|SIMPLEIA|
+|12|202.212.79.103|3128|Japan|Chiyoda|SIMPLEIA|
+|13|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|14|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|125.24.82.189|8080|Thailand|Bangkok|TOT Public Company Limited|
+|16|103.176.96.226|8082|Indonesia|Purwakarta|PT Global Sarana Elektronika|
+|17|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|164.70.117.232|3128|Japan|Chiyoda|InfoSphere|
 
 
 
