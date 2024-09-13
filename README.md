@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|467|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|467|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|467|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|36.88.125.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|8|140.227.125.17|3128|Japan|Chiyoda|InfoSphere|
-|9|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|1|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|49.147.39.19|8080|Philippines|Lucena City|Philippine Long Distance Telephone Co.|
+|4|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|185.202.165.1|53281|Spain|Mijas|AVATEL TELECOM, SA|
+|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|7|45.190.76.109|999|Mexico|Zapopan|Meta Networks SA De CV|
+|8|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|140.227.125.17|3128|Japan|Chiyoda|InfoSphere|
 |11|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 |12|164.70.69.53|3128|Japan|Chiyoda|InfoSphere|
 |13|164.70.69.39|3128|Japan|Chiyoda|InfoSphere|
-|14|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|15|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|103.84.176.45|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|14|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|16|200.5.196.218|3128|Argentina|San Telmo|Telefonica de Argentina|
+|17|103.6.177.174|8002|Hong Kong|Kowloon|HKBN Enterprise Solutions HK Limited|
 |18|164.70.69.35|3128|Japan|Chiyoda|InfoSphere|
-|19|117.68.38.172|24026|China|Hefei|China Telecom|
+|19|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |20|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
