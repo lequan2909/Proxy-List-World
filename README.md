@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|516|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|516|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|516|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|164.70.115.163|3128|Japan|Chiyoda|InfoSphere|
 |2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
 |3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|202.212.71.174|3128|Japan|Chiyoda|SIMPLEIA|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|202.212.71.174|3128|Japan|Chiyoda|SIMPLEIA|
+|6|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |7|202.212.71.147|3128|Japan|Chiyoda|SIMPLEIA|
-|8|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|9|202.212.71.136|3128|Japan|Chiyoda|SIMPLEIA|
-|10|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|171.228.171.181|5102|Vietnam|Hanoi|Viettel Corporation|
-|12|202.212.79.182|3128|Japan|Chiyoda|SIMPLEIA|
-|13|144.86.187.60|3129|United States|Malden|Charles River Operation|
-|14|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|144.86.187.60|3129|United States|Malden|Charles River Operation|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|103.233.156.42|8080|Indonesia|Jakarta Pusat|PT. Mora Telematika Indonesia|
-|18|114.9.26.122|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|8|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|93.123.16.188|3128|Bulgaria|Sofia|Ohost LLC|
+|12|202.212.71.136|3128|Japan|Chiyoda|SIMPLEIA|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|15|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|101.255.208.22|3127|Indonesia|Ciputat|PT Remala Abadi|
+|17|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
+|18|200.76.42.198|999|Mexico|Ciudad de Villa de Álvarez|Alestra, S. de R.L. de C.V.|
+|19|160.248.11.206|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
