@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|660|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|660|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|660|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|598|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|598|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|598|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|3|203.138.199.79|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|4|164.70.117.34|3128|Japan|Chiyoda|InfoSphere|
-|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|6|164.70.118.106|3128|Japan|Chiyoda|InfoSphere|
-|7|164.70.68.238|3128|Japan|Chiyoda|InfoSphere|
-|8|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
-|9|77.41.146.9|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|10|50.205.202.249|3128|United States|Kemah|Comcast Cable Communications, LLC|
-|11|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|164.70.117.148|3128|Japan|Chiyoda|InfoSphere|
-|14|202.212.62.79|3128|Japan|Naniwa Ku|SIMPLEIA|
-|15|164.70.116.105|3128|Japan|Chiyoda|InfoSphere|
-|16|164.70.117.45|3128|Japan|Chiyoda|InfoSphere|
+|2|164.70.118.106|3128|Japan|Chiyoda|InfoSphere|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|164.70.68.238|3128|Japan|Chiyoda|InfoSphere|
+|5|203.138.199.79|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|7|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|164.70.117.34|3128|Japan|Chiyoda|InfoSphere|
+|9|103.87.171.1|32650|India|Jaipur|Tejays|
+|10|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|50.205.202.249|3128|United States|Kemah|Comcast Cable Communications, LLC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|160.25.180.35|8080|India|Mumbai|TAJ BROADBAND PRIVATE LIMITED|
+|15|164.70.117.148|3128|Japan|Chiyoda|InfoSphere|
+|16|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
 |17|140.227.118.202|3128|Japan|Chiyoda|InfoSphere|
-|18|140.227.119.178|3128|Japan|Chiyoda|InfoSphere|
-|19|202.212.79.141|3128|Japan|Chiyoda|SIMPLEIA|
-|20|164.70.117.104|3128|Japan|Chiyoda|InfoSphere|
+|18|164.70.116.105|3128|Japan|Chiyoda|InfoSphere|
+|19|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|20|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
