@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|413|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|413|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|413|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|157.230.242.33|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
 |6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|7|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|11|103.165.43.140|8080|Indonesia|Surabaya|PT iForte Global Internet|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|106.227.87.11|3128|China|Taohua|China Telecom|
-|14|188.132.221.21|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|16|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|17|140.227.124.4|3128|Japan|Chiyoda|InfoSphere|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|9|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
+|12|222.127.246.81|8082|Philippines|Iloilo City|GLBB|
+|13|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|14|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|15|140.227.124.4|3128|Japan|Chiyoda|InfoSphere|
+|16|103.76.150.175|8080|Indonesia|Ponorogo|PT. Java Digital Nusantara|
+|17|112.198.179.57|8082|Philippines|Carmona|Globe Telecom|
 |18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|19|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|20|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
 
 
 
