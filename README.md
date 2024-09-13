@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|493|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|493|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|493|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|442|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|442|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|442|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|140.227.125.16|3128|Japan|Chiyoda|InfoSphere|
+|1|164.70.117.133|3128|Japan|Chiyoda|InfoSphere|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|4|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|140.227.125.16|3128|Japan|Chiyoda|InfoSphere|
+|5|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|7|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
 |8|140.227.119.129|3128|Japan|Chiyoda|InfoSphere|
-|9|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|10|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|11|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|12|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|164.70.69.40|3128|Japan|Chiyoda|InfoSphere|
-|14|164.70.69.28|3128|Japan|Chiyoda|InfoSphere|
-|15|103.126.86.200|3127|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
-|16|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
+|9|103.36.10.213|1111|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|10|180.191.20.206|8080|Philippines|Cabanatuan City|Globe Telecom|
+|11|164.70.69.40|3128|Japan|Chiyoda|InfoSphere|
+|12|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|164.70.69.49|3128|Japan|Chiyoda|InfoSphere|
+|15|164.70.69.28|3128|Japan|Chiyoda|InfoSphere|
+|16|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
 |17|72.10.164.178|2843|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|67.43.227.230|10423|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|2843|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.230|22213|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.34|9443|United States|Concord|MCNC|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
