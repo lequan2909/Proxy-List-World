@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|539|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|539|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|539|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|477|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|477|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|477|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|202.212.79.148|3128|Japan|Chiyoda|SIMPLEIA|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|164.70.115.163|3128|Japan|Chiyoda|InfoSphere|
 |5|202.212.62.86|3128|Japan|Naniwa Ku|SIMPLEIA|
-|6|202.212.71.147|3128|Japan|Chiyoda|SIMPLEIA|
-|7|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|202.212.79.182|3128|Japan|Chiyoda|SIMPLEIA|
-|9|202.212.71.136|3128|Japan|Chiyoda|SIMPLEIA|
+|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|7|43.167.242.76|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|8|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|202.212.71.147|3128|Japan|Chiyoda|SIMPLEIA|
 |10|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|12|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|15|119.252.167.130|41890|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|16|88.255.106.27|8080|Türkiye|Istanbul|TurkTelekom|
-|17|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|18|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|17|89.116.32.140|3128|India|Mumbai|Hostinger International Limited|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|46.19.112.62|8890|Russia|Moscow|SVYAZ-ENERGO telecommunications company|
 |20|202.212.71.171|3128|Japan|Chiyoda|SIMPLEIA|
 
 
