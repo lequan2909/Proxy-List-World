@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|608|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|608|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|608|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|561|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|561|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|561|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.117.204|3128|Japan|Chiyoda|InfoSphere|
-|2|164.70.117.122|3128|Japan|Chiyoda|InfoSphere|
-|3|202.212.79.106|3128|Japan|Chiyoda|SIMPLEIA|
-|4|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|5|202.212.71.173|3128|Japan|Chiyoda|SIMPLEIA|
-|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|164.70.68.191|3128|Japan|Chiyoda|InfoSphere|
-|9|164.70.68.185|3128|Japan|Chiyoda|InfoSphere|
-|10|164.70.68.201|3128|Japan|Chiyoda|InfoSphere|
-|11|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|12|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
-|13|164.70.117.173|3128|Japan|Chiyoda|InfoSphere|
-|14|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|202.212.62.97|3128|Japan|Naniwa Ku|SIMPLEIA|
-|16|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|140.227.119.129|3128|Japan|Chiyoda|InfoSphere|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
-|20|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|2|202.212.79.106|3128|Japan|Chiyoda|SIMPLEIA|
+|3|164.70.117.122|3128|Japan|Chiyoda|InfoSphere|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|164.70.68.191|3128|Japan|Chiyoda|InfoSphere|
+|6|164.70.68.185|3128|Japan|Chiyoda|InfoSphere|
+|7|164.70.117.173|3128|Japan|Chiyoda|InfoSphere|
+|8|164.70.117.189|3128|Japan|Chiyoda|InfoSphere|
+|9|164.70.68.201|3128|Japan|Chiyoda|InfoSphere|
+|10|63.250.56.200|1081|Netherlands|Amsterdam|Kamatera Inc|
+|11|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
+|12|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|15|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|203.175.102.22|8082|Indonesia|Darma|MITRAKITA|
+|17|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|18|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|202.212.62.97|3128|Japan|Naniwa Ku|SIMPLEIA|
 
 
 
