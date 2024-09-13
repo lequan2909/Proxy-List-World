@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|628|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|628|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|628|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|551|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|551|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|551|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|202.212.79.184|3128|Japan|Chiyoda|SIMPLEIA|
+|2|202.212.79.97|3128|Japan|Chiyoda|SIMPLEIA|
 |3|202.212.79.114|3128|Japan|Chiyoda|SIMPLEIA|
-|4|202.212.79.97|3128|Japan|Chiyoda|SIMPLEIA|
-|5|202.212.79.103|3128|Japan|Chiyoda|SIMPLEIA|
-|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|203.138.199.123|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|8|202.212.71.171|3128|Japan|Chiyoda|SIMPLEIA|
-|9|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|10|202.212.79.85|3128|Japan|Chiyoda|SIMPLEIA|
-|11|202.212.79.93|3128|Japan|Chiyoda|SIMPLEIA|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|103.213.218.56|19054|Vietnam|Lê Chân District|V9ERP|
+|6|203.138.199.123|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|7|202.212.71.171|3128|Japan|Chiyoda|SIMPLEIA|
+|8|202.212.79.93|3128|Japan|Chiyoda|SIMPLEIA|
+|9|202.212.79.96|3128|Japan|Chiyoda|SIMPLEIA|
+|10|202.212.79.103|3128|Japan|Chiyoda|SIMPLEIA|
+|11|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
 |12|202.212.62.88|3128|Japan|Naniwa Ku|SIMPLEIA|
-|13|202.212.79.96|3128|Japan|Chiyoda|SIMPLEIA|
-|14|202.212.79.119|3128|Japan|Chiyoda|SIMPLEIA|
-|15|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|13|164.70.118.49|3128|Japan|Chiyoda|InfoSphere|
+|14|202.212.79.85|3128|Japan|Chiyoda|SIMPLEIA|
+|15|202.212.79.119|3128|Japan|Chiyoda|SIMPLEIA|
 |16|164.70.117.233|3128|Japan|Chiyoda|InfoSphere|
-|17|164.70.118.49|3128|Japan|Chiyoda|InfoSphere|
-|18|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|203.150.128.231|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|20|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|150.136.170.150|8090|United States|Ashburn|Oracle Corporation|
+|18|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|19|103.169.131.18|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|20|202.212.79.184|3128|Japan|Chiyoda|SIMPLEIA|
 
 
 
