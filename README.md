@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|453|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|453|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|453|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|164.70.118.78|3128|Japan|Chiyoda|InfoSphere|
-|4|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|103.31.251.250|5040|Indonesia|Jakarta|ARGON|
-|9|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
-|15|103.143.168.98|84|India|Hyderabad|Aspt Networks Pvt Ltd|
-|16|35.200.32.115|3128|Japan|Tokyo|Google LLC|
+|1|164.70.118.78|3128|Japan|Chiyoda|InfoSphere|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|190.60.103.99|3128|Colombia|Bogotá|IFX Corporation|
+|5|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|41.79.33.170|8080|Botswana|Gaborone|Electro Metic Enterprises PTY LTD|
+|7|27.112.70.155|8083|Indonesia|Jakarta|GRAHANET|
+|8|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|89.218.175.84|8080|Kazakhstan|Atyrau|JSC Kazakhtelecom|
+|10|103.84.176.101|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|11|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
+|12|103.26.108.118|84|India|Thoothukudi|Niss Networks|
+|13|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|14|134.209.144.177|80|India|Bengaluru|DigitalOcean, LLC|
+|15|58.147.171.110|8085|Bangladesh|Dhaka|Aftab IT Limited|
+|16|140.227.123.29|3128|Japan|Tokyo|InfoSphere|
 |17|140.227.118.199|3128|Japan|Chiyoda|InfoSphere|
-|18|140.227.119.142|3128|Japan|Chiyoda|InfoSphere|
-|19|140.227.123.29|3128|Japan|Tokyo|InfoSphere|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|140.227.119.142|3128|Japan|Chiyoda|InfoSphere|
+|20|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
 
 
 
