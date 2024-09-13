@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|645|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|645|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|645|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|556|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|556|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|556|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|164.70.68.202|3128|Japan|Chiyoda|InfoSphere|
-|5|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|10|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|103.46.8.11|8088|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
-|14|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
-|15|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|125.26.128.158|8080|Thailand|Lopburi|TOT Public Company Limited|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|164.70.117.161|3128|Japan|Chiyoda|InfoSphere|
-|19|164.70.117.201|3128|Japan|Chiyoda|InfoSphere|
-|20|140.227.119.143|3128|Japan|Chiyoda|InfoSphere|
+|2|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|202.212.71.136|3128|Japan|Chiyoda|SIMPLEIA|
+|6|202.212.79.182|3128|Japan|Chiyoda|SIMPLEIA|
+|7|164.70.68.202|3128|Japan|Chiyoda|InfoSphere|
+|8|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|9|203.138.198.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|10|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|103.87.169.206|56642|India|Jaipur|Tejays Industries Pvt Ltd|
+|12|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|14|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
+|18|144.86.187.60|3129|United States|Malden|Charles River Operation|
+|19|144.86.187.56|3129|United States|Malden|Charles River Operation|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
