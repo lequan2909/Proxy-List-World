@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5813** proxies at the latest update. Usable proxies are below.
+> Scraper found **5758** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|431|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|431|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|431|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|428|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|428|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|428|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|229|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1006|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|951|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|303|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3317|✅|
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|164.70.117.133|3128|Japan|Chiyoda|InfoSphere|
 |3|140.227.125.16|3128|Japan|Chiyoda|InfoSphere|
 |4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
+|5|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
 |6|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
-|7|140.227.119.129|3128|Japan|Chiyoda|InfoSphere|
-|8|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|36.88.125.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|12|182.253.68.150|8080|Indonesia|Jakarta Pusat|BIZNET|
-|13|164.70.69.62|3128|Japan|Chiyoda|InfoSphere|
-|14|164.70.68.48|3128|Japan|Chiyoda|InfoSphere|
-|15|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|16|164.70.68.45|3128|Japan|Chiyoda|InfoSphere|
-|17|164.70.69.51|3128|Japan|Chiyoda|InfoSphere|
-|18|203.177.133.238|8080|Philippines|Taguig|Globe Telecom|
-|19|164.70.69.50|3128|Japan|Chiyoda|InfoSphere|
-|20|72.10.164.178|6727|Canada|Montreal|GloboTech Communications|
+|7|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
+|9|140.227.119.129|3128|Japan|Chiyoda|InfoSphere|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
+|12|103.126.86.200|3127|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|15|191.97.6.149|999|Colombia|Líbano|TV AZTECA SUCURSAL COLOMBIA|
+|16|20.84.219.130|3128|United States|Des Moines|Microsoft Corporation|
+|17|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|19|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|164.70.69.20|3128|Japan|Chiyoda|InfoSphere|
 
 
 
