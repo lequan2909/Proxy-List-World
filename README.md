@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|426|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|426|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|426|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|164.70.119.6|3128|Japan|Chiyoda|InfoSphere|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|140.227.118.205|3128|Japan|Chiyoda|InfoSphere|
-|6|164.70.116.109|3128|Japan|Chiyoda|InfoSphere|
-|7|190.60.36.78|8080|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
-|8|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|9|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|58.11.15.192|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|12|38.156.23.66|999|Dominican Republic|Puerto Plata|Visnetwork SRL|
-|13|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|14|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|16|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|138.204.95.166|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
-|18|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
-|19|177.73.136.29|8080|Brazil|Pomerode|UNIFIQUE TELECOMUNICACOES S/A|
-|20|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|164.70.119.6|3128|Japan|Chiyoda|InfoSphere|
+|2|164.70.116.109|3128|Japan|Chiyoda|InfoSphere|
+|3|140.227.118.205|3128|Japan|Chiyoda|InfoSphere|
+|4|180.211.91.40|3125|Indonesia|Bekasi|PT. KINGS NETWORK INDONESIA|
+|5|203.150.128.191|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|7|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
+|9|103.194.172.186|8080|Indonesia|Bandung|MYNET|
+|10|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|119.18.149.9|5020|Bangladesh|Chittagong|BBTS Network|
+|12|103.42.242.45|3125|Indonesia|Tangerang|PT. Jet Cyber Network Nusantara|
+|13|164.70.69.34|3128|Japan|Chiyoda|InfoSphere|
+|14|103.168.254.162|8086|Indonesia|Jepara|PT Fahasa Tri Data|
+|15|164.70.118.31|3128|Japan|Chiyoda|InfoSphere|
+|16|164.70.69.35|3128|Japan|Chiyoda|InfoSphere|
+|17|164.70.119.11|3128|Japan|Chiyoda|InfoSphere|
+|18|164.70.116.103|3128|Japan|Chiyoda|InfoSphere|
+|19|140.227.118.201|3128|Japan|Chiyoda|InfoSphere|
+|20|140.227.118.200|3128|Japan|Chiyoda|InfoSphere|
 
 
 
