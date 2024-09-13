@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|520|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|520|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|520|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|140.227.123.28|3128|Japan|Tokyo|InfoSphere|
-|3|203.138.198.126|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|164.70.115.163|3128|Japan|Chiyoda|InfoSphere|
-|7|202.212.62.86|3128|Japan|Naniwa Ku|SIMPLEIA|
-|8|202.212.71.147|3128|Japan|Chiyoda|SIMPLEIA|
-|9|202.212.71.174|3128|Japan|Chiyoda|SIMPLEIA|
-|10|202.212.79.148|3128|Japan|Chiyoda|SIMPLEIA|
-|11|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|13|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|14|103.36.8.55|8181|Indonesia|Pandeglang|PT Awinet Global Mandiri|
-|15|43.167.242.76|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|113.161.210.60|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|20|61.19.109.236|8080|Thailand|Vadhana|CAT-ISP|
+|1|140.227.123.28|3128|Japan|Tokyo|InfoSphere|
+|2|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|164.70.115.163|3128|Japan|Chiyoda|InfoSphere|
+|4|202.212.62.86|3128|Japan|Naniwa Ku|SIMPLEIA|
+|5|202.212.79.148|3128|Japan|Chiyoda|SIMPLEIA|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|202.212.71.174|3128|Japan|Chiyoda|SIMPLEIA|
+|8|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|9|202.212.71.147|3128|Japan|Chiyoda|SIMPLEIA|
+|10|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|15|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|140.227.125.17|3128|Japan|Chiyoda|InfoSphere|
+|18|164.70.66.53|3128|Japan|Chiyoda|InfoSphere|
+|19|202.212.71.147|3128|Japan|Chiyoda|SIMPLEIA|
+|20|140.227.125.11|3128|Japan|Chiyoda|InfoSphere|
 
 
 
