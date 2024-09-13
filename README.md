@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|580|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|580|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|580|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|440|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|440|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|440|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|4|103.89.15.158|1085|United States|Dallas|Kamatera|
-|5|177.234.227.215|999|Ecuador|Manta|Ufinet Panama S.A.|
-|6|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|103.241.64.75|1081|United Kingdom|London|Kamatera Inc|
+|3|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|5|49.157.62.205|8181|Philippines|Makati City|Eastern Telecommunications Philippines, Inc.|
+|6|112.198.179.17|8082|Philippines|Carmona|Globe Telecom|
 |7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|12|103.231.239.137|58080|Bangladesh|Dhaka|Carnival Internet|
-|13|152.26.229.83|9443|United States|Concord|MCNC|
-|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|15|140.227.123.24|3128|Japan|Tokyo|InfoSphere|
-|16|202.212.71.139|3128|Japan|Chiyoda|SIMPLEIA|
-|17|203.138.198.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|140.227.124.212|3128|Japan|Chiyoda|InfoSphere|
+|10|140.227.123.24|3128|Japan|Tokyo|InfoSphere|
+|11|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
+|12|140.227.119.159|3128|Japan|Chiyoda|InfoSphere|
+|13|202.212.71.139|3128|Japan|Chiyoda|SIMPLEIA|
+|14|202.212.79.90|3128|Japan|Chiyoda|SIMPLEIA|
+|15|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|140.227.125.9|3128|Japan|Chiyoda|InfoSphere|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
 |18|140.227.119.128|3128|Japan|Chiyoda|InfoSphere|
-|19|140.227.119.159|3128|Japan|Chiyoda|InfoSphere|
-|20|152.26.231.93|9443|United States|Concord|MCNC|
+|19|140.227.119.166|3128|Japan|Chiyoda|InfoSphere|
+|20|140.227.119.207|3128|Japan|Chiyoda|InfoSphere|
 
 
 
