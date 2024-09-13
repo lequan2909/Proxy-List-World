@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|682|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|682|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|682|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|710|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|710|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|710|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|140.227.118.209|3128|Japan|Chiyoda|InfoSphere|
-|3|164.70.69.51|3128|Japan|Chiyoda|InfoSphere|
-|4|164.70.68.32|3128|Japan|Chiyoda|InfoSphere|
+|1|164.70.68.32|3128|Japan|Chiyoda|InfoSphere|
+|2|164.70.68.230|3128|Japan|Chiyoda|InfoSphere|
+|3|140.227.118.209|3128|Japan|Chiyoda|InfoSphere|
+|4|164.70.69.51|3128|Japan|Chiyoda|InfoSphere|
 |5|164.70.68.231|3128|Japan|Chiyoda|InfoSphere|
-|6|164.70.68.230|3128|Japan|Chiyoda|InfoSphere|
-|7|164.70.69.36|3128|Japan|Chiyoda|InfoSphere|
-|8|171.237.235.33|5004|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|9|164.70.69.39|3128|Japan|Chiyoda|InfoSphere|
-|10|164.70.68.47|3128|Japan|Chiyoda|InfoSphere|
-|11|202.212.79.108|3128|Japan|Chiyoda|SIMPLEIA|
+|6|164.70.69.36|3128|Japan|Chiyoda|InfoSphere|
+|7|164.70.68.155|3128|Japan|Chiyoda|InfoSphere|
+|8|164.70.68.47|3128|Japan|Chiyoda|InfoSphere|
+|9|164.70.66.64|3128|Japan|Chiyoda|InfoSphere|
+|10|164.70.68.179|3128|Japan|Chiyoda|InfoSphere|
+|11|164.70.68.48|3128|Japan|Chiyoda|InfoSphere|
 |12|164.70.68.180|3128|Japan|Chiyoda|InfoSphere|
-|13|164.70.68.48|3128|Japan|Chiyoda|InfoSphere|
-|14|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|15|164.70.68.155|3128|Japan|Chiyoda|InfoSphere|
-|16|164.70.66.64|3128|Japan|Chiyoda|InfoSphere|
-|17|164.70.69.44|3128|Japan|Chiyoda|InfoSphere|
-|18|164.70.68.179|3128|Japan|Chiyoda|InfoSphere|
-|19|203.138.189.146|3128|Japan|Tokyo|SIMPLEIA|
-|20|164.70.69.62|3128|Japan|Chiyoda|InfoSphere|
+|13|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|14|164.70.68.250|3128|Japan|Chiyoda|InfoSphere|
+|15|164.70.69.44|3128|Japan|Chiyoda|InfoSphere|
+|16|164.70.68.158|3128|Japan|Chiyoda|InfoSphere|
+|17|203.138.189.146|3128|Japan|Tokyo|SIMPLEIA|
+|18|164.70.66.52|3128|Japan|Chiyoda|InfoSphere|
+|19|164.70.69.62|3128|Japan|Chiyoda|InfoSphere|
+|20|164.70.69.39|3128|Japan|Chiyoda|InfoSphere|
 
 
 
