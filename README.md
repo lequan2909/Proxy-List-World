@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|507|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|507|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|507|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.118.49|3128|Japan|Chiyoda|InfoSphere|
 |2|164.70.119.18|3128|Japan|Chiyoda|InfoSphere|
-|3|140.227.118.207|3128|Japan|Chiyoda|InfoSphere|
-|4|164.70.69.24|3128|Japan|Chiyoda|InfoSphere|
+|3|164.70.116.114|3128|Japan|Chiyoda|InfoSphere|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |5|164.70.117.179|3128|Japan|Chiyoda|InfoSphere|
-|6|164.70.116.114|3128|Japan|Chiyoda|InfoSphere|
-|7|164.70.116.150|3128|Japan|Chiyoda|InfoSphere|
+|6|164.70.116.150|3128|Japan|Chiyoda|InfoSphere|
+|7|164.70.69.24|3128|Japan|Chiyoda|InfoSphere|
 |8|164.70.117.103|3128|Japan|Chiyoda|InfoSphere|
-|9|164.70.118.31|3128|Japan|Chiyoda|InfoSphere|
-|10|140.227.125.11|3128|Japan|Chiyoda|InfoSphere|
-|11|164.70.69.28|3128|Japan|Chiyoda|InfoSphere|
-|12|36.72.245.209|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|13|164.70.119.47|3128|Japan|Chiyoda|InfoSphere|
-|14|140.227.118.188|3128|Japan|Chiyoda|InfoSphere|
-|15|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|140.227.118.207|3128|Japan|Chiyoda|InfoSphere|
+|10|164.70.69.28|3128|Japan|Chiyoda|InfoSphere|
+|11|140.227.118.188|3128|Japan|Chiyoda|InfoSphere|
+|12|164.70.119.47|3128|Japan|Chiyoda|InfoSphere|
+|13|164.70.118.31|3128|Japan|Chiyoda|InfoSphere|
+|14|140.227.125.11|3128|Japan|Chiyoda|InfoSphere|
+|15|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
 |16|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|17|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|18|103.82.126.34|1111|Indonesia|Tangerang|PT.PLATINUM CITRA INDONESIA|
-|19|103.193.144.85|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|20|37.60.255.91|3128|Germany|Düsseldorf|SiteGround|
+|17|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|18|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|20|163.5.142.238|3128|France|Paris|IONIS|
 
 
 
