@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|737|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|737|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|737|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|687|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|687|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|687|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|164.70.117.226|3128|Japan|Chiyoda|InfoSphere|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|164.70.117.128|3128|Japan|Chiyoda|InfoSphere|
-|5|140.227.122.80|3128|Japan|Tokyo|InfoSphere|
-|6|164.70.117.222|3128|Japan|Chiyoda|InfoSphere|
-|7|164.70.117.175|3128|Japan|Chiyoda|InfoSphere|
-|8|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|2|164.70.117.172|3128|Japan|Chiyoda|InfoSphere|
+|3|164.70.117.128|3128|Japan|Chiyoda|InfoSphere|
+|4|140.227.122.80|3128|Japan|Tokyo|InfoSphere|
+|5|164.70.117.226|3128|Japan|Chiyoda|InfoSphere|
+|6|164.70.117.229|3128|Japan|Chiyoda|InfoSphere|
+|7|164.70.117.142|3128|Japan|Chiyoda|InfoSphere|
+|8|164.70.117.144|3128|Japan|Chiyoda|InfoSphere|
 |9|140.227.118.204|3128|Japan|Chiyoda|InfoSphere|
-|10|164.70.117.229|3128|Japan|Chiyoda|InfoSphere|
-|11|164.70.117.108|3128|Japan|Chiyoda|InfoSphere|
-|12|164.70.117.142|3128|Japan|Chiyoda|InfoSphere|
-|13|164.70.117.144|3128|Japan|Chiyoda|InfoSphere|
-|14|164.70.118.102|3128|Japan|Chiyoda|InfoSphere|
-|15|164.70.69.41|3128|Japan|Chiyoda|InfoSphere|
-|16|164.70.118.186|3128|Japan|Chiyoda|InfoSphere|
-|17|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|19|164.70.68.200|3128|Japan|Chiyoda|InfoSphere|
-|20|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|164.70.117.108|3128|Japan|Chiyoda|InfoSphere|
+|11|164.70.117.222|3128|Japan|Chiyoda|InfoSphere|
+|12|164.70.117.175|3128|Japan|Chiyoda|InfoSphere|
+|13|164.70.118.102|3128|Japan|Chiyoda|InfoSphere|
+|14|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|15|164.70.118.186|3128|Japan|Chiyoda|InfoSphere|
+|16|164.70.68.200|3128|Japan|Chiyoda|InfoSphere|
+|17|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|164.70.69.41|3128|Japan|Chiyoda|InfoSphere|
+|19|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
