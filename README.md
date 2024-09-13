@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5757** proxies at the latest update. Usable proxies are below.
+> Scraper found **5876** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|436|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|436|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|436|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|415|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|415|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|415|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|228|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|933|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1052|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|400|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3238|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|164.70.119.6|3128|Japan|Chiyoda|InfoSphere|
-|3|203.150.128.71|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|4|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|5|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
 |7|51.158.173.222|3128|France|Paris|Online S.A.S.|
-|8|27.147.130.10|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|9|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|222.127.242.123|8082|Philippines|Iloilo City|GLBB|
-|12|190.60.36.78|8080|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
-|13|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|14|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
-|16|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|177.73.136.29|8080|Brazil|Pomerode|UNIFIQUE TELECOMUNICACOES S/A|
-|19|190.94.212.216|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|20|209.14.115.33|999|Colombia|Neiva|AGIS|
+|8|203.150.128.191|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|9|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
+|10|122.3.139.85|8181|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|11|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|200.115.100.129|8080|Brazil|São Paulo|FiberPon telecom|
+|14|222.127.242.123|8082|Philippines|Iloilo City|GLBB|
+|15|204.199.125.94|999|Colombia|Bogotá|CTL Colombia|
+|16|182.160.123.113|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|36.95.78.156|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|20|164.70.119.6|3128|Japan|Chiyoda|InfoSphere|
 
 
 
