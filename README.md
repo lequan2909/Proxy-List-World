@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|498|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|498|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|498|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|438|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|438|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|438|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|164.70.117.213|3128|Japan|Chiyoda|InfoSphere|
-|3|164.70.117.135|3128|Japan|Chiyoda|InfoSphere|
-|4|202.212.62.78|3128|Japan|Naniwa Ku|SIMPLEIA|
-|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|7|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|206.201.3.83|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|103.175.46.222|3125|Indonesia|Cirebon|PT Internet Keluarga Indonesia|
-|12|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
-|14|191.97.16.51|999|Venezuela|Miranda|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
-|15|146.196.41.141|8080|Indonesia|Karawang|UNINA|
-|16|181.78.82.211|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|17|164.70.119.43|3128|Japan|Chiyoda|InfoSphere|
-|18|164.70.119.15|3128|Japan|Chiyoda|InfoSphere|
-|19|140.227.118.188|3128|Japan|Chiyoda|InfoSphere|
-|20|202.51.106.229|8080|Indonesia|Jakarta|PT Solusi Infostruktur Nusantara|
+|3|202.212.62.78|3128|Japan|Naniwa Ku|SIMPLEIA|
+|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|164.70.117.135|3128|Japan|Chiyoda|InfoSphere|
+|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|7|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|8|103.156.15.64|1080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|120.28.189.82|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|11|223.25.110.204|1080|Indonesia|Surabaya|SinergiNet|
+|12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|13|189.203.181.34|8080|Mexico|Cocoyoc|Total Play Telecomunicaciones SA De CV|
+|14|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|15|45.126.41.7|8080|Indonesia|Jumpangdua|NIRWANA|
+|16|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|74.48.45.120|80|United States|Los Angeles|Multacom Corporation|
+|19|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
+|20|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
 
 
 
