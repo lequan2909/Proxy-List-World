@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|484|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|484|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|484|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|443|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|443|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|443|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|164.70.117.164|3128|Japan|Chiyoda|InfoSphere|
-|3|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|164.70.117.213|3128|Japan|Chiyoda|InfoSphere|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|7|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
-|8|36.72.245.209|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|9|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|10|144.86.187.45|3129|United States|Malden|Charles River Operation|
-|11|103.172.42.177|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|12|144.86.187.45|3129|United States|Malden|Charles River Operation|
-|13|206.201.3.83|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|14|103.172.42.89|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|15|144.86.187.37|3129|United States|Malden|Charles River Operation|
+|1|164.70.117.164|3128|Japan|Chiyoda|InfoSphere|
+|2|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|164.70.117.213|3128|Japan|Chiyoda|InfoSphere|
+|4|144.86.187.37|3129|United States|Malden|Charles River Operation|
+|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|6|36.72.245.209|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|7|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|94.23.204.27|3128|France|Roubaix|OVH SAS|
+|9|112.201.188.62|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|10|103.172.42.177|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|11|177.23.176.58|8080|Brazil|Rio de Janeiro|JM TELECOMUNICACOES E MANUTENCAO DE COMP. EIRELI|
+|12|144.86.187.36|3129|United States|Malden|Charles River Operation|
+|13|103.172.42.89|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|14|186.148.181.69|999|Colombia|Cogua|TV AZTECA SUCURSAL COLOMBIA|
+|15|187.102.216.210|999|Argentina|Montecarlo|Cretton Lisandro Maximiliano|
 |16|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
-|17|144.86.187.59|3129|United States|Malden|Charles River Operation|
-|18|27.147.195.170|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|38.188.127.86|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|17|177.75.223.29|8080|Brazil|São Lourenço|Videomar Rede Nordeste S/A|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|223.25.110.204|1080|Indonesia|Surabaya|SinergiNet|
+|20|103.133.27.247|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
 
 
 
