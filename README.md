@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|426|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|426|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|426|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|420|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|420|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|420|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|164.70.119.6|3128|Japan|Chiyoda|InfoSphere|
-|3|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|203.150.128.71|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|6|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|8|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
-|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|10|38.253.225.2|8080|Indonesia|Cileungsir|PT Merdeka Media Teknologi|
-|11|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|14|140.227.123.28|3128|Japan|Tokyo|InfoSphere|
-|15|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|140.227.123.30|3128|Japan|Tokyo|InfoSphere|
-|17|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|164.70.69.51|3128|Japan|Chiyoda|InfoSphere|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|67.43.236.20|8741|Canada|Montreal|GloboTech Communications|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|7|51.158.173.222|3128|France|Paris|Online S.A.S.|
+|8|43.167.240.127|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|9|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|103.160.205.170|8080|Indonesia|Mataram|PRIME|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|13|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
+|16|177.73.136.29|8080|Brazil|Pomerode|UNIFIQUE TELECOMUNICACOES S/A|
+|17|66.27.58.70|8080|United States|Artesia|Spectrum|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|20|36.89.251.14|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 
 
 
