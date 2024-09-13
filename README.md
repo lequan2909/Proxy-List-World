@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|436|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|436|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|436|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|8|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|10|45.70.203.116|999|Ecuador|Quito|Ufinet Panama S.A.|
-|11|152.26.229.46|9443|United States|Concord|MCNC|
-|12|72.10.164.178|31243|Canada|Montreal|GloboTech Communications|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|59.11.85.221|3128|South Korea|Seongnam-si|Korea Telecom|
-|15|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|18|67.43.228.254|13883|Canada|Montreal|GloboTech Communications|
-|19|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|20|72.10.164.178|31243|Canada|Montreal|GloboTech Communications|
+|5|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|24.106.221.230|53281|United States|Wilmington|Spectrum|
+|7|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|8|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|9|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|152.26.229.46|9443|United States|Concord|MCNC|
+|11|103.247.12.18|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|12|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|14|164.70.69.44|3128|Japan|Chiyoda|InfoSphere|
+|15|164.70.69.50|3128|Japan|Chiyoda|InfoSphere|
+|16|152.26.229.47|9443|United States|Concord|MCNC|
+|17|103.70.93.77|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|18|67.43.228.254|5151|Canada|Montreal|GloboTech Communications|
+|19|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|191.97.96.86|8080|Argentina|General Roca|Vision NET|
 
 
 
