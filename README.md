@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |5|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
-|6|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|8|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|103.166.227.82|8085|Indonesia|Majalengka|PT Arta Flash Sintesa Nusantara|
-|10|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|103.156.17.41|8818|Indonesia|Indramayu|RSTNET|
-|12|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
-|13|140.227.125.16|3128|Japan|Chiyoda|InfoSphere|
-|14|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|15|45.174.95.221|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|16|118.97.75.86|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|19|190.110.34.108|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|20|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|6|103.245.16.133|8080|Indonesia|Depok|PT Quantum Tera Network|
+|7|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|201.77.14.144|9090|Brazil|Pinheiros|RG PROVIDER LTDA ME|
+|9|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|11|80.73.89.78|8080|Russia|Yakutsk|Sakhatelecom|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|14|190.110.34.108|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|17|152.26.231.94|9443|United States|Concord|MCNC|
+|18|195.54.171.228|24088|Hong Kong|Hong Kong|M247 Europe SRL|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 
 
 
