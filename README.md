@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5375** proxies at the latest update. Usable proxies are below.
+> Scraper found **5332** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|242|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|724|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|681|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|220|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3231|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.148.29.229|80|Indonesia|Sigi|DEWATA|
-|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|4|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|171.245.113.253|5000|Vietnam|Quảng Ninh|Viettel Corporation|
-|6|103.112.54.21|58080|Bangladesh|Dhaka|Carnival Internet|
-|7|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|103.176.97.223|3127|Indonesia|Purwakarta|PT Global Sarana Elektronika|
-|12|180.191.23.149|8082|Philippines|Cabanatuan City|Globe Telecom|
-|13|38.159.232.6|8080|Dominican Republic|Santiago de los Caballeros|Lightwave S.R.L|
-|14|45.174.57.26|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
-|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|16|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|152.26.231.42|9443|United States|Concord|MCNC|
-|20|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|160.248.11.225|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|5.39.217.229|1218|The Netherlands|Amsterdam|HOSTKEY|
+|4|103.247.21.234|8080|Indonesia|Bekasi|PT wifian Solution|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|27.79.68.18|5101|Vietnam|Hanoi|Viettel Corporation|
+|7|203.177.133.238|8080|Philippines|Taguig|Globe Telecom|
+|8|171.237.235.33|5004|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|9|101.255.118.10|3127|Indonesia|Jakarta|PT Remala Abadi|
+|10|168.232.174.43|3128|Brazil|Cláudio|Sonik Serviços de Comunicação LTDA|
+|11|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|69.160.223.33|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
+|14|43.243.141.12|8080|Indonesia|Pisangan|CEPATNET|
+|15|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|16|5.39.217.229|1218|The Netherlands|Amsterdam|HOSTKEY|
+|17|67.43.236.20|25269|Canada|Montreal|GloboTech Communications|
+|18|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|72.10.160.90|19717|Canada|Montreal|GloboTech Communications|
+|20|204.199.120.60|8080|Colombia|Bogotá|Sistemas Telecomunicaciones Y Biomedicos De Colombia SAS|
 
 
 
