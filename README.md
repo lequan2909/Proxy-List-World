@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|160.248.187.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |4|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
 |5|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|7|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|8|103.189.249.220|1111|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
-|9|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|10|47.88.17.170|8118|United States|Minkler|Alibaba.com LLC|
-|11|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|12|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|14|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|16|103.162.141.146|3128|Indonesia|Batam|PT Filltech Antar Nusa|
-|17|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|103.31.132.42|9812|Indonesia|Kebon Melati|PT Arthatama Adhiprima Persada|
-|19|192.99.169.19|8446|Canada|Beauharnois|OVH SAS|
-|20|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|139.135.189.175|8081|Philippines|Calamba|ComClark Network & Technology Corp|
+|8|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|9|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
+|10|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|11|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|12|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|13|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|14|157.100.7.218|999|Ecuador|Quito|Telconet S.A|
+|15|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|101.255.105.26|8181|Indonesia|Jakarta|PT Remala Abadi|
+|17|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|43.229.254.221|8181|Indonesia|Bandung|PT. Media Antar Nusa|
+|19|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|20|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
