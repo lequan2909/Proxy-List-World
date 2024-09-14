@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|3.0.249.239|8088|Singapore|Singapore|Amazon Technologies Inc.|
+|1|36.64.102.34|8080|Indonesia|Tangerang|PT. Telekomunikasi Indonesia|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
-|4|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|171.248.45.150|5102|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|6|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|8|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|11|62.171.170.106|3128|Germany|Nuremberg|Contabo GmbH|
-|12|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|13|101.109.45.221|8080|Thailand|Pattaya|TOT Public Company Limited|
-|14|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|15|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|180.254.152.129|8080|Indonesia|Palembang|PT. TELKOM INDONESIA|
-|17|152.26.231.42|9443|United States|Concord|MCNC|
-|18|14.139.57.195|23500|India|Lucknow|National Knowledge Network|
-|19|163.5.142.238|3128|France|Paris|IONIS|
-|20|152.26.231.93|9443|United States|Concord|MCNC|
+|4|171.238.111.99|5102|Vietnam|Hanoi|Viettel Corporation|
+|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|6|3.0.249.239|8088|Singapore|Singapore|Amazon Technologies Inc.|
+|7|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|8|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|9|103.165.155.254|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|10|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|152.26.231.42|9443|United States|Concord|MCNC|
+|14|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|15|103.105.55.51|9090|Indonesia|Klaten|PT. Mega Artha Lintas Data|
+|16|152.26.231.93|9443|United States|Concord|MCNC|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
