@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|4|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|5|103.143.168.130|84|India|Hyderabad|Aspt Networks Pvt Ltd|
-|6|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|9|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|10|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|84.247.190.159|3128|Germany|Düsseldorf|Contabo GmbH|
-|12|193.105.123.196|8123|Azerbaijan|Baku|Bulud Telecom LLC|
-|13|52.13.143.246|80|United States|Portland|Amazon.com, Inc.|
-|14|152.26.229.86|9443|United States|Concord|MCNC|
-|15|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|2|185.211.57.166|3128|Iran|Tehran|Mahdiar Rafiee|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|7|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|12|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|14|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
 |16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|163.5.142.238|3128|France|Paris|IONIS|
-|19|67.43.227.227|10681|Canada|Montreal|GloboTech Communications|
-|20|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|152.26.229.86|9443|United States|Concord|MCNC|
+|18|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|163.5.142.238|3128|France|Paris|IONIS|
 
 
 
