@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|78.158.171.84|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|6|103.87.169.173|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|7|83.54.10.24|3128|Spain|León|Telefonica de Espana SAU|
-|8|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
-|9|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|12|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|14|180.191.23.149|8082|Philippines|Cabanatuan City|Globe Telecom|
-|15|103.199.117.115|8080|Indonesia|Semarang|PT Hepra Teknologi Indonesia|
-|16|45.251.139.174|3129|United States| Los Angeles|Zenlayer Inc|
-|17|152.26.229.46|9443|United States|Concord|MCNC|
-|18|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|19|152.26.229.83|9443|United States|Concord|MCNC|
-|20|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|4|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
+|5|136.243.73.229|80|Germany|Falkenstein|Hetzner Online GmbH|
+|6|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|78.158.171.84|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|11|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|152.26.229.46|9443|United States|Concord|MCNC|
+|15|152.26.229.83|9443|United States|Concord|MCNC|
+|16|140.227.123.26|3128|Japan|Tokyo|InfoSphere|
+|17|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|18|123.30.154.38|2008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|72.10.164.178|30467|Canada|Montreal|GloboTech Communications|
+|20|140.227.125.17|3128|Japan|Chiyoda|InfoSphere|
 
 
 
