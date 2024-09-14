@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|45.78.27.223|8081|Hong Kong|Tai Wo Hau|xTom Hong Kong Limited|
-|5|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|1|45.78.27.223|8081|Hong Kong|Tai Wo Hau|xTom Hong Kong Limited|
+|2|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
 |7|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|11|36.91.68.149|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
-|12|103.243.177.90|8080|Indonesia|Kalicari|Universitas Katolik Soegijapranata|
-|13|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
-|14|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|15|67.43.236.20|21825|Canada|Montreal|GloboTech Communications|
-|16|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
-|17|152.26.229.83|9443|United States|Concord|MCNC|
-|18|152.26.231.83|9443|United States|Concord|MCNC|
-|19|67.43.227.227|13371|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|3015|Canada|Montreal|GloboTech Communications|
+|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|103.243.177.90|8080|Indonesia|Kalicari|Universitas Katolik Soegijapranata|
+|10|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|12|114.5.199.197|80|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|13|119.15.86.30|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|14|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|12.163.95.161|8080|United States|Alex|AT&T Services, Inc.|
+|16|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
+|17|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|125.209.110.83|39617|Pakistan|Karachi|Multinet 125-110/24|
 
 
 
