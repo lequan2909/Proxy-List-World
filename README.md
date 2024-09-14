@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5154** proxies at the latest update. Usable proxies are below.
+> Scraper found **5288** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|242|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|529|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|663|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|256|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3169|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
 |4|185.211.57.166|3128|Iran|Tehran|Mahdiar Rafiee|
 |5|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|8|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|10|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|72.10.164.178|1329|Canada|Montreal|GloboTech Communications|
-|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|14|152.26.231.86|9443|United States|Concord|MCNC|
-|15|72.10.160.170|16451|Canada|Montreal|GloboTech Communications|
-|16|103.139.98.157|8080|Indonesia|Bandaragung|Digital Network Setiawan|
+|6|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|101.109.119.24|8080|Thailand|Sam Phran|TOT Public Company Limited|
+|8|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|103.69.20.41|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|11|103.234.159.5|8080|India|Bengaluru|MWPL|
+|12|103.76.150.175|8080|Indonesia|Ponorogo|PT. Java Digital Nusantara|
+|13|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|152.26.229.83|9443|United States|Concord|MCNC|
 |17|152.26.231.42|9443|United States|Concord|MCNC|
-|18|117.68.38.173|32650|China|Hefei|China Telecom|
-|19|72.10.160.172|30957|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.93|9443|United States|Concord|MCNC|
+|18|152.26.231.93|9443|United States|Concord|MCNC|
+|19|72.10.164.178|16945|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.250|13831|Canada|Montreal|GloboTech Communications|
 
 
 
