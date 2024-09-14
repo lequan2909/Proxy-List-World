@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
-|2|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|168.228.193.109|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|168.228.193.109|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|3|103.24.215.150|8181|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
 |4|103.115.31.161|8090|Indonesia|Depok|HSPNET|
-|5|103.24.215.150|8181|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
-|6|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|36.66.111.81|8080|Indonesia|Pondok Labu|PT. Telekomunikasi Indonesia|
-|8|36.88.125.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|193.122.197.154|80|United States|Ashburn|Oracle Corporation|
-|12|101.109.119.24|8080|Thailand|Sam Phran|TOT Public Company Limited|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|27.74.251.99|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|15|103.234.159.5|8080|India|Bengaluru|MWPL|
+|5|119.76.142.205|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
+|6|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|7|202.57.25.86|8080|Indonesia|Semarang|announced of WINET|
+|8|212.236.38.166|8081|Austria|Vienna|Video-Broadcast|
+|9|103.247.12.18|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|10|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|106.227.87.11|3128|China|Taohua|China Telecom|
+|12|103.83.0.62|8085|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|13|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|152.26.229.34|9443|United States|Concord|MCNC|
 |16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|152.26.229.34|9443|United States|Concord|MCNC|
-|18|37.26.86.206|47464|Albania|Tirana|ATU|
-|19|152.26.229.47|9443|United States|Concord|MCNC|
-|20|193.122.197.154|80|United States|Ashburn|Oracle Corporation|
+|17|152.26.229.47|9443|United States|Concord|MCNC|
+|18|202.47.189.106|8080|Indonesia|Sintang|PT.CITRA BERDIKARI NUSANTARA|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
 
