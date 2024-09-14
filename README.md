@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.209.220.0|3128|United States|Ashburn|Amazon.com, Inc.|
-|2|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|185.211.57.166|3128|Iran|Tehran|Mahdiar Rafiee|
-|4|18.209.220.0|3128|United States|Ashburn|Amazon.com, Inc.|
-|5|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|190.60.103.101|3128|Colombia|Bogotá|IFX Corporation|
-|7|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|203.95.198.29|32650|Cambodia|Phnom Penh|Today Communication Co., Ltd|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|185.211.57.166|3128|Iran|Tehran|Mahdiar Rafiee|
+|6|200.125.170.106|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|7|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|8|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
 |9|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|103.76.150.175|8080|Indonesia|Ponorogo|PT. Java Digital Nusantara|
-|11|72.10.164.178|31229|Canada|Montreal|GloboTech Communications|
-|12|152.26.229.83|9443|United States|Concord|MCNC|
-|13|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|67.43.228.252|1757|Canada|Montreal|GloboTech Communications|
-|15|152.26.231.42|9443|United States|Concord|MCNC|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|18|72.10.160.91|25077|Canada|Montreal|GloboTech Communications|
-|19|43.156.172.188|3127|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|10|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|152.26.229.83|9443|United States|Concord|MCNC|
+|12|177.234.212.188|999|Ecuador|Quito|Ufinet Panama S.A.|
+|13|152.26.231.42|9443|United States|Concord|MCNC|
+|14|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|15|152.26.231.93|9443|United States|Concord|MCNC|
+|16|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|103.70.93.77|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|20|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
 
 
 
