@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|140.227.123.27|3128|Japan|Tokyo|InfoSphere|
-|4|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|103.162.63.65|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|7|74.48.45.120|80|United States|Los Angeles|Multacom Corporation|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|165.22.59.116|8888|Singapore|Singapore|DigitalOcean, LLC|
-|11|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|103.139.98.157|8080|Indonesia|Bandaragung|Digital Network Setiawan|
-|15|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
-|17|103.69.20.42|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|18|190.110.34.108|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|19|164.70.117.108|3128|Japan|Chiyoda|InfoSphere|
-|20|164.70.116.114|3128|Japan|Chiyoda|InfoSphere|
+|2|140.227.123.27|3128|Japan|Tokyo|InfoSphere|
+|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|4|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|5|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|36.89.235.239|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|9|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|103.48.68.82|83|India|Hyderabad|Country Online Services PVT LTD|
+|11|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
+|14|36.95.78.156|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|15|140.227.125.14|3128|Japan|Chiyoda|InfoSphere|
+|16|191.102.248.8|8084|Argentina|Rosario|IP·RED|
+|17|179.106.27.27|9090|Brazil|Patrocínio|OnNet Telecomunicações LTDA|
+|18|103.70.93.77|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|19|36.91.68.149|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
+|20|78.158.171.84|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
 
 
 
