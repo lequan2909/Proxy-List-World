@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|103.80.237.65|8181|Indonesia|Bogor|PT MITRA VISIONER PRATAMA|
+|2|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|163.172.33.137|4648|France|Vitry-sur-Seine|Online S.A.S.|
-|4|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|101.109.214.88|8080|Thailand|Bangkok|TOT Public Company Limited|
 |5|198.244.231.83|8888|United Kingdom|London|OVH SAS|
-|6|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|137.59.161.177|8080|Indonesia|Depok|PT SumberKoneksi Indotelematika|
-|8|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|185.211.57.166|3128|Iran|Tehran|Mahdiar Rafiee|
-|11|150.109.244.218|59394|South Korea|Seoul|Aceville Pte.ltd|
-|12|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|13|177.93.51.213|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|14|38.156.191.230|999|Mexico|Aguascalientes|Digy Networks S.A De C.V.|
-|15|130.0.25.110|34607|Albania|Shkodër|IBC Backbone Services South|
-|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|17|103.203.232.101|1080|Indonesia|Kedok|INDANA|
-|18|160.248.11.206|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|152.26.229.34|9443|United States|Concord|MCNC|
+|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|116.101.29.135|5000|Vietnam|Haiphong|Viettel Corporation|
+|8|116.108.121.252|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|101.109.156.239|8080|Thailand|Pattaya|TOT Public Company Limited|
+|11|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|150.109.244.218|59394|South Korea|Seoul|Aceville Pte.ltd|
+|13|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|103.203.232.101|1080|Indonesia|Kedok|INDANA|
+|15|190.60.103.101|3128|Colombia|Bogotá|IFX Corporation|
+|16|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|185.211.57.166|3128|Iran|Tehran|Mahdiar Rafiee|
+|18|157.66.50.81|8080|Indonesia|Jakarta|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|19|88.1.164.97|3128|Spain|Tarancón|Telefonica de Espana SAU|
+|20|121.101.131.67|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
 
 
 
