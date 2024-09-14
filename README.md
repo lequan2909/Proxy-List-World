@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|5|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
 |6|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
 |8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|185.208.102.133|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|10|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|13|69.75.140.157|8080|United States|Los Angeles|Spectrum|
-|14|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|67.43.228.250|10731|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.22|14803|Canada|Montreal|GloboTech Communications|
-|19|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|20|67.43.227.227|28525|Canada|Montreal|GloboTech Communications|
+|9|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|10|138.94.236.153|8080|Brazil|Novo Progresso Municipality|Nettcon Provedor De Internet Eireli EPP|
+|11|114.9.26.118|8090|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|12|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|103.137.91.250|8080|Laos|Vientiane|SLT Network Co., LTD|
+|16|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|67.43.228.250|10731|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.22|14803|Canada|Montreal|GloboTech Communications|
+|20|103.41.35.153|58080|India|Mumbai|Juweriyah Networks Private Limited|
 
 
 
