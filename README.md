@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|112.198.200.62|8082|Philippines|Nasugbu|Globe Telecom|
-|3|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
-|4|157.66.37.12|8080|Indonesia|Sidorejo|PT Speed Network Indonesia|
-|5|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|7|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|15|223.205.207.184|8080|Thailand|Ko Pha Ngan|Triple T Broadband Public Company Limited|
-|16|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|17|36.80.25.172|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|18|27.74.121.203|5102|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|19|103.101.230.236|8080|Indonesia|Jakarta|Biznet Networks|
-|20|182.253.122.172|3127|Indonesia|Surabaya|BIZNET|
+|1|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
+|2|103.160.182.171|8080|Indonesia|Jember|PT Internusa Duta Makmur|
+|3|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|134.236.29.147|8080|Thailand|Bang Lamung|CAT-BB|
+|5|103.162.63.101|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|7|109.165.198.188|8181|Bosnia and Herzegovina|Bijeljina|TEOL-ADSL|
+|8|101.109.45.221|8080|Thailand|Pattaya|TOT Public Company Limited|
+|9|180.254.152.129|8080|Indonesia|Palembang|PT. TELKOM INDONESIA|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|58.136.241.227|8080|Thailand|Bangkok|AIS-Fibre|
+|13|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|171.232.44.144|5102|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|16|43.167.241.83|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|17|191.102.254.26|8085|Argentina|Rosario|IP·RED|
+|18|74.85.156.82|8888|Puerto Rico|Bayamón|Fuse Telecom LLC|
+|19|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
