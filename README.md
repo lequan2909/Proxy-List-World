@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|160.248.11.206|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|168.138.211.5|8080|Japan|Tokyo|Oracle Corporation|
 |5|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|160.248.11.206|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|7|20.162.224.93|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|9|103.156.17.171|8181|Indonesia|Indramayu|RSTNET|
-|10|103.83.0.62|8085|Indonesia|Lamongan|PT Kia Integrasi Akses|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|119.148.54.78|1419|Bangladesh|Dhaka|Agni Systems Limited|
-|13|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|14|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|43.167.243.180|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|19|43.167.240.169|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|20|140.227.123.27|3128|Japan|Tokyo|InfoSphere|
+|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|7|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
+|8|20.162.224.93|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|12|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|13|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|27.123.221.196|8080|Indonesia|Jakarta|FIBERNET|
+|15|94.183.230.166|3128|Iran|Tehran|Aria Shatel PJSC|
+|16|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|103.83.0.62|8085|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|19|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|20|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
