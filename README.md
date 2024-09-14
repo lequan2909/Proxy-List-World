@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|103.122.1.126|8080|Indonesia|Palembang|PT. Java Digital Nusantara|
-|4|103.168.149.3|8181|Indonesia|Samosir|TORSADA|
-|5|103.174.237.66|3127|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|6|181.78.12.43|999|Colombia|Pueblo Bello|IFX Networks Argentina S.R.L|
-|7|103.87.170.55|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|8|43.167.243.37|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|9|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|157.66.84.30|7777|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|201.20.118.146|27234|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|13|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|14|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|74.48.45.120|80|United States|Los Angeles|Multacom Corporation|
-|16|185.142.65.25|8080|Russia|Lytkarino|Wellcom-l ISP|
-|17|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|213.147.214.145|8424|Russia|Saratov|MTS PJSC|
-|19|5.58.97.89|8080|Ukraine|Ternopil|Columbus|
-|20|103.156.75.40|8181|Indonesia|Gianyar|PT Trika Global Media|
+|2|103.122.1.126|8080|Indonesia|Palembang|PT. Java Digital Nusantara|
+|3|181.78.12.43|999|Colombia|Pueblo Bello|IFX Networks Argentina S.R.L|
+|4|194.4.57.152|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|5|103.168.149.3|8181|Indonesia|Samosir|TORSADA|
+|6|113.53.60.4|8080|Thailand|Bangkok|TOT Public Company Limited|
+|7|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|178.205.252.86|8080|Russia|Naberezhnyye Chelny|TATTELECOM|
+|9|103.153.140.31|8080|India|Dindigul|Airprime Internet Services Private Limited|
+|10|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|103.87.170.55|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|12|105.21.72.38|8080|Uganda|Kampala|SEACOM Limited Networks|
+|13|5.58.97.89|8080|Ukraine|Ternopil|Columbus|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|43.167.242.77|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|125.209.110.83|39617|Pakistan|Karachi|Multinet 125-110/24|
 
 
 
