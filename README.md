@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5280** proxies at the latest update. Usable proxies are below.
+> Scraper found **5253** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|241|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|598|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|571|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|252|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3231|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|160.248.11.225|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|171.240.212.197|5101|Vietnam|Thu Dau Mot|Viettel Corporation|
-|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|171.237.235.33|5004|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|7|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|10|103.118.44.163|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|52.13.143.246|80|United States|Portland|Amazon.com, Inc.|
-|13|103.112.54.21|58080|Bangladesh|Dhaka|Carnival Internet|
-|14|103.75.54.230|8080|Indonesia|Jakarta|PT Quantum Tera Network|
-|15|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|16|52.13.143.246|80|United States|Portland|Amazon.com, Inc.|
-|17|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|36.72.245.209|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|20|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|160.248.11.225|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|5|103.241.64.75|1081|United Kingdom|London|Kamatera Inc|
+|6|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|54.193.30.143|3128|United States|San Jose|Amazon.com, Inc.|
+|8|103.118.44.163|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|9|54.193.30.143|3128|United States|San Jose|Amazon.com, Inc.|
+|10|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
+|11|27.79.64.232|5101|Vietnam|Tam Kỳ|Viettel Corporation|
+|12|36.95.142.35|8080|Indonesia|Bekasi|Telekomunikasi Indonesia|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|16|45.225.120.36|40033|Brazil|Paripiranga|Centrosulnet Informatica Eireli|
+|17|188.121.128.246|10186|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|18|38.253.225.2|8080|Indonesia|Cileungsir|PT Merdeka Media Teknologi|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
