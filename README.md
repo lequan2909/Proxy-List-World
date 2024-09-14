@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|160.248.11.225|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|45.184.152.81|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
-|4|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|190.121.145.115|999|Colombia|Sogamoso|Media Commerce Partners S.A|
+|3|160.248.11.225|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
 |5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 |6|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|7|171.234.237.179|10001|Vietnam|Hanoi|Viettel Corporation|
-|8|119.76.142.208|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
-|9|103.118.44.163|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|5.61.62.24|8118|United Kingdom|Failsworth|M247 Europe SRL|
-|14|171.245.113.253|5000|Vietnam|Quảng Ninh|Viettel Corporation|
-|15|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|43.167.242.183|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|72.10.160.171|3101|Canada|Montreal|GloboTech Communications|
-|20|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|52.13.143.246|80|United States|Portland|Amazon.com, Inc.|
+|8|5.39.217.229|1218|The Netherlands|Amsterdam|HOSTKEY|
+|9|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|116.96.99.119|5101|Vietnam|Hanoi|Viettel Corporation|
+|11|54.193.30.143|3128|United States|San Jose|Amazon.com, Inc.|
+|12|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|13|103.84.176.45|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|14|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|15|201.47.88.21|3128|Brazil|Maringá|Vivo|
+|16|152.26.229.83|9443|United States|Concord|MCNC|
+|17|152.26.229.46|9443|United States|Concord|MCNC|
+|18|52.13.143.246|80|United States|Portland|Amazon.com, Inc.|
+|19|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
 
 
 
