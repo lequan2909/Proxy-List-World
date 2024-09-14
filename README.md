@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|140.227.123.27|3128|Japan|Tokyo|InfoSphere|
-|3|165.22.59.116|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|7|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|103.156.16.245|8080|Indonesia|Jakarta|RSTNET|
-|9|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
-|10|103.162.63.65|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|11|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|103.154.91.196|8080|Indonesia|Jakarta|MORATELINDONAP|
-|13|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
-|14|119.148.61.130|8080|Bangladesh|Dhaka|Agni Systems Limited|
-|15|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|164.70.118.106|3128|Japan|Chiyoda|InfoSphere|
-|17|190.94.213.83|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|18|164.70.118.250|3128|Japan|Chiyoda|InfoSphere|
-|19|103.153.247.70|8080|Indonesia|Jakarta|PRIMAHOME|
-|20|164.70.117.103|3128|Japan|Chiyoda|InfoSphere|
+|1|140.227.123.27|3128|Japan|Tokyo|InfoSphere|
+|2|165.22.59.116|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|176.88.166.218|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|5|50.204.36.138|60808|United States|Sacramento|Comcast Cable Communications, LLC|
+|6|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|7|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
+|8|80.66.112.2|31280|Spain|La Zenia|Servicios Digitales Codinet S.L.|
+|9|202.47.188.133|8090|Indonesia|Magetan|PT.CITRA BERDIKARI NUSANTARA|
+|10|58.69.206.64|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|11|5.143.152.36|8080|Russia|Belgorod|Rostelecom networks|
+|12|103.217.224.201|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|13|38.253.88.242|999|United States|Miami|LAUAM MEGARED TELECOM, S.R.L.|
+|14|164.70.118.106|3128|Japan|Chiyoda|InfoSphere|
+|15|164.70.118.250|3128|Japan|Chiyoda|InfoSphere|
+|16|164.70.117.103|3128|Japan|Chiyoda|InfoSphere|
+|17|164.70.118.99|3128|Japan|Chiyoda|InfoSphere|
+|18|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|19|152.26.229.34|9443|United States|Concord|MCNC|
+|20|109.127.82.162|8080|Iraq|Erbil|Newroz Telecom|
 
 
 
