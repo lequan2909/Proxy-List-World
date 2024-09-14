@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|4|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
+|3|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|6|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
 |7|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |8|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
-|12|27.74.121.203|5102|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|13|31.161.38.233|8090|The Netherlands|The Hague|KPN B.V|
-|14|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|15|152.26.231.42|9443|United States|Concord|MCNC|
-|16|152.26.231.86|9443|United States|Concord|MCNC|
-|17|103.191.218.87|8080|Indonesia|Kuningan Barat|PT Replay Inti Media|
-|18|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|19|67.43.228.254|5417|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.93|9443|United States|Concord|MCNC|
+|9|212.174.15.164|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|10|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|165.255.100.74|8080|South Africa|Durban|Afrihost (Pty) Ltd|
+|12|49.49.185.216|8080|Thailand|Wang Noi|Triple T Broadband Public Company Limited|
+|13|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|16|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|19|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
