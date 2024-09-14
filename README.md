@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|61.7.191.95|8080|Thailand|Ao Nang|CAT Telecom Public Company Limited|
 |3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|118.97.75.86|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|8|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
-|9|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|10|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|103.26.108.254|84|India|Thoothukudi|Niss Networks|
-|15|176.100.13.15|8080|Ukraine|Kyiv|"SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY|
-|16|72.10.160.174|31765|Canada|Montreal|GloboTech Communications|
-|17|121.101.131.67|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|5|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|103.180.123.27|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|36.91.68.149|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
+|10|27.65.19.48|8081|Vietnam|Ho Chi Minh City|Viettel Group|
+|11|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|12|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|118.97.75.86|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|15|47.88.13.127|3128|United States|Minkler|Alibaba.com LLC|
+|16|191.97.96.86|8080|Argentina|General Roca|Vision NET|
+|17|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
 |18|152.26.229.86|9443|United States|Concord|MCNC|
 |19|152.26.231.93|9443|United States|Concord|MCNC|
-|20|67.43.228.250|3327|Canada|Montreal|GloboTech Communications|
+|20|164.70.118.212|3128|Japan|Chiyoda|InfoSphere|
 
 
 
