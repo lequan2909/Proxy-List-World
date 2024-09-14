@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|6|69.160.223.241|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
-|7|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
-|8|103.36.10.118|8090|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|9|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|10|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|103.156.17.41|8818|Indonesia|Indramayu|RSTNET|
-|13|36.93.214.253|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|14|49.49.90.225|8081|Thailand|Nakhon Phanom|Triple T Broadband Public Company Limited|
-|15|103.239.255.36|58080|Bangladesh|Dhaka|Carnival Internet|
-|16|124.158.167.155|2909|Indonesia|Jakarta|ICON+|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|72.10.164.178|8209|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.42|9443|United States|Concord|MCNC|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|7|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|8|122.53.243.220|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|9|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|10|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
+|11|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|12|202.137.122.4|8082|Philippines|Davao City|Dataconnect Network Services Inc.|
+|13|80.73.89.78|8080|Russia|Yakutsk|Sakhatelecom|
+|14|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|84.247.190.159|3128|Germany|Düsseldorf|Contabo GmbH|
+|18|190.110.34.108|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|19|117.68.38.180|27391|China|Hefei|China Telecom|
+|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
