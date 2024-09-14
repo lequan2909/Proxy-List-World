@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|3|116.104.185.85|5102|Vietnam|Hanoi|Viettel Corporation|
-|4|27.74.121.203|5102|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|6|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|9|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|182.23.127.2|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|13|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|152.26.229.47|9443|United States|Concord|MCNC|
-|17|152.26.229.83|9443|United States|Concord|MCNC|
-|18|49.48.122.122|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|19|152.26.229.86|9443|United States|Concord|MCNC|
-|20|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|27.76.204.225|5102|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|5|182.53.177.168|8080|Thailand|Sukhothai Thani|TOT Public Company Limited|
+|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|7|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|8|182.253.122.172|3127|Indonesia|Surabaya|BIZNET|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|182.23.127.2|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|11|134.236.29.147|8080|Thailand|Bang Lamung|CAT-BB|
+|12|101.109.238.107|8080|Thailand|Bangkok|TOT Public Company Limited|
+|13|36.80.25.172|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|14|116.104.185.85|5102|Vietnam|Hanoi|Viettel Corporation|
+|15|65.109.84.205|3128|Finland|Helsinki|Hetzner Online GmbH|
+|16|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|103.162.63.101|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|20|103.148.192.82|9012|Indonesia|Bandung|PT. Akashia Thuba Jaya|
 
 
 
