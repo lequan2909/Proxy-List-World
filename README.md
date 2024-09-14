@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|117.5.134.199|5000|Vietnam|Hanoi|VIETTEL|
-|5|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|146.196.99.51|8080|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|103.180.122.52|8091|Indonesia|Bekasi|PT Indo Telemedia Solusi|
-|9|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|11|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|12|38.50.165.54|999|Dominican Republic|Santiago de los Caballeros|NEXTELECOM, S.R.L.|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|177.44.182.122|3128|Brazil|Sobral|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
-|16|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|103.84.176.101|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|27.96.131.193|80|South Korea|Seongnam-si|NBP|
+|7|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|190.94.212.198|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|12|63.250.56.200|1081|Netherlands|Amsterdam|Kamatera Inc|
+|13|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|185.138.120.109|8080|Iraq|Baghdad|Horizon ISP|
+|17|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
