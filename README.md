@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|184.82.61.19|8088|Thailand|Khon Kaen|AIS-Fibre|
-|4|103.155.196.105|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|5|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|163.172.33.137|4478|France|Vitry-sur-Seine|Online S.A.S.|
-|7|113.53.60.4|8080|Thailand|Bangkok|TOT Public Company Limited|
-|8|223.206.56.66|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|9|103.143.105.138|8080|Indonesia|Malang|PT Aplikanusa Lintasarta|
-|10|167.86.99.29|3128|Germany|Nuremberg|Contabo GmbH|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|13|118.97.47.249|55443|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|14|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|16|74.103.66.15|80|United States|Sparrows Point|Verizon Business|
-|17|63.250.56.200|1081|Netherlands|Amsterdam|Kamatera Inc|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
+|3|163.172.33.137|4478|France|Vitry-sur-Seine|Online S.A.S.|
+|4|167.86.99.29|3128|Germany|Nuremberg|Contabo GmbH|
+|5|185.22.232.63|3128|Russia|Moscow|IHC|
+|6|176.124.199.31|3128|The Netherlands|Amsterdam|Aeza International LTD|
+|7|103.87.169.206|56642|India|Jaipur|Tejays Industries Pvt Ltd|
+|8|36.88.125.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|11|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|12|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|121.101.131.67|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|14|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|19|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
 |20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
