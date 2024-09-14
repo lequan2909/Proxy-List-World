@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5774** proxies at the latest update. Usable proxies are below.
+> Scraper found **5853** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|233|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|860|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|939|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|485|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3238|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|63.250.56.200|1081|Netherlands|Amsterdam|Kamatera Inc|
-|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|5|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
 |6|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|7|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|103.162.16.168|8080|Indonesia|Pati|PT Mega Data Perkasa|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|12|119.82.240.61|6060|Indonesia|Surabaya|Indonesia Network Information Center|
-|13|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|200.24.157.121|999|Ecuador|Cuenca|Ufinet Panama S.A.|
-|17|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|202.69.38.82|8080|Pakistan|Lahore|Advertiese Flag|
-|19|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|20|49.51.244.112|8888|United States|San Jose|OPHL|
+|7|103.66.196.166|8080|Indonesia|Bekasi|PT. Mora Telematika Indonesia|
+|8|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|27.74.251.99|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|11|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|103.30.29.179|5020|Bangladesh|Gazipur|Broad Band Telecom Services Ltd|
+|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|14|140.227.123.28|3128|Japan|Tokyo|InfoSphere|
+|15|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|17|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|164.70.118.21|3128|Japan|Chiyoda|InfoSphere|
+|19|188.132.221.189|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|164.70.119.11|3128|Japan|Chiyoda|InfoSphere|
 
 
 
