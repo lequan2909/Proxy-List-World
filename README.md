@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
-|3|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|103.168.149.3|8181|Indonesia|Samosir|TORSADA|
-|7|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|63.250.56.200|1081|Netherlands|Amsterdam|Kamatera Inc|
-|10|117.5.128.64|8088|Vietnam|Hanoi|VIETTEL|
-|11|188.138.125.4|8080|Germany|Frankfurt am Main|velia.net Internetdienste GmbH|
-|12|203.29.27.201|7777|Indonesia|Jember|PT Indotrans Data|
-|13|103.153.140.31|8080|India|Dindigul|Airprime Internet Services Private Limited|
-|14|43.167.243.37|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|15|36.88.125.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|16|103.87.170.55|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|17|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|119.110.69.215|57413|Indonesia|Jakarta|Maxindo|
-|19|152.26.229.47|9443|United States|Concord|MCNC|
-|20|67.43.236.21|2815|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|185.244.183.29|1080|Russia|Moscow|Cloud assets LLC|
+|7|103.87.170.55|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|8|109.236.44.178|8080|Albania|Tirana|Abissnet sh.a.|
+|9|94.231.192.227|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|117.5.128.64|8088|Vietnam|Hanoi|VIETTEL|
+|13|43.167.243.37|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|14|101.255.167.242|8080|Indonesia|Bekasi|PT Remala Abadi|
+|15|188.121.128.246|10186|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|16|38.156.74.163|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|18|46.209.16.180|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|19|208.67.28.28|58090|United States|Eagle River|SonicNet Inc.|
+|20|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
