@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|171.245.122.151|5000|Vietnam|Ha Long|Viettel Corporation|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|163.172.33.137|4648|France|Vitry-sur-Seine|Online S.A.S.|
-|5|181.78.12.43|999|Colombia|Pueblo Bello|IFX Networks Argentina S.R.L|
-|6|180.254.149.105|8080|Indonesia|Palembang|PT. TELKOM INDONESIA|
-|7|188.121.128.246|10186|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|8|103.122.65.204|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
-|9|103.87.170.55|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|10|184.82.61.19|8088|Thailand|Khon Kaen|AIS-Fibre|
-|11|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|103.186.90.41|8080|Indonesia|Jepara|PT Akses Data Internusa|
-|14|38.183.146.171|8181|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|185.243.174.40|8080|Czechia|Rychnov nad Kněžnou|Tlapnet s.r.o.|
-|17|178.205.252.86|8080|Russia|Naberezhnyye Chelny|TATTELECOM|
-|18|113.53.60.4|8080|Thailand|Bangkok|TOT Public Company Limited|
-|19|5.58.97.89|8080|Ukraine|Ternopil|Columbus|
-|20|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|181.78.12.43|999|Colombia|Pueblo Bello|IFX Networks Argentina S.R.L|
+|4|103.87.170.55|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|5|5.61.46.138|3128|Germany|Frankfurt am Main|LeaseWeb DE|
+|6|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|185.142.65.25|8080|Russia|Lytkarino|Wellcom-l ISP|
+|12|208.67.28.28|58090|United States|Eagle River|SonicNet Inc.|
+|13|152.26.229.34|9443|United States|Concord|MCNC|
+|14|152.26.231.83|9443|United States|Concord|MCNC|
+|15|152.26.229.47|9443|United States|Concord|MCNC|
+|16|103.173.76.82|8080|Indonesia|Tangerang|PT. Fiber Networks Indonesia|
+|17|103.83.0.62|8085|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|18|72.10.164.178|21235|Canada|Montreal|GloboTech Communications|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|72.10.164.178|21235|Canada|Montreal|GloboTech Communications|
 
 
 
