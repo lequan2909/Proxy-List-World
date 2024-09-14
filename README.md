@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.11.206|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |3|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|6|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|103.122.1.65|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
-|10|185.208.102.133|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|11|103.195.252.2|83|India|Ranchi|Speed Airlive Broadband Services PVT LTD|
-|12|186.0.144.141|9595|Brazil|Araçatuba|Tellius Telecomunicacoes DAS Americas Ltda|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|164.70.118.7|3128|Japan|Chiyoda|InfoSphere|
-|15|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|16|140.227.123.30|3128|Japan|Tokyo|InfoSphere|
-|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|164.70.118.69|3128|Japan|Chiyoda|InfoSphere|
-|20|164.70.117.108|3128|Japan|Chiyoda|InfoSphere|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|7|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|8|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|1.179.231.130|8080|Thailand|Ratchaburi|TOT Public Company Limited|
+|10|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|12|103.180.123.219|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|13|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|119.148.54.78|1419|Bangladesh|Dhaka|Agni Systems Limited|
+|15|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|16|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|17|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|164.70.118.7|3128|Japan|Chiyoda|InfoSphere|
+|20|103.122.0.134|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
 
 
 
