@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5390** proxies at the latest update. Usable proxies are below.
+> Scraper found **5368** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|238|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|743|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|721|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|282|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3169|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|27.76.204.225|5102|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|5|182.53.177.168|8080|Thailand|Sukhothai Thani|TOT Public Company Limited|
-|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|7|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|8|182.253.122.172|3127|Indonesia|Surabaya|BIZNET|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|182.23.127.2|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|11|134.236.29.147|8080|Thailand|Bang Lamung|CAT-BB|
-|12|101.109.238.107|8080|Thailand|Bangkok|TOT Public Company Limited|
-|13|36.80.25.172|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|14|116.104.185.85|5102|Vietnam|Hanoi|Viettel Corporation|
-|15|65.109.84.205|3128|Finland|Helsinki|Hetzner Online GmbH|
-|16|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|103.162.63.101|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|20|103.148.192.82|9012|Indonesia|Bandung|PT. Akashia Thuba Jaya|
+|2|27.71.161.72|5102|Vietnam|Duy Xuyên|Viettel Group|
+|3|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|115.74.118.98|5106|Vietnam|Ho Chi Minh City|VIETELxdsl|
+|6|171.229.231.3|5102|Vietnam|Hanoi|Viettel Corporation|
+|7|163.172.33.137|4478|France|Vitry-sur-Seine|Online S.A.S.|
+|8|182.253.216.28|1080|Indonesia|Ngawi|BIZNET|
+|9|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|14|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|203.190.44.251|8080|Indonesia|Jogonalan|PT Jaring Lintas Utara|
+|17|58.136.241.227|8080|Thailand|Bangkok|AIS-Fibre|
+|18|118.97.75.86|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|19|123.108.66.149|8080|Indonesia|Gorontalo|GOMEDS|
+|20|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
