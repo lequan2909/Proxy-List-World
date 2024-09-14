@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|103.87.170.55|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|3|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|6|185.142.65.25|8080|Russia|Lytkarino|Wellcom-l ISP|
-|7|155.232.186.92|3128|South Africa|Cape Town|TENET (The UNINET Project)|
-|8|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
-|9|72.10.160.90|2847|Canada|Montreal|GloboTech Communications|
-|10|152.26.229.42|9443|United States|Concord|MCNC|
-|11|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|13|152.26.231.42|9443|United States|Concord|MCNC|
-|14|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
-|17|163.172.33.137|4478|France|Vitry-sur-Seine|Online S.A.S.|
-|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|67.43.228.252|8245|Canada|Montreal|GloboTech Communications|
-|20|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|4|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|105.21.72.38|8080|Uganda|Kampala|SEACOM Limited Networks|
+|6|103.173.76.82|8080|Indonesia|Tangerang|PT. Fiber Networks Indonesia|
+|7|36.95.78.156|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|8|213.147.214.145|8424|Russia|Saratov|MTS PJSC|
+|9|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|165.255.244.220|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
+|14|46.252.141.11|8080|Germany|Kronberg|Vodafone|
+|15|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|17|103.88.236.113|84|India|Hyderabad|Mana Communications|
+|18|103.70.93.77|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
 
 
 
