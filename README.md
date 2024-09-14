@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -28,37 +28,37 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|235|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|698|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|233|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|707|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|341|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3237|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3230|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.174.81.10|80|India|Nandyāl|Panduranga Cable & Networks|
-|2|46.229.215.90|3128|Russia|St Petersburg|TIMEWEB|
-|3|103.125.174.23|8181|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|103.174.81.10|80|India|Nandyāl|Panduranga Cable & Networks|
+|3|46.229.215.90|3128|Russia|St Petersburg|TIMEWEB|
 |4|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|103.172.70.191|8181|Indonesia|Gemolong|AZNET|
-|6|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|124.198.6.54|12362|South Korea|Incheon|HAIonNet|
-|8|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|11|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|152.26.231.93|9443|United States|Concord|MCNC|
-|15|152.26.231.94|9443|United States|Concord|MCNC|
-|16|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|18|180.254.148.92|8080|Indonesia|Palembang|PT. TELKOM INDONESIA|
-|19|67.43.227.228|30511|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|33243|Canada|Montreal|GloboTech Communications|
+|5|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|6|103.177.255.100|8080|Indonesia|Purwodadi Grobogan|PT Hypermedia Teknologi Nusantara Centralindo|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|10|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|182.253.68.150|8080|Indonesia|Jakarta Pusat|BIZNET|
+|12|72.10.160.173|28923|Canada|Montreal|GloboTech Communications|
+|13|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|124.198.6.54|12362|South Korea|Incheon|HAIonNet|
+|15|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|103.160.182.171|8080|Indonesia|Jember|PT Internusa Duta Makmur|
+|20|120.50.18.146|58080|Bangladesh|Dhaka|TelNET Communication Ltd|
 
 
 
