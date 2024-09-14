@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|3|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|6|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|114.130.153.70|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|8|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|11|190.94.213.8|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|12|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|27.96.131.193|80|South Korea|Seongnam-si|NBP|
-|15|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|139.99.239.132|49783|Australia|Sydney|OVH SAS|
-|17|152.26.229.47|9443|United States|Concord|MCNC|
-|18|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|19|152.26.229.93|9443|United States|Concord|MCNC|
+|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|9|146.196.99.51|8080|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
+|10|185.138.120.109|8080|Iraq|Baghdad|Horizon ISP|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|13|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|188.132.222.24|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|16|124.105.24.80|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|17|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|27.96.131.193|80|South Korea|Seongnam-si|NBP|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |20|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
