@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|202.93.244.38|8080|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
-|4|74.48.45.120|80|United States|Los Angeles|Multacom Corporation|
-|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|6|74.48.45.120|80|United States|Los Angeles|Multacom Corporation|
-|7|103.174.81.10|80|India|Nandyāl|Panduranga Cable & Networks|
-|8|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|10|103.133.63.61|8080|Indonesia|Bandar Lampung|TLINK|
-|11|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
-|14|110.77.240.3|8080|Thailand|Nakhon Ratchasima|CAT Telecom Public Company Limited|
-|15|103.156.17.83|8181|Indonesia|Indramayu|RSTNET|
-|16|36.95.78.156|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|17|103.87.169.173|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|18|103.69.20.42|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|19|43.167.239.102|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|20|69.75.140.157|8080|United States|Los Angeles|Spectrum|
+|3|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
+|7|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|103.69.20.42|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|10|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|11|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|12|103.179.182.255|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|13|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|223.25.110.204|1080|Indonesia|Surabaya|SinergiNet|
+|15|152.26.229.34|9443|United States|Concord|MCNC|
+|16|36.89.235.239|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|17|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|19|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
+|20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
 
