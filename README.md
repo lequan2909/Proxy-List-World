@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|126.209.9.30|8080|Philippines|Manila|Infinivan Incorporated|
+|3|160.22.190.10|8080|Indonesia|Loakulu|PT Aldiyanur Mahakam Telemedia|
 |4|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
-|8|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|9|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|11|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
-|12|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|103.247.22.148|8080|Indonesia|Bekasi|PT wifian Solution|
-|14|103.247.23.201|8080|Indonesia|Bekasi|PT wifian Solution|
-|15|152.26.231.42|9443|United States|Concord|MCNC|
-|16|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|17|152.26.229.34|9443|United States|Concord|MCNC|
-|18|67.43.228.253|6427|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|103.174.236.96|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|7|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|177.234.245.231|999|Ecuador|Babahoyo|Ufinet Panama S.A.|
+|9|182.48.77.173|8674|Bangladesh|Dhaka|Corporate Office|
+|10|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|103.31.132.42|9812|Indonesia|Kebon Melati|PT Arthatama Adhiprima Persada|
+|12|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|13|125.18.158.218|3128|India|Gurugram|BHARTI|
+|14|185.200.38.99|1080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|188.132.150.41|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|190.61.40.186|999|Colombia|Riohacha|Ufinet Panama S.A.|
 
 
 
