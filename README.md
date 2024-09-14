@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.19.109.236|8080|Thailand|Vadhana|CAT-ISP|
-|2|193.181.35.12|8118|Sweden|Stockholm|PVDataNet AB|
-|3|46.98.240.115|50001|Ukraine|Dnipro|ISP "Fregat"|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|117.5.128.64|8088|Vietnam|Hanoi|VIETTEL|
-|7|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|45.190.78.50|999|Mexico|Tala|Meta Networks SA De CV|
-|9|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|106.227.87.11|3128|China|Taohua|China Telecom|
-|12|116.105.58.170|10001|Vietnam|Quận Bảy|Viettel Corporation|
-|13|103.155.198.50|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|14|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|103.69.20.41|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|17|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|61.19.109.236|8080|Thailand|Vadhana|CAT-ISP|
+|3|203.150.128.4|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|103.153.140.31|8080|India|Dindigul|Airprime Internet Services Private Limited|
+|5|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
+|6|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|7|157.15.118.6|8082|Indonesia|Dukuhturi|PT Airlink Media Data|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|103.122.65.204|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|10|103.26.110.110|84|India|Chennai|Niss Networks|
+|11|181.78.12.43|999|Colombia|Pueblo Bello|IFX Networks Argentina S.R.L|
+|12|103.83.0.62|8085|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|13|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
+|15|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|16|152.26.229.46|9443|United States|Concord|MCNC|
+|17|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|152.26.229.93|9443|United States|Concord|MCNC|
+|19|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|20|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
