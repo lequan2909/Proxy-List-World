@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5543** proxies at the latest update. Usable proxies are below.
+> Scraper found **5581** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|232|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|782|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|233|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|837|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|341|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|323|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3230|✅|
 
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|103.241.64.75|1081|United Kingdom|London|Kamatera Inc|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
-|6|124.198.6.54|12362|South Korea|Incheon|HAIonNet|
-|7|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|10|152.26.231.42|9443|United States|Concord|MCNC|
-|11|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
-|12|152.26.229.83|9443|United States|Concord|MCNC|
-|13|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|14|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|72.10.160.172|28371|Canada|Montreal|GloboTech Communications|
-|17|115.223.31.54|39413|China|Wenzhou|China Telecom|
-|18|58.240.211.250|7890|China|Suzhou|CNC Group Jiangsu province network|
-|19|117.68.38.134|24522|China|Hefei|China Telecom|
-|20|67.43.227.228|20091|Canada|Montreal|GloboTech Communications|
+|3|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|36.93.8.34|11000|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|7|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|9|18.167.173.19|8888|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|10|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|11|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|27.96.131.193|80|South Korea|Seongnam-si|NBP|
+|15|114.130.153.70|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|16|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|177.44.182.122|3128|Brazil|Sobral|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
+|18|146.196.99.51|8080|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
+|19|152.26.229.34|9443|United States|Concord|MCNC|
+|20|72.10.160.90|11425|Canada|Montreal|GloboTech Communications|
 
 
 
