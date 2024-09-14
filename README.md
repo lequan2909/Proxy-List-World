@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|3|203.150.113.170|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|4|36.72.245.209|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|5|27.96.131.193|80|South Korea|Seongnam-si|NBP|
-|6|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
-|8|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|9|103.241.64.75|1081|United Kingdom|London|Kamatera Inc|
-|10|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|11|200.125.170.22|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|45.225.120.36|40033|Brazil|Paripiranga|Centrosulnet Informatica Eireli|
-|14|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|203.177.133.238|8080|Philippines|Taguig|Globe Telecom|
-|16|161.34.39.54|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|202.57.25.152|8099|Indonesia|Semarang|announced of WINET|
-|18|74.208.112.135|3128|United States|Philadelphia|IONOS SE|
-|19|74.208.112.135|3128|United States|Philadelphia|IONOS SE|
-|20|72.10.164.178|5263|Canada|Montreal|GloboTech Communications|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|4|203.150.113.170|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|36.72.245.209|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|7|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|101.255.169.250|8080|Indonesia|Bekasi|PT Remala Abadi|
+|9|101.128.107.210|7777|Indonesia|Jakarta|CBN|
+|10|5.160.237.190|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|11|201.134.169.214|8205|Mexico|Mexico City|Uninet S.A. de C.V.|
+|12|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|13|202.154.18.69|8081|Indonesia|Jombang|DIGITNET|
+|14|181.78.79.63|999|Colombia|Pamplona|IFX Networks Argentina S.R.L|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|103.236.191.101|8082|Indonesia|Jakarta|PT Victory Network Indonesia|
+|17|222.127.246.81|8082|Philippines|Iloilo City|GLBB|
+|18|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|19|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
