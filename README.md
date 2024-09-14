@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|124.198.6.54|12362|South Korea|Incheon|HAIonNet|
-|4|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|103.177.255.100|8080|Indonesia|Purwodadi Grobogan|PT Hypermedia Teknologi Nusantara Centralindo|
-|6|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|103.174.81.10|80|India|Nandyāl|Panduranga Cable & Networks|
+|4|46.229.215.90|3128|Russia|St Petersburg|TIMEWEB|
+|5|61.19.109.236|8080|Thailand|Vadhana|CAT-ISP|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |7|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|8|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|152.26.231.86|9443|United States|Concord|MCNC|
-|10|152.26.229.34|9443|United States|Concord|MCNC|
-|11|152.26.231.83|9443|United States|Concord|MCNC|
-|12|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|152.26.229.47|9443|United States|Concord|MCNC|
-|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|15|72.10.160.170|12057|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|33107|Canada|Montreal|GloboTech Communications|
-|17|103.234.159.5|8080|India|Bengaluru|MWPL|
-|18|180.191.32.166|8081|Philippines|Cabanatuan City|Globe Telecom|
-|19|72.10.164.178|18805|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|18805|Canada|Montreal|GloboTech Communications|
+|8|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|115.74.20.62|5106|Vietnam|Ho Chi Minh City|VIETELxdsl|
+|10|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|106.227.87.11|3128|China|Taohua|China Telecom|
+|12|103.137.91.250|8080|Laos|Vientiane|SLT Network Co., LTD|
+|13|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|152.26.231.86|9443|United States|Concord|MCNC|
+|15|152.26.229.34|9443|United States|Concord|MCNC|
+|16|152.26.231.83|9443|United States|Concord|MCNC|
+|17|152.26.229.47|9443|United States|Concord|MCNC|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|72.10.160.170|3653|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|18365|Canada|Montreal|GloboTech Communications|
 
 
 
