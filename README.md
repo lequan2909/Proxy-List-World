@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5507** proxies at the latest update. Usable proxies are below.
+> Scraper found **5504** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|233|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|763|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|760|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|323|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3230|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|6|177.44.182.122|3128|Brazil|Sobral|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
-|7|80.73.89.78|8080|Russia|Yakutsk|Sakhatelecom|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|103.164.116.172|8080|Indonesia|Jakarta|SOLUSINET|
-|10|103.247.12.18|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|11|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|12|101.109.119.24|8080|Thailand|Sam Phran|TOT Public Company Limited|
-|13|103.69.21.192|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|14|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|146.196.99.51|8080|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
-|17|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|18|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|19|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|1|18.167.173.19|8888|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|2|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|177.115.157.76|8085|Brazil|Santo André|Vivo|
+|4|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|27.96.131.193|80|South Korea|Seongnam-si|NBP|
+|7|45.235.252.35|8080|Mexico|Othón P. Blanco|Buenas Noticias SA De CV|
+|8|177.44.182.122|3128|Brazil|Sobral|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
+|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|201.93.122.44|8080|Brazil|São Paulo|Vivo|
+|11|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|12|45.130.146.195|3128|Russia|Novosibirsk|LLC Baxet|
+|13|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|154.38.186.225|3128|United States|Orangeburg|Nubes, LLC|
+|16|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|27.74.251.99|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|18|118.99.87.36|8080|Indonesia|Lembang|BIZNET|
+|19|190.94.212.198|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|20|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
