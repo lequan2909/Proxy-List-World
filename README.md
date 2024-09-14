@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|7|103.66.196.166|8080|Indonesia|Bekasi|PT. Mora Telematika Indonesia|
-|8|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|27.74.251.99|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|11|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|103.30.29.179|5020|Bangladesh|Gazipur|Broad Band Telecom Services Ltd|
-|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|1|140.227.125.9|3128|Japan|Chiyoda|InfoSphere|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|140.227.118.198|3128|Japan|Chiyoda|InfoSphere|
+|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|6|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|7|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|103.65.238.51|8080|Indonesia|Medan|PT Media Alvina Sejati|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|212.174.79.169|8080|Türkiye|Sanliurfa|Turk Telekomunikasyon Anonim Sirketi|
+|12|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 |14|140.227.123.28|3128|Japan|Tokyo|InfoSphere|
-|15|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|17|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|164.70.118.21|3128|Japan|Chiyoda|InfoSphere|
-|19|188.132.221.189|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|164.70.119.11|3128|Japan|Chiyoda|InfoSphere|
+|15|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|16|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|164.70.118.21|3128|Japan|Chiyoda|InfoSphere|
+|18|101.255.149.202|8080|Indonesia|Bekasi|PT Remala Abadi|
+|19|164.70.116.100|3128|Japan|Chiyoda|InfoSphere|
+|20|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 
 
 
