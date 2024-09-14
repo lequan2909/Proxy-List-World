@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|103.166.227.82|8085|Indonesia|Majalengka|PT Arta Flash Sintesa Nusantara|
-|5|103.163.227.178|8080|Indonesia|Mojokerto|PT.Delta Surya Solusitama|
-|6|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|222.127.220.160|8082|Philippines|Quezon City|GLBB|
-|8|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
-|9|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
-|10|103.55.30.22|1111|Indonesia|Kupang|PT Jaringan Optic Nusantara|
-|11|179.255.219.182|8080|Brazil|São Paulo|V tal|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|16|191.102.248.6|8085|Argentina|Rosario|IP·RED|
-|17|103.147.118.240|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
-|18|114.9.52.98|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|19|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|84.204.135.252|8080|Russia|St Petersburg|PJSC MegaFon|
+|1|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|3|103.164.214.122|8080|Indonesia|Cilangkap|PT iForte Global Internet|
+|4|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
+|5|103.18.47.139|80|Indonesia|Tangerang|PT. Fiber Networks Indonesia|
+|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|7|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|8|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
+|9|95.0.90.242|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|10|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
+|11|69.160.223.241|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
+|12|80.73.89.78|8080|Russia|Yakutsk|Sakhatelecom|
+|13|184.82.130.44|8080|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
+|14|190.110.34.108|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|15|191.209.93.120|8080|Brazil|São Paulo|Vivo|
+|16|103.26.108.254|84|India|Thoothukudi|Niss Networks|
+|17|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|18|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|164.70.117.108|3128|Japan|Chiyoda|InfoSphere|
 
 
 
