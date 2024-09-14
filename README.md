@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|418|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|418|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|418|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|7|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|8|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
-|14|186.97.192.60|999|Colombia|Medellín|Colombia Móvil|
-|15|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|103.231.177.120|5020|Bangladesh|Gazipur|Sayed Farhad Ahmed|
-|17|157.15.63.230|8090|Indonesia|Malang|PT Anugerah Media Data Nusantara|
-|18|46.161.194.65|1976|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|19|203.150.113.16|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|20|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|5|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|103.31.235.102|8080|Indonesia|Ciampea|PT Usaha Adi Sanggoro|
+|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|10|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|13|203.150.113.16|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|15|157.15.63.230|8090|Indonesia|Malang|PT Anugerah Media Data Nusantara|
+|16|181.78.82.211|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|17|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|202.8.74.10|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|20|52.13.143.246|80|United States|Portland|Amazon.com, Inc.|
 
 
 
