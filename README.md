@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|103.175.202.33|8090|Indonesia|Kabupaten Tanah Bumbu|PT Ameera Mega Buana|
-|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|6|103.183.56.3|8080|Indonesia|Sukasari|PT Multi Karya Athira|
-|7|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
-|8|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|124.105.24.80|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|10|119.148.54.78|1419|Bangladesh|Dhaka|Agni Systems Limited|
-|11|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|12|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|45.235.252.35|8080|Mexico|Othón P. Blanco|Buenas Noticias SA De CV|
-|16|67.43.227.226|31047|Canada|Montreal|GloboTech Communications|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|72.10.164.178|12123|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|27.72.239.0|5101|Vietnam|Hanoi|Newass2011xDSLHN|
+|7|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|103.187.114.100|8082|Indonesia|Teluknaga|PT Victory Network Indonesia|
+|9|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|10|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|43.167.241.169|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|13|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|15|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
+|16|118.99.87.36|8080|Indonesia|Lembang|BIZNET|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|180.178.34.155|3129|Hong Kong|Cheung Sha Wan|SIMCENTRIC|
+|19|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|182.253.66.122|8080|Indonesia|Jakarta|BIZNET|
 
 
 
