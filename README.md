@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|157.66.37.12|8080|Indonesia|Sidorejo|PT Speed Network Indonesia|
-|3|49.48.51.38|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|8|117.3.196.203|5101|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|9|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|12|103.160.182.171|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|13|103.101.230.236|8080|Indonesia|Jakarta|Biznet Networks|
-|14|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|17|49.49.185.216|8080|Thailand|Wang Noi|Triple T Broadband Public Company Limited|
-|18|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
-|19|171.232.44.144|5102|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|3.0.249.239|8088|Singapore|Singapore|Amazon Technologies Inc.|
+|3|171.238.111.99|5102|Vietnam|Hanoi|Viettel Corporation|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|5|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|157.66.37.12|8080|Indonesia|Sidorejo|PT Speed Network Indonesia|
+|10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|11|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|13|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|116.104.185.85|5102|Vietnam|Hanoi|Viettel Corporation|
+|16|223.206.127.198|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|17|186.115.202.103|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
+|18|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|19|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|49.48.51.38|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
 
 
 
