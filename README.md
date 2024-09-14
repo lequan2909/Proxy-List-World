@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
-|2|27.74.121.203|5102|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|3|117.3.196.203|5101|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|5|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|8|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|212.174.15.164|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|103.162.63.101|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|12|45.182.23.38|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|13|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|112.198.179.57|8082|Philippines|Carmona|Globe Telecom|
-|15|147.45.74.178|3128|Sweden|Stockholm|Aeza International LTD|
-|16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|20|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
+|4|171.238.111.99|5102|Vietnam|Hanoi|Viettel Corporation|
+|5|103.162.55.42|8080|Indonesia|Pamekasan|Institut Agama Islam Negeri Madura|
+|6|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|8|182.23.127.2|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|9|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|187.216.229.150|8080|Mexico|Coronango|Uninet S.A. de C.V.|
+|13|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|14|147.45.74.178|3128|Sweden|Stockholm|Aeza International LTD|
+|15|103.191.218.87|8080|Indonesia|Kuningan Barat|PT Replay Inti Media|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|203.177.133.238|8080|Philippines|Taguig|Globe Telecom|
 
 
 
