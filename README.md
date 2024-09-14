@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.174.81.10|80|India|Nandyāl|Panduranga Cable & Networks|
-|3|46.229.215.90|3128|Russia|St Petersburg|TIMEWEB|
-|4|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|6|103.177.255.100|8080|Indonesia|Purwodadi Grobogan|PT Hypermedia Teknologi Nusantara Centralindo|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|10|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|182.253.68.150|8080|Indonesia|Jakarta Pusat|BIZNET|
-|12|72.10.160.173|28923|Canada|Montreal|GloboTech Communications|
-|13|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|124.198.6.54|12362|South Korea|Incheon|HAIonNet|
-|15|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
+|1|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|38.50.165.54|999|Dominican Republic|Santiago de los Caballeros|NEXTELECOM, S.R.L.|
+|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|103.69.20.41|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|6|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|8|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|9|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|27.147.159.221|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|14|191.97.96.86|8080|Argentina|General Roca|Vision NET|
+|15|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|103.160.182.171|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|20|120.50.18.146|58080|Bangladesh|Dhaka|TelNET Communication Ltd|
+|19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
