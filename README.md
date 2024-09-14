@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|163.172.33.137|4478|France|Vitry-sur-Seine|Online S.A.S.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
 |4|167.86.99.29|3128|Germany|Nuremberg|Contabo GmbH|
-|5|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|201.71.2.127|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|9|103.247.23.201|8080|Indonesia|Bekasi|PT wifian Solution|
-|10|103.122.142.174|8080|Bangladesh|Dhaka|Carnival Internet|
-|11|72.10.164.178|27215|Canada|Montreal|GloboTech Communications|
-|12|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|5|188.121.128.246|10186|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|6|200.94.102.11|3128|Mexico|Macuspana|Alestra, S. de R.L. de C.V.|
+|7|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|193.105.123.196|8123|Azerbaijan|Baku|Bulud Telecom LLC|
+|10|69.75.140.157|8080|United States|Los Angeles|Spectrum|
+|11|149.86.140.34|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|12|103.48.68.30|83|India|Hyderabad|Country Online Services PVT LTD|
 |13|152.26.229.42|9443|United States|Concord|MCNC|
-|14|14.139.57.195|23500|India|Lucknow|National Knowledge Network|
-|15|103.88.113.202|8080|Vietnam|Hanoi|HTCITC|
-|16|152.26.229.83|9443|United States|Concord|MCNC|
-|17|67.43.228.250|25201|Canada|Montreal|GloboTech Communications|
-|18|176.36.235.47|8087|Ukraine|Kyiv|Lanet Network|
-|19|67.43.236.20|3757|Canada|Montreal|GloboTech Communications|
-|20|77.238.242.118|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|15|152.26.229.83|9443|United States|Concord|MCNC|
+|16|119.47.90.228|3127|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|17|103.88.236.113|84|India|Hyderabad|Mana Communications|
+|18|114.130.183.66|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|19|163.172.33.137|4478|France|Vitry-sur-Seine|Online S.A.S.|
+|20|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
