@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|167.86.99.29|3128|Germany|Nuremberg|Contabo GmbH|
-|4|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|5|171.248.45.150|5102|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|6|188.121.128.246|10186|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|7|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|103.84.176.101|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|12|72.10.160.173|19597|Canada|Montreal|GloboTech Communications|
-|13|160.248.187.82|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|152.26.229.83|9443|United States|Concord|MCNC|
+|3|103.155.196.105|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|4|103.75.53.235|7788|Indonesia|Jakarta|PT Quantum Tera Network|
+|5|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|6|116.101.29.135|5000|Vietnam|Haiphong|Viettel Corporation|
+|7|103.131.18.58|8080|Indonesia|Kudus|PT Global Media Data Prima|
+|8|103.25.81.117|8080|Bangladesh|Chittagong|Chittagong Telecom Services Limited|
+|9|182.253.216.28|1080|Indonesia|Ngawi|BIZNET|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|13|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|202.154.13.3|8080|Indonesia|Parenggan|PT Akses Data Internusa|
 |15|152.26.229.47|9443|United States|Concord|MCNC|
-|16|67.43.236.20|26999|Canada|Montreal|GloboTech Communications|
-|17|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|103.248.9.206|3127|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
-|19|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|20|152.26.231.83|9443|United States|Concord|MCNC|
+|16|67.43.236.20|5887|Canada|Montreal|GloboTech Communications|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
+|18|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|160.248.187.82|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
 
 
 
