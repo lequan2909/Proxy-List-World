@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
-|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|7|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
-|8|27.96.131.193|80|South Korea|Seongnam-si|NBP|
-|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|10|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|12|103.83.0.62|8085|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|171.228.190.144|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
+|6|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
+|7|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|10|140.227.125.12|3128|Japan|Chiyoda|InfoSphere|
+|11|103.133.222.64|8090|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|12|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
 |13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|140.227.125.9|3128|Japan|Chiyoda|InfoSphere|
-|18|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|140.227.125.17|3128|Japan|Chiyoda|InfoSphere|
-|20|152.26.229.83|9443|United States|Concord|MCNC|
+|14|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|17|103.83.0.62|8085|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|18|106.227.87.11|3128|China|Taohua|China Telecom|
+|19|27.96.131.193|80|South Korea|Seongnam-si|NBP|
+|20|140.227.125.9|3128|Japan|Chiyoda|InfoSphere|
 
 
 
