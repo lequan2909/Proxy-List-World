@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|1|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|41.111.188.39|80|Algeria|Cheraga|Algerie Telecom|
-|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|8|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|113.192.30.159|1111|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|11|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|3|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
+|7|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|10|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|11|103.155.196.40|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|12|103.191.254.2|8085|Indonesia|Jadi|PT Ayodya Data Internusa|
 |13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|203.142.74.115|8080|Indonesia|Semarang|BIZNET|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|119.92.75.48|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|18|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|72.10.164.178|10993|Canada|Montreal|GloboTech Communications|
-|20|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
+|14|103.36.8.55|8181|Indonesia|Pandeglang|PT Awinet Global Mandiri|
+|15|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|103.241.64.75|1081|United Kingdom|London|Kamatera Inc|
+|18|171.4.71.166|8686|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|19|190.61.101.73|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
+|20|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
 
 
 
