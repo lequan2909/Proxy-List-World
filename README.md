@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.150.113.153|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|3|3.95.170.1|3128|United States|Ashburn|Amazon Technologies Inc.|
-|4|116.111.113.244|10001|Vietnam|Hanoi|Viettel Corporation|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|203.150.113.153|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
 |5|3.95.170.1|3128|United States|Ashburn|Amazon Technologies Inc.|
-|6|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|8|45.126.41.7|8080|Indonesia|Jumpangdua|NIRWANA|
+|6|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|3.95.170.1|3128|United States|Ashburn|Amazon Technologies Inc.|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 |9|152.26.229.46|9443|United States|Concord|MCNC|
 |10|152.26.229.34|9443|United States|Concord|MCNC|
-|11|72.10.160.170|16895|Canada|Montreal|GloboTech Communications|
-|12|152.26.231.42|9443|United States|Concord|MCNC|
-|13|52.13.143.246|80|United States|Portland|Amazon.com, Inc.|
-|14|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
-|15|67.43.228.254|25171|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|18363|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|30473|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|72.10.160.170|16895|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|25691|Canada|Montreal|GloboTech Communications|
+|11|152.26.231.42|9443|United States|Concord|MCNC|
+|12|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
+|13|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|160.248.187.82|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|72.10.164.178|1707|Canada|Montreal|GloboTech Communications|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|18|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|72.10.160.90|24215|Canada|Montreal|GloboTech Communications|
 
 
 
