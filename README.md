@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5694** proxies at the latest update. Usable proxies are below.
+> Scraper found **5561** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|259|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|958|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|258|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|826|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|370|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3149|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|36.88.148.140|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|5|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|6|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|31.29.207.228|8424|Russia|Balakovo|COMSTAR-SRTV|
-|8|171.245.124.68|5000|Vietnam|Ha Long|Viettel Corporation|
-|9|37.60.255.91|3128|Germany|Düsseldorf|SiteGround|
-|10|202.40.177.46|8080|Bangladesh|Dhaka|Ranks ITT|
-|11|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|36.94.47.59|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|14|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|103.69.20.89|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|17|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
-|20|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|103.166.158.53|3127|Indonesia|Bekasi|PT Timor Lintas Nusantara|
+|4|83.166.240.217|3128|Russia|Moscow|LLC Management Company "Svyaz"|
+|5|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|103.166.158.213|8080|Indonesia|Bekasi|PT Timor Lintas Nusantara|
+|9|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|10|183.80.111.55|8080|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|11|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|12|103.133.63.134|8181|Indonesia|Bandar Lampung|TLINK|
+|13|31.29.207.228|8424|Russia|Balakovo|COMSTAR-SRTV|
+|14|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|15|27.74.251.99|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|16|67.43.236.20|9535|Canada|Montreal|GloboTech Communications|
+|17|117.68.38.152|20840|China|Hefei|China Telecom|
+|18|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
+|19|152.26.229.34|9443|United States|Concord|MCNC|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
