@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|424|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|424|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|424|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|5|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|8|101.109.176.247|8080|Thailand|Bangkok|TOT Public Company Limited|
-|9|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|10|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|11|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|12|103.155.198.111|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|13|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|14|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|16|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
-|17|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
-|18|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|19|38.156.72.40|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|2|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|4|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
+|6|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|7|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|8|50.205.202.249|3128|United States|Kemah|Comcast Cable Communications, LLC|
+|9|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
+|10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|12|103.31.241.210|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|182.16.171.65|43188|Indonesia|Depok|PT iForte Global Internet|
+|15|103.105.55.51|9090|Indonesia|Klaten|PT. Mega Artha Lintas Data|
+|16|109.195.113.65|8080|Russia|Yaroslavl|CJSC "ER-Telecom Holding" Yaroslavl' branch|
+|17|203.111.253.38|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
+|18|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
