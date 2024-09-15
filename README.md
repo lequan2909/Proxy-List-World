@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
 |3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|171.245.124.68|5000|Vietnam|Ha Long|Viettel Corporation|
-|7|103.133.63.135|8181|Indonesia|Bandar Lampung|TLINK|
-|8|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|206.237.98.215|805|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|10|67.43.228.251|15527|Canada|Montreal|GloboTech Communications|
-|11|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|12|72.10.164.178|29323|Canada|Montreal|GloboTech Communications|
-|13|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|67.43.227.228|32637|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.34|9443|United States|Concord|MCNC|
-|16|67.43.227.227|32947|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.19|12859|Canada|Montreal|GloboTech Communications|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|72.10.160.92|29137|Canada|Montreal|GloboTech Communications|
+|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|5|186.96.97.206|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|6|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|7|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|8|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|9|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|152.26.229.34|9443|United States|Concord|MCNC|
+|11|67.43.227.228|32637|Canada|Montreal|GloboTech Communications|
+|12|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|152.26.231.94|9443|United States|Concord|MCNC|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
+|15|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|152.26.231.42|9443|United States|Concord|MCNC|
+|17|152.26.229.47|9443|United States|Concord|MCNC|
+|18|45.174.95.242|8080|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
