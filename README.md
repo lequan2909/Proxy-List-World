@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|103.122.1.130|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
-|4|36.82.199.244|3128|Indonesia|Balikpapan|PT. TELKOM INDONESIA|
-|5|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|6|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|7|211.34.78.179|8080|South Korea|Seongnam-si|Korea Telecom|
-|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|9|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|152.26.229.47|9443|United States|Concord|MCNC|
-|13|67.43.227.227|10429|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|72.10.164.178|26957|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|10429|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|7311|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|10429|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.174|8197|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|22571|Canada|Montreal|GloboTech Communications|
+|1|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|6|103.156.140.203|8080|Indonesia|Jember|PT Tekling Media Telematika|
+|7|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|13|193.192.124.74|8080|Türkiye|Istanbul|TurkNet Iletisim Hizmetleri A.S.|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|180.178.34.157|3129|Hong Kong|Cheung Sha Wan|SIMCENTRIC|
+|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|152.26.229.47|9443|United States|Concord|MCNC|
+|19|72.10.164.178|11201|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
