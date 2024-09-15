@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|152.26.229.34|9443|United States|Concord|MCNC|
-|5|212.110.188.213|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|6|67.43.227.226|6835|Canada|Montreal|GloboTech Communications|
-|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|8|67.43.227.230|10143|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.90|10447|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|22359|Canada|Montreal|GloboTech Communications|
-|11|38.183.144.117|1111|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|12|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|103.26.108.254|84|India|Thoothukudi|Niss Networks|
-|14|72.10.164.178|22359|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.251|12537|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|22359|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|15879|Canada|Montreal|GloboTech Communications|
-|18|8.216.90.236|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|19|72.10.164.178|22359|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|20289|Canada|Montreal|GloboTech Communications|
+|3|96.18.6.140|8080|United States|Parsons|CABLE ONE, INC.|
+|4|50.116.25.182|8080|United States|Richardson|Akamai Technologies, Inc.|
+|5|110.78.172.200|8080|Thailand|Bangkok|CAT-BB|
+|6|50.116.25.182|8080|United States|Richardson|Akamai Technologies, Inc.|
+|7|165.22.59.100|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|9|36.66.111.81|8080|Indonesia|Pondok Labu|PT. Telekomunikasi Indonesia|
+|10|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|11|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|152.26.229.34|9443|United States|Concord|MCNC|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|152.26.231.42|9443|United States|Concord|MCNC|
+|15|37.230.113.18|3128|Russia|Skolkovo|JSC IOT|
+|16|72.10.164.178|25167|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|25167|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|4969|Canada|Montreal|GloboTech Communications|
+|19|222.108.89.44|3128|South Korea|Guro-gu|Korea Telecom|
+|20|72.10.164.178|25167|Canada|Montreal|GloboTech Communications|
 
 
 
