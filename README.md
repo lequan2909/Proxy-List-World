@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|52.221.205.90|3128|Singapore|Singapore|Amazon.com, Inc.|
-|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|202.47.188.94|5566|Indonesia|Magetan|PT.CITRA BERDIKARI NUSANTARA|
-|5|37.238.168.122|1111|Iraq|Karbala|EarthLinkTelecommunications|
-|6|175.100.92.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|177.136.84.232|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
-|10|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
-|11|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|12|52.221.205.90|3128|Singapore|Singapore|Amazon.com, Inc.|
-|13|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|14|67.43.236.20|25455|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|152.26.229.47|9443|United States|Concord|MCNC|
-|17|72.10.160.90|21993|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|67.43.227.226|20299|Canada|Montreal|GloboTech Communications|
-|20|159.223.55.150|8888|Singapore|Singapore|DigitalOcean, LLC|
+|1|52.221.205.90|3128|Singapore|Singapore|Amazon.com, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|36.88.170.170|8080|Indonesia|Jatipulo|PT. Telekomunikasi Indonesia|
+|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|190.121.239.195|999|Venezuela|Caracas|Corporacion Digitel C.A|
+|7|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
+|8|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|9|52.221.205.90|3128|Singapore|Singapore|Amazon.com, Inc.|
+|10|67.43.236.20|30511|Canada|Montreal|GloboTech Communications|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|152.26.229.86|9443|United States|Concord|MCNC|
+|13|152.26.229.47|9443|United States|Concord|MCNC|
+|14|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|15|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|17|152.26.231.94|9443|United States|Concord|MCNC|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|94.23.204.27|3128|France|Roubaix|OVH SAS|
+|20|72.10.164.178|31693|Canada|Montreal|GloboTech Communications|
 
 
 
