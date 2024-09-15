@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|4|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|221.146.37.137|3128|South Korea|Wŏnju|Korea Telecom|
-|6|71.14.23.121|8080|United States|Hoover|Spectrum|
-|7|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|8|152.26.229.46|9443|United States|Concord|MCNC|
-|9|103.165.157.37|3125|Indonesia|Taman|MEGADATA-ISP|
-|10|152.26.229.42|9443|United States|Concord|MCNC|
-|11|103.167.5.13|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|12|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|152.26.231.42|9443|United States|Concord|MCNC|
-|15|152.26.231.93|9443|United States|Concord|MCNC|
-|16|67.43.236.18|26309|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|32225|Canada|Montreal|GloboTech Communications|
-|18|103.20.90.118|8581|Indonesia|Surabaya|Wowrack Indonesia|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|1|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|2|91.109.157.246|8080|Russia|Kaliningrad|TIS Dialog LLC|
+|3|115.78.10.226|4444|Vietnam|Ho Chi Minh City|VIETELftth|
+|4|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|5|152.26.229.46|9443|United States|Concord|MCNC|
+|6|152.26.229.42|9443|United States|Concord|MCNC|
+|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|152.26.231.93|9443|United States|Concord|MCNC|
+|9|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|152.26.231.42|9443|United States|Concord|MCNC|
+|11|152.26.229.86|9443|United States|Concord|MCNC|
+|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|13|72.10.160.170|3427|Canada|Montreal|GloboTech Communications|
+|14|152.26.229.93|9443|United States|Concord|MCNC|
+|15|103.172.43.170|8080|Indonesia|Jakarta|PT Berkat Internet Perkasa|
+|16|67.43.228.252|17755|Canada|Montreal|GloboTech Communications|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
+|18|67.43.228.253|8743|Canada|Montreal|GloboTech Communications|
+|19|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|212.112.125.44|45555|Kyrgyzstan|Bishkek|AKNET Ltd.|
 
 
 
