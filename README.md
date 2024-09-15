@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|115.72.46.96|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|5|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|2|52.221.205.90|3128|Singapore|Singapore|Amazon.com, Inc.|
+|3|101.255.166.114|7777|Indonesia|Bekasi|PT Remala Abadi|
+|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|5|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
 |6|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |8|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|124.6.168.26|80|Philippines|Lahug|INNOVE|
-|11|49.48.89.204|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|12|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|181.114.61.17|8085|Argentina|Ramallo|INTERAIR|
-|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|15|152.166.69.34|8080|Dominican Republic|La Romana|Altice Dominicana S.A.|
-|16|181.115.66.232|999|Honduras|San Pedro Sula|TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|157.20.146.76|3127|Pakistan|Lahore|Z COM NETWORKS|
+|13|36.73.66.244|8080|Indonesia|Yogyakarta|PT. TELKOM INDONESIA|
+|14|103.66.196.166|8080|Indonesia|Bekasi|PT. Mora Telematika Indonesia|
+|15|188.132.222.55|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|49.48.89.204|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|17|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|103.89.233.226|83|India|Mangalore|Deenet Services Pvt. Ltd|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |20|152.26.231.93|9443|United States|Concord|MCNC|
 
 
