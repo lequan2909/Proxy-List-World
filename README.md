@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.146.251.117|3128|South Korea|Jinju|Korea Telecom|
-|2|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|152.26.229.42|9443|United States|Concord|MCNC|
-|12|36.82.199.244|3128|Indonesia|Balikpapan|PT. TELKOM INDONESIA|
-|13|152.26.231.86|9443|United States|Concord|MCNC|
-|14|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|72.10.164.178|11201|Canada|Montreal|GloboTech Communications|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|211.34.78.179|8080|South Korea|Seongnam-si|Korea Telecom|
-|19|67.43.236.20|19209|Canada|Montreal|GloboTech Communications|
-|20|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|1|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|124.6.168.26|80|Philippines|Lahug|INNOVE|
+|4|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|10|112.78.131.6|8080|Indonesia|Jakarta|Biznet Networks|
+|11|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|12|115.72.46.96|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|13|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|67.43.227.227|29825|Canada|Montreal|GloboTech Communications|
+|17|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|18|152.26.229.86|9443|United States|Concord|MCNC|
+|19|36.73.66.244|8080|Indonesia|Yogyakarta|PT. TELKOM INDONESIA|
+|20|67.43.236.20|19209|Canada|Montreal|GloboTech Communications|
 
 
 
