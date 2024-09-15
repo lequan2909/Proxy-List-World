@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|413|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|413|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|413|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|6|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|9|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
-|10|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|117.6.55.135|10001|Vietnam|Hanoi|Viettel Corporation|
-|13|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|14|103.70.93.77|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
-|15|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
-|18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|176.99.2.43|1081|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|20|67.43.236.20|33067|Canada|Montreal|GloboTech Communications|
+|2|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|117.6.55.135|10001|Vietnam|Hanoi|Viettel Corporation|
+|8|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|10|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|12|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|38.252.216.21|999|Peru|Lima|Telcom Mikrotik Peru S.A.C.|
+|15|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|16|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|19|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|103.171.244.47|8088|Indonesia|Madiun|PT Data Arta Sedaya|
 
 
 
