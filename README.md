@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|36.88.125.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|7|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|8|152.26.231.83|9443|United States|Concord|MCNC|
-|9|152.26.231.86|9443|United States|Concord|MCNC|
+|1|8.216.90.236|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|6|152.26.231.83|9443|United States|Concord|MCNC|
+|7|152.26.231.86|9443|United States|Concord|MCNC|
+|8|152.26.229.47|9443|United States|Concord|MCNC|
+|9|152.26.229.46|9443|United States|Concord|MCNC|
 |10|152.26.231.42|9443|United States|Concord|MCNC|
-|11|152.26.229.47|9443|United States|Concord|MCNC|
-|12|72.10.160.93|17357|Canada|Montreal|GloboTech Communications|
-|13|152.26.229.46|9443|United States|Concord|MCNC|
-|14|1.180.6.100|80|China|Haoxinying|Chinanet|
-|15|152.26.229.93|9443|United States|Concord|MCNC|
-|16|67.43.227.228|29777|Canada|Montreal|GloboTech Communications|
-|17|38.183.144.117|1111|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|18|14.103.168.150|8088|China|Beijing|BITNET|
-|19|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|20|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|152.26.229.93|9443|United States|Concord|MCNC|
+|12|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|13|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|14|14.103.168.150|8088|China|Beijing|BITNET|
+|15|67.43.227.228|29777|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.92|2227|Canada|Montreal|GloboTech Communications|
+|17|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|72.10.160.93|27801|Canada|Montreal|GloboTech Communications|
+|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.164.178|17839|Canada|Montreal|GloboTech Communications|
 
 
 
