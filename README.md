@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|182.252.72.164|8082|Bangladesh|Dhaka|Agni Systems Limited|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|38.183.144.82|8181|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|6|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|8|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|10|67.43.227.227|9925|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|1519|Canada|Montreal|GloboTech Communications|
-|12|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|13|152.26.229.86|9443|United States|Concord|MCNC|
-|14|103.179.218.7|8080|Indonesia|Pandeglang|PT Wistel Teknologi Solusi|
-|15|152.26.229.42|9443|United States|Concord|MCNC|
-|16|72.10.164.178|1519|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|1519|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.92|3669|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|9925|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.174|28377|Canada|Montreal|GloboTech Communications|
+|1|52.221.205.90|3128|Singapore|Singapore|Amazon.com, Inc.|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|103.154.90.190|8080|Indonesia|Jakarta|MORATELINDONAP|
+|6|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|7|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|72.10.164.178|1519|Canada|Montreal|GloboTech Communications|
+|10|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|11|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|72.10.164.178|1519|Canada|Montreal|GloboTech Communications|
+|13|212.174.79.177|8080|Türkiye|Sanliurfa|Turk Telekomunikasyon Anonim Sirketi|
+|14|152.26.229.86|9443|United States|Concord|MCNC|
+|15|67.43.227.227|6811|Canada|Montreal|GloboTech Communications|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|182.252.72.164|8082|Bangladesh|Dhaka|Agni Systems Limited|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|194.164.206.37|3128|United Kingdom|Farnham|NETKONECT|
+|20|168.228.51.84|999|Costa Rica|Quesada|Cooperativa de Electrificación Rural de San Carlos R.L. (Coopelesca R.L.)|
 
 
 
