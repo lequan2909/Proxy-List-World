@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|71.14.23.121|8080|United States|Hoover|Spectrum|
-|3|45.233.169.73|999|Colombia|Popayán|Simect Group Redes E Internet S.A.S|
-|4|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|103.148.131.108|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|7|152.26.229.47|9443|United States|Concord|MCNC|
-|8|171.5.9.25|8080|Thailand|Phuket|Triple T Broadband Public Company Limited|
-|9|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|10|160.248.11.206|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|152.26.229.83|9443|United States|Concord|MCNC|
-|12|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|152.26.229.93|9443|United States|Concord|MCNC|
-|14|67.43.236.20|10383|Canada|Montreal|GloboTech Communications|
-|15|152.26.231.83|9443|United States|Concord|MCNC|
-|16|72.10.164.178|30005|Canada|Montreal|GloboTech Communications|
-|17|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|18|152.26.229.34|9443|United States|Concord|MCNC|
-|19|72.10.164.178|30005|Canada|Montreal|GloboTech Communications|
-|20|202.61.120.182|8080|India|Chennai|Arjun Telecom Pvt. Ltd.|
+|1|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|2|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|152.26.229.47|9443|United States|Concord|MCNC|
+|5|152.26.229.83|9443|United States|Concord|MCNC|
+|6|152.26.229.93|9443|United States|Concord|MCNC|
+|7|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|8|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
+|9|103.162.16.168|8080|Indonesia|Pati|PT Mega Data Perkasa|
+|10|72.10.164.178|24029|Canada|Montreal|GloboTech Communications|
+|11|160.248.11.206|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|152.26.229.34|9443|United States|Concord|MCNC|
+|13|72.10.164.178|24029|Canada|Montreal|GloboTech Communications|
+|14|152.26.231.83|9443|United States|Concord|MCNC|
+|15|72.10.164.178|24029|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|24029|Canada|Montreal|GloboTech Communications|
+|17|45.233.169.73|999|Colombia|Popayán|Simect Group Redes E Internet S.A.S|
+|18|45.71.184.197|999|Ecuador|Naranjito|Ufinet Panama S.A.|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|67.43.236.21|4225|Canada|Montreal|GloboTech Communications|
 
 
 
