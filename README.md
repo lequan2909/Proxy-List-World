@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.11.209|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|104.236.78.102|3128|United States|Clifton|DigitalOcean, LLC|
-|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|6|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|104.236.78.102|3128|United States|Clifton|DigitalOcean, LLC|
-|8|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|50.204.36.138|60808|United States|Sacramento|Comcast Cable Communications, LLC|
-|10|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|13|103.173.230.147|9191|Indonesia|Serang|PT Jaringan Internet Banten|
-|14|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|16|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
-|17|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|67.43.236.20|8629|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|28881|Canada|Montreal|GloboTech Communications|
-|20|48.216.234.146|3128|United States|Boydton|Microsoft Corporation|
+|2|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|160.248.11.209|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|5|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|8|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|103.89.15.158|1085|United States|Dallas|Kamatera|
+|11|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|12|209.14.118.161|999|Colombia|Neiva|AGIS|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|203.79.29.150|8080|Indonesia|Surabaya|PT Surya Global Teknologi|
+|16|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|19|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|20|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
 
 
 
