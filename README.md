@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|3|103.168.44.105|3127|Indonesia|Jakarta|PT CYB Media Group|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|6|1.20.169.172|8180|Thailand|Pattaya|TOT Public Company Limited|
-|7|14.139.57.195|23500|India|Lucknow|National Knowledge Network|
-|8|190.94.212.149|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|9|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
-|10|38.156.235.113|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
-|11|67.43.227.227|2387|Canada|Montreal|GloboTech Communications|
-|12|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|13|67.43.228.253|13039|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.173|12201|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|29007|Canada|Montreal|GloboTech Communications|
-|16|152.26.231.86|9443|United States|Concord|MCNC|
-|17|67.43.236.20|9333|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|17885|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|29007|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|32379|Canada|Montreal|GloboTech Communications|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|210.87.202.21|3128|South Korea|Seoul|DOTNAME|
+|5|113.161.187.190|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|6|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
+|7|171.242.41.114|5101|Vietnam|Hanoi|Viettel Corporation|
+|8|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|177.37.114.5|3128|Brazil|Cataguases|Brasilnet Telecomunicações Ltda ME|
+|11|115.78.10.226|4444|Vietnam|Ho Chi Minh City|VIETELftth|
+|12|103.171.244.42|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|13|36.88.125.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|14|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|16|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
+|17|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|18|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|19|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|20|27.72.238.197|5101|Vietnam|Hanoi|Newass2011xDSLHN|
 
 
 
