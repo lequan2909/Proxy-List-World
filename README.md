@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|160.248.11.209|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|173.249.60.246|14344|Germany|Nuremberg|Contabo GmbH|
-|6|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
-|7|1.20.200.154|8081|Thailand|Bangkok|TOT Public Company Limited|
-|8|49.51.244.112|8888|United States|San Jose|OPHL|
-|9|103.148.29.229|80|Indonesia|Sigi|DEWATA|
-|10|38.156.74.48|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|12|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|89.116.32.140|3128|India|Mumbai|Hostinger International Limited|
-|15|181.176.69.189|999|Peru|Lima|VIETTEL PERÚ S.A.C.|
-|16|138.2.64.185|8118|Singapore|Singapore|Oracle Corporation|
-|17|181.114.62.1|8085|Argentina|Ramallo|INTERAIR|
-|18|103.234.159.5|8080|India|Bengaluru|MWPL|
-|19|163.53.208.69|6666|India|Modāsa|GTPL Shiv Network Pvt Ltd|
-|20|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|160.248.11.209|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|103.159.194.97|8080|Indonesia|Temanjang|PT Giga Digital Nusantara|
+|5|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|6|103.78.215.253|8080|Indonesia|Jakarta|MORATELINDO|
+|7|79.106.170.34|8989|Albania|Tirana|ONE ALBANIA SH.A.|
+|8|180.148.4.74|8080|Vietnam|Uyen Hung|VNTT|
+|9|181.114.62.1|8085|Argentina|Ramallo|INTERAIR|
+|10|189.39.207.47|9090|Brazil|Governador Valadares|Konnet Telecomunicacoes Ltda - EPP|
+|11|36.93.32.137|8080|Indonesia|Tangerang|Telekomunikasi Indonesia|
+|12|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|13|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|14|193.122.197.154|80|United States|Ashburn|Oracle Corporation|
+|15|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|120.28.220.26|8080|Philippines|Cagayan de Oro|Globe Telecom|
+|17|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|181.198.115.179|999|Ecuador|Guayaquil|Telconet S.A|
+|20|210.87.125.146|8080|Indonesia|Kediri|CV Brawijaya Giga Network|
 
 
 
