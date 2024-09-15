@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|5.39.77.8|8080|France|Roubaix|OVH SAS|
-|6|96.18.6.140|8080|United States|Parsons|CABLE ONE, INC.|
-|7|144.91.120.37|80|Germany|Nuremberg|Contabo GmbH|
+|1|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|96.18.6.140|8080|United States|Parsons|CABLE ONE, INC.|
+|5|94.183.230.166|3128|Iran|Tehran|Aria Shatel PJSC|
+|6|43.167.240.169|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|7|110.78.172.200|8080|Thailand|Bangkok|CAT-BB|
 |8|96.18.6.140|8080|United States|Parsons|CABLE ONE, INC.|
-|9|38.183.144.117|1111|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|10|133.242.203.223|80|Japan|Chiyoda|SAKURA Internet Inc.|
-|11|50.116.25.182|8080|United States|Richardson|Akamai Technologies, Inc.|
-|12|171.234.237.179|10006|Vietnam|Hanoi|Viettel Corporation|
-|13|59.11.85.221|3128|South Korea|Seongnam-si|Korea Telecom|
-|14|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|8.216.90.236|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|17|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|18|152.26.231.42|9443|United States|Concord|MCNC|
-|19|38.45.246.210|999|Mexico|Buenavista Tomatlán|Jorge Luis Torres Fernandez|
-|20|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|1.20.203.43|8080|Thailand|Surat Thani|TOT Public Company Limited|
+|10|144.91.120.37|80|Germany|Nuremberg|Contabo GmbH|
+|11|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|15|152.26.231.42|9443|United States|Concord|MCNC|
+|16|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|72.10.164.178|31955|Canada|Montreal|GloboTech Communications|
+|18|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|20|72.10.160.170|12269|Canada|Montreal|GloboTech Communications|
 
 
 
