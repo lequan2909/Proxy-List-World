@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5810** proxies at the latest update. Usable proxies are below.
+> Scraper found **6162** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|560|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|560|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|560|
 
 ## Sources
 
@@ -29,36 +29,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|236|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|951|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|991|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|435|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3230|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3542|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.11.209|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|2|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
-|6|103.89.15.158|1085|United States|Dallas|Kamatera|
-|7|181.204.21.122|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
-|8|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|10|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
-|11|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|12|103.248.9.206|3127|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
-|13|160.248.187.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|190.2.209.59|999|Colombia|Tumaco|TV AZTECA SUCURSAL COLOMBIA|
-|16|193.122.197.154|80|United States|Ashburn|Oracle Corporation|
-|17|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|18|103.147.246.39|8181|Indonesia|Tangerang|PLBNET|
-|19|103.131.232.126|8080|Australia|Goulburn|YLess4U Pty Ltd|
-|20|193.122.197.154|80|United States|Ashburn|Oracle Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|160.248.11.209|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|5|203.190.46.131|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|63.250.56.200|1081|Netherlands|Amsterdam|Kamatera Inc|
+|9|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
+|10|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|13|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|14|116.111.123.96|10001|Vietnam|Hanoi|Viettel Corporation|
+|15|103.248.9.206|3127|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|103.39.50.228|9090|Indonesia|Kuningan Barat|PT. Mega Mentari Mandiri|
+|18|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|177.93.51.212|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|20|36.94.185.122|60080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
 
 
 
