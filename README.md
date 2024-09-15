@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|115.72.46.96|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|188.235.146.220|40754|Russia|Saratov|JSC "ER-Telecom Holding"|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|152.26.231.93|9443|United States|Concord|MCNC|
-|6|152.26.231.94|9443|United States|Concord|MCNC|
-|7|152.26.231.83|9443|United States|Concord|MCNC|
-|8|152.26.231.86|9443|United States|Concord|MCNC|
-|9|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|10|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|12|51.159.99.38|3128|France|Paris|SCALEWAY|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|222.127.246.81|8082|Philippines|Iloilo City|GLBB|
+|4|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|7|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|8|152.26.231.94|9443|United States|Concord|MCNC|
+|9|152.26.231.93|9443|United States|Concord|MCNC|
+|10|152.26.231.86|9443|United States|Concord|MCNC|
+|11|152.26.231.83|9443|United States|Concord|MCNC|
+|12|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |13|160.248.187.82|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|74.48.45.120|80|United States|Los Angeles|Multacom Corporation|
-|15|67.43.227.227|7307|Canada|Montreal|GloboTech Communications|
+|14|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|15|152.26.229.42|9443|United States|Concord|MCNC|
 |16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|67.43.236.20|13335|Canada|Montreal|GloboTech Communications|
-|19|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
-|20|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|17|51.159.99.38|3128|France|Paris|SCALEWAY|
+|18|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
