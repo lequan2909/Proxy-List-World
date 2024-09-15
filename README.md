@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
 |3|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|4|180.178.34.156|3129|Hong Kong|Cheung Sha Wan|SIMCENTRIC|
-|5|103.247.22.115|8081|Indonesia|Bekasi|PT wifian Solution|
-|6|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|181.78.65.58|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
-|10|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|11|103.166.10.7|8090|Indonesia|Kediri|PT. Yasmin Amanah Media|
-|12|185.184.26.38|4003|Turkey|Yukarıdudullu|MUV Bilisim ve Telekomunikasyon Hizmetleri Ltd. Sti.|
-|13|115.78.10.226|4444|Vietnam|Ho Chi Minh City|VIETELftth|
-|14|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|103.87.169.190|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|16|203.177.133.238|8080|Philippines|Taguig|Globe Telecom|
-|17|213.19.123.178|229|Czechia|Dolní Újezd|FORTECH|
-|18|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|19|190.94.212.149|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|20|152.26.231.93|9443|United States|Concord|MCNC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|190.211.172.178|999|Chile|Santa Cruz|InterNexa Global Network|
+|7|203.177.133.238|8080|Philippines|Taguig|Globe Telecom|
+|8|203.150.128.181|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|9|103.154.25.94|8080|Indonesia|Selong|HIJRAHNET|
+|10|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|46.21.253.87|8080|Russia|Moscow|Start LLC|
+|12|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|186.125.218.148|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|15|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
+|16|27.147.131.122|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
+|17|152.26.231.93|9443|United States|Concord|MCNC|
+|18|67.43.227.227|13315|Canada|Montreal|GloboTech Communications|
+|19|38.183.209.33|8080|Indonesia|Tangerang|PT. Putra Lebak Banten|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
