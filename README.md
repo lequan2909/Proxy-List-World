@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|395|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|395|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|395|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
 |4|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
 |5|52.221.205.90|3128|Singapore|Singapore|Amazon.com, Inc.|
 |6|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|7|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
 |8|152.26.229.83|9443|United States|Concord|MCNC|
 |9|152.26.229.93|9443|United States|Concord|MCNC|
-|10|152.26.231.83|9443|United States|Concord|MCNC|
-|11|67.43.227.227|27351|Canada|Montreal|GloboTech Communications|
-|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|176.99.2.43|1081|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|11|152.26.231.83|9443|United States|Concord|MCNC|
+|12|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
 |13|152.26.231.93|9443|United States|Concord|MCNC|
-|14|72.10.164.178|6515|Canada|Montreal|GloboTech Communications|
-|15|117.5.128.214|5000|Vietnam|Hanoi|VIETTEL|
-|16|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|17|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|18|67.43.227.228|22487|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.172|17235|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|22487|Canada|Montreal|GloboTech Communications|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|67.43.227.228|7531|Canada|Montreal|GloboTech Communications|
+|16|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|67.43.227.228|7531|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.228|7531|Canada|Montreal|GloboTech Communications|
+|19|157.10.97.167|8080|Indonesia|Bengkulu|PT Lintas Jaringan Nusantara|
+|20|160.248.11.225|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
