@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|165.22.59.100|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|96.18.6.140|8080|United States|Parsons|CABLE ONE, INC.|
-|5|96.18.6.140|8080|United States|Parsons|CABLE ONE, INC.|
-|6|50.116.25.182|8080|United States|Richardson|Akamai Technologies, Inc.|
-|7|50.116.25.182|8080|United States|Richardson|Akamai Technologies, Inc.|
-|8|67.43.227.227|21823|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.90|19925|Canada|Montreal|GloboTech Communications|
-|10|152.26.231.93|9443|United States|Concord|MCNC|
-|11|67.43.236.21|8863|Canada|Montreal|GloboTech Communications|
-|12|152.26.231.83|9443|United States|Concord|MCNC|
-|13|72.10.164.178|7581|Canada|Montreal|GloboTech Communications|
-|14|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|15|118.117.189.98|8089|China|Muping|Chinanet|
-|16|45.95.174.121|31280|France|Strasbourg|Host Europe|
-|17|72.10.164.178|7581|Canada|Montreal|GloboTech Communications|
-|18|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|19|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|20|14.103.168.150|8088|China|Beijing|BITNET|
+|2|96.18.6.140|8080|United States|Parsons|CABLE ONE, INC.|
+|3|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|4|38.156.23.66|999|Dominican Republic|Puerto Plata|Visnetwork SRL|
+|5|126.209.13.226|8082|Philippines|Manila|Infinivan Incorporated|
+|6|96.18.6.140|8080|United States|Parsons|CABLE ONE, INC.|
+|7|165.22.59.100|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|163.47.39.37|8080|Bangladesh|Dhaka|Bangladesh Research and Education Network (BdREN)|
+|9|67.43.227.227|13295|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.91|24967|Canada|Montreal|GloboTech Communications|
+|11|152.26.231.83|9443|United States|Concord|MCNC|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|14|103.152.116.82|80|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
+|15|67.43.236.21|2503|Canada|Montreal|GloboTech Communications|
+|16|152.26.231.93|9443|United States|Concord|MCNC|
+|17|72.10.160.90|19925|Canada|Montreal|GloboTech Communications|
+|18|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|19|72.10.164.178|10953|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.47|9443|United States|Concord|MCNC|
 
 
 
