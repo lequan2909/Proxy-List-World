@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|116.105.58.170|10001|Vietnam|Quận Bảy|Viettel Corporation|
-|4|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
-|5|74.48.45.120|80|United States|Los Angeles|Multacom Corporation|
-|6|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|159.223.55.150|8888|Singapore|Singapore|DigitalOcean, LLC|
-|9|148.72.140.24|10528|United States|St Louis|GoDaddy.com|
-|10|103.81.222.151|8080|Indonesia|Bandung|STARNET|
-|11|152.26.231.94|9443|United States|Concord|MCNC|
-|12|72.10.164.178|21865|Canada|Montreal|GloboTech Communications|
-|13|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|14|152.26.229.47|9443|United States|Concord|MCNC|
-|15|152.26.231.93|9443|United States|Concord|MCNC|
-|16|152.26.229.83|9443|United States|Concord|MCNC|
-|17|152.26.229.34|9443|United States|Concord|MCNC|
-|18|72.10.164.178|21865|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|18213|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|32715|Canada|Montreal|GloboTech Communications|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|4|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|5|152.26.231.94|9443|United States|Concord|MCNC|
+|6|152.26.229.47|9443|United States|Concord|MCNC|
+|7|152.26.231.93|9443|United States|Concord|MCNC|
+|8|152.26.229.83|9443|United States|Concord|MCNC|
+|9|103.81.222.151|8080|Indonesia|Bandung|STARNET|
+|10|152.26.229.34|9443|United States|Concord|MCNC|
+|11|1.2.182.205|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|12|38.156.75.16|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|14|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
+|15|72.10.160.90|24579|Canada|Montreal|GloboTech Communications|
+|16|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
+|17|38.172.128.25|8080|Peru|Lima|Conex TV E.I.R.L.|
+|18|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
+|19|176.194.189.40|80|Russia|Belgorod|Net By Net Holding LLC|
+|20|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
 
 
 
