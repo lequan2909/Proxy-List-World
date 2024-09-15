@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|459|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|459|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|459|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.198.179.17|8082|Philippines|Carmona|Globe Telecom|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
 |4|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|181.78.80.222|999|Colombia|Duitama|IFX Networks Argentina S.R.L|
-|6|119.47.90.109|8080|Indonesia|Jatiroto|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|7|94.61.57.219|8118|Portugal|Porto|Vodafone Portugal|
-|8|195.123.240.138|7777|United States|Los Angeles|Green Floid LLC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|43.252.107.102|7777|Indonesia|Blitar|PT Lintas Data Prima|
-|12|206.84.104.126|8080|Indonesia|Jakarta|AGIS|
-|13|103.36.10.213|1111|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|14|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|15|38.156.73.56|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|38.253.225.2|8080|Indonesia|Cileungsir|PT Merdeka Media Teknologi|
-|17|45.179.201.129|999|Colombia|Medellín|NET&COM LTDA.|
-|18|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|130.0.25.110|34607|Albania|Shkodër|IBC Backbone Services South|
-|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|159.65.237.225|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|103.165.155.229|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|8|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|10|190.128.248.134|999|Paraguay|Asunción|Telecel S.A.|
+|11|103.126.86.17|3127|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
+|12|143.255.111.112|3128|Brazil|Águas Lindas de Goiás|MCD INFORMATICA E TELECOMUNICACOES LTDA - ME|
+|13|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|50.235.247.114|8085|United States|Wallingford|Comcast Cable Communications, LLC|
+|17|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 
 
 
