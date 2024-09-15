@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.11.209|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|89.116.32.140|3128|India|Mumbai|Hostinger International Limited|
-|6|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|47.88.17.136|18080|United States|Minkler|Alibaba.com LLC|
-|9|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|177.93.51.212|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|12|103.89.15.158|1085|United States|Dallas|Kamatera|
-|13|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|14|177.153.33.94|80|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
-|15|103.78.215.253|8080|Indonesia|Jakarta|MORATELINDO|
-|16|160.16.109.252|18080|Japan|Tokyo|SAKURA Internet Inc.|
-|17|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
-|18|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|190.2.57.97|3128|Argentina|Buenos Aires|NSS S.A.|
-|20|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|160.248.11.209|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|5|157.20.144.138|8181|Indonesia|Ciputat|PT Lintas Network Solusi|
+|6|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|8|159.65.237.225|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|63.250.56.200|1081|Netherlands|Amsterdam|Kamatera Inc|
+|10|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|14|78.109.129.60|3128|Russia|Barnaul|CJSC "ER-Telecom Holding" Barnaul branch|
+|15|177.153.33.94|80|Brazil|São Paulo|Locaweb Serviços de Internet S/A|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|187.190.99.229|8080|Mexico|Valle de Santiago|Total Play Telecomunicaciones SA De CV|
+|18|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|19|89.116.32.140|3128|India|Mumbai|Hostinger International Limited|
+|20|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
 
 
 
