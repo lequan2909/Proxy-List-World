@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|6|103.156.140.203|8080|Indonesia|Jember|PT Tekling Media Telematika|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|115.72.46.96|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|5|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
 |7|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|13|193.192.124.74|8080|Türkiye|Istanbul|TurkNet Iletisim Hizmetleri A.S.|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|180.178.34.157|3129|Hong Kong|Cheung Sha Wan|SIMCENTRIC|
-|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|152.26.229.47|9443|United States|Concord|MCNC|
-|19|72.10.164.178|11201|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|124.6.168.26|80|Philippines|Lahug|INNOVE|
+|11|49.48.89.204|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|12|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|181.114.61.17|8085|Argentina|Ramallo|INTERAIR|
+|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|15|152.166.69.34|8080|Dominican Republic|La Romana|Altice Dominicana S.A.|
+|16|181.115.66.232|999|Honduras|San Pedro Sula|TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.231.93|9443|United States|Concord|MCNC|
 
 
 
