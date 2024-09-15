@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|8.216.90.236|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|5|49.48.49.29|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|6|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|103.125.174.49|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|8|177.200.80.6|11221|Brazil|Eusébio|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
-|9|212.110.188.211|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|10|152.26.229.46|9443|United States|Concord|MCNC|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|1|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|49.48.49.29|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|3|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|4|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|5|152.26.229.46|9443|United States|Concord|MCNC|
+|6|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|7|152.26.229.42|9443|United States|Concord|MCNC|
+|8|72.10.164.178|22899|Canada|Montreal|GloboTech Communications|
+|9|67.43.227.227|1907|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|22899|Canada|Montreal|GloboTech Communications|
+|11|119.76.142.154|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
 |12|72.10.160.174|9767|Canada|Montreal|GloboTech Communications|
-|13|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|14|72.10.160.170|26565|Canada|Montreal|GloboTech Communications|
-|15|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|16|72.10.164.178|16539|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|19|67.43.236.20|23827|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|1907|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|14637|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|22899|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.91|21951|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.226|7147|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|22899|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|1907|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.174|9767|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|10211|Canada|Montreal|GloboTech Communications|
 
 
 
