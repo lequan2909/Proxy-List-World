@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|103.166.158.53|3127|Indonesia|Bekasi|PT Timor Lintas Nusantara|
-|4|83.166.240.217|3128|Russia|Moscow|LLC Management Company "Svyaz"|
-|5|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|103.166.158.213|8080|Indonesia|Bekasi|PT Timor Lintas Nusantara|
-|9|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|10|183.80.111.55|8080|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|11|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|12|103.133.63.134|8181|Indonesia|Bandar Lampung|TLINK|
-|13|31.29.207.228|8424|Russia|Balakovo|COMSTAR-SRTV|
-|14|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|15|27.74.251.99|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|16|67.43.236.20|9535|Canada|Montreal|GloboTech Communications|
-|17|117.68.38.152|20840|China|Hefei|China Telecom|
-|18|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
-|19|152.26.229.34|9443|United States|Concord|MCNC|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|1|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
+|2|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|103.156.16.243|8080|Indonesia|Jakarta|RSTNET|
+|4|103.147.134.238|1111|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|8|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|72.10.160.90|20871|Canada|Montreal|GloboTech Communications|
+|10|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|11|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|12|152.26.229.34|9443|United States|Concord|MCNC|
+|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|14|134.35.232.183|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|15|67.43.227.227|31293|Canada|Montreal|GloboTech Communications|
+|16|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|17|84.53.245.42|41258|Russia|Vladimir|Elcom ISP|
+|18|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|20|36.67.99.31|7023|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 
 
 
