@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|167.71.212.240|8888|Singapore|Singapore|DigitalOcean, LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|8.216.90.236|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|8|36.64.27.57|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|9|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|45.143.108.115|8080|Georgia|Zestaponi|Airmax LLC|
-|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|13|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|14|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|191.102.248.1|8085|Argentina|Rosario|IP·RED|
-|16|72.10.160.90|12939|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|3299|Canada|Montreal|GloboTech Communications|
-|18|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|19|67.43.228.254|22679|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|12939|Canada|Montreal|GloboTech Communications|
+|3|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|8.216.90.236|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
+|7|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|10|67.43.236.18|2829|Canada|Montreal|GloboTech Communications|
+|11|152.26.229.42|9443|United States|Concord|MCNC|
+|12|152.26.229.47|9443|United States|Concord|MCNC|
+|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|14|72.10.160.173|6971|Canada|Montreal|GloboTech Communications|
+|15|186.96.15.70|8080|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|16|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|17|67.43.236.20|27587|Canada|Montreal|GloboTech Communications|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|67.43.227.227|8217|Canada|Montreal|GloboTech Communications|
+|20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
 
