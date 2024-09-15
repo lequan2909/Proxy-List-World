@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|4|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|27.65.48.41|5102|Vietnam|Ho Chi Minh City|Viettel Group|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
 |6|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|7|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
-|8|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|9|117.68.38.152|20840|China|Hefei|China Telecom|
-|10|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|103.243.177.90|8080|Indonesia|Kalicari|Universitas Katolik Soegijapranata|
-|13|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|152.26.229.47|9443|United States|Concord|MCNC|
-|17|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|72.10.160.170|30105|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.94|9443|United States|Concord|MCNC|
+|7|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|9|191.97.96.86|8080|Argentina|General Roca|Vision NET|
+|10|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|152.26.229.47|9443|United States|Concord|MCNC|
+|12|152.26.229.42|9443|United States|Concord|MCNC|
+|13|72.10.164.178|13597|Canada|Montreal|GloboTech Communications|
+|14|152.26.231.86|9443|United States|Concord|MCNC|
+|15|152.26.231.94|9443|United States|Concord|MCNC|
+|16|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|67.43.227.226|24107|Canada|Montreal|GloboTech Communications|
+|18|180.191.23.149|8082|Philippines|Cabanatuan City|Globe Telecom|
+|19|124.105.102.167|8082|Philippines|Tanauan|Philippine Long Distance Telephone Co.|
+|20|152.26.229.34|9443|United States|Concord|MCNC|
 
 
 
