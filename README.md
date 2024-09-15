@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.96.131.193|80|South Korea|Seongnam-si|NBP|
-|2|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|7|134.35.209.40|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|8|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|9|152.26.231.94|9443|United States|Concord|MCNC|
-|10|152.26.229.47|9443|United States|Concord|MCNC|
-|11|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|36.66.111.81|8080|Indonesia|Pondok Labu|PT. Telekomunikasi Indonesia|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|49.48.53.128|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|5|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|200.10.30.217|8083|Colombia|La Virginia|Super Redes S.A.S|
+|7|24.152.53.9|999|Guatemala|Jalapa|TV CABLE UNIVERSAL S.A|
+|8|152.26.231.94|9443|United States|Concord|MCNC|
+|9|103.165.208.222|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|10|38.183.144.117|1111|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
+|11|152.26.229.47|9443|United States|Concord|MCNC|
+|12|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 |13|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|72.10.160.172|16223|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|10691|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|10691|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|19841|Canada|Montreal|GloboTech Communications|
-|18|52.13.143.246|8000|United States|Portland|Amazon.com, Inc.|
-|19|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|20|67.43.227.227|18241|Canada|Montreal|GloboTech Communications|
+|14|181.204.81.181|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|15|160.248.11.225|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|72.10.164.178|2235|Canada|Montreal|GloboTech Communications|
+|17|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|18|72.10.164.178|2235|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|9341|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|2235|Canada|Montreal|GloboTech Communications|
 
 
 
