@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|186.96.97.206|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|2|171.245.124.68|5000|Vietnam|Ha Long|Viettel Corporation|
-|3|117.6.55.135|10001|Vietnam|Hanoi|Viettel Corporation|
-|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|5|52.221.205.90|3128|Singapore|Singapore|Amazon.com, Inc.|
-|6|152.26.231.93|9443|United States|Concord|MCNC|
-|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|8|72.10.160.93|31765|Canada|Montreal|GloboTech Communications|
-|9|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|152.26.231.42|9443|United States|Concord|MCNC|
-|11|67.43.236.20|24647|Canada|Montreal|GloboTech Communications|
-|12|159.203.167.230|3128|United States|Clifton|DigitalOcean, LLC|
-|13|67.43.228.250|19039|Canada|Montreal|GloboTech Communications|
-|14|39.62.3.7|3127|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
-|15|72.10.164.178|14181|Canada|Montreal|GloboTech Communications|
-|16|152.26.231.94|9443|United States|Concord|MCNC|
-|17|211.114.237.136|3128|South Korea|Jungnang-gu|Korea Telecom|
-|18|67.43.236.20|24647|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|10025|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.172|11023|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|171.228.173.10|10089|Vietnam|Hanoi|Viettel Corporation|
+|8|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|10|152.26.231.93|9443|United States|Concord|MCNC|
+|11|67.43.227.228|29819|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.93|31765|Canada|Montreal|GloboTech Communications|
+|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|14|1.0.138.79|8080|Thailand|Bangkok|TOT Public Company Limited|
+|15|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|72.10.164.178|1211|Canada|Montreal|GloboTech Communications|
+|19|152.26.231.94|9443|United States|Concord|MCNC|
+|20|67.43.228.253|19953|Canada|Montreal|GloboTech Communications|
 
 
 
