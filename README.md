@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
-|3|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
-|4|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
-|5|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|72.10.160.170|8003|Canada|Montreal|GloboTech Communications|
-|8|152.26.231.42|9443|United States|Concord|MCNC|
-|9|152.26.231.93|9443|United States|Concord|MCNC|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|121.172.52.68|3128|South Korea|Incheon|Korea Telecom|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|180.211.183.130|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|8|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|152.26.231.42|9443|United States|Concord|MCNC|
 |10|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|12|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|152.26.231.86|9443|United States|Concord|MCNC|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|152.26.231.94|9443|United States|Concord|MCNC|
-|16|67.43.227.228|10569|Canada|Montreal|GloboTech Communications|
-|17|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|181.233.93.88|8080|Brazil|Belém|J.A TELECOM.PE|
+|12|152.26.231.93|9443|United States|Concord|MCNC|
+|13|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|14|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |19|152.26.231.83|9443|United States|Concord|MCNC|
-|20|67.43.228.253|14251|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
