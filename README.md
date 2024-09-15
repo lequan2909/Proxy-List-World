@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|37.187.109.70|10111|France|Gravelines|OVH SAS|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|190.60.36.78|8080|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
-|8|36.229.157.39|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|9|103.102.12.89|8081|Indonesia|Rembangan|FISNET|
-|10|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|11|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|14|109.165.199.17|8181|Bosnia and Herzegovina|Bijeljina|TEOL-ADSL|
-|15|177.234.194.226|999|Ecuador|Buena Fe|Ufinet Panama S.A.|
-|16|72.10.164.178|15517|Canada|Montreal|GloboTech Communications|
-|17|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|18|152.26.229.47|9443|United States|Concord|MCNC|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|4|109.165.199.17|8181|Bosnia and Herzegovina|Bijeljina|TEOL-ADSL|
+|5|202.40.177.46|8080|Bangladesh|Dhaka|Ranks ITT|
+|6|37.187.109.70|10111|France|Gravelines|OVH SAS|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|119.18.149.9|5020|Bangladesh|Chittagong|BBTS Network|
+|9|190.60.36.78|8080|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
+|10|13.87.97.69|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|12|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|13|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|15|181.78.82.211|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|16|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|17|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|152.26.229.47|9443|United States|Concord|MCNC|
+|20|190.121.157.141|999|Colombia|Lourdes|Media Commerce Partners S.A|
 
 
 
