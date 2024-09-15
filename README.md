@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|212.252.73.29|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|5|203.189.153.19|8083|Cambodia|Phnom Penh|ONLINE|
-|6|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|7|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|190.107.232.202|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|3|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|4|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|5|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|152.26.229.93|9443|United States|Concord|MCNC|
 |8|152.26.231.42|9443|United States|Concord|MCNC|
-|9|152.26.229.93|9443|United States|Concord|MCNC|
+|9|72.10.164.178|29403|Canada|Montreal|GloboTech Communications|
 |10|152.26.229.86|9443|United States|Concord|MCNC|
 |11|152.26.229.47|9443|United States|Concord|MCNC|
-|12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|147.45.74.178|3128|Sweden|Stockholm|Aeza International LTD|
-|14|72.10.164.178|5431|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|30113|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|5431|Canada|Montreal|GloboTech Communications|
-|17|152.26.231.94|9443|United States|Concord|MCNC|
-|18|152.26.229.34|9443|United States|Concord|MCNC|
-|19|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|152.26.229.83|9443|United States|Concord|MCNC|
+|12|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|13|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|152.26.231.94|9443|United States|Concord|MCNC|
+|15|152.26.229.34|9443|United States|Concord|MCNC|
+|16|72.10.160.90|23743|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|29403|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
+|20|72.10.164.178|29403|Canada|Montreal|GloboTech Communications|
 
 
 
