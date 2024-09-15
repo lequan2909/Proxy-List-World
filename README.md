@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|36.88.148.140|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|5|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|6|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|31.29.207.228|8424|Russia|Balakovo|COMSTAR-SRTV|
-|8|171.245.124.68|5000|Vietnam|Ha Long|Viettel Corporation|
-|9|37.60.255.91|3128|Germany|Düsseldorf|SiteGround|
-|10|202.40.177.46|8080|Bangladesh|Dhaka|Ranks ITT|
-|11|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|36.94.47.59|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|14|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|103.69.20.89|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|17|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
+|3|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|138.2.64.185|8118|Singapore|Singapore|Oracle Corporation|
+|5|37.60.255.91|3128|Germany|Düsseldorf|SiteGround|
+|6|200.106.124.138|999|Peru|Tacna|Telefonica del Peru|
+|7|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
+|9|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|43.156.172.188|3127|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|36.88.148.140|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|12|103.156.16.243|8080|Indonesia|Jakarta|RSTNET|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|109.165.199.17|8181|Bosnia and Herzegovina|Bijeljina|TEOL-ADSL|
+|16|27.147.217.102|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|17|222.127.246.81|8082|Philippines|Iloilo City|GLBB|
+|18|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|19|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
 |20|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
