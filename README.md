@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|103.157.79.82|1111|Indonesia|Jakarta|EASTMEDIA|
-|6|190.61.84.166|9812|Costa Rica|San José|Ufinet Costa Rica|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|9|67.43.228.252|18143|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.227|11907|Canada|Montreal|GloboTech Communications|
-|11|43.167.239.102|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|12|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|36.72.245.209|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|14|61.129.2.212|8080|China|Beijing|CHINANET|
-|15|67.43.228.251|20555|Canada|Montreal|GloboTech Communications|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|18|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|67.43.227.227|11907|Canada|Montreal|GloboTech Communications|
+|2|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|103.127.106.249|8090|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
+|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|7|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|8|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|9|103.245.205.226|6969|Bangladesh|Dhaka|Next Online Limited|
+|10|67.43.227.227|31179|Canada|Montreal|GloboTech Communications|
+|11|36.72.245.209|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|12|152.26.231.42|9443|United States|Concord|MCNC|
+|13|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|14|152.26.231.94|9443|United States|Concord|MCNC|
+|15|61.129.2.212|8080|China|Beijing|CHINANET|
+|16|160.248.11.209|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|152.26.229.47|9443|United States|Concord|MCNC|
+|18|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|72.10.160.173|19551|Canada|Montreal|GloboTech Communications|
 
 
 
