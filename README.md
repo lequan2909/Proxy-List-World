@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|7|152.26.231.93|9443|United States|Concord|MCNC|
-|8|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|9|198.244.231.83|8888|United Kingdom|London|OVH SAS|
-|10|152.26.229.83|9443|United States|Concord|MCNC|
-|11|152.26.229.93|9443|United States|Concord|MCNC|
-|12|67.43.228.251|5885|Canada|Montreal|GloboTech Communications|
-|13|176.121.48.97|23500|Russia|Zhavoronki|ZAO Greenline|
-|14|67.43.236.19|6535|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.254|10535|Canada|Montreal|GloboTech Communications|
+|2|162.212.155.234|3128|United States|Flushing|tzulo, inc.|
+|3|203.150.128.181|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|162.212.155.234|3128|United States|Flushing|tzulo, inc.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|7|131.100.51.45|999|Colombia|Neiva|Fibernet TV SAS|
+|8|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|152.26.231.93|9443|United States|Concord|MCNC|
+|11|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|13|198.244.231.83|8888|United Kingdom|London|OVH SAS|
+|14|152.26.229.83|9443|United States|Concord|MCNC|
+|15|152.26.229.93|9443|United States|Concord|MCNC|
 |16|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|17|67.43.227.227|19603|Canada|Montreal|GloboTech Communications|
-|18|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|72.10.164.178|13581|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.230|12159|Canada|Montreal|GloboTech Communications|
+|17|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|18|36.94.27.65|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|19|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
