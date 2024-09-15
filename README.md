@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|2|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|3|113.53.60.175|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|41.111.187.214|80|Algeria|Belcourt|Algerie Telecom|
+|1|103.165.208.222|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|2|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|200.10.30.217|8083|Colombia|La Virginia|Super Redes S.A.S|
 |5|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|6|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|7|203.150.128.228|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|8|72.10.164.178|10691|Canada|Montreal|GloboTech Communications|
-|9|152.26.231.42|9443|United States|Concord|MCNC|
-|10|67.43.227.227|12473|Canada|Montreal|GloboTech Communications|
-|11|160.248.11.206|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|12|58.240.211.250|7890|China|Suzhou|CNC Group Jiangsu province network|
-|13|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|14|18.166.176.176|3128|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|15|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
-|16|162.212.155.234|9595|United States|Flushing|tzulo, inc.|
-|17|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|67.43.227.226|29835|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|13991|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|6133|Canada|Montreal|GloboTech Communications|
+|6|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|7|72.10.164.178|10691|Canada|Montreal|GloboTech Communications|
+|8|152.26.231.42|9443|United States|Concord|MCNC|
+|9|160.248.11.206|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|58.240.211.250|7890|China|Suzhou|CNC Group Jiangsu province network|
+|11|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|72.10.164.178|10691|Canada|Montreal|GloboTech Communications|
+|13|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|152.26.231.86|9443|United States|Concord|MCNC|
+|15|181.78.82.211|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|16|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|17|113.240.99.148|65007|China|Qingyuan|No.293, Wanbao Avenue|
+|18|198.244.231.83|8888|United Kingdom|London|OVH SAS|
+|19|67.43.227.230|33207|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|10691|Canada|Montreal|GloboTech Communications|
 
 
 
