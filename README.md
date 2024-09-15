@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|2|121.172.52.68|3128|South Korea|Incheon|Korea Telecom|
+|1|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
 |3|152.26.231.42|9443|United States|Concord|MCNC|
-|4|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|5|152.26.229.46|9443|United States|Concord|MCNC|
-|6|67.43.236.18|16555|Canada|Montreal|GloboTech Communications|
-|7|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
-|9|152.26.229.83|9443|United States|Concord|MCNC|
-|10|152.26.229.47|9443|United States|Concord|MCNC|
-|11|152.26.229.42|9443|United States|Concord|MCNC|
-|12|72.10.160.90|9895|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.91|3287|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|22099|Canada|Montreal|GloboTech Communications|
-|15|152.26.231.94|9443|United States|Concord|MCNC|
-|16|72.10.160.93|32065|Canada|Montreal|GloboTech Communications|
-|17|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|72.10.164.178|24687|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|9895|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|28609|Canada|Montreal|GloboTech Communications|
+|4|152.26.229.46|9443|United States|Concord|MCNC|
+|5|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|152.26.229.47|9443|United States|Concord|MCNC|
+|7|152.26.229.83|9443|United States|Concord|MCNC|
+|8|152.26.229.42|9443|United States|Concord|MCNC|
+|9|67.43.236.18|16555|Canada|Montreal|GloboTech Communications|
+|10|103.168.129.124|8080|Indonesia|Jakarta|LINTASARTA|
+|11|152.26.231.94|9443|United States|Concord|MCNC|
+|12|67.43.236.20|21425|Canada|Montreal|GloboTech Communications|
+|13|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|14|152.26.229.34|9443|United States|Concord|MCNC|
+|15|45.173.231.166|999|Ecuador|Quito|Jyxcem Cia.ltda|
+|16|72.10.164.178|17733|Canada|Montreal|GloboTech Communications|
+|17|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|152.26.231.83|9443|United States|Concord|MCNC|
+|19|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|20|36.72.245.209|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
 
 
 
