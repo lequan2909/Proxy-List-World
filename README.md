@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|4|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|10|116.107.215.147|5000|Vietnam|Hanoi|Viettel Corporation|
-|11|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|103.87.169.155|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|13|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|16|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|17|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|18|103.234.159.5|8080|India|Bengaluru|MWPL|
-|19|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|6|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|7|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|103.16.119.4|1080|Indonesia|Madiun|CV Trustnet Media|
+|9|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|12|61.19.109.236|8080|Thailand|Vadhana|CAT-ISP|
+|13|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|14|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|36.88.125.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|18|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
