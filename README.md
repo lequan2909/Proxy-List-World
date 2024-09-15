@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5534** proxies at the latest update. Usable proxies are below.
+> Scraper found **5535** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|262|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|807|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|808|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|358|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3149|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|4|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|5|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|6|152.26.229.34|9443|United States|Concord|MCNC|
-|7|203.177.133.238|8080|Philippines|Taguig|Globe Telecom|
-|8|152.26.231.94|9443|United States|Concord|MCNC|
-|9|152.26.229.83|9443|United States|Concord|MCNC|
-|10|152.26.229.47|9443|United States|Concord|MCNC|
-|11|152.26.231.86|9443|United States|Concord|MCNC|
-|12|36.95.78.156|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|13|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|14|72.10.160.90|2859|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.22|10035|Canada|Montreal|GloboTech Communications|
-|16|152.26.231.83|9443|United States|Concord|MCNC|
-|17|72.10.164.178|19553|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|19553|Canada|Montreal|GloboTech Communications|
-|19|38.156.73.59|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|161.132.125.244|8080|Peru|Lima|WIN EMPRESAS S.A.C.|
+|3|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|7|152.26.231.93|9443|United States|Concord|MCNC|
+|8|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|9|198.244.231.83|8888|United Kingdom|London|OVH SAS|
+|10|152.26.229.83|9443|United States|Concord|MCNC|
+|11|152.26.229.93|9443|United States|Concord|MCNC|
+|12|67.43.228.251|5885|Canada|Montreal|GloboTech Communications|
+|13|176.121.48.97|23500|Russia|Zhavoronki|ZAO Greenline|
+|14|67.43.236.19|6535|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.254|10535|Canada|Montreal|GloboTech Communications|
+|16|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|17|67.43.227.227|19603|Canada|Montreal|GloboTech Communications|
+|18|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|72.10.164.178|13581|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.230|12159|Canada|Montreal|GloboTech Communications|
 
 
 
