@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|27.65.48.41|5102|Vietnam|Ho Chi Minh City|Viettel Group|
-|5|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|6|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|5|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|7|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
 |8|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|9|103.166.158.203|8090|Indonesia|Bekasi|PT Timor Lintas Nusantara|
-|10|201.91.248.67|20183|Brazil|São Paulo|Vivo|
-|11|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|36.88.125.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|13|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|72.10.164.178|13597|Canada|Montreal|GloboTech Communications|
-|15|103.83.0.62|8085|Indonesia|Lamongan|PT Kia Integrasi Akses|
-|16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|152.26.229.93|9443|United States|Concord|MCNC|
-|18|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|72.10.164.178|13597|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|9|103.153.246.129|3125|Indonesia|Purwakarta|PRIMAHOME|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|118.97.75.86|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|12|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
+|13|103.175.202.182|8090|Indonesia|Kabupaten Tanah Bumbu|PT Ameera Mega Buana|
+|14|103.227.61.51|8899|Australia|Sydney|Origin Net Pty Ltd|
+|15|41.209.10.194|8080|Kenya|Nairobi|MTN Business Kenya|
+|16|36.95.78.156|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|17|72.10.164.178|13597|Canada|Montreal|GloboTech Communications|
+|18|152.26.231.93|9443|United States|Concord|MCNC|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
