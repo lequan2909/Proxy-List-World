@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
 |5|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |6|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|7|122.54.105.109|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|8|94.79.152.14|80|Germany|Hürth|Vodafone|
-|9|194.164.206.37|3128|United Kingdom|Farnham|NETKONECT|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|152.32.67.107|65535|Philippines|Quezon City|Converge ICT Solution Inc|
+|9|193.187.172.82|3128|The Netherlands|Amsterdam|CGI GLOBAL LIMITED|
 |10|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|11|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|193.187.172.82|3128|The Netherlands|Amsterdam|CGI GLOBAL LIMITED|
-|13|45.88.192.56|8080|United States|Los Angeles|DM-HK|
-|14|103.173.244.210|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|15|163.5.142.238|3128|France|Paris|IONIS|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|18|103.51.205.20|8080|Indonesia|Sragen|Lintas Data Prima, PT|
-|19|112.198.179.57|8082|Philippines|Carmona|Globe Telecom|
-|20|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|12|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
+|13|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|45.88.192.56|8080|United States|Los Angeles|DM-HK|
+|16|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|17|103.174.236.63|7777|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|18|24.152.58.132|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|19|163.5.142.238|3128|France|Paris|IONIS|
+|20|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
