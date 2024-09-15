@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|448|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|448|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|448|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|5|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|7|103.173.244.210|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|8|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|10|194.164.206.37|3128|United Kingdom|Farnham|NETKONECT|
-|11|152.32.67.107|65535|Philippines|Quezon City|Converge ICT Solution Inc|
-|12|122.54.105.109|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|13|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|181.196.254.201|999|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|15|36.64.142.177|8080|Indonesia|Malang|PT. Telekomunikasi Indonesia|
-|16|45.88.192.56|8080|United States|Los Angeles|DM-HK|
-|17|45.188.164.48|999|Mexico|Cotija de la Paz|Velocom SA De CV|
-|18|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|182.252.70.220|8082|Bangladesh|Kāfrul|Agni Systems Limited|
+|2|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|103.70.93.78|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|4|103.84.177.30|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|5|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|6|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|9|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|45.88.192.56|8080|United States|Los Angeles|DM-HK|
+|12|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|13|103.187.164.66|8080|Indonesia|Jakarta|PT Amanusa Telemedia Mahardika|
+|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|15|190.110.34.24|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|16|24.152.58.132|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
+|17|38.252.216.20|999|Peru|Lima|Telcom Mikrotik Peru S.A.C.|
+|18|187.1.57.222|8080|Brazil|Nova Lima|Companhia Itabirana Telecomunicações Ltda|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
