@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|6|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|7|182.16.88.210|3129|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|8|213.32.104.189|8080|Spain|Madrid|OVH SAS|
-|9|152.26.229.47|9443|United States|Concord|MCNC|
-|10|72.10.164.178|18079|Canada|Montreal|GloboTech Communications|
-|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|72.10.164.178|18079|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.93|13147|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.173|7669|Canada|Montreal|GloboTech Communications|
-|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|16|46.161.194.88|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|17|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|72.10.164.178|18079|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.254|23043|Canada|Montreal|GloboTech Communications|
-|20|180.191.16.174|8082|Philippines|Cabanatuan City|Globe Telecom|
+|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|2|115.78.10.226|4444|Vietnam|Ho Chi Minh City|VIETELftth|
+|3|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|5|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|6|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|7|152.26.229.47|9443|United States|Concord|MCNC|
+|8|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|72.10.164.178|17009|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.93|13147|Canada|Montreal|GloboTech Communications|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|67.43.227.228|24805|Canada|Montreal|GloboTech Communications|
+|13|160.248.187.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|103.165.155.254|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|15|103.168.44.105|3127|Indonesia|Jakarta|PT CYB Media Group|
+|16|122.50.6.186|80|Indonesia|Jakarta Pusat|PT Mora Telematika Indonesia|
+|17|72.10.164.178|17009|Canada|Montreal|GloboTech Communications|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|152.26.231.94|9443|United States|Concord|MCNC|
+|20|72.10.164.178|17009|Canada|Montreal|GloboTech Communications|
 
 
 
