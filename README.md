@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|1.20.203.43|8080|Thailand|Surat Thani|TOT Public Company Limited|
-|5|96.18.6.140|8080|United States|Parsons|CABLE ONE, INC.|
-|6|103.143.169.121|84|India|Hyderabad|Aspt Networks Pvt Ltd|
-|7|96.18.6.140|8080|United States|Parsons|CABLE ONE, INC.|
-|8|43.167.240.127|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|9|110.78.172.200|8080|Thailand|Bangkok|CAT-BB|
-|10|151.245.236.178|3128|Iran|Tehran|SHATEL Network|
-|11|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|12|38.183.144.117|1111|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|13|152.26.231.83|9443|United States|Concord|MCNC|
-|14|58.136.90.17|8080|Thailand|Ratchathewi|AIS-Fibre|
-|15|152.26.231.86|9443|United States|Concord|MCNC|
-|16|72.10.160.174|24361|Canada|Montreal|GloboTech Communications|
-|17|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|18|152.26.231.42|9443|United States|Concord|MCNC|
-|19|126.209.13.226|8082|Philippines|Manila|Infinivan Incorporated|
-|20|152.26.229.47|9443|United States|Concord|MCNC|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|96.18.6.140|8080|United States|Parsons|CABLE ONE, INC.|
+|4|96.18.6.140|8080|United States|Parsons|CABLE ONE, INC.|
+|5|43.167.240.127|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|6|126.209.13.226|8082|Philippines|Manila|Infinivan Incorporated|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|198.160.7.15|80|United States|Burlington|Perfecto Mobile Inc|
+|10|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|11|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|12|152.26.231.83|9443|United States|Concord|MCNC|
+|13|152.26.231.86|9443|United States|Concord|MCNC|
+|14|152.26.231.42|9443|United States|Concord|MCNC|
+|15|36.239.72.210|8080|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|16|152.26.229.47|9443|United States|Concord|MCNC|
+|17|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|212.110.188.207|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|20|198.160.7.15|80|United States|Burlington|Perfecto Mobile Inc|
 
 
 
