@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|560|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|560|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|560|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|535|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|535|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|535|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|160.248.11.209|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|5|203.190.46.131|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|63.250.56.200|1081|Netherlands|Amsterdam|Kamatera Inc|
-|9|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
-|10|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|13|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|14|116.111.123.96|10001|Vietnam|Hanoi|Viettel Corporation|
-|15|103.248.9.206|3127|Indonesia|Babakangarut|PT Flashnet Inovasi Teknologi|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|103.39.50.228|9090|Indonesia|Kuningan Barat|PT. Mega Mentari Mandiri|
-|18|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|177.93.51.212|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|20|36.94.185.122|60080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|5|104.236.78.102|3128|United States|Clifton|DigitalOcean, LLC|
+|6|103.76.150.175|8080|Indonesia|Ponorogo|PT. Java Digital Nusantara|
+|7|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|159.65.237.225|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|103.133.25.57|3125|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|14|104.236.78.102|3128|United States|Clifton|DigitalOcean, LLC|
+|15|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|181.114.61.17|8085|Argentina|Ramallo|INTERAIR|
+|17|160.16.109.252|18080|Japan|Tokyo|SAKURA Internet Inc.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|20|103.131.232.126|8080|Australia|Goulburn|YLess4U Pty Ltd|
 
 
 
