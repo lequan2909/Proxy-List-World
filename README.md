@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|96.18.6.140|8080|United States|Parsons|CABLE ONE, INC.|
-|3|1.20.203.43|8080|Thailand|Surat Thani|TOT Public Company Limited|
-|4|96.18.6.140|8080|United States|Parsons|CABLE ONE, INC.|
-|5|103.164.235.18|8085|Indonesia|Bandung|PT Bantani Media Utama|
-|6|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|103.7.26.142|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
-|9|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|10|152.26.231.42|9443|United States|Concord|MCNC|
-|11|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|12|152.26.231.86|9443|United States|Concord|MCNC|
-|13|67.43.227.227|17667|Canada|Montreal|GloboTech Communications|
-|14|112.17.10.41|3128|China|Hangzhou|China Mobile Communications Corporation|
-|15|152.26.229.83|9443|United States|Concord|MCNC|
-|16|72.10.164.178|30161|Canada|Montreal|GloboTech Communications|
-|17|51.222.142.100|9595|Canada|Beauharnois|OVH SAS|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|72.10.164.178|30161|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.91|32057|Canada|Montreal|GloboTech Communications|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|96.18.6.140|8080|United States|Parsons|CABLE ONE, INC.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|59.152.104.29|8080|Bangladesh|Dhaka|Earth Telecommunication ( pvt ) Limited|
+|6|96.18.6.140|8080|United States|Parsons|CABLE ONE, INC.|
+|7|103.164.235.18|8085|Indonesia|Bandung|PT Bantani Media Utama|
+|8|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|152.26.231.42|9443|United States|Concord|MCNC|
+|10|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|11|152.26.231.86|9443|United States|Concord|MCNC|
+|12|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|152.26.229.83|9443|United States|Concord|MCNC|
+|14|152.26.229.86|9443|United States|Concord|MCNC|
+|15|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|16|51.222.142.100|9595|Canada|Beauharnois|OVH SAS|
+|17|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|18|103.154.25.94|8080|Indonesia|Selong|HIJRAHNET|
+|19|67.43.227.227|17667|Canada|Montreal|GloboTech Communications|
+|20|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
 
 
 
