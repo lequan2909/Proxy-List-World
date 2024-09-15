@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|2|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|103.165.156.148|8090|Indonesia|Jember|MEGADATA-ISP|
-|4|201.217.246.212|8080|Argentina|Resistencia|Ecom Chaco S.A.|
-|5|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|6|103.191.165.4|7777|Indonesia|Subang|PT Sakti Wijaya Network|
-|7|63.250.56.200|1081|Netherlands|Amsterdam|Kamatera Inc|
-|8|159.65.237.225|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|10|36.67.7.74|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
-|11|103.17.213.98|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|12|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|103.234.159.5|8080|India|Bengaluru|MWPL|
-|14|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|15|74.62.179.122|8080|United States|Montebello|Charter Communications Inc|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|72.10.164.178|16001|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|104.236.78.102|3128|United States|Clifton|DigitalOcean, LLC|
+|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|8|210.87.125.58|1080|Indonesia|Kediri|CV Brawijaya Giga Network|
+|9|103.126.86.17|3127|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
+|10|58.69.208.148|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|11|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|119.148.54.78|1419|Bangladesh|Dhaka|Agni Systems Limited|
+|13|103.89.15.158|1085|United States|Dallas|Kamatera|
+|14|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|17|72.10.164.178|16001|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
 |19|72.10.164.178|16001|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
