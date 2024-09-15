@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|36.229.157.39|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
 |3|103.189.123.110|8080|Indonesia|Jakarta|PT Ikhlas Cipta Teknologi|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |5|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|115.78.10.226|4444|Vietnam|Ho Chi Minh City|VIETELftth|
-|8|195.123.240.138|7777|United States|Los Angeles|Green Floid LLC|
-|9|167.235.185.47|6969|Germany|Falkenstein|Hetzner Online GmbH|
-|10|212.110.188.202|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|11|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|84.53.245.42|41258|Russia|Vladimir|Elcom ISP|
-|13|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|14|179.49.237.12|999|Chile|Santiago|Sitelco SPA|
-|15|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|190.242.125.186|8080|Colombia|Santiago de Cali|Liberty Networks De Colombia|
-|18|103.231.200.229|3128|Indonesia|Bekasi|PT. Berdikari Prima Mandiri|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|152.26.231.83|9443|United States|Concord|MCNC|
+|6|115.78.10.226|4444|Vietnam|Ho Chi Minh City|VIETELftth|
+|7|103.102.12.89|8081|Indonesia|Rembangan|FISNET|
+|8|212.110.188.202|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|9|103.84.176.45|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|10|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|11|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|12|24.192.227.234|8080|United States|Albion|WideOpenWest Finance LLC|
+|13|186.125.218.153|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|14|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|112.198.179.57|8082|Philippines|Carmona|Globe Telecom|
+|16|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|103.48.68.30|83|India|Hyderabad|Country Online Services PVT LTD|
+|18|152.26.231.83|9443|United States|Concord|MCNC|
+|19|187.245.214.7|999|Mexico|Comitán|Mega Cable, S.A. de C.V.|
+|20|191.97.96.86|8080|Argentina|General Roca|Vision NET|
 
 
 
