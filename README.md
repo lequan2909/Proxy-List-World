@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.156.16.243|8080|Indonesia|Jakarta|RSTNET|
-|2|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|3|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|27.147.217.102|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|6|183.80.111.55|8080|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|7|103.153.62.155|8080|Indonesia|Jakarta|IMEDIANET|
-|8|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|9|171.245.124.68|5000|Vietnam|Ha Long|Viettel Corporation|
-|10|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|11|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|36.93.129.73|8080|Indonesia|Pabuaran|Telekomunikasi Indonesia|
-|14|152.26.229.93|9443|United States|Concord|MCNC|
-|15|67.43.227.229|21291|Canada|Montreal|GloboTech Communications|
-|16|152.26.231.94|9443|United States|Concord|MCNC|
-|17|103.27.22.65|32650|Pakistan|Lahore|Supernet|
-|18|72.10.164.178|7443|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.47|9443|United States|Concord|MCNC|
-|20|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|171.245.124.68|5000|Vietnam|Ha Long|Viettel Corporation|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
+|7|38.156.72.86|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|8|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|9|117.68.38.180|27391|China|Hefei|China Telecom|
+|10|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|152.26.229.93|9443|United States|Concord|MCNC|
+|12|152.26.231.94|9443|United States|Concord|MCNC|
+|13|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|14|152.26.229.47|9443|United States|Concord|MCNC|
+|15|72.10.164.178|5409|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.229|21291|Canada|Montreal|GloboTech Communications|
+|17|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|72.10.160.90|6121|Canada|Montreal|GloboTech Communications|
+|19|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|72.10.164.178|5409|Canada|Montreal|GloboTech Communications|
 
 
 
