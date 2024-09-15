@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|428|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|428|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|428|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|124.105.48.232|8082|Philippines|Caloocan City|Philippine Long Distance Telephone Co.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|103.245.16.222|8888|Indonesia|Depok|PT Quantum Tera Network|
-|4|103.84.177.30|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|5|103.26.110.125|84|India|Chennai|Niss Networks|
-|6|103.217.224.36|3127|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|7|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|8|81.94.135.202|1256|Russia|Moscow|WEST-CALL|
-|9|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|181.39.24.157|999|Ecuador|Guayaquil|Telconet S.A|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|13|38.9.56.70|8080|India|Chennai|Microsense Private Limited|
-|14|181.114.7.114|999|Guatemala|Guatemala City|Columbus Networks Guatemala|
-|15|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|16|36.64.162.194|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|201.77.48.147|8080|Peru|Lima region|Telcom Mikrotik Peru S.A.C.|
-|19|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|20|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
+|6|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|177.234.227.147|999|Ecuador|Manta|Ufinet Panama S.A.|
+|8|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|9|103.84.177.30|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|10|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|38.9.56.70|8080|India|Chennai|Microsense Private Limited|
+|12|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|13|150.136.170.150|8090|United States|Ashburn|Oracle Corporation|
+|14|47.51.51.190|8080|United States|Glendale|Charter Communications|
+|15|103.245.16.222|8888|Indonesia|Depok|PT Quantum Tera Network|
+|16|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|17|198.91.163.172|808|Canada|Richmond Hill|Distributel Communications Limited|
+|18|43.229.225.210|3128|India|Bhopal|Auspice Infratel Pvt. Ltd.|
+|19|95.111.239.49|3128|Germany|Nuremberg|Contabo GmbH|
+|20|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
