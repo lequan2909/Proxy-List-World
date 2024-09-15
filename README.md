@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5129** proxies at the latest update. Usable proxies are below.
+> Scraper found **5270** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|66|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|727|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|69|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|865|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|377|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3001|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
-|4|103.144.18.49|8080|Indonesia|Jember|PT Gasatek Bintang Nusantara|
-|5|101.255.166.185|8080|Indonesia|Bekasi|PT Remala Abadi|
-|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|7|60.48.93.7|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|8|52.221.205.90|3128|Singapore|Singapore|Amazon.com, Inc.|
-|9|175.100.92.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|10|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|152.26.229.34|9443|United States|Concord|MCNC|
-|13|72.10.160.90|32715|Canada|Montreal|GloboTech Communications|
-|14|180.178.34.155|3129|Hong Kong|Cheung Sha Wan|SIMCENTRIC|
-|15|201.234.186.234|999|Colombia|Bogotá|Level 3 Colombia S.A|
-|16|46.161.194.88|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|17|180.178.34.156|3129|Hong Kong|Cheung Sha Wan|SIMCENTRIC|
-|18|72.10.164.178|31693|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|67.43.227.228|11567|Canada|Montreal|GloboTech Communications|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|58.27.218.28|3128|Pakistan|Lahore|Wateen Telecom Limited|
+|4|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|5|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
+|6|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|7|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|8|60.48.93.7|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|9|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|11|67.43.227.229|30245|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|17793|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|17793|Canada|Montreal|GloboTech Communications|
+|14|152.26.231.42|9443|United States|Concord|MCNC|
+|15|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|67.43.228.253|8905|Canada|Montreal|GloboTech Communications|
+|17|201.234.186.234|999|Colombia|Bogotá|Level 3 Colombia S.A|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|72.10.164.178|17793|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|26437|Canada|Montreal|GloboTech Communications|
 
 
 
