@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|418|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|418|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|418|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|431|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|431|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|431|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|7|103.87.169.155|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|8|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|9|103.211.107.230|8080|Indonesia|Lampung|PT Atmega Telecomindo Nusantara|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|27.74.251.99|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|13|67.43.227.228|13199|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|3047|Canada|Montreal|GloboTech Communications|
-|15|152.26.231.86|9443|United States|Concord|MCNC|
+|7|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|61.19.109.236|8080|Thailand|Vadhana|CAT-ISP|
+|9|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|10|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|11|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
 |16|72.10.164.178|3047|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|3047|Canada|Montreal|GloboTech Communications|
-|18|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|19|67.43.227.226|4055|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|152.26.231.86|9443|United States|Concord|MCNC|
+|18|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|72.10.164.178|3047|Canada|Montreal|GloboTech Communications|
 
 
 
