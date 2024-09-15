@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|91.109.157.246|8080|Russia|Kaliningrad|TIS Dialog LLC|
-|3|115.78.10.226|4444|Vietnam|Ho Chi Minh City|VIETELftth|
-|4|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|103.93.93.130|8181|Indonesia|Wedoro|MYRISE|
+|1|115.78.10.226|4444|Vietnam|Ho Chi Minh City|VIETELftth|
+|2|103.165.155.171|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|3|91.109.157.246|8080|Russia|Kaliningrad|TIS Dialog LLC|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|5|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
 |6|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |7|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|10|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|11|152.26.229.46|9443|United States|Concord|MCNC|
-|12|152.26.231.42|9443|United States|Concord|MCNC|
-|13|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|14|152.26.229.34|9443|United States|Concord|MCNC|
-|15|67.43.236.20|21563|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|23495|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|28359|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|28359|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.171|14929|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|14931|Canada|Montreal|GloboTech Communications|
+|8|152.26.231.42|9443|United States|Concord|MCNC|
+|9|152.26.229.46|9443|United States|Concord|MCNC|
+|10|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|11|38.156.75.18|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|61.247.34.98|8080|Indonesia|Jakarta|Linknet-Fastnet ASN|
+|13|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|14|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|15|152.26.229.34|9443|United States|Concord|MCNC|
+|16|45.6.102.31|8080|Brazil|Rio de Janeiro|Golden Link|
+|17|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|18|152.26.229.86|9443|United States|Concord|MCNC|
+|19|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
 
 
 
