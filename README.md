@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|52.221.205.90|3128|Singapore|Singapore|Amazon.com, Inc.|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|4.158.237.61|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|72.10.164.178|4853|Canada|Montreal|GloboTech Communications|
-|6|152.26.229.46|9443|United States|Concord|MCNC|
-|7|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|9|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|10|72.10.164.178|4853|Canada|Montreal|GloboTech Communications|
-|11|152.26.231.94|9443|United States|Concord|MCNC|
-|12|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|152.26.231.86|9443|United States|Concord|MCNC|
-|15|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|16|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|17|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|72.10.160.94|29019|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.93|9443|United States|Concord|MCNC|
-|20|72.10.160.90|19217|Canada|Montreal|GloboTech Communications|
+|2|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|3|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|152.26.229.46|9443|United States|Concord|MCNC|
+|5|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|152.26.231.94|9443|United States|Concord|MCNC|
+|7|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|152.26.231.86|9443|United States|Concord|MCNC|
+|9|152.26.231.93|9443|United States|Concord|MCNC|
+|10|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|11|152.26.229.86|9443|United States|Concord|MCNC|
+|12|52.221.205.90|3128|Singapore|Singapore|Amazon.com, Inc.|
+|13|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
+|15|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|67.43.236.20|27519|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|72.10.160.170|8003|Canada|Montreal|GloboTech Communications|
+|20|46.161.194.88|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
 
 
 
