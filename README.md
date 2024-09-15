@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|452|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|452|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|452|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.104.90.218|5102|Vietnam|Hanoi|Viettel Corporation|
-|3|4.158.61.174|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
-|5|115.78.10.226|4444|Vietnam|Ho Chi Minh City|VIETELftth|
-|6|202.47.88.38|3127|Indonesia|Jombang|PT. Java Digital Nusantara|
-|7|195.191.158.172|80|Russia|Ramenskoye|Intelsc Ltd.|
-|8|223.206.52.56|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|11|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
-|12|103.83.0.62|8085|Indonesia|Lamongan|PT Kia Integrasi Akses|
-|13|4.159.28.85|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|45.112.127.222|8181|Indonesia|South Tangerang|FIBERNET|
-|15|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
-|16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|103.165.218.234|8085|Indonesia|Jakarta|PT iForte Global Internet|
-|18|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|19|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|20|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|5|103.102.12.89|8081|Indonesia|Rembangan|FISNET|
+|6|177.93.60.70|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|7|115.78.10.226|4444|Vietnam|Ho Chi Minh City|VIETELftth|
+|8|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|9|103.234.159.5|8080|India|Bengaluru|MWPL|
+|10|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|12|72.10.164.178|9571|Canada|Montreal|GloboTech Communications|
+|13|27.74.251.99|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|14|103.44.19.217|1111|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
+|15|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|14.139.57.195|23500|India|Lucknow|National Knowledge Network|
+|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|72.10.160.90|16129|Canada|Montreal|GloboTech Communications|
+|20|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
