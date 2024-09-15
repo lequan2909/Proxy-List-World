@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|99.8.168.181|32770|United States|Roseville|AT&T Services, Inc.|
-|4|58.136.243.75|8080|Thailand|Bangkok|AIS-Fibre|
-|5|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|7|43.167.241.105|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|8|206.237.98.234|1024|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|9|43.167.240.225|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|10|1.32.59.217|47045|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|11|116.110.51.239|33732|Vietnam|Da Nang|Viettel Corporation|
-|12|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|3|117.0.180.158|5000|Vietnam|Tuyên Quang|Viettel Group|
+|4|103.87.169.206|56642|India|Jaipur|Tejays Industries Pvt Ltd|
+|5|103.42.242.45|3125|Indonesia|Tangerang|PT. Jet Cyber Network Nusantara|
+|6|103.195.65.209|8080|Indonesia|Tigaraksa|Indonesia Network Information Center|
+|7|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|9|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|10|36.37.146.119|32650|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|11|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|12|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
 |13|152.26.231.94|9443|United States|Concord|MCNC|
-|14|152.26.229.86|9443|United States|Concord|MCNC|
-|15|67.43.227.228|16631|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|13939|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.171|23409|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.91|21951|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.230|16043|Canada|Montreal|GloboTech Communications|
-|20|115.223.31.36|24042|China|Wenzhou|China Telecom|
+|14|103.48.68.218|84|India|Hyderabad|Country Online Services PVT LTD|
+|15|41.139.233.5|8080|Kenya|Nairobi|Converged services Coast|
+|16|192.145.205.97|8080|Brazil|São Francisco|Vianet Guaraciama Eireli ME|
+|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|18|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|113.240.99.148|65007|China|Qingyuan|No.293, Wanbao Avenue|
 
 
 
