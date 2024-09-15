@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|424|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|424|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|424|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|103.125.38.82|8080|Indonesia|Surabaya|PT. Eka Mas Republik|
-|4|116.98.127.170|47782|Vietnam|Bắc Ninh|Viettel Corporation|
-|5|41.111.187.214|80|Algeria|Belcourt|Algerie Telecom|
-|6|164.92.167.4|1194|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|171.224.254.139|59249|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|8|116.254.118.162|8080|Indonesia|Yogyakarta|PT Media Sarana Data|
-|9|103.147.134.253|1111|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
-|10|103.172.254.145|84|India|Hyderabad|Willaegis Online Private Limited|
-|11|203.150.128.228|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|12|103.53.79.115|8086|Indonesia|Jakarta|INTI|
-|13|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|14|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|16|152.26.229.46|9443|United States|Concord|MCNC|
-|17|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|92.204.163.211|8886|France|Strasbourg|velia.net Internetdienste GmbH|
+|1|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|6|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|7|152.26.229.46|9443|United States|Concord|MCNC|
+|8|72.10.164.178|18965|Canada|Montreal|GloboTech Communications|
+|9|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|10|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|11|152.26.229.86|9443|United States|Concord|MCNC|
+|12|85.172.174.26|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|13|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|15|67.43.236.20|26177|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|26177|Canada|Montreal|GloboTech Communications|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |19|72.10.164.178|18965|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|4821|Canada|Montreal|GloboTech Communications|
+|20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
 
