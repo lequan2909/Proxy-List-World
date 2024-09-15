@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|103.158.253.29|8382|Indonesia|Brebes|Rapid Network|
-|5|49.48.90.111|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|6|18.163.196.214|8888|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|7|101.255.209.146|8080|Indonesia|Jakarta|PT Remala Abadi|
-|8|8.216.90.236|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|9|36.64.27.57|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|10|192.203.0.78|999|Puerto Rico|Fajardo|Boom NET|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|212.110.188.211|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|13|49.49.136.40|8080|Thailand|Prachin Buri|Triple T Broadband Public Company Limited|
-|14|152.26.231.42|9443|United States|Concord|MCNC|
-|15|72.10.160.90|30969|Canada|Montreal|GloboTech Communications|
-|16|18.167.173.178|8888|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|17|36.73.81.114|8080|Indonesia|Yogyakarta|Telekomunikasi Indonesia|
-|18|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|19|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|27.65.48.41|5102|Vietnam|Ho Chi Minh City|Viettel Group|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|6|103.189.197.83|8181|Indonesia|Serang|PT Graha Sumber Teknologi|
+|7|167.71.212.240|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|103.170.62.7|8080|India|Aizawl|Hyosec Solutions Private Limited|
+|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|10|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|11|27.65.48.41|5102|Vietnam|Ho Chi Minh City|Viettel Group|
+|12|152.26.231.42|9443|United States|Concord|MCNC|
+|13|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|15|152.26.229.47|9443|United States|Concord|MCNC|
+|16|72.10.160.90|30969|Canada|Montreal|GloboTech Communications|
+|17|103.167.170.210|7777|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|152.26.229.34|9443|United States|Concord|MCNC|
+|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
