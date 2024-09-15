@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|481|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|481|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|481|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|408|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|408|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|408|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|202.179.184.67|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|3|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|201.71.3.45|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|5|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
-|6|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|177.36.14.137|8080|Brazil|Limoeiro|1telecom Servicos De Tecnologia EM Internet Ltda|
-|8|181.39.24.157|999|Ecuador|Guayaquil|Telconet S.A|
-|9|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
-|10|81.94.135.202|1256|Russia|Moscow|WEST-CALL|
-|11|103.70.93.78|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
-|12|103.26.110.125|84|India|Chennai|Niss Networks|
-|13|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|14|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|15|103.177.10.139|8080|Indonesia|Tulungagung|PT Nalendra Gigantara Media|
-|16|179.42.72.186|85|Brazil|São Paulo|Giga Sul Telecom|
-|17|176.110.121.90|21776|Russia|Moscow|Teraline Telecom Ltd|
-|18|103.245.16.222|8888|Indonesia|Depok|PT Quantum Tera Network|
-|19|182.252.70.220|8082|Bangladesh|Kāfrul|Agni Systems Limited|
-|20|103.226.232.206|3125|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
+|1|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|2|86.109.3.28|80|United States|Chicago|Packet Host, Inc.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|5|47.90.95.31|8118|Hong Kong|Hong Kong|Alibaba.com LLC|
+|6|63.250.56.200|1081|Netherlands|Amsterdam|Kamatera Inc|
+|7|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
+|8|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|9|114.130.153.46|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|10|185.200.38.99|1080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|190.60.45.211|8080|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
+|12|103.53.170.199|3128|Vietnam|Ô Chợ Dừa|VCIC|
+|13|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|14|103.35.108.129|5020|Bangladesh|Dhaka|Ranks ITT|
+|15|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|16|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
+|17|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|18|181.78.22.109|999|Colombia|Astrea|IFX Networks Argentina S.R.L|
+|19|103.231.239.137|58080|Bangladesh|Dhaka|Carnival Internet|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
