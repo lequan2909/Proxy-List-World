@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|165.16.55.19|44444|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|4|168.197.130.129|8878|Brazil|Piripiri|Fillnet Com. e Ser. LTDA|
-|5|221.146.37.137|3128|South Korea|Wŏnju|Korea Telecom|
-|6|45.71.184.197|999|Ecuador|Naranjito|Ufinet Panama S.A.|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|9|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|11|152.26.229.86|9443|United States|Concord|MCNC|
-|12|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|152.26.231.94|9443|United States|Concord|MCNC|
-|17|152.26.231.83|9443|United States|Concord|MCNC|
-|18|103.154.117.186|8080|Indonesia|Jakarta|MORATELINDONAP|
-|19|67.43.236.19|19521|Canada|Montreal|GloboTech Communications|
-|20|103.165.155.107|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|3|221.146.37.137|3128|South Korea|Wŏnju|Korea Telecom|
+|4|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|5|58.11.15.192|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|8|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|152.26.229.86|9443|United States|Concord|MCNC|
+|11|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|12|152.26.231.94|9443|United States|Concord|MCNC|
+|13|152.26.231.83|9443|United States|Concord|MCNC|
+|14|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|152.26.229.42|9443|United States|Concord|MCNC|
+|16|168.197.130.129|8878|Brazil|Piripiri|Fillnet Com. e Ser. LTDA|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
+|18|67.43.227.229|8045|Canada|Montreal|GloboTech Communications|
+|19|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|67.43.236.19|9915|Canada|Montreal|GloboTech Communications|
 
 
 
