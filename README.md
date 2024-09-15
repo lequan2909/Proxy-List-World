@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|1.20.203.43|8080|Thailand|Surat Thani|TOT Public Company Limited|
-|3|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|4|43.243.141.12|8080|Indonesia|Pisangan|CEPATNET|
-|5|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|8|72.10.164.178|27055|Canada|Montreal|GloboTech Communications|
-|9|27.74.121.203|5102|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|10|67.43.228.250|6319|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|1.20.203.43|8080|Thailand|Surat Thani|TOT Public Company Limited|
+|4|190.71.251.106|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|5|200.170.253.122|8087|Brazil|Cachoeirinha|Telium Telecomunicações Ltda|
+|6|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|7|103.164.235.18|8085|Indonesia|Bandung|PT Bantani Media Utama|
+|8|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|103.7.26.142|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
+|10|72.10.164.178|2861|Canada|Montreal|GloboTech Communications|
 |11|152.26.229.46|9443|United States|Concord|MCNC|
-|12|72.10.164.178|27055|Canada|Montreal|GloboTech Communications|
-|13|43.167.241.243|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|14|67.43.227.228|32485|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|19513|Canada|Montreal|GloboTech Communications|
-|16|92.204.163.211|8887|France|Strasbourg|velia.net Internetdienste GmbH|
+|12|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
+|13|72.10.164.178|2861|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|9885|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|2861|Canada|Montreal|GloboTech Communications|
+|16|212.110.188.207|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
 |17|198.244.231.83|8888|United Kingdom|London|OVH SAS|
 |18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|72.10.164.178|27055|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|16141|Canada|Montreal|GloboTech Communications|
+|19|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|20|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
 
 
 
