@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
 |3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|170.0.231.254|999|Mexico|Toluca|EJA TELECOMM S DE RL|
+|4|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |5|152.26.229.47|9443|United States|Concord|MCNC|
-|6|152.26.229.83|9443|United States|Concord|MCNC|
-|7|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|8|152.26.229.34|9443|United States|Concord|MCNC|
-|9|152.26.231.42|9443|United States|Concord|MCNC|
-|10|152.26.231.86|9443|United States|Concord|MCNC|
+|6|152.26.231.42|9443|United States|Concord|MCNC|
+|7|152.26.229.34|9443|United States|Concord|MCNC|
+|8|152.26.231.94|9443|United States|Concord|MCNC|
+|9|152.26.231.86|9443|United States|Concord|MCNC|
+|10|152.26.229.83|9443|United States|Concord|MCNC|
 |11|167.86.99.29|3128|Germany|Nuremberg|Contabo GmbH|
-|12|152.26.229.93|9443|United States|Concord|MCNC|
-|13|67.43.228.253|23183|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|15465|Canada|Montreal|GloboTech Communications|
-|15|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|16|152.26.231.94|9443|United States|Concord|MCNC|
-|17|117.68.38.133|20147|China|Hefei|China Telecom|
-|18|72.10.164.178|15465|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.93|9443|United States|Concord|MCNC|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|12|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|13|152.26.229.93|9443|United States|Concord|MCNC|
+|14|72.10.164.178|30005|Canada|Montreal|GloboTech Communications|
+|15|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|72.10.164.178|30005|Canada|Montreal|GloboTech Communications|
+|17|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|152.26.231.93|9443|United States|Concord|MCNC|
+|19|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
 
 
 
