@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|182.16.88.210|3129|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|5|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|4.159.119.116|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|4.158.2.131|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|9|152.26.229.93|9443|United States|Concord|MCNC|
-|10|152.26.231.42|9443|United States|Concord|MCNC|
-|11|152.26.229.34|9443|United States|Concord|MCNC|
-|12|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|152.26.229.47|9443|United States|Concord|MCNC|
-|14|72.10.160.171|3075|Canada|Montreal|GloboTech Communications|
-|15|188.132.222.3|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|67.43.227.227|31417|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.252|15239|Canada|Montreal|GloboTech Communications|
-|18|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|19|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|152.26.231.94|9443|United States|Concord|MCNC|
+|1|27.73.162.3|5101|Vietnam|Ha Long|Newass2011xDSLHN|
+|2|52.221.205.90|3128|Singapore|Singapore|Amazon.com, Inc.|
+|3|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|152.26.229.93|9443|United States|Concord|MCNC|
+|7|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|8|152.26.231.42|9443|United States|Concord|MCNC|
+|9|152.26.229.34|9443|United States|Concord|MCNC|
+|10|152.26.229.47|9443|United States|Concord|MCNC|
+|11|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|14|152.26.231.94|9443|United States|Concord|MCNC|
+|15|183.102.65.250|8080|South Korea|Gangseo-gu|Korea Telecom|
+|16|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|17|67.43.227.228|8157|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|26975|Canada|Montreal|GloboTech Communications|
+|19|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|20|37.79.168.39|8080|Russia|Perm|Rostelecom networks|
 
 
 
