@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|43.167.240.169|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.167.240.63|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|6|45.55.57.204|443|United States|Clifton|DigitalOcean, LLC|
-|7|152.26.229.86|9443|United States|Concord|MCNC|
-|8|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|9|159.223.158.242|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|11|72.10.164.178|12113|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|33137|Canada|Montreal|GloboTech Communications|
-|13|194.140.198.23|80|United States|Orangeburg|Nubes, LLC|
-|14|72.10.160.91|1865|Canada|Montreal|GloboTech Communications|
-|15|181.78.82.211|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|16|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
-|17|72.10.164.178|12113|Canada|Montreal|GloboTech Communications|
-|18|86.109.3.28|10005|United States|Chicago|Packet Host, Inc.|
-|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|20|152.26.229.42|9443|United States|Concord|MCNC|
+|3|204.157.251.154|999|Dominican Republic|El Factor|Sequre Networks SRL|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|152.26.229.86|9443|United States|Concord|MCNC|
+|7|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|8|72.10.160.91|17215|Canada|Montreal|GloboTech Communications|
+|9|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|10|118.117.189.173|8089|China|Muping|Chinanet|
+|11|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|12|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|13|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
+|15|36.64.27.57|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|16|200.39.120.44|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|17|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|200.39.120.43|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|20|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
