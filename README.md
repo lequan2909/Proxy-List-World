@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|20.26.96.65|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|103.39.50.228|9090|Indonesia|Kuningan Barat|PT. Mega Mentari Mandiri|
-|4|152.26.229.34|9443|United States|Concord|MCNC|
-|5|152.26.229.86|9443|United States|Concord|MCNC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|4.159.29.241|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |6|152.26.229.93|9443|United States|Concord|MCNC|
-|7|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|152.26.229.34|9443|United States|Concord|MCNC|
 |8|152.26.231.42|9443|United States|Concord|MCNC|
-|9|168.197.130.129|8878|Brazil|Piripiri|Fillnet Com. e Ser. LTDA|
-|10|67.43.227.227|20063|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.254|6755|Canada|Montreal|GloboTech Communications|
+|9|152.26.229.86|9443|United States|Concord|MCNC|
+|10|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|72.10.164.178|30275|Canada|Montreal|GloboTech Communications|
 |12|72.10.164.178|30275|Canada|Montreal|GloboTech Communications|
-|13|58.147.186.214|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
-|14|72.10.164.178|30275|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.91|32987|Canada|Montreal|GloboTech Communications|
-|16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|72.10.160.92|31751|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.173|2721|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|11579|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|11579|Canada|Montreal|GloboTech Communications|
+|13|152.26.231.93|9443|United States|Concord|MCNC|
+|14|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|15|72.10.160.90|11579|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.92|29695|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|11579|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|67.43.228.254|6755|Canada|Montreal|GloboTech Communications|
 
 
 
