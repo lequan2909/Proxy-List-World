@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.98.127.170|47782|Vietnam|Bắc Ninh|Viettel Corporation|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|103.124.138.149|8080|Indonesia|Adiwerna|Global Media Data Prima|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|103.165.157.167|8080|Indonesia|Purbalingga|MEGADATA-ISP|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|103.87.169.206|56642|India|Jaipur|Tejays Industries Pvt Ltd|
+|5|103.122.1.74|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
+|6|103.184.54.62|3128|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|7|119.47.90.221|8080|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|8|38.159.227.75|999|Dominican Republic|Guerra|TELECABLE DOMINICANO, S.A.|
+|9|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
 |10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|67.43.236.20|5921|Canada|Montreal|GloboTech Communications|
-|12|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|13|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
-|14|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
-|15|67.43.228.253|1385|Canada|Montreal|GloboTech Communications|
-|16|182.253.112.194|8080|Indonesia|Weleri|BIZNET|
-|17|72.10.164.178|10241|Canada|Montreal|GloboTech Communications|
-|18|58.240.211.250|7890|China|Suzhou|CNC Group Jiangsu province network|
-|19|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|72.10.164.178|10241|Canada|Montreal|GloboTech Communications|
+|11|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|12|18.167.173.178|8888|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|13|58.240.211.250|7890|China|Suzhou|CNC Group Jiangsu province network|
+|14|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|67.43.228.253|20261|Canada|Montreal|GloboTech Communications|
+|18|103.89.233.226|83|India|Mangalore|Deenet Services Pvt. Ltd|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|152.26.229.34|9443|United States|Concord|MCNC|
 
 
 
