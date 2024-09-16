@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|4|200.37.187.60|999|Peru|Huancavelica|Telefonica del Peru S.A.A.|
-|5|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|200.37.187.60|999|Peru|Huancavelica|Telefonica del Peru S.A.A.|
 |6|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|7|203.29.27.212|7777|Indonesia|Jember|PT Indotrans Data|
-|8|157.10.97.11|8080|Indonesia|Bengkulu|PT Lintas Jaringan Nusantara|
-|9|177.93.16.66|8080|Costa Rica|San José|Telecable Economico S.A|
-|10|85.15.94.15|7541|Russia|Khabarovsk|Vostoktelecom Telephone Company Limited Liability Company|
-|11|45.117.30.9|58081|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|7|103.148.131.108|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|9|45.174.79.32|999|Mexico|Delicias|Raul Duarte Urita|
+|10|103.87.169.194|56642|India|Jaipur|Tejays Industries Pvt Ltd|
+|11|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
 |12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|14|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|15|152.26.229.42|9443|United States|Concord|MCNC|
-|16|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|17|67.43.227.227|12465|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.22|8575|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.42|9443|United States|Concord|MCNC|
-|20|72.10.164.178|3301|Canada|Montreal|GloboTech Communications|
+|13|152.26.229.42|9443|United States|Concord|MCNC|
+|14|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|15|152.26.231.42|9443|United States|Concord|MCNC|
+|16|72.10.164.178|22839|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.170|13783|Canada|Montreal|GloboTech Communications|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
 
 
 
