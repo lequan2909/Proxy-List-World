@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|428|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|428|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|428|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|416|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|416|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|416|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
-|4|103.160.182.171|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|5|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|6|103.166.158.53|3127|Indonesia|Bekasi|PT Timor Lintas Nusantara|
-|7|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|9|103.48.68.67|83|India|Hyderabad|Country Online Services PVT LTD|
-|10|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|11|24.172.82.94|53281|United States|Concord|Spectrum|
-|12|103.148.48.97|8080|Indonesia|Pontianak|BCMEDIA|
-|13|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|14|1.20.203.43|8080|Thailand|Surat Thani|TOT Public Company Limited|
-|15|38.183.144.117|1111|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|16|181.78.95.49|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|17|122.2.48.121|8080|Philippines|Ormoc City|Philippine Long Distance Telephone Co.|
-|18|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
-|20|72.10.164.178|3821|Canada|Montreal|GloboTech Communications|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|103.182.78.137|1111|Indonesia|Gresik|PT Cybernet Data Multimedia|
+|7|122.2.48.121|8080|Philippines|Ormoc City|Philippine Long Distance Telephone Co.|
+|8|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
+|9|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|10|190.40.234.18|999|Peru|Chiclayo|Telefonica del Peru|
+|11|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|12|103.156.75.40|8181|Indonesia|Gianyar|PT Trika Global Media|
+|13|31.172.79.14|8080|United States|Dallas|FORNEX|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|103.247.83.254|8080|Indonesia|Rantau Panjang|PT Multimedia Data Sentra|
+|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|17|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|5.44.101.53|13128|Germany|Frankfurt am Main|Alvotech GmbH via velia.net|
+|19|103.89.233.226|83|India|Mangalore|Deenet Services Pvt. Ltd|
+|20|115.72.46.96|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
 
 
 
