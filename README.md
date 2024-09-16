@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|122.152.4.131|6000|Japan|Chiyoda|FreeBit Co., Ltd.|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |5|5.39.217.229|1218|The Netherlands|Amsterdam|HOSTKEY|
-|6|103.171.244.45|8088|Indonesia|Madiun|PT Data Arta Sedaya|
-|7|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
-|8|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|10|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|203.190.44.251|8080|Indonesia|Jogonalan|PT Jaring Lintas Utara|
-|12|152.26.231.93|9443|United States|Concord|MCNC|
-|13|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
-|14|152.26.231.42|9443|United States|Concord|MCNC|
-|15|72.10.160.90|8073|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|67.43.227.230|10153|Canada|Montreal|GloboTech Communications|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|103.81.64.52|8080|Indonesia|Bandar Lampung|QIUNET|
-|20|192.99.178.146|9595|Canada|Beauharnois|OVH Hosting|
+|6|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|7|49.48.67.159|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|8|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|9|49.49.148.226|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
+|10|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|11|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
+|13|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|103.179.182.241|8090|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|15|126.209.13.226|8082|Philippines|Manila|Infinivan Incorporated|
+|16|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|17|152.26.231.93|9443|United States|Concord|MCNC|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
