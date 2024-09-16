@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|415|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|415|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|415|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|2|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|3|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|4|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|6|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|7|160.248.187.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|152.26.231.94|9443|United States|Concord|MCNC|
-|9|152.26.231.42|9443|United States|Concord|MCNC|
-|10|152.26.229.46|9443|United States|Concord|MCNC|
-|11|52.4.135.99|443|United States|Ashburn|Amazon.com, Inc.|
-|12|67.43.227.227|2887|Canada|Montreal|GloboTech Communications|
-|13|201.139.121.30|3128|Mexico|Puebla City|Kiwi Networks S A P I de CV|
-|14|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
-|15|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
-|16|67.43.227.229|8697|Canada|Montreal|GloboTech Communications|
-|17|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|72.10.160.174|7481|Canada|Montreal|GloboTech Communications|
-|19|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|20|72.10.164.178|32827|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|3|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|4|5.39.217.229|1218|The Netherlands|Amsterdam|HOSTKEY|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|103.190.113.114|8080|Indonesia|Grobogan|PT Linkbit Inovasi Teknologi|
+|7|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|160.248.187.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|9|152.26.231.94|9443|United States|Concord|MCNC|
+|10|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|11|152.26.229.46|9443|United States|Concord|MCNC|
+|12|152.26.231.42|9443|United States|Concord|MCNC|
+|13|149.86.137.100|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|14|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|15|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|16|52.4.135.99|443|United States|Ashburn|Amazon.com, Inc.|
+|17|67.43.227.227|1523|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|7037|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|7037|Canada|Montreal|GloboTech Communications|
+|20|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
 
 
 
