@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|36.72.252.71|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|4|160.248.187.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|6|176.106.36.12|8070|Poland|Stara Kuźnia|KRUCZNET Sp. z o.o.|
-|7|203.150.128.236|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|8|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|9|103.153.62.242|8181|Indonesia|Jakarta|IMEDIANET|
-|10|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|11|152.26.231.42|9443|United States|Concord|MCNC|
-|12|152.26.231.93|9443|United States|Concord|MCNC|
-|13|38.253.88.242|999|United States|Miami|LAUAM MEGARED TELECOM, S.R.L.|
-|14|152.26.231.86|9443|United States|Concord|MCNC|
-|15|117.68.38.180|27234|China|Hefei|China Telecom|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|67.43.227.227|28987|Canada|Montreal|GloboTech Communications|
-|18|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|19|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|36.72.252.71|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|2|160.248.187.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|36.72.252.71|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|5|176.106.36.12|8070|Poland|Stara Kuźnia|KRUCZNET Sp. z o.o.|
+|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|36.93.130.218|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|8|152.26.231.42|9443|United States|Concord|MCNC|
+|9|152.26.231.93|9443|United States|Concord|MCNC|
+|10|152.26.231.86|9443|United States|Concord|MCNC|
+|11|152.26.229.86|9443|United States|Concord|MCNC|
+|12|36.72.252.71|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|13|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|152.26.229.34|9443|United States|Concord|MCNC|
+|15|152.26.231.83|9443|United States|Concord|MCNC|
+|16|67.43.227.227|28987|Canada|Montreal|GloboTech Communications|
+|17|160.248.11.209|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
