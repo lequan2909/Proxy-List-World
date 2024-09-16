@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|415|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|415|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|415|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.216.90.236|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|118.99.119.63|8080|Indonesia|Bandar Lampung|Biznet Networks|
-|5|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|110.77.171.72|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|8|43.167.239.248|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|9|45.184.152.81|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
-|10|103.180.123.27|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|11|152.26.229.34|9443|United States|Concord|MCNC|
-|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|13|152.26.229.47|9443|United States|Concord|MCNC|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|152.26.231.83|9443|United States|Concord|MCNC|
-|17|72.10.160.170|18607|Canada|Montreal|GloboTech Communications|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|152.26.229.86|9443|United States|Concord|MCNC|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|118.99.119.63|8080|Indonesia|Bandar Lampung|Biznet Networks|
+|4|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|49.49.90.225|8081|Thailand|Nakhon Phanom|Triple T Broadband Public Company Limited|
+|7|27.72.239.0|5101|Vietnam|Hanoi|Newass2011xDSLHN|
+|8|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|9|103.242.104.43|8090|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|10|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|103.180.123.27|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|12|171.235.144.163|5102|Vietnam|Thu Dau Mot|Viettel Corporation|
+|13|103.133.26.75|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|14|152.26.229.34|9443|United States|Concord|MCNC|
+|15|152.26.229.47|9443|United States|Concord|MCNC|
+|16|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|152.26.231.83|9443|United States|Concord|MCNC|
+|18|152.26.229.86|9443|United States|Concord|MCNC|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
 |20|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
 
 
