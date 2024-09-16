@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6227** proxies at the latest update. Usable proxies are below.
+> Scraper found **5934** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|166|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1069|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|167|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|775|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|428|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3606|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|2|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
-|3|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|159.65.237.225|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|7|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|9|103.163.227.178|8080|Indonesia|Mojokerto|PT.Delta Surya Solusitama|
-|10|72.10.160.170|32215|Canada|Montreal|GloboTech Communications|
-|11|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|182.253.159.9|8080|Indonesia|Bandung|BIZNET|
+|8|103.113.170.230|3128|Indonesia|Jakarta|PT Cloudata Indonesia|
+|9|103.233.156.42|8080|Indonesia|Jakarta Pusat|PT. Mora Telematika Indonesia|
+|10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
 |12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|117.68.38.133|23500|China|Hefei|China Telecom|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|117.102.86.148|8080|Indonesia|Jakarta|BIZNET|
-|16|67.43.236.22|29049|Canada|Montreal|GloboTech Communications|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|67.43.227.228|5633|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|2571|Canada|Montreal|GloboTech Communications|
-|20|45.227.195.121|8082|Brazil|Maravilha|Mhnet Telecom|
+|13|49.51.244.112|8888|United States|San Jose|OPHL|
+|14|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|152.26.229.93|9443|United States|Concord|MCNC|
+|17|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|18|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|19|118.117.189.116|8089|China|Muping|Chinanet|
+|20|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
 
 
 
