@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|140.238.230.215|3128|India|Mumbai|Oracle Corporation|
-|3|91.107.245.17|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|162.55.232.219|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|8.216.90.236|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|7|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|8|116.111.116.106|10013|Vietnam|Hanoi|Viettel Corporation|
-|9|206.189.150.170|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|11|51.158.173.222|3128|France|Paris|Online S.A.S.|
-|12|38.52.221.66|8080|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|13|72.10.160.90|13469|Canada|Montreal|GloboTech Communications|
-|14|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|162.55.232.219|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|31.146.5.178|8080|Georgia|Tbilisi|JSC "Silknet"|
-|18|95.164.37.150|8118|United Kingdom|Coventry|Stark Industries Solutions LTD|
-|19|67.43.228.250|8071|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|27429|Canada|Montreal|GloboTech Communications|
+|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|124.105.48.232|8082|Philippines|Caloocan City|Philippine Long Distance Telephone Co.|
+|5|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|6|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|7|158.140.169.9|8081|Indonesia|Jakarta|MYREPUBLIC|
+|8|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|67.43.228.250|8071|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.253|30269|Canada|Montreal|GloboTech Communications|
+|13|152.26.229.34|9443|United States|Concord|MCNC|
+|14|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|15|72.10.164.178|25077|Canada|Montreal|GloboTech Communications|
+|16|181.204.81.181|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|17|72.10.160.90|6939|Canada|Montreal|GloboTech Communications|
+|18|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
