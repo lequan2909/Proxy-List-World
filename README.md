@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|11|118.175.30.26|8080|Thailand|Lopburi|TOT Public Company Limited|
-|12|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|15|152.26.229.93|9443|United States|Concord|MCNC|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|152.26.231.83|9443|United States|Concord|MCNC|
-|19|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|20|67.43.227.226|6919|Canada|Montreal|GloboTech Communications|
+|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|4|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|164.92.167.4|1194|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|103.87.169.188|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|11|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|13|70.186.128.126|8080|United States|Oklahoma City|Cox Communications Inc.|
+|14|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
+|17|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|18|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|19|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|20|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
