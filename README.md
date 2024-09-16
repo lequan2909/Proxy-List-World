@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|529|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|529|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|529|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|435|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|435|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|435|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|7|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
 |8|61.7.191.20|8080|Thailand|Ao Nang|CAT Telecom Public Company Limited|
-|9|103.87.169.188|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|10|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|11|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|12|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|67.43.236.20|28521|Canada|Montreal|GloboTech Communications|
-|15|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|67.43.236.20|28521|Canada|Montreal|GloboTech Communications|
-|17|103.31.241.210|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
-|18|72.10.164.178|11111|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|28375|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|11111|Canada|Montreal|GloboTech Communications|
+|9|23.137.249.151|8118|The Netherlands|Naaldwijk|IncogNET LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|12|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|13|27.71.161.76|5101|Vietnam|Duy Xuyên|Viettel Group|
+|14|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|15|103.120.175.243|9191|Indonesia|Bekasi|PT. Eka Mas Republik|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|19|103.87.169.188|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|20|103.254.106.78|8085|Indonesia|Lampung|PT Giga Patra Multimedia|
 
 
 
