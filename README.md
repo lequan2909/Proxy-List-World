@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|433|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|433|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|433|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|3|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|4|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|7|185.200.37.121|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|8|103.26.110.110|84|India|Chennai|Niss Networks|
-|9|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|10|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|103.26.108.254|84|India|Thoothukudi|Niss Networks|
-|15|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|148.72.140.24|30128|United States|St Louis|GoDaddy.com|
-|19|152.26.231.83|9443|United States|Concord|MCNC|
-|20|152.26.229.93|9443|United States|Concord|MCNC|
+|2|203.150.128.58|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|5|103.20.90.121|8581|Indonesia|Surabaya|Wowrack Indonesia|
+|6|103.231.239.166|58080|Bangladesh|Dhaka|Carnival Internet|
+|7|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|152.26.231.83|9443|United States|Concord|MCNC|
+|10|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|152.26.229.93|9443|United States|Concord|MCNC|
+|12|152.26.229.46|9443|United States|Concord|MCNC|
+|13|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|14|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|19|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|20|72.10.164.178|26045|Canada|Montreal|GloboTech Communications|
 
 
 
