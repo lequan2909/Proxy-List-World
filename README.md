@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.11.225|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|35.87.161.97|3128|United States|Portland|Amazon.com, Inc.|
-|5|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|9|49.48.82.122|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|11|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|12|180.178.34.157|3129|Hong Kong|Cheung Sha Wan|SIMCENTRIC|
-|13|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|14|180.178.34.155|3129|Hong Kong|Cheung Sha Wan|SIMCENTRIC|
-|15|202.145.3.242|8080|Indonesia|Jakarta|PT UniNET Media Sakti|
-|16|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|17|152.26.229.46|9443|United States|Concord|MCNC|
-|18|152.26.231.83|9443|United States|Concord|MCNC|
-|19|182.16.88.210|3129|Hong Kong|Lai Chi Kok|SIMCENTRIC|
-|20|162.212.155.234|9595|United States|Flushing|tzulo, inc.|
+|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|7|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|201.20.115.22|8080|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|9|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|152.26.231.83|9443|United States|Concord|MCNC|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|13|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|14|152.26.229.46|9443|United States|Concord|MCNC|
+|15|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
+|16|152.26.229.47|9443|United States|Concord|MCNC|
+|17|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|18|152.26.231.94|9443|United States|Concord|MCNC|
+|19|72.10.164.178|1043|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|8851|Canada|Montreal|GloboTech Communications|
 
 
 
