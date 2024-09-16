@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|113.53.61.19|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|91.107.245.17|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|6|212.113.101.116|1080|Sweden|Stockholm|Aeza International LTD|
-|7|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|8|190.61.44.99|999|Colombia|Bogotá|Ufinet Panama S.A.|
-|9|82.151.65.252|80|Mauritania|Nouakchott|Mauritanian Telecommunication Company|
-|10|137.59.161.177|8080|Indonesia|Depok|PT SumberKoneksi Indotelematika|
-|11|8.216.90.236|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|13|192.99.169.19|8452|Canada|Beauharnois|OVH SAS|
-|14|152.26.229.34|9443|United States|Concord|MCNC|
-|15|72.10.164.178|5175|Canada|Montreal|GloboTech Communications|
-|16|152.26.231.94|9443|United States|Concord|MCNC|
-|17|67.43.228.253|12491|Canada|Montreal|GloboTech Communications|
-|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|72.10.164.178|5175|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|203.150.128.192|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|5|91.107.245.17|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|159.223.77.142|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|8|188.166.221.105|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|10|212.113.101.116|1080|Sweden|Stockholm|Aeza International LTD|
+|11|190.61.44.99|999|Colombia|Bogotá|Ufinet Panama S.A.|
+|12|72.10.164.178|23167|Canada|Montreal|GloboTech Communications|
+|13|181.13.246.140|999|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|14|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|15|103.18.232.153|8080|Indonesia|Demak|PT JARINGANKU SARANA NUSANTARA|
+|16|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|45.81.115.86|3128|Türkiye|Bursa|Pembe Gul Isguzar Karagoz|
+|18|192.99.169.19|8445|Canada|Beauharnois|OVH SAS|
+|19|152.26.229.34|9443|United States|Concord|MCNC|
+|20|57.128.45.79|3128|France|Gravelines|OVH SAS|
 
 
 
