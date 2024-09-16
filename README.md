@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|393|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|393|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|393|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|159.223.95.141|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
-|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|7|116.107.97.4|5020|Vietnam|Hanoi|Viettel Corporation|
-|8|129.150.40.36|3128|Singapore|Singapore|Oracle Corporation|
+|1|210.5.184.90|8080|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|7|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
 |9|182.253.109.146|8080|Indonesia|Jakarta|Biznet Metronet|
-|10|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|155.138.218.57|8118|United States|Atlanta|The Constant Company|
+|10|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|11|194.8.131.36|8080|Russia|Stavropol|"Telko" JSC|
 |12|13.57.226.84|3128|United States|San Jose|Amazon.com, Inc.|
-|13|189.113.119.225|8080|Brazil|Sorriso|LCI Equipamentos de Informatica LTDA - LCI Telecom|
-|14|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|15|223.206.7.181|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|16|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
-|17|124.248.180.163|8080|Cambodia|Phnom Penh|COGETEL Co., Ltd|
-|18|94.182.225.140|8080|Iran|Tehran|Aria Shatel PJSC|
-|19|210.5.184.90|8080|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|20|89.110.116.156|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|129.150.40.36|3128|Singapore|Singapore|Oracle Corporation|
+|14|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|171.233.70.239|8118|Vietnam|Long Xuyen|Viettel Corporation|
+|16|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|17|189.113.119.225|8080|Brazil|Sorriso|LCI Equipamentos de Informatica LTDA - LCI Telecom|
+|18|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|19|223.206.7.181|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|20|180.45.10.152|8080|Japan|Kyoto|NTT Communications Corporation|
 
 
 
