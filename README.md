@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|391|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|391|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|391|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.187.82|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|6|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|7|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|1|8.216.90.236|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|160.248.187.82|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|7|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
 |8|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|9|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|160.248.11.225|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|12|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|13|152.26.231.42|9443|United States|Concord|MCNC|
-|14|152.26.231.93|9443|United States|Concord|MCNC|
-|15|152.26.231.83|9443|United States|Concord|MCNC|
-|16|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|67.43.227.227|1569|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|72.10.164.178|1621|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.254|9929|Canada|Montreal|GloboTech Communications|
+|9|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|10|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|11|116.105.58.170|10000|Vietnam|Quận Bảy|Viettel Corporation|
+|12|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|13|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|114.9.52.98|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|16|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|17|152.26.231.93|9443|United States|Concord|MCNC|
+|18|175.100.103.170|55443|Cambodia|Phumĭ Kândal|VIETTEL (CAMBODIA) PTE., LTD|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|160.248.11.225|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
