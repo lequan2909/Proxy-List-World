@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|431|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|431|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|431|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|122.2.48.121|8080|Philippines|Ormoc City|Philippine Long Distance Telephone Co.|
-|7|92.204.163.211|8888|France|Strasbourg|velia.net Internetdienste GmbH|
-|8|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|9|103.231.236.14|8080|Indonesia|Pemalang|PT Level Indodata Teknologi|
-|10|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|11|185.208.102.62|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|12|144.91.98.213|3128|Germany|Nuremberg|Contabo GmbH|
-|13|178.130.120.39|8080|Yemen|Taiz|Yemen-net-bb-pool 178|
-|14|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|17|67.43.227.227|4489|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|19631|Canada|Montreal|GloboTech Communications|
-|19|181.78.95.49|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|20|152.26.229.93|9443|United States|Concord|MCNC|
+|3|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|122.2.48.121|8080|Philippines|Ormoc City|Philippine Long Distance Telephone Co.|
+|5|36.92.162.220|8080|Indonesia|Tuban Timur|Telekomunikasi Indonesia|
+|6|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|7|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|8|159.223.158.242|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|10|89.26.83.25|8080|Austria|Mittersill|SALZBURG AG fur Energie, Verkehr und Telekommunikation|
+|11|8.216.90.236|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|12|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|13|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|14|157.15.118.6|8082|Indonesia|Dukuhturi|PT Airlink Media Data|
+|15|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|16|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|67.43.236.20|5989|Canada|Montreal|GloboTech Communications|
+|18|191.243.46.2|18283|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|103.48.69.225|83|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
