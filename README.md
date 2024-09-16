@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|158.101.147.36|8118|Japan|Tokyo|Oracle Corporation|
 |2|114.142.181.215|8080|Japan|Kanazawa|NSK Co., Ltd.|
-|3|129.150.40.36|3128|Singapore|Singapore|Oracle Corporation|
-|4|13.57.226.84|3128|United States|San Jose|Amazon.com, Inc.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|162.55.232.219|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|13.57.226.84|3128|United States|San Jose|Amazon.com, Inc.|
+|3|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|4|129.150.40.36|3128|Singapore|Singapore|Oracle Corporation|
+|5|191.81.227.194|8080|Argentina|Villa Nueva|Telefonica de Argentina|
+|6|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |8|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|9|103.179.182.185|8181|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|10|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
-|11|168.228.181.189|3128|Brazil|Tubarão|Contato Internet EIRELI|
-|12|27.147.140.129|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|13|191.81.227.194|8080|Argentina|Villa Nueva|Telefonica de Argentina|
-|14|192.140.93.6|3128|Ecuador|Esmeraldas|Kolvech S.A.|
-|15|8.216.90.236|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|16|38.183.144.117|1111|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|17|138.0.207.3|8085|Brazil|Guararapes|Nets Telecomunicacoes Ltda|
-|18|13.57.226.84|3128|United States|San Jose|Amazon.com, Inc.|
+|9|108.227.1.196|8888|United States|Mansfield|AT&T Services, Inc.|
+|10|168.228.181.189|3128|Brazil|Tubarão|Contato Internet EIRELI|
+|11|13.57.226.84|3128|United States|San Jose|Amazon.com, Inc.|
+|12|103.178.42.26|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
+|13|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|14|13.57.226.84|3128|United States|San Jose|Amazon.com, Inc.|
+|15|192.140.93.6|3128|Ecuador|Esmeraldas|Kolvech S.A.|
+|16|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|17|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|116.107.109.120|5020|Vietnam|Hải Dương|Viettel Corporation|
 |19|160.248.190.243|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|94.182.225.140|8080|Iran|Tehran|Aria Shatel PJSC|
+|20|116.107.109.120|5020|Vietnam|Hải Dương|Viettel Corporation|
 
 
 
