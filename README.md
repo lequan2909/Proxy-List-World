@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5734** proxies at the latest update. Usable proxies are below.
+> Scraper found **5732** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|120|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|780|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|778|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|303|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3573|✅|
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|6|36.91.15.241|8080|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
-|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|184.174.96.152|3129|United States|Wilmington|Ipxo LLC|
-|9|180.210.191.122|8080|Bangladesh|Qasba|Premium Connectivity Limited|
-|10|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
-|11|103.184.56.125|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
-|12|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|152.26.229.86|9443|United States|Concord|MCNC|
-|14|171.229.243.110|5101|Vietnam|Hanoi|Viettel Corporation|
-|15|45.185.163.111|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|16|152.26.229.83|9443|United States|Concord|MCNC|
-|17|152.26.231.93|9443|United States|Concord|MCNC|
-|18|152.26.229.34|9443|United States|Concord|MCNC|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|5|45.9.43.28|8080|Russia|St Petersburg|Beget LLC|
+|6|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|7|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
+|8|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|9|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|118.97.164.19|8080|Indonesia|Padang|Telekomunikasi Indonesia|
+|13|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|160.248.11.209|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|72.10.160.174|3009|Canada|Montreal|GloboTech Communications|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
