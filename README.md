@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|114.9.52.98|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|6|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|7|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|8|209.14.113.13|999|Colombia|Cértegui|AGIS|
-|9|67.43.236.19|24863|Canada|Montreal|GloboTech Communications|
-|10|222.127.55.214|5050|Philippines|Lahug|INNOVE|
-|11|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|12|67.43.236.20|31947|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|25923|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.46|9443|United States|Concord|MCNC|
-|15|72.10.164.178|26923|Canada|Montreal|GloboTech Communications|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|72.10.160.173|28141|Canada|Montreal|GloboTech Communications|
-|20|37.60.255.91|3128|Germany|Düsseldorf|SiteGround|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|4|201.134.169.214|8205|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|6|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|7|101.255.105.26|8181|Indonesia|Jakarta|PT Remala Abadi|
+|8|117.6.55.135|10001|Vietnam|Hanoi|Viettel Corporation|
+|9|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|10|67.43.228.253|3613|Canada|Montreal|GloboTech Communications|
+|11|82.64.186.155|8080|France|Paris|Proxad / Free SAS|
+|12|67.43.236.19|24863|Canada|Montreal|GloboTech Communications|
+|13|211.114.237.136|3129|South Korea|Jungnang-gu|Korea Telecom|
+|14|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|67.43.236.20|4455|Canada|Montreal|GloboTech Communications|
+|16|152.26.229.46|9443|United States|Concord|MCNC|
+|17|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
