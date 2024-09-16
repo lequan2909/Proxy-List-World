@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5794** proxies at the latest update. Usable proxies are below.
+> Scraper found **6036** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|416|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|416|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|416|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|424|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|424|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|424|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|106|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|884|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1126|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|455|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3391|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|103.182.78.137|1111|Indonesia|Gresik|PT Cybernet Data Multimedia|
-|7|122.2.48.121|8080|Philippines|Ormoc City|Philippine Long Distance Telephone Co.|
-|8|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
-|9|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|10|190.40.234.18|999|Peru|Chiclayo|Telefonica del Peru|
-|11|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|12|103.156.75.40|8181|Indonesia|Gianyar|PT Trika Global Media|
-|13|31.172.79.14|8080|United States|Dallas|FORNEX|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|103.247.83.254|8080|Indonesia|Rantau Panjang|PT Multimedia Data Sentra|
-|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|17|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|5.44.101.53|13128|Germany|Frankfurt am Main|Alvotech GmbH via velia.net|
-|19|103.89.233.226|83|India|Mangalore|Deenet Services Pvt. Ltd|
-|20|115.72.46.96|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|103.87.169.188|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|4|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|5|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|8|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|9|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|72.10.164.178|25703|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.228|5495|Canada|Montreal|GloboTech Communications|
+|14|118.175.30.26|8080|Thailand|Lopburi|TOT Public Company Limited|
+|15|152.26.231.93|9443|United States|Concord|MCNC|
+|16|152.26.231.83|9443|United States|Concord|MCNC|
+|17|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|18|72.10.160.90|23361|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
 
 
 
