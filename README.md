@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5852** proxies at the latest update. Usable proxies are below.
+> Scraper found **5858** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|173|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|753|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|759|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|362|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3606|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|143.198.84.99|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|203.150.128.192|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|4|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
+|2|178.128.210.247|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
 |6|91.107.245.17|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|36.88.129.142|7777|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
-|8|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|9|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|168.196.246.114|8080|Argentina|Moreno|Linkear SRL|
-|11|212.113.101.116|1080|Sweden|Stockholm|Aeza International LTD|
-|12|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
-|13|202.145.3.242|8080|Indonesia|Jakarta|PT UniNET Media Sakti|
-|14|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|45.190.78.47|999|Mexico|Tala|Meta Networks SA De CV|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
-|20|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|116.203.164.98|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|8|103.166.158.53|3127|Indonesia|Bekasi|PT Timor Lintas Nusantara|
+|9|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|193.70.58.26|8080|France|Strasbourg|OVH SAS|
+|11|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|12|159.223.40.7|8888|Singapore|Singapore|DigitalOcean, LLC|
+|13|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
+|14|212.113.101.116|1080|Sweden|Stockholm|Aeza International LTD|
+|15|188.166.221.105|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|200.106.124.68|999|Peru|Tacna|Telefonica del Peru|
+|17|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|18|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|158.140.169.9|8081|Indonesia|Jakarta|MYREPUBLIC|
+|20|203.192.217.6|8080|India|Delhi|Entire In2Cable|
 
 
 
