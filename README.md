@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.167.243.6|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
 |3|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|116.98.37.120|8000|Vietnam|Hanoi|Viettel Corporation|
+|4|61.28.236.103|8888|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|6|207.211.168.178|3128|United States|Chicago|Oracle Corporation|
+|7|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
 |8|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
-|9|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|10|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|182.253.109.146|8080|Indonesia|Jakarta|Biznet Metronet|
-|13|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|15|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|16|103.217.213.125|32650|India|Guntur|E Net Entertainment Pvt Ltd|
-|17|189.113.119.225|8080|Brazil|Sorriso|LCI Equipamentos de Informatica LTDA - LCI Telecom|
-|18|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|152.26.229.46|9443|United States|Concord|MCNC|
-|20|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|107.6.183.138|8118|The Netherlands|Amsterdam|SingleHop LLC|
+|10|43.167.241.228|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|11|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|12|207.211.168.178|3128|United States|Chicago|Oracle Corporation|
+|13|13.57.226.84|3128|United States|San Jose|Amazon.com, Inc.|
+|14|222.108.89.193|3128|South Korea|Guro-gu|Korea Telecom|
+|15|212.20.147.39|3128|Türkiye|Istanbul|VEGANET-CGNT|
+|16|125.27.92.107|8080|Thailand|Pattaya|TOT Public Company Limited|
+|17|188.132.222.49|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|202.93.244.242|8080|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
+|19|186.249.227.26|3128|Brazil|Belo Horizonte|Century Telecom Ltda|
+|20|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
