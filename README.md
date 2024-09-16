@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|5|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|6|94.183.230.166|3128|Iran|Tehran|Aria Shatel PJSC|
-|7|47.88.17.170|8118|United States|Minkler|Alibaba.com LLC|
-|8|52.4.135.99|443|United States|Ashburn|Amazon.com, Inc.|
-|9|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|10|50.116.25.182|8080|United States|Richardson|Akamai Technologies, Inc.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|67.43.227.228|1319|Canada|Montreal|GloboTech Communications|
-|13|152.26.229.47|9443|United States|Concord|MCNC|
-|14|72.10.160.171|15223|Canada|Montreal|GloboTech Communications|
-|15|152.26.231.83|9443|United States|Concord|MCNC|
-|16|67.43.236.20|4873|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.22|3277|Canada|Montreal|GloboTech Communications|
-|18|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|19|198.244.231.83|8888|United Kingdom|London|OVH SAS|
-|20|67.43.227.227|21983|Canada|Montreal|GloboTech Communications|
+|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|2|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|5|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|6|45.189.116.89|999|Peru|Lima|Conex TV E.I.R.L|
+|7|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|9|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|10|144.86.187.54|3129|United States|Malden|Charles River Operation|
+|11|117.0.89.86|5102|Vietnam|Hanoi|Viettel Group|
+|12|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|52.4.135.99|443|United States|Ashburn|Amazon.com, Inc.|
+|16|152.26.229.47|9443|United States|Concord|MCNC|
+|17|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|18|152.26.231.83|9443|United States|Concord|MCNC|
+|19|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
+|20|177.38.72.38|9292|Brazil|Jales|MELFINET - National Telecom SCM Ltda|
 
 
 
