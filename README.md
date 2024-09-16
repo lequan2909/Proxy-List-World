@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|6|103.165.208.222|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|45.119.113.62|83|India|Hyderabad|Netrun Technologies PVT LTD|
-|9|49.48.53.128|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|10|202.179.90.217|58080|India|Mumbai|Ankhnet|
-|11|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|12|67.43.227.227|18131|Canada|Montreal|GloboTech Communications|
-|13|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|113.53.60.175|8080|Thailand|Bangkok|TOT Public Company Limited|
-|15|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|16|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|17|152.26.229.47|9443|United States|Concord|MCNC|
-|18|67.43.236.21|1879|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|7097|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|52.221.205.90|3128|Singapore|Singapore|Amazon.com, Inc.|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|6|198.244.231.83|8888|United Kingdom|London|OVH SAS|
+|7|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|8|207.180.228.55|80|Germany|Nuremberg|Contabo GmbH|
+|9|167.86.99.29|3128|Germany|Nuremberg|Contabo GmbH|
+|10|182.253.102.67|3128|Indonesia|Cikampek|BIZNET|
+|11|190.121.145.115|999|Colombia|Sogamoso|Media Commerce Partners S.A|
+|12|103.83.178.222|8080|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|13|186.86.143.161|999|Colombia|San Gil|Telmex Colombia S.A.|
+|14|103.41.33.169|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|15|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|36.64.27.57|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|18|152.26.229.47|9443|United States|Concord|MCNC|
+|19|45.81.115.86|3128|Türkiye|Bursa|Pembe Gul Isguzar Karagoz|
+|20|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
 
 
 
