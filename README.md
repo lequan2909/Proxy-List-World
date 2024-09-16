@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.187.82|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|5|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|1|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|8.216.90.236|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|160.248.187.82|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |6|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|8|103.234.34.38|8080|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
-|9|114.9.52.98|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|10|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|11|103.166.32.215|1111|Indonesia|Kudus|PT Daniswara Citra Informatika|
-|12|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|36.93.8.34|11000|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|14|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|15|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|20|152.26.229.83|9443|United States|Concord|MCNC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|201.134.169.214|8205|Mexico|Mexico City|Uninet S.A. de C.V.|
+|9|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|10|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|11|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|12|116.111.115.33|10001|Vietnam|Hanoi|Viettel Corporation|
+|13|69.160.223.129|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
+|14|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|15|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|16|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|198.244.231.83|8888|United Kingdom|London|OVH SAS|
 
 
 
