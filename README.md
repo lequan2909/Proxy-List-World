@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|3|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
 |4|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
-|5|157.245.156.173|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|86.98.93.23|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|7|182.253.109.146|8080|Indonesia|Jakarta|Biznet Metronet|
-|8|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|13.57.226.84|3128|United States|San Jose|Amazon.com, Inc.|
-|10|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|11|103.122.0.91|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
-|12|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|103.48.68.218|84|India|Hyderabad|Country Online Services PVT LTD|
-|16|67.43.227.228|21167|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.47|9443|United States|Concord|MCNC|
-|18|67.43.236.19|8035|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|5|83.229.61.203|8118|Italy|Milan|Interkvm Host SRL|
+|6|116.203.229.72|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|8|157.245.156.173|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|182.253.109.146|8080|Indonesia|Jakarta|Biznet Metronet|
+|10|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|11|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|12|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|13.57.226.84|3128|United States|San Jose|Amazon.com, Inc.|
+|14|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|15|189.113.119.225|8080|Brazil|Sorriso|LCI Equipamentos de Informatica LTDA - LCI Telecom|
+|16|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|103.175.236.222|8080|Indonesia|Malang|PT Marva Global Telekomunikasi|
+|18|202.53.224.206|8088|Indonesia|Jakarta|PT IndoInternet|
+|19|185.200.37.121|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
