@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5779** proxies at the latest update. Usable proxies are below.
+> Scraper found **5764** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|115|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|840|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|825|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|335|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3531|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|38.156.72.40|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|5|152.26.229.83|9443|United States|Concord|MCNC|
-|6|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|67.43.227.227|24137|Canada|Montreal|GloboTech Communications|
-|10|152.26.229.86|9443|United States|Concord|MCNC|
-|11|72.10.164.178|1035|Canada|Montreal|GloboTech Communications|
-|12|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|13|126.209.9.30|8080|Philippines|Manila|Infinivan Incorporated|
-|14|67.43.236.20|20853|Canada|Montreal|GloboTech Communications|
+|1|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|5|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
+|6|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|7|217.219.45.90|8082|Iran|Shahr-e Kord|Iran Telecommunication Company PJS|
+|8|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
+|9|152.26.229.86|9443|United States|Concord|MCNC|
+|10|103.160.182.159|8080|Indonesia|Jember|PT Internusa Duta Makmur|
+|11|152.26.231.83|9443|United States|Concord|MCNC|
+|12|152.26.231.42|9443|United States|Concord|MCNC|
+|13|72.10.164.178|30285|Canada|Montreal|GloboTech Communications|
+|14|181.204.81.181|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
 |15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|46.161.194.88|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|17|52.4.135.99|443|United States|Ashburn|Amazon.com, Inc.|
-|18|52.4.135.99|443|United States|Ashburn|Amazon.com, Inc.|
-|19|72.10.160.93|18623|Canada|Montreal|GloboTech Communications|
-|20|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|16|152.26.229.34|9443|United States|Concord|MCNC|
+|17|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|18|72.10.164.178|30285|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|10863|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.228|22615|Canada|Montreal|GloboTech Communications|
 
 
 
