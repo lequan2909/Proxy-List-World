@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|424|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|424|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|424|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|160.248.187.82|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|8.216.90.236|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|5|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|6|201.134.169.214|8205|Mexico|Mexico City|Uninet S.A. de C.V.|
-|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|8|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|9|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|10|200.10.28.89|8083|Colombia|Manizales|Super Redes S.A.S|
-|11|161.49.215.28|10101|Philippines|Clark|Converge Information and Communications Technology Solutions|
-|12|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|13|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|14|101.255.105.26|8181|Indonesia|Jakarta|PT Remala Abadi|
-|15|43.167.239.248|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|16|103.35.153.74|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
-|17|181.204.81.181|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|18|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|19|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
+|2|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|160.248.187.82|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|6|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|8|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|9|202.61.120.182|8080|India|Chennai|Arjun Telecom Pvt. Ltd.|
+|10|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|11|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|152.26.231.86|9443|United States|Concord|MCNC|
+|13|152.26.231.94|9443|United States|Concord|MCNC|
+|14|103.122.1.126|8080|Indonesia|Palembang|PT. Java Digital Nusantara|
+|15|200.49.99.78|9991|Argentina|Buenos Aires|Telecom Argentina S.A|
+|16|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|18|186.125.218.149|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|19|116.105.58.170|10005|Vietnam|Quận Bảy|Viettel Corporation|
+|20|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
