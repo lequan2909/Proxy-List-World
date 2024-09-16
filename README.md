@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|5|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|6|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|7|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|8|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|9|58.137.174.101|8080|Thailand|Phra Samut Chedi|AGC|
-|10|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|103.165.155.107|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|12|189.193.225.10|999|Mexico|Santo Domingo Tehuantepec|Mega Cable, S.A. de C.V.|
-|13|152.26.231.94|9443|United States|Concord|MCNC|
-|14|152.26.229.46|9443|United States|Concord|MCNC|
-|15|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
-|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|18|67.43.228.253|4943|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|2567|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|3|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|4|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|6|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
+|7|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|8|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|9|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|11|152.26.231.94|9443|United States|Concord|MCNC|
+|12|152.26.229.46|9443|United States|Concord|MCNC|
+|13|52.4.135.99|443|United States|Ashburn|Amazon.com, Inc.|
+|14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|18|203.190.44.251|8080|Indonesia|Jogonalan|PT Jaring Lintas Utara|
+|19|72.10.164.178|15773|Canada|Montreal|GloboTech Communications|
+|20|202.154.13.3|8080|Indonesia|Parenggan|PT Akses Data Internusa|
 
 
 
