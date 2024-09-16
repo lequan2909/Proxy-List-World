@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|160.248.11.206|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|118.99.119.63|8080|Indonesia|Bandar Lampung|Biznet Networks|
-|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|138.117.231.131|999|Guatemala|Huehuetenango|Fibernet S.A|
-|8|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|9|113.160.155.121|19132|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|10|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|11|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|12|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|15|103.159.46.2|83|India|Ahmedabad|King Netsol Private Limited|
-|16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|72.10.164.178|6787|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|36.94.27.65|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|4|5.189.146.57|80|Germany|Nuremberg|Contabo GmbH|
+|5|118.99.119.63|8080|Indonesia|Bandar Lampung|Biznet Networks|
+|6|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|8|138.117.231.131|999|Guatemala|Huehuetenango|Fibernet S.A|
+|9|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|10|152.26.229.42|9443|United States|Concord|MCNC|
+|11|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|72.10.164.178|6787|Canada|Montreal|GloboTech Communications|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|72.10.164.178|6787|Canada|Montreal|GloboTech Communications|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|19|152.26.229.47|9443|United States|Concord|MCNC|
+|20|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
 
 
 
