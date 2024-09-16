@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|2|49.147.118.175|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|3|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|5|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
-|8|49.48.67.159|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|9|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|103.99.27.234|8080|Indonesia|Tangerang|PT Lintas Network Solusi|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
 |10|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|11|181.114.62.1|8085|Argentina|Ramallo|INTERAIR|
-|12|67.43.228.253|4689|Canada|Montreal|GloboTech Communications|
+|11|144.91.120.37|80|Germany|Nuremberg|Contabo GmbH|
+|12|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
 |13|160.248.11.206|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|43.167.239.241|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|15|72.10.160.170|29129|Canada|Montreal|GloboTech Communications|
-|16|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|202.179.90.217|58080|India|Mumbai|Ankhnet|
-|18|160.248.11.209|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|200.10.28.217|8083|Colombia|Manizales|Super Redes S.A.S|
+|15|160.248.11.209|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|152.26.229.93|9443|United States|Concord|MCNC|
+|17|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|72.10.160.172|22121|Canada|Montreal|GloboTech Communications|
 |19|72.10.164.178|2731|Canada|Montreal|GloboTech Communications|
-|20|92.204.163.211|8884|France|Strasbourg|velia.net Internetdienste GmbH|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
