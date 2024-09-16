@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|6|5.39.217.229|1218|The Netherlands|Amsterdam|HOSTKEY|
+|4|5.39.217.229|1218|The Netherlands|Amsterdam|HOSTKEY|
+|5|101.255.209.242|8080|Indonesia|Jakarta|PT Remala Abadi|
+|6|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
 |7|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|185.30.144.222|8080|Albania|Tirana|Mobitel Shpk|
-|10|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|11|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
-|12|152.26.231.93|9443|United States|Concord|MCNC|
-|13|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|15|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|72.10.164.178|13319|Canada|Montreal|GloboTech Communications|
-|19|160.248.11.225|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|67.43.228.250|6215|Canada|Montreal|GloboTech Communications|
+|8|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|13|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|14|152.26.231.93|9443|United States|Concord|MCNC|
+|15|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|16|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|18|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|160.248.11.219|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
