@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|4|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|5|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
-|6|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|7|217.219.45.90|8082|Iran|Shahr-e Kord|Iran Telecommunication Company PJS|
-|8|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
-|9|152.26.229.86|9443|United States|Concord|MCNC|
-|10|103.160.182.159|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|11|152.26.231.83|9443|United States|Concord|MCNC|
-|12|152.26.231.42|9443|United States|Concord|MCNC|
-|13|72.10.164.178|30285|Canada|Montreal|GloboTech Communications|
-|14|181.204.81.181|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|152.26.229.34|9443|United States|Concord|MCNC|
-|17|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
-|18|72.10.164.178|30285|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|10863|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|22615|Canada|Montreal|GloboTech Communications|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|38.242.215.185|8118|Germany|Düsseldorf|Contabo GmbH|
+|4|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|5|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|6|152.26.229.86|9443|United States|Concord|MCNC|
+|7|152.26.231.83|9443|United States|Concord|MCNC|
+|8|152.26.231.42|9443|United States|Concord|MCNC|
+|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|85.172.174.3|3128|Russia|Nal'chik|FGBOU VPO Kabardino-Balkarian State University named after H.M.Berbekov|
+|11|152.26.229.34|9443|United States|Concord|MCNC|
+|12|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|13|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|14|103.35.109.205|58080|Bangladesh|Dhaka|Ranks ITT|
+|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|152.26.229.83|9443|United States|Concord|MCNC|
+|17|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|72.10.164.178|9099|Canada|Montreal|GloboTech Communications|
+|20|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
