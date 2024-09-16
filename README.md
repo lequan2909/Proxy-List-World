@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|473|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|473|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|473|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|210.5.184.90|8080|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
 |2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|158.101.147.36|8118|Japan|Tokyo|Oracle Corporation|
-|4|116.98.37.120|8000|Vietnam|Hanoi|Viettel Corporation|
-|5|222.108.89.193|3128|South Korea|Guro-gu|Korea Telecom|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|179.53.233.102|8080|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
-|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|9|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|180.45.10.152|8080|Japan|Kyoto|NTT Communications Corporation|
-|11|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
-|12|182.253.109.146|8080|Indonesia|Jakarta|Biznet Metronet|
-|13|129.150.40.36|3128|Singapore|Singapore|Oracle Corporation|
-|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|89.110.116.156|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|13.57.226.84|3128|United States|San Jose|Amazon.com, Inc.|
-|17|223.206.7.181|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|18|191.81.227.194|8080|Argentina|Villa Nueva|Telefonica de Argentina|
-|19|103.179.182.185|8181|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|20|13.57.226.84|3128|United States|San Jose|Amazon.com, Inc.|
+|3|114.142.181.215|8080|Japan|Kanazawa|NSK Co., Ltd.|
+|4|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|86.98.93.23|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|6|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|7|182.253.109.146|8080|Indonesia|Jakarta|Biznet Metronet|
+|8|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|94.182.225.140|8080|Iran|Tehran|Aria Shatel PJSC|
+|10|125.26.188.246|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|11|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|12|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|13|116.98.37.120|8000|Vietnam|Hanoi|Viettel Corporation|
+|14|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|15|38.45.33.130|999|Venezuela|La Guaira|TELECOMUNICACIONES G-NETWORK, C.A.|
+|16|186.50.172.244|3128|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
+|17|103.19.58.179|8082|Indonesia|Ngawi|BITSNET|
+|18|124.248.180.163|8080|Cambodia|Phnom Penh|COGETEL Co., Ltd|
+|19|189.113.119.225|8080|Brazil|Sorriso|LCI Equipamentos de Informatica LTDA - LCI Telecom|
+|20|181.204.39.202|26312|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
