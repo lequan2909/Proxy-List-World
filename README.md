@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|103.177.255.100|8080|Indonesia|Purwodadi Grobogan|PT Hypermedia Teknologi Nusantara Centralindo|
-|6|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|7|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|8|14.225.8.195|3218|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|9|45.117.30.9|58081|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|10|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|159.65.237.225|1693|United States|North Bergen|DigitalOcean, LLC|
-|12|152.26.231.94|9443|United States|Concord|MCNC|
-|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|14|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|67.43.236.20|22407|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|72.10.160.90|17525|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|9021|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|33023|Canada|Montreal|GloboTech Communications|
-|20|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|1|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|5|41.65.174.82|8080|Egypt|Cairo|Etisalat Misr Mobile BB|
+|6|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|7|152.26.231.94|9443|United States|Concord|MCNC|
+|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|9|67.43.227.227|18281|Canada|Montreal|GloboTech Communications|
+|10|152.26.229.42|9443|United States|Concord|MCNC|
+|11|67.43.236.20|14793|Canada|Montreal|GloboTech Communications|
+|12|152.26.229.47|9443|United States|Concord|MCNC|
+|13|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|152.26.229.34|9443|United States|Concord|MCNC|
+|15|72.10.164.178|8925|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|8925|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.171|12939|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|16951|Canada|Montreal|GloboTech Communications|
+|19|202.47.188.94|5566|Indonesia|Magetan|PT.CITRA BERDIKARI NUSANTARA|
+|20|124.106.228.30|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
