@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|103.31.132.42|9812|Indonesia|Kebon Melati|PT Arthatama Adhiprima Persada|
-|4|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|51.159.99.38|3128|France|Paris|SCALEWAY|
-|6|67.43.236.19|3629|Canada|Montreal|GloboTech Communications|
-|7|51.159.99.38|3128|France|Paris|SCALEWAY|
-|8|67.43.227.229|3761|Canada|Montreal|GloboTech Communications|
-|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|10|43.167.243.6|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|11|67.43.236.20|8765|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|19227|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|19227|Canada|Montreal|GloboTech Communications|
-|14|152.26.231.86|9443|United States|Concord|MCNC|
-|15|72.10.164.178|19227|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|5369|Canada|Montreal|GloboTech Communications|
-|17|152.26.231.93|9443|United States|Concord|MCNC|
-|18|67.43.227.228|22951|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|5211|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|19227|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|186.115.202.103|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
+|4|36.92.28.34|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|170.81.171.189|8089|Brazil|Francisco Morato|Wireless Comm Services LTDA|
+|7|93.125.3.22|8080|Belarus|Minsk|TELECOMAT|
+|8|103.105.78.137|8080|Indonesia|Bojonegoro|GARUDA|
+|9|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|10|1.32.59.217|47045|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|11|103.76.151.74|8089|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|12|152.26.231.93|9443|United States|Concord|MCNC|
+|13|152.26.231.86|9443|United States|Concord|MCNC|
+|14|152.26.229.47|9443|United States|Concord|MCNC|
+|15|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
+|18|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|19|36.50.92.120|8080|Indonesia|Sukamulya|PT Ring Media Nusantara|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
