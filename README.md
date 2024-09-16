@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|188.125.169.39|8080|Turkey|Gebze|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|209.146.18.230|8082|Philippines|Manila|Cogent Communications|
-|7|38.180.216.60|8080|The Netherlands|Meppel|Aktsiaselts WaveCom|
-|8|176.100.216.164|80|Russia|Orekhovo-Zuyevo|Telecom-Uslugi|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|165.255.94.73|8080|South Africa|Johannesburg|Afrihost (Pty) Ltd|
-|11|103.131.18.58|8080|Indonesia|Kudus|PT Global Media Data Prima|
-|12|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|13|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|14|49.12.240.0|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|15|103.113.170.230|3128|Indonesia|Jakarta|PT Cloudata Indonesia|
-|16|202.173.220.50|1122|Thailand|Bangkok|KIRZ Company Limited|
-|17|103.145.149.36|8080|Indonesia|Gandul|PT. Indonesia Comnets Plus|
-|18|67.43.236.20|19609|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.93|9443|United States|Concord|MCNC|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|5|8.216.90.236|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|6|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|103.203.232.101|1080|Indonesia|Kedok|INDANA|
+|8|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
+|9|103.195.65.147|8080|Indonesia|Tigaraksa|Indonesia Network Information Center|
+|10|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|12|103.105.78.137|8080|Indonesia|Bojonegoro|GARUDA|
+|13|103.163.175.29|8080|Indonesia|Jakarta|PT Lima Satu Tiga Global Tel-Access|
+|14|45.228.234.192|999|Guatemala|Guatemala City|Infinitum S.A.|
+|15|190.61.41.165|999|Colombia|Turbo|Ufinet Panama S.A.|
+|16|91.205.69.126|8080|Bosnia and Herzegovina|Gradačac|Telesat d.o.o.|
+|17|152.26.229.86|9443|United States|Concord|MCNC|
+|18|152.26.231.93|9443|United States|Concord|MCNC|
+|19|103.124.97.12|8080|Nepal|Pokhara|Pokhara Internet Pvt. Ltd|
+|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
