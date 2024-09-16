@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|177.234.241.26|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|6|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|7|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|5|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
+|6|51.158.173.222|3128|France|Paris|Online S.A.S.|
+|7|8.216.90.236|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |8|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|9|103.190.230.42|8080|Indonesia|Makassar|PT Mandiri Global Data|
-|10|139.255.33.242|3128|Indonesia|Jakarta|PT. LINKNET|
-|11|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|45.228.234.192|999|Guatemala|Guatemala City|Infinitum S.A.|
-|14|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|15|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|51.222.142.100|3128|Canada|Beauharnois|OVH SAS|
-|19|152.26.229.83|9443|United States|Concord|MCNC|
-|20|152.26.229.42|9443|United States|Concord|MCNC|
+|9|182.253.159.9|8080|Indonesia|Bandung|BIZNET|
+|10|180.191.23.115|8082|Philippines|Cabanatuan City|Globe Telecom|
+|11|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|181.39.233.212|8080|Ecuador|Guayaquil|Telconet S.A|
+|13|177.234.241.31|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|14|165.255.94.73|8080|South Africa|Johannesburg|Afrihost (Pty) Ltd|
+|15|103.190.230.42|8080|Indonesia|Makassar|PT Mandiri Global Data|
+|16|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|95.64.235.2|8080|Russia|Moscow|MTS PJSC|
 
 
 
