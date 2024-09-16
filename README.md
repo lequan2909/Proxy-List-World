@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|171.6.79.127|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|3|113.53.61.19|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|13.57.226.84|3128|United States|San Jose|Amazon.com, Inc.|
-|6|103.41.88.33|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|7|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
-|8|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|9|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|152.26.229.47|9443|United States|Concord|MCNC|
-|11|152.26.229.46|9443|United States|Concord|MCNC|
-|12|152.26.229.93|9443|United States|Concord|MCNC|
-|13|149.56.95.145|3128|Canada|Montreal|OVH Hosting|
-|14|152.26.231.42|9443|United States|Concord|MCNC|
-|15|189.113.119.225|8080|Brazil|Sorriso|LCI Equipamentos de Informatica LTDA - LCI Telecom|
-|16|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|190.94.213.83|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|19|88.80.103.9|6888|Bulgaria|Dupnitsa|UltraNET Ltd. C08|
-|20|221.122.91.36|9480|China|Beijing|IDC, China Telecommunications Corporation|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|91.107.245.17|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|113.53.61.19|8080|Thailand|Bangkok|TOT Public Company Limited|
+|5|212.113.101.116|1080|Sweden|Stockholm|Aeza International LTD|
+|6|171.6.79.127|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|7|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|8|190.61.44.99|999|Colombia|Bogotá|Ufinet Panama S.A.|
+|9|82.151.65.252|80|Mauritania|Nouakchott|Mauritanian Telecommunication Company|
+|10|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|13|47.220.151.116|8888|United States|Georgetown|Suddenlink Communications|
+|14|152.26.229.46|9443|United States|Concord|MCNC|
+|15|152.26.229.47|9443|United States|Concord|MCNC|
+|16|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|17|45.81.115.86|3128|Türkiye|Bursa|Pembe Gul Isguzar Karagoz|
+|18|152.26.229.93|9443|United States|Concord|MCNC|
+|19|149.56.95.145|9595|Canada|Montreal|OVH Hosting|
+|20|202.179.90.217|58080|India|Mumbai|Ankhnet|
 
 
 
