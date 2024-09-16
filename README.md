@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|441|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|441|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|441|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|3|157.245.156.173|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|7|182.253.109.146|8080|Indonesia|Jakarta|Biznet Metronet|
-|8|179.53.233.102|8080|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
-|9|13.57.226.84|3128|United States|San Jose|Amazon.com, Inc.|
-|10|194.8.131.36|8080|Russia|Stavropol|"Telko" JSC|
-|11|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|13|176.99.2.43|1081|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|14|180.190.200.77|8082|Philippines|Lahug|Globe Telecom|
-|15|87.160.121.22|8118|Germany|Asbach|Deutsche Telekom AG|
-|16|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|116.203.229.72|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|19|91.219.227.45|3128|Russia|Moscow|LLC VK|
+|2|167.172.90.84|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|6|210.5.184.90|8080|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|8|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|9|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|10|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|11|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|13|13.57.226.84|3128|United States|San Jose|Amazon.com, Inc.|
+|14|41.189.171.186|8080|Ghana|Accra|Scancom Ltd.|
+|15|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|16|58.65.197.91|8080|Pakistan|Karachi|Cyber Internet Services (Private) Limited|
+|17|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|18|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
 |20|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
