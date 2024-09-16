@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|7|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|9|61.7.191.20|8080|Thailand|Ao Nang|CAT Telecom Public Company Limited|
-|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|11|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|12|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|15|152.26.229.46|9443|United States|Concord|MCNC|
-|16|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|72.10.160.92|26543|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|11169|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|9|103.42.181.79|38080|Hong Kong|Hong Kong|Zenlayer Inc|
+|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|11|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|12|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|13|202.154.18.69|8081|Indonesia|Jombang|DIGITNET|
+|14|103.46.8.61|8080|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
+|15|61.7.191.20|8080|Thailand|Ao Nang|CAT Telecom Public Company Limited|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|20|72.10.160.90|31545|Canada|Montreal|GloboTech Communications|
 
 
 
