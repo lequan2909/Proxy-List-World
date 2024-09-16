@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.216.90.236|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|80.234.104.229|3128|Russia|Samara|Commerce Network|
-|5|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|6|8.216.90.236|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|7|152.26.229.42|9443|United States|Concord|MCNC|
-|8|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|9|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|11|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|12|160.248.11.209|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|72.10.164.178|17071|Canada|Montreal|GloboTech Communications|
-|14|83.151.4.172|57812|Russia|Kazan'|MTS PJSC|
-|15|152.26.229.83|9443|United States|Concord|MCNC|
-|16|198.244.231.83|8888|United Kingdom|London|OVH SAS|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|67.43.227.227|17211|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.19|14891|Canada|Montreal|GloboTech Communications|
-|20|188.116.22.67|24099|Hong Kong|Hong Kong|M247 Europe SRL|
+|4|202.93.244.38|8080|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|7|125.234.243.176|5000|Vietnam|Tuyên Quang|Viettel Corporation|
+|8|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|116.107.213.122|5020|Vietnam|Hanoi|Viettel Corporation|
+|10|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|11|152.26.229.83|9443|United States|Concord|MCNC|
+|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|13|152.26.229.42|9443|United States|Concord|MCNC|
+|14|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|49.48.89.204|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|17|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
+|18|77.52.187.199|10000|Ukraine|Rokytne|PrJSC "VF UKRAINE"|
+|19|160.248.11.209|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|198.244.231.83|8888|United Kingdom|London|OVH SAS|
 
 
 
