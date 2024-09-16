@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
-|3|13.57.226.84|3128|United States|San Jose|Amazon.com, Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|7|13.57.226.84|3128|United States|San Jose|Amazon.com, Inc.|
-|8|181.198.53.6|3128|Ecuador|Calceta|Telconet S.A|
-|9|94.182.225.140|8080|Iran|Tehran|Aria Shatel PJSC|
-|10|185.36.143.52|3128|The Netherlands|Meppel|Llhost Inc. SRL|
-|11|8.216.90.236|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|12|114.33.18.16|3128|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|13|67.43.227.230|10981|Canada|Montreal|GloboTech Communications|
-|14|152.26.231.83|9443|United States|Concord|MCNC|
-|15|36.67.114.94|8187|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|16|116.198.75.63|3128|China|Beijing|IDC, China Telecommunications Corporation|
-|17|85.192.40.9|3128|The Netherlands|Amsterdam|Aeza International LTD|
-|18|36.72.252.71|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|19|117.68.38.134|35010|China|Hefei|China Telecom|
-|20|67.43.236.20|2983|Canada|Montreal|GloboTech Communications|
+|2|13.57.226.84|3128|United States|San Jose|Amazon.com, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|5|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|6|13.57.226.84|3128|United States|San Jose|Amazon.com, Inc.|
+|7|103.165.155.254|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|185.36.143.52|3128|The Netherlands|Meppel|Llhost Inc. SRL|
+|10|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|45.81.115.86|3128|Türkiye|Bursa|Pembe Gul Isguzar Karagoz|
+|12|140.238.230.215|3128|India|Mumbai|Oracle Corporation|
+|13|8.216.90.236|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|14|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|152.26.231.83|9443|United States|Concord|MCNC|
+|16|192.99.169.19|8445|Canada|Beauharnois|OVH SAS|
+|17|36.72.252.71|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|18|67.43.227.227|28551|Canada|Montreal|GloboTech Communications|
+|19|102.67.101.250|8080|Burkina Faso|Ouagadougou|Virtual Technologies and Solutions|
+|20|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
 
 
 
