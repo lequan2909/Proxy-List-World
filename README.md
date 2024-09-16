@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|36.37.163.254|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|35.87.161.97|3128|United States|Portland|Amazon.com, Inc.|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|35.87.161.97|3128|United States|Portland|Amazon.com, Inc.|
 |6|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|8|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|67.43.228.253|31003|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.227|3311|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|20899|Canada|Montreal|GloboTech Communications|
-|12|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|13|152.26.229.42|9443|United States|Concord|MCNC|
-|14|67.43.227.227|3311|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.173|23599|Canada|Montreal|GloboTech Communications|
-|16|152.26.231.94|9443|United States|Concord|MCNC|
-|17|152.26.229.34|9443|United States|Concord|MCNC|
-|18|35.87.161.97|3128|United States|Portland|Amazon.com, Inc.|
-|19|72.10.160.92|10407|Canada|Montreal|GloboTech Communications|
-|20|103.147.134.238|1111|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
+|7|85.175.5.50|3128|Russia|Krasnodar|Southen Telecommunication Maintainer|
+|8|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|103.159.195.193|8080|Indonesia|Rembang|PT Giga Digital Nusantara|
+|10|128.90.145.151|8118|Belgium|Brussels|Powerhouse Management, Inc.|
+|11|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|12|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|115.72.46.96|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|15|160.248.190.242|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|18|67.43.227.227|28339|Canada|Montreal|GloboTech Communications|
+|19|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
