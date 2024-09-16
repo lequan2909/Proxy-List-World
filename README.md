@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|160.248.187.82|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|8.216.90.236|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|6|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|7|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|8|31.128.73.126|3128|Ukraine|Ivano-Frankivsk|PRIVATE JOINT STOCK COMPANY "DATAGROUP"|
-|9|37.232.13.2|8080|Georgia|Tbilisi|JSC "Silknet"|
-|10|36.93.130.219|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
-|11|45.233.169.25|999|Colombia|Popayán|Simect Group Redes E Internet S.A.S|
-|12|8.216.90.236|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|13|103.166.227.82|8085|Indonesia|Majalengka|PT Arta Flash Sintesa Nusantara|
-|14|181.114.62.1|8085|Argentina|Ramallo|INTERAIR|
-|15|152.26.229.46|9443|United States|Concord|MCNC|
-|16|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|160.248.187.82|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|190.94.212.43|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|7|112.198.200.62|8082|Philippines|Nasugbu|Globe Telecom|
+|8|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|9|103.139.126.31|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|10|180.211.162.146|8080|Bangladesh|Kāfrul|Bangladesh Telegraph & Telephone Board|
+|11|186.125.218.185|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|12|188.132.222.147|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|212.174.79.169|8080|Türkiye|Sanliurfa|Turk Telekomunikasyon Anonim Sirketi|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|125.234.243.176|5000|Vietnam|Tuyên Quang|Viettel Corporation|
+|16|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|17|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|160.248.190.240|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
 |20|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
