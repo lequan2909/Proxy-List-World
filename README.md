@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.11.206|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|43.167.240.127|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|4|206.237.98.253|1007|Indonesia|Jakarta|PT Herza Digital Indonesia|
+|3|192.99.169.19|8450|Canada|Beauharnois|OVH SAS|
+|4|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
 |5|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|6|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|7|152.26.231.93|9443|United States|Concord|MCNC|
-|8|67.43.228.252|19863|Canada|Montreal|GloboTech Communications|
-|9|89.116.32.140|3128|India|Mumbai|Hostinger International Limited|
-|10|72.10.160.171|23407|Canada|Montreal|GloboTech Communications|
-|11|46.252.141.11|8080|Germany|Kronberg|Vodafone|
-|12|67.43.236.20|13369|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|13525|Canada|Montreal|GloboTech Communications|
-|14|160.248.187.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|116.105.58.170|10013|Vietnam|Quận Bảy|Viettel Corporation|
+|7|206.237.98.253|1007|Indonesia|Jakarta|PT Herza Digital Indonesia|
+|8|152.26.231.93|9443|United States|Concord|MCNC|
+|9|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|11|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|12|160.248.187.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|72.10.164.178|6787|Canada|Montreal|GloboTech Communications|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |15|152.26.229.93|9443|United States|Concord|MCNC|
-|16|72.10.160.173|28361|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|10845|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.91|26485|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.252|19863|Canada|Montreal|GloboTech Communications|
-|20|118.117.189.59|8089|China|Muping|Chinanet|
+|16|67.43.227.226|10845|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|17557|Canada|Montreal|GloboTech Communications|
+|18|222.119.186.187|3128|South Korea|Nam-gu|Korea Telecom|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|67.43.227.226|10845|Canada|Montreal|GloboTech Communications|
 
 
 
