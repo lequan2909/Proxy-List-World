@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|36.72.252.71|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|4|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|203.150.128.236|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|6|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|8|144.86.187.54|3129|United States|Malden|Charles River Operation|
-|9|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|10|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|11|152.26.231.42|9443|United States|Concord|MCNC|
-|12|152.26.231.94|9443|United States|Concord|MCNC|
-|13|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|14|162.212.155.234|3128|United States|Flushing|tzulo, inc.|
-|15|160.248.187.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|17|152.26.231.83|9443|United States|Concord|MCNC|
-|18|152.26.229.34|9443|United States|Concord|MCNC|
-|19|124.205.141.242|3128|China|Beijing|China Unicom Beijing Province Network|
-|20|67.43.236.20|21047|Canada|Montreal|GloboTech Communications|
+|3|171.228.119.27|10089|Vietnam|Hợp Hòa|Viettel Corporation|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|5|36.72.252.71|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|6|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
+|8|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|103.163.226.253|3125|Indonesia|Mojokerto|PT.Delta Surya Solusitama|
+|10|38.44.241.18|999|Dominican Republic|Santo Domingo Este|Visnetwork SRL|
+|11|203.150.128.236|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|12|85.117.60.163|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|13|103.186.91.39|8989|Indonesia|Jepara|PT Akses Data Internusa|
+|14|43.229.254.221|8181|Indonesia|Bandung|PT. Media Antar Nusa|
+|15|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|17|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|18|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|19|152.26.231.94|9443|United States|Concord|MCNC|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
