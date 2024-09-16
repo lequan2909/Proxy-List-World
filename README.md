@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |3|160.248.187.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|45.55.57.204|443|United States|Clifton|DigitalOcean, LLC|
-|5|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|7|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
-|8|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|9|157.100.7.218|999|Ecuador|Quito|Telconet S.A|
-|10|152.26.231.93|9443|United States|Concord|MCNC|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|72.10.160.90|6541|Canada|Montreal|GloboTech Communications|
-|13|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|7|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|8|181.205.28.66|46380|Colombia|Medellín|Colombia Móvil|
+|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|10|38.52.221.66|8080|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|152.26.231.93|9443|United States|Concord|MCNC|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 |14|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|67.43.228.253|5481|Canada|Montreal|GloboTech Communications|
+|15|103.163.175.29|8080|Indonesia|Jakarta|PT Lima Satu Tiga Global Tel-Access|
 |16|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|17|67.43.236.20|13519|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|4175|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.86|9443|United States|Concord|MCNC|
-|20|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
+|17|112.198.131.71|8082|Philippines|Nasugbu|Globe Telecom|
+|18|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
+|19|190.94.213.6|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
 
