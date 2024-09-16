@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5872** proxies at the latest update. Usable proxies are below.
+> Scraper found **5814** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|412|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|412|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|412|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|454|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|454|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|454|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|106|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|962|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|455|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|397|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3391|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
 |6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
 |7|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|9|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|10|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|11|103.146.185.139|1111|Indonesia|Wonogiri|YAMNET|
-|12|103.155.198.50|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|13|8.216.66.160|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|14|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|15|116.107.96.193|5000|Vietnam|Hanoi|Viettel Corporation|
-|16|27.69.163.114|61492|Vietnam|Hanoi|Viettel Group|
-|17|52.4.135.99|443|United States|Ashburn|Amazon.com, Inc.|
-|18|160.248.187.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|8|41.111.243.134|80|Algeria|Belcourt|Algerie Telecom|
+|9|103.155.198.50|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|10|186.215.87.194|6009|Brazil|Campo Grande|TELEFÔNICA BRASIL S.A|
+|11|103.46.8.61|8080|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
+|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|13|116.111.116.106|10006|Vietnam|Hanoi|Viettel Corporation|
+|14|103.76.149.134|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|15|23.137.249.151|8118|The Netherlands|Naaldwijk|IncogNET LLC|
+|16|103.175.202.182|8090|Indonesia|Kabupaten Tanah Bumbu|PT Ameera Mega Buana|
+|17|185.32.5.130|8090|Poland|Warsaw|AS Consulting Sp. z o. o.|
+|18|52.4.135.99|443|United States|Ashburn|Amazon.com, Inc.|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
