@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
 |3|103.162.63.101|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
 |4|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|6|103.133.63.61|8080|Indonesia|Bandar Lampung|TLINK|
-|7|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|8|67.43.228.250|23275|Canada|Montreal|GloboTech Communications|
-|9|152.26.231.93|9443|United States|Concord|MCNC|
+|5|103.165.155.107|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|6|201.139.121.30|3128|Mexico|Puebla City|Kiwi Networks S A P I de CV|
+|7|152.26.231.93|9443|United States|Concord|MCNC|
+|8|152.26.229.34|9443|United States|Concord|MCNC|
+|9|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
 |10|52.4.135.99|80|United States|Ashburn|Amazon.com, Inc.|
-|11|152.26.229.34|9443|United States|Concord|MCNC|
+|11|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
 |12|52.221.205.90|3128|Singapore|Singapore|Amazon.com, Inc.|
-|13|181.78.79.63|999|Colombia|Pamplona|IFX Networks Argentina S.R.L|
+|13|152.26.229.83|9443|United States|Concord|MCNC|
 |14|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
-|15|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|16|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|17|152.26.229.83|9443|United States|Concord|MCNC|
-|18|72.10.160.92|9913|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|14191|Canada|Montreal|GloboTech Communications|
-|20|163.172.33.137|4041|France|Vitry-sur-Seine|Online S.A.S.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|69.160.223.241|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
 
 
 
