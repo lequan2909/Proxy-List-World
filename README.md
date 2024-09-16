@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|413|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|413|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|413|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
 |3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|5|116.107.97.4|5020|Vietnam|Hanoi|Viettel Corporation|
-|6|183.88.241.167|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|7|103.105.76.49|8080|Indonesia|Bojonegoro|GARUDA|
-|8|77.52.187.199|10000|Ukraine|Rokytne|PrJSC "VF UKRAINE"|
-|9|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|10|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|12|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|13|52.221.205.90|3128|Singapore|Singapore|Amazon.com, Inc.|
-|14|118.117.189.204|8089|China|Muping|Chinanet|
-|15|152.26.229.47|9443|United States|Concord|MCNC|
+|4|103.158.162.18|8080|Indonesia|Jakarta Pusat|PT iForte Global Internet|
+|5|45.76.71.170|8118|United States|Los Angeles|The Constant Company|
+|6|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|7|14.241.253.29|22229|Vietnam|Ho Chi Minh City|VNPT|
+|8|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|222.124.202.144|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|10|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|11|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|152.26.229.47|9443|United States|Concord|MCNC|
+|13|69.160.223.33|8181|United States|Frankton|Swayzee Telephone Company, Inc.|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
+|15|152.26.231.94|9443|United States|Concord|MCNC|
 |16|152.26.229.34|9443|United States|Concord|MCNC|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|72.10.164.178|7921|Canada|Montreal|GloboTech Communications|
-|20|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|17|36.95.3.243|8080|Indonesia|Padang|PT. Telekomunikasi Indonesia|
+|18|72.10.164.178|31059|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|67.43.228.254|3443|Canada|Montreal|GloboTech Communications|
 
 
 
