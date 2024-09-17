@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.204.161.192|18080|United States|Reston|OVH SAS|
-|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|3|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|74.103.66.15|80|United States|Sparrows Point|Verizon Business|
-|8|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
-|9|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|10|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|11|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|12|152.26.229.34|9443|United States|Concord|MCNC|
-|13|186.232.59.146|54443|Brazil|Conceição do Jacuípe|Geeknet Provedor De Internet Ltda ME|
-|14|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|15|103.89.15.158|1085|United States|Dallas|Kamatera|
-|16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|72.10.164.178|17157|Canada|Montreal|GloboTech Communications|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|152.26.231.93|9443|United States|Concord|MCNC|
-|20|186.96.15.70|8080|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|1|103.213.218.56|19054|Vietnam|Lê Chân District|V9ERP|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|5|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
+|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|7|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
+|8|103.213.218.252|16728|Vietnam|Lê Chân District|V9ERP|
+|9|194.44.177.225|8080|Ukraine|Lviv|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
+|10|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|11|85.118.117.165|8080|Georgia|Tbilisi|EGRISI|
+|12|133.242.203.223|80|Japan|Chiyoda|SAKURA Internet Inc.|
+|13|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|14|103.35.109.205|58080|Bangladesh|Dhaka|Ranks ITT|
+|15|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|16|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|17|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|103.26.108.254|84|India|Thoothukudi|Niss Networks|
+|20|190.94.213.83|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
 
 
 
