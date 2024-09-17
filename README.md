@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.174.81.10|80|India|Nandyāl|Panduranga Cable & Networks|
+|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
 |3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|86.98.93.23|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|10|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
-|14|152.26.229.93|9443|United States|Concord|MCNC|
-|15|14.103.168.150|8088|China|Beijing|BITNET|
-|16|117.68.38.151|20147|China|Hefei|China Telecom|
-|17|36.67.114.94|8187|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|18|72.10.160.90|29033|Canada|Montreal|GloboTech Communications|
-|19|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|72.10.160.90|29033|Canada|Montreal|GloboTech Communications|
+|4|152.26.229.93|9443|United States|Concord|MCNC|
+|5|152.26.229.34|9443|United States|Concord|MCNC|
+|6|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|7|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|67.43.236.20|10545|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.90|27185|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.19|25527|Canada|Montreal|GloboTech Communications|
+|12|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|152.26.229.42|9443|United States|Concord|MCNC|
+|14|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|152.26.229.46|9443|United States|Concord|MCNC|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|19|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|20|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
