@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6174** proxies at the latest update. Usable proxies are below.
+> Scraper found **6066** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|413|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|413|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|413|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|185|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|981|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|873|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|417|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3633|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|2|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|4|160.248.11.223|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|5|103.48.68.218|84|India|Hyderabad|Country Online Services PVT LTD|
-|6|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
-|7|8.216.90.236|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|8|103.35.109.205|58080|Bangladesh|Dhaka|Ranks ITT|
-|9|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|10|203.192.217.6|8080|India|Delhi|Entire In2Cable|
-|11|187.62.153.57|8088|Brazil|Oeiras|Megalink Internet|
-|12|198.244.231.83|8888|United Kingdom|London|OVH SAS|
-|13|72.10.160.174|19209|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|26179|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|12619|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.92|5435|Canada|Montreal|GloboTech Communications|
-|17|182.253.40.149|8080|Indonesia|Jakarta Pusat|BIZNET|
-|18|20.184.18.156|80|Singapore|Singapore|Microsoft Corporation|
-|19|67.43.227.227|26179|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.173|28557|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|103.18.77.36|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|5|103.165.155.68|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|7|35.87.161.97|3128|United States|Portland|Amazon.com, Inc.|
+|8|177.184.199.36|80|Brazil|São Paulo|Wireless Comm Services LTDA|
+|9|186.96.31.46|7070|Mexico|Cholula|Total Play Telecomunicaciones SA De CV|
+|10|45.112.127.222|8181|Indonesia|South Tangerang|FIBERNET|
+|11|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|192.99.178.146|3128|Canada|Beauharnois|OVH Hosting|
+|15|152.26.229.47|9443|United States|Concord|MCNC|
+|16|152.26.229.83|9443|United States|Concord|MCNC|
+|17|67.43.236.20|12619|Canada|Montreal|GloboTech Communications|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
+|20|172.232.239.149|3128|Indonesia|Jakarta|Akamai Technologies, Inc.|
 
 
 
