@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.204.161.192|18080|United States|Reston|OVH SAS|
-|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|4|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|36.93.217.223|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|7|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|10|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|11|67.43.236.21|18911|Canada|Montreal|GloboTech Communications|
-|12|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|16|45.70.85.33|58080|Brazil|Araçatuba|B.B.S COMUNICAÇÕES LTDA ME|
-|17|72.10.164.178|13895|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|13895|Canada|Montreal|GloboTech Communications|
-|19|15.204.161.192|18080|United States|Reston|OVH SAS|
-|20|67.43.227.230|10915|Canada|Montreal|GloboTech Communications|
+|2|203.150.113.34|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
+|7|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|8|152.32.67.107|65535|Philippines|Quezon City|Converge ICT Solution Inc|
+|9|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|11|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|12|152.26.229.42|9443|United States|Concord|MCNC|
+|13|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|14|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|15|67.43.228.253|10753|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.230|8499|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|3763|Canada|Montreal|GloboTech Communications|
+|18|45.70.203.112|999|Ecuador|Quito|Ufinet Panama S.A.|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|118.137.29.92|8080|Indonesia|Jakarta|Linknet-Fastnet ASN|
 
 
 
