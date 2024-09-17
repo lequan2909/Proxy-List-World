@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|2|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|38.156.73.61|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|6|202.180.20.66|8080|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|7|119.76.142.174|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
-|8|45.188.167.25|999|Mexico|Tototlán|Velocom SA De CV|
-|9|126.209.13.226|8082|Philippines|Manila|Infinivan Incorporated|
-|10|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|12|140.238.230.215|3128|India|Mumbai|Oracle Corporation|
-|13|72.10.164.178|26065|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|26065|Canada|Montreal|GloboTech Communications|
-|15|152.26.231.86|9443|United States|Concord|MCNC|
-|16|84.254.0.86|32650|Greece|Athens|Tellas S.A|
-|17|152.26.231.42|9443|United States|Concord|MCNC|
-|18|152.26.229.46|9443|United States|Concord|MCNC|
-|19|195.123.240.138|7777|United States|Los Angeles|Green Floid LLC|
-|20|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|152.26.231.86|9443|United States|Concord|MCNC|
+|4|152.26.231.42|9443|United States|Concord|MCNC|
+|5|152.26.229.46|9443|United States|Concord|MCNC|
+|6|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|7|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|72.10.164.178|4735|Canada|Montreal|GloboTech Communications|
+|9|67.43.228.254|29895|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|4735|Canada|Montreal|GloboTech Communications|
+|11|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|12|152.26.229.86|9443|United States|Concord|MCNC|
+|13|1.180.6.100|80|China|Haoxinying|Chinanet|
+|14|152.26.229.47|9443|United States|Concord|MCNC|
+|15|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|16|152.26.229.83|9443|United States|Concord|MCNC|
+|17|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
+|18|152.26.231.93|9443|United States|Concord|MCNC|
+|19|67.43.227.226|32823|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
