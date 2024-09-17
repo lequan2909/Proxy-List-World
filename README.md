@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|443|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|443|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|443|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|192.99.169.19|8450|Canada|Beauharnois|OVH SAS|
-|3|125.25.32.180|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|159.203.104.153|4200|United States|Clifton|DigitalOcean, LLC|
-|6|159.203.104.153|4200|United States|Clifton|DigitalOcean, LLC|
-|7|101.255.166.134|1111|Indonesia|Bekasi|PT Remala Abadi|
-|8|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|202.47.188.94|5566|Indonesia|Magetan|PT.CITRA BERDIKARI NUSANTARA|
-|10|45.127.56.194|83|India|Hyderabad|Pioneer Elabs Ltd|
-|11|27.112.70.155|8083|Indonesia|Jakarta|GRAHANET|
-|12|203.110.145.82|63128|Australia|Sydney|Macquarie Technology Operations Pty Limited|
-|13|129.150.40.36|3128|Singapore|Singapore|Oracle Corporation|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|72.10.160.171|27501|Canada|Montreal|GloboTech Communications|
-|16|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|17|192.99.169.19|8450|Canada|Beauharnois|OVH SAS|
-|18|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|19|152.26.229.47|9443|United States|Concord|MCNC|
-|20|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|3|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|125.25.32.180|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|5|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|208.91.66.151|8118|United States|Austin|Paradise Networks LLC|
+|7|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
+|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|38.52.221.66|8080|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|10|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|11|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|152.26.229.47|9443|United States|Concord|MCNC|
+|13|152.26.229.46|9443|United States|Concord|MCNC|
+|14|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|15|72.10.160.171|23271|Canada|Montreal|GloboTech Communications|
+|16|45.188.156.217|8088|Brazil|Teresina|Marcelo & Renato Digital Net LTDA|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|181.78.95.50|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|20|67.43.227.228|13021|Canada|Montreal|GloboTech Communications|
 
 
 
