@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|103.213.218.250|14717|Vietnam|Lê Chân District|V9ERP|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|5|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|7|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|8|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|147.45.74.178|3128|Sweden|Stockholm|Aeza International LTD|
-|11|187.188.169.169|8080|Mexico|Santa Cruz Huitziltepec|Total Play Telecomunicaciones SA De CV|
-|12|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|13|103.130.175.169|8080|Bangladesh|Dhaka|Cyber Net Communications|
-|14|201.65.173.180|8080|Brazil|Brasília|Claro S.A.|
-|15|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|16|38.156.75.27|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|67.43.236.18|17525|Canada|Montreal|GloboTech Communications|
-|18|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
-|19|152.26.231.93|9443|United States|Concord|MCNC|
-|20|72.10.160.90|8399|Canada|Montreal|GloboTech Communications|
+|4|103.213.218.24|15673|Vietnam|Lê Chân District|V9ERP|
+|5|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|6|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|7|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|8|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|162.55.232.219|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|103.66.196.166|8080|Indonesia|Bekasi|PT. Mora Telematika Indonesia|
+|13|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|103.19.130.50|8080|Bangladesh|Dhaka|InfoLink|
+|15|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
+|18|152.26.231.93|9443|United States|Concord|MCNC|
+|19|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|20|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
 
 
 
