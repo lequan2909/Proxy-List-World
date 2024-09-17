@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|192.121.82.26|8118|United States|Los Angeles|Datacamp Limited|
+|2|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |4|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
 |5|86.98.93.23|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|6|192.121.82.26|8118|United States|Los Angeles|Datacamp Limited|
-|7|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|8|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|50.7.81.42|8118|Spain|Madrid|FDCservers.net|
-|10|36.91.135.141|40|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
-|11|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|186.57.48.26|3128|Argentina|Ezeiza|Telefonica de Argentina|
-|13|114.130.183.66|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|14|104.248.165.240|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|45.81.115.86|3128|Türkiye|Bursa|Pembe Gul Isguzar Karagoz|
-|16|103.226.232.206|3125|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
-|17|176.110.121.90|21776|Russia|Moscow|Teraline Telecom Ltd|
-|18|182.253.122.156|8080|Indonesia|Surabaya|BIZNET|
-|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|20|103.42.120.31|8080|Indonesia|Jakarta|PT Transhybrid Communication|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|9|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|10|177.234.241.28|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|11|103.217.224.36|3127|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|12|203.142.74.115|8080|Indonesia|Semarang|BIZNET|
+|13|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|139.255.21.74|8080|Indonesia|Jakarta|PT. LINKNET|
+|16|113.161.59.136|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|18|32.142.206.26|9081|United States|Bolton|AT&T Services, Inc.|
+|19|45.81.115.86|3128|Türkiye|Bursa|Pembe Gul Isguzar Karagoz|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
