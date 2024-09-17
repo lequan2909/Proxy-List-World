@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|103.213.218.250|14717|Vietnam|Lê Chân District|V9ERP|
-|4|203.150.128.92|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|8|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
-|9|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|103.213.218.27|11418|Vietnam|Lê Chân District|V9ERP|
-|11|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|12|49.49.141.245|8080|Thailand|Prachin Buri|Triple T Broadband Public Company Limited|
-|13|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|152.26.229.46|9443|United States|Concord|MCNC|
-|15|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|16|118.117.189.119|8089|China|Muping|Chinanet|
-|17|57.128.45.79|3128|France|Gravelines|OVH SAS|
-|18|72.10.160.170|28977|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.174|29157|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|3|186.96.15.70|8080|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|4|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|38.156.73.59|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|8|152.26.229.46|9443|United States|Concord|MCNC|
+|9|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|10|72.10.160.170|10735|Canada|Montreal|GloboTech Communications|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|152.26.231.86|9443|United States|Concord|MCNC|
+|13|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|152.26.229.83|9443|United States|Concord|MCNC|
+|15|177.234.236.134|8080|Ecuador|Machala|Ufinet Panama S.A.|
+|16|103.242.104.43|8090|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|17|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
 
