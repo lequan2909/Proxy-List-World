@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|3|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|188.132.222.37|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|6|179.97.243.162|3128|Brazil|Santo Antônio|Speed Serviços de Internet Ltda|
-|7|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
+|3|176.121.48.97|23500|Russia|Zhavoronki|ZAO Greenline|
+|4|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|103.24.106.190|8080|Indonesia|Jakarta|Quantum Dist Cyber APJII|
+|6|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|7|144.91.120.37|80|Germany|Nuremberg|Contabo GmbH|
 |8|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|9|152.26.229.83|9443|United States|Concord|MCNC|
+|9|179.97.243.162|3128|Brazil|Santo Antônio|Speed Serviços de Internet Ltda|
 |10|152.26.229.46|9443|United States|Concord|MCNC|
 |11|152.26.229.93|9443|United States|Concord|MCNC|
-|12|152.26.229.42|9443|United States|Concord|MCNC|
-|13|209.14.119.220|999|Colombia|Bogotá|AGIS|
-|14|8.216.90.236|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|152.26.231.86|9443|United States|Concord|MCNC|
-|17|67.43.227.227|1523|Canada|Montreal|GloboTech Communications|
-|18|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|19|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|12|152.26.229.83|9443|United States|Concord|MCNC|
+|13|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
+|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|16|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|17|152.26.231.86|9443|United States|Concord|MCNC|
+|18|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|189.50.9.30|8080|Brazil|Vitória|VIPRede Telecomunicações Ltda|
 |20|67.43.227.227|1523|Canada|Montreal|GloboTech Communications|
 
 
