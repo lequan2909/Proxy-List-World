@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|6|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
-|7|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|8|152.26.231.93|9443|United States|Concord|MCNC|
-|9|152.26.229.42|9443|United States|Concord|MCNC|
-|10|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
-|11|67.43.236.20|28391|Canada|Montreal|GloboTech Communications|
-|12|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|14|86.98.93.23|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|15|67.43.227.227|6485|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|12695|Canada|Montreal|GloboTech Communications|
-|17|117.68.38.187|27010|China|Hefei|China Telecom|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|3|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
+|4|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|5|203.192.217.6|8080|India|Delhi|Entire In2Cable|
+|6|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|7|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
+|8|152.26.229.42|9443|United States|Concord|MCNC|
+|9|152.26.231.93|9443|United States|Concord|MCNC|
+|10|113.240.99.148|65007|China|Qingyuan|No.293, Wanbao Avenue|
+|11|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|13|67.43.236.20|3049|Canada|Montreal|GloboTech Communications|
+|14|149.56.95.145|9595|Canada|Montreal|OVH Hosting|
+|15|86.98.93.23|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
 |18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|20|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|19|67.43.227.227|24541|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|20087|Canada|Montreal|GloboTech Communications|
 
 
 
