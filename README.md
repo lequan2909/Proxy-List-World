@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|103.247.23.181|1111|Indonesia|Bekasi|PT wifian Solution|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|103.174.237.66|3127|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|5|110.78.149.108|8080|Thailand|Chon Buri|CAT-BB|
-|6|36.73.132.193|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|7|36.90.49.32|8080|Indonesia|Malang|PT. Telekomunikasi Indonesia|
-|8|194.164.206.37|3128|United Kingdom|Farnham|NETKONECT|
-|9|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|10|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|102.39.232.252|8080|South Africa|Johannesburg|Vox Telecom|
-|12|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|85.117.63.37|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|14|36.89.16.186|8866|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|15|103.74.229.133|8080|Bangladesh|Kushtia|Windstream Communication Ltd|
-|16|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|17|45.81.115.86|3128|Türkiye|Bursa|Pembe Gul Isguzar Karagoz|
-|18|181.78.13.66|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|19|116.80.80.149|3128|Japan|Shimomeguro|InfoSphere|
-|20|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|36.73.132.193|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|7|110.78.149.108|8080|Thailand|Chon Buri|CAT-BB|
+|8|192.248.95.1|3128|Sri Lanka|Kuliyapitiya|Lanka Education and Research Network|
+|9|103.154.178.106|3128|Indonesia|Jambi City|PT Aneka Teguh Jaya|
+|10|187.190.249.114|1994|Mexico|Othón P. Blanco|Total Play Telecomunicaciones SA De CV|
+|11|194.164.206.37|3128|United Kingdom|Farnham|NETKONECT|
+|12|103.174.237.66|3127|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|13|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|71.191.130.54|8118|United States|Gainesville|Verizon Communications|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|17|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|18|71.191.130.54|8118|United States|Gainesville|Verizon Communications|
+|19|45.81.115.86|3128|Türkiye|Bursa|Pembe Gul Isguzar Karagoz|
+|20|129.150.40.36|3128|Singapore|Singapore|Oracle Corporation|
 
 
 
