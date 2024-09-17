@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|15.204.161.192|18080|United States|Reston|OVH SAS|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
 |4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
 |5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|222.119.186.187|3128|South Korea|Nam-gu|Korea Telecom|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|212.110.188.207|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|9|38.52.221.66|8080|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|10|41.254.56.6|1981|Libya|Tripoli|LTT Network Backbone and POPs|
-|11|67.43.236.22|31349|Canada|Montreal|GloboTech Communications|
-|12|117.91.186.165|20530|China|Nanjing|CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou, Jiangsu Province, P.|
-|13|72.10.160.173|21777|Canada|Montreal|GloboTech Communications|
-|14|212.46.210.242|8080|Russia|Moscow|VympelKom broadband internet|
-|15|152.26.229.46|9443|United States|Concord|MCNC|
-|16|140.238.230.215|3128|India|Mumbai|Oracle Corporation|
-|17|186.113.232.105|8080|Colombia|Pereira|Colombia Telecomunicaciones S.a. ESP|
-|18|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|152.26.229.34|9443|United States|Concord|MCNC|
-|20|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|6|45.70.85.33|58080|Brazil|Araçatuba|B.B.S COMUNICAÇÕES LTDA ME|
+|7|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|152.26.229.46|9443|United States|Concord|MCNC|
+|9|152.26.229.34|9443|United States|Concord|MCNC|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|12|152.26.231.94|9443|United States|Concord|MCNC|
+|13|152.26.231.83|9443|United States|Concord|MCNC|
+|14|119.110.69.215|57413|Indonesia|Jakarta|Maxindo|
+|15|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|16|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|94.61.57.219|8118|Portugal|Porto|Vodafone Portugal|
+|18|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|122.50.6.186|8080|Indonesia|Jakarta Pusat|PT Mora Telematika Indonesia|
 
 
 
