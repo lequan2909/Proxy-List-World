@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.204.161.192|18080|United States|Reston|OVH SAS|
-|3|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|112.198.200.136|8082|Philippines|Nasugbu|Globe Telecom|
-|8|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|62.3.30.120|8080|Georgia||Enbinet Ltd.|
-|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|13|150.136.170.150|8090|United States|Ashburn|Oracle Corporation|
-|14|103.171.83.253|8080|Indonesia|Karawang|PT Multi Network Indonesia|
-|15|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|17|212.46.210.242|8080|Russia|Moscow|VympelKom broadband internet|
-|18|204.157.251.154|999|Dominican Republic|El Factor|Sequre Networks SRL|
-|19|152.26.231.94|9443|United States|Concord|MCNC|
-|20|152.26.231.93|9443|United States|Concord|MCNC|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|4|43.167.240.169|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|5|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|43.243.141.12|8080|Indonesia|Pisangan|CEPATNET|
+|8|202.180.20.66|8080|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|9|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|10|103.171.83.253|8080|Indonesia|Karawang|PT Multi Network Indonesia|
+|11|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|12|158.140.169.9|8081|Indonesia|Jakarta|MYREPUBLIC|
+|13|152.26.231.94|9443|United States|Concord|MCNC|
+|14|152.26.231.93|9443|United States|Concord|MCNC|
+|15|152.26.229.46|9443|United States|Concord|MCNC|
+|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|43.167.240.169|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|20|67.43.227.230|4611|Canada|Montreal|GloboTech Communications|
 
 
 
