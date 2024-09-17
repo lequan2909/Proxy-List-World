@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|1|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|2|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
+|5|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 |6|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|7|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|103.138.185.81|83|India|Kota|Mahrth Internet Service Private Limited|
-|10|43.167.243.210|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|11|152.26.231.93|9443|United States|Concord|MCNC|
-|12|67.43.227.227|1503|Canada|Montreal|GloboTech Communications|
-|13|152.26.231.86|9443|United States|Concord|MCNC|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|16|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
-|17|67.43.228.253|32811|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|21155|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|1503|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|21155|Canada|Montreal|GloboTech Communications|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|152.26.231.93|9443|United States|Concord|MCNC|
+|9|152.26.229.42|9443|United States|Concord|MCNC|
+|10|152.26.231.86|9443|United States|Concord|MCNC|
+|11|67.43.227.226|32699|Canada|Montreal|GloboTech Communications|
+|12|46.161.194.88|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|13|67.43.227.227|32289|Canada|Montreal|GloboTech Communications|
+|14|152.26.229.47|9443|United States|Concord|MCNC|
+|15|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|16|152.26.231.83|9443|United States|Concord|MCNC|
+|17|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|112.17.10.41|3128|China|Hangzhou|China Mobile Communications Corporation|
+|19|72.10.160.90|1897|Canada|Montreal|GloboTech Communications|
+|20|43.167.243.210|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
