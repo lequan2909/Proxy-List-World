@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.204.161.192|18080|United States|Reston|OVH SAS|
-|2|86.98.93.23|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|3|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|202.152.142.186|8080|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
-|7|103.165.155.105|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|8|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|9|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
-|10|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|11|38.183.144.117|1111|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|12|112.201.184.35|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|13|202.180.20.10|55443|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|14|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|152.26.231.83|9443|United States|Concord|MCNC|
-|17|149.56.95.145|9595|Canada|Montreal|OVH Hosting|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|223.25.110.193|8080|Indonesia|Surabaya|SinergiNet|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|5|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|7|103.159.194.171|3128|Indonesia|Welahan|PT Giga Digital Nusantara|
+|8|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
+|9|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|152.26.231.83|9443|United States|Concord|MCNC|
+|12|152.26.229.42|9443|United States|Concord|MCNC|
+|13|149.56.95.145|9595|Canada|Montreal|OVH Hosting|
+|14|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|15|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
+|16|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|36.88.125.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|72.128.133.154|16099|United States|Hutto|Charter Communications|
 
 
 
