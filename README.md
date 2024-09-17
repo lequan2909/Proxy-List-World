@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5959** proxies at the latest update. Usable proxies are below.
+> Scraper found **6039** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|436|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|436|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|436|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|184|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|906|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|986|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|364|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3547|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|36.72.252.71|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
-|6|37.60.255.91|3128|Germany|Düsseldorf|SiteGround|
-|7|112.198.130.51|8082|Philippines|Nasugbu|Globe Telecom|
-|8|38.9.59.45|8080|India|Chennai|Microsense Private Limited|
-|9|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|177.93.36.74|3128|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
-|12|45.81.115.86|3128|Türkiye|Bursa|Pembe Gul Isguzar Karagoz|
-|13|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|14|190.239.221.104|999|Peru|Barranca|Telefonica del Peru S.A.A.|
-|15|152.26.229.47|9443|United States|Concord|MCNC|
-|16|58.147.186.226|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
-|17|152.26.229.46|9443|United States|Concord|MCNC|
-|18|152.26.231.93|9443|United States|Concord|MCNC|
-|19|159.203.104.153|4200|United States|Clifton|DigitalOcean, LLC|
-|20|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|5|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|7|58.27.218.28|3128|Pakistan|Lahore|Wateen Telecom Limited|
+|8|37.60.255.91|3128|Germany|Düsseldorf|SiteGround|
+|9|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|181.115.66.238|999|Honduras|San Pedro Sula|TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|13|190.211.172.178|999|Chile|Santa Cruz|InterNexa Global Network|
+|14|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
+|15|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|16|152.26.231.93|9443|United States|Concord|MCNC|
+|17|152.26.229.86|9443|United States|Concord|MCNC|
+|18|67.43.236.20|24259|Canada|Montreal|GloboTech Communications|
+|19|45.126.41.7|8080|Indonesia|Jumpangdua|NIRWANA|
+|20|177.234.236.134|8080|Ecuador|Machala|Ufinet Panama S.A.|
 
 
 
