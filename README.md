@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|103.122.1.65|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|7|177.32.153.62|8080|Brazil|São Paulo|Claro NXT Telecomunicacoes Ltda|
-|8|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|9|95.154.124.114|58000|Russia|Moscow|Octopusnet LTD|
-|10|66.186.199.16|8080|Albania|Kashar|Vodafone Albania Sh.A.|
-|11|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|12|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|177.184.199.36|80|Brazil|São Paulo|Wireless Comm Services LTDA|
-|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|45.127.56.194|83|India|Hyderabad|Pioneer Elabs Ltd|
-|16|46.161.196.144|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|17|131.100.51.45|999|Colombia|Neiva|Fibernet TV SAS|
-|18|103.133.27.143|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|19|59.124.9.67|3128|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|20|20.184.19.113|31280|Singapore|Singapore|Microsoft Corporation|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|5|101.255.166.134|1111|Indonesia|Bekasi|PT Remala Abadi|
+|6|103.154.25.94|8080|Indonesia|Selong|HIJRAHNET|
+|7|148.101.14.67|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A.|
+|8|45.127.56.194|83|India|Hyderabad|Pioneer Elabs Ltd|
+|9|103.178.194.50|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|10|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|20.184.19.113|31280|Singapore|Singapore|Microsoft Corporation|
+|12|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|13|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|14|180.45.10.152|8080|Japan|Kyoto|NTT Communications Corporation|
+|15|45.112.127.222|8181|Indonesia|South Tangerang|FIBERNET|
+|16|198.244.231.83|8888|United Kingdom|London|OVH SAS|
+|17|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
+|18|152.26.231.93|9443|United States|Concord|MCNC|
+|19|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|20|103.102.15.41|18181|Indonesia|Rembangan|FISNET|
 
 
 
