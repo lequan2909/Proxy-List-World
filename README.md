@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|3|160.248.11.216|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|202.57.25.86|8080|Indonesia|Semarang|announced of WINET|
-|6|86.98.93.23|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|7|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
-|8|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|9|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
-|10|103.1.50.17|3125|Indonesia|Pasuruan|CPCNet Hong Kong Ltd. - IP Administrator|
-|11|71.191.130.54|8118|United States|Gainesville|Verizon Communications|
-|12|103.165.222.188|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|13|89.218.175.84|8080|Kazakhstan|Atyrau|JSC Kazakhtelecom|
-|14|36.91.115.133|80|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|15|103.155.197.68|8181|Indonesia|Sukabumi|JEMBATANDATA|
-|16|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|17|38.183.214.50|8080|Venezuela|Valle de La Pascua|WISP TECNOGER, C.A.|
-|18|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|158.140.169.9|8081|Indonesia|Jakarta|MYREPUBLIC|
-|20|36.66.111.81|8080|Indonesia|Pondok Labu|PT. Telekomunikasi Indonesia|
+|1|160.248.11.209|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|3|103.26.110.37|84|India|Chennai|Niss Networks|
+|4|74.48.45.120|80|United States|Los Angeles|Multacom Corporation|
+|5|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|6|36.71.166.89|8080|Indonesia|Bogor|PT. TELKOM INDONESIA|
+|7|74.48.45.120|80|United States|Los Angeles|Multacom Corporation|
+|8|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|112.198.129.234|8085|Philippines|Nasugbu|Globe Telecom|
+|10|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|11|129.153.113.206|8118|United States|Phoenix|Oracle Corporation|
+|12|152.26.229.46|9443|United States|Concord|MCNC|
+|13|5.143.152.36|8080|Russia|Belgorod|Rostelecom networks|
+|14|152.26.229.34|9443|United States|Concord|MCNC|
+|15|72.10.164.178|29073|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|29073|Canada|Montreal|GloboTech Communications|
+|17|160.248.187.82|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|67.43.227.227|17999|Canada|Montreal|GloboTech Communications|
+|19|144.86.187.54|3129|United States|Malden|Charles River Operation|
+|20|160.248.11.225|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
