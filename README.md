@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|171.245.117.26|5004|Vietnam|Quảng Ninh|Viettel Corporation|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|6|148.230.180.141|8080|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|4|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|6|45.235.16.121|27234|Brazil|Chapecó|Acessoline Telecom|
 |7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|223.25.110.226|8080|Indonesia|Surabaya|SinergiNet|
-|9|38.156.15.160|999|Mexico|Yahualica de González Gallo|Wistarip S De RL De CV|
+|8|5.160.237.190|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|9|121.146.251.117|3128|South Korea|Jinju|Korea Telecom|
 |10|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|11|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
-|12|152.26.231.86|9443|United States|Concord|MCNC|
-|13|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|14|61.12.35.12|8080|India|Chennai|Ttsl-isp Division|
-|15|103.245.205.226|6969|Bangladesh|Dhaka|Next Online Limited|
-|16|162.55.232.219|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|51.222.142.100|9595|Canada|Beauharnois|OVH SAS|
-|19|117.68.38.182|24161|China|Hefei|China Telecom|
-|20|72.10.160.90|31385|Canada|Montreal|GloboTech Communications|
+|11|38.183.144.117|1111|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
+|12|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
+|13|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|14|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|15|61.12.35.12|8080|India|Chennai|Ttsl-isp Division|
+|16|51.222.142.100|9595|Canada|Beauharnois|OVH SAS|
+|17|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|103.48.70.145|83|India|Hyderabad|Country Online Services PVT LTD|
+|20|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
 
 
 
