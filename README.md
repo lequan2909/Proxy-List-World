@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|86.98.93.23|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|5|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|6|86.98.93.23|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|222.127.246.81|8082|Philippines|Iloilo City|GLBB|
+|11|212.110.188.202|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|12|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
+|13|103.26.108.254|84|India|Thoothukudi|Niss Networks|
 |14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|16|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|17|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|18|152.26.231.83|9443|United States|Concord|MCNC|
-|19|111.224.11.244|8089|China|Shijiazhuang|Chinanet|
-|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|181.209.122.74|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|16|152.26.231.83|9443|United States|Concord|MCNC|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
