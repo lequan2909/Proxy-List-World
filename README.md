@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
-|4|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|6|119.76.142.174|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
-|7|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|8|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|9|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
-|10|152.26.229.47|9443|United States|Concord|MCNC|
-|11|152.26.229.34|9443|United States|Concord|MCNC|
-|12|152.26.231.83|9443|United States|Concord|MCNC|
-|13|8.216.90.236|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|14|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|15|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|16|190.225.148.49|3128|Argentina|Tafí Viejo|Telecom Argentina S.A.|
-|17|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|18|72.10.164.178|28243|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|19633|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|28243|Canada|Montreal|GloboTech Communications|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|103.113.149.217|6969|Bangladesh|Dhaka|DigiCon Telecommunication Ltd|
+|5|119.76.142.174|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|62.171.161.88|2018|Germany|Nuremberg|Contabo GmbH|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|62.3.30.120|8080|Georgia||Enbinet Ltd.|
+|10|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|11|152.26.229.47|9443|United States|Concord|MCNC|
+|12|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|13|152.26.229.34|9443|United States|Concord|MCNC|
+|14|72.10.164.178|28243|Canada|Montreal|GloboTech Communications|
+|15|152.26.231.83|9443|United States|Concord|MCNC|
+|16|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|17|162.55.232.219|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|160.202.42.156|8080|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
+|19|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|20|58.33.109.114|2021|China|Shanghai|China Telecom (Group)|
 
 
 
