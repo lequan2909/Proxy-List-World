@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|391|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|391|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|391|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|103.133.63.134|8181|Indonesia|Bandar Lampung|TLINK|
 |3|160.248.11.209|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|103.165.157.79|8090|Indonesia|Taman|MEGADATA-ISP|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
 |5|111.92.161.69|8080|Indonesia|Yogyakarta|Jogja Medianet|
-|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|7|36.71.166.89|8080|Indonesia|Bogor|PT. TELKOM INDONESIA|
-|8|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|9|103.239.253.66|8080|Bangladesh|Dhaka|Carnival Internet|
-|10|41.139.197.131|8080|Kenya|Nairobi|Converged services Western|
-|11|210.87.125.58|1080|Indonesia|Kediri|CV Brawijaya Giga Network|
-|12|5.143.152.36|8080|Russia|Belgorod|Rostelecom networks|
-|13|181.114.62.1|8085|Argentina|Ramallo|INTERAIR|
-|14|103.107.84.191|8080|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
-|15|103.180.196.141|8080|Indonesia|Yogyakarta|PT Dekadata Lingkar Nusantara|
-|16|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|163.47.39.37|8080|Bangladesh|Dhaka|Bangladesh Research and Education Network (BdREN)|
-|18|182.252.70.220|8082|Bangladesh|Kāfrul|Agni Systems Limited|
-|19|82.200.205.126|8081|Kazakhstan|Ekibastuz|JSC Kazakhtelecom|
-|20|103.167.170.202|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|6|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|7|14.183.10.13|8080|Vietnam|Thu Dau Mot|VNPT|
+|8|84.54.4.55|8118|Russia|Moscow|Nikitin Maxim Sergeevich|
+|9|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
+|10|103.172.70.153|8080|Indonesia|Karangampel|AZNET|
+|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|12|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|188.72.43.162|47193|Iraq|Xebat|Pirmam For Information Technology Ltd|
+|14|46.252.35.91|8080|Albania|Tirana|Vodafone Albania Sh.A.|
+|15|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
+|16|64.6.8.5|8080|United States|Macomb|MTC Communications|
+|17|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|203.190.46.127|8090|Indonesia|Sleman|PT Jaring Lintas Utara|
 
 
 
