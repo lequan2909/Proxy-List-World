@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|103.147.134.253|1111|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
-|5|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
-|6|43.167.243.210|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|7|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|8|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|9|114.9.52.134|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|10|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|11|67.43.228.254|27397|Canada|Montreal|GloboTech Communications|
-|12|152.26.229.46|9443|United States|Concord|MCNC|
-|13|152.26.229.34|9443|United States|Concord|MCNC|
+|2|103.178.88.54|8080|Indonesia|Jakarta|PT INTER MEDIALINK SOLUSI|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|77.87.19.54|8080|Saudi Arabia|Jeddah|WBC 1|
+|5|103.213.218.252|16728|Vietnam|Lê Chân District|V9ERP|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|67.43.227.228|17383|Canada|Montreal|GloboTech Communications|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|10|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|11|152.26.229.46|9443|United States|Concord|MCNC|
+|12|152.26.229.34|9443|United States|Concord|MCNC|
+|13|103.147.134.253|1111|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
 |14|152.26.229.93|9443|United States|Concord|MCNC|
-|15|72.10.164.178|16713|Canada|Montreal|GloboTech Communications|
-|16|181.209.122.74|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|122.50.6.186|8080|Indonesia|Jakarta Pusat|PT Mora Telematika Indonesia|
+|17|181.204.81.181|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
 |18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|67.43.228.250|19757|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.254|27397|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.254|27397|Canada|Montreal|GloboTech Communications|
+|20|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 
 
 
