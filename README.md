@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|3|36.72.252.71|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|4|37.60.255.91|3128|Germany|Düsseldorf|SiteGround|
-|5|45.9.43.28|8080|Russia|St Petersburg|Beget LLC|
-|6|103.69.20.54|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|7|190.61.106.97|8080|Costa Rica|San José|Ufinet Costa Rica|
-|8|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|10|114.9.27.194|7777|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|11|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|12|72.10.164.178|29085|Canada|Montreal|GloboTech Communications|
-|13|45.81.115.86|3128|Türkiye|Bursa|Pembe Gul Isguzar Karagoz|
-|14|182.253.109.146|8080|Indonesia|Jakarta|Biznet Metronet|
-|15|45.87.208.37|8080|United Kingdom|Edinburgh|WiFi Scotland LLP|
-|16|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|152.26.231.83|9443|United States|Concord|MCNC|
-|18|72.10.164.178|29085|Canada|Montreal|GloboTech Communications|
-|19|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
-|20|67.43.227.227|1203|Canada|Montreal|GloboTech Communications|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|36.70.152.67|8081|Indonesia|Pekanbaru|PT. TELKOM INDONESIA|
+|5|36.72.252.71|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|6|58.27.218.28|3128|Pakistan|Lahore|Wateen Telecom Limited|
+|7|103.234.31.60|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
+|8|103.89.15.158|1085|United States|Dallas|Kamatera|
+|9|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|181.57.171.254|8085|Colombia|Bogotá|Telmex Colombia S.A.|
+|11|103.39.51.73|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|12|101.255.209.41|8080|Indonesia|Jakarta|PT Remala Abadi|
+|13|203.190.46.159|3127|Indonesia|Sleman|PT Jaring Lintas Utara|
+|14|160.248.11.221|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|36.64.184.2|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|182.253.109.146|8080|Indonesia|Jakarta|Biznet Metronet|
+|18|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|19|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|20|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
