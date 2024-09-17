@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.204.161.192|18080|United States|Reston|OVH SAS|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|6|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
-|7|103.247.216.70|8080|Indonesia|Penggilingan|PT. Parsaoran Global Datatrans|
-|8|152.26.229.47|9443|United States|Concord|MCNC|
-|9|67.43.236.20|24587|Canada|Montreal|GloboTech Communications|
-|10|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|11|152.26.229.42|9443|United States|Concord|MCNC|
-|12|152.26.231.42|9443|United States|Concord|MCNC|
-|13|152.26.229.93|9443|United States|Concord|MCNC|
-|14|67.43.227.228|31759|Canada|Montreal|GloboTech Communications|
-|15|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|16|117.68.38.134|20037|China|Hefei|China Telecom|
-|17|67.43.227.228|31759|Canada|Montreal|GloboTech Communications|
-|18|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|19|72.10.164.178|8535|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|8535|Canada|Montreal|GloboTech Communications|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|86.98.93.23|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|7|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|11|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|12|43.167.243.210|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|13|36.93.217.223|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|14|110.49.53.69|8081|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|15|152.26.229.47|9443|United States|Concord|MCNC|
+|16|186.3.97.77|999|Ecuador|Esmeraldas|Telconet S.A|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|67.43.236.20|13715|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
 
