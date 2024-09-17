@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|541|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|541|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|541|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|421|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|421|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|421|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
-|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|6|78.11.40.150|3128|Poland|Warsaw|Netia SA|
-|7|14.183.10.13|8080|Vietnam|Thu Dau Mot|VNPT|
-|8|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|210.87.125.58|1080|Indonesia|Kediri|CV Brawijaya Giga Network|
-|10|182.252.70.220|8082|Bangladesh|Kāfrul|Agni Systems Limited|
-|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|12|194.44.166.182|8099|Ukraine|Rivne|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
-|13|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|103.125.51.25|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|15|181.209.125.123|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|16|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|17|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|18|103.36.10.200|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|64.6.8.5|8080|United States|Macomb|MTC Communications|
+|3|103.166.158.205|8080|Indonesia|Bekasi|PT Timor Lintas Nusantara|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|5|46.245.164.7|3128|Turkey|Istanbul|Netcen Teknoloji Ltd. Sti|
+|6|103.165.208.222|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|7|171.245.124.68|5000|Vietnam|Ha Long|Viettel Corporation|
+|8|182.252.70.220|8082|Bangladesh|Kāfrul|Agni Systems Limited|
+|9|43.153.104.42|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|203.175.102.22|8082|Indonesia|Darma|MITRAKITA|
+|11|103.180.196.141|8080|Indonesia|Yogyakarta|PT Dekadata Lingkar Nusantara|
+|12|130.0.25.110|34607|Albania|Shkodër|IBC Backbone Services South|
+|13|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|14|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|191.243.46.154|43241|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|16|202.137.8.148|8080|Indonesia|Bekasi|LINKNET|
+|17|103.170.131.42|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|18|38.252.216.21|999|Peru|Lima|Telcom Mikrotik Peru S.A.C.|
+|19|89.135.59.71|8090|Hungary|Százhalombatta|Vodafone Hungary Ltd.|
+|20|80.71.188.22|8080|Russia|Novosibirsk|MTS PJSC|
 
 
 
