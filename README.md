@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|93.118.119.15|8080|Iran|Tehran|Telecommunication Company of Iran|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|11|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|12|198.244.151.77|6666|United Kingdom|London|OVH SAS|
+|1|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|2|103.89.15.158|1085|United States|Dallas|Kamatera|
+|3|95.111.239.49|3128|Germany|Nuremberg|Contabo GmbH|
+|4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|5|38.156.72.13|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|6|201.174.38.160|999|Mexico|Salón de Actos|Transtelco Inc|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|186.227.119.91|8080|Brazil|Guaraniaçu|Orssatto Telecom Telecomunicacoes - Eireli|
+|9|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
+|10|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |13|61.12.35.12|8080|India|Chennai|Ttsl-isp Division|
-|14|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|15|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
-|16|188.132.222.230|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|103.213.218.49|17477|Vietnam|Lê Chân District|V9ERP|
+|14|74.103.66.15|80|United States|Sparrows Point|Verizon Business|
+|15|198.244.151.77|6666|United Kingdom|London|OVH SAS|
+|16|103.89.15.158|1085|United States|Dallas|Kamatera|
+|17|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
 |18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|152.26.231.94|9443|United States|Concord|MCNC|
-|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|20|152.26.231.94|9443|United States|Concord|MCNC|
 
 
 
