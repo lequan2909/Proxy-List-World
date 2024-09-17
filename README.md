@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|110.173.58.66|8080|Hong Kong|Cheung Sha Wan|Netsec Limited|
+|1|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|4|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
-|5|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|190.107.232.202|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|7|185.142.131.113|8080|Portugal|Caldas da Rainha|LigaT Telecom Sociedade Unipessoal LDA|
-|8|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|9|36.67.7.74|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
-|10|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|11|103.125.50.234|8080|Indonesia|Pondok Bambu|PT. Eka Mas Republik|
-|12|103.135.1.232|8088|Indonesia|Semarang|PT Maxindo Mitra Solusi|
-|13|171.234.237.179|10004|Vietnam|Hanoi|Viettel Corporation|
-|14|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|15|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|103.213.218.244|11215|Vietnam|Lê Chân District|V9ERP|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|67.43.228.250|12015|Canada|Montreal|GloboTech Communications|
-|20|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|4|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|6|152.26.229.42|9443|United States|Concord|MCNC|
+|7|152.26.231.86|9443|United States|Concord|MCNC|
+|8|190.120.249.180|999|Venezuela|Caracas|CORPORACION FIBEX TELECOM, C.A.|
+|9|67.43.228.250|12015|Canada|Montreal|GloboTech Communications|
+|10|14.103.168.150|8088|China|Beijing|BITNET|
+|11|152.26.229.93|9443|United States|Concord|MCNC|
+|12|24.106.221.230|53281|United States|Wilmington|Spectrum|
+|13|152.26.231.94|9443|United States|Concord|MCNC|
+|14|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|152.26.229.34|9443|United States|Concord|MCNC|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|67.43.227.230|10733|Canada|Montreal|GloboTech Communications|
+|18|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|19|72.10.160.171|16297|Canada|Montreal|GloboTech Communications|
+|20|103.180.118.76|3128|Indonesia|Gresik|PT Persada Data Multimedia|
 
 
 
