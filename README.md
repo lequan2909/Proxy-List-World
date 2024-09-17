@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.184.19.113|31280|Singapore|Singapore|Microsoft Corporation|
+|2|220.150.76.92|6000|Japan|Chiyoda|FreeBit Co., Ltd.|
 |3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|4|126.209.13.226|8082|Philippines|Manila|Infinivan Incorporated|
-|5|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|6|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|20.184.18.156|31280|Singapore|Singapore|Microsoft Corporation|
-|8|72.10.160.90|20461|Canada|Montreal|GloboTech Communications|
-|9|192.99.178.146|9595|Canada|Beauharnois|OVH Hosting|
-|10|45.81.115.86|3128|Türkiye|Bursa|Pembe Gul Isguzar Karagoz|
-|11|45.81.115.86|3128|Türkiye|Bursa|Pembe Gul Isguzar Karagoz|
-|12|192.99.178.146|9595|Canada|Beauharnois|OVH Hosting|
-|13|103.127.220.106|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|14|72.10.164.178|17659|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.226|14939|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|20461|Canada|Montreal|GloboTech Communications|
-|17|223.70.184.125|3128|China|Beijing|China Mobile communications corporation|
-|18|67.43.227.227|18433|Canada|Montreal|GloboTech Communications|
-|19|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
-|20|72.10.164.178|17659|Canada|Montreal|GloboTech Communications|
+|4|23.226.67.211|20040|United States|Phoenix|Input Output Flood LLC|
+|5|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
+|7|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|8|45.81.115.86|3128|Türkiye|Bursa|Pembe Gul Isguzar Karagoz|
+|9|177.136.86.5|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
+|10|163.5.142.238|3128|France|Paris|IONIS|
+|11|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|12|67.43.227.227|31385|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.172|10689|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|31385|Canada|Montreal|GloboTech Communications|
+|15|160.248.11.225|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|67.43.227.226|14939|Canada|Montreal|GloboTech Communications|
+|17|152.26.231.93|9443|United States|Concord|MCNC|
+|18|192.99.178.146|3128|Canada|Beauharnois|OVH Hosting|
+|19|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|20|72.10.160.90|20627|Canada|Montreal|GloboTech Communications|
 
 
 
