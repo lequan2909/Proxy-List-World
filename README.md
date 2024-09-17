@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|6|203.150.128.92|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|7|61.12.35.12|8080|India|Chennai|Ttsl-isp Division|
-|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|9|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|10|110.173.58.66|8080|Hong Kong|Cheung Sha Wan|Netsec Limited|
-|11|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|12|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|14|152.26.231.86|9443|United States|Concord|MCNC|
-|15|181.114.62.1|8085|Argentina|Ramallo|INTERAIR|
-|16|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|72.10.164.178|22939|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.171|18617|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|17713|Canada|Montreal|GloboTech Communications|
+|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|3|110.173.58.66|8080|Hong Kong|Cheung Sha Wan|Netsec Limited|
+|4|61.12.35.12|8080|India|Chennai|Ttsl-isp Division|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|8|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
+|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|10|177.93.60.70|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|11|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|15|188.255.247.50|8088|Serbia|Bor|ORIONTELEKOMTIM|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|18|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|72.10.164.178|22939|Canada|Montreal|GloboTech Communications|
 
 
 
