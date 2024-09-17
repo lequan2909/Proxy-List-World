@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.119.186.187|3128|South Korea|Nam-gu|Korea Telecom|
-|3|103.124.251.12|8080|Bangladesh|Dhaka|Earth Telecommunication|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|6|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
-|7|222.127.246.81|8082|Philippines|Iloilo City|GLBB|
-|8|38.52.221.66|8080|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|9|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|10|117.68.38.180|27234|China|Hefei|China Telecom|
-|11|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|12|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
-|13|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|14|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|72.10.160.170|22113|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|10313|Canada|Montreal|GloboTech Communications|
-|18|186.3.97.77|999|Ecuador|Esmeraldas|Telconet S.A|
-|19|152.26.229.47|9443|United States|Concord|MCNC|
-|20|152.26.229.34|9443|United States|Concord|MCNC|
+|2|61.7.156.180|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|203.192.199.158|8080|India|Ponda|Entire In2Cable|
+|6|212.46.210.242|8080|Russia|Moscow|VympelKom broadband internet|
+|7|178.254.42.100|8118|Germany|Berlin|BLU-VH|
+|8|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|152.26.229.47|9443|United States|Concord|MCNC|
+|11|152.26.229.34|9443|United States|Concord|MCNC|
+|12|152.26.231.86|9443|United States|Concord|MCNC|
+|13|74.103.66.15|80|United States|Sparrows Point|Verizon Business|
+|14|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|15|72.10.164.178|8303|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|8303|Canada|Montreal|GloboTech Communications|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
+|18|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|19|152.26.231.94|9443|United States|Concord|MCNC|
+|20|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
