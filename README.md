@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|110.173.58.66|8080|Hong Kong|Cheung Sha Wan|Netsec Limited|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
-|6|149.86.140.40|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|159.192.139.178|8080|Thailand|Bang Rak|CAT-BB|
-|10|134.35.133.161|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|11|118.67.134.17|80|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
-|12|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|13|38.183.144.117|1111|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|14|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|149.56.95.145|9595|Canada|Montreal|OVH Hosting|
-|16|152.26.229.47|9443|United States|Concord|MCNC|
-|17|152.26.229.34|9443|United States|Concord|MCNC|
-|18|67.43.236.20|5967|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|22269|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|27711|Canada|Montreal|GloboTech Communications|
+|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|103.116.82.136|8080|Indonesia|Indramayu|PT SSR Digital Informatika|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|70.63.90.245|8080|United States|Wilmington|Spectrum|
+|7|103.102.15.41|18181|Indonesia|Rembangan|FISNET|
+|8|152.26.229.47|9443|United States|Concord|MCNC|
+|9|152.26.229.34|9443|United States|Concord|MCNC|
+|10|149.56.95.145|9595|Canada|Montreal|OVH Hosting|
+|11|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|12|152.26.229.42|9443|United States|Concord|MCNC|
+|13|111.89.146.125|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|14|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|15|157.10.97.103|8080|Indonesia|Bengkulu|PT Lintas Jaringan Nusantara|
+|16|36.72.252.71|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|152.26.231.93|9443|United States|Concord|MCNC|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
 
 
 
