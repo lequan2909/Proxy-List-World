@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|195.201.34.206|80|Germany|Nuremberg|Hetzner Online GmbH|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
-|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|8|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|9|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
-|10|72.10.160.94|32923|Canada|Montreal|GloboTech Communications|
-|11|152.26.229.47|9443|United States|Concord|MCNC|
-|12|152.26.229.34|9443|United States|Concord|MCNC|
-|13|72.10.160.93|27957|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|26037|Canada|Montreal|GloboTech Communications|
-|15|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|16|72.10.164.178|26037|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|26037|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|4555|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|26697|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.94|32923|Canada|Montreal|GloboTech Communications|
+|1|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|2|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|3|152.26.229.34|9443|United States|Concord|MCNC|
+|4|152.26.229.47|9443|United States|Concord|MCNC|
+|5|72.10.164.178|24653|Canada|Montreal|GloboTech Communications|
+|6|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|7|72.10.160.93|23667|Canada|Montreal|GloboTech Communications|
+|8|72.10.164.178|24653|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|24653|Canada|Montreal|GloboTech Communications|
+|10|152.26.231.94|9443|United States|Concord|MCNC|
+|11|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|72.10.160.94|32923|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.18|25965|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|19497|Canada|Montreal|GloboTech Communications|
+|15|152.26.231.83|9443|United States|Concord|MCNC|
+|16|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
+|17|152.26.231.93|9443|United States|Concord|MCNC|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|15.204.161.192|18080|United States|Reston|OVH SAS|
 
 
 
