@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|2|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|36.67.79.170|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|4|168.228.181.189|3128|Brazil|Tubarão|Contato Internet EIRELI|
+|2|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|3|1.0.138.79|8080|Thailand|Bangkok|TOT Public Company Limited|
+|4|179.97.243.162|3128|Brazil|Santo Antônio|Speed Serviços de Internet Ltda|
 |5|45.224.151.252|999|Ecuador|Latacunga|Ufinet Panama S.A.|
-|6|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|7|179.97.243.162|3128|Brazil|Santo Antônio|Speed Serviços de Internet Ltda|
-|8|201.71.3.45|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|9|72.10.164.178|2475|Canada|Montreal|GloboTech Communications|
+|6|103.24.106.190|8080|Indonesia|Jakarta|Quantum Dist Cyber APJII|
+|7|81.12.40.250|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |10|152.26.229.46|9443|United States|Concord|MCNC|
 |11|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|12|128.90.145.151|8118|Belgium|Brussels|Powerhouse Management, Inc.|
-|13|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|72.10.164.178|2475|Canada|Montreal|GloboTech Communications|
-|17|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|72.10.160.94|7085|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.93|9443|United States|Concord|MCNC|
-|20|72.10.160.172|31433|Canada|Montreal|GloboTech Communications|
+|12|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
+|13|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|15|152.26.231.93|9443|United States|Concord|MCNC|
+|16|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|17|152.26.229.47|9443|United States|Concord|MCNC|
+|18|72.10.164.178|31099|Canada|Montreal|GloboTech Communications|
+|19|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|189.113.119.225|8080|Brazil|Sorriso|LCI Equipamentos de Informatica LTDA - LCI Telecom|
 
 
 
