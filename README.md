@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|413|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|413|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|413|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|125.25.32.180|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|4|43.153.104.42|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|6|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|43.153.104.42|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|9|159.203.104.153|4200|United States|Clifton|DigitalOcean, LLC|
-|10|103.166.158.205|8080|Indonesia|Bekasi|PT Timor Lintas Nusantara|
+|3|192.99.169.19|8450|Canada|Beauharnois|OVH SAS|
+|4|125.25.32.180|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|7|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|47.51.51.190|8080|United States|Glendale|Charter Communications|
+|9|103.170.131.42|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|10|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
 |11|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|103.170.131.42|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|15|103.165.157.79|8090|Indonesia|Taman|MEGADATA-ISP|
-|16|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|17|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|18|67.43.236.20|29825|Canada|Montreal|GloboTech Communications|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|103.168.254.138|8086|Indonesia|Jepara|PT Fahasa Tri Data|
+|14|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|15|152.26.229.93|9443|United States|Concord|MCNC|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|67.43.236.20|29825|Canada|Montreal|GloboTech Communications|
+|18|152.26.231.83|9443|United States|Concord|MCNC|
 |19|45.81.115.86|3128|Türkiye|Bursa|Pembe Gul Isguzar Karagoz|
-|20|72.10.160.91|25077|Canada|Montreal|GloboTech Communications|
+|20|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
