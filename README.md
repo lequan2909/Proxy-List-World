@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|3|103.165.155.195|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|4|202.56.166.157|8080|Indonesia|Yogyakarta|PT Lintas Data Prima|
-|5|45.224.149.243|999|Ecuador|Quito|Ufinet Panama S.A.|
-|6|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|7|168.205.63.188|9090|Brazil|Frutal|TCF Telecomunicações Campo Florido Ltda|
-|8|77.87.19.54|8080|Saudi Arabia|Jeddah|WBC 1|
-|9|45.70.85.33|58080|Brazil|Araçatuba|B.B.S COMUNICAÇÕES LTDA ME|
-|10|152.26.229.46|9443|United States|Concord|MCNC|
-|11|72.10.160.90|15031|Canada|Montreal|GloboTech Communications|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|7|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|8|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|9|103.39.50.228|9090|Indonesia|Kuningan Barat|PT. Mega Mentari Mandiri|
+|10|180.190.200.77|8082|Philippines|Lahug|Globe Telecom|
+|11|152.26.229.46|9443|United States|Concord|MCNC|
 |12|67.43.227.227|2579|Canada|Montreal|GloboTech Communications|
-|13|223.205.102.135|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|13|149.56.95.145|9595|Canada|Montreal|OVH Hosting|
 |14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|149.56.95.145|9595|Canada|Montreal|OVH Hosting|
-|16|67.43.236.20|4001|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|16645|Canada|Montreal|GloboTech Communications|
+|15|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|16|61.12.35.12|8080|India|Chennai|Ttsl-isp Division|
+|17|67.43.228.253|7187|Canada|Montreal|GloboTech Communications|
 |18|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|19|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|20|72.10.160.90|15031|Canada|Montreal|GloboTech Communications|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
 
 
 
