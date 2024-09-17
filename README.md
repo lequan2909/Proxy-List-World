@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|45.174.79.95|999|Mexico|Delicias|Raul Duarte Urita|
 |2|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|45.174.79.95|999|Mexico|Delicias|Raul Duarte Urita|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
 |5|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|103.68.194.197|3129|United States|Los Angeles|Zenlayer Inc|
+|6|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
 |7|152.26.229.86|9443|United States|Concord|MCNC|
 |8|152.26.231.86|9443|United States|Concord|MCNC|
-|9|67.43.227.227|23459|Canada|Montreal|GloboTech Communications|
-|10|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|9|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|10|58.33.109.114|2021|China|Shanghai|China Telecom (Group)|
 |11|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|12|152.26.229.93|9443|United States|Concord|MCNC|
-|13|67.43.228.254|2127|Canada|Montreal|GloboTech Communications|
-|14|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|72.10.160.172|22857|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.19|32883|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|72.10.160.90|15049|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|2853|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|23459|Canada|Montreal|GloboTech Communications|
+|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|13|72.10.160.172|25557|Canada|Montreal|GloboTech Communications|
+|14|36.67.114.94|8187|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|15|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|152.26.229.93|9443|United States|Concord|MCNC|
+|17|72.10.164.178|7093|Canada|Montreal|GloboTech Communications|
+|18|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
+|19|72.10.164.178|7093|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
