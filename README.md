@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
-|2|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|94.70.195.145|8080|Greece|Athens|Ote SA (Hellenic Telecommunications Organisation)|
-|5|103.159.93.132|3125|Indonesia|Kabupaten Trenggalek|PT Chandela Lintas Media|
-|6|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|7|152.26.229.42|9443|United States|Concord|MCNC|
-|8|152.26.231.94|9443|United States|Concord|MCNC|
-|9|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
-|10|152.26.231.83|9443|United States|Concord|MCNC|
-|11|188.132.222.247|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|13|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|14|67.43.236.20|25423|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|3295|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.173|21083|Canada|Montreal|GloboTech Communications|
-|17|171.234.238.96|10013|Vietnam|Hanoi|Viettel Corporation|
-|18|72.10.164.178|11749|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|1503|Canada|Montreal|GloboTech Communications|
-|20|120.28.189.82|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|103.48.71.6|83|India|Hyderabad|Country Online Services PVT LTD|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
+|6|172.233.156.53|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|7|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|8|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|103.167.171.216|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|11|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|12|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|13|152.26.229.42|9443|United States|Concord|MCNC|
+|14|152.26.231.94|9443|United States|Concord|MCNC|
+|15|103.213.218.35|14987|Vietnam|Lê Chân District|V9ERP|
+|16|152.26.231.83|9443|United States|Concord|MCNC|
+|17|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|45.224.22.63|999|Ecuador|Riobamba|Ufinet Panama S.A.|
+|20|103.125.174.49|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
 
 
 
