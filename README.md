@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|68.183.188.67|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|38.156.72.13|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|8|38.156.75.15|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|9|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
-|10|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|11|61.12.35.12|8080|India|Chennai|Ttsl-isp Division|
-|12|152.26.229.83|9443|United States|Concord|MCNC|
-|13|152.26.231.86|9443|United States|Concord|MCNC|
-|14|67.43.227.227|20321|Canada|Montreal|GloboTech Communications|
-|15|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
-|16|72.10.164.178|11681|Canada|Montreal|GloboTech Communications|
-|17|117.68.38.140|28728|China|Hefei|China Telecom|
-|18|14.103.168.150|8088|China|Beijing|BITNET|
-|19|163.53.209.17|6666|India|Modāsa|GTPL Shiv Network Pvt Ltd|
-|20|117.91.186.165|20530|China|Nanjing|CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou, Jiangsu Province, P.|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|117.0.180.158|5000|Vietnam|Tuyên Quang|Viettel Group|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|103.147.134.238|1111|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
+|8|45.55.57.204|443|United States|Clifton|DigitalOcean, LLC|
+|9|61.12.35.12|8080|India|Chennai|Ttsl-isp Division|
+|10|148.230.180.141|8080|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|11|124.107.144.249|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|12|158.140.169.9|8081|Indonesia|Jakarta|MYREPUBLIC|
+|13|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|14|191.252.181.107|3128|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
+|15|152.26.229.83|9443|United States|Concord|MCNC|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|18|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|19|72.10.164.178|10677|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
