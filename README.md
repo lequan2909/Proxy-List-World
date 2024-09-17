@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|185.126.202.76|4005|Iran|Tehran|DPMobinIDC|
-|5|185.142.131.113|8080|Portugal|Caldas da Rainha|LigaT Telecom Sociedade Unipessoal LDA|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|103.83.97.46|7777|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|8|72.10.160.94|9949|Canada|Montreal|GloboTech Communications|
-|9|152.26.229.93|9443|United States|Concord|MCNC|
-|10|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|185.126.202.76|4005|Iran|Tehran|DPMobinIDC|
+|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|4|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|7|152.26.229.93|9443|United States|Concord|MCNC|
+|8|144.86.187.54|3129|United States|Malden|Charles River Operation|
+|9|182.253.109.146|8080|Indonesia|Jakarta|Biznet Metronet|
+|10|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |11|152.26.229.46|9443|United States|Concord|MCNC|
-|12|182.253.109.146|8080|Indonesia|Jakarta|Biznet Metronet|
-|13|160.248.11.215|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|152.26.231.42|9443|United States|Concord|MCNC|
-|15|72.10.160.174|28219|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.174|28219|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|25393|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|67.43.227.230|22659|Canada|Montreal|GloboTech Communications|
-|20|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|12|152.26.231.42|9443|United States|Concord|MCNC|
+|13|72.10.160.94|9949|Canada|Montreal|GloboTech Communications|
+|14|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|15|72.10.164.178|16183|Canada|Montreal|GloboTech Communications|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|18|72.10.164.178|16183|Canada|Montreal|GloboTech Communications|
+|19|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|20|67.43.227.230|16269|Canada|Montreal|GloboTech Communications|
 
 
 
