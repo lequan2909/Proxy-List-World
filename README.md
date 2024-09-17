@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5746** proxies at the latest update. Usable proxies are below.
+> Scraper found **5890** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|195|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|798|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|942|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|365|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3430|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|5|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|6|86.98.93.23|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|222.127.246.81|8082|Philippines|Iloilo City|GLBB|
-|11|212.110.188.202|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|12|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
-|13|103.26.108.254|84|India|Thoothukudi|Niss Networks|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|181.209.122.74|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|16|152.26.231.83|9443|United States|Concord|MCNC|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|152.26.229.42|9443|United States|Concord|MCNC|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|5|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|7|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|8|152.26.229.47|9443|United States|Concord|MCNC|
+|9|140.238.230.215|3128|India|Mumbai|Oracle Corporation|
+|10|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|11|67.43.227.227|25515|Canada|Montreal|GloboTech Communications|
+|12|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|13|72.10.164.178|20203|Canada|Montreal|GloboTech Communications|
+|14|152.26.229.83|9443|United States|Concord|MCNC|
+|15|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|16|152.26.229.34|9443|United States|Concord|MCNC|
+|17|67.43.228.252|8609|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.250|6265|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|20203|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
