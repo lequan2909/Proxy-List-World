@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|2|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|157.230.38.141|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|4|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|5|36.72.252.71|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
 |6|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|7|162.55.232.219|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|112.198.131.71|8082|Philippines|Nasugbu|Globe Telecom|
 |8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|94.231.192.152|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|10|85.206.13.20|80|Lithuania|Vilnius|Telia Lietuva, AB|
-|11|61.12.35.12|8080|India|Chennai|Ttsl-isp Division|
-|12|194.8.131.36|8080|Russia|Stavropol|"Telko" JSC|
-|13|201.77.48.147|8080|Peru|Lima region|Telcom Mikrotik Peru S.A.C.|
-|14|190.94.213.83|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|15|98.147.60.146|48678|United States|Wahiawa|Spectrum|
-|16|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|152.26.231.93|9443|United States|Concord|MCNC|
-|20|152.26.229.47|9443|United States|Concord|MCNC|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|12|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|13|182.252.70.220|8082|Bangladesh|Kāfrul|Agni Systems Limited|
+|14|186.57.48.26|3128|Argentina|Ezeiza|Telefonica de Argentina|
+|15|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|16|162.55.232.219|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
+|19|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|20|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
 
 
 
