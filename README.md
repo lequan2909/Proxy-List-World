@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|5|186.65.104.52|2020|Brazil|Salvador|Bahiadados Telecom Ltda.|
-|6|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|152.26.229.47|9443|United States|Concord|MCNC|
-|8|152.26.231.93|9443|United States|Concord|MCNC|
-|9|152.26.231.94|9443|United States|Concord|MCNC|
-|10|222.119.186.187|3128|South Korea|Nam-gu|Korea Telecom|
-|11|152.26.231.83|9443|United States|Concord|MCNC|
-|12|43.156.240.67|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|43.167.243.210|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|16|103.247.23.192|8080|Indonesia|Bekasi|PT wifian Solution|
-|17|67.43.228.251|11441|Canada|Montreal|GloboTech Communications|
-|18|58.240.211.250|7890|China|Suzhou|CNC Group Jiangsu province network|
-|19|165.227.33.242|3128|Canada|Toronto|DigitalOcean, LLC|
-|20|72.10.164.178|29669|Canada|Montreal|GloboTech Communications|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|152.26.229.47|9443|United States|Concord|MCNC|
+|6|152.26.231.93|9443|United States|Concord|MCNC|
+|7|152.26.231.94|9443|United States|Concord|MCNC|
+|8|152.26.231.83|9443|United States|Concord|MCNC|
+|9|126.209.13.226|8082|Philippines|Manila|Infinivan Incorporated|
+|10|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|72.10.160.171|22899|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|2263|Canada|Montreal|GloboTech Communications|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|58.240.211.250|7890|China|Suzhou|CNC Group Jiangsu province network|
+|17|72.10.164.178|9827|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.251|19805|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
