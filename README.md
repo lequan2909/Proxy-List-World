@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.213.218.54|18806|Vietnam|Lê Chân District|V9ERP|
-|2|168.195.135.233|8080|Brazil|Goiânia|Delta Fibra|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|5|45.81.115.86|3128|Türkiye|Bursa|Pembe Gul Isguzar Karagoz|
-|6|152.26.229.46|9443|United States|Concord|MCNC|
-|7|152.26.229.93|9443|United States|Concord|MCNC|
-|8|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
-|9|152.26.229.34|9443|United States|Concord|MCNC|
-|10|83.229.61.203|8118|Italy|Milan|Interkvm Host SRL|
-|11|67.43.227.226|23593|Canada|Montreal|GloboTech Communications|
-|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|14|43.167.241.105|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|15|67.43.228.253|1839|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.174|5437|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|14.103.168.150|8088|China|Beijing|BITNET|
-|19|45.9.43.28|8080|Russia|St Petersburg|Beget LLC|
-|20|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|4|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|103.172.42.187|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|7|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|203.150.128.92|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|9|45.81.115.86|3128|Türkiye|Bursa|Pembe Gul Isguzar Karagoz|
+|10|72.10.164.178|20281|Canada|Montreal|GloboTech Communications|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|13|36.66.111.81|8080|Indonesia|Pondok Labu|PT. Telekomunikasi Indonesia|
+|14|152.26.229.93|9443|United States|Concord|MCNC|
+|15|152.26.229.46|9443|United States|Concord|MCNC|
+|16|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|67.43.227.227|5681|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.226|19083|Canada|Montreal|GloboTech Communications|
+|20|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
 
 
 
