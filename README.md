@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|3|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|177.234.196.21|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|5|36.66.111.81|8080|Indonesia|Pondok Labu|PT. Telekomunikasi Indonesia|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
-|8|103.102.15.41|18181|Indonesia|Rembangan|FISNET|
-|9|103.247.23.192|8080|Indonesia|Bekasi|PT wifian Solution|
-|10|72.10.164.178|13467|Canada|Montreal|GloboTech Communications|
-|11|152.26.231.86|9443|United States|Concord|MCNC|
-|12|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|15|67.43.228.250|19573|Canada|Montreal|GloboTech Communications|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|5|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|9|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|10|72.10.164.178|8143|Canada|Montreal|GloboTech Communications|
+|11|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|12|152.26.231.86|9443|United States|Concord|MCNC|
+|13|72.10.160.90|32657|Canada|Montreal|GloboTech Communications|
+|14|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |16|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|20.184.19.113|31280|Singapore|Singapore|Microsoft Corporation|
-|18|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|67.43.227.230|10709|Canada|Montreal|GloboTech Communications|
-|20|177.234.236.134|8080|Ecuador|Machala|Ufinet Panama S.A.|
+|17|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|18|67.43.227.227|23373|Canada|Montreal|GloboTech Communications|
+|19|102.67.101.250|8080|Burkina Faso|Ouagadougou|Virtual Technologies and Solutions|
+|20|67.43.228.250|21251|Canada|Montreal|GloboTech Communications|
 
 
 
