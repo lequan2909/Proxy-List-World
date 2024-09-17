@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5949** proxies at the latest update. Usable proxies are below.
+> Scraper found **6057** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|459|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|459|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|459|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|177|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|969|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1077|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|450|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3395|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|110.78.149.108|8080|Thailand|Chon Buri|CAT-BB|
-|2|36.73.132.193|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|103.184.54.62|3128|Indonesia|Jember|PT Proxi Jaringan Nusantara|
-|6|138.201.184.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|103.35.108.129|5020|Bangladesh|Dhaka|Ranks ITT|
-|8|143.0.243.80|8080|Brazil|São Gonçalo|Nova Info Internet e Telecomunicações LTDA|
-|9|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|10|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|190.2.57.97|3128|Argentina|Buenos Aires|NSS S.A.|
-|12|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|136.243.245.224|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|14|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|194.164.206.37|3128|United Kingdom|Farnham|NETKONECT|
-|16|160.248.11.204|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|72.10.164.178|5387|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.46|9443|United States|Concord|MCNC|
-|19|152.26.231.93|9443|United States|Concord|MCNC|
-|20|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|1|8.216.90.236|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|58.136.90.17|8080|Thailand|Ratchathewi|AIS-Fibre|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|36.73.132.193|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|5|110.78.149.108|8080|Thailand|Chon Buri|CAT-BB|
+|6|103.180.122.71|8080|Indonesia|Bekasi|PT Indo Telemedia Solusi|
+|7|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
+|8|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|9|45.70.203.116|999|Ecuador|Quito|Ufinet Panama S.A.|
+|10|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|11|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|12|194.164.206.37|3128|United Kingdom|Farnham|NETKONECT|
+|13|200.39.120.78|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|14|103.174.237.66|3127|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|15|222.127.135.164|8082|Philippines|Taguig|Globe Telecom|
+|16|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|36.90.49.32|8080|Indonesia|Malang|PT. Telekomunikasi Indonesia|
+|18|103.146.170.252|83|India|Nalgonda|Thrishul Broadband Private Ltd|
+|19|160.22.190.10|8080|Indonesia|Loakulu|PT Aldiyanur Mahakam Telemedia|
+|20|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
 
 
 
