@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6006** proxies at the latest update. Usable proxies are below.
+> Scraper found **6077** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|438|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|438|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|438|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|422|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|422|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|422|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|172|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|908|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|979|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|362|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3606|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|165.232.175.39|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|116.203.164.98|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|5|125.27.82.123|8080|Thailand|Pattaya|TOT Public Company Limited|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|143.198.84.99|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|80.240.55.242|3128|Russia|Yeysk|inetnum UGTEL|
-|9|200.106.124.68|999|Peru|Tacna|Telefonica del Peru|
-|10|177.124.115.235|3131|Brazil|Mandaguaçu|MMER Provedor de Internet Ltda - ME|
-|11|103.166.158.53|3127|Indonesia|Bekasi|PT Timor Lintas Nusantara|
-|12|139.59.225.25|8888|Singapore|Singapore|DIGITALOCEAN|
-|13|190.61.44.99|999|Colombia|Bogotá|Ufinet Panama S.A.|
-|14|112.198.129.234|8085|Philippines|Nasugbu|Globe Telecom|
-|15|190.187.163.2|999|Peru|Lima region|Americatel Peru S.A.|
-|16|103.53.79.115|8086|Indonesia|Jakarta|INTI|
-|17|58.136.90.17|8080|Thailand|Ratchathewi|AIS-Fibre|
-|18|152.26.229.47|9443|United States|Concord|MCNC|
-|19|67.43.227.227|18529|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|1|160.248.11.211|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|6|177.234.241.27|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|7|177.234.241.28|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|8|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|9|222.119.186.187|3128|South Korea|Nam-gu|Korea Telecom|
+|10|20.206.161.69|3128|Brazil|São Paulo|Microsoft Corporation|
+|11|103.163.134.95|8090|Indonesia|Banyuwangi|PROVITEL|
+|12|114.130.183.66|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|13|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|14|124.106.228.30|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|15|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|16|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|17|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|18|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
+|19|103.26.108.254|84|India|Thoothukudi|Niss Networks|
+|20|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 
 
 
