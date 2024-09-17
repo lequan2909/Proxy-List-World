@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|103.213.218.244|11215|Vietnam|Lê Chân District|V9ERP|
-|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|12|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|13|124.105.48.232|8082|Philippines|Caloocan City|Philippine Long Distance Telephone Co.|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|5|103.213.218.250|14717|Vietnam|Lê Chân District|V9ERP|
+|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|7|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|10|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
+|11|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |14|152.26.229.83|9443|United States|Concord|MCNC|
 |15|182.253.109.146|8080|Indonesia|Jakarta|Biznet Metronet|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
 |17|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|67.43.227.226|14487|Canada|Montreal|GloboTech Communications|
-|20|115.178.49.181|8080|Indonesia|Bandung|NOC SIMAYA|
+|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|154.12.242.82|8889|United States|Seattle|Nubes, LLC|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
