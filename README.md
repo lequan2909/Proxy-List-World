@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.146.251.117|3128|South Korea|Jinju|Korea Telecom|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|150.136.170.150|8090|United States|Ashburn|Oracle Corporation|
-|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 |5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|150.136.170.150|8090|United States|Ashburn|Oracle Corporation|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|103.172.42.177|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|12|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|202.180.20.66|8080|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|14|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
-|15|154.73.29.201|8080|Libya|Tripoli|Rawafed|
-|16|61.7.156.180|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|17|38.183.144.117|1111|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|18|152.26.231.83|9443|United States|Concord|MCNC|
-|19|152.26.231.94|9443|United States|Concord|MCNC|
-|20|36.67.114.94|8187|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|6|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
+|7|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|8|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|9|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|10|206.42.19.56|8080|Brazil|Pereiro|Brisanet Prestacao De Servicos De Internet Ltda|
+|11|157.66.85.32|8080|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|12|212.110.188.202|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
+|15|152.26.231.83|9443|United States|Concord|MCNC|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|152.26.229.47|9443|United States|Concord|MCNC|
+|19|58.33.109.114|2021|China|Shanghai|China Telecom (Group)|
+|20|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
