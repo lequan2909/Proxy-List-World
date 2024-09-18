@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|38.9.141.63|8080|Indonesia|Medan|PT. Media Antar Nusa|
-|5|125.25.235.229|8080|Thailand|Tak|TOT Public Company Limited|
-|6|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|7|222.127.246.81|8082|Philippines|Iloilo City|GLBB|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|10|69.197.135.43|36575|United States|Kansas City|WholeSale Internet|
-|11|199.168.175.179|80|United States|Richardson|Rackspace Hosting|
-|12|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|13|152.26.231.93|9443|United States|Concord|MCNC|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|152.26.231.86|9443|United States|Concord|MCNC|
-|16|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|17|152.26.229.47|9443|United States|Concord|MCNC|
-|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|72.10.164.178|1471|Canada|Montreal|GloboTech Communications|
-|20|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|4|44.234.149.185|3128|United States|Portland|Amazon.com, Inc.|
+|5|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|35.87.161.97|3128|United States|Portland|Amazon.com, Inc.|
+|8|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|9|38.9.141.63|8080|Indonesia|Medan|PT. Media Antar Nusa|
+|10|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|11|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|12|4.155.2.13|9401|United States|Quincy|Microsoft Corporation|
+|13|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|14|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
+|15|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|16|69.197.135.43|36575|United States|Kansas City|WholeSale Internet|
+|17|152.26.231.93|9443|United States|Concord|MCNC|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|152.26.229.47|9443|United States|Concord|MCNC|
 
 
 
