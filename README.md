@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|3|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|185.109.74.60|8080|Iran|Bushehr|Pishgaman Toseeh Fan Avari Etelaat va Ertebataat Jonoub|
-|6|103.102.12.89|8081|Indonesia|Rembangan|FISNET|
-|7|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|37.152.163.87|3128|Iran|Zanjan|Rahanet Zanjan Co. (Private Joint-Stock)|
-|10|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|11|103.127.220.106|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|12|84.204.138.54|8080|Russia|St Petersburg|PJSC MegaFon|
-|13|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|15|186.65.104.52|2020|Brazil|Salvador|Bahiadados Telecom Ltda.|
-|16|38.45.46.2|6332|Dominican Republic|Santo Domingo|FENIX NETWORKS, S.R.L.|
-|17|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|18|211.109.199.99|80|South Korea|Yongin-si|SK Broadband Co Ltd|
-|19|79.133.42.189|3128|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|185.109.74.60|8080|Iran|Bushehr|Pishgaman Toseeh Fan Avari Etelaat va Ertebataat Jonoub|
+|3|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|4|32.142.206.26|9081|United States|Bolton|AT&T Services, Inc.|
+|5|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|6|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|84.204.138.54|8080|Russia|St Petersburg|PJSC MegaFon|
+|8|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|9|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|10|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|12|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|13|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|14|152.26.229.46|9443|United States|Concord|MCNC|
+|15|152.26.231.94|9443|United States|Concord|MCNC|
+|16|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|17|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
+|18|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
+|19|72.10.164.178|15537|Canada|Montreal|GloboTech Communications|
+|20|103.35.109.205|58080|Bangladesh|Dhaka|Ranks ITT|
 
 
 
