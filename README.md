@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **6005** proxies at the latest update. Usable proxies are below.
+> Scraper found **5972** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|201|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|875|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|842|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|398|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3573|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|3|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|103.122.1.126|8080|Indonesia|Palembang|PT. Java Digital Nusantara|
-|5|103.171.83.227|8080|Indonesia|Karawang|PT Multi Network Indonesia|
-|6|103.80.237.65|8181|Indonesia|Bogor|PT MITRA VISIONER PRATAMA|
-|7|202.179.184.70|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|8|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
-|9|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|10|132.255.18.123|8080|Brazil|Guarapuava|E. M. Fernandes|
-|11|84.204.135.252|8080|Russia|St Petersburg|PJSC MegaFon|
-|12|124.105.24.80|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|13|103.131.18.58|8080|Indonesia|Kudus|PT Global Media Data Prima|
-|14|45.133.107.238|81|Russia|Tul'skiy|Art-net LLC|
-|15|5.28.35.226|9812|Cambodia|Phnom Penh|BEE Union (cambodia) Telecom Co., LTD|
-|16|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|17|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|18|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|72.10.164.178|1673|Canada|Montreal|GloboTech Communications|
-|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|3|83.54.10.24|3128|Spain|León|Telefonica de Espana SAU|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|5|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|61.12.35.12|8080|India|Chennai|Ttsl-isp Division|
+|7|85.112.71.208|8080|Lebanon|Beirut|TerraNet sal|
+|8|38.7.1.88|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|9|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
+|10|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|152.26.229.93|9443|United States|Concord|MCNC|
+|12|152.26.231.94|9443|United States|Concord|MCNC|
+|13|152.26.231.86|9443|United States|Concord|MCNC|
+|14|72.10.164.178|1673|Canada|Montreal|GloboTech Communications|
+|15|202.57.25.152|8099|Indonesia|Semarang|announced of WINET|
+|16|72.10.164.178|1673|Canada|Montreal|GloboTech Communications|
+|17|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|72.10.160.171|17693|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|7257|Canada|Montreal|GloboTech Communications|
 
 
 
