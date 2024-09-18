@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|47.89.235.108|3128|United States|Minkler|Alibaba.com LLC|
-|7|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|47.89.235.108|3128|United States|Minkler|Alibaba.com LLC|
-|9|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
-|10|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
-|11|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|12|115.127.139.91|58080|Bangladesh|Paltan|BRACNet Limited|
-|13|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|14|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|103.69.20.28|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|16|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|152.26.229.93|9443|United States|Concord|MCNC|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|67.43.227.227|12633|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.19|23929|Canada|Montreal|GloboTech Communications|
+|4|47.89.235.108|3128|United States|Minkler|Alibaba.com LLC|
+|5|103.156.74.156|8083|Indonesia|Gianyar|PT Trika Global Media|
+|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|7|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
+|8|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|9|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|47.89.235.108|3128|United States|Minkler|Alibaba.com LLC|
+|12|152.26.229.93|9443|United States|Concord|MCNC|
+|13|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|14|152.26.229.86|9443|United States|Concord|MCNC|
+|15|67.43.227.227|1445|Canada|Montreal|GloboTech Communications|
+|16|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|18|45.70.238.22|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|202.8.74.10|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
 
 
 
