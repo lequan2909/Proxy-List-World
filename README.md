@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|3|20.184.18.156|80|Singapore|Singapore|Microsoft Corporation|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|38.7.199.230|3128|Chile|Santiago|Grupo ZGH SPA|
-|6|103.167.31.157|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|7|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|8|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
-|9|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|10|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|11|152.26.229.34|9443|United States|Concord|MCNC|
-|12|152.26.231.93|9443|United States|Concord|MCNC|
-|13|152.26.229.83|9443|United States|Concord|MCNC|
-|14|152.26.229.46|9443|United States|Concord|MCNC|
-|15|36.93.32.137|8080|Indonesia|Tangerang|Telekomunikasi Indonesia|
-|16|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|152.26.231.42|9443|United States|Concord|MCNC|
-|19|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|20|67.43.228.254|9863|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|5|77.41.146.46|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|6|144.86.187.60|3129|United States|Malden|Charles River Operation|
+|7|144.86.187.54|3129|United States|Malden|Charles River Operation|
+|8|91.108.130.111|32650|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
+|9|144.86.187.48|3129|United States|Malden|Charles River Operation|
+|10|27.54.150.122|8080|Bangladesh|Sunāmganj|X-press Technologies Limited|
+|11|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
+|12|38.52.221.66|8080|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|13|152.26.229.34|9443|United States|Concord|MCNC|
+|14|152.26.229.83|9443|United States|Concord|MCNC|
+|15|152.26.231.93|9443|United States|Concord|MCNC|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|177.234.236.134|8080|Ecuador|Machala|Ufinet Panama S.A.|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|180.191.32.166|8081|Philippines|Cabanatuan City|Globe Telecom|
 
 
 
