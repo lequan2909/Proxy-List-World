@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|3|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|4|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|122.50.6.186|8080|Indonesia|Jakarta Pusat|PT Mora Telematika Indonesia|
-|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|8|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
-|9|43.167.243.37|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|10|132.255.18.123|8080|Brazil|Guarapuava|E. M. Fernandes|
-|11|175.100.91.212|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|12|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|13|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|14|72.10.160.93|31765|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.47|9443|United States|Concord|MCNC|
-|16|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|152.26.229.86|9443|United States|Concord|MCNC|
-|18|152.26.231.93|9443|United States|Concord|MCNC|
-|19|180.190.200.77|8082|Philippines|Lahug|Globe Telecom|
-|20|72.10.160.171|17693|Canada|Montreal|GloboTech Communications|
+|1|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|2|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|3|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
+|4|212.174.79.169|8080|Türkiye|Sanliurfa|Turk Telekomunikasyon Anonim Sirketi|
+|5|38.7.1.88|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|6|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|8|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|72.10.160.93|31765|Canada|Montreal|GloboTech Communications|
+|10|126.209.13.226|8082|Philippines|Manila|Infinivan Incorporated|
+|11|152.26.229.47|9443|United States|Concord|MCNC|
+|12|152.26.229.86|9443|United States|Concord|MCNC|
+|13|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|14|152.26.231.93|9443|United States|Concord|MCNC|
+|15|210.45.70.92|15893|China|Hefei|USTC1|
+|16|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|186.96.15.70|8080|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|18|152.26.229.93|9443|United States|Concord|MCNC|
+|19|72.10.164.178|1673|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.250|23033|Canada|Montreal|GloboTech Communications|
 
 
 
