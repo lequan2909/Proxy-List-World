@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5942** proxies at the latest update. Usable proxies are below.
+> Scraper found **5892** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|207|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|877|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|827|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|335|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3565|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|3|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|5|144.86.187.41|3129|United States|Malden|Charles River Operation|
-|6|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
-|7|103.161.17.226|3128|Vietnam|Phúc Lai|BKSI|
-|8|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|9|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
-|10|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|11|45.184.124.9|1985|Mexico|Mexico City|Servicios y Asesoria Tecnobba S.A.S. de C.V.|
-|12|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|13|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|14|112.205.70.141|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|15|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|16|110.34.1.178|7777|Nepal|Kathmandu|Subisu Cablenet|
-|17|186.0.144.141|9595|Brazil|Araçatuba|Tellius Telecomunicacoes DAS Americas Ltda|
-|18|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|19|184.82.51.127|8080|Thailand|Khon Kaen|AIS-Fibre|
-|20|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|1|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|103.118.44.233|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|202.183.209.77|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|5|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
+|6|27.64.27.146|8080|Vietnam|Ho Chi Minh City|Viettel Group|
+|7|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|8|186.125.218.147|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|9|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|10|103.87.169.172|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|11|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
+|12|152.26.229.46|9443|United States|Concord|MCNC|
+|13|152.26.229.83|9443|United States|Concord|MCNC|
+|14|181.209.122.74|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|152.26.229.93|9443|United States|Concord|MCNC|
+|17|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
+|18|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
+|19|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
+|20|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
 
 
 
