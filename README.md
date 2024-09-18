@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5992** proxies at the latest update. Usable proxies are below.
+> Scraper found **6042** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|201|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|847|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|200|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|898|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|419|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3567|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|45.226.205.33|999|Ecuador|Hacienda El Triunfo|JEA.PC COMUNICACIONES S.A.|
-|5|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|6|152.26.229.42|9443|United States|Concord|MCNC|
-|7|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|8|152.26.231.42|9443|United States|Concord|MCNC|
-|9|177.67.86.96|999|Brazil|São Paulo|W I X NET DO BRASIL LTDA - ME|
-|10|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|11|152.26.231.86|9443|United States|Concord|MCNC|
-|12|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|13|72.10.164.178|5437|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|10193|Canada|Montreal|GloboTech Communications|
-|15|138.94.76.86|8080|Brazil|Santa Rosa|BrPhonia Provedor Ip Ltda|
-|16|152.26.229.46|9443|United States|Concord|MCNC|
-|17|72.10.164.178|5437|Canada|Montreal|GloboTech Communications|
-|18|49.145.186.83|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|19|72.10.164.178|5437|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.93|9443|United States|Concord|MCNC|
+|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|2|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|6|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|7|112.198.129.234|8085|Philippines|Nasugbu|Globe Telecom|
+|8|43.167.243.180|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|9|124.105.48.232|8082|Philippines|Caloocan City|Philippine Long Distance Telephone Co.|
+|10|45.70.85.33|58080|Brazil|Araçatuba|B.B.S COMUNICAÇÕES LTDA ME|
+|11|178.212.48.80|8080|Poland|Zielona Góra|Lubuskie Sieci Swiatlowodowe Sp. z o. o.|
+|12|152.26.229.86|9443|United States|Concord|MCNC|
+|13|72.10.164.178|12153|Canada|Montreal|GloboTech Communications|
+|14|59.124.9.67|3128|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|15|72.10.164.178|12153|Canada|Montreal|GloboTech Communications|
+|16|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|17|72.10.164.178|12153|Canada|Montreal|GloboTech Communications|
+|18|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|19|72.10.164.178|12153|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.91|22477|Canada|Montreal|GloboTech Communications|
 
 
 
