@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|61.19.109.236|8080|Thailand|Vadhana|CAT-ISP|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |4|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|122.53.243.220|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|5|198.244.231.83|8888|United Kingdom|London|OVH SAS|
 |6|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|7|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|158.140.169.9|8081|Indonesia|Jakarta|MYREPUBLIC|
-|10|67.43.227.228|17981|Canada|Montreal|GloboTech Communications|
-|11|152.26.229.46|9443|United States|Concord|MCNC|
-|12|67.43.227.226|32691|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.170|12917|Canada|Montreal|GloboTech Communications|
-|14|186.125.218.149|999|Argentina|El Carmen|Telecom Argentina S.A.|
-|15|210.87.202.21|3128|South Korea|Seoul|DOTNAME|
-|16|152.26.229.93|9443|United States|Concord|MCNC|
-|17|72.10.160.91|5129|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|14255|Canada|Montreal|GloboTech Communications|
-|19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|20|67.43.236.20|20803|Canada|Montreal|GloboTech Communications|
+|7|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|103.78.215.253|8080|Indonesia|Jakarta|MORATELINDO|
+|10|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|11|61.19.109.236|8080|Thailand|Vadhana|CAT-ISP|
+|12|126.209.13.226|8082|Philippines|Manila|Infinivan Incorporated|
+|13|103.203.233.105|3125|Indonesia|Klapanunggal|INDANA|
+|14|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|15|202.138.247.146|8009|Indonesia|Bandung|Melsa-i-net|
+|16|63.151.59.218|8080|United States|Ocala|CenturyLink|
+|17|45.174.79.95|999|Mexico|Delicias|Raul Duarte Urita|
+|18|36.93.32.137|8080|Indonesia|Tangerang|Telekomunikasi Indonesia|
+|19|118.97.164.19|8080|Indonesia|Padang|Telekomunikasi Indonesia|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
