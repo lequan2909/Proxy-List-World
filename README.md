@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|160.22.6.140|8080|Indonesia|Demak|PT Satu Lima Indonesia|
-|6|103.122.1.74|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
-|7|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|8|206.189.33.189|8888|Singapore|Singapore|DigitalOcean, LLC|
-|9|103.87.170.232|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|11|103.163.227.178|8080|Indonesia|Mojokerto|PT.Delta Surya Solusitama|
-|12|45.179.201.129|999|Colombia|Medellín|NET&COM LTDA.|
-|13|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|14|114.130.153.46|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|15|122.3.103.17|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|16|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|17|103.164.213.78|8088|Indonesia|Cilangkap|PT iForte Global Internet|
-|18|176.100.216.164|80|Russia|Orekhovo-Zuyevo|Telecom-Uslugi|
-|19|38.52.221.66|8080|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|20|179.60.240.69|53281|Colombia|Bogotá|ITELKOM|
+|2|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|4|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|190.94.212.43|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|8|103.87.170.232|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|9|182.253.40.149|8080|Indonesia|Jakarta Pusat|BIZNET|
+|10|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|12|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
+|13|43.243.174.26|83|India|Pune|Shah Solutions|
+|14|85.94.24.29|1488|Russia|Noginsk|PJSC Rostelecom|
+|15|103.245.16.133|8080|Indonesia|Depok|PT Quantum Tera Network|
+|16|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|18|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|103.54.80.162|1111|Indonesia|Purbalingga|Lintas Data Prima, PT|
 
 
 
