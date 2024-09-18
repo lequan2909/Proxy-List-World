@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|103.118.44.233|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|3|121.184.173.215|8080|South Korea|Cheonan|Korea Telecom|
 |4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
-|6|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|8|203.79.29.150|8080|Indonesia|Surabaya|PT Surya Global Teknologi|
-|9|92.51.122.174|8080|Georgia||Deltanet-net Network|
-|10|81.103.5.41|3128|United Kingdom|Glasgow|Virgin Media|
-|11|3.0.249.239|8088|Singapore|Singapore|Amazon Technologies Inc.|
-|12|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|5|103.118.44.233|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|6|144.86.187.41|3129|United States|Malden|Charles River Operation|
+|7|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|8|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|9|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|95.38.75.238|8080|Iran|Bandar-e Khamīr|Fanava Group|
 |13|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|14|212.252.73.23|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|15|43.167.243.37|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
-|18|103.83.97.46|7777|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|19|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|20|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
+|16|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|17|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|18|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|19|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|20|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
 
 
 
