@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|479|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|479|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|479|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|149.56.95.145|9595|Canada|Montreal|OVH Hosting|
-|4|202.144.139.201|8080|Bhutan|Thimphu|Bhutan Telecom Ltd|
-|5|138.201.135.176|3129|Germany|Falkenstein|Hetzner Online GmbH|
-|6|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|9|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
-|10|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
-|11|67.43.236.20|12099|Canada|Montreal|GloboTech Communications|
-|12|136.243.245.224|8082|Germany|Falkenstein|Hetzner Online GmbH|
-|13|222.109.232.217|8080|South Korea|Jungnang-gu|Korea Telecom|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|72.10.160.90|4821|Canada|Montreal|GloboTech Communications|
-|16|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|17|72.10.160.90|4821|Canada|Montreal|GloboTech Communications|
-|18|38.156.75.15|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|67.43.228.253|29893|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|6035|Canada|Montreal|GloboTech Communications|
+|1|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|2|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|4|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|5|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|6|67.43.236.20|12099|Canada|Montreal|GloboTech Communications|
+|7|222.109.232.217|8080|South Korea|Jungnang-gu|Korea Telecom|
+|8|103.183.56.3|8080|Indonesia|Sukasari|PT Multi Karya Athira|
+|9|152.26.229.46|9443|United States|Concord|MCNC|
+|10|67.43.228.253|7989|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.91|30299|Canada|Montreal|GloboTech Communications|
+|12|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|13|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|67.43.236.20|12099|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.91|30299|Canada|Montreal|GloboTech Communications|
+|16|103.127.220.106|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|17|72.10.164.178|7339|Canada|Montreal|GloboTech Communications|
+|18|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|72.10.160.90|6969|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|22743|Canada|Montreal|GloboTech Communications|
 
 
 
