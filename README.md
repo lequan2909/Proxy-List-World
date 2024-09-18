@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|3|36.67.223.231|8090|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|4|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|36.80.25.172|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|6|177.93.41.81|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|8|45.185.163.111|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|9|110.78.85.161|8080|Thailand|Chon Buri|CAT Telecom Public Company Limited|
-|10|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
-|11|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
-|12|36.93.129.73|8080|Indonesia|Pabuaran|Telekomunikasi Indonesia|
-|13|177.70.72.103|20183|Brazil|Ijuí|RazaoInfo Internet Ltda|
-|14|222.127.246.81|8082|Philippines|Iloilo City|GLBB|
-|15|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|16|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|17|140.238.230.215|3128|India|Mumbai|Oracle Corporation|
-|18|121.184.173.215|8080|South Korea|Cheonan|Korea Telecom|
-|19|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|20|181.114.62.1|8085|Argentina|Ramallo|INTERAIR|
+|2|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
+|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|4|116.104.185.85|5102|Vietnam|Hanoi|Viettel Corporation|
+|5|45.153.165.66|999|Dominican Republic|Santo Domingo|Silkglobal Dominicana SRL|
+|6|103.145.160.3|8080|Indonesia|South Tangerang|PT Indonesia Comnets Plus|
+|7|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
+|8|103.155.196.27|8080|Indonesia|Jakarta|JEMBATANDATA|
+|9|103.31.132.42|9812|Indonesia|Kebon Melati|PT Arthatama Adhiprima Persada|
+|10|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|180.191.16.9|8085|Philippines|Cabanatuan City|Globe Telecom|
+|12|89.114.185.185|8080|Portugal|Porto|Vodafone Portugal|
+|13|103.41.35.153|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|14|36.67.114.94|8187|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|15|138.121.161.85|8097|Argentina|Rosario|WICORP SA|
+|16|45.70.238.22|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|17|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|18|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
+|20|140.238.230.215|3128|India|Mumbai|Oracle Corporation|
 
 
 
