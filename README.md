@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|2|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|6|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|8|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|9|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|4|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|5|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|7|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|8|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 |10|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
 |11|152.26.229.47|9443|United States|Concord|MCNC|
-|12|92.204.163.211|8881|France|Strasbourg|velia.net Internetdienste GmbH|
+|12|152.26.231.83|9443|United States|Concord|MCNC|
 |13|152.26.231.94|9443|United States|Concord|MCNC|
-|14|152.26.231.83|9443|United States|Concord|MCNC|
-|15|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
-|18|67.43.227.228|20153|Canada|Montreal|GloboTech Communications|
-|19|58.240.211.250|7890|China|Suzhou|CNC Group Jiangsu province network|
-|20|67.43.227.226|19371|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.228|26687|Canada|Montreal|GloboTech Communications|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|17|126.209.13.226|8082|Philippines|Manila|Infinivan Incorporated|
+|18|72.10.164.178|11397|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|22531|Canada|Montreal|GloboTech Communications|
+|20|27.73.99.242|10004|Vietnam|Hanoi|Newass2011xDSLHN|
 
 
 
