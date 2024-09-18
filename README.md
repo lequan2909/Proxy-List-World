@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|3|203.150.128.211|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|6|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|7|38.188.127.86|8080|Indonesia|Blitar|PT Data Buana Nusantara|
-|8|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|9|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
-|10|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|202.179.90.217|58080|India|Mumbai|Ankhnet|
-|14|152.26.229.47|9443|United States|Concord|MCNC|
-|15|115.127.5.146|8674|Bangladesh|Dhaka|bracNet|
-|16|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|181.78.95.50|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|19|72.10.164.178|23863|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|6|160.20.165.231|8587|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|8|203.150.128.211|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|10|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
+|11|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|152.26.229.47|9443|United States|Concord|MCNC|
+|13|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|14|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|15|152.26.231.42|9443|United States|Concord|MCNC|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|117.68.38.149|20259|China|Hefei|China Telecom|
+|20|38.156.75.15|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
