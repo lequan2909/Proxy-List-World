@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|7|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|8|181.115.66.232|999|Honduras|San Pedro Sula|TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|9|103.180.123.27|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|10|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|11|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|12|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
-|13|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
-|14|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
-|15|118.43.114.10|8080|South Korea|Gunsan|Korea Telecom|
-|16|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|17|152.26.229.47|9443|United States|Concord|MCNC|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
-|20|152.26.231.83|9443|United States|Concord|MCNC|
+|1|103.233.156.42|8080|Indonesia|Jakarta Pusat|PT. Mora Telematika Indonesia|
+|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|3|103.148.45.60|8833|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|138.204.12.16|999|Peru|Lima|Telcom Mikrotik Peru S.A.C|
+|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|8|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
+|9|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
+|10|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|126.209.13.226|8082|Philippines|Manila|Infinivan Incorporated|
+|13|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
+|14|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|15|177.234.236.134|8080|Ecuador|Machala|Ufinet Panama S.A.|
+|16|152.26.229.47|9443|United States|Concord|MCNC|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|118.43.114.10|8080|South Korea|Gunsan|Korea Telecom|
 
 
 
