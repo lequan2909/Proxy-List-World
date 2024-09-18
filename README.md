@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |2|202.179.184.70|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
-|3|43.167.243.210|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|4|202.179.90.217|58080|India|Mumbai|Ankhnet|
-|5|112.198.200.62|8082|Philippines|Nasugbu|Globe Telecom|
-|6|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|7|126.209.13.226|8082|Philippines|Manila|Infinivan Incorporated|
-|8|152.26.229.46|9443|United States|Concord|MCNC|
-|9|152.26.229.83|9443|United States|Concord|MCNC|
-|10|152.26.229.93|9443|United States|Concord|MCNC|
-|11|103.48.68.218|84|India|Hyderabad|Country Online Services PVT LTD|
-|12|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
+|3|222.127.246.81|8082|Philippines|Iloilo City|GLBB|
+|4|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
+|5|152.26.229.46|9443|United States|Concord|MCNC|
+|6|152.26.229.83|9443|United States|Concord|MCNC|
+|7|152.26.229.93|9443|United States|Concord|MCNC|
+|8|152.26.229.34|9443|United States|Concord|MCNC|
+|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|152.26.231.86|9443|United States|Concord|MCNC|
+|11|60.48.93.7|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|12|72.10.160.170|29435|Canada|Montreal|GloboTech Communications|
 |13|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
-|14|162.55.232.219|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|152.26.229.34|9443|United States|Concord|MCNC|
-|16|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|8.216.90.236|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|20|72.10.160.92|27199|Canada|Montreal|GloboTech Communications|
+|14|117.91.186.165|20530|China|Nanjing|CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou, Jiangsu Province, P.|
+|15|72.10.160.90|33265|Canada|Montreal|GloboTech Communications|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|180.211.186.158|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|18|67.43.228.253|11325|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|4487|Canada|Montreal|GloboTech Communications|
+|20|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
 
 
 
