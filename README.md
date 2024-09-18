@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
-|5|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
-|6|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|7|95.216.78.251|3128|Finland|Helsinki|Hetzner Online GmbH|
-|8|27.73.100.249|10005|Vietnam|Hanoi|Newass2011xDSLHN|
-|9|103.87.169.194|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|10|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|11|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|207.65.132.78|3128|Japan|Honchō|Sony Network Communications Inc|
+|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|8|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|9|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|10|188.246.163.163|41258|Russia|Moscow|WEST-CALL|
+|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|12|190.2.209.59|999|Colombia|Tumaco|TV AZTECA SUCURSAL COLOMBIA|
+|13|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
 |14|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
-|15|152.26.231.93|9443|United States|Concord|MCNC|
-|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|17|190.187.163.2|999|Peru|Lima region|Americatel Peru S.A.|
-|18|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
-|19|174.138.18.189|9090|Singapore|Singapore|DigitalOcean, LLC|
-|20|72.10.160.173|2543|Canada|Montreal|GloboTech Communications|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|17|49.48.92.196|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|18|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
