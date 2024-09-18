@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5722** proxies at the latest update. Usable proxies are below.
+> Scraper found **5688** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|195|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|780|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|746|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|338|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3451|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.156.15.104|1111|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|3|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
-|6|94.231.192.207|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|8|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
-|9|103.189.116.109|8080|Indonesia|Temanggung|PT Callysta Total Solusindo|
-|10|103.179.182.241|8090|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|13|187.79.146.98|8080|Brazil|São Luís|V tal|
-|14|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|15|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|18|67.43.227.227|3049|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|17831|Canada|Montreal|GloboTech Communications|
-|20|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
+|1|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
+|4|36.66.111.81|8080|Indonesia|Pondok Labu|PT. Telekomunikasi Indonesia|
+|5|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|6|203.202.253.108|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|7|14.224.147.249|8080|Vietnam|Hanoi|VNPT|
+|8|94.231.192.207|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|9|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|10|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|11|121.101.133.220|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|12|52.3.98.50|80|United States|Ashburn|Amazon.com, Inc.|
+|13|152.26.231.86|9443|United States|Concord|MCNC|
+|14|152.26.229.47|9443|United States|Concord|MCNC|
+|15|67.43.227.227|31717|Canada|Montreal|GloboTech Communications|
+|16|118.117.189.225|8089|China|Muping|Chinanet|
+|17|67.43.227.227|31717|Canada|Montreal|GloboTech Communications|
+|18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|67.43.227.227|31717|Canada|Montreal|GloboTech Communications|
+|20|131.221.140.225|8080|Brazil|Barcarena Nova|MVM PINTO COMERCIO E SERVICOS ME|
 
 
 
