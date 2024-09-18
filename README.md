@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|4|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|6|61.198.94.80|8080|Japan|Kanazawa|NSK Co., Ltd.|
-|7|212.252.71.9|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|203.150.128.164|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|5|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|6|45.12.74.32|7890|Russia|St Petersburg|Beget LLC|
+|7|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
 |8|152.26.231.94|9443|United States|Concord|MCNC|
-|9|51.222.142.100|9595|Canada|Beauharnois|OVH SAS|
-|10|117.102.86.148|8080|Indonesia|Jakarta|BIZNET|
-|11|67.43.227.228|23141|Canada|Montreal|GloboTech Communications|
-|12|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|13|152.26.231.83|9443|United States|Concord|MCNC|
-|14|67.43.228.252|8857|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|13145|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|5771|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|31151|Canada|Montreal|GloboTech Communications|
-|18|186.3.97.77|999|Ecuador|Esmeraldas|Telconet S.A|
-|19|67.43.228.250|12151|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.93|9443|United States|Concord|MCNC|
+|9|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|10|190.187.163.2|999|Peru|Lima region|Americatel Peru S.A.|
+|11|152.26.231.83|9443|United States|Concord|MCNC|
+|12|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|13|114.130.183.66|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|14|67.43.227.228|6785|Canada|Montreal|GloboTech Communications|
+|15|154.73.28.49|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|16|152.26.231.93|9443|United States|Concord|MCNC|
+|17|116.163.1.85|9999|China|Beijing|China Unicom CHINA169 Network|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|101.109.176.247|8080|Thailand|Bangkok|TOT Public Company Limited|
 
 
 
