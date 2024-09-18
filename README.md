@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|2|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|6|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|7|112.198.129.234|8085|Philippines|Nasugbu|Globe Telecom|
-|8|43.167.243.180|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|9|124.105.48.232|8082|Philippines|Caloocan City|Philippine Long Distance Telephone Co.|
-|10|45.70.85.33|58080|Brazil|Araçatuba|B.B.S COMUNICAÇÕES LTDA ME|
-|11|178.212.48.80|8080|Poland|Zielona Góra|Lubuskie Sieci Swiatlowodowe Sp. z o. o.|
-|12|152.26.229.86|9443|United States|Concord|MCNC|
-|13|72.10.164.178|12153|Canada|Montreal|GloboTech Communications|
-|14|59.124.9.67|3128|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|15|72.10.164.178|12153|Canada|Montreal|GloboTech Communications|
-|16|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|17|72.10.164.178|12153|Canada|Montreal|GloboTech Communications|
-|18|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
-|19|72.10.164.178|12153|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.91|22477|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|202.179.184.70|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|6|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|7|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|8|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|11|43.167.240.169|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|12|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|13|103.31.241.210|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
+|14|103.102.15.41|18181|Indonesia|Rembangan|FISNET|
+|15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|18|67.43.227.230|10881|Canada|Montreal|GloboTech Communications|
+|19|43.167.240.169|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|20|72.10.164.178|1905|Canada|Montreal|GloboTech Communications|
 
 
 
