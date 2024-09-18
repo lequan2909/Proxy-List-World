@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|3|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
-|4|45.235.252.35|8080|Mexico|Othón P. Blanco|Buenas Noticias SA De CV|
-|5|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|85.112.71.208|8080|Lebanon|Beirut|TerraNet sal|
-|7|61.12.35.12|8080|India|Chennai|Ttsl-isp Division|
-|8|202.62.75.17|83|India|Hyderabad|CityOnline Services|
-|9|190.187.201.26|8080|Peru|Lima|Americatel Peru S.A.|
-|10|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|11|103.48.68.67|84|India|Hyderabad|Country Online Services PVT LTD|
-|12|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|13|117.68.38.180|27234|China|Hefei|China Telecom|
-|14|103.35.109.205|58080|Bangladesh|Dhaka|Ranks ITT|
-|15|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|16|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|17|152.26.229.47|9443|United States|Concord|MCNC|
-|18|72.10.160.90|11535|Canada|Montreal|GloboTech Communications|
-|19|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|38.183.144.117|1111|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
+|5|61.12.35.12|8080|India|Chennai|Ttsl-isp Division|
+|6|212.111.85.40|3128|Russia|Moscow|LLC VK|
+|7|183.88.231.188|34599|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|8|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|9|43.167.243.210|3128|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|10|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|13|103.82.126.202|8080|Indonesia|Tangerang|PT.PLATINUM CITRA INDONESIA|
+|14|152.26.229.47|9443|United States|Concord|MCNC|
+|15|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|16|152.26.231.93|9443|United States|Concord|MCNC|
+|17|72.10.160.90|3759|Canada|Montreal|GloboTech Communications|
+|18|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|152.26.229.34|9443|United States|Concord|MCNC|
 
 
 
