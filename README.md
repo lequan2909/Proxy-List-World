@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
 |3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|9|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|10|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|12|180.191.16.174|8082|Philippines|Cabanatuan City|Globe Telecom|
-|13|119.148.54.78|1419|Bangladesh|Dhaka|Agni Systems Limited|
-|14|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|103.26.110.110|84|India|Chennai|Niss Networks|
-|16|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
-|18|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|20|45.5.196.62|9898|Brazil|Cascavel|Rpnet Informatica Ltda - ME|
+|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|10|103.172.70.138|1111|Indonesia|Karawang|AZNET|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|13|97.76.251.138|8080|United States|Tampa|Spectrum|
+|14|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
+|15|101.109.176.247|8080|Thailand|Bangkok|TOT Public Company Limited|
+|16|122.54.105.109|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|17|46.99.162.194|8082|Albania|Tirana|IPKO Telecommunications LLC|
+|18|103.88.237.91|84|India|Hyderabad|Mana Communications|
+|19|187.62.153.57|8088|Brazil|Oeiras|Megalink Internet|
+|20|149.86.137.100|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
 
 
 
