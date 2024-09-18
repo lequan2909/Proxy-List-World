@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|47.89.235.108|3128|United States|Minkler|Alibaba.com LLC|
-|4|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
-|5|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|45.235.252.35|8080|Mexico|Othón P. Blanco|Buenas Noticias SA De CV|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|6|47.89.235.108|3128|United States|Minkler|Alibaba.com LLC|
 |7|47.89.235.108|3128|United States|Minkler|Alibaba.com LLC|
-|8|182.253.179.39|3128|Indonesia|Jakarta Pusat|BIZNET|
-|9|61.12.35.12|8080|India|Chennai|Ttsl-isp Division|
-|10|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|11|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
-|12|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|13|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
-|14|1.20.203.29|8081|Thailand|Surat Thani|TOT Public Company Limited|
-|15|182.253.69.95|8080|Indonesia|Ciputat|BIZNET|
-|16|41.79.33.170|8080|Botswana|Gaborone|Electro Metic Enterprises PTY LTD|
-|17|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|27.73.99.242|10004|Vietnam|Hanoi|Newass2011xDSLHN|
-|20|38.183.144.117|1111|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
+|8|1.20.203.29|8081|Thailand|Surat Thani|TOT Public Company Limited|
+|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|10|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|11|61.12.35.12|8080|India|Chennai|Ttsl-isp Division|
+|12|177.85.70.50|3128|Brazil|Mundo Novo|ASE TELECOMUNICAÇÕES LTDA ME|
+|13|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|14|115.127.139.91|58080|Bangladesh|Paltan|BRACNet Limited|
+|15|190.121.239.195|999|Venezuela|Caracas|Corporacion Digitel C.A|
+|16|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
+|17|103.179.241.103|8080|Pakistan|Lahore|SuperUser Networks|
+|18|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
 
 
 
