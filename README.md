@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.59.250|3128|Japan|Tokyo|InfoSphere|
-|2|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|125.25.235.229|8080|Thailand|Tak|TOT Public Company Limited|
-|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|6|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|103.179.182.185|8181|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|10|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|11|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|12|103.122.0.115|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
-|13|192.145.205.110|8080|Brazil|São Francisco|Vianet Guaraciama Eireli ME|
-|14|49.144.26.143|8081|Philippines|Imus|Philippine Long Distance Telephone Co.|
-|15|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|194.140.198.23|80|United States|Orangeburg|Nubes, LLC|
-|18|194.140.198.23|80|United States|Orangeburg|Nubes, LLC|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|116.80.59.250|3128|Japan|Tokyo|InfoSphere|
+|3|203.150.113.226|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|7|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|45.70.85.33|58080|Brazil|Araçatuba|B.B.S COMUNICAÇÕES LTDA ME|
+|12|181.129.74.58|40667|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|13|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|14|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|15|45.175.252.18|999|Mexico|Chihuahua City|Alma Jessica Gallegos Gutierrez|
+|16|4.155.2.13|9400|United States|Quincy|Microsoft Corporation|
+|17|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|152.26.229.34|9443|United States|Concord|MCNC|
+|20|152.26.229.47|9443|United States|Concord|MCNC|
 
 
 
