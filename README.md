@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|103.247.23.192|8080|Indonesia|Bekasi|PT wifian Solution|
-|6|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|7|157.245.150.22|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|158.140.169.9|8081|Indonesia|Jakarta|MYREPUBLIC|
-|9|186.113.232.105|8080|Colombia|Pereira|Colombia Telecomunicaciones S.a. ESP|
-|10|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|11|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
-|12|210.87.202.21|3128|South Korea|Seoul|DOTNAME|
-|13|192.53.114.26|80|Singapore|Singapore|Akamai Technologies, Inc.|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|152.26.229.47|9443|United States|Concord|MCNC|
-|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|18|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
-|19|126.209.13.226|8082|Philippines|Manila|Infinivan Incorporated|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|2|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|45.70.203.122|999|Ecuador|Quito|Ufinet Panama S.A.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|195.54.171.231|25299|Hong Kong|Hong Kong|M247 Europe SRL|
+|7|103.75.53.235|7788|Indonesia|Jakarta|PT Quantum Tera Network|
+|8|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|9|103.247.23.37|1111|Indonesia|Banyumas|PT wifian Solution|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|103.127.220.106|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|12|175.137.69.120|3128|Malaysia|Petaling Jaya|TM TECHNOLOGY SERVICES SDN BHD|
+|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|126.209.13.226|8082|Philippines|Manila|Infinivan Incorporated|
+|15|210.87.202.21|3128|South Korea|Seoul|DOTNAME|
+|16|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|17|160.202.42.156|80|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
+|18|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|19|152.26.229.47|9443|United States|Concord|MCNC|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
