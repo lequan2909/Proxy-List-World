@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|422|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|422|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|422|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|3|206.189.33.189|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|6|206.189.33.189|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
 |7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|8|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|9|103.158.121.70|8080|Indonesia|Indramayu|CDN|
+|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|9|86.98.93.23|3128|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
 |10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|11|80.240.55.242|3128|Russia|Yeysk|inetnum UGTEL|
+|11|101.255.209.242|8080|Indonesia|Jakarta|PT Remala Abadi|
 |12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|103.163.227.178|8080|Indonesia|Mojokerto|PT.Delta Surya Solusitama|
-|14|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|17|117.68.38.180|27234|China|Hefei|China Telecom|
+|13|101.109.176.247|8080|Thailand|Bangkok|TOT Public Company Limited|
+|14|80.240.55.242|3128|Russia|Yeysk|inetnum UGTEL|
+|15|103.165.155.109|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|16|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|17|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
 |18|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|189.195.139.178|999|Mexico|Tangancícuaro de Arista|Mega Cable, S.A. de C.V.|
-|20|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|19|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
+|20|157.100.57.180|999|Ecuador|Juan Montalvo|Ufinet Panama S.A.|
 
 
 
