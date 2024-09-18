@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.161.20.37|3128|United States|Ashburn|Hetzner Online GmbH|
-|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
-|4|5.161.20.37|3128|United States|Ashburn|Hetzner Online GmbH|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|79.106.108.150|8079|Albania|Tepelenë|ALBTELECOM VI|
-|8|49.70.172.167|8089|China|Shanghai|Chinanet|
-|9|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|10|38.52.221.66|8080|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|11|114.9.52.134|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|12|181.114.62.1|8085|Argentina|Ramallo|INTERAIR|
-|13|24.172.82.94|53281|United States|Concord|Spectrum|
-|14|38.45.46.2|6332|Dominican Republic|Santo Domingo|FENIX NETWORKS, S.R.L.|
+|1|61.19.109.236|8080|Thailand|Vadhana|CAT-ISP|
+|2|5.161.20.37|3128|United States|Ashburn|Hetzner Online GmbH|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|5|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|6|5.161.20.37|3128|United States|Ashburn|Hetzner Online GmbH|
+|7|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|8|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|9|5.56.124.176|6734|Moldova|Chisinau|JSC "Moldtelecom" S.A|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|12|49.70.172.167|8089|China|Shanghai|Chinanet|
+|13|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
+|14|202.93.244.54|8085|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
 |15|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
-|17|38.47.180.7|3128|Indonesia|Jakarta|PT Herza Digital Indonesia|
-|18|152.26.229.34|9443|United States|Concord|MCNC|
-|19|152.26.231.93|9443|United States|Concord|MCNC|
+|16|152.26.229.34|9443|United States|Concord|MCNC|
+|17|152.26.231.93|9443|United States|Concord|MCNC|
+|18|61.91.162.126|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|19|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
 |20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
