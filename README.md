@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5707** proxies at the latest update. Usable proxies are below.
+> Scraper found **5706** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|207|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|206|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|642|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|335|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|103.118.44.233|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|4|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|5|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|121.184.173.215|8080|South Korea|Cheonan|Korea Telecom|
+|5|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
 |6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|8|186.0.144.141|9595|Brazil|Araçatuba|Tellius Telecomunicacoes DAS Americas Ltda|
-|9|144.86.187.41|3129|United States|Malden|Charles River Operation|
-|10|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|11|103.175.202.182|8090|Indonesia|Kabupaten Tanah Bumbu|PT Ameera Mega Buana|
-|12|103.247.23.192|8080|Indonesia|Bekasi|PT wifian Solution|
-|13|152.26.229.83|9443|United States|Concord|MCNC|
-|14|36.66.111.81|8080|Indonesia|Pondok Labu|PT. Telekomunikasi Indonesia|
-|15|152.26.231.42|9443|United States|Concord|MCNC|
-|16|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
-|17|117.102.86.148|8080|Indonesia|Jakarta|BIZNET|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|119.40.98.29|21|Mongolia|Ulan Bator|Topica Co., Ltd|
+|9|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|103.25.81.117|8080|Bangladesh|Chittagong|Chittagong Telecom Services Limited|
+|11|195.8.52.207|8080|Poland|Ustrzyki Dolne|WIDE-NET II Sp. z o.o.|
+|12|177.44.161.8|3128|Brazil|Chopinzinho|WIIP TELECOM SERVIÇOS DE INTERNET LTDA|
+|13|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
+|14|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|152.26.229.83|9443|United States|Concord|MCNC|
+|16|180.190.200.77|8082|Philippines|Lahug|Globe Telecom|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
