@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|3|116.80.59.250|3128|Japan|Tokyo|InfoSphere|
-|4|187.1.57.206|20183|Brazil|Nova Lima|Companhia Itabirana Telecomunicações Ltda|
-|5|103.30.115.154|8080|Timor-Leste|Dili|Telin Telkomcel TimorLeste|
-|6|152.26.229.46|9443|United States|Concord|MCNC|
-|7|126.209.13.226|8082|Philippines|Manila|Infinivan Incorporated|
-|8|152.26.229.34|9443|United States|Concord|MCNC|
-|9|117.68.38.164|24161|China|Hefei|China Telecom|
-|10|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
-|11|117.91.186.165|30503|China|Nanjing|CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou, Jiangsu Province, P.|
-|12|113.240.99.148|65007|China|Qingyuan|No.293, Wanbao Avenue|
-|13|103.75.96.70|8080|Indonesia|Bandung|MORATELINDO|
-|14|152.26.231.93|9443|United States|Concord|MCNC|
-|15|152.26.229.93|9443|United States|Concord|MCNC|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|67.43.236.21|13659|Canada|Montreal|GloboTech Communications|
-|18|69.197.135.43|36575|United States|Kansas City|WholeSale Internet|
-|19|163.5.196.123|3128|The Netherlands|Amsterdam|STALLIONDC Limited|
-|20|152.26.229.42|9443|United States|Concord|MCNC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|38.183.144.82|8181|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
+|5|27.147.128.25|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|6|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|7|116.80.59.250|3128|Japan|Tokyo|InfoSphere|
+|8|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|9|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|10|152.26.229.46|9443|United States|Concord|MCNC|
+|11|36.67.114.94|8187|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|12|152.26.229.34|9443|United States|Concord|MCNC|
+|13|187.230.186.251|3128|Mexico|Naucalpan|Uninet S.A. de C.V.|
+|14|154.90.49.193|80|Indonesia|Jakarta|Kaopu Cloud HK Limited|
+|15|116.111.117.246|10001|Vietnam|Hanoi|Viettel Corporation|
+|16|69.197.135.43|36575|United States|Kansas City|WholeSale Internet|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|152.26.231.94|9443|United States|Concord|MCNC|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
