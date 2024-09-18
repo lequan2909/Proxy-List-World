@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|35.87.161.97|3128|United States|Portland|Amazon.com, Inc.|
-|5|35.87.161.97|3128|United States|Portland|Amazon.com, Inc.|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
 |7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|38.45.46.2|6332|Dominican Republic|Santo Domingo|FENIX NETWORKS, S.R.L.|
-|9|203.150.128.67|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|10|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|103.166.10.17|8181|Indonesia|Kediri|PT. Yasmin Amanah Media|
-|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|14|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
-|15|176.215.117.12|8080|Russia|Krasnoyarsk|CJSC "ER-Telecom Holding" Krasnoyarsk branch|
-|16|103.189.116.109|8080|Indonesia|Temanggung|PT Callysta Total Solusindo|
-|17|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
-|18|124.105.48.232|8082|Philippines|Caloocan City|Philippine Long Distance Telephone Co.|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|104.129.206.203|8800|United States|Atlanta|ZSCALER, INC.|
+|12|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|152.26.229.47|9443|United States|Concord|MCNC|
+|14|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|15|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|152.26.231.93|9443|United States|Concord|MCNC|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|117.102.76.252|8080|Indonesia|Jakarta|Biznet Networks|
+|20|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
 
 
 
