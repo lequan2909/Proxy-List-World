@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|118.43.114.10|8080|South Korea|Gunsan|Korea Telecom|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|7|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
-|8|167.86.99.29|3128|Germany|Nuremberg|Contabo GmbH|
-|9|67.43.227.230|10613|Canada|Montreal|GloboTech Communications|
-|10|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
-|11|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
-|15|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
-|16|152.26.231.86|9443|United States|Concord|MCNC|
-|17|72.10.164.178|5481|Canada|Montreal|GloboTech Communications|
-|18|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
-|19|152.26.229.86|9443|United States|Concord|MCNC|
-|20|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
+|2|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|190.94.213.78|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|7|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
+|10|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|12|152.26.231.86|9443|United States|Concord|MCNC|
+|13|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
+|14|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
+|15|152.26.231.94|9443|United States|Concord|MCNC|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|67.43.227.230|10613|Canada|Montreal|GloboTech Communications|
+|20|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
 
 
 
