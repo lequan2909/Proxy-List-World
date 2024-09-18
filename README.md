@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|4|103.125.16.69|8080|Indonesia|Tangerang|JAVAMEDIA|
-|5|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|6|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|7|38.156.75.15|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|8|187.62.153.57|8088|Brazil|Oeiras|Megalink Internet|
-|9|152.26.229.34|9443|United States|Concord|MCNC|
-|10|72.10.164.178|21151|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.226|1601|Canada|Montreal|GloboTech Communications|
-|12|103.154.230.124|8080|Indonesia|Lamongan|DIGITNET|
-|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|14|67.43.228.253|10765|Canada|Montreal|GloboTech Communications|
-|15|117.68.38.153|28951|China|Hefei|China Telecom|
-|16|67.43.227.226|1601|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|3|103.176.96.104|8082|Indonesia|Purwakarta|PT Global Sarana Elektronika|
+|4|103.26.108.254|84|India|Thoothukudi|Niss Networks|
+|5|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|6|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|7|152.26.229.34|9443|United States|Concord|MCNC|
+|8|103.48.68.6|83|India|Hyderabad|Country Online Services PVT LTD|
+|9|38.52.221.66|8080|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|10|113.240.99.148|65007|China|Qingyuan|No.293, Wanbao Avenue|
+|11|45.70.85.33|58080|Brazil|Araçatuba|B.B.S COMUNICAÇÕES LTDA ME|
+|12|72.10.164.178|21151|Canada|Montreal|GloboTech Communications|
+|13|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
+|14|67.43.227.226|21229|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.170|2431|Canada|Montreal|GloboTech Communications|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 |17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|67.43.227.226|1601|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|21151|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|1601|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|20|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
 
 
 
