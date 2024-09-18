@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.59.250|3128|Japan|Tokyo|InfoSphere|
-|2|203.150.113.226|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|116.80.59.250|3128|Japan|Tokyo|InfoSphere|
 |3|125.25.235.229|8080|Thailand|Tak|TOT Public Company Limited|
-|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|5|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
-|6|198.244.231.83|8888|United Kingdom|London|OVH SAS|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|45.81.115.86|3128|Türkiye|Bursa|Pembe Gul Isguzar Karagoz|
-|9|200.39.120.44|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
-|10|103.203.233.105|3125|Indonesia|Klapanunggal|INDANA|
-|11|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|13|72.10.160.173|9163|Canada|Montreal|GloboTech Communications|
-|14|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|15|72.10.160.170|2001|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.230|2437|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.171|5067|Canada|Montreal|GloboTech Communications|
-|18|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|19|116.111.113.244|10006|Vietnam|Hanoi|Viettel Corporation|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|4|61.198.94.80|8080|Japan|Kanazawa|NSK Co., Ltd.|
+|5|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|6|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|8|201.134.169.214|8205|Mexico|Mexico City|Uninet S.A. de C.V.|
+|9|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|103.187.86.27|8182|Indonesia|Pinrang|PT Satunol Digital Teknologi|
+|12|198.244.231.83|8888|United Kingdom|London|OVH SAS|
+|13|4.155.2.13|9480|United States|Quincy|Microsoft Corporation|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|16|103.155.196.105|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|17|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|18|45.81.115.86|3128|Türkiye|Bursa|Pembe Gul Isguzar Karagoz|
+|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
 
 
 
