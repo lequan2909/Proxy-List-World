@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5795** proxies at the latest update. Usable proxies are below.
+> Scraper found **5734** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|195|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|853|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|792|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|338|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3451|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|8|95.216.78.205|3128|Finland|Helsinki|Hetzner Online GmbH|
-|9|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|200.106.124.240|999|Peru|Tacna|Telefonica del Peru|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|110.78.164.224|8888|Thailand|Bangkok|CAT-BB|
-|13|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
-|14|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
-|15|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|103.110.34.133|8089|Indonesia|Purwodadi Grobogan|PT RECONET SEMESTA INDONESIA|
-|17|152.26.231.42|9443|United States|Concord|MCNC|
-|18|152.26.229.34|9443|United States|Concord|MCNC|
-|19|152.26.229.46|9443|United States|Concord|MCNC|
-|20|152.26.229.83|9443|United States|Concord|MCNC|
+|2|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
+|5|124.106.66.194|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|103.166.10.17|8181|Indonesia|Kediri|PT. Yasmin Amanah Media|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|11|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|12|103.179.182.241|8090|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|13|104.129.206.163|8800|United States|Atlanta|ZSCALER, INC.|
+|14|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|15|136.226.84.94|8800|United States|Chicago|ZSCALER, INC.|
+|16|152.26.231.93|9443|United States|Concord|MCNC|
+|17|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
+|18|72.10.160.94|21239|Canada|Montreal|GloboTech Communications|
+|19|134.41.154.164|8118|Canada|Moncton|Bell Canada|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
