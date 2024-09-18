@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|103.110.34.144|8089|Indonesia|Purwodadi Grobogan|PT RECONET SEMESTA INDONESIA|
-|5|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|103.203.232.101|1080|Indonesia|Kedok|INDANA|
-|7|131.221.140.225|8080|Brazil|Barcarena Nova|MVM PINTO COMERCIO E SERVICOS ME|
-|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|9|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
-|10|38.156.72.198|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
-|13|45.184.73.32|40033|Brazil|Nordestina|A2 TELECOM PROVEDOR DE INTERNET LTDA|
-|14|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
-|15|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|152.26.231.93|9443|United States|Concord|MCNC|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|152.26.229.93|9443|United States|Concord|MCNC|
-|20|67.43.227.227|4359|Canada|Montreal|GloboTech Communications|
+|2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|203.150.128.67|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|7|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
+|8|45.184.73.32|40033|Brazil|Nordestina|A2 TELECOM PROVEDOR DE INTERNET LTDA|
+|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|82.200.106.177|5225|Russia|Novosibirsk|ZSTTK|
+|12|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
+|14|152.26.231.93|9443|United States|Concord|MCNC|
+|15|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|16|152.26.229.93|9443|United States|Concord|MCNC|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
+|18|180.45.10.152|8080|Japan|Kyoto|NTT Communications Corporation|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
