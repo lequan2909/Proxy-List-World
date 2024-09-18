@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|126.209.13.226|8082|Philippines|Manila|Infinivan Incorporated|
-|5|152.26.229.86|9443|United States|Concord|MCNC|
-|6|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
-|7|72.10.160.93|23603|Canada|Montreal|GloboTech Communications|
-|8|124.105.48.232|8082|Philippines|Caloocan City|Philippine Long Distance Telephone Co.|
-|9|72.10.160.91|23387|Canada|Montreal|GloboTech Communications|
-|10|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|11|152.26.229.46|9443|United States|Concord|MCNC|
-|12|103.59.163.206|80|Myanmar|Yangon|Golden Dragon 2000 Company Limited|
-|13|152.26.231.94|9443|United States|Concord|MCNC|
-|14|67.43.228.250|32527|Canada|Montreal|GloboTech Communications|
-|15|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
-|16|67.43.228.252|5653|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.47|9443|United States|Concord|MCNC|
-|18|67.43.228.250|32527|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|19195|Canada|Montreal|GloboTech Communications|
-|20|114.9.52.134|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|2|116.104.185.85|5102|Vietnam|Hanoi|Viettel Corporation|
+|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|4|200.39.120.43|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|5|126.209.13.226|8082|Philippines|Manila|Infinivan Incorporated|
+|6|36.64.184.2|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|7|114.9.52.134|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|8|45.70.85.33|58080|Brazil|Araçatuba|B.B.S COMUNICAÇÕES LTDA ME|
+|9|152.26.229.86|9443|United States|Concord|MCNC|
+|10|152.26.229.46|9443|United States|Concord|MCNC|
+|11|152.26.231.94|9443|United States|Concord|MCNC|
+|12|152.26.229.47|9443|United States|Concord|MCNC|
+|13|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
+|14|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|15|152.26.229.83|9443|United States|Concord|MCNC|
+|16|72.10.160.173|10429|Canada|Montreal|GloboTech Communications|
+|17|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|18|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|38.156.72.59|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|115.127.5.146|8674|Bangladesh|Dhaka|bracNet|
 
 
 
