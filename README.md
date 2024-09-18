@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|3|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|4|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|186.0.144.141|9595|Brazil|Araçatuba|Tellius Telecomunicacoes DAS Americas Ltda|
-|6|112.205.70.141|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|7|36.88.148.140|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|8|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|9|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|10|152.26.231.83|9443|United States|Concord|MCNC|
-|11|152.26.229.83|9443|United States|Concord|MCNC|
-|12|152.26.231.93|9443|United States|Concord|MCNC|
-|13|152.26.231.94|9443|United States|Concord|MCNC|
-|14|152.26.229.86|9443|United States|Concord|MCNC|
-|15|152.26.229.42|9443|United States|Concord|MCNC|
-|16|152.26.229.93|9443|United States|Concord|MCNC|
-|17|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|18|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|19|178.212.48.80|8080|Poland|Zielona Góra|Lubuskie Sieci Swiatlowodowe Sp. z o. o.|
-|20|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|136.60.0.212|80|United States|Austin|Google Fiber Inc.|
+|4|35.87.161.97|3128|United States|Portland|Amazon.com, Inc.|
+|5|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|35.87.161.97|3128|United States|Portland|Amazon.com, Inc.|
+|7|136.60.0.212|80|United States|Austin|Google Fiber Inc.|
+|8|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|9|180.190.200.77|8082|Philippines|Lahug|Globe Telecom|
+|10|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|11|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|12|126.209.13.226|8082|Philippines|Manila|Infinivan Incorporated|
+|13|27.64.27.146|8080|Vietnam|Ho Chi Minh City|Viettel Group|
+|14|51.222.142.100|9595|Canada|Beauharnois|OVH SAS|
+|15|152.26.231.94|9443|United States|Concord|MCNC|
+|16|152.26.231.93|9443|United States|Concord|MCNC|
+|17|152.26.231.83|9443|United States|Concord|MCNC|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|110.34.1.178|7777|Nepal|Kathmandu|Subisu Cablenet|
 
 
 
