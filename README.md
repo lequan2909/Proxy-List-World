@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|2|103.145.160.3|8080|Indonesia|South Tangerang|PT Indonesia Comnets Plus|
-|3|189.193.230.235|999|Mexico|Tejupilco de Hidalgo|Mega Cable, S.A. de C.V.|
-|4|116.104.185.85|5102|Vietnam|Hanoi|Viettel Corporation|
-|5|36.67.223.231|8090|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|6|36.93.32.137|8080|Indonesia|Tangerang|Telekomunikasi Indonesia|
-|7|36.67.114.94|8187|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|8|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
-|9|92.124.99.130|8080|Russia|Krasnoyarsk|OJSC "Sibirtelecom"|
-|10|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
-|11|103.54.36.90|8674|Bangladesh|Khulna|Earth Telecommunication (Pvt.) Ltd|
-|12|103.122.142.174|8080|Bangladesh|Dhaka|Carnival Internet|
-|13|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|14|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|15|152.26.229.34|9443|United States|Concord|MCNC|
-|16|140.238.230.215|3128|India|Mumbai|Oracle Corporation|
-|17|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
-|18|152.26.229.46|9443|United States|Concord|MCNC|
-|19|152.26.231.93|9443|United States|Concord|MCNC|
-|20|206.237.98.253|1021|Indonesia|Jakarta|PT Herza Digital Indonesia|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|4|103.155.196.27|8080|Indonesia|Jakarta|JEMBATANDATA|
+|5|177.93.41.81|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|6|103.184.56.125|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
+|7|38.156.72.59|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|8|126.209.13.226|8082|Philippines|Manila|Infinivan Incorporated|
+|9|103.124.196.134|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|10|202.56.166.157|8080|Indonesia|Yogyakarta|PT Lintas Data Prima|
+|11|187.62.153.57|8088|Brazil|Oeiras|Megalink Internet|
+|12|115.127.5.146|8674|Bangladesh|Dhaka|bracNet|
+|13|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|14|114.9.52.134|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|15|140.238.230.215|3128|India|Mumbai|Oracle Corporation|
+|16|186.215.68.51|3127|Brazil|Brasília|Vivo|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|152.26.231.93|9443|United States|Concord|MCNC|
 
 
 
