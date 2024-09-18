@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|6|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|103.85.114.240|8080|Bangladesh|Dhaka|FiSSA communication|
-|11|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
-|12|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
-|13|182.253.38.13|3128|Indonesia|Jakarta Pusat|BIZNET|
-|14|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
-|15|58.33.109.114|2021|China|Shanghai|China Telecom (Group)|
-|16|46.161.194.88|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|17|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|18|193.105.123.196|8123|Azerbaijan|Baku|Bulud Telecom LLC|
-|19|126.209.13.226|8082|Philippines|Manila|Infinivan Incorporated|
-|20|222.127.246.81|8082|Philippines|Iloilo City|GLBB|
+|1|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|5|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|7|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
+|8|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
+|9|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|10|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
+|11|104.129.206.174|8800|United States|Atlanta|ZSCALER, INC.|
+|12|165.225.125.6|9401|India|New Delhi|ZSCALER, INC.|
+|13|152.26.229.42|9443|United States|Concord|MCNC|
+|14|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|15|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|20|187.79.146.98|8080|Brazil|São Luís|V tal|
 
 
 
