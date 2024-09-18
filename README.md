@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.184.173.215|8080|South Korea|Cheonan|Korea Telecom|
-|2|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|5|112.201.189.202|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|6|83.54.10.24|3128|Spain|León|Telefonica de Espana SAU|
-|7|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|8|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
-|9|103.133.63.77|8181|Indonesia|Bandar Lampung|TLINK|
-|10|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|41.254.56.6|1981|Libya|Tripoli|LTT Network Backbone and POPs|
-|12|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|13|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
-|14|72.10.164.178|4357|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|121.184.173.215|8080|South Korea|Cheonan|Korea Telecom|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|5|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|7|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
+|8|36.72.252.71|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|9|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
+|10|103.87.169.184|56642|India|Jaipur|Tejays Industries Pvt Ltd|
+|11|103.183.98.222|7777|Indonesia|Trenggalek|PT.LEXXA DATA INDONUSA|
+|12|103.76.149.134|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|13|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
 |15|152.26.229.93|9443|United States|Concord|MCNC|
 |16|152.26.231.83|9443|United States|Concord|MCNC|
-|17|103.191.254.2|8085|Indonesia|Jadi|PT Ayodya Data Internusa|
-|18|67.43.227.228|3859|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|3763|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.94|8929|Canada|Montreal|GloboTech Communications|
+|17|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|20|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 
 
 
