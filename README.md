@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5799** proxies at the latest update. Usable proxies are below.
+> Scraper found **5801** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|206|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|735|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|737|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|335|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3565|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|1|121.184.173.215|8080|South Korea|Cheonan|Korea Telecom|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|35.87.161.97|3128|United States|Portland|Amazon.com, Inc.|
-|6|35.87.161.97|3128|United States|Portland|Amazon.com, Inc.|
-|7|184.82.51.127|8080|Thailand|Khon Kaen|AIS-Fibre|
-|8|27.64.27.146|8080|Vietnam|Ho Chi Minh City|Viettel Group|
-|9|45.190.78.47|999|Mexico|Tala|Meta Networks SA De CV|
-|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|11|202.152.20.226|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|12|103.203.233.105|3125|Indonesia|Klapanunggal|INDANA|
-|13|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|14|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
-|15|124.105.102.167|8082|Philippines|Tanauan|Philippine Long Distance Telephone Co.|
-|16|152.26.229.34|9443|United States|Concord|MCNC|
-|17|67.43.236.20|16757|Canada|Montreal|GloboTech Communications|
-|18|117.68.38.187|20028|China|Hefei|China Telecom|
-|19|51.158.173.222|3128|France|Paris|Online S.A.S.|
-|20|152.26.231.93|9443|United States|Concord|MCNC|
+|4|181.78.71.140|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|6|36.88.148.140|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|144.86.187.54|3129|United States|Malden|Charles River Operation|
+|9|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|10|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|152.26.231.83|9443|United States|Concord|MCNC|
+|13|72.10.164.178|25717|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|25717|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|1223|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|33071|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.230|10587|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|1223|Canada|Montreal|GloboTech Communications|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|67.43.227.226|10565|Canada|Montreal|GloboTech Communications|
 
 
 
