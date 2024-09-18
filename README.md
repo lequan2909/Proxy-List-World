@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|36.72.252.71|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|1|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|2|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|4|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|5|103.160.182.159|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|6|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|8|112.198.179.17|8082|Philippines|Carmona|Globe Telecom|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|27.147.139.241|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
-|13|160.25.180.35|8080|India|Mumbai|TAJ BROADBAND PRIVATE LIMITED|
-|14|72.10.164.178|24821|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.93|9443|United States|Concord|MCNC|
-|16|152.26.229.47|9443|United States|Concord|MCNC|
-|17|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
-|18|118.70.49.64|8080|Vietnam|Hanoi|FPT Telecom Company|
-|19|149.56.95.145|9595|Canada|Montreal|OVH Hosting|
-|20|180.211.186.158|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|4|36.72.252.71|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|5|139.59.240.195|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|8|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|9|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|10|103.76.149.134|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|11|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|12|152.26.229.93|9443|United States|Concord|MCNC|
+|13|152.26.229.47|9443|United States|Concord|MCNC|
+|14|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|15|72.10.164.178|30273|Canada|Montreal|GloboTech Communications|
+|16|112.17.10.41|3128|China|Hangzhou|China Mobile Communications Corporation|
+|17|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|52.66.119.151|3128|India|Mumbai|Amazon Technologies Inc.|
+|19|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
