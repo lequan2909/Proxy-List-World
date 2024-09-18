@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|36.67.79.170|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|3|223.205.207.184|8080|Thailand|Ko Pha Ngan|Triple T Broadband Public Company Limited|
-|4|103.54.36.90|8674|Bangladesh|Khulna|Earth Telecommunication (Pvt.) Ltd|
-|5|138.121.161.85|8097|Argentina|Rosario|WICORP SA|
-|6|191.102.254.26|8085|Argentina|Rosario|IP·RED|
-|7|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|8|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|114.9.52.134|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|10|160.202.42.156|8080|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
-|11|58.147.186.226|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
-|12|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|13|36.66.111.81|8080|Indonesia|Pondok Labu|PT. Telekomunikasi Indonesia|
+|1|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|2|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
+|3|95.164.37.150|8118|United Kingdom|Coventry|Stark Industries Solutions LTD|
+|4|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
+|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|6|186.115.202.103|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
+|7|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
+|8|103.54.36.90|8674|Bangladesh|Khulna|Earth Telecommunication (Pvt.) Ltd|
+|9|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|10|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|12|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
 |14|186.113.232.105|8080|Colombia|Pereira|Colombia Telecomunicaciones S.a. ESP|
-|15|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|17|72.10.164.178|31559|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|31559|Canada|Montreal|GloboTech Communications|
-|19|103.106.219.114|1080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
-|20|67.43.228.253|30453|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|31559|Canada|Montreal|GloboTech Communications|
+|16|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|17|152.26.231.83|9443|United States|Concord|MCNC|
+|18|67.43.228.253|6133|Canada|Montreal|GloboTech Communications|
+|19|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
 
