@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
-|3|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|35.87.161.97|3128|United States|Portland|Amazon.com, Inc.|
-|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|7|168.197.182.137|8080|Brazil|Elesbão Veloso|Vision Connect Telecomunicaçoes Ltda Me|
-|8|35.87.161.97|3128|United States|Portland|Amazon.com, Inc.|
-|9|103.168.254.162|8086|Indonesia|Jepara|PT Fahasa Tri Data|
-|10|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|180.190.200.77|8082|Philippines|Lahug|Globe Telecom|
-|12|158.140.169.9|8081|Indonesia|Jakarta|MYREPUBLIC|
-|13|177.37.114.5|3128|Brazil|Cataguases|Brasilnet Telecomunicações Ltda ME|
-|14|27.96.131.193|80|South Korea|Seongnam-si|NBP|
-|15|152.26.229.93|9443|United States|Concord|MCNC|
-|16|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|17|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|103.156.221.212|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
-|20|152.26.229.47|9443|United States|Concord|MCNC|
+|2|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|5|103.160.182.159|8080|Indonesia|Jember|PT Internusa Duta Makmur|
+|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|7|49.70.172.146|8089|China|Shanghai|Chinanet|
+|8|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|103.247.23.192|8080|Indonesia|Bekasi|PT wifian Solution|
+|11|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|152.26.229.93|9443|United States|Concord|MCNC|
+|14|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|15|45.81.115.86|3128|Türkiye|Bursa|Pembe Gul Isguzar Karagoz|
+|16|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|17|152.26.229.47|9443|United States|Concord|MCNC|
+|18|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
 
