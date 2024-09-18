@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5094** proxies at the latest update. Usable proxies are below.
+> Scraper found **5119** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|261|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|672|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|697|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|252|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2951|✅|
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
 |4|103.255.241.101|8080|Indonesia|Purwokerto|PT Media Sarana Data|
-|5|24.172.82.94|53281|United States|Concord|Spectrum|
-|6|103.168.254.62|8080|Indonesia|Jepara|PT Fahasa Tri Data|
-|7|158.140.169.9|8081|Indonesia|Jakarta|MYREPUBLIC|
-|8|38.52.221.66|8080|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|9|190.94.213.48|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|175.137.69.120|3128|Malaysia|Petaling Jaya|TM TECHNOLOGY SERVICES SDN BHD|
-|12|1.1.220.100|8080|Thailand|Nan|TOT Public Company Limited|
-|13|182.160.123.113|5020|Bangladesh|Dhaka|Aamra Networks Limited|
-|14|5.56.124.176|6734|Moldova|Chisinau|JSC "Moldtelecom" S.A|
-|15|103.22.99.93|7777|Indonesia|Magetan|KHALISTAGROUP|
-|16|49.70.190.125|8089|China|Nanjing|Chinanet|
-|17|186.113.232.105|8080|Colombia|Pereira|Colombia Telecomunicaciones S.a. ESP|
-|18|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
-|19|45.70.85.33|58080|Brazil|Araçatuba|B.B.S COMUNICAÇÕES LTDA ME|
-|20|187.249.20.153|8081|Mexico|Ciudad Benito Juárez|Transtelco Inc|
+|5|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|49.70.190.125|8089|China|Nanjing|Chinanet|
+|8|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|178.212.48.80|8080|Poland|Zielona Góra|Lubuskie Sieci Swiatlowodowe Sp. z o. o.|
+|10|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|11|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|12|152.26.231.83|9443|United States|Concord|MCNC|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
+|14|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|49.70.190.125|8089|China|Nanjing|Chinanet|
+|16|152.26.229.34|9443|United States|Concord|MCNC|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|103.75.54.230|8080|Indonesia|Jakarta|PT Quantum Tera Network|
 
 
 
