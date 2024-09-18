@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.93.34.195|8999|Bangladesh|Kaliakair|Apple Communication Ltd.|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|6|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|7|36.93.32.137|8080|Indonesia|Tangerang|Telekomunikasi Indonesia|
-|8|186.113.232.105|8080|Colombia|Pereira|Colombia Telecomunicaciones S.a. ESP|
-|9|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
-|10|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
-|12|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|13|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
-|14|152.26.229.86|9443|United States|Concord|MCNC|
-|15|152.26.229.93|9443|United States|Concord|MCNC|
-|16|152.26.231.94|9443|United States|Concord|MCNC|
-|17|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|189.193.225.10|999|Mexico|Santo Domingo Tehuantepec|Mega Cable, S.A. de C.V.|
-|20|67.43.228.253|3397|Canada|Montreal|GloboTech Communications|
+|2|103.178.42.100|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|36.73.66.120|8080|Indonesia|Yogyakarta|PT. TELKOM INDONESIA|
+|5|171.226.77.132|5107|Vietnam|Nha Trang|Viettel Corporation|
+|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|10|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
+|11|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|12|152.26.229.86|9443|United States|Concord|MCNC|
+|13|190.187.163.2|999|Peru|Lima region|Americatel Peru S.A.|
+|14|152.26.229.93|9443|United States|Concord|MCNC|
+|15|152.26.231.94|9443|United States|Concord|MCNC|
+|16|38.52.221.66|8080|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
 
 
 
