@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|182.160.109.162|8080|Bangladesh|Dhaka|Aamra Networks Limited|
-|7|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|8|103.40.121.33|8089|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
-|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|11|72.10.160.172|12827|Canada|Montreal|GloboTech Communications|
-|12|152.26.231.94|9443|United States|Concord|MCNC|
-|13|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
-|14|152.26.229.34|9443|United States|Concord|MCNC|
-|15|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|16|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|17|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|152.26.229.86|9443|United States|Concord|MCNC|
-|20|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|3|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|4|103.255.241.101|8080|Indonesia|Purwokerto|PT Media Sarana Data|
+|5|24.172.82.94|53281|United States|Concord|Spectrum|
+|6|103.168.254.62|8080|Indonesia|Jepara|PT Fahasa Tri Data|
+|7|158.140.169.9|8081|Indonesia|Jakarta|MYREPUBLIC|
+|8|38.52.221.66|8080|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|9|190.94.213.48|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|175.137.69.120|3128|Malaysia|Petaling Jaya|TM TECHNOLOGY SERVICES SDN BHD|
+|12|1.1.220.100|8080|Thailand|Nan|TOT Public Company Limited|
+|13|182.160.123.113|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|14|5.56.124.176|6734|Moldova|Chisinau|JSC "Moldtelecom" S.A|
+|15|103.22.99.93|7777|Indonesia|Magetan|KHALISTAGROUP|
+|16|49.70.190.125|8089|China|Nanjing|Chinanet|
+|17|186.113.232.105|8080|Colombia|Pereira|Colombia Telecomunicaciones S.a. ESP|
+|18|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
+|19|45.70.85.33|58080|Brazil|Araçatuba|B.B.S COMUNICAÇÕES LTDA ME|
+|20|187.249.20.153|8081|Mexico|Ciudad Benito Juárez|Transtelco Inc|
 
 
 
