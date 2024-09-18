@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|203.150.128.67|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|4|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|8|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
-|9|190.94.213.78|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|10|103.162.62.250|8181|Indonesia|Yogyakarta|PT Ring Media Nusantara|
-|11|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
-|12|103.110.34.144|8089|Indonesia|Purwodadi Grobogan|PT RECONET SEMESTA INDONESIA|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|167.86.99.29|3128|Germany|Nuremberg|Contabo GmbH|
-|15|152.26.229.93|9443|United States|Concord|MCNC|
-|16|152.26.231.83|9443|United States|Concord|MCNC|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|38.52.221.66|8080|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|19|134.236.103.2|8080|Thailand|Bang Lamung|CAT-BB|
-|20|48.216.234.146|3128|United States|Boydton|Microsoft Corporation|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|6|154.94.5.241|7001|Germany|Frankfurt am Main|Yisu Cloud|
+|7|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|8|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|12|152.26.229.93|9443|United States|Concord|MCNC|
+|13|152.26.229.42|9443|United States|Concord|MCNC|
+|14|152.26.231.83|9443|United States|Concord|MCNC|
+|15|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|16|72.10.164.178|21229|Canada|Montreal|GloboTech Communications|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|67.43.228.253|28845|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|25189|Canada|Montreal|GloboTech Communications|
 
 
 
