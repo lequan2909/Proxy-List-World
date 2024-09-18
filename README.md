@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|420|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|420|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|420|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
 |4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|118.173.60.246|8080|Thailand|Bangkok|TOT Public Company Limited|
-|6|180.190.200.24|8085|Philippines|Lahug|Globe Telecom|
-|7|103.148.29.229|80|Indonesia|Sigi|DEWATA|
-|8|103.160.182.171|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|9|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|103.166.227.82|8085|Indonesia|Majalengka|PT Arta Flash Sintesa Nusantara|
-|14|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|15|126.209.13.226|8082|Philippines|Manila|Infinivan Incorporated|
-|16|112.198.179.57|8082|Philippines|Carmona|Globe Telecom|
-|17|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|18|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|19|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|5|103.148.29.229|80|Indonesia|Sigi|DEWATA|
+|6|118.173.60.246|8080|Thailand|Bangkok|TOT Public Company Limited|
+|7|38.156.235.37|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|8|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|10|202.173.220.50|1122|Thailand|Bangkok|KIRZ Company Limited|
+|11|181.205.94.251|999|Colombia|Medellín|Colombia Móvil|
+|12|195.158.197.96|8088|Ukraine|Kyiv|Teremky LAN ISP LLC|
+|13|103.186.254.218|2016|India|Visakhapatnam|Pioneer Elabs Ltd.|
+|14|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|18|122.2.48.121|8080|Philippines|Ormoc City|Philippine Long Distance Telephone Co.|
+|19|72.10.160.173|24801|Canada|Montreal|GloboTech Communications|
+|20|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
 
 
 
