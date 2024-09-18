@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|36.72.252.71|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|4|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|6|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|8|176.99.2.43|1081|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|9|222.127.242.123|8082|Philippines|Iloilo City|GLBB|
-|10|36.67.114.94|8187|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|11|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|13|46.161.195.182|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|5|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|6|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|7|190.94.213.48|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|8|103.102.12.89|8081|Indonesia|Rembangan|FISNET|
+|9|168.197.182.137|8080|Brazil|Elesbão Veloso|Vision Connect Telecomunicaçoes Ltda Me|
+|10|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
+|12|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |14|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|36.72.252.71|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|67.43.227.227|18917|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|67.43.236.20|3911|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|1613|Canada|Montreal|GloboTech Communications|
+|15|178.212.53.4|41258|Poland|Zielona Góra|Lubuskie Sieci Swiatlowodowe Sp. z o. o.|
+|16|178.212.48.80|8080|Poland|Zielona Góra|Lubuskie Sieci Swiatlowodowe Sp. z o. o.|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|149.56.95.145|9595|Canada|Montreal|OVH Hosting|
+|20|103.35.109.205|58080|Bangladesh|Dhaka|Ranks ITT|
 
 
 
