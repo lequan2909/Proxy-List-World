@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
 |3|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|7|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|8|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|10|121.184.173.215|8080|South Korea|Cheonan|Korea Telecom|
-|11|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
-|12|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
-|13|85.117.60.163|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|14|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
-|15|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
-|18|180.190.200.77|8082|Philippines|Lahug|Globe Telecom|
-|19|38.156.72.198|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|165.225.125.2|33333|India|New Delhi|ZSCALER, INC.|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|103.156.16.245|8080|Indonesia|Jakarta|RSTNET|
+|7|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
+|8|103.68.1.74|8080|Indonesia|Pekanbaru|PT.GLOBALRIAU DATA SOLUSI|
+|9|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
+|10|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
+|11|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
+|13|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|14|165.225.125.2|9480|India|New Delhi|ZSCALER, INC.|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|136.226.84.94|8800|United States|Chicago|ZSCALER, INC.|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|152.26.229.47|9443|United States|Concord|MCNC|
 
 
 
