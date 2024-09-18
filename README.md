@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|77.242.30.9|8088|Albania|Tirana|Abissnet ISP|
-|4|202.137.31.186|8080|Indonesia|Bekasi|LINKNET|
-|5|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|103.75.53.235|7788|Indonesia|Jakarta|PT Quantum Tera Network|
 |6|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|7|36.66.111.81|8080|Indonesia|Pondok Labu|PT. Telekomunikasi Indonesia|
-|8|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
-|9|38.183.144.82|8181|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|10|185.244.173.33|8118|Russia|Moscow|First Server Limited|
-|11|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
-|12|67.43.236.20|9651|Canada|Montreal|GloboTech Communications|
-|13|175.137.69.120|3128|Malaysia|Petaling Jaya|TM TECHNOLOGY SERVICES SDN BHD|
-|14|67.43.227.226|14953|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|11861|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|27775|Canada|Montreal|GloboTech Communications|
-|17|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|18|186.113.232.105|8080|Colombia|Pereira|Colombia Telecomunicaciones S.a. ESP|
-|19|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
-|20|157.245.150.22|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|63.151.59.218|8080|United States|Ocala|CenturyLink|
+|9|67.43.236.20|3575|Canada|Montreal|GloboTech Communications|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|67.43.227.226|14953|Canada|Montreal|GloboTech Communications|
+|12|146.196.41.141|8080|Indonesia|Karawang|UNINA|
+|13|67.43.227.227|2479|Canada|Montreal|GloboTech Communications|
+|14|157.245.150.22|8888|Singapore|Singapore|DigitalOcean, LLC|
+|15|72.10.164.178|4055|Canada|Montreal|GloboTech Communications|
+|16|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|17|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|18|152.26.229.86|9443|United States|Concord|MCNC|
+|19|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
