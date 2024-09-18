@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|77.242.30.9|8088|Albania|Tirana|Abissnet ISP|
-|5|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|7|180.190.200.77|8082|Philippines|Lahug|Globe Telecom|
-|8|58.147.186.226|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
-|9|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|10|152.26.231.83|9443|United States|Concord|MCNC|
-|11|152.26.229.34|9443|United States|Concord|MCNC|
-|12|212.252.71.9|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|13|118.70.49.64|8080|Vietnam|Hanoi|FPT Telecom Company|
-|14|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|15|152.26.231.42|9443|United States|Concord|MCNC|
-|16|91.214.31.136|8080|Ukraine|Zaporizhzhya|TOV "Telza"|
-|17|72.10.164.178|29979|Canada|Montreal|GloboTech Communications|
-|18|117.68.38.177|20259|China|Hefei|China Telecom|
+|2|103.78.215.253|8080|Indonesia|Jakarta|MORATELINDO|
+|3|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|122.53.243.220|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|6|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|103.186.89.26|1111|Indonesia|Batam|PT Trans Koneksi Nusantara|
+|9|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|36.67.114.94|8187|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|12|36.93.130.218|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|13|195.54.171.231|25299|Hong Kong|Hong Kong|M247 Europe SRL|
+|14|152.26.231.83|9443|United States|Concord|MCNC|
+|15|45.70.85.33|58080|Brazil|Araçatuba|B.B.S COMUNICAÇÕES LTDA ME|
+|16|152.26.229.34|9443|United States|Concord|MCNC|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
 |19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|103.253.72.77|8000|Thailand|Si Racha|Readyidc Company Limited|
+|20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
 
