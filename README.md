@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|4|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
-|5|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|6|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|27.123.1.46|3128|Indonesia|Bekasi|PT Tele Globe Global|
-|9|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|190.121.145.115|999|Colombia|Sogamoso|Media Commerce Partners S.A|
+|2|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|140.238.230.215|3128|India|Mumbai|Oracle Corporation|
+|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|6|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|8|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |11|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|12|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|13|160.202.42.156|8080|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
-|14|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|15|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|13|117.102.86.148|8080|Indonesia|Jakarta|BIZNET|
+|14|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|15|190.121.145.115|999|Colombia|Sogamoso|Media Commerce Partners S.A|
+|16|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
 |18|152.26.231.42|9443|United States|Concord|MCNC|
-|19|152.26.229.34|9443|United States|Concord|MCNC|
-|20|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|103.87.171.180|32650|India|Jaipur|Tejays|
 
 
 
