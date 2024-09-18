@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|203.150.128.164|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|103.148.131.108|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|6|61.198.94.80|8080|Japan|Kanazawa|NSK Co., Ltd.|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|152.26.231.93|9443|United States|Concord|MCNC|
-|9|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|10|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
-|11|72.10.160.170|3243|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|31039|Canada|Montreal|GloboTech Communications|
-|13|186.113.232.105|8080|Colombia|Pereira|Colombia Telecomunicaciones S.a. ESP|
-|14|72.10.160.171|4909|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.174|1999|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.254|26589|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|126.209.13.226|8082|Philippines|Manila|Infinivan Incorporated|
-|19|67.43.228.253|29639|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.173|9331|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|20.184.18.156|80|Singapore|Singapore|Microsoft Corporation|
+|4|203.150.128.164|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|6|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|38.156.72.203|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|9|180.190.200.77|8082|Philippines|Lahug|Globe Telecom|
+|10|103.102.15.41|18181|Indonesia|Rembangan|FISNET|
+|11|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|186.180.66.138|8080|Colombia|Cúcuta|Colombia Móvil|
+|15|103.70.147.233|8080|India|Vrindāvan|Elxire Data Services Pvt. Ltd.|
+|16|152.26.231.93|9443|United States|Concord|MCNC|
+|17|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
+|18|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|19|45.228.234.192|999|Guatemala|Guatemala City|Infinitum S.A.|
+|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 
 
 
