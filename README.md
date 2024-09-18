@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|36.88.129.142|7777|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
 |4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|103.167.170.98|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|6|217.251.109.178|8080|Germany|Traunstein|Deutsche Telekom AG|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
-|9|27.64.27.146|8080|Vietnam|Ho Chi Minh City|Viettel Group|
-|10|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|11|45.114.146.220|32650|India|Jaipur|Tejays Dynamic Limited|
-|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|152.26.229.83|9443|United States|Concord|MCNC|
-|14|67.43.227.230|2697|Canada|Montreal|GloboTech Communications|
+|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|103.147.247.122|8080|Indonesia|Tangerang|PLBNET|
+|9|50.204.36.138|60808|United States|Sacramento|Comcast Cable Communications, LLC|
+|10|103.177.9.19|8181|Indonesia|Blora|PT Helium Sinergi Telekomunikasi|
+|11|119.18.156.242|8080|Indonesia|Bogor|PT. Jala Lintas Media|
+|12|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|13|103.231.239.166|58080|Bangladesh|Dhaka|Carnival Internet|
+|14|152.26.229.83|9443|United States|Concord|MCNC|
 |15|152.26.231.42|9443|United States|Concord|MCNC|
-|16|152.26.231.86|9443|United States|Concord|MCNC|
-|17|152.26.231.94|9443|United States|Concord|MCNC|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|152.26.231.86|9443|United States|Concord|MCNC|
 |18|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|19|212.252.73.23|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|20|72.10.160.170|3755|Canada|Montreal|GloboTech Communications|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|90.161.186.147|3128|Spain|Pineda de Mar|Uni2|
 
 
 
