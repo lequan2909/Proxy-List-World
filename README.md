@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.104.185.85|5102|Vietnam|Hanoi|Viettel Corporation|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
-|5|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
-|6|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
-|7|223.205.207.184|8080|Thailand|Ko Pha Ngan|Triple T Broadband Public Company Limited|
-|8|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|12|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
-|13|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
-|16|152.26.229.83|9443|United States|Concord|MCNC|
-|17|58.147.186.226|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
-|18|101.128.92.243|7777|Indonesia|Jakarta|CBN|
-|19|46.161.194.88|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|20|152.26.231.93|9443|United States|Concord|MCNC|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|185.195.71.218|18080|Switzerland|Hünenberg|Datasource AG|
+|4|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|103.155.196.27|8080|Indonesia|Jakarta|JEMBATANDATA|
+|7|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
+|8|36.67.223.231|8090|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|9|45.228.234.192|999|Guatemala|Guatemala City|Infinitum S.A.|
+|10|36.93.32.137|8080|Indonesia|Tangerang|Telekomunikasi Indonesia|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|91.205.69.126|8080|Bosnia and Herzegovina|Gradačac|Telesat d.o.o.|
+|13|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|84.247.141.245|80|Germany|Düsseldorf|Contabo GmbH|
+|15|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
 
 
 
