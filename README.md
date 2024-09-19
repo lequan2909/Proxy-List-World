@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
-|4|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|5|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|6|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|7|103.127.220.106|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|8|152.26.229.93|9443|United States|Concord|MCNC|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|152.26.229.93|9443|United States|Concord|MCNC|
+|6|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|8|152.26.229.47|9443|United States|Concord|MCNC|
+|9|113.240.99.148|65007|China|Qingyuan|No.293, Wanbao Avenue|
 |10|152.26.231.42|9443|United States|Concord|MCNC|
-|11|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|13|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|14|152.26.229.47|9443|United States|Concord|MCNC|
-|15|152.26.229.42|9443|United States|Concord|MCNC|
-|16|116.254.98.99|3125|Indonesia|Jakarta|SpaceX Starlink|
-|17|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|18|36.64.27.57|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|11|152.26.229.42|9443|United States|Concord|MCNC|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|152.26.231.83|9443|United States|Concord|MCNC|
+|15|103.211.107.230|8080|Indonesia|Lampung|PT Atmega Telecomindo Nusantara|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|186.113.232.105|8080|Colombia|Pereira|Colombia Telecomunicaciones S.a. ESP|
 |19|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
-|20|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|20|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
 
 
 
