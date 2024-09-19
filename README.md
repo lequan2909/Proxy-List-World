@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|44.234.149.185|3128|United States|Portland|Amazon.com, Inc.|
-|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|6|103.66.196.166|8080|Indonesia|Bekasi|PT. Mora Telematika Indonesia|
-|7|14.245.102.33|8080|Vietnam|Qui Nhon|VNPT|
-|8|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|9|45.227.195.121|8082|Brazil|Maravilha|Mhnet Telecom|
-|10|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|61.19.109.236|8080|Thailand|Vadhana|CAT-ISP|
-|12|103.48.71.18|83|India|Hyderabad|Country Online Services PVT LTD|
-|13|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
-|14|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
-|15|168.205.63.188|9090|Brazil|Frutal|TCF Telecomunicações Campo Florido Ltda|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|103.156.16.227|8080|Indonesia|Jakarta|RSTNET|
-|18|176.99.2.43|1081|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|19|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|20|103.231.177.120|5020|Bangladesh|Gazipur|Sayed Farhad Ahmed|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|143.0.243.80|8080|Brazil|São Gonçalo|Nova Info Internet e Telecomunicações LTDA|
+|4|14.245.102.33|8080|Vietnam|Qui Nhon|VNPT|
+|5|103.171.156.134|8080|Indonesia|Jakarta|MYREPUBLIC|
+|6|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|8|168.205.63.188|9090|Brazil|Frutal|TCF Telecomunicações Campo Florido Ltda|
+|9|193.41.88.58|53281|Ukraine|Kyiv|Kyiv National Taras Shevchenko University|
+|10|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
+|13|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|14|152.26.231.83|9443|United States|Concord|MCNC|
+|15|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|16|181.143.36.20|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|17|152.26.229.47|9443|United States|Concord|MCNC|
+|18|113.240.99.148|65007|China|Qingyuan|No.293, Wanbao Avenue|
+|19|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
