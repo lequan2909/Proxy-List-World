@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|103.127.220.206|8080|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|157.20.100.10|1111|Indonesia|Jakarta|PT Muria Global Network|
+|5|177.93.51.212|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 |6|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|10|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|10|116.108.138.51|10010|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|11|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|12|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
 |13|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|14|121.184.173.215|8080|South Korea|Cheonan|Korea Telecom|
-|15|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|14|45.188.156.217|8088|Brazil|Teresina|Marcelo & Renato Digital Net LTDA|
+|15|121.184.173.215|8080|South Korea|Cheonan|Korea Telecom|
 |16|152.26.231.83|9443|United States|Concord|MCNC|
 |17|152.26.231.42|9443|United States|Concord|MCNC|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
+|18|178.212.48.80|8080|Poland|Zielona Góra|Lubuskie Sieci Swiatlowodowe Sp. z o. o.|
 |19|152.26.229.47|9443|United States|Concord|MCNC|
-|20|67.43.228.250|15117|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
