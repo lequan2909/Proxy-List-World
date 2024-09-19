@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|103.193.144.52|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|7|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|8|182.252.70.220|8082|Bangladesh|Kāfrul|Agni Systems Limited|
-|9|109.111.224.205|6666|Serbia|Belgrade|Drustvo za telekomunikacije Orion telekom doo Beograd, Gandijeva 76a|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|27.147.155.42|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|12|187.94.220.85|8080|Brazil|Guaçuí|Acesse Comunicação Ltda|
-|13|112.198.129.234|8085|Philippines|Nasugbu|Globe Telecom|
-|14|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|16|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|115.127.5.146|8674|Bangladesh|Dhaka|bracNet|
-|18|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
-|19|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
+|7|27.147.155.42|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|8|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|9|35.197.150.32|8888|Singapore|Singapore|Google LLC|
+|10|190.53.46.11|38525|Nicaragua|Ticuantepe|Amnet Telecomunicaciones S.A.|
+|11|191.103.219.225|48612|Colombia|Medellín|Edatel S.a. E.S.P|
+|12|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|13|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|14|203.190.46.127|8090|Indonesia|Sleman|PT Jaring Lintas Utara|
+|15|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|16|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|17|202.131.241.132|8080|Mongolia|Ulan Bator|MOBINET-LL|
+|18|181.78.95.217|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|103.179.84.117|8080|Indonesia|Boyolali|PT CYB Media Group|
 
 
 
