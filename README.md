@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|171.228.116.1|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|6|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
-|7|207.65.132.78|3128|Japan|Honchō|Sony Network Communications Inc|
-|8|101.255.210.50|8080|Indonesia|Jakarta|PT Remala Abadi|
-|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|10|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|11|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|12|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|7|27.147.175.115|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|8|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|47.88.17.170|8118|United States|Minkler|Alibaba.com LLC|
+|10|143.208.59.2|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
+|11|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|12|177.23.176.58|8080|Brazil|Rio de Janeiro|JM TELECOMUNICACOES E MANUTENCAO DE COMP. EIRELI|
 |13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|152.26.229.47|9443|United States|Concord|MCNC|
-|16|152.26.229.46|9443|United States|Concord|MCNC|
-|17|152.26.229.83|9443|United States|Concord|MCNC|
-|18|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|20|67.43.227.227|8003|Canada|Montreal|GloboTech Communications|
+|14|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
+|15|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
+|16|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|152.26.229.47|9443|United States|Concord|MCNC|
+|19|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|20|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
 
 
 
