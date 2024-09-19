@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|125.27.42.162|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|6|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |8|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|9|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|10|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|114.9.52.134|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|12|187.62.153.57|8088|Brazil|Oeiras|Megalink Internet|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|15|72.10.160.173|4889|Canada|Montreal|GloboTech Communications|
-|16|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|17|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|18|58.33.109.114|2021|China|Shanghai|China Telecom (Group)|
-|19|67.43.227.227|32389|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|9|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|152.26.229.46|9443|United States|Concord|MCNC|
+|12|152.26.231.94|9443|United States|Concord|MCNC|
+|13|152.26.231.42|9443|United States|Concord|MCNC|
+|14|103.102.15.41|18181|Indonesia|Rembangan|FISNET|
+|15|202.93.244.98|8080|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|72.10.164.178|21409|Canada|Montreal|GloboTech Communications|
+|18|190.94.213.83|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|19|218.155.31.188|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|67.43.236.20|22873|Canada|Montreal|GloboTech Communications|
 
 
 
