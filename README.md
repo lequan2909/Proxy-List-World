@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.191.155.30|1080|Indonesia|Majalengka|PT Ilham Wifi Solution|
-|3|27.124.83.229|8080|Indonesia|Kebon Gunung|PT.Global Media Data Prima|
-|4|61.12.35.12|8080|India|Chennai|Ttsl-isp Division|
-|5|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|6|5.8.64.55|3128|Russia|Moscow|IP SERVER LLC|
-|7|36.95.78.156|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|8|212.110.188.211|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|186.49.51.122|3128|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
-|14|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|15|116.80.46.244|3128|Japan|Tokyo|InfoSphere|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|116.80.47.9|3128|Japan|Tokyo|InfoSphere|
-|18|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
-|19|152.26.229.46|9443|United States|Concord|MCNC|
-|20|116.80.46.249|3128|Japan|Tokyo|InfoSphere|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
+|4|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|6|186.49.51.122|3128|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
+|7|131.100.48.73|999|Colombia|Neiva|Fibernet TV SAS|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|45.174.95.242|8080|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|10|202.47.188.94|5566|Indonesia|Magetan|PT.CITRA BERDIKARI NUSANTARA|
+|11|84.214.150.146|8080|Norway|Oslo|Get AS|
+|12|122.54.147.110|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|17|61.12.35.12|8080|India|Chennai|Ttsl-isp Division|
+|18|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|19|116.80.46.244|3128|Japan|Tokyo|InfoSphere|
+|20|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
 
 
 
