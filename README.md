@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|4|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|182.253.159.9|8080|Indonesia|Bandung|BIZNET|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|50.235.247.114|8085|United States|Wallingford|Comcast Cable Communications, LLC|
-|8|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|10|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|152.26.229.93|9443|United States|Concord|MCNC|
-|12|152.26.229.86|9443|United States|Concord|MCNC|
-|13|152.26.231.42|9443|United States|Concord|MCNC|
-|14|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|15|38.191.200.77|999|Colombia|Villavicencio|Cogent Communications|
-|16|152.26.229.46|9443|United States|Concord|MCNC|
-|17|124.105.48.232|8082|Philippines|Caloocan City|Philippine Long Distance Telephone Co.|
-|18|72.10.160.90|2869|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|7135|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|1873|Canada|Montreal|GloboTech Communications|
+|2|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
+|3|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
+|4|27.66.217.124|5101|Vietnam|Hà Tĩnh|Viettel Group|
+|5|46.166.165.33|4000|Lithuania|Šiauliai|Cherry Servers|
+|6|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|9|103.149.195.9|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
+|10|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|11|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|44.234.149.185|3128|United States|Portland|Amazon.com, Inc.|
+|13|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|103.87.169.206|56642|India|Jaipur|Tejays Industries Pvt Ltd|
+|15|152.26.229.93|9443|United States|Concord|MCNC|
+|16|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|17|152.26.229.86|9443|United States|Concord|MCNC|
+|18|38.191.200.77|999|Colombia|Villavicencio|Cogent Communications|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|190.121.239.195|999|Venezuela|Caracas|Corporacion Digitel C.A|
 
 
 
