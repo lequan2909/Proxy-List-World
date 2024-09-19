@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|3|210.5.184.90|8080|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|35.197.150.32|8888|Singapore|Singapore|Google LLC|
-|6|183.80.16.147|8080|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|7|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|8|44.234.149.185|3128|United States|Portland|Amazon.com, Inc.|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|7|121.172.52.28|3129|South Korea|Incheon|Korea Telecom|
+|8|189.112.56.125|3128|Brazil|Maceió|ALGAR TELECOM S/A|
 |9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|36.88.253.86|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|11|36.64.27.57|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|12|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|14|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|15|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|16|5.160.237.190|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|17|152.26.231.93|9443|United States|Concord|MCNC|
-|18|152.26.231.42|9443|United States|Concord|MCNC|
-|19|152.26.229.86|9443|United States|Concord|MCNC|
-|20|190.94.213.83|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|10|38.156.75.170|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|13|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|14|152.26.231.93|9443|United States|Concord|MCNC|
+|15|152.26.231.42|9443|United States|Concord|MCNC|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|38.52.221.66|8080|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|20|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
