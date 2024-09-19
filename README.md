@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|5|152.26.229.42|9443|United States|Concord|MCNC|
-|6|51.222.142.100|9595|Canada|Beauharnois|OVH SAS|
-|7|152.26.231.83|9443|United States|Concord|MCNC|
-|8|152.26.231.86|9443|United States|Concord|MCNC|
-|9|58.33.109.114|2021|China|Shanghai|China Telecom (Group)|
-|10|67.43.227.230|10973|Canada|Montreal|GloboTech Communications|
-|11|152.26.229.86|9443|United States|Concord|MCNC|
-|12|67.43.236.20|14167|Canada|Montreal|GloboTech Communications|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|152.26.229.47|9443|United States|Concord|MCNC|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|152.26.229.34|9443|United States|Concord|MCNC|
-|17|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|67.43.227.227|32295|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|32295|Canada|Montreal|GloboTech Communications|
-|20|36.64.184.2|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|41.205.24.90|8080|Cameroon|Douala|MTN Network Solutions (Cameroon)|
+|6|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|181.78.95.50|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|9|41.169.150.194|8080|South Africa|Johannesburg|Liquid Telecommunications South Africa (Pty) Ltd|
+|10|103.140.188.155|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|11|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|152.26.229.42|9443|United States|Concord|MCNC|
+|14|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|15|14.224.183.185|8080|Vietnam|Hanoi|VNPT|
+|16|222.127.246.81|8082|Philippines|Iloilo City|GLBB|
+|17|152.26.231.83|9443|United States|Concord|MCNC|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
