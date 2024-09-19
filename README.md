@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|61.19.109.236|8080|Thailand|Vadhana|CAT-ISP|
-|4|61.7.191.176|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
-|5|115.147.20.176|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|6|103.159.196.81|1111|Indonesia|Serang|PT Andalan Dinamika Informatika|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|9|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|10|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|11|103.102.15.41|18181|Indonesia|Rembangan|FISNET|
-|12|181.209.78.75|999|Argentina|General Mosconi|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
-|13|180.190.200.77|8082|Philippines|Lahug|Globe Telecom|
-|14|158.140.169.9|8081|Indonesia|Jakarta|MYREPUBLIC|
-|15|48.216.234.146|3128|United States|Boydton|Microsoft Corporation|
-|16|152.26.231.83|9443|United States|Concord|MCNC|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|58.33.109.114|2021|China|Shanghai|China Telecom (Group)|
-|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|61.7.191.176|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|103.141.247.6|8080|India|Palakkad|Vinayaga Communications Pvt Ltd|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|7|103.158.27.88|1212|Indonesia|Sleman|PT Madina Solusi Indonesia|
+|8|175.137.69.120|3128|Malaysia|Petaling Jaya|TM TECHNOLOGY SERVICES SDN BHD|
+|9|180.190.200.77|8082|Philippines|Lahug|Globe Telecom|
+|10|189.193.225.10|999|Mexico|Santo Domingo Tehuantepec|Mega Cable, S.A. de C.V.|
+|11|190.128.195.58|999|Paraguay|Luque|Telecel S.A.|
+|12|152.26.231.83|9443|United States|Concord|MCNC|
+|13|152.26.229.83|9443|United States|Concord|MCNC|
+|14|187.249.20.153|8081|Mexico|Ciudad Benito Juárez|Transtelco Inc|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|171.234.238.96|10004|Vietnam|Hanoi|Viettel Corporation|
+|18|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|19|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|20|223.205.185.248|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
 
 
 
