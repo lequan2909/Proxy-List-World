@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|212.111.84.89|3128|Russia|Moscow|LLC VK|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|103.156.15.64|1080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|6|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
-|8|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|9|180.191.51.166|8082|Philippines|Tarlac City|Globe Telecom|
-|10|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|11|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|152.26.231.42|9443|United States|Concord|MCNC|
-|13|67.43.228.251|32421|Canada|Montreal|GloboTech Communications|
-|14|152.26.231.94|9443|United States|Concord|MCNC|
-|15|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
-|16|152.26.231.83|9443|United States|Concord|MCNC|
-|17|152.26.229.83|9443|United States|Concord|MCNC|
-|18|38.191.200.77|999|Colombia|Villavicencio|Cogent Communications|
-|19|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
+|5|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|7|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|152.26.231.42|9443|United States|Concord|MCNC|
+|9|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|10|152.26.231.94|9443|United States|Concord|MCNC|
+|11|152.26.231.83|9443|United States|Concord|MCNC|
+|12|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
+|13|152.26.229.83|9443|United States|Concord|MCNC|
+|14|38.191.200.77|999|Colombia|Villavicencio|Cogent Communications|
+|15|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|116.80.46.249|3128|Japan|Tokyo|InfoSphere|
 
 
 
