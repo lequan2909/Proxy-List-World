@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|2|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|4|79.133.42.189|3128|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|5|112.198.129.234|8085|Philippines|Nasugbu|Globe Telecom|
-|6|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|7|152.26.229.83|9443|United States|Concord|MCNC|
-|8|152.26.231.93|9443|United States|Concord|MCNC|
-|9|152.26.231.86|9443|United States|Concord|MCNC|
-|10|118.117.189.228|8089|China|Muping|Chinanet|
-|11|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|12|152.26.229.42|9443|United States|Concord|MCNC|
-|13|103.2.229.207|3128|Vietnam|Quận Một|Long Van System Solution|
-|14|103.31.251.252|5040|Indonesia|Jakarta|ARGON|
-|15|79.110.52.89|8118|The Netherlands|The Hague|M247 Europe SRL|
-|16|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
-|17|152.26.229.34|9443|United States|Concord|MCNC|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|67.43.236.20|5213|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.83|9443|United States|Concord|MCNC|
+|1|222.119.186.187|3128|South Korea|Nam-gu|Korea Telecom|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|47.90.95.31|8118|Hong Kong|Hong Kong|Alibaba.com LLC|
+|4|78.158.171.135|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|6|103.168.254.138|8086|Indonesia|Jepara|PT Fahasa Tri Data|
+|7|103.53.79.115|8086|Indonesia|Jakarta|INTI|
+|8|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|45.231.220.93|999|Mexico|Tijuana|Distrokom S De RL De CV|
+|10|103.122.1.130|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
+|11|103.99.136.6|8090|Indonesia|Sirnagalih|PT Jelajah Kreasi Informatika|
+|12|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|13|159.203.104.153|4200|United States|Clifton|DigitalOcean, LLC|
+|14|148.230.180.141|8080|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|38.183.144.82|8181|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
+|17|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|18|46.161.196.144|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
 
 
 
