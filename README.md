@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|144.86.187.42|3129|United States|Malden|Charles River Operation|
-|6|124.106.116.34|1337|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|7|103.174.236.63|7777|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|8|103.154.91.182|8080|Indonesia|Jakarta|MORATELINDONAP|
-|9|103.154.230.130|8080|Indonesia|Lamongan|DIGITNET|
-|10|154.70.134.151|6969|South Africa|Vaalwater|HERO TELECOMS (PTY) LTD|
-|11|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|202.93.244.98|8080|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
-|14|116.80.44.141|3128|Japan|Tokyo|InfoSphere|
-|15|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|116.80.44.141|3128|Japan|Tokyo|InfoSphere|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|144.86.187.42|3129|United States|Malden|Charles River Operation|
+|5|144.86.187.52|3129|United States|Malden|Charles River Operation|
+|6|144.86.187.52|3129|United States|Malden|Charles River Operation|
+|7|144.86.187.42|3129|United States|Malden|Charles River Operation|
+|8|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|79.143.177.29|21972|Germany|Munich|Contabo GmbH|
+|10|27.124.93.197|8080|Indonesia|Pamulang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|116.80.44.141|3128|Japan|Tokyo|InfoSphere|
+|13|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|15|144.86.187.54|3129|United States|Malden|Charles River Operation|
+|16|222.127.246.81|8082|Philippines|Iloilo City|GLBB|
 |17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
-|19|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|103.26.108.254|84|India|Thoothukudi|Niss Networks|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|152.26.229.47|9443|United States|Concord|MCNC|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
