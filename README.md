@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|210.5.184.90|8080|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|5|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|210.5.184.90|8080|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|3|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
 |6|38.191.200.77|999|Colombia|Villavicencio|Cogent Communications|
-|7|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|8|8.213.22.253|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
+|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|8|117.0.180.158|5000|Vietnam|Tuyên Quang|Viettel Group|
 |9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|103.151.30.25|6969|Bangladesh|Tongi|Bright Star Network|
-|11|8.213.39.131|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
-|12|85.193.95.16|36745|Poland|Warsaw|TimeWeb Ltd.|
-|13|49.48.89.204|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|188.132.222.54|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|17|152.26.229.83|9443|United States|Concord|MCNC|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|38.191.200.77|999|Colombia|Villavicencio|Cogent Communications|
-|20|67.43.227.227|3995|Canada|Montreal|GloboTech Communications|
+|10|103.87.148.21|8080|Indonesia|Demak|Lintas Data Prima, PT|
+|11|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|12|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
+|13|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|14|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|15|152.26.229.83|9443|United States|Concord|MCNC|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|38.191.200.77|999|Colombia|Villavicencio|Cogent Communications|
+|18|152.26.229.47|9443|United States|Concord|MCNC|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|72.10.164.178|9837|Canada|Montreal|GloboTech Communications|
 
 
 
