@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|103.167.170.210|7777|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|6|45.174.79.95|999|Mexico|Delicias|Raul Duarte Urita|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|10|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|11|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|12|116.80.59.250|3128|Japan|Tokyo|InfoSphere|
-|13|152.26.231.86|9443|United States|Concord|MCNC|
-|14|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|152.26.231.83|9443|United States|Concord|MCNC|
-|16|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
-|17|152.26.231.94|9443|United States|Concord|MCNC|
-|18|67.43.227.227|16857|Canada|Montreal|GloboTech Communications|
-|19|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
-|20|101.255.169.250|8080|Indonesia|Bekasi|PT Remala Abadi|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|121.172.52.68|3128|South Korea|Incheon|Korea Telecom|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|103.48.68.218|84|India|Hyderabad|Country Online Services PVT LTD|
+|6|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|7|180.45.10.152|8080|Japan|Kyoto|NTT Communications Corporation|
+|8|116.80.59.250|3128|Japan|Tokyo|InfoSphere|
+|9|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|152.26.231.86|9443|United States|Concord|MCNC|
+|11|152.26.231.83|9443|United States|Concord|MCNC|
+|12|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
+|13|152.26.231.94|9443|United States|Concord|MCNC|
+|14|212.252.71.9|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|15|152.26.229.46|9443|United States|Concord|MCNC|
+|16|210.45.70.92|15893|China|Hefei|USTC1|
+|17|38.183.144.82|8181|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
