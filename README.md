@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5577** proxies at the latest update. Usable proxies are below.
+> Scraper found **5621** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|293|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|715|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|222|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|266|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3389|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|197.201.96.123|80|Algeria|Relizane|Algerie Telecom|
-|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|6|77.41.146.35|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|7|117.102.86.146|8080|Indonesia|Jakarta|BIZNET|
-|8|101.128.92.243|7777|Indonesia|Jakarta|CBN|
-|9|213.6.78.87|8080|Palestine|Nablus|Palestine Telecommunications Company|
-|10|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
-|11|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|15|116.111.117.246|10006|Vietnam|Hanoi|Viettel Corporation|
-|16|152.26.229.34|9443|United States|Concord|MCNC|
-|17|72.10.160.90|14077|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.47|9443|United States|Concord|MCNC|
-|19|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|20|152.26.229.42|9443|United States|Concord|MCNC|
+|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|77.41.146.35|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|5|103.110.34.133|8089|Indonesia|Purwodadi Grobogan|PT RECONET SEMESTA INDONESIA|
+|6|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|188.190.40.44|8080|Ukraine|Kyiv|Lanet Network Ltd|
+|9|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|10|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|11|206.81.31.215|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|31.146.5.178|8080|Georgia|Tbilisi|JSC "Silknet"|
+|13|117.0.180.158|5000|Vietnam|Tuyên Quang|Viettel Group|
+|14|152.26.229.34|9443|United States|Concord|MCNC|
+|15|152.26.229.47|9443|United States|Concord|MCNC|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|72.10.160.90|13617|Canada|Montreal|GloboTech Communications|
+|18|27.54.150.122|8080|Bangladesh|Sunāmganj|X-press Technologies Limited|
+|19|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|20|103.102.15.41|18181|Indonesia|Rembangan|FISNET|
 
 
 
