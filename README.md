@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|121.184.173.215|8080|South Korea|Cheonan|Korea Telecom|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
-|6|81.19.141.2|3128|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|7|124.6.168.26|80|Philippines|Lahug|INNOVE|
-|8|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
-|10|177.68.149.122|8080|Brazil|Barueri|Vivo|
-|11|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
-|12|51.158.173.222|3128|France|Paris|Online S.A.S.|
-|13|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|14|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|159.203.104.153|4200|United States|Clifton|DigitalOcean, LLC|
-|16|84.54.4.55|8118|Russia|Moscow|Nikitin Maxim Sergeevich|
-|17|195.54.171.228|25299|Hong Kong|Hong Kong|M247 Europe SRL|
-|18|36.82.199.244|3128|Indonesia|Balikpapan|PT. TELKOM INDONESIA|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|103.153.62.242|8181|Indonesia|Jakarta|IMEDIANET|
+|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|81.19.141.2|3128|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|4|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
+|5|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|115.72.46.96|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|7|177.68.149.122|8080|Brazil|Barueri|Vivo|
+|8|121.184.173.215|8080|South Korea|Cheonan|Korea Telecom|
+|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|159.203.104.153|4200|United States|Clifton|DigitalOcean, LLC|
+|11|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|103.166.159.163|8080|Indonesia|Bekasi|PT Timor Lintas Nusantara|
+|13|210.87.125.58|1080|Indonesia|Kediri|CV Brawijaya Giga Network|
+|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|15|36.67.223.7|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|18|103.48.70.145|83|India|Hyderabad|Country Online Services PVT LTD|
+|19|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
