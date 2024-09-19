@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|79.175.176.254|3128|Iran|Abadan|AFranet Co|
-|3|182.52.155.161|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|103.172.42.177|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|6|103.148.29.229|80|Indonesia|Sigi|DEWATA|
-|7|178.73.192.2|8118|Sweden|Stockholm|Portlane Network|
+|2|79.110.52.89|8118|The Netherlands|The Hague|M247 Europe SRL|
+|3|103.148.29.229|80|Indonesia|Sigi|DEWATA|
+|4|182.52.155.161|8080|Thailand|Bangkok|TOT Public Company Limited|
+|5|103.171.244.40|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|6|202.93.244.242|8080|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
+|7|182.253.159.9|8080|Indonesia|Bandung|BIZNET|
 |8|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|186.125.218.148|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|9|79.175.176.254|3128|Iran|Abadan|AFranet Co|
 |10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|36.67.7.74|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
-|12|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|13|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|12|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|94.68.245.147|8080|Greece|Marousi|OTEnet|
 |14|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|58.147.186.226|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|152.26.229.46|9443|United States|Concord|MCNC|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|152.26.229.46|9443|United States|Concord|MCNC|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|38.191.200.77|999|Colombia|Villavicencio|Cogent Communications|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
 |20|152.26.231.93|9443|United States|Concord|MCNC|
 
 
