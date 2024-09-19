@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
 |3|121.184.173.215|8080|South Korea|Cheonan|Korea Telecom|
 |4|110.78.186.182|8080|Thailand|Chon Buri|CAT-BB|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|103.153.62.242|8181|Indonesia|Jakarta|IMEDIANET|
-|8|91.185.58.130|8080|Russia|Ryazan|Delovaya Set' - Irkutsk|
-|9|79.133.42.189|3128|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|10|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|11|103.247.23.192|8080|Indonesia|Bekasi|PT wifian Solution|
-|12|115.72.46.96|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|13|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|14|36.67.223.7|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|15|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
-|16|103.66.196.166|8080|Indonesia|Bekasi|PT. Mora Telematika Indonesia|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|103.189.249.204|8092|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
+|5|5.9.112.247|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|7|91.185.58.130|8080|Russia|Ryazan|Delovaya Set' - Irkutsk|
+|8|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|9|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|10|201.20.115.22|8080|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
+|13|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|16|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
+|17|186.215.68.51|3127|Brazil|Brasília|Vivo|
+|18|181.39.24.157|999|Ecuador|Guayaquil|Telconet S.A|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|152.26.229.34|9443|United States|Concord|MCNC|
 
 
 
