@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|2|78.158.171.135|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|3|79.133.42.189|3128|Germany|Frankfurt am Main|Fornex Hosting S.L.|
-|4|101.255.166.241|8080|Indonesia|Bekasi|PT Remala Abadi|
-|5|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|45.174.79.95|999|Mexico|Delicias|Raul Duarte Urita|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|9|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|10|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|11|152.26.231.94|9443|United States|Concord|MCNC|
-|12|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|13|38.191.200.77|999|Colombia|Villavicencio|Cogent Communications|
-|14|3.67.179.153|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|15|202.179.90.217|58080|India|Mumbai|Ankhnet|
-|16|103.48.68.218|84|India|Hyderabad|Country Online Services PVT LTD|
-|17|152.26.231.83|9443|United States|Concord|MCNC|
-|18|152.26.229.47|9443|United States|Concord|MCNC|
-|19|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|20|44.243.136.16|3128|United States|Portland|Amazon.com, Inc.|
+|1|121.184.173.215|8080|South Korea|Cheonan|Korea Telecom|
+|2|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|5|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|195.54.171.228|25299|Hong Kong|Hong Kong|M247 Europe SRL|
+|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|8|103.168.254.138|8086|Indonesia|Jepara|PT Fahasa Tri Data|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|202.179.90.217|58080|India|Mumbai|Ankhnet|
+|12|101.255.169.250|8080|Indonesia|Bekasi|PT Remala Abadi|
+|13|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|14|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|15|152.26.231.94|9443|United States|Concord|MCNC|
+|16|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|19|38.191.200.77|999|Colombia|Villavicencio|Cogent Communications|
+|20|3.67.179.153|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
 
 
 
