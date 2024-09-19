@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|103.76.149.198|8082|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|5|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|6|116.111.113.244|10004|Vietnam|Hanoi|Viettel Corporation|
-|7|31.207.33.227|3128|France|Paris|Groupe LWS SARL|
-|8|38.156.73.202|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|9|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|10|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|103.26.108.254|84|India|Thoothukudi|Niss Networks|
-|12|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|15|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|152.26.229.46|9443|United States|Concord|MCNC|
-|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|1|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|4|171.228.116.1|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
+|5|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|6|223.25.110.206|1080|Indonesia|Surabaya|SinergiNet|
+|7|1.0.138.79|8080|Thailand|Bangkok|TOT Public Company Limited|
+|8|115.72.46.96|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|47.88.13.127|3128|United States|Minkler|Alibaba.com LLC|
+|11|177.136.84.232|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
+|12|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|13|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|14|212.252.71.9|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|15|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|17|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|18|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
