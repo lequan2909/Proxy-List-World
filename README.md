@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|4|103.166.158.53|3127|Indonesia|Bekasi|PT Timor Lintas Nusantara|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
-|8|103.41.32.185|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|9|93.123.98.106|33333|Bulgaria|Saint Vlas|SKAT TV Ltd.|
-|10|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|11|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|12|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
-|13|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|138.94.76.86|8080|Brazil|Santa Rosa|BrPhonia Provedor Ip Ltda|
-|15|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|16|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|18|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|2|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
+|3|103.155.197.209|8090|Indonesia|Sukabumi|JEMBATANDATA|
+|4|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|5|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|6|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|8|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|9|103.154.230.124|8080|Indonesia|Lamongan|DIGITNET|
+|10|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|11|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|152.26.231.42|9443|United States|Concord|MCNC|
+|13|152.26.229.34|9443|United States|Concord|MCNC|
+|14|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|15|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|152.26.229.47|9443|United States|Concord|MCNC|
+|18|198.244.231.83|8888|United Kingdom|London|OVH SAS|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
