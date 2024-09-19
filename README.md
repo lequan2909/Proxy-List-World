@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|182.253.102.67|3128|Indonesia|Cikampek|BIZNET|
-|6|223.25.110.206|1080|Indonesia|Surabaya|SinergiNet|
-|7|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|192.140.93.6|3128|Ecuador|Esmeraldas|Kolvech S.A.|
-|10|27.147.129.26|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|11|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
-|12|172.233.156.53|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|13|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
-|14|103.250.130.149|8181|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|15|103.26.108.254|84|India|Thoothukudi|Niss Networks|
-|16|172.233.156.53|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|17|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|19|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|20|72.10.160.94|25875|Canada|Montreal|GloboTech Communications|
+|4|14.226.7.148|8080|Vietnam|Hanoi|VNPT|
+|5|124.107.144.249|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|6|103.189.123.110|8080|Indonesia|Jakarta|PT Ikhlas Cipta Teknologi|
+|7|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|8|103.166.158.205|8080|Indonesia|Bekasi|PT Timor Lintas Nusantara|
+|9|122.54.165.123|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|10|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
+|11|146.196.41.141|8080|Indonesia|Karawang|UNINA|
+|12|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|14|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|27.147.155.42|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|16|103.231.239.137|58080|Bangladesh|Dhaka|Carnival Internet|
+|17|103.162.141.146|3128|Indonesia|Batam|PT Filltech Antar Nusa|
+|18|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|19|188.132.222.15|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|103.41.250.97|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
 
 
 
