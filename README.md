@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|5|147.45.48.223|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
-|6|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
-|7|180.191.23.115|8082|Philippines|Cabanatuan City|Globe Telecom|
-|8|101.255.166.241|8080|Indonesia|Bekasi|PT Remala Abadi|
-|9|157.10.97.103|8080|Indonesia|Bengkulu|PT Lintas Jaringan Nusantara|
-|10|83.171.122.21|8080|Russia|Petrozavodsk|Rostelecom networks|
-|11|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|12|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
-|13|152.26.231.42|9443|United States|Concord|MCNC|
-|14|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|15|152.26.229.46|9443|United States|Concord|MCNC|
-|16|152.26.229.34|9443|United States|Concord|MCNC|
-|17|67.43.227.230|10795|Canada|Montreal|GloboTech Communications|
-|18|103.102.15.41|18181|Indonesia|Rembangan|FISNET|
-|19|67.43.228.253|22007|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.171|7285|Canada|Montreal|GloboTech Communications|
+|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|71.191.130.54|8118|United States|Gainesville|Verizon Communications|
+|4|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|6|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|7|71.191.130.54|8118|United States|Gainesville|Verizon Communications|
+|8|103.254.85.66|8080|Bangladesh|Dhaka|HRC Technologies Ltd|
+|9|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
+|10|103.247.22.151|7777|Indonesia|Bekasi|PT wifian Solution|
+|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|176.124.199.31|3128|The Netherlands|Amsterdam|Aeza International LTD|
+|14|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
+|17|101.255.169.250|8080|Indonesia|Bekasi|PT Remala Abadi|
+|18|101.128.92.243|7777|Indonesia|Jakarta|CBN|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
 
 
 
