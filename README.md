@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.178.42.100|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
-|3|103.106.219.132|1111|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
-|4|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|8|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|9|36.95.78.156|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|10|222.109.232.217|8080|South Korea|Jungnang-gu|Korea Telecom|
-|11|141.145.204.7|3128|France|Paris|Oracle Corporation|
-|12|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|2|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|6|131.100.48.73|999|Colombia|Neiva|Fibernet TV SAS|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|222.109.232.217|8080|South Korea|Jungnang-gu|Korea Telecom|
+|10|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|11|202.93.244.98|8080|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
+|12|177.234.236.134|8080|Ecuador|Machala|Ufinet Panama S.A.|
 |13|152.26.229.34|9443|United States|Concord|MCNC|
 |14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.164.178|20999|Canada|Montreal|GloboTech Communications|
-|17|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|20.33.5.27|8888|Brazil|São Paulo|Microsoft Corporation|
+|16|181.78.95.50|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |18|152.26.231.93|9443|United States|Concord|MCNC|
-|19|152.26.229.47|9443|United States|Concord|MCNC|
-|20|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.229.47|9443|United States|Concord|MCNC|
 
 
 
