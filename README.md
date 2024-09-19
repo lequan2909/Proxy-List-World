@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|121.184.173.215|8080|South Korea|Cheonan|Korea Telecom|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|6|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|84.54.4.55|8118|Russia|Moscow|Nikitin Maxim Sergeevich|
-|8|38.180.108.184|8888|Hungary|Budapest|M247 Europe SRL|
-|9|81.19.141.2|3128|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|12|195.54.171.228|25299|Hong Kong|Hong Kong|M247 Europe SRL|
-|13|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
-|14|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|15|45.227.195.121|8082|Brazil|Maravilha|Mhnet Telecom|
-|16|209.146.20.228|8082|Philippines|Manila|Cogent Communications|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|67.43.227.228|23559|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|51.158.173.222|3128|France|Paris|Online S.A.S.|
+|5|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|36.82.199.244|3128|Indonesia|Balikpapan|PT. TELKOM INDONESIA|
+|7|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|8|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|9|201.151.252.120|80|Mexico|Santa Rosa|Alestra, S. de R.L. de C.V.|
+|10|45.162.78.222|8080|Colombia|Armenia|InterNexa Global Network|
+|11|203.190.44.251|8080|Indonesia|Jogonalan|PT Jaring Lintas Utara|
+|12|103.125.16.50|8080|Indonesia|Tangerang|JAVAMEDIA|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|27.147.155.42|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|15|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|16|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|17|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|18|171.234.237.179|10005|Vietnam|Hanoi|Viettel Corporation|
+|19|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
+|20|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
