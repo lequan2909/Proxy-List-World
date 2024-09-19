@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4880** proxies at the latest update. Usable proxies are below.
+> Scraper found **5038** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|260|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|589|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|747|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|260|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2813|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|116.80.46.249|3128|Japan|Tokyo|InfoSphere|
-|5|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|6|38.191.200.77|999|Colombia|Villavicencio|Cogent Communications|
-|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|8|171.235.149.110|1015|Vietnam|Thu Dau Mot|Viettel Corporation|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|38.156.73.56|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|8.213.39.131|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
-|12|35.87.161.97|3128|United States|Portland|Amazon.com, Inc.|
-|13|46.21.253.87|8080|Russia|Moscow|Start LLC|
-|14|179.125.51.54|27234|Brazil|Duque de Caxias|Via Link Telecomunicacoes|
-|15|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|16|103.247.23.57|8081|Indonesia|Banyumas|PT wifian Solution|
-|17|67.43.228.252|13165|Canada|Montreal|GloboTech Communications|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|35.87.161.97|3128|United States|Portland|Amazon.com, Inc.|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|4|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|9|38.191.200.77|999|Colombia|Villavicencio|Cogent Communications|
+|10|201.65.173.180|8080|Brazil|Brasília|Claro S.A.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|41.216.186.146|8080|Indonesia|Purbalingga|FASTHOSTING|
+|13|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|203.177.140.18|8082|Philippines|Iloilo City|AYALASYS|
+|15|38.156.73.56|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
+|17|101.51.139.219|8180|Thailand|Chiang Mai|TOT Public Company Limited|
+|18|36.94.47.59|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|19|102.67.101.250|8080|Burkina Faso|Ouagadougou|Virtual Technologies and Solutions|
+|20|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 
 
 
