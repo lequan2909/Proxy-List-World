@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|270|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|716|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|267|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|719|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|260|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2813|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|210.5.184.90|8080|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|3|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|35.87.161.97|3128|United States|Portland|Amazon.com, Inc.|
-|5|116.80.46.249|3128|Japan|Tokyo|InfoSphere|
-|6|171.234.238.96|10006|Vietnam|Hanoi|Viettel Corporation|
-|7|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|35.87.161.97|3128|United States|Portland|Amazon.com, Inc.|
-|11|175.139.251.236|8081|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|12|8.213.22.253|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
-|13|103.180.123.93|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|14|116.74.80.134|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|15|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
-|16|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|45.126.41.7|8080|Indonesia|Jumpangdua|NIRWANA|
-|19|121.101.131.142|8181|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|20|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|1|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|116.80.46.249|3128|Japan|Tokyo|InfoSphere|
+|3|171.235.149.110|1015|Vietnam|Thu Dau Mot|Viettel Corporation|
+|4|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|6|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|103.24.215.150|8181|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
+|8|168.196.246.110|8080|Argentina|Moreno|Linkear SRL|
+|9|46.21.253.87|8080|Russia|Moscow|Start LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|103.144.146.49|8080|Indonesia|Tulungagung|Lexxa Data|
+|12|27.54.150.122|8080|Bangladesh|Sunāmganj|X-press Technologies Limited|
+|13|202.47.88.38|3127|Indonesia|Jombang|PT. Java Digital Nusantara|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|103.41.33.169|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|16|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|17|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
