@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.191.155.30|1080|Indonesia|Majalengka|PT Ilham Wifi Solution|
-|3|157.100.56.47|999|Ecuador|Cariamanga|Ufinet Panama S.A.|
-|4|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|186.49.51.122|3128|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
-|8|170.245.132.15|999|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
-|9|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|10|154.12.242.82|8889|United States|Seattle|Nubes, LLC|
-|11|185.244.173.33|8118|Russia|Moscow|First Server Limited|
-|12|180.211.186.158|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|13|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|14|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
-|15|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|152.26.229.46|9443|United States|Concord|MCNC|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|20|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|186.49.51.122|3128|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
+|6|138.121.161.86|8190|Argentina|Rosario|WICORP SA|
+|7|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|8|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|152.26.229.46|9443|United States|Concord|MCNC|
+|10|116.80.44.141|3128|Japan|Tokyo|InfoSphere|
+|11|152.26.229.86|9443|United States|Concord|MCNC|
+|12|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|13|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|222.127.246.81|8082|Philippines|Iloilo City|GLBB|
+|15|114.9.52.134|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|16|152.26.229.47|9443|United States|Concord|MCNC|
+|17|45.70.238.22|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|18|147.45.74.178|3128|Sweden|Stockholm|Aeza International LTD|
+|19|116.111.117.246|10001|Vietnam|Hanoi|Viettel Corporation|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
