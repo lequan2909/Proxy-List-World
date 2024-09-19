@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|408|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|408|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|408|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|7|36.64.102.34|8080|Indonesia|Tangerang|PT. Telekomunikasi Indonesia|
-|8|183.102.65.250|8080|South Korea|Gangseo-gu|Korea Telecom|
-|9|103.105.55.170|8085|Indonesia|Klaten|PT. Mega Artha Lintas Data|
-|10|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|11|66.211.155.34|8080|United States|Mont Vernon|FirstLight Fiber|
-|12|38.156.235.113|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
-|13|38.156.75.18|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|14|144.86.187.54|3129|United States|Malden|Charles River Operation|
-|15|103.156.16.227|8080|Indonesia|Jakarta|RSTNET|
-|16|95.78.161.82|8080|Russia|Chelyabinsk|CJSC "ER-Telecom Holding" Chelyabinsk branch|
-|17|138.117.231.131|999|Guatemala|Huehuetenango|Fibernet S.A|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|20|192.145.228.226|8082|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|8|103.93.93.220|3127|Indonesia|Jombang|MYRISE|
+|9|204.199.174.74|999|Peru|Arequipa|Fiberred Sociedad Anonima Cerrada|
+|10|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|11|45.188.156.121|8088|Brazil|Teresina|Marcelo & Renato Digital Net LTDA|
+|12|103.26.110.41|84|India|Chennai|Niss Networks|
+|13|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|14|103.69.20.100|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|15|206.201.3.83|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|16|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
+|17|144.86.187.54|3129|United States|Malden|Charles River Operation|
+|18|190.94.212.216|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|58.147.186.226|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
 
 
 
