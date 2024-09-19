@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
-|6|116.111.113.244|10004|Vietnam|Hanoi|Viettel Corporation|
-|7|103.35.109.205|58080|Bangladesh|Dhaka|Ranks ITT|
-|8|154.12.242.82|8889|United States|Seattle|Nubes, LLC|
-|9|175.137.69.120|3128|Malaysia|Petaling Jaya|TM TECHNOLOGY SERVICES SDN BHD|
-|10|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|4|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
+|5|38.45.46.2|6332|Dominican Republic|Santo Domingo|FENIX NETWORKS, S.R.L.|
+|6|103.22.99.93|7777|Indonesia|Magetan|KHALISTAGROUP|
+|7|116.111.113.244|10004|Vietnam|Hanoi|Viettel Corporation|
+|8|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|10|45.70.85.33|58080|Brazil|Araçatuba|B.B.S COMUNICAÇÕES LTDA ME|
 |11|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|212.252.71.9|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|13|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|14|35.197.150.32|8888|Singapore|Singapore|Google LLC|
-|15|1.230.21.150|8443|South Korea|Guro-gu|SK Broadband Co Ltd|
-|16|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|17|72.10.160.170|25237|Canada|Montreal|GloboTech Communications|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|45.174.79.95|999|Mexico|Delicias|Raul Duarte Urita|
-|20|72.10.160.171|21917|Canada|Montreal|GloboTech Communications|
+|12|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|13|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|14|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|15|67.43.236.20|4823|Canada|Montreal|GloboTech Communications|
+|16|152.26.229.34|9443|United States|Concord|MCNC|
+|17|67.43.227.228|7695|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
+|20|72.10.160.90|3869|Canada|Montreal|GloboTech Communications|
 
 
 
