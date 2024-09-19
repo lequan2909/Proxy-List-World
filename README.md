@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|193.70.58.26|8080|France|Strasbourg|OVH SAS|
-|8|157.66.85.32|8080|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|2|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
+|6|103.76.151.74|8089|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|7|177.221.44.113|49999|Brazil|Jaboatão dos Guararapes|1telecom Servicos De Tecnologia EM Internet Ltda|
+|8|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
 |9|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|12|58.33.109.114|2021|China|Shanghai|China Telecom (Group)|
-|13|36.94.27.65|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|14|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|15|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|19|152.26.229.86|9443|United States|Concord|MCNC|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|11|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|12|5.160.237.190|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|13|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|14|27.54.150.122|8080|Bangladesh|Sunāmganj|X-press Technologies Limited|
+|15|36.64.184.2|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|125.209.110.83|39617|Pakistan|Karachi|Multinet 125-110/24|
+|18|103.208.102.6|8080|Indonesia|Wonosobo|PT Tidar Lintas Nusa|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|49.51.244.112|8888|United States|San Jose|OPHL|
 
 
 
