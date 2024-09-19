@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5190** proxies at the latest update. Usable proxies are below.
+> Scraper found **5191** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|266|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|267|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|888|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|292|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|3|183.102.65.250|8080|South Korea|Gangseo-gu|Korea Telecom|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|6|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|7|192.18.135.185|3128|United States|San Jose|Oracle Corporation|
-|8|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|9|103.106.219.114|1080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
-|10|213.19.123.178|229|Czechia|Dolní Újezd|FORTECH|
-|11|103.153.62.155|8080|Indonesia|Jakarta|IMEDIANET|
-|12|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|188.132.222.247|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
-|17|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|103.102.15.41|18181|Indonesia|Rembangan|FISNET|
+|1|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|2|35.87.161.97|3128|United States|Portland|Amazon.com, Inc.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|5|45.81.115.86|3128|Türkiye|Bursa|Pembe Gul Isguzar Karagoz|
+|6|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|7|103.22.99.93|7777|Indonesia|Magetan|KHALISTAGROUP|
+|8|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|9|203.192.217.6|8080|India|Delhi|Entire In2Cable|
+|10|168.0.239.224|8787|Brazil|São Sebastião do Passé|VOANET Telecomunicações Ltda.|
+|11|112.198.129.234|8085|Philippines|Nasugbu|Globe Telecom|
+|12|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
+|13|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|35.193.152.40|3128|United States|Council Bluffs|Google LLC|
+|16|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|181.204.27.74|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
+|18|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|19|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
