@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|36.67.79.170|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|4|103.156.15.64|1080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|5|109.195.113.65|8080|Russia|Yaroslavl|CJSC "ER-Telecom Holding" Yaroslavl' branch|
-|6|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|152.26.229.83|9443|United States|Concord|MCNC|
+|6|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|7|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
 |8|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|152.26.229.83|9443|United States|Concord|MCNC|
-|10|186.125.218.153|999|Argentina|El Carmen|Telecom Argentina S.A.|
-|11|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|12|181.204.27.74|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
-|13|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
-|14|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|15|72.10.160.171|20749|Canada|Montreal|GloboTech Communications|
-|16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|103.179.218.5|1080|Indonesia|Pandeglang|PT Wistel Teknologi Solusi|
-|19|72.10.164.178|22517|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|13113|Canada|Montreal|GloboTech Communications|
+|9|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|152.26.231.93|9443|United States|Concord|MCNC|
+|11|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|12|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|13|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|14|72.10.160.171|15625|Canada|Montreal|GloboTech Communications|
+|15|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|16|41.254.56.6|1981|Libya|Tripoli|LTT Network Backbone and POPs|
+|17|152.26.229.46|9443|United States|Concord|MCNC|
+|18|14.103.168.150|8088|China|Beijing|BITNET|
+|19|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|20|116.80.46.244|3128|Japan|Tokyo|InfoSphere|
 
 
 
