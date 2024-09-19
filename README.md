@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5727** proxies at the latest update. Usable proxies are below.
+> Scraper found **5692** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,36 +29,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|293|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|821|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|737|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|266|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3389|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3438|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|103.110.34.133|8089|Indonesia|Purwodadi Grobogan|PT RECONET SEMESTA INDONESIA|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|197.201.96.123|80|Algeria|Relizane|Algerie Telecom|
-|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|8|77.41.146.35|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|9|175.137.69.120|3128|Malaysia|Petaling Jaya|TM TECHNOLOGY SERVICES SDN BHD|
-|10|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|12|49.51.244.112|8888|United States|San Jose|OPHL|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
-|15|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|16|180.191.51.166|8082|Philippines|Tarlac City|Globe Telecom|
-|17|177.221.44.113|49999|Brazil|Jaboatão dos Guararapes|1telecom Servicos De Tecnologia EM Internet Ltda|
-|18|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|45.71.186.183|999|Ecuador|Quevedo|Ufinet Panama S.A.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|197.201.96.123|80|Algeria|Relizane|Algerie Telecom|
+|8|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|9|102.214.106.114|8080|Libya|Tripoli|Rawafed|
+|10|101.255.166.241|8080|Indonesia|Bekasi|PT Remala Abadi|
+|11|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|15|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
+|16|103.247.23.192|8080|Indonesia|Bekasi|PT wifian Solution|
+|17|36.64.27.57|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|44.243.136.16|3128|United States|Portland|Amazon.com, Inc.|
+|20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
 
