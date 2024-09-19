@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.156.15.64|1080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|38.156.75.170|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|7|212.111.84.89|3128|Russia|Moscow|LLC VK|
-|8|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|11|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|12|152.26.229.46|9443|United States|Concord|MCNC|
-|13|152.26.231.42|9443|United States|Concord|MCNC|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|190.94.213.83|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
+|4|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|36.64.27.57|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|6|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|7|222.127.246.81|8082|Philippines|Iloilo City|GLBB|
+|8|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|9|152.26.231.42|9443|United States|Concord|MCNC|
+|10|152.26.229.46|9443|United States|Concord|MCNC|
+|11|152.26.229.42|9443|United States|Concord|MCNC|
+|12|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|13|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|14|152.26.229.83|9443|United States|Concord|MCNC|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
 |16|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|18|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|19|152.26.229.83|9443|United States|Concord|MCNC|
-|20|67.43.228.253|16157|Canada|Montreal|GloboTech Communications|
+|17|152.26.231.83|9443|United States|Concord|MCNC|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|14.226.7.148|8080|Vietnam|Hanoi|VNPT|
+|20|67.43.228.253|3355|Canada|Montreal|GloboTech Communications|
 
 
 
