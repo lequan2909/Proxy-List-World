@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.88.192.56|8080|United States|Los Angeles|DM-HK|
-|3|45.88.192.56|8080|United States|Los Angeles|DM-HK|
-|4|194.164.206.37|3128|United Kingdom|Farnham|NETKONECT|
-|5|162.55.232.219|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
-|7|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|8|94.247.42.160|8118|Switzerland|Zug|Datasource AG|
-|9|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|10|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
-|11|121.101.131.67|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|103.83.178.222|8080|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
-|14|114.130.154.130|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|15|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|183.102.65.250|8080|South Korea|Gangseo-gu|Korea Telecom|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|9|94.247.42.160|8118|Switzerland|Zug|Datasource AG|
+|10|203.128.80.178|8099|Indonesia|Jakarta|Neuviz|
+|11|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|12|94.228.240.240|8080|Russia|Moscow|TZ-Telecom Address|
+|13|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
+|14|177.93.36.151|999|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
+|15|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
 |16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|19|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|20|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|103.247.216.70|8080|Indonesia|Penggilingan|PT. Parsaoran Global Datatrans|
+|18|186.96.15.70|8080|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|19|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
