@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|36.92.44.82|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|2|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|3|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|1|152.70.177.163|8118|Germany|Frankfurt am Main|Oracle Corporation|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|152.26.229.47|9443|United States|Concord|MCNC|
+|5|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
 |6|152.26.231.86|9443|United States|Concord|MCNC|
-|7|154.94.7.89|9999|Germany|Frankfurt am Main|Yisu Cloud|
-|8|72.10.160.170|26291|Canada|Montreal|GloboTech Communications|
-|9|152.26.231.83|9443|United States|Concord|MCNC|
-|10|67.43.228.250|2413|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|8001|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|24411|Canada|Montreal|GloboTech Communications|
-|13|116.111.117.246|10001|Vietnam|Hanoi|Viettel Corporation|
-|14|67.43.236.19|1233|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|8001|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|2413|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|17131|Canada|Montreal|GloboTech Communications|
-|18|38.191.200.77|999|Colombia|Villavicencio|Cogent Communications|
-|19|67.43.227.227|8001|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|26125|Canada|Montreal|GloboTech Communications|
+|7|152.26.229.47|9443|United States|Concord|MCNC|
+|8|152.26.231.83|9443|United States|Concord|MCNC|
+|9|67.43.228.253|20415|Canada|Montreal|GloboTech Communications|
+|10|38.191.200.77|999|Colombia|Villavicencio|Cogent Communications|
+|11|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|12|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
+|13|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|15|103.174.236.63|7777|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|16|116.80.46.244|3128|Japan|Tokyo|InfoSphere|
+|17|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|202.93.244.98|8080|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
+|19|41.189.171.186|8080|Ghana|Accra|Scancom Ltd.|
+|20|152.26.231.93|9443|United States|Concord|MCNC|
 
 
 
