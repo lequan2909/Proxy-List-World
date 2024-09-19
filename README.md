@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|79.175.176.254|3128|Iran|Abadan|AFranet Co|
-|3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|4|45.235.16.121|27234|Brazil|Chapecó|Acessoline Telecom|
-|5|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|182.253.159.9|8080|Indonesia|Bandung|BIZNET|
-|7|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|152.26.231.93|9443|United States|Concord|MCNC|
-|10|152.26.231.83|9443|United States|Concord|MCNC|
-|11|111.125.242.34|80|India|Mumbai|Five Network Solution India Limited|
-|12|152.26.229.86|9443|United States|Concord|MCNC|
-|13|67.43.228.253|10765|Canada|Montreal|GloboTech Communications|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|5|79.175.176.254|3128|Iran|Abadan|AFranet Co|
+|6|103.13.204.24|8082|Indonesia|Kaborongan|PT JARINGANKU SARANA NUSANTARA|
+|7|186.125.218.148|999|Argentina|El Carmen|Telecom Argentina S.A.|
+|8|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
+|11|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|12|152.26.231.93|9443|United States|Concord|MCNC|
+|13|152.26.231.83|9443|United States|Concord|MCNC|
+|14|152.26.229.86|9443|United States|Concord|MCNC|
+|15|202.93.244.98|8080|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
 |16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|152.26.231.42|9443|United States|Concord|MCNC|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|72.10.160.90|23655|Canada|Montreal|GloboTech Communications|
+|17|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
 
