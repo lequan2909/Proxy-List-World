@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|5|103.75.54.230|8080|Indonesia|Jakarta|PT Quantum Tera Network|
-|6|101.255.169.250|8080|Indonesia|Bekasi|PT Remala Abadi|
-|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|222.127.246.81|8082|Philippines|Iloilo City|GLBB|
-|9|157.66.16.40|8080|Indonesia|Jatibarang|PT Mitra Mandiri Network|
-|10|170.81.77.132|2222|Brazil|João Pessoa|Sigtel Servicos De Telecomunicacoes Ltda|
-|11|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|12|176.124.199.31|3128|The Netherlands|Amsterdam|Aeza International LTD|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|15|103.26.108.254|84|India|Thoothukudi|Niss Networks|
-|16|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|17|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|18|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|2|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|3|176.124.199.31|3128|The Netherlands|Amsterdam|Aeza International LTD|
+|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|71.191.130.54|8118|United States|Gainesville|Verizon Communications|
+|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|71.191.130.54|8118|United States|Gainesville|Verizon Communications|
+|9|103.247.22.151|7777|Indonesia|Bekasi|PT wifian Solution|
+|10|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|11|103.53.79.115|8086|Indonesia|Jakarta|INTI|
+|12|27.123.1.46|3128|Indonesia|Bekasi|PT Tele Globe Global|
+|13|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
+|14|103.166.158.53|3127|Indonesia|Bekasi|PT Timor Lintas Nusantara|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|79.133.42.189|3128|Germany|Frankfurt am Main|Fornex Hosting S.L.|
+|17|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
+|18|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
 |19|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |20|152.26.229.42|9443|United States|Concord|MCNC|
 
