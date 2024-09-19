@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|210.5.184.90|8080|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
 |2|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|116.80.46.249|3128|Japan|Tokyo|InfoSphere|
-|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|103.69.20.56|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|7|8.213.22.253|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
-|8|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|124.217.97.131|8080|Philippines|Davao City|Philippine Long Distance Telephone Co.|
-|10|186.97.192.60|999|Colombia|Medellín|Colombia Móvil|
-|11|177.234.193.186|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|12|179.125.51.54|27234|Brazil|Duque de Caxias|Via Link Telecomunicacoes|
-|13|182.52.137.168|8080|Thailand|Bangkok|TOT Public Company Limited|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|38.191.200.77|999|Colombia|Villavicencio|Cogent Communications|
+|5|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|6|103.87.148.21|8080|Indonesia|Demak|Lintas Data Prima, PT|
+|7|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|8|103.180.123.93|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|182.52.137.168|8080|Thailand|Bangkok|TOT Public Company Limited|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|13|179.124.206.88|8080|Brazil|Assis Chateaubriand|Newcenter Telecom|
+|14|103.156.224.66|8080|Indonesia|Bogor|PT Lintas Citra Abadi|
+|15|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
 |16|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|72.10.164.178|18821|Canada|Montreal|GloboTech Communications|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
