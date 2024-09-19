@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|116.80.44.141|3128|Japan|Tokyo|InfoSphere|
-|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|102.39.232.252|8080|South Africa|Johannesburg|Vox Telecom|
-|12|79.143.177.29|21972|Germany|Munich|Contabo GmbH|
-|13|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|103.46.11.82|8080|Indonesia|Malang|Lintas Data Prima, PT|
-|17|38.159.229.101|999|Ecuador|Vinces|Turbonet S.A.|
-|18|112.198.129.234|8085|Philippines|Nasugbu|Globe Telecom|
-|19|45.182.176.38|9947|Brazil|São Paulo|Evolucao Telecom Ltda|
-|20|190.102.139.152|999|Peru|Lima|Optical Technologies S.A.C.|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|216.122.181.249|8080|Dominican Republic|Santiago de los Caballeros|Colocation America Corporation|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|67.43.236.22|28285|Canada|Montreal|GloboTech Communications|
+|5|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|6|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
+|7|180.211.186.158|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|8|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|9|45.81.115.86|3128|Türkiye|Bursa|Pembe Gul Isguzar Karagoz|
+|10|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|11|144.86.187.54|3129|United States|Malden|Charles River Operation|
+|12|154.12.242.82|8889|United States|Seattle|Nubes, LLC|
+|13|152.26.229.34|9443|United States|Concord|MCNC|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|152.26.229.47|9443|United States|Concord|MCNC|
+|16|67.43.227.227|9363|Canada|Montreal|GloboTech Communications|
+|17|144.86.187.53|3129|United States|Malden|Charles River Operation|
+|18|1.32.59.217|47045|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|19|72.10.164.178|31943|Canada|Montreal|GloboTech Communications|
+|20|36.64.184.2|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 
 
 
