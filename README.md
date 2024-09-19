@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|180.211.183.130|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
-|4|144.86.187.54|3129|United States|Malden|Charles River Operation|
-|5|194.156.88.125|2411|United Kingdom|Bradford|aurologic GmbH|
-|6|103.167.171.216|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|103.35.110.74|5020|Bangladesh|Dhaka|Ranks ITT|
-|9|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|10|72.10.160.91|12153|Canada|Montreal|GloboTech Communications|
-|11|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|12|201.144.25.10|8080|Mexico|Mexico City|UNINET|
-|13|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|14|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|103.127.220.106|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|144.86.187.58|3129|United States|Malden|Charles River Operation|
-|18|190.61.101.95|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
-|19|152.26.231.86|9443|United States|Concord|MCNC|
-|20|112.198.129.234|8085|Philippines|Nasugbu|Globe Telecom|
+|3|211.109.199.99|80|South Korea|Yongin-si|SK Broadband Co Ltd|
+|4|61.7.191.176|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
+|5|103.159.196.81|1111|Indonesia|Serang|PT Andalan Dinamika Informatika|
+|6|177.43.72.250|3128|Brazil|Campo Grande|Vivo|
+|7|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|103.247.12.18|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|9|103.139.98.157|8080|Indonesia|Bandaragung|Digital Network Setiawan|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|12|95.78.161.82|8080|Russia|Chelyabinsk|CJSC "ER-Telecom Holding" Chelyabinsk branch|
+|13|203.190.46.159|3127|Indonesia|Sleman|PT Jaring Lintas Utara|
+|14|45.174.57.22|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|15|103.153.62.158|3125|Indonesia|Jakarta|IMEDIANET|
+|16|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
+|17|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
+|18|185.238.72.222|53128|Poland|Lodz|IWACOM Sp. z o.o.|
+|19|157.15.63.164|8085|Indonesia|Malang|PT Anugerah Media Data Nusantara|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
