@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|116.80.46.249|3128|Japan|Tokyo|InfoSphere|
-|4|171.234.238.96|10006|Vietnam|Hanoi|Viettel Corporation|
-|5|103.69.20.56|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|6|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|9|45.233.67.226|999|Guatemala|Jalapa|Conectividad Y Tecnologia S.A.|
-|10|36.64.27.57|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|11|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|41.216.186.146|8080|Indonesia|Purbalingga|FASTHOSTING|
+|7|72.10.160.170|1375|Canada|Montreal|GloboTech Communications|
+|8|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
+|9|116.111.117.246|10001|Vietnam|Hanoi|Viettel Corporation|
+|10|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
+|11|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
 |12|152.26.231.86|9443|United States|Concord|MCNC|
-|13|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|14|152.26.231.42|9443|United States|Concord|MCNC|
-|15|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|103.48.71.18|83|India|Hyderabad|Country Online Services PVT LTD|
-|18|72.10.160.170|1375|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.83|9443|United States|Concord|MCNC|
-|20|152.26.229.34|9443|United States|Concord|MCNC|
+|13|152.26.231.42|9443|United States|Concord|MCNC|
+|14|181.192.2.23|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
+|15|152.26.231.83|9443|United States|Concord|MCNC|
+|16|152.26.229.34|9443|United States|Concord|MCNC|
+|17|72.10.160.174|22133|Canada|Montreal|GloboTech Communications|
+|18|38.183.144.82|8181|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
+|19|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.231.93|9443|United States|Concord|MCNC|
 
 
 
