@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
 |4|119.42.69.6|8080|Thailand|Bang Rak|CAT-BB|
-|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|119.47.90.240|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|9|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|10|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
-|12|116.111.117.246|10010|Vietnam|Hanoi|Viettel Corporation|
-|13|103.148.195.22|8080|Indonesia|Tabanan|Dinas Komunikasi DAN Informatika Kabupaten Tabanan|
-|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|16|203.202.248.36|8080|Bangladesh|Chittagong|Aamra Networks Limited|
-|17|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|18|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|20|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|5|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|6|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|200.95.184.62|999|Chile|Chillán|Comunicaciones Cablevision Ltda.|
+|8|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
+|9|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
+|10|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|152.26.229.46|9443|United States|Concord|MCNC|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|152.26.229.47|9443|United States|Concord|MCNC|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
+|18|72.10.160.90|22191|Canada|Montreal|GloboTech Communications|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|72.10.160.171|13587|Canada|Montreal|GloboTech Communications|
 
 
 
