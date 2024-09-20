@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|2|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|3|103.93.34.195|8999|Bangladesh|Kaliakair|Apple Communication Ltd.|
-|4|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|63.151.59.218|8080|United States|Ocala|CenturyLink|
-|7|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|8|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|3|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|4|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|5|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|6|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|7|79.106.170.34|8989|Albania|Tirana|ONE ALBANIA SH.A.|
+|8|63.151.59.218|8080|United States|Ocala|CenturyLink|
 |9|152.26.229.42|9443|United States|Concord|MCNC|
 |10|152.26.231.94|9443|United States|Concord|MCNC|
-|11|72.10.164.178|16635|Canada|Montreal|GloboTech Communications|
-|12|121.100.19.82|7088|Indonesia|Malang|NAP.Net.id - Network Access Point|
-|13|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|14|152.26.231.86|9443|United States|Concord|MCNC|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|72.10.160.90|13973|Canada|Montreal|GloboTech Communications|
-|18|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|19|152.26.231.42|9443|United States|Concord|MCNC|
-|20|72.10.164.178|16635|Canada|Montreal|GloboTech Communications|
+|11|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|13|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|15|152.26.231.42|9443|United States|Concord|MCNC|
+|16|114.9.52.134|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|17|72.10.164.178|10725|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
