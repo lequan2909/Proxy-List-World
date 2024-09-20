@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
-|4|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|5|38.183.144.117|1111|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|175.137.69.120|3128|Malaysia|Petaling Jaya|TM TECHNOLOGY SERVICES SDN BHD|
-|8|103.48.71.18|83|India|Hyderabad|Country Online Services PVT LTD|
-|9|45.228.234.192|999|Guatemala|Guatemala City|Infinitum S.A.|
-|10|152.26.231.94|9443|United States|Concord|MCNC|
-|11|72.10.160.170|13869|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|16989|Canada|Montreal|GloboTech Communications|
-|13|192.99.169.19|8445|Canada|Beauharnois|OVH SAS|
-|14|72.10.164.178|16989|Canada|Montreal|GloboTech Communications|
-|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|46.37.115.147|3128|Türkiye|Istanbul|Ovabil Internet VE Bilisim Hizmetleri Limited Sirketi|
-|17|46.37.115.146|3128|Türkiye|Istanbul|Ovabil Internet VE Bilisim Hizmetleri Limited Sirketi|
-|18|67.43.236.20|31537|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|72.10.164.178|16989|Canada|Montreal|GloboTech Communications|
+|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|140.238.230.215|3128|India|Mumbai|Oracle Corporation|
+|7|152.26.231.94|9443|United States|Concord|MCNC|
+|8|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|192.99.169.19|8444|Canada|Beauharnois|OVH SAS|
+|10|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|182.252.70.220|8082|Bangladesh|Kāfrul|Agni Systems Limited|
+|12|152.26.229.42|9443|United States|Concord|MCNC|
+|13|46.37.115.147|3128|Türkiye|Istanbul|Ovabil Internet VE Bilisim Hizmetleri Limited Sirketi|
+|14|152.26.231.42|9443|United States|Concord|MCNC|
+|15|152.26.229.46|9443|United States|Concord|MCNC|
+|16|46.37.115.146|3128|Türkiye|Istanbul|Ovabil Internet VE Bilisim Hizmetleri Limited Sirketi|
+|17|54.39.83.130|9595|Canada|Beauharnois|OVH Hosting|
+|18|72.10.164.178|12859|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|23.226.67.211|3128|United States|Phoenix|Input Output Flood LLC|
 
 
 
