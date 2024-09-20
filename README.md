@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|4|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|5|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|143.244.129.201|9090|India|Bengaluru|DigitalOcean, LLC|
-|8|218.1.142.249|57114|China|Shanghai|China Telecom (Group)|
-|9|152.26.229.42|9443|United States|Concord|MCNC|
-|10|152.26.229.86|9443|United States|Concord|MCNC|
-|11|152.26.229.93|9443|United States|Concord|MCNC|
+|2|115.72.46.96|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|3|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|4|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
+|5|103.4.167.15|8080|Indonesia|Jakarta|FIBERNET|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|117.6.55.135|10006|Vietnam|Hanoi|Viettel Corporation|
+|8|178.251.111.24|8080|Ukraine|Borzna|Dataline LLC|
+|9|36.64.27.57|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|10|152.26.229.42|9443|United States|Concord|MCNC|
+|11|152.26.229.86|9443|United States|Concord|MCNC|
 |12|152.26.229.34|9443|United States|Concord|MCNC|
-|13|67.43.228.253|24907|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|28089|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|24907|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.83|9443|United States|Concord|MCNC|
-|17|180.211.186.158|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|18|67.43.236.20|31133|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.47|9443|United States|Concord|MCNC|
-|20|67.43.227.227|19805|Canada|Montreal|GloboTech Communications|
+|13|152.26.229.93|9443|United States|Concord|MCNC|
+|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|152.26.229.83|9443|United States|Concord|MCNC|
+|16|112.17.10.41|3128|China|Hangzhou|China Mobile Communications Corporation|
+|17|152.26.229.47|9443|United States|Concord|MCNC|
+|18|72.10.160.90|11293|Canada|Montreal|GloboTech Communications|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
