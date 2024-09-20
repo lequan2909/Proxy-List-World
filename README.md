@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|2|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|4|152.26.231.42|9443|United States|Concord|MCNC|
-|5|152.26.229.47|9443|United States|Concord|MCNC|
-|6|152.26.229.46|9443|United States|Concord|MCNC|
-|7|72.10.160.174|14557|Canada|Montreal|GloboTech Communications|
-|8|210.45.70.92|15893|China|Hefei|USTC1|
-|9|67.43.236.20|1541|Canada|Montreal|GloboTech Communications|
-|10|152.26.229.86|9443|United States|Concord|MCNC|
-|11|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|12|171.228.122.113|10089|Vietnam|Hợp Hòa|Viettel Corporation|
-|13|67.43.227.227|20123|Canada|Montreal|GloboTech Communications|
-|14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|16|152.26.229.34|9443|United States|Concord|MCNC|
-|17|67.43.228.253|10659|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.230|10295|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|10659|Canada|Montreal|GloboTech Communications|
-|20|121.100.19.82|7088|Indonesia|Malang|NAP.Net.id - Network Access Point|
+|1|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|103.74.229.133|8080|Bangladesh|Kushtia|Windstream Communication Ltd|
+|5|152.26.231.42|9443|United States|Concord|MCNC|
+|6|152.26.229.47|9443|United States|Concord|MCNC|
+|7|152.26.229.46|9443|United States|Concord|MCNC|
+|8|152.26.229.86|9443|United States|Concord|MCNC|
+|9|171.228.122.113|10089|Vietnam|Hợp Hòa|Viettel Corporation|
+|10|152.26.229.34|9443|United States|Concord|MCNC|
+|11|152.26.231.83|9443|United States|Concord|MCNC|
+|12|152.26.231.94|9443|United States|Concord|MCNC|
+|13|152.26.231.86|9443|United States|Concord|MCNC|
+|14|152.26.229.93|9443|United States|Concord|MCNC|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|17|45.70.85.33|58080|Brazil|Araçatuba|B.B.S COMUNICAÇÕES LTDA ME|
+|18|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|189.193.225.10|999|Mexico|Santo Domingo Tehuantepec|Mega Cable, S.A. de C.V.|
+|20|67.43.228.253|10659|Canada|Montreal|GloboTech Communications|
 
 
 
