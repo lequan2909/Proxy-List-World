@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|1|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|118.173.3.175|8080|Thailand|Phan Thong|TOT Public Company Limited|
 |5|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|6|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|223.206.7.181|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|10|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|11|103.175.202.33|8090|Indonesia|Kabupaten Tanah Bumbu|PT Ameera Mega Buana|
-|12|45.190.52.24|8080|Brazil|Araranguá|Exa Internet|
-|13|103.247.14.103|1111|Indonesia|Klaten|TERABIT|
-|14|115.147.32.198|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|15|177.234.236.134|8080|Ecuador|Machala|Ufinet Panama S.A.|
-|16|178.212.48.80|8080|Poland|Zielona Góra|Lubuskie Sieci Swiatlowodowe Sp. z o. o.|
-|17|103.162.16.47|8080|Indonesia|Pati|PT Mega Data Perkasa|
-|18|44.243.136.16|3128|United States|Portland|Amazon.com, Inc.|
-|19|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|181.78.17.73|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|8|112.78.155.214|3128|Indonesia|Jakarta|BIZNET|
+|9|103.84.176.100|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|10|152.166.69.34|8080|Dominican Republic|La Romana|Altice Dominicana S.A.|
+|11|105.113.2.82|8080|Nigeria|Lagos|Airtel Networks Limited|
+|12|177.54.229.164|9292|Brazil|Parauapebas|Aranet Comunicacao Ltda|
+|13|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|14|38.52.221.66|8080|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|190.187.163.2|999|Peru|Lima region|Americatel Peru S.A.|
+|17|103.153.140.31|8080|India|Dindigul|Airprime Internet Services Private Limited|
+|18|168.181.196.76|8080|Brazil|Marataizes|Windx Telecomunicações|
+|19|62.3.30.70|8080|Georgia||Enbinet Ltd.|
+|20|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
