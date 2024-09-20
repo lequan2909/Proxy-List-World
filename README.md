@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5411** proxies at the latest update. Usable proxies are below.
+> Scraper found **5530** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|670|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|789|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|217|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3266|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|140.238.230.215|3128|India|Mumbai|Oracle Corporation|
-|7|152.26.231.94|9443|United States|Concord|MCNC|
-|8|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|9|192.99.169.19|8444|Canada|Beauharnois|OVH SAS|
-|10|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|182.252.70.220|8082|Bangladesh|Kāfrul|Agni Systems Limited|
-|12|152.26.229.42|9443|United States|Concord|MCNC|
-|13|46.37.115.147|3128|Türkiye|Istanbul|Ovabil Internet VE Bilisim Hizmetleri Limited Sirketi|
-|14|152.26.231.42|9443|United States|Concord|MCNC|
-|15|152.26.229.46|9443|United States|Concord|MCNC|
-|16|46.37.115.146|3128|Türkiye|Istanbul|Ovabil Internet VE Bilisim Hizmetleri Limited Sirketi|
-|17|54.39.83.130|9595|Canada|Beauharnois|OVH Hosting|
-|18|72.10.164.178|12859|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.93|9443|United States|Concord|MCNC|
-|20|23.226.67.211|3128|United States|Phoenix|Input Output Flood LLC|
+|6|187.157.243.254|8080|Mexico|Puebla City|Uninet S.A. de C.V.|
+|7|154.12.242.82|8889|United States|Seattle|Nubes, LLC|
+|8|202.180.20.66|8080|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|152.26.229.93|9443|United States|Concord|MCNC|
+|12|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|13|152.26.229.46|9443|United States|Concord|MCNC|
+|14|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
+|15|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|16|192.99.169.19|8444|Canada|Beauharnois|OVH SAS|
+|17|72.10.164.178|28791|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|30401|Canada|Montreal|GloboTech Communications|
+|19|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|67.43.228.253|25331|Canada|Montreal|GloboTech Communications|
 
 
 
