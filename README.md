@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|2|103.165.208.222|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|3|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|35.87.161.97|3128|United States|Portland|Amazon.com, Inc.|
-|5|103.180.196.141|8080|Indonesia|Yogyakarta|PT Dekadata Lingkar Nusantara|
-|6|67.43.228.253|12915|Canada|Montreal|GloboTech Communications|
-|7|121.101.133.220|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|8|152.26.229.86|9443|United States|Concord|MCNC|
-|9|152.26.231.86|9443|United States|Concord|MCNC|
-|10|152.26.231.83|9443|United States|Concord|MCNC|
-|11|147.45.74.178|3128|Sweden|Stockholm|Aeza International LTD|
-|12|67.43.228.250|28639|Canada|Montreal|GloboTech Communications|
-|13|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|67.43.236.22|23077|Canada|Montreal|GloboTech Communications|
-|15|103.165.218.234|8085|Indonesia|Jakarta|PT iForte Global Internet|
-|16|72.10.164.178|24299|Canada|Montreal|GloboTech Communications|
-|17|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
-|18|72.10.164.178|24299|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|6237|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.93|9443|United States|Concord|MCNC|
+|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|2|152.26.229.86|9443|United States|Concord|MCNC|
+|3|152.26.231.86|9443|United States|Concord|MCNC|
+|4|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|5|152.26.231.83|9443|United States|Concord|MCNC|
+|6|147.45.74.178|3128|Sweden|Stockholm|Aeza International LTD|
+|7|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|10|152.26.229.93|9443|United States|Concord|MCNC|
+|11|152.26.229.83|9443|United States|Concord|MCNC|
+|12|67.43.228.250|5135|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.228|3495|Canada|Montreal|GloboTech Communications|
+|14|152.26.229.34|9443|United States|Concord|MCNC|
+|15|152.26.229.47|9443|United States|Concord|MCNC|
+|16|72.10.164.178|6565|Canada|Montreal|GloboTech Communications|
+|17|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|72.10.164.178|6565|Canada|Montreal|GloboTech Communications|
 
 
 
