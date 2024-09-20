@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|145.40.97.148|10001|The Netherlands|Amsterdam|Packet Host, Inc.|
+|3|145.40.97.148|10005|The Netherlands|Amsterdam|Packet Host, Inc.|
 |4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 |5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|7|158.179.215.122|8080|Spain|Madrid|Oracle Corporation|
-|8|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|185.244.173.33|8118|Russia|Moscow|First Server Limited|
-|10|45.133.107.238|81|Russia|Tul'skiy|Art-net LLC|
-|11|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|140.238.230.215|3128|India|Mumbai|Oracle Corporation|
-|14|152.26.231.93|9443|United States|Concord|MCNC|
-|15|152.26.229.93|9443|United States|Concord|MCNC|
-|16|152.26.231.86|9443|United States|Concord|MCNC|
-|17|152.26.229.83|9443|United States|Concord|MCNC|
+|6|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|8|27.50.29.82|8080|Indonesia|South Tangerang|PT. Mora Telematika Indonesia|
+|9|103.186.91.39|8989|Indonesia|Jepara|PT Akses Data Internusa|
+|10|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|11|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|36.67.114.94|8187|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|15|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 |18|152.26.231.83|9443|United States|Concord|MCNC|
-|19|152.26.231.42|9443|United States|Concord|MCNC|
-|20|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
