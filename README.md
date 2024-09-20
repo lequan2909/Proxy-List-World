@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|13.124.190.69|3579|South Korea|Seoul|Amazon Technologies Inc.|
+|2|13.124.190.69|3579|South Korea|Seoul|Amazon Technologies Inc.|
+|3|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
 |4|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|6|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|8|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|9|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|10|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|11|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|13|103.231.236.14|8080|Indonesia|Pemalang|PT Level Indodata Teknologi|
-|14|85.172.15.98|80|Russia|Krasnodar|Southen Telecommunication Maintainer|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|140.238.230.215|3128|India|Mumbai|Oracle Corporation|
-|17|152.26.231.83|9443|United States|Concord|MCNC|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|72.10.160.170|20205|Canada|Montreal|GloboTech Communications|
-|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|5|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|7|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|60.48.93.7|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|9|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|10|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|11|103.82.126.202|8080|Indonesia|Tangerang|PT.PLATINUM CITRA INDONESIA|
+|12|52.3.98.50|80|United States|Ashburn|Amazon.com, Inc.|
+|13|202.180.54.211|8080|Indonesia|Jakarta|PT. Panca Dewata Utama|
+|14|160.20.165.231|8587|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|15|103.51.205.20|8080|Indonesia|Sragen|Lintas Data Prima, PT|
+|16|110.137.26.233|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
+|17|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|152.26.231.83|9443|United States|Concord|MCNC|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|103.80.82.9|8181|Indonesia|Batutering|Jaringanku Sarana Nusantara|
 
 
 
