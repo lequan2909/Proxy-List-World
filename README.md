@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5631** proxies at the latest update. Usable proxies are below.
+> Scraper found **5550** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|890|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|809|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|217|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3266|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|116.111.117.246|10010|Vietnam|Hanoi|Viettel Corporation|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|7|152.26.231.83|9443|United States|Concord|MCNC|
-|8|72.10.160.93|4545|Canada|Montreal|GloboTech Communications|
-|9|152.26.231.86|9443|United States|Concord|MCNC|
-|10|20.83.26.240|3128|United States|Des Moines|Microsoft Corporation|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|13|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|16|111.224.213.165|8089|China|Shijiazhuang|Chinanet|
-|17|152.26.231.93|9443|United States|Concord|MCNC|
-|18|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|19|140.238.230.215|3128|India|Mumbai|Oracle Corporation|
-|20|46.37.115.146|3128|Türkiye|Istanbul|Ovabil Internet VE Bilisim Hizmetleri Limited Sirketi|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|119.42.69.6|8080|Thailand|Bang Rak|CAT-BB|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|7|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|119.47.90.240|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|10|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|202.180.20.66|8080|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|12|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|13|111.224.212.158|8089|China|Shijiazhuang|Chinanet|
+|14|36.67.114.94|8187|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|15|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|126.209.13.226|8082|Philippines|Manila|Infinivan Incorporated|
+|18|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|152.26.229.34|9443|United States|Concord|MCNC|
+|20|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
 
 
 
