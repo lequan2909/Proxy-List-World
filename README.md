@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|182.253.109.27|8080|Indonesia|Jakarta|Biznet Metronet|
-|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|5|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|200.106.124.240|999|Peru|Tacna|Telefonica del Peru|
-|8|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
-|9|222.127.246.81|8082|Philippines|Iloilo City|GLBB|
-|10|14.224.147.249|8080|Vietnam|Hanoi|VNPT|
-|11|24.172.82.94|53281|United States|Concord|Spectrum|
-|12|175.137.69.120|3128|Malaysia|Petaling Jaya|TM TECHNOLOGY SERVICES SDN BHD|
-|13|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|14|152.26.231.86|9443|United States|Concord|MCNC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|3|216.122.181.249|8080|Dominican Republic|Santiago de los Caballeros|Colocation America Corporation|
+|4|182.253.109.27|8080|Indonesia|Jakarta|Biznet Metronet|
+|5|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|6|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|8|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|9|190.94.213.93|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|10|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|11|186.113.232.105|8080|Colombia|Pereira|Colombia Telecomunicaciones S.a. ESP|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|222.127.246.81|8082|Philippines|Iloilo City|GLBB|
+|14|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
 |15|152.26.229.83|9443|United States|Concord|MCNC|
-|16|190.61.101.95|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
 |17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |18|116.80.44.141|3128|Japan|Tokyo|InfoSphere|
-|19|67.43.227.227|20217|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|19|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|20|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
 
 
 
