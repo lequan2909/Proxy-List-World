@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|222.109.232.217|8080|South Korea|Jungnang-gu|Korea Telecom|
-|5|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|7|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|182.253.93.4|53281|Indonesia|Jakarta Pusat|BIZNET|
-|9|103.189.116.109|8080|Indonesia|Temanggung|PT Callysta Total Solusindo|
-|10|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|11|200.76.42.198|999|Mexico|Ciudad de Villa de Álvarez|Alestra, S. de R.L. de C.V.|
-|12|118.173.3.175|8080|Thailand|Phan Thong|TOT Public Company Limited|
-|13|124.106.228.30|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|103.87.169.199|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|152.26.231.94|9443|United States|Concord|MCNC|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|122.2.48.121|8080|Philippines|Ormoc City|Philippine Long Distance Telephone Co.|
-|20|72.10.160.93|19003|Canada|Montreal|GloboTech Communications|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|5|95.164.37.150|8118|United Kingdom|Coventry|Stark Industries Solutions LTD|
+|6|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|8|152.166.69.34|8080|Dominican Republic|La Romana|Altice Dominicana S.A.|
+|9|103.149.194.58|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
+|10|103.84.176.100|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|36.93.214.253|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|112.198.129.234|8085|Philippines|Nasugbu|Globe Telecom|
+|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|16|181.205.94.251|999|Colombia|Medellín|Colombia Móvil|
+|17|103.87.169.194|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|18|190.94.213.48|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|152.26.231.94|9443|United States|Concord|MCNC|
 
 
 
