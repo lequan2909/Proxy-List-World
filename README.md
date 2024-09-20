@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|2|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|3|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|4|195.250.92.58|8080|Armenia|Yerevan|GNC-Alfa CJSC|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|103.155.196.105|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|2|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|4|74.62.179.122|8080|United States|Montebello|Charter Communications Inc|
+|5|180.211.94.50|8080|Indonesia|Bekasi|Kings Network Indonesia, PT|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|200.61.16.80|8080|Argentina|Buenos Aires|Silica Networks Argentina S.A|
 |8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |9|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|204.199.81.90|999|Colombia|Santiago de Cali|CTL Colombia|
-|11|67.43.227.227|20849|Canada|Montreal|GloboTech Communications|
-|12|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|36.64.184.2|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|14|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|101.255.166.241|8080|Indonesia|Bekasi|PT Remala Abadi|
-|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|72.10.164.178|3003|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.42|9443|United States|Concord|MCNC|
-|20|152.26.229.34|9443|United States|Concord|MCNC|
+|10|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|124.106.228.30|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|15|152.26.231.42|9443|United States|Concord|MCNC|
+|16|152.26.229.34|9443|United States|Concord|MCNC|
+|17|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|183.134.184.82|3128|China|Hangzhou|Chinanet|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
 
 
 
