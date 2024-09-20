@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5265** proxies at the latest update. Usable proxies are below.
+> Scraper found **5195** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -28,37 +28,37 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|290|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|600|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|284|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|577|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|122|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3295|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|121|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3255|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|2|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|3|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|4|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|7|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|36.64.206.107|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|2|103.165.155.171|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|3|61.91.162.126|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|4|103.125.18.22|8080|Indonesia|Tangerang|JAVAMEDIA|
+|5|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|6|103.35.109.205|58080|Bangladesh|Dhaka|Ranks ITT|
+|7|152.26.229.42|9443|United States|Concord|MCNC|
 |8|152.26.229.47|9443|United States|Concord|MCNC|
-|9|152.26.229.86|9443|United States|Concord|MCNC|
-|10|36.64.184.2|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|11|72.10.160.90|20587|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|3299|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|3299|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.93|9443|United States|Concord|MCNC|
-|15|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
-|16|72.10.164.178|3299|Canada|Montreal|GloboTech Communications|
-|17|36.64.27.57|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|18|72.10.164.178|3299|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|3299|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|4589|Canada|Montreal|GloboTech Communications|
+|9|152.26.229.46|9443|United States|Concord|MCNC|
+|10|152.26.229.34|9443|United States|Concord|MCNC|
+|11|152.26.229.83|9443|United States|Concord|MCNC|
+|12|186.113.232.105|8080|Colombia|Pereira|Colombia Telecomunicaciones S.a. ESP|
+|13|152.26.231.93|9443|United States|Concord|MCNC|
+|14|118.67.134.17|80|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
+|15|72.10.160.94|1123|Canada|Montreal|GloboTech Communications|
+|16|171.234.238.96|10013|Vietnam|Hanoi|Viettel Corporation|
+|17|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
