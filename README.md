@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5316** proxies at the latest update. Usable proxies are below.
+> Scraper found **5268** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|288|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|616|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|568|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|119|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3335|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.184.173.215|8080|South Korea|Cheonan|Korea Telecom|
-|2|124.158.153.218|8180|Indonesia|Pulo Gebang|PT iForte Global Internet|
-|3|187.95.124.108|3128|Brazil|Curitiba|Ligga Telecomunicações S.A|
-|4|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|6|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|7|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
-|8|116.111.117.246|10010|Vietnam|Hanoi|Viettel Corporation|
-|9|103.125.18.22|8080|Indonesia|Tangerang|JAVAMEDIA|
-|10|160.202.42.156|80|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
-|11|36.64.206.107|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|12|152.26.231.42|9443|United States|Concord|MCNC|
-|13|103.160.207.53|32650|India|Morādābād|Moradabad Internet Services Private Limited|
-|14|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|15|152.26.231.94|9443|United States|Concord|MCNC|
-|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|177.93.40.57|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|18|103.22.99.93|7777|Indonesia|Magetan|KHALISTAGROUP|
-|19|152.26.229.93|9443|United States|Concord|MCNC|
-|20|72.10.164.178|13219|Canada|Montreal|GloboTech Communications|
+|1|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|36.92.28.34|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|5|181.224.207.142|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
+|6|117.102.86.148|8080|Indonesia|Jakarta|BIZNET|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|158.140.169.9|8081|Indonesia|Jakarta|MYREPUBLIC|
+|9|152.26.229.47|9443|United States|Concord|MCNC|
+|10|152.26.229.83|9443|United States|Concord|MCNC|
+|11|152.26.229.46|9443|United States|Concord|MCNC|
+|12|152.26.231.94|9443|United States|Concord|MCNC|
+|13|152.26.229.42|9443|United States|Concord|MCNC|
+|14|152.26.229.86|9443|United States|Concord|MCNC|
+|15|67.43.236.20|1585|Canada|Montreal|GloboTech Communications|
+|16|103.208.102.6|8080|Indonesia|Wonosobo|PT Tidar Lintas Nusa|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|67.43.227.227|3353|Canada|Montreal|GloboTech Communications|
+|19|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
 
 
 
