@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|3|35.87.161.97|3128|United States|Portland|Amazon.com, Inc.|
-|4|216.122.181.249|8080|Dominican Republic|Santiago de los Caballeros|Colocation America Corporation|
-|5|163.172.33.137|7210|France|Vitry-sur-Seine|Online S.A.S.|
-|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|8|182.253.109.27|8080|Indonesia|Jakarta|Biznet Metronet|
-|9|35.87.161.97|3128|United States|Portland|Amazon.com, Inc.|
-|10|147.45.74.178|3128|Sweden|Stockholm|Aeza International LTD|
+|2|35.87.161.97|3128|United States|Portland|Amazon.com, Inc.|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|122.2.48.121|8080|Philippines|Ormoc City|Philippine Long Distance Telephone Co.|
+|5|216.122.181.249|8080|Dominican Republic|Santiago de los Caballeros|Colocation America Corporation|
+|6|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|7|147.45.74.178|3128|Sweden|Stockholm|Aeza International LTD|
+|8|61.12.35.12|8080|India|Chennai|Ttsl-isp Division|
+|9|103.199.117.101|8080|Indonesia|Bumiayu|PT Hepra Teknologi Indonesia|
+|10|163.172.33.137|7210|France|Vitry-sur-Seine|Online S.A.S.|
 |11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|13|102.216.74.209|8888|South Africa|Vredenburg|Rapid Networks Sub2|
-|14|61.12.35.12|8080|India|Chennai|Ttsl-isp Division|
-|15|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|16|187.1.57.206|20183|Brazil|Nova Lima|Companhia Itabirana Telecomunicações Ltda|
-|17|190.121.145.115|999|Colombia|Sogamoso|Media Commerce Partners S.A|
-|18|94.231.192.207|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|103.154.91.182|8080|Indonesia|Jakarta|MORATELINDONAP|
+|12|35.87.161.97|3128|United States|Portland|Amazon.com, Inc.|
+|13|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|14|173.249.60.246|14344|Germany|Nuremberg|Contabo GmbH|
+|15|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|16|103.217.224.46|7777|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|17|103.172.70.138|1111|Indonesia|Karawang|AZNET|
+|18|104.129.194.99|8800|United States|Reston|ZSCALER, INC.|
+|19|186.86.143.161|999|Colombia|San Gil|Telmex Colombia S.A.|
+|20|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
