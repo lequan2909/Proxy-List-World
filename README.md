@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5417** proxies at the latest update. Usable proxies are below.
+> Scraper found **5392** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|637|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|612|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|133|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3389|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
 |2|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|103.156.15.249|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|5|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
-|6|77.41.146.13|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|45.228.234.192|999|Guatemala|Guatemala City|Infinitum S.A.|
+|3|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|4|195.250.92.58|8080|Armenia|Yerevan|GNC-Alfa CJSC|
+|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|103.155.196.105|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |9|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|11|103.81.223.157|8080|Indonesia|Bandung|STARNET|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|16|152.26.229.34|9443|United States|Concord|MCNC|
-|17|152.26.229.46|9443|United States|Concord|MCNC|
-|18|152.26.231.83|9443|United States|Concord|MCNC|
-|19|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|10|204.199.81.90|999|Colombia|Santiago de Cali|CTL Colombia|
+|11|67.43.227.227|20849|Canada|Montreal|GloboTech Communications|
+|12|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|36.64.184.2|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|14|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|101.255.166.241|8080|Indonesia|Bekasi|PT Remala Abadi|
+|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|72.10.164.178|3003|Canada|Montreal|GloboTech Communications|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|152.26.229.34|9443|United States|Concord|MCNC|
 
 
 
