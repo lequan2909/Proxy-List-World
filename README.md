@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |5|116.80.46.244|3128|Japan|Tokyo|InfoSphere|
-|6|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|9|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|10|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|7|103.75.53.235|7788|Indonesia|Jakarta|PT Quantum Tera Network|
+|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|9|103.181.148.129|8080|India|Erode|JR COMMUNICATIONS|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
 |12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|14|38.156.72.40|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|16|61.12.35.12|8080|India|Chennai|Ttsl-isp Division|
-|17|179.108.220.184|8080|Brazil|Santos Dumont|Conecta Ltda.|
-|18|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|19|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|13|101.128.82.150|8181|Indonesia|Jakarta|CBN|
+|14|180.190.200.77|8082|Philippines|Lahug|Globe Telecom|
+|15|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|16|201.62.125.142|8080|Brazil|Rio Claro|Claro NXT Telecomunicacoes Ltda|
+|17|163.47.39.37|8080|Bangladesh|Dhaka|Bangladesh Research and Education Network (BdREN)|
+|18|101.255.149.202|8080|Indonesia|Bekasi|PT Remala Abadi|
+|19|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
+|20|103.191.155.30|1080|Indonesia|Majalengka|PT Ilham Wifi Solution|
 
 
 
