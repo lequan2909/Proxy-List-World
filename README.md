@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.75.166.191|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|222.127.241.158|8082|Philippines|Iloilo City|GLBB|
-|4|77.41.146.62|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|5|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|6|103.113.3.25|8080|Indonesia|South Tangerang|Diskominfo Tangerang Selatan|
-|7|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
-|8|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|9|189.127.190.109|8080|Brazil|Xapuri|Govista Telecomunicao Importacao Ltda|
-|10|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|103.168.44.105|3127|Indonesia|Jakarta|PT CYB Media Group|
-|12|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|13|180.191.51.166|8082|Philippines|Tarlac City|Globe Telecom|
-|14|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|15|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|116.80.58.134|3128|Japan|Tokyo|InfoSphere|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|152.26.229.93|9443|United States|Concord|MCNC|
-|20|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
+|1|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|198.244.231.83|8888|United Kingdom|London|OVH SAS|
+|3|77.41.146.62|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|5|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|6|186.96.31.46|7070|Mexico|Cholula|Total Play Telecomunicaciones SA De CV|
+|7|103.180.122.52|8091|Indonesia|Bekasi|PT Indo Telemedia Solusi|
+|8|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
+|12|116.80.58.134|3128|Japan|Tokyo|InfoSphere|
+|13|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|152.26.231.93|9443|United States|Concord|MCNC|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|152.26.229.93|9443|United States|Concord|MCNC|
+|17|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|152.26.229.34|9443|United States|Concord|MCNC|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
