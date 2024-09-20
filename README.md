@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.26.231.83|9443|United States|Concord|MCNC|
-|2|152.26.229.93|9443|United States|Concord|MCNC|
-|3|152.26.229.86|9443|United States|Concord|MCNC|
-|4|152.26.231.86|9443|United States|Concord|MCNC|
-|5|152.26.229.83|9443|United States|Concord|MCNC|
-|6|152.26.231.93|9443|United States|Concord|MCNC|
-|7|152.26.229.42|9443|United States|Concord|MCNC|
-|8|198.244.231.83|8888|United Kingdom|London|OVH SAS|
-|9|152.26.229.46|9443|United States|Concord|MCNC|
-|10|67.43.227.226|5037|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.250|23163|Canada|Montreal|GloboTech Communications|
-|12|173.249.60.246|14344|Germany|Nuremberg|Contabo GmbH|
-|13|67.43.236.20|13469|Canada|Montreal|GloboTech Communications|
-|14|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|119.47.90.25|8080|Indonesia|Jatiroto|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|16|72.10.164.178|18903|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|23685|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|5037|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|23685|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|13469|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|36.73.131.89|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|3|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|152.26.229.93|9443|United States|Concord|MCNC|
+|7|152.26.229.86|9443|United States|Concord|MCNC|
+|8|152.26.231.83|9443|United States|Concord|MCNC|
+|9|152.26.229.83|9443|United States|Concord|MCNC|
+|10|177.234.236.134|8080|Ecuador|Machala|Ufinet Panama S.A.|
+|11|152.26.231.86|9443|United States|Concord|MCNC|
+|12|152.26.231.93|9443|United States|Concord|MCNC|
+|13|152.26.229.42|9443|United States|Concord|MCNC|
+|14|101.109.176.247|8080|Thailand|Bangkok|TOT Public Company Limited|
+|15|198.244.231.83|8888|United Kingdom|London|OVH SAS|
+|16|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|187.157.243.254|8080|Mexico|Puebla City|Uninet S.A. de C.V.|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|79.175.176.254|3128|Iran|Abadan|AFranet Co|
+|20|180.191.51.166|8082|Philippines|Tarlac City|Globe Telecom|
 
 
 
