@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|5|182.253.109.27|8080|Indonesia|Jakarta|Biznet Metronet|
-|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|7|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
-|8|216.122.181.249|8080|Dominican Republic|Santiago de los Caballeros|Colocation America Corporation|
-|9|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|103.48.71.2|83|India|Hyderabad|Country Online Services PVT LTD|
-|11|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
-|12|177.234.247.234|999|Ecuador|Esmeraldas|Ufinet Panama S.A.|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|201.65.173.180|8080|Brazil|Brasília|Claro S.A.|
-|16|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|186.96.174.168|80|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|19|202.173.220.50|1122|Thailand|Bangkok|KIRZ Company Limited|
-|20|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|1|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|182.253.109.27|8080|Indonesia|Jakarta|Biznet Metronet|
+|3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|216.122.181.249|8080|Dominican Republic|Santiago de los Caballeros|Colocation America Corporation|
+|6|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|7|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|10|190.114.245.122|999|Venezuela|Caracas|Gold Data USA Inc|
+|11|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
+|12|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|13|116.80.44.141|3128|Japan|Tokyo|InfoSphere|
+|14|152.26.231.42|9443|United States|Concord|MCNC|
+|15|152.26.229.47|9443|United States|Concord|MCNC|
+|16|152.26.231.93|9443|United States|Concord|MCNC|
+|17|152.26.229.46|9443|United States|Concord|MCNC|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
