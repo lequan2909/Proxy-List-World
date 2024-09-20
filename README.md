@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|3|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|4|103.247.23.192|8080|Indonesia|Bekasi|PT wifian Solution|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|116.111.117.246|10010|Vietnam|Hanoi|Viettel Corporation|
 |5|152.26.231.83|9443|United States|Concord|MCNC|
-|6|190.61.45.76|999|Colombia|Pasto|Ufinet Panama S.A.|
-|7|152.26.229.34|9443|United States|Concord|MCNC|
-|8|218.155.31.188|8080|South Korea|Seongnam-si|Korea Telecom|
-|9|67.43.227.228|5183|Canada|Montreal|GloboTech Communications|
-|10|152.26.231.94|9443|United States|Concord|MCNC|
-|11|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
-|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|13|36.93.54.174|49784|Indonesia|Ciputat|Telekomunikasi Indonesia|
-|14|72.10.160.171|7429|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|24791|Canada|Montreal|GloboTech Communications|
-|16|103.69.20.52|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|17|180.190.200.77|8082|Philippines|Lahug|Globe Telecom|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|20|201.65.173.180|8080|Brazil|Brasília|Claro S.A.|
+|6|152.26.229.86|9443|United States|Concord|MCNC|
+|7|152.26.231.42|9443|United States|Concord|MCNC|
+|8|152.26.231.86|9443|United States|Concord|MCNC|
+|9|152.26.229.34|9443|United States|Concord|MCNC|
+|10|185.238.72.222|53128|Poland|Lodz|IWACOM Sp. z o.o.|
+|11|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|12|67.43.227.229|3761|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|31719|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|4845|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.91|18487|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|1919|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|4845|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.18|12723|Canada|Montreal|GloboTech Communications|
+|19|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|20|67.43.228.253|19271|Canada|Montreal|GloboTech Communications|
 
 
 
