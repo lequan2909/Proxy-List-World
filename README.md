@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.35.10.218|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|2|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|4|115.72.46.96|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|5|134.35.8.241|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|6|38.183.144.117|1111|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
-|9|41.242.116.150|50003|Mayotte|Mamoudzou|STOI-block1|
-|10|116.111.117.246|10010|Vietnam|Hanoi|Viettel Corporation|
-|11|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
-|13|188.132.203.148|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|14|202.93.244.98|8080|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
-|15|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|16|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|17|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|158.140.169.9|8081|Indonesia|Jakarta|MYREPUBLIC|
-|19|72.10.160.170|29449|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.83|9443|United States|Concord|MCNC|
+|1|187.157.243.254|8080|Mexico|Puebla City|Uninet S.A. de C.V.|
+|2|122.54.105.109|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|3|134.35.10.218|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|4|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
+|5|103.154.230.104|8080|Indonesia|Lamongan|DIGITNET|
+|6|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|27.25.139.200|8888|China|Shizishan|China Telecom|
+|8|152.26.231.83|9443|United States|Concord|MCNC|
+|9|152.26.229.93|9443|United States|Concord|MCNC|
+|10|152.26.229.47|9443|United States|Concord|MCNC|
+|11|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|13|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|152.26.229.83|9443|United States|Concord|MCNC|
+|15|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|17|152.26.231.93|9443|United States|Concord|MCNC|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|46.37.115.147|3128|Türkiye|Istanbul|Ovabil Internet VE Bilisim Hizmetleri Limited Sirketi|
+|20|103.26.108.254|84|India|Thoothukudi|Niss Networks|
 
 
 
