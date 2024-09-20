@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|2|46.37.115.143|3128|Türkiye|Istanbul|Ovabil Internet VE Bilisim Hizmetleri Limited Sirketi|
-|3|46.37.115.148|3128|Türkiye|Istanbul|Ovabil Internet VE Bilisim Hizmetleri Limited Sirketi|
-|4|46.37.115.146|3128|Türkiye|Istanbul|Ovabil Internet VE Bilisim Hizmetleri Limited Sirketi|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|46.37.115.147|3128|Türkiye|Istanbul|Ovabil Internet VE Bilisim Hizmetleri Limited Sirketi|
-|7|216.122.181.249|8080|Dominican Republic|Santiago de los Caballeros|Colocation America Corporation|
-|8|103.153.63.211|8085|Indonesia|Bekasi|IMEDIANET|
-|9|134.35.8.241|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|103.80.88.74|80|Indonesia|Gorontalo|PT Jala Lintas Media|
-|12|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
-|13|36.90.216.30|3128|Indonesia|Boyolali|PT. Telekomunikasi Indonesia|
-|14|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|15|182.252.70.220|8082|Bangladesh|Kāfrul|Agni Systems Limited|
-|16|49.51.244.112|8888|United States|San Jose|OPHL|
-|17|49.70.172.172|8089|China|Shanghai|Chinanet|
-|18|152.26.229.47|9443|United States|Concord|MCNC|
-|19|67.43.236.20|3231|Canada|Montreal|GloboTech Communications|
-|20|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|1|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|2|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
+|3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|4|187.157.243.254|8080|Mexico|Puebla City|Uninet S.A. de C.V.|
+|5|61.19.109.236|8080|Thailand|Vadhana|CAT-ISP|
+|6|103.154.230.104|8080|Indonesia|Lamongan|DIGITNET|
+|7|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|8|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|202.180.54.211|8080|Indonesia|Jakarta|PT. Panca Dewata Utama|
+|10|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
+|11|134.35.8.241|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|12|189.193.225.10|999|Mexico|Santo Domingo Tehuantepec|Mega Cable, S.A. de C.V.|
+|13|152.26.229.47|9443|United States|Concord|MCNC|
+|14|67.43.236.20|5973|Canada|Montreal|GloboTech Communications|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|19|152.26.231.94|9443|United States|Concord|MCNC|
+|20|67.43.236.20|5973|Canada|Montreal|GloboTech Communications|
 
 
 
