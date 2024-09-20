@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5877** proxies at the latest update. Usable proxies are below.
+> Scraper found **5836** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|904|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|863|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|337|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3378|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|3|182.253.109.27|8080|Indonesia|Jakarta|Biznet Metronet|
-|4|173.249.60.246|14344|Germany|Nuremberg|Contabo GmbH|
-|5|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|6|147.45.74.178|3128|Sweden|Stockholm|Aeza International LTD|
-|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|8|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
-|9|140.238.230.215|3128|India|Mumbai|Oracle Corporation|
-|10|122.2.48.121|8080|Philippines|Ormoc City|Philippine Long Distance Telephone Co.|
-|11|36.88.148.140|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|12|187.1.57.206|20183|Brazil|Nova Lima|Companhia Itabirana Telecomunicações Ltda|
-|13|163.172.33.137|7210|France|Vitry-sur-Seine|Online S.A.S.|
-|14|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|15|112.78.150.132|8080|Indonesia|Jakarta|Biznet Networks|
-|16|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|103.254.85.66|8080|Bangladesh|Dhaka|HRC Technologies Ltd|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|187.188.169.169|8080|Mexico|Santa Cruz Huitziltepec|Total Play Telecomunicaciones SA De CV|
+|2|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|3|35.87.161.97|3128|United States|Portland|Amazon.com, Inc.|
+|4|216.122.181.249|8080|Dominican Republic|Santiago de los Caballeros|Colocation America Corporation|
+|5|163.172.33.137|7210|France|Vitry-sur-Seine|Online S.A.S.|
+|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|8|182.253.109.27|8080|Indonesia|Jakarta|Biznet Metronet|
+|9|35.87.161.97|3128|United States|Portland|Amazon.com, Inc.|
+|10|147.45.74.178|3128|Sweden|Stockholm|Aeza International LTD|
+|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|12|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|13|102.216.74.209|8888|South Africa|Vredenburg|Rapid Networks Sub2|
+|14|61.12.35.12|8080|India|Chennai|Ttsl-isp Division|
+|15|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|16|187.1.57.206|20183|Brazil|Nova Lima|Companhia Itabirana Telecomunicações Ltda|
+|17|190.121.145.115|999|Colombia|Sogamoso|Media Commerce Partners S.A|
+|18|94.231.192.207|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|103.154.91.182|8080|Indonesia|Jakarta|MORATELINDONAP|
 
 
 
