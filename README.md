@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|3|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|58.147.186.226|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
-|6|103.22.99.93|7777|Indonesia|Magetan|KHALISTAGROUP|
-|7|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
-|8|182.252.70.220|8082|Bangladesh|Kāfrul|Agni Systems Limited|
-|9|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
-|10|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|72.10.160.91|27055|Canada|Montreal|GloboTech Communications|
-|12|152.26.229.86|9443|United States|Concord|MCNC|
-|13|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|72.10.160.94|12441|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.93|9443|United States|Concord|MCNC|
-|16|67.43.228.250|5369|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|17117|Canada|Montreal|GloboTech Communications|
-|18|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|19|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|1.32.59.217|47045|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|5|202.62.67.209|53281|India|Visakhapatnam|CityOnline Services|
+|6|103.26.108.254|84|India|Thoothukudi|Niss Networks|
+|7|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|152.26.229.86|9443|United States|Concord|MCNC|
+|12|112.198.129.234|8085|Philippines|Nasugbu|Globe Telecom|
+|13|152.26.229.93|9443|United States|Concord|MCNC|
+|14|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|15|187.249.20.153|8081|Mexico|Ciudad Benito Juárez|Transtelco Inc|
+|16|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|17|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|18|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|19|46.37.115.148|3128|Türkiye|Istanbul|Ovabil Internet VE Bilisim Hizmetleri Limited Sirketi|
+|20|118.117.189.76|8089|China|Muping|Chinanet|
 
 
 
