@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.184.173.215|8080|South Korea|Cheonan|Korea Telecom|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|4|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|7|175.137.69.120|3128|Malaysia|Petaling Jaya|TM TECHNOLOGY SERVICES SDN BHD|
-|8|121.184.173.215|8080|South Korea|Cheonan|Korea Telecom|
-|9|24.172.82.94|53281|United States|Concord|Spectrum|
-|10|5.160.237.190|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|11|152.26.229.34|9443|United States|Concord|MCNC|
-|12|67.43.227.228|19213|Canada|Montreal|GloboTech Communications|
-|13|152.26.231.83|9443|United States|Concord|MCNC|
-|14|72.10.160.173|8167|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|1813|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|26127|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.86|9443|United States|Concord|MCNC|
-|18|72.10.160.170|1771|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.172|13167|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|101.255.40.98|8080|Indonesia|Bekasi|PT Remala Abadi|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|5|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|6|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|201.65.173.180|8080|Brazil|Brasília|Claro S.A.|
+|9|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|152.26.229.34|9443|United States|Concord|MCNC|
+|11|152.26.231.83|9443|United States|Concord|MCNC|
+|12|152.26.229.86|9443|United States|Concord|MCNC|
+|13|152.26.231.42|9443|United States|Concord|MCNC|
+|14|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|15|152.26.231.94|9443|United States|Concord|MCNC|
+|16|158.140.169.9|8081|Indonesia|Jakarta|MYREPUBLIC|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|103.74.229.133|8080|Bangladesh|Kushtia|Windstream Communication Ltd|
+|19|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
