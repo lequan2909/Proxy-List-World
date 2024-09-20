@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5468** proxies at the latest update. Usable proxies are below.
+> Scraper found **5411** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|727|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|670|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|217|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3266|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.191.218.87|8080|Indonesia|Kuningan Barat|PT Replay Inti Media|
-|3|103.153.246.142|8181|Indonesia|Purwakarta|PRIMAHOME|
-|4|103.118.175.42|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|5|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|46.249.100.20|8080|Germany|Frankfurt am Main|Deployish Limited|
-|7|103.125.18.22|8080|Indonesia|Tangerang|JAVAMEDIA|
-|8|191.102.248.3|8084|Argentina|Rosario|IP·RED|
-|9|202.62.67.209|53281|India|Visakhapatnam|CityOnline Services|
-|10|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|11|180.190.200.77|8082|Philippines|Lahug|Globe Telecom|
-|12|58.147.186.226|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
-|13|103.22.99.93|7777|Indonesia|Magetan|KHALISTAGROUP|
-|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|201.65.173.180|8080|Brazil|Brasília|Claro S.A.|
-|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|2|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
+|4|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|5|38.183.144.117|1111|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|175.137.69.120|3128|Malaysia|Petaling Jaya|TM TECHNOLOGY SERVICES SDN BHD|
+|8|103.48.71.18|83|India|Hyderabad|Country Online Services PVT LTD|
+|9|45.228.234.192|999|Guatemala|Guatemala City|Infinitum S.A.|
+|10|152.26.231.94|9443|United States|Concord|MCNC|
+|11|72.10.160.170|13869|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|16989|Canada|Montreal|GloboTech Communications|
+|13|192.99.169.19|8445|Canada|Beauharnois|OVH SAS|
+|14|72.10.164.178|16989|Canada|Montreal|GloboTech Communications|
+|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|46.37.115.147|3128|Türkiye|Istanbul|Ovabil Internet VE Bilisim Hizmetleri Limited Sirketi|
+|17|46.37.115.146|3128|Türkiye|Istanbul|Ovabil Internet VE Bilisim Hizmetleri Limited Sirketi|
+|18|67.43.236.20|31537|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|72.10.164.178|16989|Canada|Montreal|GloboTech Communications|
 
 
 
