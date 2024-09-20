@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.46.10.100|8080|Indonesia|Malang|Lintas Data Prima, PT|
-|2|103.165.155.171|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|3|200.24.157.120|999|Ecuador|Cuenca|Ufinet Panama S.A.|
-|4|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|5|103.156.75.40|8181|Indonesia|Gianyar|PT Trika Global Media|
-|6|185.208.101.216|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|7|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|1|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|119.76.142.201|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
+|5|81.19.141.2|3128|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|6|200.24.157.120|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|7|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
 |8|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |9|152.26.229.93|9443|United States|Concord|MCNC|
 |10|152.26.229.46|9443|United States|Concord|MCNC|
 |11|152.26.229.47|9443|United States|Concord|MCNC|
-|12|36.73.131.89|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|13|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|14|72.10.160.171|12473|Canada|Montreal|GloboTech Communications|
+|12|180.190.200.77|8082|Philippines|Lahug|Globe Telecom|
+|13|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|14|36.73.131.89|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
 |15|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.164.178|9317|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|11357|Canada|Montreal|GloboTech Communications|
-|18|152.26.231.42|9443|United States|Concord|MCNC|
-|19|180.190.200.77|8082|Philippines|Lahug|Globe Telecom|
-|20|112.198.129.234|8085|Philippines|Nasugbu|Globe Telecom|
+|16|67.43.227.227|28093|Canada|Montreal|GloboTech Communications|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|103.4.167.15|8080|Indonesia|Jakarta|FIBERNET|
+|19|72.10.160.171|12473|Canada|Montreal|GloboTech Communications|
+|20|152.26.231.94|9443|United States|Concord|MCNC|
 
 
 
