@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|154.12.242.82|8889|United States|Seattle|Nubes, LLC|
+|1|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|2|124.158.153.218|8180|Indonesia|Pulo Gebang|PT iForte Global Internet|
+|3|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
 |4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|6|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|7|72.10.164.178|30151|Canada|Montreal|GloboTech Communications|
-|8|67.43.227.227|24305|Canada|Montreal|GloboTech Communications|
+|5|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|6|103.153.134.150|8080|Indonesia|Tangerang|WMINET|
+|7|45.6.224.76|999|Ecuador|Ambato|Teneda Corporación CIA. LTDA|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 |9|152.26.231.42|9443|United States|Concord|MCNC|
 |10|152.26.229.46|9443|United States|Concord|MCNC|
-|11|72.10.160.90|15247|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|30151|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.91|9767|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.254|18323|Canada|Montreal|GloboTech Communications|
-|15|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
-|16|152.26.229.93|9443|United States|Concord|MCNC|
-|17|67.43.227.230|10977|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|32543|Canada|Montreal|GloboTech Communications|
-|19|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
-|20|103.26.108.254|84|India|Thoothukudi|Niss Networks|
+|11|103.254.85.66|8080|Bangladesh|Dhaka|HRC Technologies Ltd|
+|12|122.50.6.186|8080|Indonesia|Jakarta Pusat|PT Mora Telematika Indonesia|
+|13|152.26.229.93|9443|United States|Concord|MCNC|
+|14|186.215.68.51|3127|Brazil|Brasília|Vivo|
+|15|112.198.129.234|8085|Philippines|Nasugbu|Globe Telecom|
+|16|111.118.153.229|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|17|72.10.160.91|9767|Canada|Montreal|GloboTech Communications|
+|18|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|19|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|20|72.10.164.178|7905|Canada|Montreal|GloboTech Communications|
 
 
 
