@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|3|116.104.185.85|5101|Vietnam|Hanoi|Viettel Corporation|
-|4|115.72.46.96|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|5|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
-|6|103.190.113.114|8080|Indonesia|Grobogan|PT Linkbit Inovasi Teknologi|
-|7|103.69.20.118|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|8|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|27.96.131.193|80|South Korea|Seongnam-si|NBP|
-|11|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|15|114.130.153.58|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|16|103.125.18.22|8080|Indonesia|Tangerang|JAVAMEDIA|
-|17|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|94.68.245.147|8080|Greece|Marousi|OTEnet|
-|20|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|5|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|143.0.243.80|8080|Brazil|São Gonçalo|Nova Info Internet e Telecomunicações LTDA|
+|10|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|121.100.19.82|7088|Indonesia|Malang|NAP.Net.id - Network Access Point|
+|15|152.26.231.93|9443|United States|Concord|MCNC|
+|16|69.197.135.43|41805|United States|Kansas City|WholeSale Internet|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
+|18|152.26.231.83|9443|United States|Concord|MCNC|
+|19|114.130.153.58|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
