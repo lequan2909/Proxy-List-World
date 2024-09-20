@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|36.73.131.89|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|103.176.96.226|8082|Indonesia|Purwakarta|PT Global Sarana Elektronika|
-|4|117.6.55.135|10006|Vietnam|Hanoi|Viettel Corporation|
-|5|177.93.40.56|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|6|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|7|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
-|8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|3|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|4|209.97.149.157|80|United States|Clifton|DigitalOcean, LLC|
+|5|209.97.149.157|80|United States|Clifton|DigitalOcean, LLC|
+|6|103.118.124.137|6969|Indonesia|Jakarta Pusat|Tele|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|152.26.229.47|9443|United States|Concord|MCNC|
 |9|152.26.231.93|9443|United States|Concord|MCNC|
-|10|152.26.229.47|9443|United States|Concord|MCNC|
-|11|152.26.231.83|9443|United States|Concord|MCNC|
-|12|154.73.28.49|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|13|152.26.229.83|9443|United States|Concord|MCNC|
-|14|67.43.236.20|10389|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.251|27237|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|28725|Canada|Montreal|GloboTech Communications|
-|17|198.244.231.83|8888|United Kingdom|London|OVH SAS|
-|18|36.64.27.57|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|19|72.10.164.178|28725|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|10389|Canada|Montreal|GloboTech Communications|
+|10|152.26.231.83|9443|United States|Concord|MCNC|
+|11|152.26.229.83|9443|United States|Concord|MCNC|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|103.22.99.93|7777|Indonesia|Magetan|KHALISTAGROUP|
+|14|67.43.227.227|20011|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.172|32911|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|25433|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.19|14891|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|20011|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|67.43.227.228|5595|Canada|Montreal|GloboTech Communications|
 
 
 
