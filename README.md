@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|3|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|4|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|103.105.76.214|9090|Indonesia|Bojonegoro|GARUDA|
-|6|49.70.172.167|8089|China|Shanghai|Chinanet|
+|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|23.19.73.223|3128|United States|Los Angeles|Leaseweb USA, Inc.|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|6|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|200.41.170.210|11201|Argentina|Picún Leufú|Telefonica de Argentina|
-|10|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|182.252.70.220|8082|Bangladesh|Kāfrul|Agni Systems Limited|
-|12|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|13|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
-|14|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|15|152.26.229.46|9443|United States|Concord|MCNC|
-|16|152.26.231.83|9443|United States|Concord|MCNC|
-|17|152.26.231.42|9443|United States|Concord|MCNC|
-|18|36.73.140.214|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|19|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|8|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|9|117.6.55.135|10006|Vietnam|Hanoi|Viettel Corporation|
+|10|186.166.142.82|999|Venezuela|Santa Bárbara|TELEFONICA VENEZOLANA, C.A.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|180.211.94.50|8080|Indonesia|Bekasi|Kings Network Indonesia, PT|
+|13|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|15|152.26.231.42|9443|United States|Concord|MCNC|
+|16|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|36.73.140.214|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
 
 
 
