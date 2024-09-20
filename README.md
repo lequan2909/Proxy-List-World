@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|103.84.176.101|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|4|171.228.190.144|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|5|36.93.68.47|41890|Indonesia|South Tangerang|Telekomunikasi Indonesia|
-|6|42.119.130.84|8080|Vietnam|Hanoi|FPT Telecom Company|
-|7|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|45.70.85.33|58080|Brazil|Araçatuba|B.B.S COMUNICAÇÕES LTDA ME|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|182.253.40.149|8080|Indonesia|Jakarta Pusat|BIZNET|
-|13|103.184.56.110|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|116.80.47.9|3128|Japan|Tokyo|InfoSphere|
-|16|103.26.108.254|84|India|Thoothukudi|Niss Networks|
-|17|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|152.26.229.46|9443|United States|Concord|MCNC|
-|20|116.80.46.249|3128|Japan|Tokyo|InfoSphere|
+|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|5|103.82.126.202|8080|Indonesia|Tangerang|PT.PLATINUM CITRA INDONESIA|
+|6|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|103.84.176.101|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|9|103.179.182.255|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|10|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|38.156.74.49|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|103.148.45.60|8833|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|13|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|50.204.36.138|60808|United States|Sacramento|Comcast Cable Communications, LLC|
+|15|103.145.34.162|8081|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
+|16|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|181.114.62.1|8085|Argentina|Ramallo|INTERAIR|
+|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|180.190.200.77|8082|Philippines|Lahug|Globe Telecom|
 
 
 
