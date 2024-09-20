@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5167** proxies at the latest update. Usable proxies are below.
+> Scraper found **5314** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -28,37 +28,37 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|287|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|559|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|286|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|627|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|108|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3255|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3335|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.87.169.189|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|105.21.72.38|8080|Uganda|Kampala|SEACOM Limited Networks|
-|4|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|7|202.137.31.186|8080|Indonesia|Bekasi|LINKNET|
-|8|165.16.27.42|1981|Libya|Benghazi|Aljeel Aljadeed For Technology|
-|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|10|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|11|103.160.207.53|32650|India|Morādābād|Moradabad Internet Services Private Limited|
-|12|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
-|17|152.26.229.47|9443|United States|Concord|MCNC|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|24.106.221.230|53281|United States|Wilmington|Spectrum|
-|20|124.83.73.240|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|3|103.87.169.189|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|4|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|152.26.229.93|9443|United States|Concord|MCNC|
+|9|152.26.229.47|9443|United States|Concord|MCNC|
+|10|72.10.160.170|26365|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|13785|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|13785|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.228|29359|Canada|Montreal|GloboTech Communications|
+|14|51.158.173.222|3128|France|Paris|Online S.A.S.|
+|15|67.43.236.20|2523|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|27415|Canada|Montreal|GloboTech Communications|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
+|18|72.10.160.92|5775|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.253|13481|Canada|Montreal|GloboTech Communications|
+|20|103.2.229.207|3128|Vietnam|Quận Một|Long Van System Solution|
 
 
 
