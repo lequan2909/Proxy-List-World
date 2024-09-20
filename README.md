@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|111.224.212.158|8089|China|Shijiazhuang|Chinanet|
-|5|180.211.186.158|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|6|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|152.26.229.46|9443|United States|Concord|MCNC|
-|8|152.26.229.86|9443|United States|Concord|MCNC|
-|9|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|116.80.46.249|3128|Japan|Tokyo|InfoSphere|
-|11|152.26.231.42|9443|United States|Concord|MCNC|
-|12|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|13|67.43.236.20|17149|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.47|9443|United States|Concord|MCNC|
-|15|175.126.191.23|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|67.43.236.21|3217|Canada|Montreal|GloboTech Communications|
-|18|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|7|36.64.27.57|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|8|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|9|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|152.26.229.46|9443|United States|Concord|MCNC|
+|11|152.26.229.86|9443|United States|Concord|MCNC|
+|12|152.26.231.42|9443|United States|Concord|MCNC|
+|13|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|103.137.160.186|8090|Bangladesh|Noākhāli|Top Network|
+|15|116.80.46.249|3128|Japan|Tokyo|InfoSphere|
+|16|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|17|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|152.26.229.47|9443|United States|Concord|MCNC|
 |19|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
 
 
 
