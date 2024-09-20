@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|152.32.68.171|65535|Philippines|Quezon City|Converge ICT Solution Inc|
-|4|103.247.22.79|8080|Indonesia|Bekasi|PT wifian Solution|
-|5|103.165.157.241|8090|Indonesia|Purbalingga|MEGADATA-ISP|
-|6|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|7|190.111.215.186|80|Argentina|Buenos Aires|CPS|
-|8|24.152.40.49|8080|Paraguay|Coronel Oviedo|TV MAX CABLE S.A.|
-|9|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|10|181.114.62.1|8085|Argentina|Ramallo|INTERAIR|
-|11|103.156.217.101|1111|Indonesia|Cikarang|PT. Meiwa Mold Indonesia|
-|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|138.94.76.86|8080|Brazil|Santa Rosa|BrPhonia Provedor Ip Ltda|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|181.78.17.73|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|16|202.173.220.50|1122|Thailand|Bangkok|KIRZ Company Limited|
-|17|103.48.71.18|83|India|Hyderabad|Country Online Services PVT LTD|
-|18|49.70.172.146|8089|China|Shanghai|Chinanet|
-|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|20|190.61.101.95|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
+|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|116.111.116.106|10010|Vietnam|Hanoi|Viettel Corporation|
+|4|171.228.190.144|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
+|5|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|8|181.209.112.74|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
+|9|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
+|10|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|216.122.181.249|8080|Dominican Republic|Santiago de los Caballeros|Colocation America Corporation|
+|12|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|195.8.52.207|8080|Poland|Ustrzyki Dolne|WIDE-NET II Sp. z o.o.|
+|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|16|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|182.252.70.220|8082|Bangladesh|Kāfrul|Agni Systems Limited|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|180.191.40.160|8082|Philippines|Tarlac City|Globe Telecom|
 
 
 
