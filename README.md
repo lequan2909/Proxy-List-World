@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|103.87.169.199|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|103.180.123.27|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|6|138.201.139.121|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|12|175.100.92.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|13|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|14|152.26.229.93|9443|United States|Concord|MCNC|
-|15|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
-|19|152.26.229.47|9443|United States|Concord|MCNC|
-|20|177.234.236.134|8080|Ecuador|Machala|Ufinet Panama S.A.|
+|1|103.87.169.199|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|2|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|7|182.23.127.2|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|8|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|10|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|152.26.229.34|9443|United States|Concord|MCNC|
+|12|152.26.231.42|9443|United States|Concord|MCNC|
+|13|67.43.227.227|1989|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.254|24861|Canada|Montreal|GloboTech Communications|
+|15|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|16|72.10.160.90|4285|Canada|Montreal|GloboTech Communications|
+|17|116.80.59.250|3128|Japan|Tokyo|InfoSphere|
+|18|72.10.164.178|1801|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|152.26.231.93|9443|United States|Concord|MCNC|
 
 
 
