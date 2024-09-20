@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|115.72.46.96|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|6|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|45.70.238.22|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|9|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
-|10|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|152.26.229.47|9443|United States|Concord|MCNC|
-|12|152.26.229.93|9443|United States|Concord|MCNC|
-|13|103.247.23.192|8080|Indonesia|Bekasi|PT wifian Solution|
-|14|152.26.231.94|9443|United States|Concord|MCNC|
-|15|116.80.59.250|3128|Japan|Tokyo|InfoSphere|
-|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|145.40.97.148|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|152.26.231.83|9443|United States|Concord|MCNC|
-|20|67.43.228.251|7713|Canada|Montreal|GloboTech Communications|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
+|7|116.111.117.246|10005|Vietnam|Hanoi|Viettel Corporation|
+|8|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|36.64.206.107|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|11|36.93.32.137|8080|Indonesia|Tangerang|Telekomunikasi Indonesia|
+|12|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
+|13|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|103.247.23.192|8080|Indonesia|Bekasi|PT wifian Solution|
+|15|175.126.191.24|8080|South Korea|Songpa-gu|SK Broadband Co Ltd|
+|16|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|152.26.229.47|9443|United States|Concord|MCNC|
+|18|152.26.229.93|9443|United States|Concord|MCNC|
+|19|152.26.231.94|9443|United States|Concord|MCNC|
+|20|116.80.59.250|3128|Japan|Tokyo|InfoSphere|
 
 
 
