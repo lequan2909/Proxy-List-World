@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.19.73.223|3128|United States|Los Angeles|Leaseweb USA, Inc.|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|4|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|6|103.70.79.2|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|7|186.3.98.230|999|Ecuador|Esmeraldas|Telconet S.A|
-|8|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|126.209.13.226|8082|Philippines|Manila|Infinivan Incorporated|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|103.155.196.105|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|3|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
+|5|31.146.5.178|8080|Georgia|Tbilisi|JSC "Silknet"|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|190.187.163.2|999|Peru|Lima region|Americatel Peru S.A.|
+|8|112.198.129.234|8085|Philippines|Nasugbu|Globe Telecom|
+|9|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|36.64.27.57|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |12|152.26.231.93|9443|United States|Concord|MCNC|
-|13|152.26.231.42|9443|United States|Concord|MCNC|
-|14|152.26.229.46|9443|United States|Concord|MCNC|
-|15|152.26.231.94|9443|United States|Concord|MCNC|
-|16|67.43.228.253|28293|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|32917|Canada|Montreal|GloboTech Communications|
-|18|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
-|19|67.43.227.227|9267|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|9267|Canada|Montreal|GloboTech Communications|
+|13|175.137.69.120|3128|Malaysia|Petaling Jaya|TM TECHNOLOGY SERVICES SDN BHD|
+|14|103.208.102.6|8080|Indonesia|Wonosobo|PT Tidar Lintas Nusa|
+|15|152.26.231.42|9443|United States|Concord|MCNC|
+|16|180.190.200.77|8082|Philippines|Lahug|Globe Telecom|
+|17|152.26.231.94|9443|United States|Concord|MCNC|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|20|152.26.229.47|9443|United States|Concord|MCNC|
 
 
 
