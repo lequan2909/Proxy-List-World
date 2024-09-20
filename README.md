@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|20.162.145.117|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|94.247.42.160|8118|Switzerland|Zug|Datasource AG|
-|5|131.100.48.73|999|Colombia|Neiva|Fibernet TV SAS|
-|6|103.105.55.51|9090|Indonesia|Klaten|PT. Mega Artha Lintas Data|
+|2|103.180.118.76|3128|Indonesia|Gresik|PT Persada Data Multimedia|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|35.87.161.97|3128|United States|Portland|Amazon.com, Inc.|
+|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|6|216.122.181.249|8080|Dominican Republic|Santiago de los Caballeros|Colocation America Corporation|
 |7|35.87.161.97|3128|United States|Portland|Amazon.com, Inc.|
-|8|61.12.35.12|8080|India|Chennai|Ttsl-isp Division|
-|9|91.136.142.155|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
-|10|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|35.87.161.97|3128|United States|Portland|Amazon.com, Inc.|
-|14|36.95.78.156|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|15|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|16|38.191.200.74|999|Colombia|Villavicencio|Cogent Communications|
-|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
-|20|186.49.51.122|3128|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
+|8|44.234.149.185|3128|United States|Portland|Amazon.com, Inc.|
+|9|44.234.149.185|3128|United States|Portland|Amazon.com, Inc.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|103.40.121.91|8080|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
+|12|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
+|13|212.252.73.29|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|14|103.169.129.4|1111|Indonesia|Cirebon|PT Media Akses Data|
+|15|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|82.200.237.11|8080|Kazakhstan|Almaty Oblysy|Kazakhtelecom Data Network Administration|
+|17|27.124.83.229|8080|Indonesia|Kebon Gunung|PT.Global Media Data Prima|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
+|20|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
