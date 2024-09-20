@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|36.73.140.214|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
 |2|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|187.157.243.254|8080|Mexico|Puebla City|Uninet S.A. de C.V.|
-|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|5|198.244.231.83|8888|United Kingdom|London|OVH SAS|
+|3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|4|198.244.231.83|8888|United Kingdom|London|OVH SAS|
+|5|155.138.218.57|8118|United States|Atlanta|The Constant Company|
 |6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|7|36.92.140.113|80|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|7|77.41.146.62|8080|Russia|Moscow|OJSC Vimpelcom HQ|
 |8|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 |10|36.73.140.214|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
 |11|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |12|152.26.231.42|9443|United States|Concord|MCNC|
 |13|152.26.229.46|9443|United States|Concord|MCNC|
-|14|187.157.243.254|8080|Mexico|Puebla City|Uninet S.A. de C.V.|
-|15|72.10.164.178|32055|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|152.26.229.93|9443|United States|Concord|MCNC|
-|18|198.244.231.83|8888|United Kingdom|London|OVH SAS|
-|19|152.26.231.86|9443|United States|Concord|MCNC|
-|20|152.26.229.83|9443|United States|Concord|MCNC|
+|14|198.244.231.83|8888|United Kingdom|London|OVH SAS|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|152.26.229.93|9443|United States|Concord|MCNC|
+|17|152.26.231.86|9443|United States|Concord|MCNC|
+|18|27.54.150.122|8080|Bangladesh|Sunāmganj|X-press Technologies Limited|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
+|20|163.53.209.17|6666|India|Modāsa|GTPL Shiv Network Pvt Ltd|
 
 
 
