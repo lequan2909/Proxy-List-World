@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|3|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|4|103.255.241.101|8080|Indonesia|Purwokerto|PT Media Sarana Data|
-|5|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|9|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|180.211.177.206|58080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|13|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
-|15|152.26.229.46|9443|United States|Concord|MCNC|
-|16|72.10.160.172|17293|Canada|Montreal|GloboTech Communications|
-|17|152.26.231.93|9443|United States|Concord|MCNC|
-|18|152.26.229.47|9443|United States|Concord|MCNC|
-|19|67.43.227.227|7217|Canada|Montreal|GloboTech Communications|
-|20|218.1.142.162|57114|China|Shanghai|China Telecom (Group)|
+|1|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|2|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|3|209.126.13.43|62442|United States|St Louis|Nubes, LLC|
+|4|38.156.73.26|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|5|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|116.111.117.246|10010|Vietnam|Hanoi|Viettel Corporation|
+|8|14.224.147.249|8080|Vietnam|Hanoi|VNPT|
+|9|152.26.229.46|9443|United States|Concord|MCNC|
+|10|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|11|152.26.231.93|9443|United States|Concord|MCNC|
+|12|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|152.26.229.47|9443|United States|Concord|MCNC|
+|14|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|18|80.240.55.242|3128|Russia|Yeysk|inetnum UGTEL|
+|19|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
