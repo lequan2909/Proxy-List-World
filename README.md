@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5232** proxies at the latest update. Usable proxies are below.
+> Scraper found **5299** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|523|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|298|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|592|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|156|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3295|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|222.127.246.81|8082|Philippines|Iloilo City|GLBB|
-|7|152.26.229.93|9443|United States|Concord|MCNC|
-|8|67.43.228.253|9981|Canada|Montreal|GloboTech Communications|
-|9|152.26.229.34|9443|United States|Concord|MCNC|
-|10|152.26.229.46|9443|United States|Concord|MCNC|
-|11|102.67.101.250|8080|Burkina Faso|Ouagadougou|Virtual Technologies and Solutions|
-|12|152.26.229.86|9443|United States|Concord|MCNC|
-|13|121.101.133.220|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|14|72.10.160.92|21703|Canada|Montreal|GloboTech Communications|
-|15|124.105.48.232|8082|Philippines|Caloocan City|Philippine Long Distance Telephone Co.|
-|16|36.229.157.39|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
-|19|152.26.231.86|9443|United States|Concord|MCNC|
-|20|114.9.52.134|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|182.252.70.220|8082|Bangladesh|Kāfrul|Agni Systems Limited|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|152.26.231.83|9443|United States|Concord|MCNC|
+|7|152.26.229.34|9443|United States|Concord|MCNC|
+|8|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|152.26.231.94|9443|United States|Concord|MCNC|
+|10|152.26.231.93|9443|United States|Concord|MCNC|
+|11|72.10.164.178|20871|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.92|30079|Canada|Montreal|GloboTech Communications|
+|13|116.80.59.250|3128|Japan|Tokyo|InfoSphere|
+|14|152.26.229.46|9443|United States|Concord|MCNC|
+|15|67.43.236.20|15791|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|20871|Canada|Montreal|GloboTech Communications|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|72.10.160.170|8577|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|20871|Canada|Montreal|GloboTech Communications|
+|20|103.26.108.254|84|India|Thoothukudi|Niss Networks|
 
 
 
