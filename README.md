@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|36.72.250.187|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|4|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|8|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|4.234.77.255|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|36.72.250.187|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|8|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
 |9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|134.90.246.192|8080|Italy|Ragusa|NOVAQUADRI|
-|12|160.154.163.18|8080|Ivory Coast|Abidjan|ORANGE COTE D'IVOIRE|
-|13|51.159.99.38|3128|France|Paris|SCALEWAY|
-|14|191.102.248.1|8085|Argentina|Rosario|IP·RED|
-|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|16|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|10|117.6.55.135|10006|Vietnam|Hanoi|Viettel Corporation|
+|11|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|12|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|13|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|182.253.233.58|8080|Indonesia|Jakarta|BIZNET|
+|15|51.159.99.38|3128|France|Paris|SCALEWAY|
+|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |17|152.26.229.93|9443|United States|Concord|MCNC|
-|18|72.10.160.90|29511|Canada|Montreal|GloboTech Communications|
-|19|51.159.99.38|3128|France|Paris|SCALEWAY|
-|20|152.26.229.83|9443|United States|Concord|MCNC|
+|18|163.53.209.17|6666|India|Modāsa|GTPL Shiv Network Pvt Ltd|
+|19|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|20|51.159.99.38|3128|France|Paris|SCALEWAY|
 
 
 
