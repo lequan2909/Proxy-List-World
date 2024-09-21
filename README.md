@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|115.72.8.162|10002|Vietnam|Bà Rịa|VIETELmetro|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|115.72.175.163|10006|Vietnam|Thị Trấn Long Điền|VIETELmetro|
-|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|7|171.245.119.132|5000|Vietnam|Quảng Ninh|Viettel Corporation|
-|8|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|16|115.72.171.65|10006|Vietnam|Vũng Tàu|VIETELmetro|
-|17|103.234.26.108|9990|Bangladesh|Kāfrul|BTS Communications (BD) Ltd|
+|2|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|3|115.72.8.162|10002|Vietnam|Bà Rịa|VIETELmetro|
+|4|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|6|115.72.160.45|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|7|115.72.167.56|10004|Vietnam|Vũng Tàu|VIETELmetro|
+|8|103.247.23.197|8080|Indonesia|Bekasi|PT wifian Solution|
+|9|115.72.169.48|10001|Vietnam|Thành Phố Bà Rịa|VIETELmetro|
+|10|116.108.3.8|10002|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|11|115.72.35.234|10003|Vietnam|Ho Chi Minh City|VIETELmetro|
+|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
+|14|125.25.160.114|8080|Thailand|Bangkok|TOT Public Company Limited|
+|15|35.212.232.107|3128|United States|The Dalles|Google LLC|
+|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|17|35.212.232.107|3128|United States|The Dalles|Google LLC|
 |18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|124.106.228.30|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|152.26.231.93|9443|United States|Concord|MCNC|
+|19|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
