@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|4|103.154.139.83|8080|Indonesia|Jakarta|MORATELINDONAP|
-|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|202.43.110.139|8000|Vietnam|Hanoi|DTS Telecom Company Limited|
-|8|103.69.21.192|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|9|38.255.72.164|999|Venezuela|Maracaibo|Maxi Cable C.A|
-|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|115.72.161.80|10003|Vietnam|Vũng Tàu|VIETELmetro|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|15|159.69.80.113|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|17|43.156.240.67|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|116.80.92.230|3128|Japan|Shimomeguro|InfoSphere|
-|19|50.6.192.27|3128|United States|Jacksonville|Network Solutions, LLC|
-|20|152.26.229.93|9443|United States|Concord|MCNC|
+|1|157.120.35.12|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|6|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|115.72.175.163|10006|Vietnam|Thị Trấn Long Điền|VIETELmetro|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
+|11|123.243.5.82|8888|Australia|Sydney|TPG Internet Pty Ltd|
+|12|118.175.30.26|8080|Thailand|Lopburi|TOT Public Company Limited|
+|13|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|115.72.167.56|10004|Vietnam|Vũng Tàu|VIETELmetro|
+|15|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|31.204.199.54|81|Montenegro|Podgorica|Crnogorski Telekom|
+|17|115.72.160.189|10006|Vietnam|Vũng Tàu|VIETELmetro|
+|18|170.78.61.26|8080|Brazil|Itarantim|Maiqvox Telecom|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|126.209.13.226|8082|Philippines|Manila|Infinivan Incorporated|
 
 
 
