@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|11|103.124.175.225|83|India|Panipat|Shirsty Internet Services Pvt Ltd|
-|12|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|181.78.73.73|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|14|152.26.231.93|9443|United States|Concord|MCNC|
-|15|152.26.229.46|9443|United States|Concord|MCNC|
-|16|152.26.231.86|9443|United States|Concord|MCNC|
-|17|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|103.208.102.6|8080|Indonesia|Wonosobo|PT Tidar Lintas Nusa|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
+|7|122.3.77.27|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|103.85.181.82|8080|India|Mumbai|Skywave Wireless Internet Services Pvt Ltd|
+|10|114.130.153.58|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|90.161.186.147|3128|Spain|Pineda de Mar|Uni2|
+|13|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|152.26.231.93|9443|United States|Concord|MCNC|
+|17|152.26.231.86|9443|United States|Concord|MCNC|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|218.155.31.188|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
