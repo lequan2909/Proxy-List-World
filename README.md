@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.150.128.176|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|3|176.192.80.10|3128|Russia|Moscow|Net By Net Holding LLC|
-|4|103.87.169.195|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|103.165.157.167|8080|Indonesia|Purbalingga|MEGADATA-ISP|
-|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|103.76.151.74|8089|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|203.150.128.176|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|176.192.80.10|3128|Russia|Moscow|Net By Net Holding LLC|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|116.111.117.246|10010|Vietnam|Hanoi|Viettel Corporation|
+|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|10|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|59.98.4.71|8080|India|Jamshedpur|BSNL Internet|
 |12|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
-|15|118.97.164.19|8080|Indonesia|Padang|Telekomunikasi Indonesia|
-|16|51.222.142.100|9595|Canada|Beauharnois|OVH SAS|
-|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|152.26.229.47|9443|United States|Concord|MCNC|
-|19|177.234.236.134|8080|Ecuador|Machala|Ufinet Panama S.A.|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|13|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
+|14|51.222.142.100|9595|Canada|Beauharnois|OVH SAS|
+|15|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|163.53.209.17|6666|India|Modāsa|GTPL Shiv Network Pvt Ltd|
+|17|152.26.229.47|9443|United States|Concord|MCNC|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
