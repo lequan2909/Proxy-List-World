@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|175.29.177.146|8080|Bangladesh|Dhaka|Access Telecom (BD) Ltd|
-|4|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|50.6.192.54|3128|United States|Jacksonville|Network Solutions, LLC|
-|7|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
-|8|50.6.192.54|3128|United States|Jacksonville|Network Solutions, LLC|
-|9|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|203.202.248.36|8080|Bangladesh|Chittagong|Aamra Networks Limited|
-|15|72.10.160.174|23717|Canada|Montreal|GloboTech Communications|
-|16|50.6.192.54|3128|United States|Jacksonville|Network Solutions, LLC|
-|17|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
-|18|152.26.231.42|9443|United States|Concord|MCNC|
+|4|69.167.39.149|8118|United States|Chicago|Paradise Networks LLC|
+|5|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|103.89.15.158|1085|United States|Dallas|Kamatera|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|51.159.99.38|3128|France|Paris|SCALEWAY|
+|16|152.26.231.42|9443|United States|Concord|MCNC|
+|17|67.43.227.226|11907|Canada|Montreal|GloboTech Communications|
+|18|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
 |19|116.80.92.230|3128|Japan|Shimomeguro|InfoSphere|
-|20|67.43.227.226|26833|Canada|Montreal|GloboTech Communications|
+|20|103.48.68.12|82|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
