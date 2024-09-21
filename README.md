@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.109.232.217|8080|South Korea|Jungnang-gu|Korea Telecom|
-|3|103.174.18.11|8080|Indonesia|Jakarta|MORATELINDONAP|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|1|222.109.232.217|8080|South Korea|Jungnang-gu|Korea Telecom|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|103.172.35.19|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |5|35.94.217.206|3128|United States|Portland|Amazon.com, Inc.|
-|6|177.93.48.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|7|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|103.209.88.72|8080|India|Guntur|TransMedia Technologies (AP) PVT LTD|
-|10|116.254.99.14|8080|Indonesia|Jakarta|SpaceX Starlink|
-|11|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|187.79.146.98|8080|Brazil|São Luís|V tal|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|15|122.152.55.61|8080|Bangladesh|Chittagong|Innovative Online Ltd|
-|16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|103.153.134.27|8090|Indonesia|Tangerang|WMINET|
-|18|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|20|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|9|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|10|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|11|103.105.55.170|8085|Indonesia|Klaten|PT. Mega Artha Lintas Data|
+|12|125.25.33.175|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|13|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|14|200.25.254.193|54240|Colombia|Bogotá|Anditel S.A.S.|
+|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|36.64.206.107|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|18|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|27.147.137.90|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|20|118.97.164.19|8080|Indonesia|Padang|Telekomunikasi Indonesia|
 
 
 
