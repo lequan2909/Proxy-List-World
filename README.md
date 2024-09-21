@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|118.173.5.133|8080|Thailand|Phan Thong|TOT Public Company Limited|
-|2|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
-|5|37.255.228.1|3128|Iran|Isfahan|Iran Telecommunication Company PJS|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|5|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
 |6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 |7|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|112.198.179.57|8082|Philippines|Carmona|Globe Telecom|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|103.180.123.93|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|12|103.153.62.158|3125|Indonesia|Jakarta|IMEDIANET|
-|13|94.61.57.219|8118|Portugal|Porto|Vodafone Portugal|
-|14|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|15|58.33.109.114|2021|China|Shanghai|China Telecom (Group)|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|143.208.84.57|8589|Brazil|Ubiratã|V. GRAZIOLI & CIA. LTDA. - ME|
-|18|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|20|157.100.60.170|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|8|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|9|159.65.237.225|1693|United States|North Bergen|DigitalOcean, LLC|
+|10|103.165.157.167|8080|Indonesia|Purbalingga|MEGADATA-ISP|
+|11|176.192.80.10|3128|Russia|Moscow|Net By Net Holding LLC|
+|12|74.48.114.199|8118|United States|Los Angeles|Multacom Corporation|
+|13|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|15|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|103.87.169.195|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
