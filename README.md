@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|3|103.250.130.106|8085|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
-|7|166.159.90.56|53281|United States|Douglassville|Verizon Business|
-|8|27.66.237.176|5000|Vietnam|Hanoi|Viettel Group|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|103.170.100.96|8080|Indonesia|Jakarta|Subnet Data Nusantara|
-|12|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|168.228.51.84|999|Costa Rica|Quesada|Cooperativa de Electrificación Rural de San Carlos R.L. (Coopelesca R.L.)|
-|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|101.255.166.241|8080|Indonesia|Bekasi|PT Remala Abadi|
-|18|116.108.3.8|10006|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|19|116.107.226.218|5000|Vietnam|Haiphong|Viettel Corporation|
-|20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|4|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
+|5|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|8|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|45.174.95.242|8080|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|103.126.86.17|3127|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|175.29.177.146|8080|Bangladesh|Dhaka|Access Telecom (BD) Ltd|
+|16|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|185.238.72.222|53128|Poland|Lodz|IWACOM Sp. z o.o.|
+|18|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|19|116.108.3.8|10006|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|20|147.45.74.178|3128|Sweden|Stockholm|Aeza International LTD|
 
 
 
