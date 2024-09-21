@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.36.10.200|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|4|120.29.124.131|8080|Philippines|Pasig|ComClark Network & Technology Corp|
-|5|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|6|39.62.4.164|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
-|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|37.255.228.1|3128|Iran|Isfahan|Iran Telecommunication Company PJS|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|103.189.96.196|8085|Indonesia|Sragen|Lintas Data Prima, PT|
-|12|103.245.205.226|6969|Bangladesh|Dhaka|Next Online Limited|
-|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|58.33.109.114|2021|China|Shanghai|China Telecom (Group)|
-|16|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|180.211.186.158|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|18|208.99.62.72|8888|United States|Fremont|DigitalMonks LLC|
-|19|116.111.117.246|10010|Vietnam|Hanoi|Viettel Corporation|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|4|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
+|5|118.179.151.57|5020|Bangladesh|Dhaka|Dhakacom Limited|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|8|103.156.74.186|8080|Indonesia|Gianyar|PT Trika Global Media|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|103.36.10.200|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
+|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|135.125.225.75|8080|Germany|Limburg an der Lahn|OVH SAS|
+|17|45.174.79.95|999|Mexico|Delicias|Raul Duarte Urita|
+|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
 
