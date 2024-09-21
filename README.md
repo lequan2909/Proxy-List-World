@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|125.25.33.175|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|222.109.232.217|8080|South Korea|Jungnang-gu|Korea Telecom|
+|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|5|125.25.33.175|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |7|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|8|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|10|45.189.149.239|999|Mexico|Mexico City|Javier Tamayo Garcia|
-|11|177.93.36.74|3128|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
+|8|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|9|103.159.194.171|3128|Indonesia|Welahan|PT Giga Digital Nusantara|
+|10|103.154.90.190|8080|Indonesia|Jakarta|MORATELINDONAP|
+|11|103.157.117.116|80|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
 |12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|93.118.119.15|8080|Iran|Tehran|Telecommunication Company of Iran|
-|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|118.173.5.133|8080|Thailand|Phan Thong|TOT Public Company Limited|
-|16|130.0.25.110|34607|Albania|Shkodër|IBC Backbone Services South|
-|17|111.118.153.229|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|18|58.33.109.114|2021|China|Shanghai|China Telecom (Group)|
-|19|175.137.69.120|3128|Malaysia|Petaling Jaya|TM TECHNOLOGY SERVICES SDN BHD|
-|20|159.223.124.116|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
+|14|45.189.149.239|999|Mexico|Mexico City|Javier Tamayo Garcia|
+|15|190.121.239.195|999|Venezuela|Caracas|Corporacion Digitel C.A|
+|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|175.137.69.120|3128|Malaysia|Petaling Jaya|TM TECHNOLOGY SERVICES SDN BHD|
+|18|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|19|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
