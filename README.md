@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.92.230|3128|Japan|Shimomeguro|InfoSphere|
-|3|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|4|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|5|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|163.5.196.123|3128|The Netherlands|Amsterdam|STALLIONDC Limited|
-|8|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|10|52.3.98.50|80|United States|Ashburn|Amazon.com, Inc.|
-|11|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|45.174.79.95|999|Mexico|Delicias|Raul Duarte Urita|
-|15|49.70.190.125|8089|China|Nanjing|Chinanet|
-|16|116.80.93.39|3128|Japan|Shimomeguro|InfoSphere|
-|17|103.125.18.22|8080|Indonesia|Tangerang|JAVAMEDIA|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|152.26.229.86|9443|United States|Concord|MCNC|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|116.80.92.230|3128|Japan|Shimomeguro|InfoSphere|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|6|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|8|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|115.72.161.80|10002|Vietnam|Vũng Tàu|VIETELmetro|
+|12|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|36.93.32.137|8080|Indonesia|Tangerang|Telekomunikasi Indonesia|
+|19|80.82.55.71|80|Russia|Voronezh|CenterTelecom Voronezh ISP|
+|20|52.3.98.50|80|United States|Ashburn|Amazon.com, Inc.|
 
 
 
