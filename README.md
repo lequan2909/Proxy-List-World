@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.93.39|3128|Japan|Shimomeguro|InfoSphere|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|189.232.93.142|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|4|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|116.80.93.39|3128|Japan|Shimomeguro|InfoSphere|
+|3|103.159.196.81|1111|Indonesia|Serang|PT Andalan Dinamika Informatika|
+|4|189.232.93.142|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
 |5|36.72.250.187|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|6|123.243.5.82|8888|Australia|Sydney|TPG Internet Pty Ltd|
+|6|50.6.192.80|3128|United States|Jacksonville|Network Solutions, LLC|
 |7|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
 |8|182.253.109.226|8080|Indonesia|Jakarta|Biznet Metronet|
-|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
-|11|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|13|189.113.117.135|8080|Brazil|Sorriso|LCI Equipamentos de Informatica LTDA - LCI Telecom|
-|14|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
-|15|182.253.159.9|8080|Indonesia|Bandung|BIZNET|
-|16|185.98.219.252|8080|Türkiye|Istanbul|Filika Internet ve Iletisim Hizmetleri A.S.|
-|17|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|18|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
-|19|102.164.252.154|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|198.135.49.151|3128|United States|Dallas|Majestic Hosting Solutions, LLC|
+|10|123.243.5.82|8888|Australia|Sydney|TPG Internet Pty Ltd|
+|11|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
+|12|50.6.192.255|3128|United States|Jacksonville|Network Solutions, LLC|
+|13|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|50.6.192.255|3128|United States|Jacksonville|Network Solutions, LLC|
+|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|17|50.6.192.80|3128|United States|Jacksonville|Network Solutions, LLC|
+|18|171.97.12.92|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|19|116.111.116.106|10013|Vietnam|Hanoi|Viettel Corporation|
+|20|103.184.56.38|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
 
 
 
