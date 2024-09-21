@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|3|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|4|4.234.77.255|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|58.33.109.114|2021|China|Shanghai|China Telecom (Group)|
-|8|103.125.18.22|8080|Indonesia|Tangerang|JAVAMEDIA|
-|9|38.156.73.26|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|10|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|152.26.229.47|9443|United States|Concord|MCNC|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|154.73.28.49|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|15|152.26.231.94|9443|United States|Concord|MCNC|
-|16|152.26.231.86|9443|United States|Concord|MCNC|
-|17|152.26.229.46|9443|United States|Concord|MCNC|
-|18|67.43.236.19|9719|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|103.191.155.30|1080|Indonesia|Majalengka|PT Ilham Wifi Solution|
+|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|5|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|6|101.255.208.22|3127|Indonesia|Ciputat|PT Remala Abadi|
+|7|159.65.221.55|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|159.65.221.55|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|60.49.152.31|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|10|101.255.167.242|8080|Indonesia|Bekasi|PT Remala Abadi|
+|11|4.234.77.255|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|103.156.141.151|3127|Indonesia|Jember|PT Tekling Media Telematika|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|131.100.48.124|999|Colombia|Neiva|Fibernet TV SAS|
+|16|85.117.60.131|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|17|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|152.26.229.47|9443|United States|Concord|MCNC|
+|19|189.193.225.10|999|Mexico|Santo Domingo Tehuantepec|Mega Cable, S.A. de C.V.|
+|20|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
 
 
 
