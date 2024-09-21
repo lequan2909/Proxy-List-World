@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|114.130.153.58|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|5|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|8|89.116.32.140|3128|India|Mumbai|Hostinger International Limited|
-|9|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|103.87.169.195|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|179.43.96.178|8080|Peru|Arequipa|GLG PERU SAC|
+|8|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |10|164.70.64.241|3128|Japan|Chiyoda|InfoSphere|
-|11|152.26.231.93|9443|United States|Concord|MCNC|
-|12|152.26.229.46|9443|United States|Concord|MCNC|
-|13|201.65.173.180|8080|Brazil|Brasília|Claro S.A.|
-|14|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|15|67.43.227.226|7581|Canada|Montreal|GloboTech Communications|
-|16|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|67.43.236.20|19987|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.47|9443|United States|Concord|MCNC|
-|19|67.43.227.226|7581|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.171|17289|Canada|Montreal|GloboTech Communications|
+|11|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|12|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|152.26.231.93|9443|United States|Concord|MCNC|
+|14|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|15|152.26.229.46|9443|United States|Concord|MCNC|
+|16|192.99.169.19|8446|Canada|Beauharnois|OVH SAS|
+|17|152.26.229.47|9443|United States|Concord|MCNC|
+|18|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|20|103.26.108.254|84|India|Thoothukudi|Niss Networks|
 
 
 
