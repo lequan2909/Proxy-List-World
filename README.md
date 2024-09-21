@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|36.73.135.151|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
 |4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|45.174.57.26|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|168.205.63.188|9090|Brazil|Frutal|TCF Telecomunicações Campo Florido Ltda|
+|7|103.110.34.133|8089|Indonesia|Purwodadi Grobogan|PT RECONET SEMESTA INDONESIA|
+|8|181.10.230.226|999|Argentina|Las Lajitas|Telecom Argentina S.A|
 |9|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|67.43.228.250|10873|Canada|Montreal|GloboTech Communications|
-|13|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
-|14|185.244.173.33|8118|Russia|Moscow|First Server Limited|
-|15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|152.26.231.83|9443|United States|Concord|MCNC|
-|17|157.20.144.138|8181|Indonesia|Ciputat|PT Lintas Network Solusi|
-|18|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|112.198.129.234|8085|Philippines|Nasugbu|Globe Telecom|
-|20|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
+|11|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|175.137.69.120|3128|Malaysia|Petaling Jaya|TM TECHNOLOGY SERVICES SDN BHD|
+|17|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|18|103.74.229.133|8080|Bangladesh|Kushtia|Windstream Communication Ltd|
+|19|38.156.73.26|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
