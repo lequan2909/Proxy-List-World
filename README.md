@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5410** proxies at the latest update. Usable proxies are below.
+> Scraper found **5345** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|654|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|589|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|142|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3356|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|4.234.77.255|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|116.111.117.246|10010|Vietnam|Hanoi|Viettel Corporation|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|36.66.111.81|8080|Indonesia|Pondok Labu|PT. Telekomunikasi Indonesia|
-|13|49.145.186.83|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|14|152.26.231.93|9443|United States|Concord|MCNC|
-|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|179.255.219.182|8080|Brazil|São Paulo|V tal|
-|17|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
-|18|201.65.173.180|8080|Brazil|Brasília|Claro S.A.|
-|19|72.10.160.172|2873|Canada|Montreal|GloboTech Communications|
-|20|177.234.236.134|8080|Ecuador|Machala|Ufinet Panama S.A.|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|4.234.77.255|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|124.105.48.232|8082|Philippines|Caloocan City|Philippine Long Distance Telephone Co.|
+|7|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|72.10.160.170|26571|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.172|29979|Canada|Montreal|GloboTech Communications|
+|11|152.26.229.93|9443|United States|Concord|MCNC|
+|12|152.26.229.86|9443|United States|Concord|MCNC|
+|13|72.10.160.171|13427|Canada|Montreal|GloboTech Communications|
+|14|112.198.129.234|8085|Philippines|Nasugbu|Globe Telecom|
+|15|67.43.236.20|3417|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|3417|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|5739|Canada|Montreal|GloboTech Communications|
+|18|181.78.73.73|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|19|72.10.164.178|14459|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.34|9443|United States|Concord|MCNC|
 
 
 
