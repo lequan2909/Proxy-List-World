@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|4|178.254.42.100|8118|Germany|Berlin|BLU-VH|
-|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|6|123.243.5.82|8888|Australia|Sydney|TPG Internet Pty Ltd|
-|7|191.81.233.59|8080|Argentina|Villa Nueva|Telefonica de Argentina|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|123.243.5.82|8888|Australia|Sydney|TPG Internet Pty Ltd|
+|4|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|5|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
+|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |8|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|103.169.148.2|1111|Indonesia|Pekanbaru|PT Kangen Network Solusindo|
-|12|104.129.194.99|8800|United States|Reston|ZSCALER, INC.|
-|13|51.159.99.38|3128|France|Paris|SCALEWAY|
-|14|152.26.229.86|9443|United States|Concord|MCNC|
-|15|152.26.229.83|9443|United States|Concord|MCNC|
+|9|223.206.117.35|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|10|103.156.114.24|8080|Indonesia|Bandung|MYREPUBLIC|
+|11|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|122.185.183.194|8080|India|Mumbai|Bharti Airtel Limited|
+|14|51.159.99.38|3128|France|Paris|SCALEWAY|
+|15|182.78.42.112|83|India|Ongole|Bharti Airtel|
 |16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|67.43.227.227|15605|Canada|Montreal|GloboTech Communications|
-|18|84.254.0.86|32650|Greece|Athens|Tellas S.A|
-|19|152.26.231.94|9443|United States|Concord|MCNC|
-|20|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
+|18|191.81.233.59|8080|Argentina|Villa Nueva|Telefonica de Argentina|
+|19|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|20|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 
 
 
