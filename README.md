@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|119.42.69.6|8080|Thailand|Bang Rak|CAT-BB|
-|7|85.175.5.50|3128|Russia|Krasnodar|Southen Telecommunication Maintainer|
-|8|103.59.44.33|2022|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|9|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|186.96.15.70|8080|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|11|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|14|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|15|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|16|152.26.231.86|9443|United States|Concord|MCNC|
-|17|152.26.229.86|9443|United States|Concord|MCNC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
+|8|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|9|49.48.53.128|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|10|36.93.163.219|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|14|46.161.194.72|3128|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|15|124.122.179.216|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|16|114.110.19.33|8080|Indonesia|Bandung|BITEK|
+|17|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 |18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|152.26.229.34|9443|United States|Concord|MCNC|
-|20|72.10.164.178|27419|Canada|Montreal|GloboTech Communications|
+|19|116.111.117.246|10010|Vietnam|Hanoi|Viettel Corporation|
+|20|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
