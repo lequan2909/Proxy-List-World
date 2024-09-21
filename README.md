@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|171.235.149.110|1007|Vietnam|Thu Dau Mot|Viettel Corporation|
-|4|203.150.113.50|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|2|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
 |5|18.228.173.216|3128|Brazil|São Paulo|Amazon Technologies Inc.|
 |6|79.143.177.29|21972|Germany|Munich|Contabo GmbH|
-|7|103.234.31.59|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
-|8|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|116.111.117.246|10010|Vietnam|Hanoi|Viettel Corporation|
+|7|204.199.120.60|8080|Colombia|Bogotá|Sistemas Telecomunicaciones Y Biomedicos De Colombia SAS|
+|8|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|119.235.209.77|3125|Indonesia|Senen|PT. Mora Telematika Indonesia|
+|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |14|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|16|103.125.18.22|8080|Indonesia|Tangerang|JAVAMEDIA|
-|17|152.26.229.93|9443|United States|Concord|MCNC|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|24.172.82.94|53281|United States|Concord|Spectrum|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
