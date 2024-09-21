@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|171.228.150.134|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|3|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|2|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|4|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
 |5|189.113.117.135|8080|Brazil|Sorriso|LCI Equipamentos de Informatica LTDA - LCI Telecom|
-|6|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|123.243.5.82|8888|Australia|Sydney|TPG Internet Pty Ltd|
-|11|103.186.204.52|8089|Indonesia|Tasikmalaya|PT Afna Digital Indonesia|
-|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|13|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|171.228.150.134|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|123.243.5.82|8888|Australia|Sydney|TPG Internet Pty Ltd|
+|8|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
+|9|171.228.150.134|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
+|10|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|200.39.120.78|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|12|202.93.244.98|8080|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
+|13|160.202.42.156|80|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
+|14|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
 |15|152.26.229.34|9443|United States|Concord|MCNC|
 |16|152.26.229.46|9443|United States|Concord|MCNC|
-|17|67.43.227.228|15731|Canada|Montreal|GloboTech Communications|
-|18|123.243.5.82|8888|Australia|Sydney|TPG Internet Pty Ltd|
-|19|152.26.231.83|9443|United States|Concord|MCNC|
-|20|72.10.160.90|19307|Canada|Montreal|GloboTech Communications|
+|17|152.26.231.83|9443|United States|Concord|MCNC|
+|18|152.26.229.93|9443|United States|Concord|MCNC|
+|19|147.45.74.178|3128|Sweden|Stockholm|Aeza International LTD|
+|20|189.113.117.135|8080|Brazil|Sorriso|LCI Equipamentos de Informatica LTDA - LCI Telecom|
 
 
 
