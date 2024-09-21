@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|6|4.234.77.255|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|103.176.96.211|8090|Indonesia|Purwakarta|PT Global Sarana Elektronika|
-|8|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|152.26.231.93|9443|United States|Concord|MCNC|
-|14|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|67.43.236.20|20253|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.19|12285|Canada|Montreal|GloboTech Communications|
-|18|140.238.230.215|3128|India|Mumbai|Oracle Corporation|
-|19|72.10.164.178|15635|Canada|Montreal|GloboTech Communications|
-|20|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|4.234.77.255|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|175.137.69.120|3128|Malaysia|Petaling Jaya|TM TECHNOLOGY SERVICES SDN BHD|
+|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|9|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|10|159.65.237.225|1693|United States|North Bergen|DigitalOcean, LLC|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|14|190.187.163.2|999|Peru|Lima region|Americatel Peru S.A.|
+|15|152.26.231.93|9443|United States|Concord|MCNC|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|18|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
+|19|160.202.42.156|80|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
+|20|67.43.236.20|16973|Canada|Montreal|GloboTech Communications|
 
 
 
