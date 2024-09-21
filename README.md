@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
-|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|201.71.3.45|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|9|122.54.165.123|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|103.90.67.35|8080|Indonesia|Bengkalis|PT Rajawali Bintang Cemerlang Telkomedia|
-|13|177.136.86.5|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
-|14|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|152.26.231.83|9443|United States|Concord|MCNC|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|103.164.116.172|8080|Indonesia|Jakarta|SOLUSINET|
-|19|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|210.5.104.126|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|6|103.156.74.186|8080|Indonesia|Gianyar|PT Trika Global Media|
+|7|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|103.36.10.200|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|10|103.22.99.93|7777|Indonesia|Magetan|KHALISTAGROUP|
+|11|39.62.4.164|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
+|12|120.28.220.26|8080|Philippines|Cagayan de Oro|Globe Telecom|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|47.88.17.136|18080|United States|Minkler|Alibaba.com LLC|
+|15|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|103.35.109.205|58080|Bangladesh|Dhaka|Ranks ITT|
+|17|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|18|161.34.36.127|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
