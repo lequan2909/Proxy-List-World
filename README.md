@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|203.150.128.212|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|103.157.117.116|80|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
-|5|103.39.51.73|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|8|103.156.15.64|1080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|9|103.111.136.110|443|Indonesia|Samarinda|PT Mitra Lintas Multimedia|
-|10|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|11|71.14.23.121|8080|United States|Hoover|Spectrum|
-|12|103.171.83.253|8080|Indonesia|Karawang|PT Multi Network Indonesia|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|101.128.93.144|8090|Indonesia|Jakarta|CBN|
-|15|181.49.100.190|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|16|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|180.211.177.206|58080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
-|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|188.138.125.4|8080|Germany|Frankfurt am Main|velia.net Internetdienste GmbH|
+|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|203.190.46.131|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|8|189.195.139.178|999|Mexico|Tangancícuaro de Arista|Mega Cable, S.A. de C.V.|
+|9|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|177.130.25.76|8080|Brazil|Água Boa|Help Internet|
+|11|186.96.15.70|8080|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|12|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|103.254.106.78|8085|Indonesia|Lampung|PT Giga Patra Multimedia|
+|14|152.26.231.42|9443|United States|Concord|MCNC|
+|15|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|67.43.227.226|16541|Canada|Montreal|GloboTech Communications|
+|20|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
