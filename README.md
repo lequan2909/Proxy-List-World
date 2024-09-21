@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|103.87.169.195|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|159.65.237.225|1111|United States|North Bergen|DigitalOcean, LLC|
+|5|103.87.169.195|32650|India|Jaipur|Tejays Industries Pvt Ltd|
 |6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|103.76.151.74|8089|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|8|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
-|11|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|13|43.229.254.221|8181|Indonesia|Bandung|PT. Media Antar Nusa|
-|14|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|11|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|114.130.153.58|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|13|24.112.3.220|8080|United States|Durant|Vyve Broadband|
+|14|103.26.110.41|84|India|Chennai|Niss Networks|
 |15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |18|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
-|20|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
