@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|123.243.5.82|8888|Australia|Sydney|TPG Internet Pty Ltd|
-|2|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|3|189.113.117.135|8080|Brazil|Sorriso|LCI Equipamentos de Informatica LTDA - LCI Telecom|
-|4|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
-|5|200.39.139.65|999|Chile|Santiago|Iconex SPA|
-|6|104.129.194.99|8800|United States|Reston|ZSCALER, INC.|
-|7|157.120.35.12|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|112.78.134.133|7777|Indonesia|Jakarta|Biznet Networks|
-|9|177.234.236.134|8080|Ecuador|Machala|Ufinet Panama S.A.|
-|10|104.129.194.99|8800|United States|Reston|ZSCALER, INC.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|123.243.5.82|8888|Australia|Sydney|TPG Internet Pty Ltd|
+|3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|4|189.113.117.135|8080|Brazil|Sorriso|LCI Equipamentos de Informatica LTDA - LCI Telecom|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|103.165.155.109|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|7|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
+|8|213.149.182.98|8080|Cyprus|Limassol|CYTANET - Cyprus Telecommunications Authority|
+|9|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|10|157.120.35.12|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |11|152.26.231.94|9443|United States|Concord|MCNC|
 |12|152.26.231.93|9443|United States|Concord|MCNC|
 |13|152.26.229.47|9443|United States|Concord|MCNC|
 |14|152.26.229.86|9443|United States|Concord|MCNC|
-|15|93.171.130.11|3128|Ukraine|Dnipro|Shaporenko Yuri Nikolaevich|
-|16|72.10.164.178|30077|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.46|9443|United States|Concord|MCNC|
-|18|72.10.160.94|9401|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.19|14463|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.93|9443|United States|Concord|MCNC|
+|15|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|16|152.26.229.46|9443|United States|Concord|MCNC|
+|17|45.231.220.78|999|Mexico|Tijuana|Distrokom S De RL De CV|
+|18|152.26.229.93|9443|United States|Concord|MCNC|
+|19|117.102.86.148|8080|Indonesia|Jakarta|BIZNET|
+|20|51.159.99.38|3128|France|Paris|SCALEWAY|
 
 
 
