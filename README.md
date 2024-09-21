@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|116.80.92.230|3128|Japan|Shimomeguro|InfoSphere|
-|5|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|7|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
-|8|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|103.165.157.79|8090|Indonesia|Taman|MEGADATA-ISP|
-|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|13|115.72.40.17|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|14|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|45.174.79.95|999|Mexico|Delicias|Raul Duarte Urita|
-|17|117.0.180.218|5004|Vietnam|Tuyên Quang|Viettel Group|
-|18|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|19|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|115.72.160.45|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|2|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|4|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|203.150.128.251|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|93.85.78.49|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|9|44.243.136.16|3128|United States|Portland|Amazon.com, Inc.|
+|10|212.112.113.182|3128|Kyrgyzstan|Bishkek|AkNet|
+|11|119.93.148.191|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|103.157.117.116|80|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
+|14|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|117.102.103.146|9890|Indonesia|Jakarta Pusat|BIZNET|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
