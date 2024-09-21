@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.105.18.72|10004|Vietnam|Da Nang|Viettel Corporation|
 |3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|103.126.86.17|3127|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
-|5|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|6|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|103.217.224.27|8085|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|4|116.102.34.142|10003|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|5|115.72.167.56|10006|Vietnam|Vũng Tàu|VIETELmetro|
+|6|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|177.93.59.54|999|Colombia|Pueblo Rico|TV AZTECA SUCURSAL COLOMBIA|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|179.43.96.178|8080|Peru|Arequipa|GLG PERU SAC|
-|15|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|16|211.109.199.99|80|South Korea|Yongin-si|SK Broadband Co Ltd|
-|17|171.232.191.206|10002|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|18|185.98.219.252|8080|Türkiye|Istanbul|Filika Internet ve Iletisim Hizmetleri A.S.|
-|19|115.72.175.163|10002|Vietnam|Thị Trấn Long Điền|VIETELmetro|
-|20|115.72.160.189|10003|Vietnam|Vũng Tàu|VIETELmetro|
+|9|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|185.98.219.252|8080|Türkiye|Istanbul|Filika Internet ve Iletisim Hizmetleri A.S.|
+|11|166.159.90.56|53281|United States|Douglassville|Verizon Business|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|59.0.73.73|8080|South Korea|Gwangju|Korea Telecom|
+|14|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|186.3.76.227|999|Ecuador|Guayaquil|Telconet S.A|
+|16|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|115.72.175.163|10002|Vietnam|Thị Trấn Long Điền|VIETELmetro|
+|18|115.72.160.189|10006|Vietnam|Vũng Tàu|VIETELmetro|
+|19|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|20|171.232.191.206|10002|Vietnam|Ho Chi Minh City|Viettel Corporation|
 
 
 
