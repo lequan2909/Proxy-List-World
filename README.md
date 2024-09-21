@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|222.127.50.56|8082|Philippines|Lahug|INNOVE|
-|4|103.178.42.241|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
-|5|203.150.128.193|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|6|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|9|190.94.212.149|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|10|41.243.15.42|8080|DR Congo|Kinshasa|Airtel CD Kins|
-|11|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
-|12|152.26.231.93|9443|United States|Concord|MCNC|
-|13|67.43.228.253|26183|Canada|Montreal|GloboTech Communications|
-|14|103.127.220.106|8181|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|15|212.252.71.9|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|152.26.229.47|9443|United States|Concord|MCNC|
-|19|178.212.48.80|8080|Poland|Zielona Góra|Lubuskie Sieci Swiatlowodowe Sp. z o. o.|
-|20|152.26.231.83|9443|United States|Concord|MCNC|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|5|4.234.77.255|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|83.229.61.203|8118|Italy|Milan|Interkvm Host SRL|
+|7|103.171.244.40|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|8|203.190.44.251|8080|Indonesia|Jogonalan|PT Jaring Lintas Utara|
+|9|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|10|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|179.189.50.160|80|Brazil|Sinop|Avato Tecnologia S.A|
+|15|181.209.82.154|23500|Argentina|Caseros|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|16|222.127.50.56|8082|Philippines|Lahug|INNOVE|
+|17|185.244.173.33|8118|Russia|Moscow|First Server Limited|
+|18|152.26.231.93|9443|United States|Concord|MCNC|
+|19|36.66.111.81|8080|Indonesia|Pondok Labu|PT. Telekomunikasi Indonesia|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
