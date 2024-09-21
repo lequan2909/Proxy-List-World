@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |2|36.73.135.151|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
 |3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|41.111.167.61|80|Algeria|Beni Saf|Algerie Telecom|
-|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|8|103.191.155.30|1080|Indonesia|Majalengka|PT Ilham Wifi Solution|
-|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|10|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|12|103.147.118.240|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
-|13|4.234.77.255|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|1.160.6.242|8081|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|103.176.96.211|8090|Indonesia|Purwakarta|PT Global Sarana Elektronika|
-|17|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|19|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|20|152.26.229.42|9443|United States|Concord|MCNC|
+|4|51.255.204.242|8392|France|Gravelines|OVH SAS|
+|5|4.234.77.255|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|8|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|103.245.16.35|8080|Indonesia|Depok|PT Quantum Tera Network|
+|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|45.70.202.233|999|Ecuador|Quito|Ufinet Panama S.A.|
+|13|201.47.88.21|3128|Brazil|Maringá|Vivo|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|16|14.224.147.249|8080|Vietnam|Hanoi|VNPT|
+|17|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
