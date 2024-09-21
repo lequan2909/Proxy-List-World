@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|182.253.233.58|8080|Indonesia|Jakarta|BIZNET|
-|4|177.68.149.122|8080|Brazil|Barueri|Vivo|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|180.190.200.77|8082|Philippines|Lahug|Globe Telecom|
-|7|31.211.82.232|3128|Russia|Tomsk|OOO NETCOM|
-|8|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|191.102.248.1|8085|Argentina|Rosario|IP·RED|
-|10|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|103.124.251.12|8081|Bangladesh|Dhaka|Earth Telecommunication|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|61.91.162.126|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|152.26.231.83|9443|United States|Concord|MCNC|
-|19|152.26.229.47|9443|United States|Concord|MCNC|
-|20|67.43.227.228|5671|Canada|Montreal|GloboTech Communications|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|5|182.253.233.58|8080|Indonesia|Jakarta|BIZNET|
+|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|152.26.231.83|9443|United States|Concord|MCNC|
+|13|152.26.229.47|9443|United States|Concord|MCNC|
+|14|152.26.229.46|9443|United States|Concord|MCNC|
+|15|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|16|152.26.229.34|9443|United States|Concord|MCNC|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
