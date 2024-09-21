@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|6|118.173.5.133|8080|Thailand|Phan Thong|TOT Public Company Limited|
+|2|121.184.173.215|8080|South Korea|Cheonan|Korea Telecom|
+|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|4|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|5|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |7|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|74.48.114.199|8118|United States|Los Angeles|Multacom Corporation|
-|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|11|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|12|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|114.9.26.122|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|11|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 |14|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
-|15|103.177.177.249|8080|Indonesia|Jakarta|PT Milenial Inti Telekomunikasi|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|103.157.117.116|80|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
+|15|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|113.192.30.135|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
 |18|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|19|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
