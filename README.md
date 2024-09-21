@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|203.150.128.176|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|35.94.217.206|3128|United States|Portland|Amazon.com, Inc.|
-|6|103.157.117.116|80|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
-|7|37.255.228.1|3128|Iran|Isfahan|Iran Telecommunication Company PJS|
-|8|35.94.217.206|3128|United States|Portland|Amazon.com, Inc.|
-|9|103.176.96.134|8082|Indonesia|Purwakarta|PT Global Sarana Elektronika|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|116.111.117.246|10010|Vietnam|Hanoi|Viettel Corporation|
-|12|203.192.217.6|8080|India|Delhi|Entire In2Cable|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|124.105.48.232|8082|Philippines|Caloocan City|Philippine Long Distance Telephone Co.|
-|17|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|18|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|19|45.70.203.98|999|Ecuador|Quito|Ufinet Panama S.A.|
-|20|202.93.244.98|8080|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|5|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|6|35.94.217.206|3128|United States|Portland|Amazon.com, Inc.|
+|7|103.157.117.116|80|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
+|8|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|158.140.169.9|8081|Indonesia|Jakarta|MYREPUBLIC|
+|11|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|12|35.94.217.206|3128|United States|Portland|Amazon.com, Inc.|
+|13|45.70.203.98|999|Ecuador|Quito|Ufinet Panama S.A.|
+|14|202.154.18.141|8088|Indonesia|Jombang|DIGITNET|
+|15|103.234.159.5|8080|India|Bengaluru|MWPL|
+|16|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|181.224.205.42|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
+|18|103.48.70.145|83|India|Hyderabad|Country Online Services PVT LTD|
+|19|180.190.200.77|8082|Philippines|Lahug|Globe Telecom|
+|20|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
