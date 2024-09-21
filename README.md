@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|103.157.117.116|80|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
 |4|116.80.92.230|3128|Japan|Shimomeguro|InfoSphere|
 |5|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|6|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|7|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|13.40.11.160|3128|United Kingdom|London|Amazon Technologies Inc.|
-|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|10|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|45.225.120.181|40033|Brazil|Aracaju|Centrosulnet Informatica Eireli|
-|14|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|17|131.0.204.227|8080|Brazil|Campos Borges|CB NET TELECOM LTDA|
-|18|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|129.150.42.51|3128|Singapore|Singapore|Oracle Corporation|
+|6|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|27.73.100.249|10005|Vietnam|Hanoi|Newass2011xDSLHN|
+|12|115.72.167.56|10004|Vietnam|Vũng Tàu|VIETELmetro|
+|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|115.72.160.189|10006|Vietnam|Vũng Tàu|VIETELmetro|
+|15|181.78.82.211|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|16|110.78.154.138|8080|Thailand|Ko Samui|CAT-BB|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|117.1.229.49|5004|Vietnam|Haiphong|Viettel Corporation|
+|19|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
