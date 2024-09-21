@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|4|172.233.156.53|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|152.26.229.46|9443|United States|Concord|MCNC|
-|9|152.26.229.83|9443|United States|Concord|MCNC|
-|10|72.10.160.90|23875|Canada|Montreal|GloboTech Communications|
-|11|152.26.229.47|9443|United States|Concord|MCNC|
-|12|72.10.164.178|15169|Canada|Montreal|GloboTech Communications|
-|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|67.43.228.254|28515|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|15169|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|27535|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.173|2879|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|15169|Canada|Montreal|GloboTech Communications|
-|19|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|20|160.119.251.245|8080|South Africa|Cape Town|Hostafrica|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|110.164.128.124|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|5|201.251.61.143|8080|Argentina|Laferrere|Telefonica de Argentina|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|103.22.99.93|7777|Indonesia|Magetan|KHALISTAGROUP|
+|8|192.145.205.110|8080|Brazil|São Francisco|Vianet Guaraciama Eireli ME|
+|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|10|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
+|11|189.193.225.10|999|Mexico|Santo Domingo Tehuantepec|Mega Cable, S.A. de C.V.|
+|12|101.255.166.241|8080|Indonesia|Bekasi|PT Remala Abadi|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
+|16|182.78.42.112|83|India|Ongole|Bharti Airtel|
+|17|152.26.229.46|9443|United States|Concord|MCNC|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|152.26.229.47|9443|United States|Concord|MCNC|
+|20|103.48.71.18|83|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
