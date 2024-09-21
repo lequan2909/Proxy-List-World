@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|36.72.250.187|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|3|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|4|210.87.125.58|1080|Indonesia|Kediri|CV Brawijaya Giga Network|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
-|9|158.140.169.9|8081|Indonesia|Jakarta|MYREPUBLIC|
-|10|51.159.99.38|3128|France|Paris|SCALEWAY|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|72.10.160.171|22197|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|22105|Canada|Montreal|GloboTech Communications|
-|14|51.159.99.38|3128|France|Paris|SCALEWAY|
-|15|67.43.228.254|2471|Canada|Montreal|GloboTech Communications|
-|16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|152.26.229.86|9443|United States|Concord|MCNC|
-|18|67.43.228.254|2471|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|28147|Canada|Montreal|GloboTech Communications|
-|20|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|36.72.250.187|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|4|51.159.99.38|3128|France|Paris|SCALEWAY|
+|5|200.106.124.39|999|Peru|Tacna|Telefonica del Peru|
+|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|8|103.157.59.75|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
+|9|159.65.237.225|1822|United States|North Bergen|DigitalOcean, LLC|
+|10|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|12|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|51.159.99.38|3128|France|Paris|SCALEWAY|
+|17|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|20|103.124.175.225|83|India|Panipat|Shirsty Internet Services Pvt Ltd|
 
 
 
