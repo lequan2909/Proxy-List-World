@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5094** proxies at the latest update. Usable proxies are below.
+> Scraper found **5098** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|699|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|680|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|137|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|160|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3000|✅|
 
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|4|115.72.160.189|10006|Vietnam|Vũng Tàu|VIETELmetro|
-|5|93.171.130.11|3128|Ukraine|Dnipro|Shaporenko Yuri Nikolaevich|
-|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|7|41.65.160.171|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|112.198.129.234|8085|Philippines|Nasugbu|Globe Telecom|
-|10|101.255.166.241|8080|Indonesia|Bekasi|PT Remala Abadi|
-|11|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|122.222.108.59|8080|Japan|Ōgaki|ARTERIA Networks Corporation|
-|14|178.212.48.80|8080|Poland|Zielona Góra|Lubuskie Sieci Swiatlowodowe Sp. z o. o.|
-|15|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|152.26.231.94|9443|United States|Concord|MCNC|
-|17|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|72.10.160.93|27741|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.83|9443|United States|Concord|MCNC|
-|20|136.56.153.216|8118|United States|Cary|Google Fiber Inc.|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|212.46.210.240|8080|Russia|Moscow|VympelKom broadband internet|
+|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|8|115.72.160.189|10006|Vietnam|Vũng Tàu|VIETELmetro|
+|9|115.72.40.17|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|10|159.65.237.225|1981|United States|North Bergen|DigitalOcean, LLC|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|180.191.51.166|8082|Philippines|Tarlac City|Globe Telecom|
+|13|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|152.26.229.47|9443|United States|Concord|MCNC|
+|15|182.252.70.220|8082|Bangladesh|Kāfrul|Agni Systems Limited|
+|16|72.10.164.178|3683|Canada|Montreal|GloboTech Communications|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|67.43.236.20|18827|Canada|Montreal|GloboTech Communications|
+|19|49.51.244.112|8888|United States|San Jose|OPHL|
+|20|72.10.160.170|21047|Canada|Montreal|GloboTech Communications|
 
 
 
