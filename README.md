@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|7|103.191.251.34|8083|Indonesia|Batam|PT Mulia Batam Net|
-|8|101.255.117.197|8085|Indonesia|Jakarta|PT Remala Abadi|
-|9|18.228.173.216|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|10|44.243.136.16|3128|United States|Portland|Amazon.com, Inc.|
-|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|44.243.136.16|3128|United States|Portland|Amazon.com, Inc.|
-|13|103.239.254.72|58080|Bangladesh|Dhaka|Carnival Internet|
-|14|103.245.205.226|6969|Bangladesh|Dhaka|Next Online Limited|
-|15|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
+|4|27.73.99.242|10005|Vietnam|Hanoi|Newass2011xDSLHN|
+|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|6|18.228.173.216|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|191.102.254.50|8085|Argentina|Rosario|IP·RED|
+|9|181.49.100.190|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|38.9.48.212|8080|Dominican Republic|Santiago de los Caballeros|INVERSIONES BONAFER, SRL|
+|15|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|19|103.166.8.228|1080|Indonesia|Jakarta|PT Akses Bersama Sedaya|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
