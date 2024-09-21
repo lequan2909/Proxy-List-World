@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|5.104.83.232|8090|Japan|Tokyo|Contabo Asia Private Limited|
+|4|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |5|18.228.173.216|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|6|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
-|7|194.156.88.125|2411|United Kingdom|Bradford|aurologic GmbH|
-|8|71.14.23.121|8080|United States|Hoover|Spectrum|
-|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|11|45.174.57.22|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
-|12|103.153.62.155|8080|Indonesia|Jakarta|IMEDIANET|
-|13|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
-|14|201.71.2.127|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|8|45.177.179.65|999|Mexico|San Luis Potosí City|Wantelco SAS de CV|
+|9|71.14.23.121|8080|United States|Hoover|Spectrum|
+|10|103.184.54.3|8080|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|11|5.58.97.89|8080|Ukraine|Ternopil|Columbus|
+|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|114.130.183.66|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|14|187.188.16.28|999|Mexico|Xalapa|Total Play Telecomunicaciones SA De CV|
 |15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|103.211.107.230|8080|Indonesia|Lampung|PT Atmega Telecomindo Nusantara|
-|17|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|45.230.51.130|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
-|19|190.94.212.150|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|19|102.67.101.242|8080|Burkina Faso|Ouagadougou|Virtual Technologies and Solutions|
+|20|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
