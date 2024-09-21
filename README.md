@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|5|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
-|6|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|186.125.218.149|999|Argentina|El Carmen|Telecom Argentina S.A.|
-|11|116.111.117.246|10010|Vietnam|Hanoi|Viettel Corporation|
-|12|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|126.209.13.226|8082|Philippines|Manila|Infinivan Incorporated|
-|14|152.26.231.93|9443|United States|Concord|MCNC|
-|15|152.26.229.83|9443|United States|Concord|MCNC|
-|16|152.26.231.86|9443|United States|Concord|MCNC|
-|17|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|18|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|19|152.26.231.83|9443|United States|Concord|MCNC|
-|20|147.45.74.178|3128|Sweden|Stockholm|Aeza International LTD|
+|2|203.150.113.50|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|3|103.156.224.66|8080|Indonesia|Bogor|PT Lintas Citra Abadi|
+|4|18.228.173.216|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|5|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|80.92.214.61|8424|Russia|Saratov|MTS PJSC|
+|7|124.121.177.184|8080|Thailand|Bangkok|TRUE|
+|8|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|79.143.177.29|21972|Germany|Munich|Contabo GmbH|
+|11|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|12|27.147.139.241|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|13|119.47.90.228|3127|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|14|103.26.110.37|84|India|Chennai|Niss Networks|
+|15|212.110.188.211|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|16|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|17|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|36.94.60.26|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 
 
 
