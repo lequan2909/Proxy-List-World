@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |2|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|3|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|115.72.35.234|10003|Vietnam|Ho Chi Minh City|VIETELmetro|
-|6|103.125.17.41|8080|Indonesia|Tangerang|JAVAMEDIA|
-|7|45.162.78.222|8080|Colombia|Armenia|InterNexa Global Network|
+|3|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|7|115.72.169.48|10001|Vietnam|Thành Phố Bà Rịa|VIETELmetro|
 |8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|136.56.153.216|8118|United States|Cary|Google Fiber Inc.|
-|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|170.78.61.26|8080|Brazil|Itarantim|Maiqvox Telecom|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|14.224.147.249|8080|Vietnam|Hanoi|VNPT|
-|14|152.26.231.93|9443|United States|Concord|MCNC|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|152.26.229.46|9443|United States|Concord|MCNC|
-|18|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|20|67.43.227.227|11627|Canada|Montreal|GloboTech Communications|
+|9|202.43.110.139|8000|Vietnam|Hanoi|DTS Telecom Company Limited|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
+|12|152.26.231.93|9443|United States|Concord|MCNC|
+|13|152.26.229.46|9443|United States|Concord|MCNC|
+|14|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|16|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|152.26.229.86|9443|United States|Concord|MCNC|
+|18|152.26.231.94|9443|United States|Concord|MCNC|
+|19|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|20|72.10.160.171|10449|Canada|Montreal|GloboTech Communications|
 
 
 
