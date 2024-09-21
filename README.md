@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|36.72.250.187|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|6|4.234.78.115|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|36.95.12.154|8080|Indonesia|Padang|PT. Telekomunikasi Indonesia|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|103.26.110.41|84|India|Chennai|Niss Networks|
-|11|190.114.245.122|999|Venezuela|Caracas|Gold Data USA Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|36.72.250.187|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|103.178.194.51|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|200.106.124.39|999|Peru|Tacna|Telefonica del Peru|
+|7|190.94.212.82|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|8|41.169.150.194|8080|South Africa|Johannesburg|Liquid Telecommunications South Africa (Pty) Ltd|
+|9|103.114.52.72|8090|Indonesia|Boyolali|Proxy-registered|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
 |12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|190.94.212.82|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|15|152.26.231.93|9443|United States|Concord|MCNC|
-|16|103.247.23.192|8080|Indonesia|Bekasi|PT wifian Solution|
-|17|103.208.102.6|8080|Indonesia|Wonosobo|PT Tidar Lintas Nusa|
-|18|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|19|152.26.231.83|9443|United States|Concord|MCNC|
-|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|158.140.169.9|8081|Indonesia|Jakarta|MYREPUBLIC|
+|14|152.26.231.93|9443|United States|Concord|MCNC|
+|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|152.26.231.83|9443|United States|Concord|MCNC|
+|17|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|18|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
 
