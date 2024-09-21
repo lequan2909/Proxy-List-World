@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.93.39|3128|Japan|Shimomeguro|InfoSphere|
-|3|198.135.49.151|3128|United States|Dallas|Majestic Hosting Solutions, LLC|
-|4|189.232.93.142|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|5|182.253.109.226|8080|Indonesia|Jakarta|Biznet Metronet|
-|6|198.135.49.151|3128|United States|Dallas|Majestic Hosting Solutions, LLC|
-|7|189.113.117.135|8080|Brazil|Sorriso|LCI Equipamentos de Informatica LTDA - LCI Telecom|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|10|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
-|11|123.243.5.82|8888|Australia|Sydney|TPG Internet Pty Ltd|
-|12|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|80.92.214.61|8424|Russia|Saratov|MTS PJSC|
-|16|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
-|17|131.100.51.45|999|Colombia|Neiva|Fibernet TV SAS|
-|18|45.174.57.22|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
-|19|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|20|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|3|189.232.93.142|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|4|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|5|189.113.117.135|8080|Brazil|Sorriso|LCI Equipamentos de Informatica LTDA - LCI Telecom|
+|6|182.253.109.226|8080|Indonesia|Jakarta|Biznet Metronet|
+|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|8|123.243.5.82|8888|Australia|Sydney|TPG Internet Pty Ltd|
+|9|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
+|10|198.135.49.151|3128|United States|Dallas|Majestic Hosting Solutions, LLC|
+|11|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|13|179.1.141.10|8080|Colombia|Bogotá|Internexa S.a. E.S.P|
+|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|126.209.13.226|8082|Philippines|Manila|Infinivan Incorporated|
+|18|45.231.220.78|999|Mexico|Tijuana|Distrokom S De RL De CV|
+|19|36.66.111.81|8080|Indonesia|Pondok Labu|PT. Telekomunikasi Indonesia|
+|20|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
