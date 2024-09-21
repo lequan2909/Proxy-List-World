@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|116.80.92.231|3128|Japan|Shimomeguro|InfoSphere|
 |2|116.80.93.39|3128|Japan|Shimomeguro|InfoSphere|
-|3|189.232.93.142|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|4|36.72.250.187|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|5|36.73.135.151|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|6|82.64.186.155|8080|France|Paris|Proxad / Free SAS|
-|7|123.243.5.82|8888|Australia|Sydney|TPG Internet Pty Ltd|
-|8|94.231.192.226|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|9|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|10|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
-|11|159.65.237.225|1693|United States|North Bergen|DigitalOcean, LLC|
-|12|46.164.236.43|8888|Russia|Voronezh|AO IK "Informsvyaz-Chernozemye"|
-|13|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
-|14|94.70.195.145|8080|Greece|Athens|Ote SA (Hellenic Telecommunications Organisation)|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|17|182.253.159.9|8080|Indonesia|Bandung|BIZNET|
+|3|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|4|189.232.93.142|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|36.73.135.151|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|8|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|11|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
+|12|46.252.35.91|8080|Albania|Tirana|Vodafone Albania Sh.A.|
+|13|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|14|103.172.42.187|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|116.80.92.231|3128|Japan|Shimomeguro|InfoSphere|
+|17|152.69.205.187|8118|Japan|Osaka|Oracle Corporation|
 |18|45.174.57.26|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
-|19|116.80.92.231|3128|Japan|Shimomeguro|InfoSphere|
-|20|103.172.42.187|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|19|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|152.26.229.34|9443|United States|Concord|MCNC|
 
 
 
