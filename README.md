@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|103.125.174.23|8181|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|5|38.156.75.13|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|8|103.143.169.153|84|India|Hyderabad|Aspt Networks Pvt Ltd|
-|9|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|152.26.229.83|9443|United States|Concord|MCNC|
-|12|152.26.231.86|9443|United States|Concord|MCNC|
-|13|72.10.164.178|1101|Canada|Montreal|GloboTech Communications|
-|14|185.244.173.33|8118|Russia|Moscow|First Server Limited|
-|15|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|16|152.26.231.83|9443|United States|Concord|MCNC|
-|17|181.78.82.211|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|18|67.43.227.227|28435|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|28435|Canada|Montreal|GloboTech Communications|
-|20|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|3|103.193.144.52|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|103.102.15.41|18181|Indonesia|Rembangan|FISNET|
+|8|152.26.229.83|9443|United States|Concord|MCNC|
+|9|152.26.231.86|9443|United States|Concord|MCNC|
+|10|152.26.231.83|9443|United States|Concord|MCNC|
+|11|24.106.221.230|53281|United States|Wilmington|Spectrum|
+|12|181.78.95.50|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|13|72.10.164.178|26709|Canada|Montreal|GloboTech Communications|
+|14|152.26.229.34|9443|United States|Concord|MCNC|
+|15|152.26.231.93|9443|United States|Concord|MCNC|
+|16|67.43.227.227|14793|Canada|Montreal|GloboTech Communications|
+|17|202.173.220.50|1122|Thailand|Bangkok|KIRZ Company Limited|
+|18|94.102.234.186|32650|Montenegro|Podgorica|VOLI-MNE|
+|19|72.10.164.178|26709|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
