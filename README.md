@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|152.26.229.86|9443|United States|Concord|MCNC|
-|8|152.26.231.93|9443|United States|Concord|MCNC|
-|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|10|67.43.236.20|22649|Canada|Montreal|GloboTech Communications|
-|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|12|152.26.229.47|9443|United States|Concord|MCNC|
-|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|14|67.43.228.253|17817|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.173|32239|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|17817|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|14709|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|17955|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|14709|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|22649|Canada|Montreal|GloboTech Communications|
+|7|43.153.40.218|59394|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|186.113.232.105|8080|Colombia|Pereira|Colombia Telecomunicaciones S.a. ESP|
+|10|152.26.229.86|9443|United States|Concord|MCNC|
+|11|152.26.231.93|9443|United States|Concord|MCNC|
+|12|178.211.130.186|3128|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|122.50.6.186|8080|Indonesia|Jakarta Pusat|PT Mora Telematika Indonesia|
+|15|152.26.229.47|9443|United States|Concord|MCNC|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|72.10.164.178|27467|Canada|Montreal|GloboTech Communications|
+|18|111.118.153.229|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|19|67.43.236.20|13307|Canada|Montreal|GloboTech Communications|
+|20|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
 
 
 
