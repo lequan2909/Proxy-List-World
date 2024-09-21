@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|115.72.35.234|10003|Vietnam|Ho Chi Minh City|VIETELmetro|
-|3|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|4|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|8|115.72.167.56|10002|Vietnam|Vũng Tàu|VIETELmetro|
-|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|212.46.210.240|8080|Russia|Moscow|VympelKom broadband internet|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|152.26.229.34|9443|United States|Concord|MCNC|
-|15|152.26.231.93|9443|United States|Concord|MCNC|
-|16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|72.10.160.94|3947|Canada|Montreal|GloboTech Communications|
-|18|38.183.144.82|8181|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|19|72.10.164.178|19717|Canada|Montreal|GloboTech Communications|
-|20|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|5|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|115.72.167.56|10004|Vietnam|Vũng Tàu|VIETELmetro|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|212.46.210.240|8080|Russia|Moscow|VympelKom broadband internet|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|152.26.229.34|9443|United States|Concord|MCNC|
+|14|152.26.231.93|9443|United States|Concord|MCNC|
+|15|152.26.229.42|9443|United States|Concord|MCNC|
+|16|181.114.62.1|8085|Argentina|Ramallo|INTERAIR|
+|17|112.198.129.234|8085|Philippines|Nasugbu|Globe Telecom|
+|18|45.174.79.95|999|Mexico|Delicias|Raul Duarte Urita|
+|19|72.10.160.94|10219|Canada|Montreal|GloboTech Communications|
+|20|112.78.134.133|7777|Indonesia|Jakarta|Biznet Networks|
 
 
 
