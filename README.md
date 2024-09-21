@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|123.243.5.82|8888|Australia|Sydney|TPG Internet Pty Ltd|
-|3|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|5|77.255.101.65|8118|Poland|Krakow|Netia SA|
+|2|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|4|123.243.5.82|8888|Australia|Sydney|TPG Internet Pty Ltd|
+|5|103.102.12.153|8404|Indonesia|Rembangan|FISNET|
 |6|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
-|7|189.113.117.135|8080|Brazil|Sorriso|LCI Equipamentos de Informatica LTDA - LCI Telecom|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|152.69.205.187|8118|Japan|Osaka|Oracle Corporation|
-|10|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
-|11|177.93.40.56|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|12|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|152.26.229.34|9443|United States|Concord|MCNC|
-|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|152.26.231.93|9443|United States|Concord|MCNC|
-|16|67.43.228.253|19765|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|22673|Canada|Montreal|GloboTech Communications|
-|18|51.222.142.100|9595|Canada|Beauharnois|OVH SAS|
-|19|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|20|202.180.54.211|8080|Indonesia|Jakarta|PT. Panca Dewata Utama|
+|7|103.162.63.181|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|103.22.99.93|7777|Indonesia|Magetan|KHALISTAGROUP|
+|11|213.149.182.98|8080|Cyprus|Limassol|CYTANET - Cyprus Telecommunications Authority|
+|12|212.236.38.166|8081|Austria|Vienna|Video-Broadcast|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|101.255.166.241|8080|Indonesia|Bekasi|PT Remala Abadi|
+|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|51.222.142.100|9595|Canada|Beauharnois|OVH SAS|
 
 
 
