@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5002** proxies at the latest update. Usable proxies are below.
+> Scraper found **4975** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|620|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|593|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|159|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2965|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|3|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|152.69.205.187|8118|Japan|Osaka|Oracle Corporation|
+|3|93.171.130.11|3128|Ukraine|Dnipro|Shaporenko Yuri Nikolaevich|
 |4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|122.222.108.59|8080|Japan|Ōgaki|ARTERIA Networks Corporation|
-|6|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|7|103.63.26.226|1111|Indonesia|Tangerang|PT Global Media Data Prima|
-|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|9|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
-|10|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
-|11|51.159.99.38|3128|France|Paris|SCALEWAY|
-|12|45.6.224.76|999|Ecuador|Ambato|Teneda Corporación CIA. LTDA|
-|13|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|14|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|15|190.94.212.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|67.43.228.254|29215|Canada|Montreal|GloboTech Communications|
-|19|186.113.232.105|8080|Colombia|Pereira|Colombia Telecomunicaciones S.a. ESP|
-|20|181.114.62.1|8085|Argentina|Ramallo|INTERAIR|
+|5|116.111.117.246|10004|Vietnam|Hanoi|Viettel Corporation|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|110.235.250.77|8080|Cambodia|Phnom Penh|COGETEL Co|
+|10|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|152.26.229.46|9443|United States|Concord|MCNC|
+|13|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|152.26.231.42|9443|United States|Concord|MCNC|
+|15|103.131.232.126|8080|Australia|Goulburn|YLess4U Pty Ltd|
+|16|152.26.231.93|9443|United States|Concord|MCNC|
+|17|67.43.228.250|11265|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|2765|Canada|Montreal|GloboTech Communications|
+|19|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|67.43.236.20|27609|Canada|Montreal|GloboTech Communications|
 
 
 
