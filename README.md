@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|2|49.48.71.225|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|51.159.99.38|3128|France|Paris|SCALEWAY|
 |5|181.10.230.226|999|Argentina|Las Lajitas|Telecom Argentina S.A|
-|6|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
-|7|4.234.77.255|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|164.90.136.32|999|United States|Clifton|DigitalOcean, LLC|
-|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|103.199.139.14|83|India|Pune|Syscon Infoway Pvt. Ltd.|
-|11|131.100.51.81|999|Colombia|Neiva|Fibernet TV SAS|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|16|180.211.183.130|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
-|17|51.159.99.38|3128|France|Paris|SCALEWAY|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|67.43.227.229|10125|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.83|9443|United States|Concord|MCNC|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|160.154.163.18|8080|Ivory Coast|Abidjan|ORANGE COTE D'IVOIRE|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|4.234.77.255|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|51.159.99.38|3128|France|Paris|SCALEWAY|
+|12|103.126.219.37|8080|Bangladesh|Dhaka|MD IMTIAZ KHAN ABIR|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|152.26.231.83|9443|United States|Concord|MCNC|
+|16|51.159.99.38|3128|France|Paris|SCALEWAY|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|45.174.79.95|999|Mexico|Delicias|Raul Duarte Urita|
+|19|49.70.172.146|8089|China|Shanghai|Chinanet|
+|20|72.10.160.90|20467|Canada|Montreal|GloboTech Communications|
 
 
 
