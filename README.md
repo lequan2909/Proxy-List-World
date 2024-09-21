@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|5|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|171.6.78.146|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|1|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|7|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|10|115.72.160.189|10006|Vietnam|Vũng Tàu|VIETELmetro|
 |11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|36.93.32.137|8080|Indonesia|Tangerang|Telekomunikasi Indonesia|
-|15|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|12|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|34.100.188.246|8888|India|Mumbai|Google LLC|
 |16|152.26.229.46|9443|United States|Concord|MCNC|
-|17|113.160.154.23|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|67.43.236.20|13105|Canada|Montreal|GloboTech Communications|
-|20|116.108.3.8|10004|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|58.147.186.226|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
