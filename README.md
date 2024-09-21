@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|2|50.6.192.54|3128|United States|Jacksonville|Network Solutions, LLC|
 |3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|6|189.113.117.135|8080|Brazil|Sorriso|LCI Equipamentos de Informatica LTDA - LCI Telecom|
-|7|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|8|93.171.130.11|3128|Ukraine|Dnipro|Shaporenko Yuri Nikolaevich|
-|9|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|123.243.5.82|8888|Australia|Sydney|TPG Internet Pty Ltd|
-|12|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|103.156.114.24|8080|Indonesia|Bandung|MYREPUBLIC|
-|16|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
-|17|51.159.99.38|3128|France|Paris|SCALEWAY|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|152.26.231.93|9443|United States|Concord|MCNC|
-|20|175.137.69.120|3128|Malaysia|Petaling Jaya|TM TECHNOLOGY SERVICES SDN BHD|
+|4|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|201.134.169.214|8205|Mexico|Mexico City|Uninet S.A. de C.V.|
+|7|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
+|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|9|189.113.117.135|8080|Brazil|Sorriso|LCI Equipamentos de Informatica LTDA - LCI Telecom|
+|10|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|103.186.204.52|8089|Indonesia|Tasikmalaya|PT Afna Digital Indonesia|
+|13|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
+|14|123.243.5.82|8888|Australia|Sydney|TPG Internet Pty Ltd|
+|15|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|18|182.252.70.220|8082|Bangladesh|Kāfrul|Agni Systems Limited|
+|19|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|186.250.29.225|8080|Brazil|Santa Helena|KDM INTERNET TELECOMUNICACOES LTDA|
 
 
 
