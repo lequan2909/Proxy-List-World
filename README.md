@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|171.245.116.76|5000|Vietnam|Quảng Ninh|Viettel Corporation|
-|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|6|38.45.46.2|6332|Dominican Republic|Santo Domingo|FENIX NETWORKS, S.R.L.|
-|7|117.5.224.159|5102|Vietnam|Hanoi|VIETTEL|
-|8|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|27.147.137.90|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|11|103.166.158.53|3127|Indonesia|Bekasi|PT Timor Lintas Nusantara|
-|12|125.25.33.175|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|13|103.159.96.141|8080|Indonesia|Gresik|PT Jinde Grup Indonesia|
-|14|177.44.223.109|8080|Brazil|Mariópolis|Dataware Telecomunicações LTDA. - EPP|
-|15|180.190.200.77|8082|Philippines|Lahug|Globe Telecom|
-|16|97.76.251.138|8080|United States|Tampa|Spectrum|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|103.26.110.41|84|India|Chennai|Niss Networks|
-|20|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|6|45.188.156.217|8088|Brazil|Teresina|Marcelo & Renato Digital Net LTDA|
+|7|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|8|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
+|9|122.152.55.61|8080|Bangladesh|Chittagong|Innovative Online Ltd|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|103.162.62.250|8181|Indonesia|Yogyakarta|PT Ring Media Nusantara|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|202.145.3.242|8080|Indonesia|Jakarta|PT UniNET Media Sakti|
+|14|103.224.124.239|8080|Indonesia|Bogor|PT Curug Lintas Indonesia|
+|15|190.94.213.48|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|16|152.26.231.93|9443|United States|Concord|MCNC|
+|17|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|171.237.94.21|5000|Vietnam|Hanoi|Viettel Corporation|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
