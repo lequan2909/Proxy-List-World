@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|152.69.205.187|8118|Japan|Osaka|Oracle Corporation|
-|3|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|4|178.167.28.0|8080|Russia|Elektrostal|for Flex Ltd|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|50.6.192.27|3128|United States|Jacksonville|Network Solutions, LLC|
-|7|116.111.117.246|10004|Vietnam|Hanoi|Viettel Corporation|
-|8|198.135.49.151|3128|United States|Dallas|Majestic Hosting Solutions, LLC|
-|9|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|10|213.32.104.189|8080|Spain|Madrid|OVH SAS|
-|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|103.22.99.93|7777|Indonesia|Magetan|KHALISTAGROUP|
+|1|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|122.222.108.59|8080|Japan|Ōgaki|ARTERIA Networks Corporation|
+|4|36.88.125.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|5|101.255.166.241|8080|Indonesia|Bekasi|PT Remala Abadi|
+|6|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|1.32.59.217|47045|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|9|177.93.40.57|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|182.160.123.113|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|12|36.50.11.198|8080|Bangladesh|Dhaka|Stardust Telecom Ltd|
 |13|51.159.99.38|3128|France|Paris|SCALEWAY|
 |14|152.26.231.93|9443|United States|Concord|MCNC|
 |15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|190.94.213.48|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|17|72.10.160.170|23021|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|23021|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|31335|Canada|Montreal|GloboTech Communications|
-|20|36.72.250.187|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|16|36.72.250.187|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|189.113.117.135|8080|Brazil|Sorriso|LCI Equipamentos de Informatica LTDA - LCI Telecom|
+|19|72.10.160.173|22249|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.250|31335|Canada|Montreal|GloboTech Communications|
 
 
 
