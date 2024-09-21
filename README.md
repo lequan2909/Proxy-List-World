@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|4|4.234.77.255|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|122.3.159.79|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|152.26.229.34|9443|United States|Concord|MCNC|
-|12|72.10.164.178|18601|Canada|Montreal|GloboTech Communications|
-|13|152.26.231.42|9443|United States|Concord|MCNC|
-|14|111.118.153.229|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|15|72.10.160.170|23501|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|17|152.26.229.46|9443|United States|Concord|MCNC|
-|18|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
-|19|67.43.228.252|20421|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|1875|Canada|Montreal|GloboTech Communications|
+|1|124.121.104.173|8080|Thailand|Bangkok|TRUEBB|
+|2|91.202.72.105|8080|Ukraine|Kyiv|Main Gigatrans Infrastructure|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|125.26.5.140|8080|Thailand|Bangkok|TOT Public Company Limited|
+|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|152.26.229.34|9443|United States|Concord|MCNC|
+|9|148.72.140.24|30117|United States|St Louis|GoDaddy.com|
+|10|152.26.231.42|9443|United States|Concord|MCNC|
+|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|12|152.26.229.46|9443|United States|Concord|MCNC|
+|13|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|14|72.10.160.90|16999|Canada|Montreal|GloboTech Communications|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|67.43.227.227|2107|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|2283|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.47|9443|United States|Concord|MCNC|
+|19|126.209.13.226|8082|Philippines|Manila|Infinivan Incorporated|
+|20|176.236.232.50|9090|Türkiye|Kartal|Superonline Iletisim Hizmetleri A.S.|
 
 
 
