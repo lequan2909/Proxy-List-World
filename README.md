@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|5|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|8|115.72.160.189|10004|Vietnam|Vũng Tàu|VIETELmetro|
-|9|115.72.160.45|10002|Vietnam|Vũng Tàu|VIETELmetro|
-|10|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|11|115.72.35.234|10004|Vietnam|Ho Chi Minh City|VIETELmetro|
-|12|116.108.3.8|10002|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|27.147.155.42|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|15|116.108.27.11|10002|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|16|116.102.34.142|10003|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|171.232.191.206|10003|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|171.232.191.206|10003|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|2|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|3|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|5|116.105.58.35|10003|Vietnam|Quận Bảy|Viettel Corporation|
+|6|171.232.191.206|10003|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|115.72.161.80|10003|Vietnam|Vũng Tàu|VIETELmetro|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|27.147.155.42|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|11|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|12|171.242.2.120|10001|Vietnam|Hanoi|Viettel Corporation|
+|13|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|164.92.167.4|1194|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
+|19|186.113.232.105|8080|Colombia|Pereira|Colombia Telecomunicaciones S.a. ESP|
+|20|103.125.18.22|8080|Indonesia|Tangerang|JAVAMEDIA|
 
 
 
