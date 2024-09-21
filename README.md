@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
-|5|121.184.173.215|8080|South Korea|Cheonan|Korea Telecom|
-|6|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|124.106.116.34|1337|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|38.130.38.97|8080|United States|Vandalia|Wisper ISP, Inc.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|5|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|6|135.125.225.75|8080|Germany|Limburg an der Lahn|OVH SAS|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|10|103.26.110.41|84|India|Chennai|Niss Networks|
+|11|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 |12|116.111.117.246|10010|Vietnam|Hanoi|Viettel Corporation|
-|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|186.96.15.70|8080|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|15|45.174.79.95|999|Mexico|Delicias|Raul Duarte Urita|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|19|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|152.26.229.42|9443|United States|Concord|MCNC|
+|13|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|160.248.4.99|8888|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|152.26.231.42|9443|United States|Concord|MCNC|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|72.10.164.178|9963|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
