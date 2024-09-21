@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|49.48.71.225|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|3|51.159.99.38|3128|France|Paris|SCALEWAY|
-|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.122.1.130|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|181.78.82.214|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|51.159.99.38|3128|France|Paris|SCALEWAY|
+|5|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|7|210.87.125.58|1080|Indonesia|Kediri|CV Brawijaya Giga Network|
 |8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|51.159.99.38|3128|France|Paris|SCALEWAY|
-|10|152.26.231.86|9443|United States|Concord|MCNC|
-|11|202.179.90.217|58080|India|Mumbai|Ankhnet|
-|12|51.159.99.38|3128|France|Paris|SCALEWAY|
-|13|152.26.229.83|9443|United States|Concord|MCNC|
-|14|152.26.229.34|9443|United States|Concord|MCNC|
-|15|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|152.26.231.83|9443|United States|Concord|MCNC|
-|19|67.43.236.20|2705|Canada|Montreal|GloboTech Communications|
-|20|154.73.28.49|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|9|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|10|51.159.99.38|3128|France|Paris|SCALEWAY|
+|11|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
+|12|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|13|152.26.231.86|9443|United States|Concord|MCNC|
+|14|152.26.229.83|9443|United States|Concord|MCNC|
+|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|152.26.229.34|9443|United States|Concord|MCNC|
+|17|51.159.99.38|3128|France|Paris|SCALEWAY|
+|18|41.169.150.194|8080|South Africa|Johannesburg|Liquid Telecommunications South Africa (Pty) Ltd|
+|19|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
