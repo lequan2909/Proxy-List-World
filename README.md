@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
-|3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|103.247.12.18|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|6|203.111.253.40|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|177.36.14.137|8080|Brazil|Limoeiro|1telecom Servicos De Tecnologia EM Internet Ltda|
-|9|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|10|175.137.69.120|3128|Malaysia|Petaling Jaya|TM TECHNOLOGY SERVICES SDN BHD|
-|11|36.67.114.94|8187|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|12|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|202.173.220.50|1122|Thailand|Bangkok|KIRZ Company Limited|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|181.78.95.50|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|222.109.232.217|8080|South Korea|Jungnang-gu|Korea Telecom|
-|18|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|19|72.10.164.178|9963|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|5489|Canada|Montreal|GloboTech Communications|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|5|121.184.173.215|8080|South Korea|Cheonan|Korea Telecom|
+|6|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|177.234.194.226|999|Ecuador|Buena Fe|Ufinet Panama S.A.|
+|9|47.88.17.136|18080|United States|Minkler|Alibaba.com LLC|
+|10|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|212.252.71.9|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|14|146.196.120.15|8080|India|Gurugram|CNS Infotel Services Pvt. Ltd.|
+|15|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|16|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|152.26.229.86|9443|United States|Concord|MCNC|
+|18|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|19|140.238.230.215|3128|India|Mumbai|Oracle Corporation|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
