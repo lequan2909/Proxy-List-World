@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|123.243.5.82|8888|Australia|Sydney|TPG Internet Pty Ltd|
-|3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|4|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|204.157.251.154|999|Dominican Republic|El Factor|Sequre Networks SRL|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|152.26.229.46|9443|United States|Concord|MCNC|
-|9|152.26.231.86|9443|United States|Concord|MCNC|
-|10|13.124.190.69|3579|South Korea|Seoul|Amazon Technologies Inc.|
-|11|152.26.229.86|9443|United States|Concord|MCNC|
-|12|38.183.144.82|8181|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|13|36.64.184.2|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|14|72.10.160.171|22855|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|28161|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.93|9443|United States|Concord|MCNC|
-|17|160.202.42.156|80|Indonesia|Jakarta|Jakarta 5 8 Iconpln|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|202.93.244.98|8080|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
-|20|67.43.227.230|10265|Canada|Montreal|GloboTech Communications|
+|2|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|3|123.243.5.82|8888|Australia|Sydney|TPG Internet Pty Ltd|
+|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|103.173.230.147|9191|Indonesia|Serang|PT Jaringan Internet Banten|
+|7|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
+|14|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|15|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|16|152.26.229.46|9443|United States|Concord|MCNC|
+|17|152.26.229.86|9443|United States|Concord|MCNC|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
