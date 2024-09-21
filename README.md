@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|467|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|467|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|467|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|7|18.228.173.216|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|8|194.156.88.125|2411|United Kingdom|Bradford|aurologic GmbH|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|18.228.173.216|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|5|103.156.224.66|8080|Indonesia|Bogor|PT Lintas Citra Abadi|
+|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|7|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
+|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 |9|45.174.57.22|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|5.58.97.89|8080|Ukraine|Ternopil|Columbus|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|190.97.228.198|999|Venezuela|San Cristóbal|Viginet C.A|
-|14|61.19.109.236|8080|Thailand|Vadhana|CAT-ISP|
-|15|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|34.45.111.25|3128|United States|Council Bluffs|Google LLC|
-|19|31.146.5.178|8080|Georgia|Tbilisi|JSC "Silknet"|
-|20|67.43.227.227|28429|Canada|Montreal|GloboTech Communications|
+|10|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|11|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|38.64.60.254|999|Mexico|Chihuahua City|Nidix Networks S.a. De C.V.|
+|14|203.128.75.194|8080|Indonesia|Sunter Agung|Neuviz|
+|15|80.92.214.61|8424|Russia|Saratov|MTS PJSC|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|79.143.177.29|21972|Germany|Munich|Contabo GmbH|
+|18|45.133.107.64|81|Russia|Tul'skiy|Art-net LLC|
+|19|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
