@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|3|209.126.80.197|9595|United States|St Louis|Nubes, LLC|
-|4|70.63.90.245|8080|United States|Wilmington|Spectrum|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|202.173.220.50|1122|Thailand|Bangkok|KIRZ Company Limited|
-|10|152.26.231.83|9443|United States|Concord|MCNC|
-|11|152.26.229.46|9443|United States|Concord|MCNC|
-|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|13|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|115.72.160.45|10004|Vietnam|Vũng Tàu|VIETELmetro|
-|17|72.10.160.90|27415|Canada|Montreal|GloboTech Communications|
-|18|171.234.238.96|10002|Vietnam|Hanoi|Viettel Corporation|
-|19|171.232.191.206|10006|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|202.93.244.98|8080|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
+|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|4|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|171.232.191.206|10002|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|6|115.72.161.80|10003|Vietnam|Vũng Tàu|VIETELmetro|
+|7|103.247.23.57|8081|Indonesia|Banyumas|PT wifian Solution|
+|8|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
+|9|185.98.219.252|8080|Türkiye|Istanbul|Filika Internet ve Iletisim Hizmetleri A.S.|
+|10|115.72.40.17|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|11|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|13|103.10.230.246|1337|Thailand|Bangkok|CATBB|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|31.43.52.216|41890|Ukraine|Velyka Motovylivka|Ukrainian Telecommunication Group LLC|
+|18|152.26.231.83|9443|United States|Concord|MCNC|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
