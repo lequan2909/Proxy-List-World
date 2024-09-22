@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|103.179.218.5|1080|Indonesia|Pandeglang|PT Wistel Teknologi Solusi|
-|3|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|181.78.105.152|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|7|43.249.224.172|83|India|Hyderabad|Pioneer Elabs Ltd.|
-|8|185.98.219.252|8080|Türkiye|Istanbul|Filika Internet ve Iletisim Hizmetleri A.S.|
-|9|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|191.102.254.12|8085|Argentina|Rosario|IP·RED|
-|12|95.154.20.113|34248|Denmark|Ribe|SYD ENERGI|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|16|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|200.61.16.80|8080|Argentina|Buenos Aires|Silica Networks Argentina S.A|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|152.26.231.42|9443|United States|Concord|MCNC|
-|20|67.43.227.227|28759|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|110.137.26.233|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
+|4|49.48.50.71|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|5|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
+|6|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|7|191.241.184.61|40033|Brazil|Nossa Senhora da Glória|NetGloria Telecom|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|103.83.0.46|8080|Indonesia|Lamongan|PT Kia Integrasi Akses|
+|11|185.98.219.252|8080|Türkiye|Istanbul|Filika Internet ve Iletisim Hizmetleri A.S.|
+|12|180.253.118.249|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|13|187.102.238.49|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
+|14|177.184.199.36|80|Brazil|São Paulo|Wireless Comm Services LTDA|
+|15|103.163.175.29|8080|Indonesia|Jakarta|PT Lima Satu Tiga Global Tel-Access|
+|16|41.65.55.27|1981|Egypt|Qillīn|Etisalat Misr Mobile BB|
+|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|50.6.192.27|3128|United States|Jacksonville|Network Solutions, LLC|
+|19|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|20|116.80.92.231|3128|Japan|Shimomeguro|InfoSphere|
 
 
 
