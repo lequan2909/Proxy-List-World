@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|4|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
-|5|144.91.98.213|3128|Germany|Nuremberg|Contabo GmbH|
-|6|187.1.181.124|23500|Brazil|Belo Horizonte|Century Telecom Ltda|
-|7|116.105.18.72|10002|Vietnam|Da Nang|Viettel Corporation|
-|8|34.70.86.45|3128|United States|Council Bluffs|Google LLC|
-|9|72.10.164.178|17631|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|17631|Canada|Montreal|GloboTech Communications|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|152.26.229.83|9443|United States|Concord|MCNC|
-|13|152.26.229.42|9443|United States|Concord|MCNC|
-|14|72.10.164.178|17631|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.34|9443|United States|Concord|MCNC|
-|16|152.26.229.93|9443|United States|Concord|MCNC|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|152.26.231.93|9443|United States|Concord|MCNC|
-|19|152.26.229.46|9443|United States|Concord|MCNC|
-|20|67.43.228.253|4659|Canada|Montreal|GloboTech Communications|
+|4|185.98.219.252|8080|Türkiye|Istanbul|Filika Internet ve Iletisim Hizmetleri A.S.|
+|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|6|223.25.110.226|8080|Indonesia|Surabaya|SinergiNet|
+|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|8|152.26.229.93|9443|United States|Concord|MCNC|
+|9|152.26.229.42|9443|United States|Concord|MCNC|
+|10|152.26.229.83|9443|United States|Concord|MCNC|
+|11|152.26.229.34|9443|United States|Concord|MCNC|
+|12|152.26.229.46|9443|United States|Concord|MCNC|
+|13|152.26.231.93|9443|United States|Concord|MCNC|
+|14|72.10.164.178|11289|Canada|Montreal|GloboTech Communications|
+|15|152.26.231.42|9443|United States|Concord|MCNC|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|72.10.160.90|12991|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.86|9443|United States|Concord|MCNC|
+|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
 
 
 
