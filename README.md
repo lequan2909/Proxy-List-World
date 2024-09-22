@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5445** proxies at the latest update. Usable proxies are below.
+> Scraper found **5428** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|663|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|646|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|167|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3357|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|6|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
-|7|119.13.77.25|39904|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|185.98.219.252|8080|Türkiye|Istanbul|Filika Internet ve Iletisim Hizmetleri A.S.|
-|10|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|14|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|147.45.74.178|3128|Sweden|Stockholm|Aeza International LTD|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|103.165.215.78|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|10|185.98.219.252|8080|Türkiye|Istanbul|Filika Internet ve Iletisim Hizmetleri A.S.|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|13|103.149.194.61|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
+|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
 |17|152.26.229.93|9443|United States|Concord|MCNC|
-|18|152.26.231.93|9443|United States|Concord|MCNC|
-|19|152.26.231.94|9443|United States|Concord|MCNC|
-|20|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|20|72.10.160.90|1745|Canada|Montreal|GloboTech Communications|
 
 
 
