@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|128.199.181.23|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|7|212.237.218.213|8888|Finland|Helsinki|Hostkey B.V.|
-|8|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
-|9|123.243.5.82|8888|Australia|Sydney|TPG Internet Pty Ltd|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|14|147.45.74.178|3128|Sweden|Stockholm|Aeza International LTD|
-|15|45.123.142.6|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|16|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|17|116.80.93.39|3128|Japan|Shimomeguro|InfoSphere|
-|18|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|19|45.81.115.86|3128|Türkiye|Bursa|Pembe Gul Isguzar Karagoz|
-|20|157.120.35.12|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|119.76.142.229|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
+|4|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|5|123.243.5.82|8888|Australia|Sydney|TPG Internet Pty Ltd|
+|6|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|9|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
+|10|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|11|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
+|12|103.215.16.38|8080|Indonesia|Jakarta|PT. Kreasi Sejahtera Teknologi|
+|13|81.149.228.83|8888|United Kingdom|London|BT Public Internet Service|
+|14|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|17|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|18|103.139.126.31|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|19|177.93.45.225|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|20|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
 
 
 
