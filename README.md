@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|110.78.186.131|8080|Thailand|Chon Buri|CAT-BB|
-|3|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|5|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
-|6|35.94.217.206|3128|United States|Portland|Amazon.com, Inc.|
-|7|103.167.31.156|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|5|103.160.205.170|8080|Indonesia|Mataram|PRIME|
+|6|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|43.156.240.67|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
 |10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|103.174.238.105|8090|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|38.183.144.117|1111|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|15|186.113.232.105|8080|Colombia|Pereira|Colombia Telecomunicaciones S.a. ESP|
-|16|157.120.34.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|35.94.217.206|3128|United States|Portland|Amazon.com, Inc.|
-|19|157.120.35.12|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|50.6.192.27|3128|United States|Jacksonville|Network Solutions, LLC|
+|11|113.160.154.23|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|12|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
+|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|157.120.34.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|125.26.5.140|8080|Thailand|Bangkok|TOT Public Company Limited|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|157.120.35.12|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|50.6.192.27|3128|United States|Jacksonville|Network Solutions, LLC|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|67.43.227.227|18467|Canada|Montreal|GloboTech Communications|
 
 
 
