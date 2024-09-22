@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|3|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|5|5.42.83.51|3128|Sweden|Stockholm|Aeza International LTD|
 |6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|10|45.81.115.86|3128|Türkiye|Bursa|Pembe Gul Isguzar Karagoz|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|93.125.3.22|8080|Belarus|Minsk|TELECOMAT|
+|9|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|10|152.26.229.42|9443|United States|Concord|MCNC|
 |11|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|50.6.192.80|3128|United States|Jacksonville|Network Solutions, LLC|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
+|12|152.26.229.46|9443|United States|Concord|MCNC|
+|13|117.21.14.245|8000|China|Taohua|Chinanet|
+|14|152.26.231.93|9443|United States|Concord|MCNC|
 |15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|152.26.229.46|9443|United States|Concord|MCNC|
-|18|152.26.231.42|9443|United States|Concord|MCNC|
-|19|152.26.231.94|9443|United States|Concord|MCNC|
-|20|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|16|152.26.231.42|9443|United States|Concord|MCNC|
+|17|152.26.231.94|9443|United States|Concord|MCNC|
+|18|152.26.229.47|9443|United States|Concord|MCNC|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|72.10.160.171|23057|Canada|Montreal|GloboTech Communications|
 
 
 
