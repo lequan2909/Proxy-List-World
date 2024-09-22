@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|116.203.205.9|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|50.6.192.27|3128|United States|Jacksonville|Network Solutions, LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|119.76.142.221|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
 |7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|41.65.55.27|1981|Egypt|Qillīn|Etisalat Misr Mobile BB|
-|10|119.76.142.221|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
-|11|42.1.61.11|8128|Malaysia|Kuala Lumpur|Exa Bytes Network Sdn.Bhd.|
-|12|191.102.254.12|8085|Argentina|Rosario|IP·RED|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|10|49.48.50.71|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|11|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|46.37.115.147|3128|Türkiye|Istanbul|Ovabil Internet VE Bilisim Hizmetleri Limited Sirketi|
 |13|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|36.67.7.74|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
+|14|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |15|152.26.229.47|9443|United States|Concord|MCNC|
-|16|152.26.229.34|9443|United States|Concord|MCNC|
-|17|67.43.236.22|21129|Canada|Montreal|GloboTech Communications|
-|18|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|1.179.231.130|8080|Thailand|Ratchaburi|TOT Public Company Limited|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|50.6.192.27|3128|United States|Jacksonville|Network Solutions, LLC|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 |20|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
 
 
