@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|4|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|5|192.99.169.19|8450|Canada|Beauharnois|OVH SAS|
-|6|93.171.130.11|3128|Ukraine|Dnipro|Shaporenko Yuri Nikolaevich|
-|7|155.138.218.57|8118|United States|Atlanta|The Constant Company|
-|8|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|103.171.244.45|8088|Indonesia|Madiun|PT Data Arta Sedaya|
-|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
-|14|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
-|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|147.45.74.178|3128|Sweden|Stockholm|Aeza International LTD|
-|18|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|19|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
-|20|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|3|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
+|4|207.180.192.43|8118|Germany|Nuremberg|Contabo GmbH|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|8|36.94.55.42|3128|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|9|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|12|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|103.245.16.140|8080|Indonesia|Depok|PT Quantum Tera Network|
+|16|147.45.74.178|3128|Sweden|Stockholm|Aeza International LTD|
+|17|188.132.222.15|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|116.80.93.39|3128|Japan|Shimomeguro|InfoSphere|
+|20|152.26.231.94|9443|United States|Concord|MCNC|
 
 
 
