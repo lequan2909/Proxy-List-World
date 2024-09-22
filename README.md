@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.19.73.223|3128|United States|Los Angeles|Leaseweb USA, Inc.|
-|2|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|3|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|3|50.6.192.80|3128|United States|Jacksonville|Network Solutions, LLC|
 |4|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|6|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
-|7|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|5|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|6|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|7|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
 |8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
-|10|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|11|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|12|103.157.117.116|80|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
-|13|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|14|116.80.76.80|3128|Japan|Shimomeguro|InfoSphere|
-|15|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
-|16|210.79.146.98|8080|Indonesia|Situbondo|PT Petabyte Network Indonesia|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|103.48.70.81|83|India|Hyderabad|Country Online Services PVT LTD|
-|19|176.105.199.153|8010|Ukraine|Vinnytsia|NPK Home-Net Ltd|
-|20|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|10|50.6.192.80|3128|United States|Jacksonville|Network Solutions, LLC|
+|11|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
+|13|116.80.76.80|3128|Japan|Shimomeguro|InfoSphere|
+|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|201.62.125.142|8080|Brazil|Rio Claro|Claro NXT Telecomunicacoes Ltda|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|20|45.174.57.22|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
 
 
 
