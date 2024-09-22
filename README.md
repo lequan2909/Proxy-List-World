@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|2|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|3|185.98.219.252|8080|Türkiye|Istanbul|Filika Internet ve Iletisim Hizmetleri A.S.|
-|4|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
-|5|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|152.26.229.86|9443|United States|Concord|MCNC|
-|7|152.26.229.93|9443|United States|Concord|MCNC|
-|8|72.10.164.178|25601|Canada|Montreal|GloboTech Communications|
-|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|10|152.26.231.93|9443|United States|Concord|MCNC|
-|11|72.10.164.178|25601|Canada|Montreal|GloboTech Communications|
-|12|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|152.26.229.34|9443|United States|Concord|MCNC|
-|14|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
-|15|72.10.160.93|26173|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|5313|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.254|30529|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|152.26.229.47|9443|United States|Concord|MCNC|
-|20|152.26.229.42|9443|United States|Concord|MCNC|
+|1|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|5|36.94.55.42|3128|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|6|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
+|7|185.98.219.252|8080|Türkiye|Istanbul|Filika Internet ve Iletisim Hizmetleri A.S.|
+|8|114.9.27.190|3125|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|9|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|10|190.61.101.73|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
+|11|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|152.26.229.86|9443|United States|Concord|MCNC|
+|13|152.26.231.93|9443|United States|Concord|MCNC|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|152.26.229.93|9443|United States|Concord|MCNC|
+|17|72.10.164.178|6647|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|72.10.164.178|6647|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.93|26173|Canada|Montreal|GloboTech Communications|
 
 
 
