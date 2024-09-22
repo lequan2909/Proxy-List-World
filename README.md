@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.82.126.202|8080|Indonesia|Tangerang|PT.PLATINUM CITRA INDONESIA|
-|3|182.253.42.148|8082|Indonesia|Jakarta Pusat|BIZNET|
-|4|223.25.110.206|1080|Indonesia|Surabaya|SinergiNet|
-|5|103.101.99.45|8080|Bangladesh|Daripāra|Pandora Technology|
-|6|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|5|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 |9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|152.26.229.83|9443|United States|Concord|MCNC|
-|13|152.26.229.34|9443|United States|Concord|MCNC|
-|14|152.26.231.42|9443|United States|Concord|MCNC|
-|15|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|152.26.231.94|9443|United States|Concord|MCNC|
-|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|72.10.164.178|3167|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|11689|Canada|Montreal|GloboTech Communications|
-|20|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|11|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|16|152.26.231.42|9443|United States|Concord|MCNC|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.231.94|9443|United States|Concord|MCNC|
 
 
 
