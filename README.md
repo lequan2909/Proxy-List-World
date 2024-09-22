@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |4|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|5|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|31.146.5.178|8080|Georgia|Tbilisi|JSC "Silknet"|
-|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|10|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
-|13|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|50.6.192.27|3128|United States|Jacksonville|Network Solutions, LLC|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|103.245.205.226|6969|Bangladesh|Dhaka|Next Online Limited|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |16|152.26.229.42|9443|United States|Concord|MCNC|
 |17|152.26.229.47|9443|United States|Concord|MCNC|
-|18|67.43.227.226|14953|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.94|9443|United States|Concord|MCNC|
-|20|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|18|84.254.0.86|32650|Greece|Athens|Tellas S.A|
+|19|112.78.134.133|7777|Indonesia|Jakarta|Biznet Networks|
+|20|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
 
 
 
