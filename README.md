@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
 |3|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|4|103.127.220.251|8080|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|102.66.222.137|8080|South Africa|Sebokeng|HERO TELECOMS (PTY) LTD|
 |7|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|10|152.26.231.86|9443|United States|Concord|MCNC|
+|8|152.26.231.86|9443|United States|Concord|MCNC|
+|9|152.26.229.42|9443|United States|Concord|MCNC|
+|10|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
 |11|152.26.231.94|9443|United States|Concord|MCNC|
-|12|152.26.229.42|9443|United States|Concord|MCNC|
+|12|152.26.229.34|9443|United States|Concord|MCNC|
 |13|152.26.231.42|9443|United States|Concord|MCNC|
-|14|152.26.229.34|9443|United States|Concord|MCNC|
-|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |16|152.26.229.46|9443|United States|Concord|MCNC|
 |17|152.26.231.93|9443|United States|Concord|MCNC|
-|18|67.43.228.253|21995|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.172|32477|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|12991|Canada|Montreal|GloboTech Communications|
+|18|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|19|157.120.34.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
 
 
 
