@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|119.76.142.221|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
 |4|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
 |5|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
-|7|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
-|12|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|134.35.160.17|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|134.35.185.105|8080|Yemen|Al Bayda|Public Telecommunication Corporation|
-|17|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|43.156.240.67|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|209.126.13.43|63800|United States|St Louis|Nubes, LLC|
-|20|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|7|50.6.192.27|3128|United States|Jacksonville|Network Solutions, LLC|
+|8|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
+|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|11|50.6.192.27|3128|United States|Jacksonville|Network Solutions, LLC|
+|12|1.10.238.252|8080|Thailand|Bangkok|TOT Public Company Limited|
+|13|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
+|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|17|209.126.13.43|63800|United States|St Louis|Nubes, LLC|
+|18|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
