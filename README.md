@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|116.80.76.80|3128|Japan|Shimomeguro|InfoSphere|
-|4|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|7|103.133.63.135|8181|Indonesia|Bandar Lampung|TLINK|
-|8|185.98.219.252|8080|Türkiye|Istanbul|Filika Internet ve Iletisim Hizmetleri A.S.|
-|9|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
+|6|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
 |10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|13|152.26.229.83|9443|United States|Concord|MCNC|
-|14|152.26.231.83|9443|United States|Concord|MCNC|
-|15|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|16|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|17|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|152.26.229.46|9443|United States|Concord|MCNC|
-|19|152.26.231.86|9443|United States|Concord|MCNC|
-|20|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|11|103.186.91.39|8989|Indonesia|Jepara|PT Akses Data Internusa|
+|12|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|13|177.93.46.187|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|14|103.36.10.118|8090|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|17|118.103.233.235|8080|Pakistan|Karachi|Connect Communication|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
