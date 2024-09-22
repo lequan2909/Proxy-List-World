@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|2|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
 |3|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|4|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|5|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
+|4|51.250.74.205|8090|Russia|Moscow|Yandex.Cloud LLC|
+|5|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
 |6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|7|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
 |8|147.45.74.178|3128|Sweden|Stockholm|Aeza International LTD|
 |9|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|119.18.146.171|5020|Bangladesh|Chittagong|BBTS Network|
 |11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|50.6.192.80|3128|United States|Jacksonville|Network Solutions, LLC|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|152.26.229.47|9443|United States|Concord|MCNC|
-|20|152.26.231.83|9443|United States|Concord|MCNC|
+|12|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|152.26.231.86|9443|United States|Concord|MCNC|
+|15|50.6.192.80|3128|United States|Jacksonville|Network Solutions, LLC|
+|16|152.26.229.47|9443|United States|Concord|MCNC|
+|17|152.26.231.83|9443|United States|Concord|MCNC|
+|18|67.43.227.228|14011|Canada|Montreal|GloboTech Communications|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|50.6.192.27|3128|United States|Jacksonville|Network Solutions, LLC|
 
 
 
