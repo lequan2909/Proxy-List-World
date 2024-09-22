@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|157.120.34.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|203.150.113.245|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
+|3|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|4|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|8|45.171.146.183|8083|Brazil|Chapadão do Sul|N3 SOLUCOES TECNOLOGICAS LTDA|
 |9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|159.203.104.153|4200|United States|Clifton|DigitalOcean, LLC|
 |11|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|13|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
-|16|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|12|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|152.26.231.93|9443|United States|Concord|MCNC|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
 |17|152.26.229.34|9443|United States|Concord|MCNC|
-|18|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
-|19|152.26.231.86|9443|United States|Concord|MCNC|
-|20|152.26.231.93|9443|United States|Concord|MCNC|
+|18|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
