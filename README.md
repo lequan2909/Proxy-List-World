@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
-|6|203.150.128.145|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|188.132.222.4|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|171.232.191.206|10004|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|13|152.26.229.34|9443|United States|Concord|MCNC|
-|14|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
-|15|49.70.172.166|8089|China|Shanghai|Chinanet|
-|16|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|17|116.111.123.96|10002|Vietnam|Hanoi|Viettel Corporation|
-|18|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|3|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|7|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
+|8|202.62.62.29|8080|Cambodia|Phnom Penh|COGETEL Co., Ltd|
+|9|103.163.175.29|8080|Indonesia|Jakarta|PT Lima Satu Tiga Global Tel-Access|
+|10|103.39.50.228|9090|Indonesia|Kuningan Barat|PT. Mega Mentari Mandiri|
+|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|103.165.155.171|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|13|85.117.60.163|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|14|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|17|181.78.105.152|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|20|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
 
 
 
