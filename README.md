@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|157.120.34.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|203.150.113.245|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|5|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
-|6|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|7|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
 |8|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
-|9|209.45.90.174|999|Peru|Lima|Econocable Media SAC|
-|10|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|13|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
-|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|116.105.18.72|10006|Vietnam|Da Nang|Viettel Corporation|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
+|9|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|209.45.90.174|999|Peru|Lima|Econocable Media SAC|
+|12|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
+|13|14.245.240.234|5004|Vietnam|Da Nang|VNPT|
+|14|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|15|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|157.20.144.138|8181|Indonesia|Ciputat|PT Lintas Network Solusi|
+|17|131.196.42.95|667|Brazil|Candeias|Voafibra Comunicacao|
+|18|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|19|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
