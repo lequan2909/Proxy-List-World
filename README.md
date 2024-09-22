@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|6|171.242.153.16|8000|Vietnam|Hanoi|Viettel Corporation|
-|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|9|152.26.231.94|9443|United States|Concord|MCNC|
-|10|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
-|15|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|16|72.10.164.178|32947|Canada|Montreal|GloboTech Communications|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|152.26.229.47|9443|United States|Concord|MCNC|
-|19|72.10.160.90|11297|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.252|9659|Canada|Montreal|GloboTech Communications|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|152.26.231.94|9443|United States|Concord|MCNC|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|152.26.229.47|9443|United States|Concord|MCNC|
+|10|72.10.164.178|28477|Canada|Montreal|GloboTech Communications|
+|11|152.26.231.86|9443|United States|Concord|MCNC|
+|12|191.209.93.120|8080|Brazil|São Paulo|Vivo|
+|13|152.26.229.34|9443|United States|Concord|MCNC|
+|14|72.10.160.173|2649|Canada|Montreal|GloboTech Communications|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|72.10.164.178|28477|Canada|Montreal|GloboTech Communications|
+|19|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
