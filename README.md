@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5209** proxies at the latest update. Usable proxies are below.
+> Scraper found **5118** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|58|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|676|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|585|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|174|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3343|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
 |3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|4|170.81.171.189|8089|Brazil|Francisco Morato|Wireless Comm Services LTDA|
-|5|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|6|152.26.229.46|9443|United States|Concord|MCNC|
-|7|152.26.231.42|9443|United States|Concord|MCNC|
-|8|152.26.229.42|9443|United States|Concord|MCNC|
-|9|152.26.229.83|9443|United States|Concord|MCNC|
-|10|72.10.164.178|30369|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.171|10879|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|16077|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|1681|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.174|14965|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.47|9443|United States|Concord|MCNC|
-|16|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
-|17|67.43.227.226|27933|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|14097|Canada|Montreal|GloboTech Communications|
-|19|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|20|72.10.164.178|30369|Canada|Montreal|GloboTech Communications|
+|4|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|116.80.76.80|3128|Japan|Shimomeguro|InfoSphere|
+|6|50.6.192.54|3128|United States|Jacksonville|Network Solutions, LLC|
+|7|72.10.164.178|7189|Canada|Montreal|GloboTech Communications|
+|8|152.26.229.34|9443|United States|Concord|MCNC|
+|9|72.10.160.170|16077|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|7189|Canada|Montreal|GloboTech Communications|
+|11|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|12|152.26.231.83|9443|United States|Concord|MCNC|
+|13|152.26.229.46|9443|United States|Concord|MCNC|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|67.43.228.253|18679|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|5321|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|6483|Canada|Montreal|GloboTech Communications|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|72.10.164.178|7189|Canada|Montreal|GloboTech Communications|
+|20|152.26.231.93|9443|United States|Concord|MCNC|
 
 
 
