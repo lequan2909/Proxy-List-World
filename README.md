@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,22 +39,22 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
 |3|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|203.150.128.77|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|203.150.128.77|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
 |6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|9|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|10|50.6.192.80|3128|United States|Jacksonville|Network Solutions, LLC|
-|11|116.80.93.39|3128|Japan|Shimomeguro|InfoSphere|
-|12|24.204.29.115|8080|United States|Longview|Network IP|
-|13|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
+|8|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|9|116.111.123.96|10005|Vietnam|Hanoi|Viettel Corporation|
+|10|181.209.125.186|999|Argentina|Chascomús|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|11|50.6.192.80|3128|United States|Jacksonville|Network Solutions, LLC|
+|12|116.80.93.39|3128|Japan|Shimomeguro|InfoSphere|
+|13|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
+|14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |15|116.105.18.72|10003|Vietnam|Da Nang|Viettel Corporation|
-|16|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |17|152.26.229.42|9443|United States|Concord|MCNC|
 |18|152.26.229.86|9443|United States|Concord|MCNC|
 |19|152.26.231.42|9443|United States|Concord|MCNC|
