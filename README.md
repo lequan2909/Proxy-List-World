@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|3|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|6|47.251.80.53|3128|United States|Minkler|Alibaba Cloud LLC|
-|7|185.98.219.252|8080|Türkiye|Istanbul|Filika Internet ve Iletisim Hizmetleri A.S.|
-|8|177.174.126.203|8080|Brazil|Campinas|Vivo|
-|9|103.208.102.6|8080|Indonesia|Wonosobo|PT Tidar Lintas Nusa|
-|10|147.45.74.178|3128|Sweden|Stockholm|Aeza International LTD|
-|11|181.39.233.212|8080|Ecuador|Guayaquil|Telconet S.A|
-|12|181.78.95.49|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|13|103.242.104.43|8090|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|14|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|116.104.175.137|5000|Vietnam|Hanoi|Viettel Corporation|
-|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|72.10.164.178|12969|Canada|Montreal|GloboTech Communications|
-|18|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|67.43.228.250|13173|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|6|181.39.233.212|8080|Ecuador|Guayaquil|Telconet S.A|
+|7|152.70.177.163|8118|Germany|Frankfurt am Main|Oracle Corporation|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|103.211.107.62|8080|Indonesia|Lampung|PT Atmega Telecomindo Nusantara|
+|10|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|11|185.138.120.109|8080|Iraq|Baghdad|Horizon ISP|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|17|147.45.74.178|3128|Sweden|Stockholm|Aeza International LTD|
+|18|185.98.219.252|8080|Türkiye|Istanbul|Filika Internet ve Iletisim Hizmetleri A.S.|
+|19|177.93.40.57|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|20|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
