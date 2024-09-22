@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|4|46.37.115.146|3128|Türkiye|Istanbul|Ovabil Internet VE Bilisim Hizmetleri Limited Sirketi|
-|5|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|46.37.115.147|3128|Türkiye|Istanbul|Ovabil Internet VE Bilisim Hizmetleri Limited Sirketi|
-|9|46.37.115.148|3128|Türkiye|Istanbul|Ovabil Internet VE Bilisim Hizmetleri Limited Sirketi|
-|10|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|11|27.73.100.249|10005|Vietnam|Hanoi|Newass2011xDSLHN|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|157.15.73.30|8080|Indonesia|Klaten|PT Indo Teknologi Konstruksi|
-|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|52.3.98.50|80|United States|Ashburn|Amazon.com, Inc.|
-|18|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|1.36.234.68|8888|Hong Kong|Central|Hong Kong Telecommunications (HKT) Limited Mass Internet|
+|2|171.234.238.96|10008|Vietnam|Hanoi|Viettel Corporation|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|50.6.192.255|3128|United States|Jacksonville|Network Solutions, LLC|
+|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|7|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|8|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|203.150.128.28|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|11|50.6.192.255|3128|United States|Jacksonville|Network Solutions, LLC|
+|12|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|13|46.37.115.146|3128|Türkiye|Istanbul|Ovabil Internet VE Bilisim Hizmetleri Limited Sirketi|
+|14|46.37.115.148|3128|Türkiye|Istanbul|Ovabil Internet VE Bilisim Hizmetleri Limited Sirketi|
+|15|46.37.115.147|3128|Türkiye|Istanbul|Ovabil Internet VE Bilisim Hizmetleri Limited Sirketi|
+|16|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|17|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|103.169.38.118|8080|Indonesia|Klaten|PT Boombas Carlo Medianet|
+|20|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
 
 
 
