@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|3|103.69.20.36|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|4|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
+|3|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
 |5|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
-|6|193.122.197.154|80|United States|Ashburn|Oracle Corporation|
-|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|8|206.84.104.126|8080|Indonesia|Jakarta|AGIS|
-|9|34.70.86.45|3128|United States|Council Bluffs|Google LLC|
-|10|193.122.197.154|80|United States|Ashburn|Oracle Corporation|
-|11|72.10.160.171|6321|Canada|Montreal|GloboTech Communications|
-|12|152.26.229.47|9443|United States|Concord|MCNC|
-|13|116.80.92.231|3128|Japan|Shimomeguro|InfoSphere|
-|14|152.26.231.86|9443|United States|Concord|MCNC|
-|15|67.43.227.226|5861|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|3125|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.34|9443|United States|Concord|MCNC|
-|18|116.111.117.246|10010|Vietnam|Hanoi|Viettel Corporation|
-|19|34.70.86.45|3128|United States|Council Bluffs|Google LLC|
-|20|72.10.160.171|6321|Canada|Montreal|GloboTech Communications|
+|6|46.37.115.143|3128|Türkiye|Istanbul|Ovabil Internet VE Bilisim Hizmetleri Limited Sirketi|
+|7|116.80.92.231|3128|Japan|Shimomeguro|InfoSphere|
+|8|152.26.229.47|9443|United States|Concord|MCNC|
+|9|152.26.229.83|9443|United States|Concord|MCNC|
+|10|72.10.160.171|8753|Canada|Montreal|GloboTech Communications|
+|11|152.26.231.86|9443|United States|Concord|MCNC|
+|12|152.26.229.34|9443|United States|Concord|MCNC|
+|13|50.6.192.80|3128|United States|Jacksonville|Network Solutions, LLC|
+|14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|15|72.10.160.171|8753|Canada|Montreal|GloboTech Communications|
+|16|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
+|17|72.10.164.178|7653|Canada|Montreal|GloboTech Communications|
+|18|152.26.231.93|9443|United States|Concord|MCNC|
+|19|72.10.164.178|7653|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
