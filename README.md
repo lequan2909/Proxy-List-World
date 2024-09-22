@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|5|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|6|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|103.154.178.106|3128|Indonesia|Jambi City|PT Aneka Teguh Jaya|
-|9|103.166.10.15|8181|Indonesia|Kediri|PT. Yasmin Amanah Media|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|103.149.194.222|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
-|12|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|27.74.251.99|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|7|122.2.79.174|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|8|190.94.213.109|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|50.6.192.80|3128|United States|Jacksonville|Network Solutions, LLC|
+|12|181.209.125.186|999|Argentina|Chascomús|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
 |13|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|116.111.113.244|10006|Vietnam|Hanoi|Viettel Corporation|
-|16|72.10.164.178|27563|Canada|Montreal|GloboTech Communications|
+|14|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |17|152.26.229.47|9443|United States|Concord|MCNC|
-|18|152.26.231.93|9443|United States|Concord|MCNC|
-|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|103.133.61.173|8181|Indonesia|Bandar Lampung|TLINK|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
 |20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
