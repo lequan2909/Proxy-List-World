@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|68.183.187.79|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|7|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|187.190.249.114|1994|Mexico|Othón P. Blanco|Total Play Telecomunicaciones SA De CV|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|143.255.111.112|3128|Brazil|Águas Lindas de Goiás|MCD INFORMATICA E TELECOMUNICACOES LTDA - ME|
-|12|185.98.219.252|8080|Türkiye|Istanbul|Filika Internet ve Iletisim Hizmetleri A.S.|
-|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|186.232.59.146|54443|Brazil|Conceição do Jacuípe|Geeknet Provedor De Internet Ltda ME|
-|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|103.35.108.113|5020|Bangladesh|Dhaka|Ranks ITT|
-|17|117.102.76.252|8080|Indonesia|Jakarta|Biznet Networks|
-|18|50.6.192.80|3128|United States|Jacksonville|Network Solutions, LLC|
-|19|116.80.92.230|3128|Japan|Shimomeguro|InfoSphere|
-|20|140.238.230.215|3128|India|Mumbai|Oracle Corporation|
+|2|68.183.187.79|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|5|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|6|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|182.253.102.67|3128|Indonesia|Cikampek|BIZNET|
+|8|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|38.156.235.37|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|14|126.209.13.226|8082|Philippines|Manila|Infinivan Incorporated|
+|15|147.45.74.178|3128|Sweden|Stockholm|Aeza International LTD|
+|16|185.244.173.33|8118|Russia|Moscow|First Server Limited|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|36.64.206.107|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|19|103.155.197.193|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|20|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
 
 
 
