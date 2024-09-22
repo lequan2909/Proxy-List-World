@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|68.183.187.79|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|4|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|6|103.102.12.89|8081|Indonesia|Rembangan|FISNET|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|9|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|10|188.132.222.55|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|147.45.74.178|3128|Sweden|Stockholm|Aeza International LTD|
-|12|103.169.254.155|3127|Indonesia|Curahjati|PT Master Star Network|
-|13|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|14|182.252.70.220|8082|Bangladesh|Kāfrul|Agni Systems Limited|
-|15|185.244.173.33|8118|Russia|Moscow|First Server Limited|
-|16|152.26.229.46|9443|United States|Concord|MCNC|
-|17|15.165.18.52|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|18|51.158.173.222|3128|France|Paris|Online S.A.S.|
-|19|152.26.229.86|9443|United States|Concord|MCNC|
-|20|67.43.236.20|14911|Canada|Montreal|GloboTech Communications|
+|2|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|68.183.187.79|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|6|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|103.10.22.234|8080|Mongolia|Ulan Bator|Kewiko LLC|
+|8|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
+|9|103.186.64.51|10004|Vietnam|Hai BàTrưng|GREENCLOUD|
+|10|212.112.113.182|3128|Kyrgyzstan|Bishkek|AkNet|
+|11|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
+|12|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
+|13|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|16|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|124.158.153.218|8180|Indonesia|Pulo Gebang|PT iForte Global Internet|
+|18|143.255.111.112|3128|Brazil|Águas Lindas de Goiás|MCD INFORMATICA E TELECOMUNICACOES LTDA - ME|
+|19|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|20|185.98.219.252|8080|Türkiye|Istanbul|Filika Internet ve Iletisim Hizmetleri A.S.|
 
 
 
