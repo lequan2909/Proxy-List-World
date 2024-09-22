@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|4|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
-|5|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|6|181.39.233.212|8080|Ecuador|Guayaquil|Telconet S.A|
-|7|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
-|8|186.65.104.52|2020|Brazil|Salvador|Bahiadados Telecom Ltda.|
-|9|200.24.157.122|999|Ecuador|Cuenca|Ufinet Panama S.A.|
-|10|147.45.74.178|3128|Sweden|Stockholm|Aeza International LTD|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|4.247.152.147|3128|India|Pune|Microsoft Corporation|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
+|9|147.45.74.178|3128|Sweden|Stockholm|Aeza International LTD|
+|10|121.100.19.82|7088|Indonesia|Malang|NAP.Net.id - Network Access Point|
+|11|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
 |12|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|15|116.80.92.231|3128|Japan|Shimomeguro|InfoSphere|
-|16|114.130.153.58|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|17|72.10.160.172|20557|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.46|9443|United States|Concord|MCNC|
-|19|72.10.160.90|29779|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|72.10.160.90|11775|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.172|20557|Canada|Montreal|GloboTech Communications|
+|17|152.26.229.46|9443|United States|Concord|MCNC|
+|18|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
+|19|116.80.92.231|3128|Japan|Shimomeguro|InfoSphere|
+|20|177.234.194.226|999|Ecuador|Buena Fe|Ufinet Panama S.A.|
 
 
 
