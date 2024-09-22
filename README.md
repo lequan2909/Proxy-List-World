@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.76.80|3128|Japan|Shimomeguro|InfoSphere|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|103.179.182.255|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|8|103.187.164.66|8080|Indonesia|Jakarta|PT Amanusa Telemedia Mahardika|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|5|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|159.203.104.153|4200|United States|Clifton|DigitalOcean, LLC|
+|8|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
 |9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|157.120.34.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|116.80.76.80|3128|Japan|Shimomeguro|InfoSphere|
-|12|152.26.231.86|9443|United States|Concord|MCNC|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|15|50.6.192.80|3128|United States|Jacksonville|Network Solutions, LLC|
-|16|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|18|146.56.101.199|22001|South Korea|Chuncheon|Oracle Corporation|
-|19|72.10.164.178|26153|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|29083|Canada|Montreal|GloboTech Communications|
+|10|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|157.120.34.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|200.39.120.44|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|19|116.80.76.80|3128|Japan|Shimomeguro|InfoSphere|
+|20|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
 
 
 
