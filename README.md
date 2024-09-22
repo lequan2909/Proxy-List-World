@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|50.6.192.80|3128|United States|Jacksonville|Network Solutions, LLC|
-|2|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|3|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|45.174.57.26|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
-|8|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|13|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
-|14|50.6.192.80|3128|United States|Jacksonville|Network Solutions, LLC|
-|15|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|36.88.253.86|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|17|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|18|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
-|20|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|210.79.146.98|8080|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|4|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|5|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|6|50.6.192.80|3128|United States|Jacksonville|Network Solutions, LLC|
+|7|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|9|50.6.192.80|3128|United States|Jacksonville|Network Solutions, LLC|
+|10|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|11|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
+|12|116.80.76.80|3128|Japan|Shimomeguro|InfoSphere|
+|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
+|15|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|19|58.27.218.28|3128|Pakistan|Lahore|Wateen Telecom Limited|
+|20|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 
 
 
