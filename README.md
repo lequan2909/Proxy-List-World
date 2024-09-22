@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|50.6.192.80|3128|United States|Jacksonville|Network Solutions, LLC|
-|6|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
-|7|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|8|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|9|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|11|67.43.227.227|13961|Canada|Montreal|GloboTech Communications|
-|12|50.6.192.80|3128|United States|Jacksonville|Network Solutions, LLC|
-|13|152.26.229.34|9443|United States|Concord|MCNC|
-|14|72.10.164.178|12073|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.18|16429|Canada|Montreal|GloboTech Communications|
-|16|194.164.206.37|3128|United Kingdom|Farnham|NETKONECT|
-|17|152.26.229.46|9443|United States|Concord|MCNC|
-|18|72.10.160.170|26855|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|6039|Canada|Montreal|GloboTech Communications|
-|20|171.232.191.206|10003|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|1|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|4|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|7|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
+|8|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|9|152.26.229.34|9443|United States|Concord|MCNC|
+|10|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|11|171.234.238.96|10010|Vietnam|Hanoi|Viettel Corporation|
+|12|171.232.191.206|10004|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|13|67.43.227.227|7433|Canada|Montreal|GloboTech Communications|
+|14|46.37.115.147|3128|Türkiye|Istanbul|Ovabil Internet VE Bilisim Hizmetleri Limited Sirketi|
+|15|67.43.236.20|1263|Canada|Montreal|GloboTech Communications|
+|16|152.26.229.46|9443|United States|Concord|MCNC|
+|17|67.43.227.227|7433|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|7433|Canada|Montreal|GloboTech Communications|
+|19|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|67.43.236.18|16429|Canada|Montreal|GloboTech Communications|
 
 
 
