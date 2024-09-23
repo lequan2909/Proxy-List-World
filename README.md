@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.92.231|3128|Japan|Shimomeguro|InfoSphere|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|5|52.53.221.181|3128|United States|San Jose|Amazon.com, Inc.|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|65.1.244.232|80|India|Mumbai|Amazon.com|
-|9|171.235.149.110|1007|Vietnam|Thu Dau Mot|Viettel Corporation|
-|10|210.87.125.58|1080|Indonesia|Kediri|CV Brawijaya Giga Network|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|186.227.119.91|8080|Brazil|Guaraniaçu|Orssatto Telecom Telecomunicacoes - Eireli|
-|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|77.52.187.199|10000|Ukraine|Rokytne|PrJSC "VF UKRAINE"|
-|16|107.155.55.116|8888|Singapore|Singapore|Zenlayer Inc|
-|17|116.80.92.231|3128|Japan|Shimomeguro|InfoSphere|
-|18|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|20|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|52.53.221.181|3128|United States|San Jose|Amazon.com, Inc.|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|116.80.92.231|3128|Japan|Shimomeguro|InfoSphere|
+|6|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|7|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|9|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|10|18.133.16.21|80|United Kingdom|London|Amazon Technologies Inc.|
+|11|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|12|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|13|52.53.221.181|3128|United States|San Jose|Amazon.com, Inc.|
+|14|116.105.58.35|10004|Vietnam|Quận Bảy|Viettel Corporation|
+|15|45.150.26.170|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
+|18|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|19|65.1.244.232|80|India|Mumbai|Amazon.com|
+|20|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 
 
 
