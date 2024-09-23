@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|481|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|481|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|481|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |4|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
-|7|50.6.192.80|3128|United States|Jacksonville|Network Solutions, LLC|
-|8|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|9|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
-|10|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
-|11|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
-|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|154.73.28.161|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|15|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|16|103.22.99.93|7777|Indonesia|Magetan|KHALISTAGROUP|
-|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|18|45.88.192.56|18080|United States|Los Angeles|DM-HK|
-|19|5.42.83.51|3128|Sweden|Stockholm|Aeza International LTD|
-|20|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
+|5|118.99.119.63|8080|Indonesia|Bandar Lampung|Biznet Networks|
+|6|50.6.192.80|3128|United States|Jacksonville|Network Solutions, LLC|
+|7|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
+|8|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|50.6.192.80|3128|United States|Jacksonville|Network Solutions, LLC|
+|13|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|103.189.249.204|8092|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
+|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|17|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
+|18|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
+|19|203.150.128.102|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|20|103.102.12.153|8404|Indonesia|Rembangan|FISNET|
 
 
 
