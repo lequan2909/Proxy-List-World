@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.92.230|3128|Japan|Shimomeguro|InfoSphere|
-|3|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
 |4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|6|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
-|7|27.121.82.102|8080|Indonesia|Pekanbaru|dashnet - PT Sumidhaz Permata Bunda|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|110.78.146.148|8080|Thailand|Ko Samui|CAT-BB|
-|11|177.130.25.76|8080|Brazil|Água Boa|Help Internet|
-|12|45.71.186.183|999|Ecuador|Quevedo|Ufinet Panama S.A.|
-|13|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
-|15|203.142.74.115|8080|Indonesia|Semarang|BIZNET|
-|16|188.132.222.49|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|60.49.152.31|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|18|103.158.252.2|8080|Indonesia|Tangerang|Rapid Network|
-|19|200.114.84.190|8080|Argentina|La Plata|Citarella S.A.|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|157.66.37.12|8080|Indonesia|Sidorejo|PT Speed Network Indonesia|
+|6|103.167.170.210|7777|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|110.164.128.124|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|12|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|144.91.120.37|80|Germany|Nuremberg|Contabo GmbH|
+|14|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|207.230.8.65|999|Colombia|Bogotá|Cogent Communications|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|45.71.186.183|999|Ecuador|Quevedo|Ufinet Panama S.A.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|159.223.124.116|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
