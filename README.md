@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5522** proxies at the latest update. Usable proxies are below.
+> Scraper found **5437** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|109|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|802|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|717|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|205|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3448|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|118.43.114.10|8080|South Korea|Gunsan|Korea Telecom|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|93.171.130.11|3128|Ukraine|Dnipro|Shaporenko Yuri Nikolaevich|
+|4|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
 |8|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|9|101.255.117.138|2020|Indonesia|Jakarta|PT Remala Abadi|
-|10|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|116.105.18.72|10010|Vietnam|Da Nang|Viettel Corporation|
-|13|15.204.161.192|18080|United States|Reston|OVH SAS|
-|14|116.80.47.31|3128|Japan|Tokyo|InfoSphere|
-|15|187.49.86.114|8222|Brazil|Cascavel|DIGITAL DESIGN SERVIÇOS DE TELECOMUNICAÇÕES EIRELI|
-|16|36.91.68.148|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|103.176.97.166|8080|Indonesia|Purwakarta|PT Global Sarana Elektronika|
-|19|1.55.30.182|8080|Vietnam|Bắc Ninh|FPT Telecom Company|
-|20|67.43.236.19|20313|Canada|Montreal|GloboTech Communications|
+|9|1.55.30.182|8080|Vietnam|Bắc Ninh|FPT Telecom Company|
+|10|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|45.174.57.26|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|116.105.18.72|10010|Vietnam|Da Nang|Viettel Corporation|
+|15|3.0.249.239|8088|Singapore|Singapore|Amazon Technologies Inc.|
+|16|67.43.228.250|19219|Canada|Montreal|GloboTech Communications|
+|17|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|19|152.26.231.94|9443|United States|Concord|MCNC|
+|20|15.204.161.192|18080|United States|Reston|OVH SAS|
 
 
 
