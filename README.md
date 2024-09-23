@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|2|157.120.35.12|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|186.0.144.141|9595|Brazil|Araçatuba|Tellius Telecomunicacoes DAS Americas Ltda|
-|5|36.92.28.34|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|3|157.120.35.12|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|36.94.27.65|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|24.152.58.132|999|Colombia|Bucaramanga|Calltopbx S.A.S.|
-|8|103.175.224.93|4444|Indonesia|Jakarta|MYREPUBLIC|
-|9|202.47.88.38|3127|Indonesia|Jombang|PT. Java Digital Nusantara|
-|10|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|11|72.10.164.178|20989|Canada|Montreal|GloboTech Communications|
-|12|188.132.221.51|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|102.164.252.154|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
-|14|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
-|15|116.105.18.72|10005|Vietnam|Da Nang|Viettel Corporation|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|152.26.231.42|9443|United States|Concord|MCNC|
-|19|67.43.236.20|11905|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.171|21793|Canada|Montreal|GloboTech Communications|
+|7|188.132.222.54|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|8|27.112.70.42|8083|Indonesia|Jakarta|GRAHANET|
+|9|152.26.229.86|9443|United States|Concord|MCNC|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|152.26.231.42|9443|United States|Concord|MCNC|
+|12|152.26.231.86|9443|United States|Concord|MCNC|
+|13|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|14|45.231.170.137|999|Mexico|Juárez|GigNet, S.A. de C.V.|
+|15|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|152.26.229.46|9443|United States|Concord|MCNC|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|49.48.133.235|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|67.43.228.250|10937|Canada|Montreal|GloboTech Communications|
 
 
 
