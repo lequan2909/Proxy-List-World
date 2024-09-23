@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.204.161.192|18080|United States|Reston|OVH SAS|
-|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|3|157.120.35.12|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|5|182.253.137.44|8080|Indonesia|Jakarta Pusat|BIZNET|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|4|157.120.35.12|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|218.155.31.188|8080|South Korea|Seongnam-si|Korea Telecom|
 |6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|9|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|190.205.40.94|3128|Venezuela|Caracas|CANTV Servicios, Venezuela|
+|8|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|9|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
 |10|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|200.106.124.93|999|Peru|Tacna|Telefonica del Peru|
-|13|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|52.53.221.181|3128|United States|San Jose|Amazon.com, Inc.|
-|17|157.120.35.12|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|157.120.35.12|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|52.53.221.181|3128|United States|San Jose|Amazon.com, Inc.|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|152.26.231.94|9443|United States|Concord|MCNC|
+|19|116.105.18.72|10006|Vietnam|Da Nang|Viettel Corporation|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
