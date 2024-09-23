@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5212** proxies at the latest update. Usable proxies are below.
+> Scraper found **5186** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|106|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|652|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|626|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|132|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3364|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|5|157.120.35.12|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|93.171.130.11|3128|Ukraine|Dnipro|Shaporenko Yuri Nikolaevich|
-|8|190.205.40.94|3128|Venezuela|Caracas|CANTV Servicios, Venezuela|
-|9|218.155.31.188|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|13|103.178.194.226|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|14|157.120.34.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|52.53.221.181|3128|United States|San Jose|Amazon.com, Inc.|
-|16|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
-|17|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|152.26.229.83|9443|United States|Concord|MCNC|
-|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|4|157.120.35.12|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|189.201.153.89|999|Mexico|Tuxtla Gutiérrez|IP Matrix, S.A. de C.V.|
+|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|8|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|190.205.40.94|3128|Venezuela|Caracas|CANTV Servicios, Venezuela|
+|10|179.48.11.6|8085|Brazil|Campo Maior|Carnaubanet Ltda|
+|11|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|12|202.179.184.70|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana, PT|
+|13|157.100.57.180|999|Ecuador|Juan Montalvo|Ufinet Panama S.A.|
+|14|176.100.216.164|80|Russia|Orekhovo-Zuyevo|Telecom-Uslugi|
+|15|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|111.1.61.52|3128|China|Wenzhou|China Mobile communications corporation|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|152.26.231.94|9443|United States|Concord|MCNC|
 
 
 
