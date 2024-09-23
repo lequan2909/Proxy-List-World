@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|124.121.104.173|8080|Thailand|Bangkok|TRUEBB|
-|3|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
-|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|6|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|7|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
-|8|103.166.8.228|1080|Indonesia|Jakarta|PT Akses Bersama Sedaya|
-|9|78.158.171.69|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|10|103.88.90.129|8080|Indonesia|Malang|PT Paket Switch Bersama|
-|11|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|12|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|13|157.120.35.12|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|4|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
+|5|122.54.165.123|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|6|103.148.45.60|8833|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|7|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|8|175.137.69.120|3128|Malaysia|Petaling Jaya|TM TECHNOLOGY SERVICES SDN BHD|
+|9|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
+|10|103.69.20.55|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|11|203.190.53.197|8080|Indonesia|Jakarta|PT POWER TELECOM|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
+|14|201.65.173.180|8080|Brazil|Brasília|Claro S.A.|
+|15|78.158.171.69|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|16|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|17|103.232.20.158|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|18|36.94.55.42|3128|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
 
 
 
