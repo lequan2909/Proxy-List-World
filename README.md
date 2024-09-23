@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.204.161.192|18080|United States|Reston|OVH SAS|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|103.156.16.243|8080|Indonesia|Jakarta|RSTNET|
-|11|152.26.229.93|9443|United States|Concord|MCNC|
-|12|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|13|67.43.236.19|32283|Canada|Montreal|GloboTech Communications|
-|14|152.26.231.83|9443|United States|Concord|MCNC|
-|15|152.26.229.83|9443|United States|Concord|MCNC|
-|16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
-|18|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|67.43.227.226|17155|Canada|Montreal|GloboTech Communications|
-|20|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
+|10|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|67.43.228.253|1129|Canada|Montreal|GloboTech Communications|
+|12|191.252.191.254|3128|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|15|102.129.33.33|8080|Gabon|Libreville|General Business Machines SA|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|18|152.26.229.93|9443|United States|Concord|MCNC|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
 
 
 
