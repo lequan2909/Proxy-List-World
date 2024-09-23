@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
-|2|171.234.237.179|10004|Vietnam|Hanoi|Viettel Corporation|
-|3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|4|125.25.239.121|8080|Thailand|Bangkok|TOT Public Company Limited|
-|5|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
-|6|116.80.92.231|3128|Japan|Shimomeguro|InfoSphere|
-|7|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|8|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|13|67.43.228.253|10397|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|10397|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.228|25689|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
+|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|5|62.210.37.74|8012|France|Ivry-sur-Seine|Online S.A.S.|
+|6|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|7|27.73.100.249|10005|Vietnam|Hanoi|Newass2011xDSLHN|
+|8|62.23.184.84|8080|France|Paris|COLT Technology Services Group Limited|
+|9|116.80.92.231|3128|Japan|Shimomeguro|InfoSphere|
+|10|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|11|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|12|59.11.85.221|3128|South Korea|Seongnam-si|Korea Telecom|
+|13|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|14|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
 |16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|67.43.236.20|11537|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|203.192.217.6|8080|India|Delhi|Entire In2Cable|
-|20|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|1.55.30.182|8080|Vietnam|Bắc Ninh|FPT Telecom Company|
+|19|67.43.228.253|17111|Canada|Montreal|GloboTech Communications|
+|20|119.76.142.139|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
 
 
 
