@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|5.104.83.232|8090|Japan|Tokyo|Contabo Asia Private Limited|
-|3|35.240.131.226|3128|Singapore|Singapore|Google LLC|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|7|217.21.78.18|3128|United States|Phoenix|Hostinger International Limited|
-|8|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|140.238.230.215|3128|India|Mumbai|Oracle Corporation|
+|5|49.49.210.109|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
 |9|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|10|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|152.26.229.42|9443|United States|Concord|MCNC|
-|16|140.238.230.215|3128|India|Mumbai|Oracle Corporation|
-|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|152.26.229.34|9443|United States|Concord|MCNC|
-|19|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|72.10.160.170|21935|Canada|Montreal|GloboTech Communications|
+|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|117.0.180.194|5002|Vietnam|Tuyên Quang|Viettel Group|
+|12|45.76.71.170|8118|United States|Los Angeles|The Constant Company|
+|13|191.102.254.10|8083|Argentina|Rosario|IP·RED|
+|14|14.245.240.234|5004|Vietnam|Da Nang|VNPT|
+|15|204.157.251.225|999|Dominican Republic|El Factor|Sequre Networks SRL|
+|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|18|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
