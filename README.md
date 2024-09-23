@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.92.230|3128|Japan|Shimomeguro|InfoSphere|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|4|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
-|5|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
-|6|103.165.155.107|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|7|45.233.169.10|999|Colombia|Popayán|Simect Group Redes E Internet S.A.S|
-|8|213.145.150.77|8080|Kyrgyzstan|Bishkek|OJSC Kyrgyztelecom|
-|9|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|88.255.102.13|8080|Türkiye|Istanbul|TurkTelekom|
-|13|189.232.93.142|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|14|103.40.121.91|8080|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
-|15|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|116.105.18.72|10005|Vietnam|Da Nang|Viettel Corporation|
-|17|116.80.60.145|3128|Japan|Tokyo|InfoSphere|
-|18|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|19|152.26.229.93|9443|United States|Concord|MCNC|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|1|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|2|189.232.93.142|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|3|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|5|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|6|116.80.60.145|3128|Japan|Tokyo|InfoSphere|
+|7|152.26.229.93|9443|United States|Concord|MCNC|
+|8|72.10.164.178|21873|Canada|Montreal|GloboTech Communications|
+|9|116.80.76.80|3128|Japan|Shimomeguro|InfoSphere|
+|10|152.26.231.93|9443|United States|Concord|MCNC|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|72.10.160.170|9301|Canada|Montreal|GloboTech Communications|
+|13|152.26.229.46|9443|United States|Concord|MCNC|
+|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|152.26.231.83|9443|United States|Concord|MCNC|
+|16|72.10.160.172|7413|Canada|Montreal|GloboTech Communications|
+|17|152.26.231.94|9443|United States|Concord|MCNC|
+|18|72.10.164.178|21873|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|21873|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
