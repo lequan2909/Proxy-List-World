@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|496|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|496|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|496|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|195.201.34.206|80|Germany|Nuremberg|Hetzner Online GmbH|
-|6|103.234.159.5|8080|India|Bengaluru|MWPL|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|38.156.72.40|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|10|110.39.161.62|8080|Pakistan|Renala Khurd|Wateen Telecom Limited|
-|11|103.147.73.33|1080|Indonesia|Kediri|ALFATINDO|
-|12|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|190.94.212.43|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|185.98.219.252|8080|Türkiye|Istanbul|Filika Internet ve Iletisim Hizmetleri A.S.|
-|19|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|20|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|203.150.128.250|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|8|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|119.148.55.89|1419|Bangladesh|Dhaka|Agni Systems Limited|
+|14|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|16|200.116.198.222|9812|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P|
+|17|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|18|140.238.230.215|3128|India|Mumbai|Oracle Corporation|
+|19|103.159.194.121|8080|Indonesia|Temanjang|PT Giga Digital Nusantara|
+|20|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 
 
 
