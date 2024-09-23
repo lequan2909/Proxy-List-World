@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|65.1.244.232|80|India|Mumbai|Amazon.com|
-|2|52.53.221.181|3128|United States|San Jose|Amazon.com, Inc.|
-|3|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|4|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|152.26.229.47|9443|United States|Concord|MCNC|
-|7|152.26.231.94|9443|United States|Concord|MCNC|
-|8|152.26.229.93|9443|United States|Concord|MCNC|
-|9|74.48.45.120|80|United States|Los Angeles|Multacom Corporation|
-|10|152.26.231.86|9443|United States|Concord|MCNC|
-|11|72.10.160.91|2071|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|32943|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.170|1141|Canada|Montreal|GloboTech Communications|
-|14|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|67.43.227.227|22847|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.229|2419|Canada|Montreal|GloboTech Communications|
-|17|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|19|72.10.160.93|17973|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|3053|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|210.87.125.58|1080|Indonesia|Kediri|CV Brawijaya Giga Network|
+|3|52.53.221.181|3128|United States|San Jose|Amazon.com, Inc.|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|165.90.89.38|3128|Mozambique|Maputo|Moztel LDA|
+|6|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|7|116.68.162.82|8080|Indonesia|Kediri|PT. Sumber Data Indonesia|
+|8|152.26.231.94|9443|United States|Concord|MCNC|
+|9|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|10|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|11|152.26.229.93|9443|United States|Concord|MCNC|
+|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|13|152.26.231.86|9443|United States|Concord|MCNC|
+|14|152.26.229.47|9443|United States|Concord|MCNC|
+|15|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
+|17|171.232.191.206|10004|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|18|72.10.160.172|29139|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|9367|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
