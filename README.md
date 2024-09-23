@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|103.36.11.246|8181|Indonesia|Pandeglang|PT Awinet Global Mandiri|
-|4|114.7.160.142|8080|Indonesia|Tangerang|PT. INDOSAT Tbk|
-|5|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
-|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|7|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
-|8|189.232.93.142|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|9|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|10|103.203.233.105|3125|Indonesia|Klapanunggal|INDANA|
-|11|103.84.176.100|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|12|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|13|49.231.129.3|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.160.94|25987|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|29739|Canada|Montreal|GloboTech Communications|
-|18|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|67.43.227.228|12985|Canada|Montreal|GloboTech Communications|
-|20|103.155.197.68|8181|Indonesia|Sukabumi|JEMBATANDATA|
+|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|171.235.149.110|1007|Vietnam|Thu Dau Mot|Viettel Corporation|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|5|189.232.93.142|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|6|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|7|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|8|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
+|12|72.10.160.170|18335|Canada|Montreal|GloboTech Communications|
+|13|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|67.43.236.20|19711|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.20|19711|Canada|Montreal|GloboTech Communications|
+|16|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|67.43.227.228|7153|Canada|Montreal|GloboTech Communications|
+|18|152.26.231.94|9443|United States|Concord|MCNC|
+|19|67.43.228.253|23543|Canada|Montreal|GloboTech Communications|
+|20|152.26.231.93|9443|United States|Concord|MCNC|
 
 
 
