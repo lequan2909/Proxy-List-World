@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
-|7|171.242.153.16|8000|Vietnam|Hanoi|Viettel Corporation|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|190.92.151.66|9002|United States|Phoenix|A2 Hosting, Inc.|
-|11|103.122.142.174|8080|Bangladesh|Dhaka|Carnival Internet|
-|12|101.109.63.40|8080|Thailand|Pattaya|TOT Public Company Limited|
-|13|172.234.252.95|50514|United States|Tukwila|Akamai Technologies, Inc.|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|103.173.230.147|9191|Indonesia|Serang|PT Jaringan Internet Banten|
-|16|103.203.233.105|3125|Indonesia|Klapanunggal|INDANA|
-|17|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|18|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|19|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|4|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
+|8|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|9|181.88.151.38|8080|Argentina|Buenos Aires|Telecom Argentina S.A|
+|10|212.236.38.166|8081|Austria|Vienna|Video-Broadcast|
+|11|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
+|12|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|27.147.155.42|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 
 
 
