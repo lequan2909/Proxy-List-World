@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|190.92.151.66|9002|United States|Phoenix|A2 Hosting, Inc.|
-|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|7|152.26.229.47|9443|United States|Concord|MCNC|
-|8|67.43.228.250|23571|Canada|Montreal|GloboTech Communications|
-|9|49.70.190.154|8089|China|Nanjing|Chinanet|
-|10|72.10.164.178|15053|Canada|Montreal|GloboTech Communications|
-|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|12|72.10.164.178|15053|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|31621|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|18733|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.93|9443|United States|Concord|MCNC|
-|16|67.43.236.18|4505|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|2227|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.92|30415|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.34|9443|United States|Concord|MCNC|
-|20|67.43.236.20|31621|Canada|Montreal|GloboTech Communications|
+|4|36.67.114.94|8187|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|5|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
+|6|152.26.229.47|9443|United States|Concord|MCNC|
+|7|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|8|152.26.229.93|9443|United States|Concord|MCNC|
+|9|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|10|72.10.160.170|18733|Canada|Montreal|GloboTech Communications|
+|11|152.26.229.34|9443|United States|Concord|MCNC|
+|12|152.26.229.46|9443|United States|Concord|MCNC|
+|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|106.227.95.142|3129|China|Taohua|China Telecom|
+|15|49.70.190.154|8089|China|Nanjing|Chinanet|
+|16|72.10.164.178|11145|Canada|Montreal|GloboTech Communications|
+|17|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|152.26.231.94|9443|United States|Concord|MCNC|
+|19|72.10.164.178|11145|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.226|24063|Canada|Montreal|GloboTech Communications|
 
 
 
