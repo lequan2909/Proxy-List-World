@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|5|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
-|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|7|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|8|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
+|2|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|5|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|6|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
 |9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|11|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
-|12|103.125.38.82|8080|Indonesia|Surabaya|PT. Eka Mas Republik|
-|13|103.171.182.229|8080|Indonesia|Bogor|PT Hayat Teknologi Informatika|
-|14|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|10|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|12|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|13|185.98.219.252|8080|Türkiye|Istanbul|Filika Internet ve Iletisim Hizmetleri A.S.|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|38.50.166.244|999|Dominican Republic|Santiago de los Caballeros|Israel De Los Santos Wifi SRL|
-|17|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|72.10.164.178|17141|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|11541|Canada|Montreal|GloboTech Communications|
+|16|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|19|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
+|20|190.52.108.248|6666|Venezuela|Porlamar|Gold Data USA Inc|
 
 
 
