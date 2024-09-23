@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|157.120.35.12|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|147.135.135.51|3128|France|Paris|OVH SAS|
-|6|45.225.204.8|999|Chile|Las Cabras|Netdelsur Telecomunicaciones SPA|
-|7|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|152.26.229.86|9443|United States|Concord|MCNC|
-|9|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|10|152.26.229.34|9443|United States|Concord|MCNC|
-|11|152.26.229.93|9443|United States|Concord|MCNC|
-|12|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|72.10.164.178|16539|Canada|Montreal|GloboTech Communications|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|72.10.160.171|22837|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|18063|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.19|15745|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|16539|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.19|15745|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|14089|Canada|Montreal|GloboTech Communications|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|147.135.135.51|3128|France|Paris|OVH SAS|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|10|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|12|152.26.229.34|9443|United States|Concord|MCNC|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
+|14|152.26.229.93|9443|United States|Concord|MCNC|
+|15|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|152.26.229.83|9443|United States|Concord|MCNC|
+|17|67.43.236.20|14583|Canada|Montreal|GloboTech Communications|
+|18|183.134.101.182|3128|China|Hangzhou|Chinanet|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
 
