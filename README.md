@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.198.180.152|8080|Croatia|Zagreb|Croatian Academic and Research Network|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|147.135.135.51|3128|France|Paris|OVH SAS|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|6|103.131.19.156|3127|Indonesia|Pasarkemis|PT Global Media Data Prima|
-|7|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|8|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|10|190.110.98.203|999|Chile|Santa Cruz|Silica Networks Argentina S.A.|
-|11|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|116.80.60.145|3128|Japan|Tokyo|InfoSphere|
-|13|103.122.1.14|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
-|14|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
-|15|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|16|52.53.221.181|3128|United States|San Jose|Amazon.com, Inc.|
-|17|152.26.229.83|9443|United States|Concord|MCNC|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|152.26.229.47|9443|United States|Concord|MCNC|
+|3|193.198.180.152|8080|Croatia|Zagreb|Croatian Academic and Research Network|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|188.72.6.178|8083|Iraq|Sulaymaniyah|AL-SARD FIBER Co. for Internet Fiber and Optical Cable Services /Ltd.|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|177.23.176.58|8080|Brazil|Rio de Janeiro|JM TELECOMUNICACOES E MANUTENCAO DE COMP. EIRELI|
+|9|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|13|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|14|49.157.62.203|8181|Philippines|Makati City|Eastern Telecommunications Philippines, Inc.|
+|15|116.80.60.145|3128|Japan|Tokyo|InfoSphere|
+|16|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|17|103.88.237.91|84|India|Hyderabad|Mana Communications|
+|18|103.164.116.172|8080|Indonesia|Jakarta|SOLUSINET|
+|19|52.53.221.181|3128|United States|San Jose|Amazon.com, Inc.|
 |20|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
