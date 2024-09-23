@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|2|118.43.114.10|8080|South Korea|Gunsan|Korea Telecom|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|93.171.130.11|3128|Ukraine|Dnipro|Shaporenko Yuri Nikolaevich|
-|5|103.137.83.120|8080|Indonesia|Denpasar|PT TELIO INTI NUSA|
-|6|43.156.240.241|59394|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|115.72.46.96|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|8|116.80.60.145|3128|Japan|Tokyo|InfoSphere|
-|9|61.129.2.212|8080|China|Beijing|CHINANET|
-|10|152.26.229.46|9443|United States|Concord|MCNC|
-|11|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|12|67.43.227.227|5803|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|20715|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.34|9443|United States|Concord|MCNC|
-|15|67.43.236.20|7553|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|152.26.229.47|9443|United States|Concord|MCNC|
-|20|67.43.227.227|5803|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|1.0.171.213|8080|Thailand|Wang Noi|TOT Public Company Limited|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|5|4.240.114.84|3128|India|Pune|Microsoft Corporation|
+|6|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
+|7|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|103.160.184.155|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
+|10|103.179.241.103|8080|Pakistan|Lahore|SuperUser Networks|
+|11|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
+|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|187.49.86.114|8222|Brazil|Cascavel|DIGITAL DESIGN SERVIÇOS DE TELECOMUNICAÇÕES EIRELI|
+|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|15|116.80.60.145|3128|Japan|Tokyo|InfoSphere|
+|16|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|17|152.26.229.46|9443|United States|Concord|MCNC|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|116.105.18.72|10008|Vietnam|Da Nang|Viettel Corporation|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
