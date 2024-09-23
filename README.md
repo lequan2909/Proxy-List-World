@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|4|49.48.90.38|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|5|103.156.141.151|3127|Indonesia|Jember|PT Tekling Media Telematika|
-|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|7|177.68.149.122|8080|Brazil|Barueri|Vivo|
-|8|138.59.151.162|8080|Brazil|Porto Feliz|Wireless Comm Services LTDA|
-|9|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|10|95.46.7.154|8989|Ukraine|Kosiv|Struk Vasil Fedorovich|
-|11|72.10.164.178|29397|Canada|Montreal|GloboTech Communications|
-|12|27.73.100.249|10008|Vietnam|Hanoi|Newass2011xDSLHN|
-|13|104.128.103.32|51110|United States|Honolulu|Dialogix Telecom|
-|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|72.10.160.171|29331|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|6931|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|18951|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.47|9443|United States|Concord|MCNC|
-|19|72.10.160.170|6931|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.174|9713|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|3|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|5|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|6|49.48.90.38|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|152.26.229.47|9443|United States|Concord|MCNC|
+|10|152.26.229.86|9443|United States|Concord|MCNC|
+|11|72.10.164.178|10627|Canada|Montreal|GloboTech Communications|
+|12|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
+|13|67.43.227.228|3687|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|10627|Canada|Montreal|GloboTech Communications|
+|15|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|67.43.236.20|6229|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|10627|Canada|Montreal|GloboTech Communications|
+|18|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
+|19|72.10.164.178|10627|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.228|3687|Canada|Montreal|GloboTech Communications|
 
 
 
