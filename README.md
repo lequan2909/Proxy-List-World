@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5547** proxies at the latest update. Usable proxies are below.
+> Scraper found **5493** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|110|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|828|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|774|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|203|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3448|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|118.43.114.10|8080|South Korea|Gunsan|Korea Telecom|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|8|93.171.130.11|3128|Ukraine|Dnipro|Shaporenko Yuri Nikolaevich|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
+|5|93.171.130.11|3128|Ukraine|Dnipro|Shaporenko Yuri Nikolaevich|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|80.78.75.80|8080|Albania|Tirana|ABCom|
+|8|118.43.114.10|8080|South Korea|Gunsan|Korea Telecom|
 |9|15.204.161.192|18080|United States|Reston|OVH SAS|
 |10|118.43.114.10|8080|South Korea|Gunsan|Korea Telecom|
-|11|117.6.55.135|10003|Vietnam|Hanoi|Viettel Corporation|
-|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|103.166.227.85|8080|Indonesia|Majalengka|PT Arta Flash Sintesa Nusantara|
-|14|103.102.15.41|18181|Indonesia|Rembangan|FISNET|
-|15|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
-|16|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|17|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|19|5.2.228.168|8888|Romania|Constanța|RCS & RDS|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|11|187.49.86.114|8222|Brazil|Cascavel|DIGITAL DESIGN SERVIÇOS DE TELECOMUNICAÇÕES EIRELI|
+|12|190.53.46.11|38525|Nicaragua|Ticuantepe|Amnet Telecomunicaciones S.A.|
+|13|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|177.93.59.71|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
+|17|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
+|18|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|19|114.130.153.58|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
