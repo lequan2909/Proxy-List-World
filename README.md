@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5306** proxies at the latest update. Usable proxies are below.
+> Scraper found **5419** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|96|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|624|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|97|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|736|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|194|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3434|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.92.230|3128|Japan|Shimomeguro|InfoSphere|
 |3|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|4|202.152.24.50|8080|Indonesia|Jakarta Pusat|PT Aplikanusa Lintasarta|
-|5|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|7|103.84.176.98|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|8|36.76.172.65|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
-|9|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|11|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|12|41.174.132.58|8080|DR Congo|Kinshasa|Liquid Telecommunications Ltd|
-|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|152.26.231.83|9443|United States|Concord|MCNC|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|152.26.229.47|9443|United States|Concord|MCNC|
-|19|103.189.197.83|8181|Indonesia|Serang|PT Graha Sumber Teknologi|
-|20|67.43.236.20|24193|Canada|Montreal|GloboTech Communications|
+|4|178.254.42.100|8118|Germany|Berlin|BLU-VH|
+|5|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|6|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|7|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
+|8|103.40.121.91|8080|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|116.111.113.244|10002|Vietnam|Hanoi|Viettel Corporation|
+|11|46.164.236.43|8888|Russia|Voronezh|AO IK "Informsvyaz-Chernozemye"|
+|12|202.57.25.86|8080|Indonesia|Semarang|announced of WINET|
+|13|110.78.146.148|8080|Thailand|Ko Samui|CAT-BB|
+|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|152.26.231.94|9443|United States|Concord|MCNC|
+|16|152.26.229.83|9443|United States|Concord|MCNC|
+|17|152.26.229.86|9443|United States|Concord|MCNC|
+|18|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|19|67.43.236.20|29741|Canada|Montreal|GloboTech Communications|
+|20|152.26.231.93|9443|United States|Concord|MCNC|
 
 
 
