@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
-|3|177.75.1.33|8080|Brazil|Formosa|Networld Provedor e Servicos de Internet Ltda|
-|4|116.80.60.145|3128|Japan|Tokyo|InfoSphere|
-|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|157.120.35.12|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|7|103.173.230.147|9191|Indonesia|Serang|PT Jaringan Internet Banten|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|4|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
+|5|212.123.230.250|8181|The Netherlands|Amsterdam|COLT Technology Services Group Limited|
+|6|116.80.60.145|3128|Japan|Tokyo|InfoSphere|
+|7|157.120.35.12|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |8|152.26.229.86|9443|United States|Concord|MCNC|
-|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|10|152.26.229.47|9443|United States|Concord|MCNC|
-|11|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|9|152.26.229.47|9443|United States|Concord|MCNC|
+|10|152.26.231.86|9443|United States|Concord|MCNC|
+|11|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|152.26.231.86|9443|United States|Concord|MCNC|
-|14|114.130.153.58|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|67.43.227.227|7541|Canada|Montreal|GloboTech Communications|
-|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|67.43.236.20|15419|Canada|Montreal|GloboTech Communications|
-|19|58.27.218.28|3128|Pakistan|Lahore|Wateen Telecom Limited|
-|20|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|13|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|15|114.130.153.58|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|16|152.26.229.46|9443|United States|Concord|MCNC|
+|17|15.204.161.192|18080|United States|Reston|OVH SAS|
+|18|67.43.236.20|11489|Canada|Montreal|GloboTech Communications|
+|19|116.80.92.231|3128|Japan|Shimomeguro|InfoSphere|
+|20|67.43.227.227|21611|Canada|Montreal|GloboTech Communications|
 
 
 
