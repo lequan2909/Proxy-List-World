@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.204.161.192|18080|United States|Reston|OVH SAS|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|4|3.10.93.50|80|United Kingdom|London|Amazon Technologies Inc.|
-|5|103.250.130.104|1111|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|190.205.40.94|3128|Venezuela|Caracas|CANTV Servicios, Venezuela|
-|9|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|12|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|13|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|14|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|152.26.229.93|9443|United States|Concord|MCNC|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|67.43.236.20|2209|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|152.26.229.47|9443|United States|Concord|MCNC|
-|20|72.10.160.171|23339|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|5|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|6|3.10.93.50|80|United Kingdom|London|Amazon Technologies Inc.|
+|7|93.171.130.11|3128|Ukraine|Dnipro|Shaporenko Yuri Nikolaevich|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|218.155.31.188|8080|South Korea|Seongnam-si|Korea Telecom|
+|10|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|152.26.229.93|9443|United States|Concord|MCNC|
+|12|45.143.108.114|8080|Georgia|Zestaponi|Airmax LLC|
+|13|152.26.231.42|9443|United States|Concord|MCNC|
+|14|152.26.229.83|9443|United States|Concord|MCNC|
+|15|152.26.229.42|9443|United States|Concord|MCNC|
+|16|152.26.229.47|9443|United States|Concord|MCNC|
+|17|72.10.160.173|20449|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.171|23339|Canada|Montreal|GloboTech Communications|
+|19|36.92.28.34|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
