@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|2|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|8|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|10|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|11|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
-|12|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|15|50.6.192.80|3128|United States|Jacksonville|Network Solutions, LLC|
-|16|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|17|147.78.1.154|8080|Mexico|Mexico City|ONEPROVIDER|
-|18|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|103.189.249.204|8092|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
+|1|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|5|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|6|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|50.6.192.80|3128|United States|Jacksonville|Network Solutions, LLC|
+|9|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|12|182.253.93.4|53281|Indonesia|Jakarta Pusat|BIZNET|
+|13|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|13.40.11.160|3128|United Kingdom|London|Amazon Technologies Inc.|
+|16|80.240.202.218|8080|Kenya|Nairobi|Liquid Telecommunications Ltd|
+|17|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|188.132.222.13|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
+|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
