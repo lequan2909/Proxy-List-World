@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
-|3|77.41.146.28|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|4|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|5|117.0.180.215|5002|Vietnam|Tuyên Quang|Viettel Group|
-|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|7|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
-|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|2|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|3|140.238.230.215|3128|India|Mumbai|Oracle Corporation|
+|4|77.41.146.28|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|6|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
+|7|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|8|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|9|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
 |10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|118.43.114.10|8080|South Korea|Gunsan|Korea Telecom|
+|11|118.43.114.10|8080|South Korea|Gunsan|Korea Telecom|
+|12|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
+|13|209.146.20.226|8082|Philippines|Manila|Cogent Communications|
 |14|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|103.74.229.133|8080|Bangladesh|Kushtia|Windstream Communication Ltd|
-|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|140.238.230.215|3128|India|Mumbai|Oracle Corporation|
-|19|111.224.217.101|8089|China|Shijiazhuang|Chinanet|
-|20|116.80.76.80|3128|Japan|Shimomeguro|InfoSphere|
+|15|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|16|176.32.2.193|8080|Ukraine|Khmelnytskyi|Lanet Network|
+|17|49.49.210.109|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
