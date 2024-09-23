@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|118.43.114.10|8080|South Korea|Gunsan|Korea Telecom|
+|3|171.234.226.185|10006|Vietnam|Hanoi|Viettel Corporation|
 |4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|93.171.130.11|3128|Ukraine|Dnipro|Shaporenko Yuri Nikolaevich|
-|6|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|152.26.229.47|9443|United States|Concord|MCNC|
-|10|152.26.231.93|9443|United States|Concord|MCNC|
-|11|152.26.229.42|9443|United States|Concord|MCNC|
-|12|152.26.231.42|9443|United States|Concord|MCNC|
-|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|14|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|15|72.10.164.178|6271|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.94|23645|Canada|Montreal|GloboTech Communications|
-|17|14.245.240.234|5002|Vietnam|Da Nang|VNPT|
+|5|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|202.47.88.38|3127|Indonesia|Jombang|PT. Java Digital Nusantara|
+|8|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
+|9|103.247.23.181|1111|Indonesia|Bekasi|PT wifian Solution|
+|10|103.186.204.52|8089|Indonesia|Tasikmalaya|PT Afna Digital Indonesia|
+|11|152.26.229.47|9443|United States|Concord|MCNC|
+|12|152.26.231.93|9443|United States|Concord|MCNC|
+|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
+|15|50.204.36.138|60808|United States|Sacramento|Comcast Cable Communications, LLC|
+|16|152.26.231.42|9443|United States|Concord|MCNC|
+|17|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |18|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|67.43.227.227|18633|Canada|Montreal|GloboTech Communications|
+|19|60.217.33.47|9999|China|Weifang|CNC Group CHINA169 Shandong Province Network|
 |20|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
 
 
