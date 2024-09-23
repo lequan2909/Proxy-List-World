@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|189.232.93.142|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|4|116.80.60.145|3128|Japan|Tokyo|InfoSphere|
-|5|59.38.62.64|9999|China|Guangzhou|Chinanet|
-|6|152.26.229.47|9443|United States|Concord|MCNC|
-|7|152.26.229.42|9443|United States|Concord|MCNC|
-|8|152.26.231.93|9443|United States|Concord|MCNC|
-|9|67.43.236.20|16455|Canada|Montreal|GloboTech Communications|
-|10|152.26.231.86|9443|United States|Concord|MCNC|
-|11|152.26.231.94|9443|United States|Concord|MCNC|
-|12|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|13|174.138.167.250|39481|United States|Phoenix|Secured Servers LLC|
-|14|72.10.160.171|30867|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|8083|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|8083|Canada|Montreal|GloboTech Communications|
-|17|118.117.189.241|8089|China|Muping|Chinanet|
-|18|72.10.164.178|8083|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.83|9443|United States|Concord|MCNC|
-|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
+|3|36.64.27.57|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|4|152.26.229.47|9443|United States|Concord|MCNC|
+|5|116.80.60.145|3128|Japan|Tokyo|InfoSphere|
+|6|152.26.229.42|9443|United States|Concord|MCNC|
+|7|152.26.231.93|9443|United States|Concord|MCNC|
+|8|181.49.177.198|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|9|189.124.85.77|33333|Brazil|Presidente Epitácio|FIT Telecom Eireli|
+|10|152.26.231.94|9443|United States|Concord|MCNC|
+|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|152.26.231.86|9443|United States|Concord|MCNC|
+|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|72.10.164.178|7789|Canada|Montreal|GloboTech Communications|
+|15|152.26.229.83|9443|United States|Concord|MCNC|
+|16|72.10.164.178|7789|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|7789|Canada|Montreal|GloboTech Communications|
+|18|116.80.47.31|3128|Japan|Tokyo|InfoSphere|
+|19|72.10.160.171|16625|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
