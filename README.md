@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|101.109.62.252|8080|Thailand|Pattaya|TOT Public Company Limited|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
-|5|181.39.48.120|999|Ecuador|Quito|Telconet S.A|
-|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|101.109.62.252|8080|Thailand|Pattaya|TOT Public Company Limited|
+|5|171.242.153.16|8000|Vietnam|Hanoi|Viettel Corporation|
+|6|181.39.48.120|999|Ecuador|Quito|Telconet S.A|
+|7|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
+|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|9|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
 |10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
-|13|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|14|116.80.92.231|3128|Japan|Shimomeguro|InfoSphere|
-|15|152.26.231.93|9443|United States|Concord|MCNC|
-|16|160.22.190.10|8080|Indonesia|Loakulu|PT Aldiyanur Mahakam Telemedia|
-|17|72.10.164.178|2929|Canada|Montreal|GloboTech Communications|
-|18|15.204.161.192|18080|United States|Reston|OVH SAS|
-|19|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|15.204.161.192|18080|United States|Reston|OVH SAS|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|15.204.161.192|18080|United States|Reston|OVH SAS|
+|14|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|15|116.80.92.231|3128|Japan|Shimomeguro|InfoSphere|
+|16|59.38.62.64|9999|China|Guangzhou|Chinanet|
+|17|152.26.231.93|9443|United States|Concord|MCNC|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|72.10.164.178|2929|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
