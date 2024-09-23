@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5491** proxies at the latest update. Usable proxies are below.
+> Scraper found **5476** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|109|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|692|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|677|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|188|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3544|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
-|3|103.173.230.147|9191|Indonesia|Serang|PT Jaringan Internet Banten|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|36.64.27.57|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|6|152.26.231.93|9443|United States|Concord|MCNC|
-|7|152.26.229.86|9443|United States|Concord|MCNC|
-|8|152.26.229.83|9443|United States|Concord|MCNC|
-|9|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|111.1.61.53|3128|China|Wenzhou|China Mobile communications corporation|
-|11|152.26.231.42|9443|United States|Concord|MCNC|
-|12|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
-|13|116.80.92.231|3128|Japan|Shimomeguro|InfoSphere|
-|14|171.232.191.206|10005|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|15|152.26.231.83|9443|United States|Concord|MCNC|
-|16|190.53.46.11|38525|Nicaragua|Ticuantepe|Amnet Telecomunicaciones S.A.|
-|17|67.43.236.19|30405|Canada|Montreal|GloboTech Communications|
-|18|157.120.35.12|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|67.43.228.253|11957|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|7241|Canada|Montreal|GloboTech Communications|
+|5|14.245.102.33|8080|Vietnam|Qui Nhon|VNPT|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|152.26.231.86|9443|United States|Concord|MCNC|
+|8|152.26.231.94|9443|United States|Concord|MCNC|
+|9|152.26.229.47|9443|United States|Concord|MCNC|
+|10|152.26.231.83|9443|United States|Concord|MCNC|
+|11|181.48.155.78|8003|Colombia|Bogotá|Telmex Colombia S.A.|
+|12|152.26.231.93|9443|United States|Concord|MCNC|
+|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|14|152.26.229.46|9443|United States|Concord|MCNC|
+|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|72.10.164.178|29663|Canada|Montreal|GloboTech Communications|
+|18|209.14.118.161|999|Colombia|Neiva|AGIS|
+|19|67.43.227.228|7349|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|32887|Canada|Montreal|GloboTech Communications|
 
 
 
