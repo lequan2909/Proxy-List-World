@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|52.53.221.181|3128|United States|San Jose|Amazon.com, Inc.|
 |3|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|4|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|5|52.53.221.181|3128|United States|San Jose|Amazon.com, Inc.|
-|6|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
-|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|8|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|9|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|10|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
-|11|103.174.236.88|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|12|175.137.69.120|3128|Malaysia|Petaling Jaya|TM TECHNOLOGY SERVICES SDN BHD|
-|13|45.114.88.214|8080|Bangladesh|Dhaka|THE NET HEADS|
-|14|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|18|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|36.93.22.154|8080|Indonesia|Keagungan|Telekomunikasi Indonesia|
+|4|52.53.221.181|3128|United States|San Jose|Amazon.com, Inc.|
+|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|6|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
+|9|103.88.90.129|8080|Indonesia|Malang|PT Paket Switch Bersama|
+|10|189.85.82.38|3128|Brazil|Brasília|Networld Provedor e Servicos de Internet Ltda|
+|11|103.189.96.196|8085|Indonesia|Sragen|Lintas Data Prima, PT|
+|12|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
+|13|131.100.51.161|999|Colombia|Neiva|Fibernet TV SAS|
+|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|15|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|16|112.198.129.234|8085|Philippines|Nasugbu|Globe Telecom|
+|17|103.189.250.65|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|18|200.201.134.188|8787|Brazil|São Paulo|Telium Telecomunicações Ltda|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|103.154.90.190|8080|Indonesia|Jakarta|MORATELINDONAP|
 
 
 
