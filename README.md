@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|2|189.232.93.142|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|6|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|152.26.229.34|9443|United States|Concord|MCNC|
-|9|152.26.229.86|9443|United States|Concord|MCNC|
-|10|148.72.140.24|30134|United States|St Louis|GoDaddy.com|
-|11|152.26.229.46|9443|United States|Concord|MCNC|
-|12|72.10.164.178|9205|Canada|Montreal|GloboTech Communications|
-|13|152.26.229.42|9443|United States|Concord|MCNC|
-|14|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
-|15|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|17|67.43.236.18|27477|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.47|9443|United States|Concord|MCNC|
-|19|72.10.160.94|23459|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.251|2691|Canada|Montreal|GloboTech Communications|
+|2|103.255.241.101|8080|Indonesia|Purwokerto|PT Media Sarana Data|
+|3|189.232.93.142|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|4|37.111.52.41|8080|Myanmar|Yangon|Telenor Myanmar|
+|5|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|116.68.162.82|8080|Indonesia|Kediri|PT. Sumber Data Indonesia|
+|7|38.255.72.164|999|Venezuela|Maracaibo|Maxi Cable C.A|
+|8|103.189.116.109|8080|Indonesia|Temanggung|PT Callysta Total Solusindo|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|152.26.229.34|9443|United States|Concord|MCNC|
+|12|152.26.229.86|9443|United States|Concord|MCNC|
+|13|152.26.229.46|9443|United States|Concord|MCNC|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
+|15|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|16|72.10.164.178|13071|Canada|Montreal|GloboTech Communications|
+|17|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
+|18|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|27.147.137.90|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
