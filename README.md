@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|157.120.35.12|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|4|200.106.124.93|999|Peru|Tacna|Telefonica del Peru|
-|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|6|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|8|177.221.44.89|49999|Brazil|Jaboatão dos Guararapes|1telecom Servicos De Tecnologia EM Internet Ltda|
-|9|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|10|157.120.35.12|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|12|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|14|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|15|202.142.158.114|8080|Pakistan|Karachi|Gerrys Information Technology (PVT) Ltd|
-|16|152.26.229.47|9443|United States|Concord|MCNC|
-|17|152.26.231.93|9443|United States|Concord|MCNC|
-|18|67.43.236.20|17771|Canada|Montreal|GloboTech Communications|
-|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|72.10.164.178|14711|Canada|Montreal|GloboTech Communications|
+|3|200.106.124.93|999|Peru|Tacna|Telefonica del Peru|
+|4|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|186.96.174.168|80|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
+|6|102.164.252.154|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
+|7|157.120.35.12|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|8|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|152.26.229.47|9443|United States|Concord|MCNC|
+|11|152.26.231.93|9443|United States|Concord|MCNC|
+|12|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|15|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
+|18|67.43.236.20|2215|Canada|Montreal|GloboTech Communications|
+|19|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 
 
 
