@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|410|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|410|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|410|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |4|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|203.150.128.102|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|7|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|203.150.128.250|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|10|41.139.233.5|8080|Kenya|Nairobi|Converged services Coast|
-|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|12|122.2.48.121|8080|Philippines|Ormoc City|Philippine Long Distance Telephone Co.|
-|13|46.164.236.43|8888|Russia|Voronezh|AO IK "Informsvyaz-Chernozemye"|
-|14|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|178.211.130.186|3128|Turkey|Osmangazi|PENTECH BILISIM TEKNOLOJILERI SANAYI VE TICARET LIMITED SIRKETi|
-|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|17|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|18|202.154.18.141|8088|Indonesia|Jombang|DIGITNET|
-|19|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|20|188.138.125.4|8080|Germany|Frankfurt am Main|velia.net Internetdienste GmbH|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|7|203.150.128.102|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|8|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
+|14|176.32.2.193|8080|Ukraine|Khmelnytskyi|Lanet Network|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|200.195.235.226|3128|Brazil|Salvador|BR.Digital Provider|
+|17|177.11.190.84|8080|Brazil|Franca|Multpontos Telecomunicações Ltda - ME|
+|18|177.93.40.56|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|19|154.73.28.161|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|20|103.48.70.57|83|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
