@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
-|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|7|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|10|181.224.205.42|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
-|11|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|12|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|13|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|14|103.148.45.60|8833|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
-|15|103.165.253.194|8080|Indonesia|Pamanukan|PT Pelangi Communication Network|
-|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|17|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|19|152.26.229.93|9443|United States|Concord|MCNC|
-|20|152.26.229.42|9443|United States|Concord|MCNC|
+|1|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|2|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
+|3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|4|212.88.109.97|8080|Uganda|Kampala|MTN Uganda|
+|5|103.247.21.234|8080|Indonesia|Bekasi|PT wifian Solution|
+|6|117.4.115.59|8080|Vietnam|Bắc Ninh|VIETTEL|
+|7|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|9|152.26.229.42|9443|United States|Concord|MCNC|
+|10|152.26.229.93|9443|United States|Concord|MCNC|
+|11|152.26.231.93|9443|United States|Concord|MCNC|
+|12|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
+|13|152.26.229.83|9443|United States|Concord|MCNC|
+|14|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|15|152.26.231.94|9443|United States|Concord|MCNC|
+|16|152.26.229.46|9443|United States|Concord|MCNC|
+|17|103.165.253.194|8080|Indonesia|Pamanukan|PT Pelangi Communication Network|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|72.10.160.173|31363|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.47|9443|United States|Concord|MCNC|
 
 
 
