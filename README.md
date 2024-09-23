@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|4|50.6.192.80|3128|United States|Jacksonville|Network Solutions, LLC|
-|5|152.26.229.46|9443|United States|Concord|MCNC|
-|6|152.26.231.94|9443|United States|Concord|MCNC|
-|7|152.26.231.86|9443|United States|Concord|MCNC|
-|8|152.26.229.93|9443|United States|Concord|MCNC|
-|9|67.43.227.230|10079|Canada|Montreal|GloboTech Communications|
-|10|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|67.43.228.250|19889|Canada|Montreal|GloboTech Communications|
-|14|103.133.61.173|8181|Indonesia|Bandar Lampung|TLINK|
-|15|67.43.236.20|12499|Canada|Montreal|GloboTech Communications|
-|16|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
-|18|72.10.160.90|28793|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|6241|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|5|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|152.26.229.46|9443|United States|Concord|MCNC|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|103.4.167.195|8080|Indonesia|Jakarta|FIBERNET|
+|12|152.26.231.94|9443|United States|Concord|MCNC|
+|13|152.26.231.86|9443|United States|Concord|MCNC|
+|14|58.27.218.28|3128|Pakistan|Lahore|Wateen Telecom Limited|
+|15|67.43.227.230|10079|Canada|Montreal|GloboTech Communications|
+|16|93.171.130.11|3128|Ukraine|Dnipro|Shaporenko Yuri Nikolaevich|
+|17|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|18|37.187.109.70|10111|France|Gravelines|OVH SAS|
+|19|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|67.43.236.20|12499|Canada|Montreal|GloboTech Communications|
 
 
 
