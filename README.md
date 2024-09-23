@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|2|43.156.240.241|59394|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|203.150.128.10|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |6|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|171.234.226.185|10006|Vietnam|Hanoi|Viettel Corporation|
-|9|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|12|152.26.229.83|9443|United States|Concord|MCNC|
-|13|157.120.35.12|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|72.10.160.90|16163|Canada|Montreal|GloboTech Communications|
+|7|93.171.130.11|3128|Ukraine|Dnipro|Shaporenko Yuri Nikolaevich|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|10|61.91.162.126|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|152.26.229.83|9443|United States|Concord|MCNC|
+|15|157.120.35.12|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |16|152.26.229.46|9443|United States|Concord|MCNC|
-|17|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|18|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|152.26.231.94|9443|United States|Concord|MCNC|
-|20|67.43.236.20|27905|Canada|Montreal|GloboTech Communications|
+|17|152.26.231.94|9443|United States|Concord|MCNC|
+|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|19|15.204.161.192|18080|United States|Reston|OVH SAS|
+|20|152.26.229.47|9443|United States|Concord|MCNC|
 
 
 
