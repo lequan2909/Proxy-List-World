@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5310** proxies at the latest update. Usable proxies are below.
+> Scraper found **5213** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|106|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|734|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|637|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|148|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3364|✅|
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|157.120.35.12|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |4|200.106.124.93|999|Peru|Tacna|Telefonica del Peru|
-|5|201.144.25.10|8080|Mexico|Mexico City|UNINET|
-|6|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
-|7|202.51.214.81|8080|Indonesia|Jakarta Pusat|PT. Sejahtera Globalindo|
-|8|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|45.70.203.112|999|Ecuador|Quito|Ufinet Panama S.A.|
-|10|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|152.26.229.86|9443|United States|Concord|MCNC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|222.127.55.214|5050|Philippines|Lahug|INNOVE|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|194.164.206.37|3128|United Kingdom|Farnham|NETKONECT|
-|17|72.10.164.178|11417|Canada|Montreal|GloboTech Communications|
-|18|117.6.55.135|10006|Vietnam|Hanoi|Viettel Corporation|
-|19|152.26.229.83|9443|United States|Concord|MCNC|
-|20|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|6|91.107.188.202|8888|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|8|177.221.44.89|49999|Brazil|Jaboatão dos Guararapes|1telecom Servicos De Tecnologia EM Internet Ltda|
+|9|213.148.10.199|3128|Kazakhstan|Almaty|Haicom Limited|
+|10|157.120.35.12|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|12|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|14|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|15|202.142.158.114|8080|Pakistan|Karachi|Gerrys Information Technology (PVT) Ltd|
+|16|152.26.229.47|9443|United States|Concord|MCNC|
+|17|152.26.231.93|9443|United States|Concord|MCNC|
+|18|67.43.236.20|17771|Canada|Montreal|GloboTech Communications|
+|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.164.178|14711|Canada|Montreal|GloboTech Communications|
 
 
 
