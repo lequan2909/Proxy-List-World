@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|147.135.135.51|3128|France|Paris|OVH SAS|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|2|157.120.35.12|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |4|52.53.221.181|3128|United States|San Jose|Amazon.com, Inc.|
-|5|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|7|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
-|8|52.53.221.181|3128|United States|San Jose|Amazon.com, Inc.|
-|9|15.204.161.192|18080|United States|Reston|OVH SAS|
-|10|103.155.198.111|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|11|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|12|152.26.231.94|9443|United States|Concord|MCNC|
+|5|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
+|6|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|8|1.32.59.217|47045|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|9|52.53.221.181|3128|United States|San Jose|Amazon.com, Inc.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |13|152.26.229.86|9443|United States|Concord|MCNC|
-|14|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|15|152.26.229.47|9443|United States|Concord|MCNC|
+|14|152.26.229.47|9443|United States|Concord|MCNC|
+|15|152.26.231.94|9443|United States|Concord|MCNC|
 |16|152.26.231.83|9443|United States|Concord|MCNC|
 |17|152.26.231.42|9443|United States|Concord|MCNC|
-|18|67.43.227.226|12591|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|23715|Canada|Montreal|GloboTech Communications|
-|20|112.17.10.41|3128|China|Hangzhou|China Mobile Communications Corporation|
+|18|37.26.86.206|47464|Albania|Tirana|ATU|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|52.53.221.181|3128|United States|San Jose|Amazon.com, Inc.|
 
 
 
