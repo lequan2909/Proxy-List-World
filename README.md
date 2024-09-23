@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|103.133.63.77|8181|Indonesia|Bandar Lampung|TLINK|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |4|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|5|190.53.46.11|38525|Nicaragua|Ticuantepe|Amnet Telecomunicaciones S.A.|
-|6|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|7|125.234.243.176|5000|Vietnam|Tuyên Quang|Viettel Corporation|
-|8|182.140.146.149|3128|China|Muping|CHINANET SiChuan Telecom Internet Data Center|
-|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|10|152.26.229.93|9443|United States|Concord|MCNC|
-|11|72.10.160.174|19755|Canada|Montreal|GloboTech Communications|
-|12|152.26.229.42|9443|United States|Concord|MCNC|
-|13|140.238.230.215|3128|India|Mumbai|Oracle Corporation|
-|14|152.26.229.86|9443|United States|Concord|MCNC|
-|15|177.37.217.45|8080|Brazil|Caruaru|Brisanet Servicos De Telecomunicacoes Ltda|
-|16|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
-|17|152.26.229.46|9443|United States|Concord|MCNC|
-|18|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|19|67.43.227.227|1155|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|200.39.120.81|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|6|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
+|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|8|201.71.3.45|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|14|45.153.165.66|999|Dominican Republic|Santo Domingo|Silkglobal Dominicana SRL|
+|15|82.200.237.11|8080|Kazakhstan|Almaty Oblysy|Kazakhtelecom Data Network Administration|
+|16|188.132.222.27|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|103.174.236.96|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|181.129.123.138|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
