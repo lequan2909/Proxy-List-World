@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |3|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
-|4|171.228.130.58|18386|Vietnam|Vĩnh Yên|Viettel Corporation|
-|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|201.91.248.67|20183|Brazil|São Paulo|Vivo|
-|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|41.79.33.170|8080|Botswana|Gaborone|Electro Metic Enterprises PTY LTD|
-|10|103.111.136.110|443|Indonesia|Samarinda|PT Mitra Lintas Multimedia|
-|11|36.94.55.42|3128|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|14|116.80.92.230|3128|Japan|Shimomeguro|InfoSphere|
-|15|116.104.133.102|5002|Vietnam|Hanoi|Viettel Corporation|
-|16|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|152.26.229.93|9443|United States|Concord|MCNC|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|116.80.60.145|3128|Japan|Tokyo|InfoSphere|
-|20|152.26.231.94|9443|United States|Concord|MCNC|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|103.169.129.4|1111|Indonesia|Cirebon|PT Media Akses Data|
+|7|36.94.55.42|3128|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|180.88.111.187|3128|China|Beijing|China Unicom Beijing Province Network|
+|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|12|152.26.229.93|9443|United States|Concord|MCNC|
+|13|116.80.92.230|3128|Japan|Shimomeguro|InfoSphere|
+|14|152.26.229.46|9443|United States|Concord|MCNC|
+|15|152.26.231.94|9443|United States|Concord|MCNC|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|157.120.35.12|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|116.80.60.145|3128|Japan|Tokyo|InfoSphere|
+|19|67.43.228.250|1631|Canada|Montreal|GloboTech Communications|
+|20|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
 
 
 
