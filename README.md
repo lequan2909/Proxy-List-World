@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|4|152.26.231.93|9443|United States|Concord|MCNC|
-|5|152.26.229.83|9443|United States|Concord|MCNC|
-|6|152.26.229.86|9443|United States|Concord|MCNC|
-|7|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|8|59.38.62.64|9999|China|Guangzhou|Chinanet|
+|2|159.203.70.121|3128|United States|Clifton|DigitalOcean, LLC|
+|3|103.173.230.147|9191|Indonesia|Serang|PT Jaringan Internet Banten|
+|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|5|36.64.27.57|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|6|152.26.231.93|9443|United States|Concord|MCNC|
+|7|152.26.229.86|9443|United States|Concord|MCNC|
+|8|152.26.229.83|9443|United States|Concord|MCNC|
 |9|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|152.26.231.42|9443|United States|Concord|MCNC|
-|11|116.80.92.231|3128|Japan|Shimomeguro|InfoSphere|
-|12|152.26.231.83|9443|United States|Concord|MCNC|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|72.10.160.173|11049|Canada|Montreal|GloboTech Communications|
-|15|58.27.218.28|3128|Pakistan|Lahore|Wateen Telecom Limited|
-|16|72.10.160.90|22943|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|13149|Canada|Montreal|GloboTech Communications|
-|18|45.231.170.137|999|Mexico|Juárez|GigNet, S.A. de C.V.|
-|19|194.164.206.37|3128|United Kingdom|Farnham|NETKONECT|
-|20|67.43.227.226|9533|Canada|Montreal|GloboTech Communications|
+|10|111.1.61.53|3128|China|Wenzhou|China Mobile communications corporation|
+|11|152.26.231.42|9443|United States|Concord|MCNC|
+|12|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
+|13|116.80.92.231|3128|Japan|Shimomeguro|InfoSphere|
+|14|171.232.191.206|10005|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|152.26.231.83|9443|United States|Concord|MCNC|
+|16|190.53.46.11|38525|Nicaragua|Ticuantepe|Amnet Telecomunicaciones S.A.|
+|17|67.43.236.19|30405|Canada|Montreal|GloboTech Communications|
+|18|157.120.35.12|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|67.43.228.253|11957|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|7241|Canada|Montreal|GloboTech Communications|
 
 
 
