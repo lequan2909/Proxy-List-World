@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5479** proxies at the latest update. Usable proxies are below.
+> Scraper found **5477** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|95|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|93|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|743|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|179|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|116.80.92.231|3128|Japan|Shimomeguro|InfoSphere|
-|5|52.53.221.181|3128|United States|San Jose|Amazon.com, Inc.|
-|6|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|8|52.53.221.181|3128|United States|San Jose|Amazon.com, Inc.|
-|9|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
-|10|3.9.71.167|80|United Kingdom|London|Amazon Technologies Inc.|
-|11|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|12|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|13|93.171.130.11|3128|Ukraine|Dnipro|Shaporenko Yuri Nikolaevich|
-|14|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|16|103.165.218.234|8085|Indonesia|Jakarta|PT iForte Global Internet|
-|17|200.125.168.56|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|18|44.226.167.102|80|United States|Portland|Amazon.com, Inc.|
-|19|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|20|193.203.70.30|3128|United Kingdom|Islington|Sohonet Ripe|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|116.80.92.231|3128|Japan|Shimomeguro|InfoSphere|
+|4|52.53.221.181|3128|United States|San Jose|Amazon.com, Inc.|
+|5|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|7|3.9.71.167|80|United Kingdom|London|Amazon Technologies Inc.|
+|8|65.21.12.220|8085|Finland|Helsinki|Hetzner Online GmbH|
+|9|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|10|52.53.221.181|3128|United States|San Jose|Amazon.com, Inc.|
+|11|177.184.199.36|80|Brazil|São Paulo|Wireless Comm Services LTDA|
+|12|201.20.94.93|8080|Brazil|Mossoró|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|13|103.165.218.234|8085|Indonesia|Jakarta|PT iForte Global Internet|
+|14|46.98.240.115|50001|Ukraine|Dnipro|ISP "Fregat"|
+|15|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|16|103.93.93.220|3127|Indonesia|Jombang|MYRISE|
+|17|116.105.58.35|10004|Vietnam|Quận Bảy|Viettel Corporation|
+|18|42.115.120.152|8080|Vietnam|Hanoi|FPT Telecom Company|
+|19|200.114.84.190|8080|Argentina|La Plata|Citarella S.A.|
+|20|97.76.251.138|8080|United States|Tampa|Spectrum|
 
 
 
