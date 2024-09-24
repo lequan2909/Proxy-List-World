@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|3|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|27.76.97.108|9000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
-|8|119.18.146.171|5020|Bangladesh|Chittagong|BBTS Network|
-|9|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|10|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|11|190.102.139.152|999|Peru|Lima|Optical Technologies S.A.C.|
-|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|103.17.150.49|8080|Bangladesh|Dhaka|SYSSOLUTION|
-|14|113.192.30.89|8088|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|112.17.10.41|3128|China|Hangzhou|China Mobile Communications Corporation|
-|18|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
-|20|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
+|5|27.72.132.194|5106|Vietnam|Hanoi|Newass2011xDSLHN|
+|6|88.1.164.126|3128|Spain|Tarancón|Telefonica de Espana SAU|
+|7|103.102.153.215|33128|Indonesia|Jakarta|PT Qwords Company International|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|45.224.149.243|999|Ecuador|Quito|Ufinet Panama S.A.|
+|11|113.192.30.89|8088|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|12|193.181.35.30|8118|Sweden|Stockholm|PVDataNet AB|
+|13|27.76.97.108|9000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|14|93.123.16.188|3128|Bulgaria|Sofia|Ohost LLC|
+|15|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|17|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|147.45.48.226|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
+|19|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
 
