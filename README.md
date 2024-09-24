@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|23.19.45.22|8443|United States|Los Angeles|Leaseweb USA, Inc.|
-|3|27.76.97.108|9000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|4|43.131.45.21|8443|Germany|Frankfurt|Aceville Pte.ltd|
-|5|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|6|171.235.178.171|5106|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|7|157.120.34.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|223.205.19.209|8080|Thailand|Sam Phran|Triple T Broadband Public Company Limited|
-|10|116.101.233.177|5020|Vietnam|Hưng Yên|Viettel Corporation|
-|11|116.104.175.199|5020|Vietnam|Hanoi|Viettel Corporation|
-|12|23.19.45.22|8443|United States|Los Angeles|Leaseweb USA, Inc.|
-|13|184.82.52.13|8080|Thailand|Khon Kaen|AIS-Fibre|
-|14|49.48.51.192|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|15|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|17|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
-|18|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|19|58.69.117.149|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|189.232.93.142|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|1|172.232.172.64|8080|United States|Tukwila|Akamai Technologies, Inc.|
+|2|171.228.114.1|10089|Vietnam|Hanoi|Viettel Corporation|
+|3|23.19.45.22|8443|United States|Los Angeles|Leaseweb USA, Inc.|
+|4|203.150.128.163|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|5|27.76.97.108|9000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|6|79.117.52.3|8118|Spain|Madrid|Digi Spain Telecom S.L.U.|
+|7|172.232.172.64|8080|United States|Tukwila|Akamai Technologies, Inc.|
+|8|23.19.45.22|8443|United States|Los Angeles|Leaseweb USA, Inc.|
+|9|189.232.93.142|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|171.232.191.206|10051|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|171.232.191.206|10051|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
+|20|116.105.18.72|10010|Vietnam|Da Nang|Viettel Corporation|
 
 
 
