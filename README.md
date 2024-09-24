@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5320** proxies at the latest update. Usable proxies are below.
+> Scraper found **5494** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|117|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|530|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|745|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|168|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|127|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3547|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|185.241.149.168|8080|United States|Dallas|Tier.Net Technologies LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|7|194.44.177.225|8080|Ukraine|Lviv|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
-|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|171.232.191.206|10010|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|11|1.0.138.79|8080|Thailand|Bangkok|TOT Public Company Limited|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|103.167.170.201|8080|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|14|152.26.229.46|9443|United States|Concord|MCNC|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|72.10.160.92|24755|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|18761|Canada|Montreal|GloboTech Communications|
-|19|171.232.191.206|10010|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|72.10.160.90|3159|Canada|Montreal|GloboTech Communications|
+|1|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|2|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|3|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
+|4|117.1.229.49|5004|Vietnam|Haiphong|Viettel Corporation|
+|5|38.191.200.75|999|Colombia|Villavicencio|Cogent Communications|
+|6|45.125.222.81|8080|Bangladesh|Dhaka|Carnival Internet|
+|7|1.55.30.182|8080|Vietnam|Bắc Ninh|FPT Telecom Company|
+|8|23.19.45.22|8443|United States|Los Angeles|Leaseweb USA, Inc.|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|11|36.64.27.57|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|12|152.26.229.46|9443|United States|Concord|MCNC|
+|13|152.26.229.47|9443|United States|Concord|MCNC|
+|14|152.26.231.94|9443|United States|Concord|MCNC|
+|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|16|67.43.227.227|3191|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|32577|Canada|Montreal|GloboTech Communications|
+|18|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|67.43.227.228|29085|Canada|Montreal|GloboTech Communications|
 
 
 
