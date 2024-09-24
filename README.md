@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.76.74|3128|Japan|Shimomeguro|InfoSphere|
-|2|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|103.80.231.130|8080|Indonesia|Medan|PT Dream Network Solusindo|
-|4|171.232.189.128|10009|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|116.111.115.33|10013|Vietnam|Hanoi|Viettel Corporation|
+|4|116.80.76.74|3128|Japan|Shimomeguro|InfoSphere|
+|5|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|216.122.181.249|8080|Dominican Republic|Santiago de los Caballeros|Colocation America Corporation|
+|7|171.232.189.128|10009|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|8|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|9|103.80.231.130|8080|Indonesia|Medan|PT Dream Network Solusindo|
 |10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|216.122.181.249|8080|Dominican Republic|Santiago de los Caballeros|Colocation America Corporation|
+|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|12|23.19.45.22|8443|United States|Los Angeles|Leaseweb USA, Inc.|
 |13|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|15|47.51.51.190|8080|United States|Glendale|Charter Communications|
-|16|173.212.216.227|8118|Germany|Nuremberg|Contabo GmbH|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|23.19.45.22|8443|United States|Los Angeles|Leaseweb USA, Inc.|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|23.19.45.22|8443|United States|Los Angeles|Leaseweb USA, Inc.|
+|14|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|15|38.191.200.75|999|Colombia|Villavicencio|Cogent Communications|
+|16|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|17|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|18|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|19|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|20|212.127.78.79|39811|Poland|Wroclaw|Korbank S. A.|
 
 
 
