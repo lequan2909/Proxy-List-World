@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|23.19.45.22|8443|United States|Los Angeles|Leaseweb USA, Inc.|
-|3|203.150.113.196|57322|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|4|118.43.114.10|8080|South Korea|Gunsan|Korea Telecom|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|2|203.150.113.196|57322|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|5|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
+|6|118.43.114.10|8080|South Korea|Gunsan|Korea Telecom|
 |7|185.98.219.252|8080|Türkiye|Istanbul|Filika Internet ve Iletisim Hizmetleri A.S.|
-|8|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
-|9|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|152.26.231.42|9443|United States|Concord|MCNC|
-|12|67.43.236.20|11521|Canada|Montreal|GloboTech Communications|
-|13|152.26.229.83|9443|United States|Concord|MCNC|
-|14|199.195.253.213|3128|United States|New York|FranTech Solutions|
-|15|67.43.227.227|13315|Canada|Montreal|GloboTech Communications|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|72.10.160.171|16863|Canada|Montreal|GloboTech Communications|
-|18|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|19|72.10.160.90|6913|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|10235|Canada|Montreal|GloboTech Communications|
+|8|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|9|171.232.191.206|10005|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|10|152.26.231.42|9443|United States|Concord|MCNC|
+|11|152.26.229.83|9443|United States|Concord|MCNC|
+|12|67.43.236.20|27337|Canada|Montreal|GloboTech Communications|
+|13|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|16|72.10.164.178|10235|Canada|Montreal|GloboTech Communications|
+|17|203.192.217.6|8080|India|Delhi|Entire In2Cable|
+|18|72.10.160.90|7897|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|7897|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|9799|Canada|Montreal|GloboTech Communications|
 
 
 
