@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|38.191.200.75|999|Colombia|Villavicencio|Cogent Communications|
-|4|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
-|8|218.155.31.188|8080|South Korea|Seongnam-si|Korea Telecom|
-|9|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|10|202.169.51.46|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|13|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
-|14|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|15|157.120.34.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|38.191.200.75|999|Colombia|Villavicencio|Cogent Communications|
+|3|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|5|218.155.31.188|8080|South Korea|Seongnam-si|Korea Telecom|
+|6|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
+|7|216.122.181.249|8080|Dominican Republic|Santiago de los Caballeros|Colocation America Corporation|
+|8|200.39.120.44|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|39.62.4.164|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
+|12|175.100.98.190|8080|Cambodia|Phumĭ Kândal|VIETTEL (CAMBODIA) PTE., LTD|
+|13|45.166.93.29|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|14|138.94.236.137|8080|Brazil|Novo Progresso Municipality|Nettcon Provedor De Internet Eireli EPP|
+|15|177.93.59.70|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
 |16|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|152.26.231.93|9443|United States|Concord|MCNC|
-|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|152.26.229.86|9443|United States|Concord|MCNC|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|157.120.34.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 
 
 
