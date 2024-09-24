@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|5|116.80.76.74|3128|Japan|Shimomeguro|InfoSphere|
-|6|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|153.122.62.109|8118|Japan|Chiyoda|GMO GlobalSign Holdings K.K.|
-|8|117.1.229.49|5004|Vietnam|Haiphong|Viettel Corporation|
-|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|11|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|12|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|38.191.200.75|999|Colombia|Villavicencio|Cogent Communications|
-|15|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|16|103.84.177.30|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|17|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|18|1.20.209.90|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|15.204.161.192|18080|United States|Reston|OVH SAS|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|1.248.219.25|8080|South Korea|Gangbuk-gu|GSNeotek|
+|4|116.80.76.74|3128|Japan|Shimomeguro|InfoSphere|
+|5|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|103.78.113.16|8080|Indonesia|Jakarta|MORATELINDO|
+|7|103.84.177.30|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|8|173.212.216.227|8118|Germany|Nuremberg|Contabo GmbH|
+|9|103.69.20.104|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|10|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|11|51.158.173.222|3128|France|Paris|Online S.A.S.|
+|12|38.191.200.75|999|Colombia|Villavicencio|Cogent Communications|
+|13|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|14|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|103.25.81.117|8080|Bangladesh|Chittagong|Chittagong Telecom Services Limited|
+|18|5.160.237.190|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|19|20.162.186.138|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 
 
 
