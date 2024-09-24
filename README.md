@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|117.1.229.49|5004|Vietnam|Haiphong|Viettel Corporation|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|38.191.200.75|999|Colombia|Villavicencio|Cogent Communications|
-|8|103.145.34.162|8081|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|60.48.93.7|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|11|194.44.177.225|8080|Ukraine|Lviv|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
-|12|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|13|39.62.3.7|3127|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
-|14|195.175.29.38|9090|Turkey|Adana|Turk Telekomunikasyon A.S|
-|15|72.10.160.170|28495|Canada|Montreal|GloboTech Communications|
-|16|152.26.231.94|9443|United States|Concord|MCNC|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|43.131.45.21|8443|Germany|Frankfurt|Aceville Pte.ltd|
+|4|185.241.149.168|8080|United States|Dallas|Tier.Net Technologies LLC|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|38.191.200.75|999|Colombia|Villavicencio|Cogent Communications|
+|7|165.90.89.38|3128|Mozambique|Maputo|Moztel LDA|
+|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|10|103.188.175.35|80|Indonesia|Tarakan|PT. Fiber Networks Indonesia|
+|11|220.130.186.59|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|171.232.191.206|10005|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|14|171.232.191.206|10005|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|152.26.231.94|9443|United States|Concord|MCNC|
+|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |18|38.191.200.75|999|Colombia|Villavicencio|Cogent Communications|
 |19|152.26.231.42|9443|United States|Concord|MCNC|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|72.10.160.170|31367|Canada|Montreal|GloboTech Communications|
 
 
 
