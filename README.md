@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.47.31|3128|Japan|Tokyo|InfoSphere|
-|2|118.43.114.10|8080|South Korea|Gunsan|Korea Telecom|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|116.80.47.31|3128|Japan|Tokyo|InfoSphere|
 |3|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|4|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|117.0.180.215|5002|Vietnam|Tuyên Quang|Viettel Group|
-|8|20.162.186.138|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|11|223.25.110.206|1080|Indonesia|Surabaya|SinergiNet|
-|12|115.72.46.96|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|41.86.252.90|443|Benin|Cotonou|ISOCEL SA|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|17|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|152.26.231.42|9443|United States|Concord|MCNC|
-|19|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|20|152.26.229.93|9443|United States|Concord|MCNC|
+|4|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|6|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|200.106.124.39|999|Peru|Tacna|Telefonica del Peru|
+|9|202.62.75.17|83|India|Hyderabad|CityOnline Services|
+|10|103.189.197.75|8181|Indonesia|Serang|PT Graha Sumber Teknologi|
+|11|103.231.239.137|58080|Bangladesh|Dhaka|Carnival Internet|
+|12|103.244.207.113|8080|Indonesia|Tangerang|PT. Web Data Solusindo|
+|13|103.115.31.161|8090|Indonesia|Depok|HSPNET|
+|14|43.243.141.12|8080|Indonesia|Pisangan|CEPATNET|
+|15|200.155.142.99|8080|Brazil|São Paulo|Telium Telecomunicações Ltda|
+|16|194.105.85.157|8080|Italy|Angri|Connectivia S.r.l|
+|17|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|18|171.232.191.206|10038|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|19|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
