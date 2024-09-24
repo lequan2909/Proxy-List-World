@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|147.135.135.51|3128|France|Paris|OVH SAS|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|38.191.200.75|999|Colombia|Villavicencio|Cogent Communications|
-|6|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|7|93.171.130.11|3128|Ukraine|Dnipro|Shaporenko Yuri Nikolaevich|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|38.191.200.75|999|Colombia|Villavicencio|Cogent Communications|
+|4|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|5|185.241.149.168|8080|United States|Dallas|Tier.Net Technologies LLC|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|189.232.93.142|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
 |9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|45.188.78.49|999|Mexico|Nacajuca|ONT NETWORKS SA de CV|
-|11|207.244.254.27|3128|United States|St Louis|Nubes, LLC|
-|12|189.232.93.142|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|118.67.134.17|80|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
-|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|16|202.154.13.3|8080|Indonesia|Parenggan|PT Akses Data Internusa|
-|17|180.191.59.254|8081|Philippines|Tarlac City|Globe Telecom|
-|18|20.162.186.138|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|36.67.8.169|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
-|20|103.187.86.27|8182|Indonesia|Pinrang|PT Satunol Digital Teknologi|
+|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
+|12|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|179.60.240.69|53281|Colombia|Bogotá|ITELKOM|
+|14|190.145.227.114|999|Colombia|Santiago de Cali|Telmex Colombia S.A.|
+|15|71.191.130.54|8118|United States|Gainesville|Verizon Communications|
+|16|202.180.20.66|8080|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|17|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|18|152.26.229.47|9443|United States|Concord|MCNC|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|171.232.191.206|10034|Vietnam|Ho Chi Minh City|Viettel Corporation|
 
 
 
