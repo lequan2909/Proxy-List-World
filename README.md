@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|182.52.111.13|8080|Thailand|Bangkok|TOT Public Company Limited|
-|2|174.138.167.250|38864|United States|Phoenix|Secured Servers LLC|
-|3|174.138.167.250|38864|United States|Phoenix|Secured Servers LLC|
-|4|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|7|200.106.124.39|999|Peru|Tacna|Telefonica del Peru|
-|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|3|103.173.138.226|1111|Indonesia|Babat|PT Serayu Multi Connection|
+|4|103.189.197.75|8181|Indonesia|Serang|PT Graha Sumber Teknologi|
+|5|186.125.235.213|999|Argentina|Simoca|Telecom Argentina S.A.|
+|6|103.178.43.26|8080|Indonesia|Jakarta|PT PHATRIA INTI PERSADA|
+|7|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|155.232.186.38|3128|South Africa|Cape Town|TENET (The UNINET Project)|
 |10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|152.26.231.42|9443|United States|Concord|MCNC|
+|11|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
 |12|152.26.229.93|9443|United States|Concord|MCNC|
-|13|67.43.227.227|26061|Canada|Montreal|GloboTech Communications|
-|14|152.26.231.94|9443|United States|Concord|MCNC|
+|13|152.26.231.42|9443|United States|Concord|MCNC|
+|14|171.235.149.110|1015|Vietnam|Thu Dau Mot|Viettel Corporation|
 |15|152.26.229.47|9443|United States|Concord|MCNC|
-|16|67.43.227.227|26061|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|26061|Canada|Montreal|GloboTech Communications|
-|18|152.26.231.83|9443|United States|Concord|MCNC|
-|19|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|20|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|152.26.231.83|9443|United States|Concord|MCNC|
+|18|67.43.227.227|24779|Canada|Montreal|GloboTech Communications|
+|19|161.34.40.117|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.231.93|9443|United States|Concord|MCNC|
 
 
 
