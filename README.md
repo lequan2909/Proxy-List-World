@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|3|114.33.18.16|3128|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|4|72.10.160.170|30343|Canada|Montreal|GloboTech Communications|
-|5|67.43.228.250|16245|Canada|Montreal|GloboTech Communications|
-|6|72.10.160.93|15117|Canada|Montreal|GloboTech Communications|
-|7|67.43.227.227|30613|Canada|Montreal|GloboTech Communications|
-|8|67.43.227.227|30613|Canada|Montreal|GloboTech Communications|
-|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|72.10.164.178|20159|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.93|15117|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.251|30161|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.171|26529|Canada|Montreal|GloboTech Communications|
-|14|152.26.231.94|9443|United States|Concord|MCNC|
-|15|152.26.229.47|9443|United States|Concord|MCNC|
-|16|72.10.160.170|30343|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|20159|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|16245|Canada|Montreal|GloboTech Communications|
-|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|67.43.236.20|9983|Canada|Montreal|GloboTech Communications|
+|2|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|3|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|6|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|190.220.1.173|56974|Argentina|Buenos Aires|Techtel LMDS Comunicaciones Interactivas S.A.|
+|9|36.67.7.74|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
+|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|152.26.229.47|9443|United States|Concord|MCNC|
+|12|152.26.231.94|9443|United States|Concord|MCNC|
+|13|152.26.229.93|9443|United States|Concord|MCNC|
+|14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|152.26.229.83|9443|United States|Concord|MCNC|
+|16|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|17|152.26.231.86|9443|United States|Concord|MCNC|
+|18|72.10.160.93|11967|Canada|Montreal|GloboTech Communications|
+|19|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
