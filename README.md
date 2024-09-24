@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|118.43.114.10|8080|South Korea|Gunsan|Korea Telecom|
+|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
 |3|116.80.47.31|3128|Japan|Tokyo|InfoSphere|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |5|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|103.157.58.186|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|8|23.19.45.22|8443|United States|Los Angeles|Leaseweb USA, Inc.|
-|9|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|12|20.162.186.138|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|38.45.249.99|999|Mexico|Tequisquiapan|Jesus Manuel Olguin Guzman|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|171.234.238.96|10007|Vietnam|Hanoi|Viettel Corporation|
-|17|94.153.163.226|81|Ukraine|Kyiv|Kyivstar UA|
-|18|103.231.239.137|58080|Bangladesh|Dhaka|Carnival Internet|
-|19|45.189.252.245|999|Mexico|Lerdo de Tejada|Tracered SA De CV|
-|20|38.52.220.171|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|14.161.33.150|8080|Vietnam|Ho Chi Minh City|VNPT|
+|10|117.0.180.194|5002|Vietnam|Tuyên Quang|Viettel Group|
+|11|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|12|38.52.220.171|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|13|38.45.249.99|999|Mexico|Tequisquiapan|Jesus Manuel Olguin Guzman|
+|14|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
+|15|183.80.111.55|8080|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|16|113.161.210.60|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|17|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|18|152.26.231.83|9443|United States|Concord|MCNC|
+|19|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|189.124.85.77|33333|Brazil|Presidente Epitácio|FIT Telecom Eireli|
 
 
 
