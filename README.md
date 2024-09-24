@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|223.204.155.64|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
-|3|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|4|36.95.249.157|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|5|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|5|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
 |6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|8|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|9|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|10|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
-|11|103.203.233.98|3125|Indonesia|Klapanunggal|INDANA|
-|12|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|101.255.166.134|1111|Indonesia|Bekasi|PT Remala Abadi|
-|15|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|16|202.47.88.38|3127|Indonesia|Jombang|PT. Java Digital Nusantara|
-|17|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
-|18|36.64.27.57|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|19|103.84.176.100|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|20|116.80.76.74|3128|Japan|Shimomeguro|InfoSphere|
+|8|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|9|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|10|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
+|11|171.232.191.206|10003|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|12|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|13|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
+|14|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|116.80.76.74|3128|Japan|Shimomeguro|InfoSphere|
+|19|124.107.204.61|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|20|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
 
 
 
