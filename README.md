@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.162.186.138|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|46.37.115.149|3128|Türkiye|Istanbul|Ovabil Internet VE Bilisim Hizmetleri Limited Sirketi|
-|4|103.182.213.65|8080|Bangladesh|Tongi|Rapid Network|
-|5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|6|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
-|7|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|8|45.188.78.49|999|Mexico|Nacajuca|ONT NETWORKS SA de CV|
-|9|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|10|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|36.93.140.71|8080|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|4|185.241.149.168|8080|United States|Dallas|Tier.Net Technologies LLC|
+|5|131.0.204.227|8080|Brazil|Campos Borges|CB NET TELECOM LTDA|
+|6|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|7|93.85.78.49|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|11|103.153.62.158|3125|Indonesia|Jakarta|IMEDIANET|
+|12|103.84.176.100|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 |14|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|16|152.26.229.46|9443|United States|Concord|MCNC|
-|17|38.191.200.75|999|Colombia|Villavicencio|Cogent Communications|
-|18|152.26.231.83|9443|United States|Concord|MCNC|
+|15|171.232.191.206|10005|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
 |19|116.80.76.74|3128|Japan|Shimomeguro|InfoSphere|
-|20|171.232.191.206|10035|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|20|38.191.200.75|999|Colombia|Villavicencio|Cogent Communications|
 
 
 
