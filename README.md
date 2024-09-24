@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.59.254|3128|Japan|Tokyo|InfoSphere|
-|3|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
-|4|152.26.229.47|9443|United States|Concord|MCNC|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|152.26.231.93|9443|United States|Concord|MCNC|
-|7|1.55.30.182|8080|Vietnam|Bắc Ninh|FPT Telecom Company|
-|8|116.80.76.74|3128|Japan|Shimomeguro|InfoSphere|
-|9|152.26.229.86|9443|United States|Concord|MCNC|
-|10|27.147.155.42|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|11|67.43.236.20|27175|Canada|Montreal|GloboTech Communications|
-|12|116.105.18.72|10006|Vietnam|Da Nang|Viettel Corporation|
-|13|201.71.3.22|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|16|77.238.224.28|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|5|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
+|6|189.193.225.10|999|Mexico|Santo Domingo Tehuantepec|Mega Cable, S.A. de C.V.|
+|7|210.16.92.0|58080|India|Pune|Shree Balaji Infoway Private Limited|
+|8|152.26.229.47|9443|United States|Concord|MCNC|
+|9|45.231.170.137|999|Mexico|Juárez|GigNet, S.A. de C.V.|
+|10|152.26.231.93|9443|United States|Concord|MCNC|
+|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|116.80.76.74|3128|Japan|Shimomeguro|InfoSphere|
+|13|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|152.26.229.86|9443|United States|Concord|MCNC|
+|15|36.67.7.74|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|72.10.160.93|28119|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|29801|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|61.129.2.212|8080|China|Beijing|CHINANET|
+|20|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
 
 
 
