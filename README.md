@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5399** proxies at the latest update. Usable proxies are below.
+> Scraper found **5420** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|117|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|734|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|755|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|229|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3361|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|3|101.255.166.134|1111|Indonesia|Bekasi|PT Remala Abadi|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 |4|203.150.128.236|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|7|171.228.114.1|10089|Vietnam|Hanoi|Viettel Corporation|
-|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|136.60.0.212|80|United States|Austin|Google Fiber Inc.|
-|10|152.26.231.94|9443|United States|Concord|MCNC|
-|11|171.232.191.206|10007|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|12|72.10.160.172|14683|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.251|7143|Canada|Montreal|GloboTech Communications|
-|14|71.14.23.121|8080|United States|Hoover|Spectrum|
-|15|72.10.160.170|8447|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|23079|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.173|31087|Canada|Montreal|GloboTech Communications|
-|18|59.11.85.221|3128|South Korea|Seongnam-si|Korea Telecom|
-|19|67.43.227.226|9347|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|23079|Canada|Montreal|GloboTech Communications|
+|5|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|9|61.19.109.236|8080|Thailand|Vadhana|CAT-ISP|
+|10|152.26.229.86|9443|United States|Concord|MCNC|
+|11|38.191.200.75|999|Colombia|Villavicencio|Cogent Communications|
+|12|152.26.229.46|9443|United States|Concord|MCNC|
+|13|67.43.227.227|27931|Canada|Montreal|GloboTech Communications|
+|14|116.105.18.72|10002|Vietnam|Da Nang|Viettel Corporation|
+|15|116.80.92.220|3128|Japan|Shimomeguro|InfoSphere|
+|16|152.26.229.83|9443|United States|Concord|MCNC|
+|17|152.26.231.86|9443|United States|Concord|MCNC|
+|18|222.124.202.144|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 
 
 
