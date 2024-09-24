@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
 |2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|180.180.208.102|8080|Thailand|Rayong|TOT Public Company Limited|
-|5|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|181.143.36.20|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|7|113.192.30.89|8088|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|8|103.157.79.218|8080|Indonesia|Jakarta|EASTMEDIA|
-|9|134.236.103.67|8080|Thailand|Bang Lamung|CAT-BB|
-|10|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|11|148.230.180.141|8080|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|59.152.104.29|8080|Bangladesh|Dhaka|Earth Telecommunication ( pvt ) Limited|
-|14|83.242.254.122|8080|Russia|Moscow|Comstar Volga|
-|15|117.5.71.122|5106|Vietnam|Dien Bien Phu|VIETTEL|
-|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|17|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
-|18|190.8.47.122|999|Dominican Republic|Santo Domingo|Trilogy Dominicana, S.A.|
-|19|1.20.209.90|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|20|88.1.164.126|3128|Spain|Tarancón|Telefonica de Espana SAU|
+|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|4|103.133.26.107|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|116.104.133.55|5020|Vietnam|Hanoi|Viettel Corporation|
+|7|207.180.192.43|8118|Germany|Nuremberg|Contabo GmbH|
+|8|103.165.155.161|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|9|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|10|116.104.175.199|5020|Vietnam|Hanoi|Viettel Corporation|
+|11|38.191.200.75|999|Colombia|Villavicencio|Cogent Communications|
+|12|182.253.66.122|8080|Indonesia|Jakarta|BIZNET|
+|13|24.204.29.115|8080|United States|Longview|Network IP|
+|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|124.107.204.61|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|16|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
+|17|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|18|103.80.88.74|443|Indonesia|Gorontalo|PT Jala Lintas Media|
+|19|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
 
