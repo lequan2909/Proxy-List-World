@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|49.48.44.249|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|2|223.204.155.64|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
-|3|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|4|203.150.128.151|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|7|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|8|61.19.109.236|8080|Thailand|Vadhana|CAT-ISP|
-|9|170.55.163.98|3128|United States|Miami|Crown Castle Fiber LLC|
-|10|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
-|11|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
-|12|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|13|193.122.197.154|80|United States|Ashburn|Oracle Corporation|
-|14|210.16.92.0|58080|India|Pune|Shree Balaji Infoway Private Limited|
-|15|116.80.76.80|3128|Japan|Shimomeguro|InfoSphere|
-|16|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|17|103.203.233.98|3125|Indonesia|Klapanunggal|INDANA|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|20|193.122.197.154|80|United States|Ashburn|Oracle Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|49.48.44.249|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|223.204.155.64|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
+|7|117.102.86.146|8080|Indonesia|Jakarta|BIZNET|
+|8|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|9|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|12|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
+|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|103.163.175.29|8080|Indonesia|Jakarta|PT Lima Satu Tiga Global Tel-Access|
+|15|103.31.251.251|5040|Indonesia|Jakarta|ARGON|
+|16|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
+|17|59.11.85.221|3128|South Korea|Seongnam-si|Korea Telecom|
+|18|116.104.172.237|5002|Vietnam|Hanoi|Viettel Corporation|
+|19|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
+|20|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
 
 
 
