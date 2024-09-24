@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|3|171.252.128.52|10003|Vietnam|Da Nang|Viettel Corporation|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|171.231.154.20|5106|Vietnam|Bình Dương Province|Viettel Corporation|
-|9|38.9.48.210|8080|Dominican Republic|Santiago de los Caballeros|INVERSIONES BONAFER, SRL|
-|10|116.111.117.246|10009|Vietnam|Hanoi|Viettel Corporation|
-|11|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|218.155.31.188|8080|South Korea|Seongnam-si|Korea Telecom|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|216.122.181.249|8080|Dominican Republic|Santiago de los Caballeros|Colocation America Corporation|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|11|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
+|12|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
 |13|152.26.231.94|9443|United States|Concord|MCNC|
 |14|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
 |15|152.26.231.42|9443|United States|Concord|MCNC|
-|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|152.26.229.34|9443|United States|Concord|MCNC|
-|19|58.240.211.250|7890|China|Suzhou|CNC Group Jiangsu province network|
-|20|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|15.204.161.192|18080|United States|Reston|OVH SAS|
+|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
