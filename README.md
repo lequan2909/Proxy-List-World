@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|116.80.59.254|3128|Japan|Tokyo|InfoSphere|
-|3|103.122.0.115|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|103.160.182.77|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|116.80.59.254|3128|Japan|Tokyo|InfoSphere|
-|10|171.232.191.206|10047|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|11|116.80.76.81|3128|Japan|Shimomeguro|InfoSphere|
-|12|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|13|46.252.141.11|8080|Germany|Kronberg|Vodafone|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|67.43.227.226|1109|Canada|Montreal|GloboTech Communications|
-|17|49.70.172.133|8089|China|Shanghai|Chinanet|
-|18|67.43.236.20|21923|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.42|9443|United States|Concord|MCNC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|59.6.34.182|8118|South Korea|Dongdaemun-gu|Korea Telecom|
+|3|116.80.59.254|3128|Japan|Tokyo|InfoSphere|
+|4|61.19.109.236|8080|Thailand|Vadhana|CAT-ISP|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|103.24.106.190|8080|Indonesia|Jakarta|Quantum Dist Cyber APJII|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|116.104.133.55|5020|Vietnam|Hanoi|Viettel Corporation|
+|9|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
+|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|12|213.244.91.91|1976|Palestine|Ramallah|PALTEL (Palestine Telecommunications Co.)|
+|13|116.80.59.254|3128|Japan|Tokyo|InfoSphere|
+|14|103.139.126.31|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|15|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|16|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|17|116.80.76.81|3128|Japan|Shimomeguro|InfoSphere|
+|18|103.110.10.69|3127|Indonesia|Bandung|PT Citra Jelajah Informatika|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
 |20|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
 
 
