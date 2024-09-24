@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
 |3|116.80.47.31|3128|Japan|Tokyo|InfoSphere|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|118.43.114.10|8080|South Korea|Gunsan|Korea Telecom|
-|6|23.19.45.22|8443|United States|Los Angeles|Leaseweb USA, Inc.|
-|7|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|38.45.249.99|999|Mexico|Tequisquiapan|Jesus Manuel Olguin Guzman|
-|10|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|11|101.109.176.247|8080|Thailand|Bangkok|TOT Public Company Limited|
-|12|20.162.186.138|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|115.72.46.96|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|14|182.160.124.214|6969|Bangladesh|Dhaka|Aamra Networks Limited|
-|15|23.19.45.22|8443|United States|Los Angeles|Leaseweb USA, Inc.|
-|16|103.165.155.171|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|17|103.47.228.66|8080|Indonesia|Pamulang|PT. Indonesia Comnet Plus|
-|18|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|19|223.25.110.225|1080|Indonesia|Surabaya|SinergiNet|
-|20|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|4|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|79.143.177.29|21972|Germany|Munich|Contabo GmbH|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|38.45.249.99|999|Mexico|Tequisquiapan|Jesus Manuel Olguin Guzman|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|45.235.16.121|27234|Brazil|Chapecó|Acessoline Telecom|
+|11|185.98.219.252|8080|Türkiye|Istanbul|Filika Internet ve Iletisim Hizmetleri A.S.|
+|12|24.192.227.234|8080|United States|Albion|WideOpenWest Finance LLC|
+|13|200.116.230.212|8080|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|157.120.34.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|152.26.229.47|9443|United States|Concord|MCNC|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|200.106.124.39|999|Peru|Tacna|Telefonica del Peru|
+|19|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|20|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
 
 
 
