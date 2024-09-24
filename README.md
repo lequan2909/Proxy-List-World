@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|2|185.241.149.168|8080|United States|Dallas|Tier.Net Technologies LLC|
+|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|4|185.241.149.168|8080|United States|Dallas|Tier.Net Technologies LLC|
 |5|46.37.115.149|3128|Türkiye|Istanbul|Ovabil Internet VE Bilisim Hizmetleri Limited Sirketi|
-|6|152.26.229.83|9443|United States|Concord|MCNC|
-|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|152.26.229.34|9443|United States|Concord|MCNC|
-|9|152.26.229.86|9443|United States|Concord|MCNC|
-|10|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|152.26.229.46|9443|United States|Concord|MCNC|
-|12|152.26.231.83|9443|United States|Concord|MCNC|
-|13|78.158.171.63|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|14|185.200.38.99|1080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|17|171.232.191.206|10030|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|18|67.43.227.226|29899|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|21319|Canada|Montreal|GloboTech Communications|
-|20|171.232.191.206|10030|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|8|78.158.171.63|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|152.26.229.83|9443|United States|Concord|MCNC|
+|13|152.26.229.34|9443|United States|Concord|MCNC|
+|14|152.26.229.86|9443|United States|Concord|MCNC|
+|15|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|152.26.229.46|9443|United States|Concord|MCNC|
+|17|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|18|152.26.231.83|9443|United States|Concord|MCNC|
+|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
