@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|116.80.76.81|3128|Japan|Shimomeguro|InfoSphere|
-|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|2|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|116.80.60.145|3128|Japan|Tokyo|InfoSphere|
+|6|71.14.23.121|8080|United States|Hoover|Spectrum|
 |7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|38.191.200.75|999|Colombia|Villavicencio|Cogent Communications|
-|9|116.80.60.145|3128|Japan|Tokyo|InfoSphere|
-|10|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|174.138.171.163|38400|United States|Phoenix|Secured Servers LLC|
-|12|200.37.252.122|8080|Peru|Tarma|Telefonica del Peru S.A.A.|
-|13|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|140.238.230.215|3128|India|Mumbai|Oracle Corporation|
-|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|17|67.43.228.252|17559|Canada|Montreal|GloboTech Communications|
-|18|117.80.2.62|8081|China|Nanjing|Chinanet|
-|19|152.26.231.93|9443|United States|Concord|MCNC|
-|20|67.43.236.18|26873|Canada|Montreal|GloboTech Communications|
+|8|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
+|9|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|10|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
+|11|186.194.160.70|999|Colombia|Bogotá|Telenet Digital S.A.S|
+|12|1.55.30.182|8080|Vietnam|Bắc Ninh|FPT Telecom Company|
+|13|152.26.231.93|9443|United States|Concord|MCNC|
+|14|45.88.192.56|18080|United States|Los Angeles|DM-HK|
+|15|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|16|116.80.92.231|3128|Japan|Shimomeguro|InfoSphere|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|67.43.236.18|4373|Canada|Montreal|GloboTech Communications|
+|19|45.88.192.56|18080|United States|Los Angeles|DM-HK|
+|20|152.26.229.34|9443|United States|Concord|MCNC|
 
 
 
