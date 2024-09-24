@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|23.19.45.22|8443|United States|Los Angeles|Leaseweb USA, Inc.|
-|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|3|38.191.200.75|999|Colombia|Villavicencio|Cogent Communications|
-|4|23.19.45.22|8443|United States|Los Angeles|Leaseweb USA, Inc.|
-|5|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|7|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|38.191.200.75|999|Colombia|Villavicencio|Cogent Communications|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |8|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|9|181.78.82.214|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|10|38.191.200.77|999|Colombia|Villavicencio|Cogent Communications|
-|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|152.26.229.86|9443|United States|Concord|MCNC|
-|14|152.26.229.93|9443|United States|Concord|MCNC|
-|15|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|16|67.43.227.227|14151|Canada|Montreal|GloboTech Communications|
-|17|152.26.231.94|9443|United States|Concord|MCNC|
-|18|67.43.227.227|14151|Canada|Montreal|GloboTech Communications|
-|19|103.247.23.181|1111|Indonesia|Bekasi|PT wifian Solution|
-|20|171.232.191.206|10058|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|9|36.37.146.119|32650|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|10|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|11|103.195.65.106|8080|Indonesia|Tigaraksa|Indonesia Network Information Center|
+|12|38.191.200.77|999|Colombia|Villavicencio|Cogent Communications|
+|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|23.19.45.22|8443|United States|Los Angeles|Leaseweb USA, Inc.|
+|16|41.254.48.66|1976|Libya|Tripoli|LTT Network Backbone and POPs|
+|17|15.204.161.192|18080|United States|Reston|OVH SAS|
+|18|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|19|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
