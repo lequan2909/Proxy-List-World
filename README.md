@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|223.204.155.64|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
+|1|118.43.114.10|8080|South Korea|Gunsan|Korea Telecom|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|116.80.92.220|3128|Japan|Shimomeguro|InfoSphere|
+|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |5|49.48.44.249|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|7|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|13|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|203.150.128.151|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|15|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
-|16|69.197.135.43|40545|United States|Kansas City|WholeSale Internet|
-|17|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|171.232.191.206|10028|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|181.39.233.212|8080|Ecuador|Guayaquil|Telconet S.A|
+|6|223.204.155.64|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
+|7|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
+|8|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|9|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|10|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|114.130.153.58|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|13|1.55.30.182|8080|Vietnam|Bắc Ninh|FPT Telecom Company|
+|14|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
+|15|103.175.236.222|8080|Indonesia|Malang|PT Marva Global Telekomunikasi|
+|16|201.71.3.22|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|17|116.80.59.254|3128|Japan|Tokyo|InfoSphere|
+|18|69.197.135.43|40545|United States|Kansas City|WholeSale Internet|
+|19|165.154.182.202|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|152.26.231.93|9443|United States|Concord|MCNC|
 
 
 
