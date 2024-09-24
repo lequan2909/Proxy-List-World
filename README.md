@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.47.31|3128|Japan|Tokyo|InfoSphere|
-|3|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|23.19.45.22|8443|United States|Los Angeles|Leaseweb USA, Inc.|
-|5|182.52.111.13|8080|Thailand|Bangkok|TOT Public Company Limited|
+|3|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|183.80.111.55|8080|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
 |6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|103.179.253.58|8181|Indonesia|Sawangan|PT Pusaka Kreasi Mandiri|
-|9|45.117.30.9|58081|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|10|103.146.185.138|1111|Indonesia|Wonogiri|YAMNET|
-|11|41.86.252.90|443|Benin|Cotonou|ISOCEL SA|
-|12|38.156.72.20|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|181.209.116.190|9080|Argentina|Chacabuco|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|14|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|15|152.26.231.83|9443|United States|Concord|MCNC|
-|16|38.191.200.75|999|Colombia|Villavicencio|Cogent Communications|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|67.43.228.253|18433|Canada|Montreal|GloboTech Communications|
+|7|103.178.43.26|8080|Indonesia|Jakarta|PT PHATRIA INTI PERSADA|
+|8|103.139.126.234|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|9|110.78.186.131|8080|Thailand|Chon Buri|CAT-BB|
+|10|182.52.111.13|8080|Thailand|Bangkok|TOT Public Company Limited|
+|11|103.69.20.54|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|12|103.247.216.70|8080|Indonesia|Penggilingan|PT. Parsaoran Global Datatrans|
+|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|1.55.30.182|8080|Vietnam|Bắc Ninh|FPT Telecom Company|
+|15|200.155.142.99|8080|Brazil|São Paulo|Telium Telecomunicações Ltda|
+|16|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|17|152.26.231.83|9443|United States|Concord|MCNC|
+|18|38.191.200.75|999|Colombia|Villavicencio|Cogent Communications|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
 
