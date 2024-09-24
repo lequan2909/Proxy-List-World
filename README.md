@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.19.45.22|8443|United States|Los Angeles|Leaseweb USA, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
-|4|115.75.99.65|8080|Vietnam|Can Tho|VIETELxdsl|
-|5|103.195.65.106|8080|Indonesia|Tigaraksa|Indonesia Network Information Center|
-|6|103.78.36.116|8080|Indonesia|Jakarta|MORATELINDO|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|23.19.45.22|8443|United States|Los Angeles|Leaseweb USA, Inc.|
-|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|10|118.43.114.10|8080|South Korea|Gunsan|Korea Telecom|
-|11|181.78.82.214|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|12|38.191.200.77|999|Colombia|Villavicencio|Cogent Communications|
-|13|38.191.200.75|999|Colombia|Villavicencio|Cogent Communications|
-|14|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|17|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|103.158.253.29|8382|Indonesia|Brebes|Rapid Network|
-|19|103.76.151.133|8181|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|20|152.26.229.83|9443|United States|Concord|MCNC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|23.19.45.22|8443|United States|Los Angeles|Leaseweb USA, Inc.|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|5|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|9|38.191.200.77|999|Colombia|Villavicencio|Cogent Communications|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|152.26.229.83|9443|United States|Concord|MCNC|
+|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|14|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|103.159.194.241|8080|Indonesia|Welahan|PT Giga Digital Nusantara|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|19|152.26.229.34|9443|United States|Concord|MCNC|
+|20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
 
