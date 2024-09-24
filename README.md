@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5350** proxies at the latest update. Usable proxies are below.
+> Scraper found **5337** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|117|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|666|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|118|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|731|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|248|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|169|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3361|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|118.43.114.10|8080|South Korea|Gunsan|Korea Telecom|
+|2|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|116.80.76.81|3128|Japan|Shimomeguro|InfoSphere|
-|4|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
-|5|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
-|6|51.75.13.29|8118|France|Gravelines|OVH SAS|
-|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|10|38.191.200.75|999|Colombia|Villavicencio|Cogent Communications|
-|11|116.80.76.80|3128|Japan|Shimomeguro|InfoSphere|
-|12|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
-|13|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
-|14|116.80.76.81|3128|Japan|Shimomeguro|InfoSphere|
-|15|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|152.26.229.47|9443|United States|Concord|MCNC|
-|18|67.43.228.254|24721|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|21445|Canada|Montreal|GloboTech Communications|
-|20|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
+|4|200.24.146.51|999|Ecuador|Santo Domingo de los Colorados|Ufinet Panama S.A.|
+|5|152.26.231.42|9443|United States|Concord|MCNC|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|72.10.164.178|1755|Canada|Montreal|GloboTech Communications|
+|8|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|72.10.160.170|10223|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|2025|Canada|Montreal|GloboTech Communications|
+|12|171.232.191.206|10051|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|13|72.10.164.178|1755|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|1755|Canada|Montreal|GloboTech Communications|
+|15|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|38.45.249.99|999|Mexico|Tequisquiapan|Jesus Manuel Olguin Guzman|
+|18|67.43.236.18|16857|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|23237|Canada|Montreal|GloboTech Communications|
+|20|171.232.191.206|10051|Vietnam|Ho Chi Minh City|Viettel Corporation|
 
 
 
