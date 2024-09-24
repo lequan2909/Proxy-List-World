@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5444** proxies at the latest update. Usable proxies are below.
+> Scraper found **5377** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|665|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|157|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3547|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3480|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|118.43.114.10|8080|South Korea|Gunsan|Korea Telecom|
-|2|61.7.156.180|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
-|7|171.232.191.206|10040|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|9|152.26.231.86|9443|United States|Concord|MCNC|
-|10|36.64.27.57|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|11|171.232.191.206|10040|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|12|38.191.200.75|999|Colombia|Villavicencio|Cogent Communications|
-|13|152.26.231.94|9443|United States|Concord|MCNC|
-|14|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|15|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|16|72.10.164.178|27151|Canada|Montreal|GloboTech Communications|
-|17|177.152.94.37|8080|Brazil|Jardim|Elonet Provedor de Internet Ltda|
-|18|45.122.228.10|8899|Australia|Wangaratta|NETPTYLTD|
-|19|112.17.10.41|3128|China|Hangzhou|China Mobile Communications Corporation|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|1|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|2|152.26.231.86|9443|United States|Concord|MCNC|
+|3|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
+|4|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|5|38.191.200.75|999|Colombia|Villavicencio|Cogent Communications|
+|6|152.26.231.94|9443|United States|Concord|MCNC|
+|7|72.10.164.178|25789|Canada|Montreal|GloboTech Communications|
+|8|72.10.164.178|25789|Canada|Montreal|GloboTech Communications|
+|9|152.26.229.46|9443|United States|Concord|MCNC|
+|10|67.43.228.252|21275|Canada|Montreal|GloboTech Communications|
+|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|152.26.231.42|9443|United States|Concord|MCNC|
+|13|119.252.167.130|41890|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|14|161.34.35.226|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|16|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|17|171.232.191.206|10062|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|18|72.10.164.178|25789|Canada|Montreal|GloboTech Communications|
+|19|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.160.90|20239|Canada|Montreal|GloboTech Communications|
 
 
 
