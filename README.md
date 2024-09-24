@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|2|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
+|4|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|5|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |6|152.26.229.34|9443|United States|Concord|MCNC|
-|7|152.26.229.47|9443|United States|Concord|MCNC|
-|8|152.26.229.86|9443|United States|Concord|MCNC|
-|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|10|152.26.231.86|9443|United States|Concord|MCNC|
-|11|103.125.19.29|8080|Indonesia|Tangerang|JAVAMEDIA|
-|12|181.39.233.212|8080|Ecuador|Guayaquil|Telconet S.A|
-|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|15|152.26.231.93|9443|United States|Concord|MCNC|
-|16|72.10.160.173|30197|Canada|Montreal|GloboTech Communications|
-|17|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
-|18|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|19|67.43.227.228|17517|Canada|Montreal|GloboTech Communications|
-|20|111.118.153.229|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|8|152.26.231.86|9443|United States|Concord|MCNC|
+|9|152.26.229.47|9443|United States|Concord|MCNC|
+|10|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|11|152.26.229.86|9443|United States|Concord|MCNC|
+|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|152.26.231.93|9443|United States|Concord|MCNC|
+|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|15|165.90.89.38|3128|Mozambique|Maputo|Moztel LDA|
+|16|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|17|152.26.231.83|9443|United States|Concord|MCNC|
+|18|204.199.129.38|999|Chile|María Elena|Cirion Technologies Solutions|
+|19|191.102.248.6|8085|Argentina|Rosario|IP·RED|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
