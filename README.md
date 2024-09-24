@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|4|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
+|2|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|3|36.95.249.157|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|4|103.247.122.166|8080|Indonesia|Semarang|PT Media Sarana Data|
 |5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|6|61.19.109.236|8080|Thailand|Vadhana|CAT-ISP|
-|7|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|8|203.150.166.170|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|6|103.178.42.102|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
+|7|38.188.127.86|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|8|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
 |9|103.168.44.105|3127|Indonesia|Jakarta|PT CYB Media Group|
-|10|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|11|202.47.88.38|3127|Indonesia|Jombang|PT. Java Digital Nusantara|
-|12|103.133.61.173|8181|Indonesia|Bandar Lampung|TLINK|
-|13|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|152.26.229.47|9443|United States|Concord|MCNC|
-|15|72.10.160.171|17733|Canada|Montreal|GloboTech Communications|
-|16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|94.79.152.14|80|Germany|Hürth|Vodafone|
-|18|103.178.42.102|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
-|19|147.45.77.58|3128|Sweden|Stockholm|Aeza International LTD|
+|10|103.31.251.251|5040|Indonesia|Jakarta|ARGON|
+|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|116.105.18.72|10002|Vietnam|Da Nang|Viettel Corporation|
+|17|152.26.229.47|9443|United States|Concord|MCNC|
+|18|152.26.231.93|9443|United States|Concord|MCNC|
+|19|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
