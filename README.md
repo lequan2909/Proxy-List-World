@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|182.52.111.13|8080|Thailand|Bangkok|TOT Public Company Limited|
-|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|20.162.186.138|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
-|9|103.115.31.161|8090|Indonesia|Depok|HSPNET|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|103.165.155.67|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|2|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|182.52.111.13|8080|Thailand|Bangkok|TOT Public Company Limited|
+|4|20.162.186.138|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|192.121.102.161|8118|The Netherlands|Amsterdam|Arelion Sweden AB|
+|6|103.156.168.215|8080|India|Faridabad|Shree Banke Bihari Internet Service|
+|7|27.66.237.176|5000|Vietnam|Hanoi|Viettel Group|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|61.7.191.195|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
+|10|103.165.155.67|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |12|182.160.124.214|6969|Bangladesh|Dhaka|Aamra Networks Limited|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|103.172.35.19|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|15|67.43.236.21|24947|Canada|Montreal|GloboTech Communications|
-|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|18|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|19|152.26.229.83|9443|United States|Concord|MCNC|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|13|202.62.75.17|83|India|Hyderabad|CityOnline Services|
+|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|101.251.204.174|8080|China|Haidian|IDC, China Telecommunications Corporation|
+|16|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|17|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|152.26.231.93|9443|United States|Concord|MCNC|
 
 
 
