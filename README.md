@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|118.43.114.10|8080|South Korea|Gunsan|Korea Telecom|
-|3|103.167.31.157|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|4|202.53.224.206|8088|Indonesia|Jakarta|PT IndoInternet|
-|5|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|23.19.45.22|8443|United States|Los Angeles|Leaseweb USA, Inc.|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|152.26.229.83|9443|United States|Concord|MCNC|
-|10|103.137.218.113|83|India|Bānka|Nandbalaji Connecting Zone Pvt. Ltd|
-|11|171.232.191.206|10014|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|12|67.43.227.230|2459|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|25129|Canada|Montreal|GloboTech Communications|
-|14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|173.249.60.246|14344|Germany|Nuremberg|Contabo GmbH|
-|16|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|18|67.43.236.20|4973|Canada|Montreal|GloboTech Communications|
-|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|20|177.234.210.56|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|2|51.75.13.29|8118|France|Gravelines|OVH SAS|
+|3|23.19.45.22|8443|United States|Los Angeles|Leaseweb USA, Inc.|
+|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|5|181.78.27.35|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|6|152.26.229.83|9443|United States|Concord|MCNC|
+|7|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|10|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|67.43.227.230|2459|Canada|Montreal|GloboTech Communications|
+|12|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|67.43.228.250|28837|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.172|26221|Canada|Montreal|GloboTech Communications|
+|15|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
+|16|180.97.68.130|25000|China|Nanjing|China Telecom|
+|17|67.43.236.20|4973|Canada|Montreal|GloboTech Communications|
+|18|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|19|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|20|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
 
 
 
