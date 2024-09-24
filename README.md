@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|118.43.114.10|8080|South Korea|Gunsan|Korea Telecom|
 |2|23.19.45.22|8443|United States|Los Angeles|Leaseweb USA, Inc.|
-|3|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|43.131.45.21|8443|Germany|Frankfurt|Aceville Pte.ltd|
-|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|9|103.145.68.77|8080|Indonesia|Sumenep|ALFANET|
-|10|171.232.191.206|10040|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|11|116.105.18.72|10010|Vietnam|Da Nang|Viettel Corporation|
-|12|23.19.45.22|8443|United States|Los Angeles|Leaseweb USA, Inc.|
-|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|23.19.45.22|8443|United States|Los Angeles|Leaseweb USA, Inc.|
-|15|117.193.164.4|3128|India|Thiruvananthapuram|BSNL Internet|
-|16|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|17|171.232.191.206|10040|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|152.26.231.86|9443|United States|Concord|MCNC|
-|20|67.43.227.227|21463|Canada|Montreal|GloboTech Communications|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|23.19.45.22|8443|United States|Los Angeles|Leaseweb USA, Inc.|
+|5|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|6|170.233.193.129|999|Chile|Santiago|MI INTERNET SPA|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|23.19.45.22|8443|United States|Los Angeles|Leaseweb USA, Inc.|
+|9|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|10|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|11|152.26.229.42|9443|United States|Concord|MCNC|
+|12|152.26.231.86|9443|United States|Concord|MCNC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|116.80.92.231|3128|Japan|Shimomeguro|InfoSphere|
+|16|152.26.229.46|9443|United States|Concord|MCNC|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
+|20|152.26.231.93|9443|United States|Concord|MCNC|
 
 
 
