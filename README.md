@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5422** proxies at the latest update. Usable proxies are below.
+> Scraper found **5501** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|400|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|400|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|400|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|114|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|665|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|744|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|219|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3466|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|5|43.131.45.21|8443|Germany|Frankfurt|Aceville Pte.ltd|
-|6|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|38.191.200.75|999|Colombia|Villavicencio|Cogent Communications|
-|8|27.76.97.108|9000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|9|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|10|27.72.132.194|5106|Vietnam|Hanoi|Newass2011xDSLHN|
+|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|61.7.191.20|8080|Thailand|Ao Nang|CAT Telecom Public Company Limited|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|43.131.45.21|8443|Germany|Frankfurt|Aceville Pte.ltd|
+|9|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|10|51.158.173.222|3128|France|Paris|Online S.A.S.|
 |11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|1.20.209.90|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|14|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|15|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|16|83.242.254.122|8080|Russia|Moscow|Comstar Volga|
-|17|143.0.243.80|8080|Brazil|São Gonçalo|Nova Info Internet e Telecomunicações LTDA|
-|18|38.191.200.75|999|Colombia|Villavicencio|Cogent Communications|
-|19|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
-|20|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|103.84.177.26|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|13|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|14|103.172.42.17|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|15|23.19.45.22|8443|United States|Los Angeles|Leaseweb USA, Inc.|
+|16|27.72.132.194|5106|Vietnam|Hanoi|Newass2011xDSLHN|
+|17|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|18|27.76.97.108|9000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|19|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|20|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 
 
 
