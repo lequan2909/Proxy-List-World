@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5577** proxies at the latest update. Usable proxies are below.
+> Scraper found **5396** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|117|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|896|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|715|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|245|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3361|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|49.48.44.249|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|4|223.204.155.64|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
-|5|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
-|6|193.122.197.154|80|United States|Ashburn|Oracle Corporation|
-|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|8|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|9|193.122.197.154|80|United States|Ashburn|Oracle Corporation|
-|10|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|11|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
-|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|14|1.55.30.182|8080|Vietnam|Bắc Ninh|FPT Telecom Company|
-|15|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
-|16|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|17|118.175.30.26|8080|Thailand|Lopburi|TOT Public Company Limited|
-|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|19|206.81.31.215|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|135.125.225.75|8080|Germany|Limburg an der Lahn|OVH SAS|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|49.48.44.249|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|5|223.204.155.64|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
+|6|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|9|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|10|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|11|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
+|15|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|17|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|203.150.128.151|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|103.203.233.98|3125|Indonesia|Klapanunggal|INDANA|
 
 
 
