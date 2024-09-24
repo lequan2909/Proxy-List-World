@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.92.220|3128|Japan|Shimomeguro|InfoSphere|
-|3|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|212.174.15.164|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|5|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
-|6|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|7|223.204.155.64|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
-|8|103.69.20.28|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|9|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
-|10|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
-|12|152.26.229.93|9443|United States|Concord|MCNC|
-|13|45.70.203.112|999|Ecuador|Quito|Ufinet Panama S.A.|
-|14|152.26.231.83|9443|United States|Concord|MCNC|
-|15|182.140.146.149|3128|China|Muping|CHINANET SiChuan Telecom Internet Data Center|
-|16|103.234.26.108|9990|Bangladesh|Kāfrul|BTS Communications (BD) Ltd|
-|17|67.43.227.227|9623|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.46|9443|United States|Concord|MCNC|
-|19|152.26.229.34|9443|United States|Concord|MCNC|
+|1|116.80.92.220|3128|Japan|Shimomeguro|InfoSphere|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|69.197.135.43|40545|United States|Kansas City|WholeSale Internet|
+|4|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|6|119.39.109.233|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|7|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|9|152.26.229.93|9443|United States|Concord|MCNC|
+|10|152.26.231.83|9443|United States|Concord|MCNC|
+|11|79.140.235.3|3128|Kazakhstan|Karaganda|AB Group LLC|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|14|14.245.240.234|6007|Vietnam|Da Nang|VNPT|
+|15|152.26.229.46|9443|United States|Concord|MCNC|
+|16|152.26.229.34|9443|United States|Concord|MCNC|
+|17|200.92.201.126|999|Mexico|San Felipe|Mega Cable, S.A. de C.V.|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 |20|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
