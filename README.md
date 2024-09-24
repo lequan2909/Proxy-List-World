@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.204.161.192|18080|United States|Reston|OVH SAS|
-|2|38.191.200.75|999|Colombia|Villavicencio|Cogent Communications|
-|3|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|172.234.252.95|50514|United States|Tukwila|Akamai Technologies, Inc.|
-|7|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
-|8|152.26.229.34|9443|United States|Concord|MCNC|
-|9|152.26.231.86|9443|United States|Concord|MCNC|
-|10|152.26.231.83|9443|United States|Concord|MCNC|
-|11|67.43.236.18|18213|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|14165|Canada|Montreal|GloboTech Communications|
-|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|152.26.229.83|9443|United States|Concord|MCNC|
-|15|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|17|72.10.160.90|1933|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|15.204.161.192|18080|United States|Reston|OVH SAS|
+|3|172.234.252.95|50514|United States|Tukwila|Akamai Technologies, Inc.|
+|4|38.191.200.75|999|Colombia|Villavicencio|Cogent Communications|
+|5|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|8|172.234.252.95|50514|United States|Tukwila|Akamai Technologies, Inc.|
+|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|10|38.191.200.73|999|Colombia|Villavicencio|Cogent Communications|
+|11|152.26.229.34|9443|United States|Concord|MCNC|
+|12|152.26.231.86|9443|United States|Concord|MCNC|
+|13|152.26.231.83|9443|United States|Concord|MCNC|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|16|152.26.229.83|9443|United States|Concord|MCNC|
+|17|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
 |18|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
 |19|152.26.231.42|9443|United States|Concord|MCNC|
-|20|67.43.236.20|18091|Canada|Montreal|GloboTech Communications|
+|20|15.204.161.192|18080|United States|Reston|OVH SAS|
 
 
 
