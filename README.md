@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|174.138.171.162|36249|United States|Phoenix|Secured Servers LLC|
-|3|103.157.79.218|8080|Indonesia|Jakarta|EASTMEDIA|
-|4|27.76.97.108|9000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|5|45.116.79.185|8888|Hong Kong|Hong Kong|Colocation at Shatin China Telecom|
-|6|171.228.114.1|10089|Vietnam|Hanoi|Viettel Corporation|
+|2|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|5|174.138.171.162|36249|United States|Phoenix|Secured Servers LLC|
+|6|20.162.186.138|8080|United Kingdom|City of London|Microsoft Corporation|
 |7|174.138.171.162|36249|United States|Phoenix|Secured Servers LLC|
-|8|189.232.93.142|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|9|171.232.191.206|10037|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|10|171.232.191.206|10037|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|11|67.43.228.250|21653|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|9409|Canada|Montreal|GloboTech Communications|
-|13|152.26.231.93|9443|United States|Concord|MCNC|
-|14|152.26.231.42|9443|United States|Concord|MCNC|
-|15|171.232.191.206|10037|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|16|174.138.171.162|36249|United States|Phoenix|Secured Servers LLC|
-|17|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|38.156.72.18|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|171.232.191.206|10037|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|72.10.160.90|7405|Canada|Montreal|GloboTech Communications|
+|8|27.76.97.108|9000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|9|210.16.92.0|58080|India|Pune|Shree Balaji Infoway Private Limited|
+|10|128.140.117.248|8868|Germany|Falkenstein|Hetzner Online GmbH|
+|11|103.35.108.190|5020|Bangladesh|Dhaka|Ranks ITT|
+|12|38.156.72.18|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|171.228.114.1|10089|Vietnam|Hanoi|Viettel Corporation|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|190.8.164.24|8086|Venezuela|Maiquetía|CORPORACION FIBEX TELECOM, C.A.|
+|16|222.127.241.158|8082|Philippines|Iloilo City|GLBB|
+|17|171.232.191.206|10050|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|18|171.232.191.206|10050|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|19|200.35.50.89|3028|Colombia|Medellín|Edatel S.a. E.S.P|
+|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 
 
 
