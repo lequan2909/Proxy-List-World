@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.92.220|3128|Japan|Shimomeguro|InfoSphere|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|94.23.84.25|8118|Spain|Madrid|OVH ISP|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|8|170.55.163.98|3128|United States|Miami|Crown Castle Fiber LLC|
-|9|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
-|10|212.174.15.164|8080|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|11|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|12|193.122.197.154|80|United States|Ashburn|Oracle Corporation|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|152.26.231.93|9443|United States|Concord|MCNC|
-|15|1.20.203.29|8081|Thailand|Surat Thani|TOT Public Company Limited|
-|16|67.43.227.226|5407|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.47|9443|United States|Concord|MCNC|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|20|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|3|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|7|165.154.182.202|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|9|103.165.126.65|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|10|101.51.139.219|8180|Thailand|Chiang Mai|TOT Public Company Limited|
+|11|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|165.154.182.202|8888|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|13|45.88.192.56|18080|United States|Los Angeles|DM-HK|
+|14|103.175.236.222|8080|Indonesia|Malang|PT Marva Global Telekomunikasi|
+|15|116.80.47.31|3128|Japan|Tokyo|InfoSphere|
+|16|152.26.229.47|9443|United States|Concord|MCNC|
+|17|152.26.229.86|9443|United States|Concord|MCNC|
+|18|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|19|36.67.223.7|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|20|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
 
 
 
