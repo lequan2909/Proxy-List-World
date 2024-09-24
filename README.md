@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.155.197.96|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|3|71.14.23.121|8080|United States|Hoover|Spectrum|
-|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|37.27.92.42|3128|Finland|Helsinki|Hetzner Online GmbH|
-|7|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|8|159.203.104.153|4200|United States|Clifton|DigitalOcean, LLC|
-|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|10|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|11|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|152.26.231.93|9443|United States|Concord|MCNC|
-|14|185.166.24.221|1976|Iraq|Sulaymaniyah|Online Company Ltd|
-|15|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|200.24.157.120|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|6|37.60.255.91|8888|Germany|Düsseldorf|SiteGround|
+|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|8|71.14.23.121|8080|United States|Hoover|Spectrum|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|11|34.172.92.211|3128|United States|Council Bluffs|Google LLC|
+|12|202.47.88.38|3127|Indonesia|Jombang|PT. Java Digital Nusantara|
+|13|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|14|60.48.93.7|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|15|152.26.231.93|9443|United States|Concord|MCNC|
 |16|152.26.229.93|9443|United States|Concord|MCNC|
-|17|72.10.164.178|2317|Canada|Montreal|GloboTech Communications|
-|18|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
-|19|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|20|185.110.246.94|8080|Iran|Tehran|Aria Shatel PJSC|
+|17|36.73.220.53|8080|Indonesia|Surabaya|PT. TELKOM INDONESIA|
+|18|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|19|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|20|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
