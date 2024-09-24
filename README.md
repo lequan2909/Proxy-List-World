@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|3|46.37.115.143|3128|Türkiye|Istanbul|Ovabil Internet VE Bilisim Hizmetleri Limited Sirketi|
-|4|157.120.34.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
-|6|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|103.156.15.244|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|182.253.102.67|3128|Indonesia|Cikampek|BIZNET|
+|4|203.150.128.245|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|5|94.61.57.219|8118|Portugal|Porto|Vodafone Portugal|
+|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|7|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
+|8|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|45.112.127.222|8181|Indonesia|South Tangerang|FIBERNET|
+|11|202.137.31.186|8080|Indonesia|Bekasi|LINKNET|
+|12|46.37.115.147|3128|Türkiye|Istanbul|Ovabil Internet VE Bilisim Hizmetleri Limited Sirketi|
+|13|38.191.200.77|999|Colombia|Villavicencio|Cogent Communications|
+|14|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
 |15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|152.26.229.93|9443|United States|Concord|MCNC|
-|18|46.37.115.146|3128|Türkiye|Istanbul|Ovabil Internet VE Bilisim Hizmetleri Limited Sirketi|
-|19|152.26.229.34|9443|United States|Concord|MCNC|
-|20|152.26.229.42|9443|United States|Concord|MCNC|
+|16|171.232.191.206|10056|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|17|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|152.26.229.34|9443|United States|Concord|MCNC|
 
 
 
