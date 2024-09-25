@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|125.25.32.30|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|174.138.171.164|8900|United States|Phoenix|Secured Servers LLC|
+|2|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|5|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |7|116.80.76.74|3128|Japan|Shimomeguro|InfoSphere|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|152.26.231.83|9443|United States|Concord|MCNC|
-|11|51.222.142.100|3128|Canada|Beauharnois|OVH SAS|
-|12|116.80.76.80|3128|Japan|Shimomeguro|InfoSphere|
-|13|203.192.217.6|8080|India|Delhi|Entire In2Cable|
-|14|152.26.231.42|9443|United States|Concord|MCNC|
-|15|51.222.142.100|3128|Canada|Beauharnois|OVH SAS|
-|16|152.26.231.94|9443|United States|Concord|MCNC|
-|17|171.232.191.206|10068|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|18|103.183.98.222|7777|Indonesia|Trenggalek|PT.LEXXA DATA INDONUSA|
-|19|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|20|116.80.60.145|3128|Japan|Tokyo|InfoSphere|
+|8|152.26.231.83|9443|United States|Concord|MCNC|
+|9|116.80.76.80|3128|Japan|Shimomeguro|InfoSphere|
+|10|152.26.231.42|9443|United States|Concord|MCNC|
+|11|152.26.231.94|9443|United States|Concord|MCNC|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|171.232.191.206|10052|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|14|206.201.3.83|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|15|116.80.60.145|3128|Japan|Tokyo|InfoSphere|
+|16|36.67.7.74|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
+|17|152.26.231.93|9443|United States|Concord|MCNC|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
