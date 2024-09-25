@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|112.198.129.234|8085|Philippines|Nasugbu|Globe Telecom|
-|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|5|223.206.117.35|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|121.101.134.214|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|9|187.1.57.206|20183|Brazil|Nova Lima|Companhia Itabirana Telecomunicações Ltda|
-|10|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|11|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|12|45.177.179.65|999|Mexico|San Luis Potosí City|Wantelco SAS de CV|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|181.192.2.23|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
-|16|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
-|17|171.232.191.206|10006|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|18|152.26.229.47|9443|United States|Concord|MCNC|
-|19|72.10.164.178|7285|Canada|Montreal|GloboTech Communications|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|2|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|3|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
+|4|103.148.49.243|8080|Indonesia|Pontianak|BCMEDIA|
+|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|6|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|103.182.78.137|1111|Indonesia|Gresik|PT Cybernet Data Multimedia|
+|9|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
+|10|182.252.70.220|8082|Bangladesh|Kāfrul|Agni Systems Limited|
+|11|223.206.117.35|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|13|103.122.1.130|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
+|14|124.105.99.230|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|15|103.22.99.93|7777|Indonesia|Magetan|KHALISTAGROUP|
+|16|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|17|193.105.123.195|8123|Azerbaijan|Baku|Bulud Telecom LLC|
+|18|191.243.46.2|18283|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|19|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|20|45.177.179.65|999|Mexico|San Luis Potosí City|Wantelco SAS de CV|
 
 
 
