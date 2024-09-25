@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|154.55.245.83|3128|Hong Kong|Hong Kong|HONG KONG Megalayer Technology Co., Limited|
-|5|83.54.16.225|3128|Spain|León|Telefonica de Espana SAU|
-|6|72.128.133.154|16099|United States|Hutto|Charter Communications|
-|7|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|154.55.245.83|3128|Hong Kong|Hong Kong|HONG KONG Megalayer Technology Co., Limited|
-|10|102.38.13.9|19000|Libya|Tripoli|GKL|
-|11|45.174.57.26|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
-|12|41.33.203.234|1975|Egypt|Cairo|TE Data|
-|13|103.179.182.185|8181|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|16|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
-|18|14.99.215.106|80|India|Kolkata|Tata Teleservices LTD - Tata Indicom - Cdma Division|
-|19|122.3.45.189|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|72.128.133.154|16099|United States|Hutto|Charter Communications|
+|3|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|5|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|103.88.236.113|84|India|Hyderabad|Mana Communications|
+|8|85.214.10.133|3128|Germany|Berlin|Strato AG|
+|9|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|154.55.245.83|3128|Hong Kong|Hong Kong|HONG KONG Megalayer Technology Co., Limited|
+|12|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|13|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
+|14|45.174.57.26|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|15|152.26.229.34|9443|United States|Concord|MCNC|
+|16|58.27.218.28|3128|Pakistan|Lahore|Wateen Telecom Limited|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
+|18|152.26.231.93|9443|United States|Concord|MCNC|
+|19|152.26.231.94|9443|United States|Concord|MCNC|
+|20|182.253.109.108|8080|Indonesia|Jakarta|Biznet Metronet|
 
 
 
