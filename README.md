@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|223.206.125.207|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|103.180.123.27|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|7|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
-|8|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|190.110.98.203|999|Chile|Santa Cruz|Silica Networks Argentina S.A.|
-|10|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|11|103.247.23.72|7777|Indonesia|Banyumas|PT wifian Solution|
-|12|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|13|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|14|116.80.60.135|3128|Japan|Tokyo|InfoSphere|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
-|17|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|116.21.255.49|3128|China|Guangzhou|Chinanet|
-|19|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|152.26.231.94|9443|United States|Concord|MCNC|
+|1|209.97.167.86|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|45.123.142.16|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|103.247.23.202|8080|Indonesia|Bekasi|PT wifian Solution|
+|5|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|6|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|7|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
+|8|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|116.104.175.199|5020|Vietnam|Hanoi|Viettel Corporation|
+|11|116.80.60.135|3128|Japan|Tokyo|InfoSphere|
+|12|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
+|13|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|152.26.231.94|9443|United States|Concord|MCNC|
+|16|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
+|17|152.26.231.86|9443|United States|Concord|MCNC|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|152.26.229.47|9443|United States|Concord|MCNC|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
