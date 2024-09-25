@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.76.82|3128|Japan|Shimomeguro|InfoSphere|
-|2|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|220.127.10.46|8080|South Korea|Hwaseong-si|Korea Telecom|
 |3|116.80.76.86|3128|Japan|Shimomeguro|InfoSphere|
 |4|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|36.72.250.3|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|6|116.80.60.141|3128|Japan|Tokyo|InfoSphere|
-|7|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|8|182.253.109.108|8080|Indonesia|Jakarta|Biznet Metronet|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|13|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|14|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|15|202.154.36.21|8080|Indonesia|Surabaya|RADNET-BDG|
-|16|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|17|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|116.80.60.141|3128|Japan|Tokyo|InfoSphere|
+|6|36.72.250.3|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|7|45.56.227.46|3128|United Kingdom|Canterbury|Navarino Single Member S.A.|
+|8|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|9|182.253.109.108|8080|Indonesia|Jakarta|Biznet Metronet|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|200.39.120.81|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|78.132.137.211|8080|Russia|Tambov|OJSC Rostelecom|
+|15|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|17|157.100.60.170|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 |18|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|19|171.232.191.206|10064|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|152.26.229.47|9443|United States|Concord|MCNC|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|116.80.93.40|3128|Japan|Shimomeguro|InfoSphere|
 
 
 
