@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|203.150.128.20|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|15.204.161.192|18080|United States|Reston|OVH SAS|
-|7|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
-|8|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|9|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|14|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|15|74.48.114.199|8118|United States|Los Angeles|Multacom Corporation|
-|16|74.48.114.199|8118|United States|Los Angeles|Multacom Corporation|
-|17|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|18|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
-|19|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|20|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
+|2|203.150.128.20|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
+|6|103.164.213.78|8088|Indonesia|Cilangkap|PT iForte Global Internet|
+|7|85.214.10.133|3128|Germany|Berlin|Strato AG|
+|8|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|9|177.44.223.109|8080|Brazil|Mariópolis|Dataware Telecomunicações LTDA. - EPP|
+|10|41.169.150.194|8080|South Africa|Johannesburg|Liquid Telecommunications South Africa (Pty) Ltd|
+|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
+|13|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|152.26.229.47|9443|United States|Concord|MCNC|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|152.26.229.93|9443|United States|Concord|MCNC|
+|17|180.97.68.130|25000|China|Nanjing|China Telecom|
+|18|58.27.218.28|3128|Pakistan|Lahore|Wateen Telecom Limited|
+|19|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
