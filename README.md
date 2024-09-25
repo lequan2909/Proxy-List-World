@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|2|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
 |3|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
-|4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|5|203.150.128.58|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|6|37.60.255.91|8888|Germany|Düsseldorf|SiteGround|
-|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|155.138.218.57|8118|United States|Atlanta|The Constant Company|
-|9|61.7.184.204|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|103.176.96.140|8082|Indonesia|Purwakarta|PT Global Sarana Elektronika|
-|12|45.190.52.24|8080|Brazil|Araranguá|Exa Internet|
-|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|152.26.229.46|9443|United States|Concord|MCNC|
-|17|116.80.59.254|3128|Japan|Tokyo|InfoSphere|
-|18|13.80.177.101|8118|Netherlands|Amsterdam|Microsoft Corporation|
-|19|152.26.231.86|9443|United States|Concord|MCNC|
-|20|152.26.229.93|9443|United States|Concord|MCNC|
+|4|61.7.184.204|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|15.204.161.192|18080|United States|Reston|OVH SAS|
+|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|14.224.183.185|8080|Vietnam|Hanoi|VNPT|
+|10|45.162.78.222|8080|Colombia|Armenia|InterNexa Global Network|
+|11|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|12|103.102.12.153|8404|Indonesia|Rembangan|FISNET|
+|13|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|171.232.191.206|10047|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|116.80.59.254|3128|Japan|Tokyo|InfoSphere|
+|17|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
 
