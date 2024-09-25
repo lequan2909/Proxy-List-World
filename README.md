@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.76.80|3128|Japan|Shimomeguro|InfoSphere|
-|2|15.204.161.192|18080|United States|Reston|OVH SAS|
-|3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
 |7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|9|152.26.229.83|9443|United States|Concord|MCNC|
-|10|152.26.231.42|9443|United States|Concord|MCNC|
-|11|152.26.229.93|9443|United States|Concord|MCNC|
-|12|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|103.111.136.82|8080|Indonesia|Samarinda|PT Mitra Lintas Multimedia|
-|14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|152.26.229.34|9443|United States|Concord|MCNC|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|152.26.229.86|9443|United States|Concord|MCNC|
-|18|20.228.211.117|3128|United States|Boydton|Microsoft Corporation|
-|19|72.10.164.178|28553|Canada|Montreal|GloboTech Communications|
+|8|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|9|43.130.146.142|3128|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|10|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
+|11|1.55.30.182|8080|Vietnam|Bắc Ninh|FPT Telecom Company|
+|12|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|13|152.26.229.83|9443|United States|Concord|MCNC|
+|14|152.26.231.42|9443|United States|Concord|MCNC|
+|15|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|152.26.229.93|9443|United States|Concord|MCNC|
+|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
 |20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
