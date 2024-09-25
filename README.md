@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|116.80.47.20|3128|Japan|Tokyo|InfoSphere|
 |2|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
-|3|218.155.31.188|8080|South Korea|Seongnam-si|Korea Telecom|
-|4|116.80.47.20|3128|Japan|Tokyo|InfoSphere|
-|5|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|6|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|182.253.68.150|80|Indonesia|Jakarta Pusat|BIZNET|
-|9|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|10|114.129.19.139|8080|Indonesia|Banjar Medura|PT Hipernet Indodata|
-|11|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|12|152.26.229.47|9443|United States|Concord|MCNC|
-|13|152.26.231.83|9443|United States|Concord|MCNC|
-|14|152.26.229.34|9443|United States|Concord|MCNC|
-|15|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|174.138.167.250|9000|United States|Phoenix|Secured Servers LLC|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|152.26.231.42|9443|United States|Concord|MCNC|
-|19|67.43.228.253|12727|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|3|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|4|218.155.31.188|8080|South Korea|Seongnam-si|Korea Telecom|
+|5|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|7|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|11|152.26.229.47|9443|United States|Concord|MCNC|
+|12|152.26.231.83|9443|United States|Concord|MCNC|
+|13|152.26.229.34|9443|United States|Concord|MCNC|
+|14|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|15|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|174.138.167.250|58080|United States|Phoenix|Secured Servers LLC|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|202.47.88.38|3127|Indonesia|Jombang|PT. Java Digital Nusantara|
 
 
 
