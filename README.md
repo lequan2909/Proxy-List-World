@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|4|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|8|171.232.191.206|10053|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|9|174.138.171.164|8900|United States|Phoenix|Secured Servers LLC|
-|10|72.10.164.178|5497|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.170|7345|Canada|Montreal|GloboTech Communications|
-|12|152.26.229.83|9443|United States|Concord|MCNC|
-|13|171.232.191.206|10053|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|14|94.23.84.25|8118|Spain|Madrid|OVH ISP|
-|15|67.43.227.228|27485|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.251|4599|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|24235|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|67.43.228.251|4599|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|5497|Canada|Montreal|GloboTech Communications|
+|4|43.131.45.21|8443|Germany|Frankfurt|Aceville Pte.ltd|
+|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|10|60.48.93.7|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|11|152.26.229.42|9443|United States|Concord|MCNC|
+|12|45.71.186.183|999|Ecuador|Quevedo|Ufinet Panama S.A.|
+|13|72.10.160.170|7345|Canada|Montreal|GloboTech Communications|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|152.26.229.83|9443|United States|Concord|MCNC|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|174.138.167.250|8080|United States|Phoenix|Secured Servers LLC|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|171.232.191.206|10026|Vietnam|Ho Chi Minh City|Viettel Corporation|
 
 
 
