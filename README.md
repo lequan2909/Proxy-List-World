@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4967** proxies at the latest update. Usable proxies are below.
+> Scraper found **4969** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|137|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|139|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|685|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|150|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.76.82|3128|Japan|Shimomeguro|InfoSphere|
-|2|116.80.76.86|3128|Japan|Shimomeguro|InfoSphere|
-|3|116.80.60.141|3128|Japan|Tokyo|InfoSphere|
-|4|36.72.250.3|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|5|45.56.227.46|3128|United Kingdom|Canterbury|Navarino Single Member S.A.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|116.80.47.20|3128|Japan|Tokyo|InfoSphere|
+|3|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
+|4|116.80.76.82|3128|Japan|Shimomeguro|InfoSphere|
+|5|116.80.76.86|3128|Japan|Shimomeguro|InfoSphere|
 |6|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|7|36.72.252.213|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|8|182.253.109.108|8080|Indonesia|Jakarta|Biznet Metronet|
-|9|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|85.214.10.133|3128|Germany|Berlin|Strato AG|
-|14|103.93.193.141|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|15|103.148.24.234|8080|Indonesia|Mojokerto|Menaksopal Link Nusantara|
+|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|36.72.250.3|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|9|68.183.177.38|8888|Singapore|Singapore|DigitalOcean, LLC|
+|10|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|182.253.109.108|8080|Indonesia|Jakarta|Biznet Metronet|
+|12|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|36.64.27.57|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|200.39.120.81|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
 |16|103.165.253.194|8080|Indonesia|Pamanukan|PT Pelangi Communication Network|
-|17|8.213.39.194|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
+|17|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
 |18|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|19|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|20|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|20|45.56.227.46|3128|United Kingdom|Canterbury|Navarino Single Member S.A.|
 
 
 
