@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|20.228.211.117|3128|United States|Boydton|Microsoft Corporation|
-|8|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|5|20.228.211.117|3128|United States|Boydton|Microsoft Corporation|
+|6|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
+|7|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
 |9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |10|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|171.232.191.206|10060|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|12|159.203.104.153|4550|United States|Clifton|DigitalOcean, LLC|
-|13|152.26.229.46|9443|United States|Concord|MCNC|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|152.26.229.47|9443|United States|Concord|MCNC|
-|16|72.10.164.178|26261|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.22|5473|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|72.10.164.178|26261|Canada|Montreal|GloboTech Communications|
+|11|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|152.26.229.46|9443|United States|Concord|MCNC|
+|13|152.26.229.42|9443|United States|Concord|MCNC|
+|14|152.26.229.47|9443|United States|Concord|MCNC|
+|15|72.10.164.178|32521|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|32521|Canada|Montreal|GloboTech Communications|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|19|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|20|152.26.229.34|9443|United States|Concord|MCNC|
 
 
 
