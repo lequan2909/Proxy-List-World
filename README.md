@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4889** proxies at the latest update. Usable proxies are below.
+> Scraper found **4971** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|175|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|674|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|756|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|225|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2857|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.150.128.20|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|103.164.213.78|8088|Indonesia|Cilangkap|PT iForte Global Internet|
-|7|85.214.10.133|3128|Germany|Berlin|Strato AG|
-|8|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|9|177.44.223.109|8080|Brazil|Mariópolis|Dataware Telecomunicações LTDA. - EPP|
-|10|41.169.150.194|8080|South Africa|Johannesburg|Liquid Telecommunications South Africa (Pty) Ltd|
-|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
-|13|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|152.26.229.47|9443|United States|Concord|MCNC|
-|15|152.26.231.86|9443|United States|Concord|MCNC|
-|16|152.26.229.93|9443|United States|Concord|MCNC|
-|17|180.97.68.130|25000|China|Nanjing|China Telecom|
-|18|58.27.218.28|3128|Pakistan|Lahore|Wateen Telecom Limited|
-|19|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|152.26.229.42|9443|United States|Concord|MCNC|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|203.150.128.20|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|103.175.238.174|8080|Indonesia|Subang|PT Uliz Netmedia Solusindo|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|38.45.45.60|999|Dominican Republic|Santo Domingo|FENIX NETWORKS, S.R.L.|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|59.11.85.221|3128|South Korea|Seongnam-si|Korea Telecom|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|152.26.231.83|9443|United States|Concord|MCNC|
+|16|182.160.123.113|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|17|152.26.229.86|9443|United States|Concord|MCNC|
+|18|116.105.18.72|10002|Vietnam|Da Nang|Viettel Corporation|
+|19|72.10.164.178|18069|Canada|Montreal|GloboTech Communications|
+|20|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
 
 
 
