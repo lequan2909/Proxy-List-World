@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
 |3|116.80.76.80|3128|Japan|Shimomeguro|InfoSphere|
-|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|159.65.221.55|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|86.102.135.30|3128|Russia|Ussuriysk|PRIMORYE|
-|8|103.158.27.88|1212|Indonesia|Sleman|PT Madina Solusi Indonesia|
-|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|159.65.221.55|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|13|103.139.126.31|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|4|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|5|43.131.45.21|8443|Germany|Frankfurt|Aceville Pte.ltd|
+|6|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|7|193.169.4.12|8091|Russia|Reutov|Lekstar Communication Ltd|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|10|125.25.32.30|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|186.123.26.79|8080|Argentina|Villa Ballester|AMX Argentina S.A.|
+|13|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 |14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|152.26.229.86|9443|United States|Concord|MCNC|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|171.232.191.206|10028|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|17|171.232.191.206|10028|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|18|152.26.229.86|9443|United States|Concord|MCNC|
+|19|177.68.149.122|8080|Brazil|Barueri|Vivo|
+|20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
 
