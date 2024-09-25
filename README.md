@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|85.214.10.133|3128|Germany|Berlin|Strato AG|
 |3|89.217.193.0|8080|Switzerland|Münchenstein|Sunrise GmbH|
-|4|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|5|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|6|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
-|9|45.174.57.26|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
-|10|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|11|119.82.242.200|8080|Indonesia|Gedangan|Indonesia Network Information Center|
+|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|95.217.45.15|8080|Finland|Helsinki|Hetzner Online GmbH|
+|8|89.217.193.0|8080|Switzerland|Münchenstein|Sunrise GmbH|
+|9|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
+|10|115.187.30.171|1111|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|11|58.27.218.28|3128|Pakistan|Lahore|Wateen Telecom Limited|
 |12|116.80.92.220|3128|Japan|Shimomeguro|InfoSphere|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|116.80.76.82|3128|Japan|Shimomeguro|InfoSphere|
-|15|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|58.27.218.28|3128|Pakistan|Lahore|Wateen Telecom Limited|
+|13|174.168.230.75|8118|United States|Portsmouth|Comcast Cable Communications, LLC|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|116.80.76.82|3128|Japan|Shimomeguro|InfoSphere|
+|16|116.80.47.20|3128|Japan|Tokyo|InfoSphere|
 |17|152.26.229.47|9443|United States|Concord|MCNC|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|144.86.187.54|3129|United States|Malden|Charles River Operation|
-|20|114.8.131.178|8080|Indonesia|Gambir|PT. INDOSAT Tbk|
+|18|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|19|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
