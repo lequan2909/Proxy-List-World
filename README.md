@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|3|216.122.181.249|8080|Dominican Republic|Santiago de los Caballeros|Colocation America Corporation|
-|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|5|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|6|103.118.44.210|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
-|7|103.155.198.166|8082|Indonesia|Singaraja|PT Lintas Jaringan Nusantara|
-|8|120.28.139.63|8082|Philippines|Caloocan City|Globe Telecom|
-|9|103.48.71.26|83|India|Hyderabad|Country Online Services PVT LTD|
-|10|47.236.11.175|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|112.198.200.62|8082|Philippines|Nasugbu|Globe Telecom|
-|13|85.15.93.132|7541|Russia|Khabarovsk|Vostoktelecom Telephone Company Limited Liability Company|
-|14|15.204.161.192|18080|United States|Reston|OVH SAS|
-|15|45.227.195.121|8082|Brazil|Maravilha|Mhnet Telecom|
-|16|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
-|17|182.253.159.9|8080|Indonesia|Bandung|BIZNET|
-|18|157.120.34.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|34.125.246.223|80|United States|Las Vegas|Google LLC|
-|20|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
+|4|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
+|5|216.122.181.249|8080|Dominican Republic|Santiago de los Caballeros|Colocation America Corporation|
+|6|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|7|49.48.90.38|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|9|212.252.72.106|3128|Turkey|Şişli|Superonline Iletisim Hizmetleri A.S.|
+|10|188.209.239.116|8080|Yemen|Sanaa|AS30873 annoucement YemenNet|
+|11|84.214.150.146|8080|Norway|Oslo|Get AS|
+|12|38.156.74.48|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|17|27.147.131.41|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|18|163.47.210.74|8080|India|Bengaluru|Microsense Pvt. Limited|
+|19|157.120.34.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|154.118.229.142|3128|Tanzania|Dar es Salaam|Tanzania e-Government Agency|
 
 
 
