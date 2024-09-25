@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|2|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|1|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|2|45.143.203.169|1080|Russia|Kemerovo|Global Internet Solutions LLC|
 |3|116.80.76.76|3128|Japan|Shimomeguro|InfoSphere|
 |4|152.26.231.94|9443|United States|Concord|MCNC|
 |5|152.26.231.42|9443|United States|Concord|MCNC|
-|6|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|152.26.229.83|9443|United States|Concord|MCNC|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|152.26.229.83|9443|United States|Concord|MCNC|
+|7|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|8|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |9|152.26.229.34|9443|United States|Concord|MCNC|
 |10|152.26.231.83|9443|United States|Concord|MCNC|
-|11|152.26.231.86|9443|United States|Concord|MCNC|
-|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|13|152.26.229.93|9443|United States|Concord|MCNC|
-|14|72.10.164.178|2351|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|5633|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|18503|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|2351|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|1765|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|67.43.228.253|18503|Canada|Montreal|GloboTech Communications|
+|11|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|152.26.231.86|9443|United States|Concord|MCNC|
+|13|190.92.151.66|9002|United States|Phoenix|A2 Hosting, Inc.|
+|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|152.26.229.93|9443|United States|Concord|MCNC|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|72.10.160.93|1403|Canada|Montreal|GloboTech Communications|
+|19|111.1.61.50|3128|China|Wenzhou|China Mobile communications corporation|
+|20|160.16.109.252|18080|Japan|Tokyo|SAKURA Internet Inc.|
 
 
 
