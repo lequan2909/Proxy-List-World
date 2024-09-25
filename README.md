@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|115.72.175.163|10001|Vietnam|Thị Trấn Long Điền|VIETELmetro|
-|6|45.81.144.13|8080|Iraq|Duhok|Fact LTD|
-|7|61.198.90.159|8080|Japan|Kanazawa|NSK Co., Ltd.|
-|8|45.56.227.46|3128|United Kingdom|Canterbury|Navarino Single Member S.A.|
-|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|10|202.61.120.182|8080|India|Chennai|Arjun Telecom Pvt. Ltd.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|82.180.146.37|3128|India|Mumbai|Contabo Asia Private Limited|
-|15|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|191.102.107.238|999|Colombia|Chimichagua|TV AZTECA SUCURSAL COLOMBIA|
-|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|45.81.144.13|8080|Iraq|Duhok|Fact LTD|
+|3|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|4|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|5|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|6|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|152.26.229.42|9443|United States|Concord|MCNC|
+|16|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|17|152.26.229.47|9443|United States|Concord|MCNC|
+|18|152.26.231.93|9443|United States|Concord|MCNC|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
