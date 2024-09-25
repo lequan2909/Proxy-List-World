@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|203.150.113.200|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|3|125.26.195.109|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
+|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
 |5|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|188.170.129.149|3128|Russia|Moscow|PJSC MegaFon|
-|7|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|15.204.161.192|18080|United States|Reston|OVH SAS|
-|9|103.165.157.167|8080|Indonesia|Purbalingga|MEGADATA-ISP|
-|10|82.180.146.3|3128|India|Mumbai|Contabo Asia Private Limited|
-|11|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|12|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|14|102.223.27.226|8080|Equatorial Guinea|Malabo|Muni S.A|
-|15|60.48.93.7|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
-|19|144.86.187.39|3129|United States|Malden|Charles River Operation|
-|20|171.232.191.206|10064|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|9|188.170.129.149|3128|Russia|Moscow|PJSC MegaFon|
+|10|174.138.171.162|35749|United States|Phoenix|Secured Servers LLC|
+|11|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|103.36.10.200|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|16|116.80.60.131|3128|Japan|Tokyo|InfoSphere|
+|17|152.26.231.94|9443|United States|Concord|MCNC|
+|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|19|116.21.255.49|3128|China|Guangzhou|Chinanet|
+|20|182.253.109.108|8080|Indonesia|Jakarta|Biznet Metronet|
 
 
 
