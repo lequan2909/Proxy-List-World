@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|220.127.10.46|8080|South Korea|Hwaseong-si|Korea Telecom|
-|3|157.120.35.15|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|116.80.60.135|3128|Japan|Tokyo|InfoSphere|
-|5|103.56.157.39|8080|Vietnam|Hanoi|VCCORP|
+|2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|116.80.60.135|3128|Japan|Tokyo|InfoSphere|
+|4|157.120.35.15|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|36.72.250.3|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
 |6|116.80.93.34|3128|Japan|Shimomeguro|InfoSphere|
-|7|36.72.250.3|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|8|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|9|36.72.252.213|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|10|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|11|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|116.99.173.71|8118|Vietnam|Da Nang|Viettel Corporation|
-|14|31.46.175.173|8118|Hungary|Szigetszentmiklós|htc|
-|15|115.73.216.107|8080|Vietnam|Ho Chi Minh City|VIETELmetro|
-|16|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|17|85.214.10.133|3128|Germany|Berlin|Strato AG|
-|18|131.241.33.214|8888|United States|Middletown|Cincinnati Bell Telephone Company LLC|
-|19|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|20|193.84.2.199|8080|Finland|Helsinki|Hostkey B.V.|
+|7|36.72.252.213|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|8|15.204.161.192|18080|United States|Reston|OVH SAS|
+|9|45.56.227.46|3128|United Kingdom|Canterbury|Navarino Single Member S.A.|
+|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|171.245.119.255|5000|Vietnam|Quảng Ninh|Viettel Corporation|
+|12|95.217.45.15|8080|Finland|Helsinki|Hetzner Online GmbH|
+|13|8.213.17.87|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
+|14|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|15|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
+|16|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|17|118.97.75.83|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|18|31.46.175.173|8118|Hungary|Szigetszentmiklós|htc|
+|19|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
+|20|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 
 
 
