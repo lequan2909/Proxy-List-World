@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.76.80|3128|Japan|Shimomeguro|InfoSphere|
 |3|15.204.161.192|18080|United States|Reston|OVH SAS|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|103.111.136.82|8080|Indonesia|Samarinda|PT Mitra Lintas Multimedia|
-|6|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|7|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
+|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|5|119.2.45.51|8080|Indonesia|Jakarta|PT. Laxo Global Akses|
+|6|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
 |8|116.80.92.231|3128|Japan|Shimomeguro|InfoSphere|
 |9|157.120.34.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|11|171.232.191.206|10058|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|12|171.232.191.206|10058|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|10|83.229.61.203|8118|Italy|Milan|Interkvm Host SRL|
+|11|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|152.26.229.86|9443|United States|Concord|MCNC|
 |13|152.26.231.42|9443|United States|Concord|MCNC|
-|14|152.26.229.86|9443|United States|Concord|MCNC|
-|15|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.160.91|15517|Canada|Montreal|GloboTech Communications|
-|17|116.105.18.72|10005|Vietnam|Da Nang|Viettel Corporation|
-|18|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|19|67.43.228.253|13025|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.92|27143|Canada|Montreal|GloboTech Communications|
+|14|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|15|174.138.167.250|8080|United States|Phoenix|Secured Servers LLC|
+|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|17|72.10.160.91|6409|Canada|Montreal|GloboTech Communications|
+|18|103.226.232.206|3125|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
+|19|171.232.191.206|10044|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|20|116.105.18.72|10005|Vietnam|Da Nang|Viettel Corporation|
 
 
 
