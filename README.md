@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|200.111.104.59|3129|Chile|Santiago|Entel Chile S.A.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
+|4|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|165.85.253.175|8080|United States|Santa Clara|Google LLC|
 |6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|8|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|9|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|11|36.72.252.213|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|12|152.26.229.46|9443|United States|Concord|MCNC|
-|13|31.43.52.216|41890|Ukraine|Velyka Motovylivka|Ukrainian Telecommunication Group LLC|
-|14|152.26.231.83|9443|United States|Concord|MCNC|
-|15|103.160.184.155|8080|Indonesia|Madiun|PT Trisari Data Indonusa|
-|16|152.26.231.94|9443|United States|Concord|MCNC|
-|17|203.189.96.232|80|Japan|Chiyoda|GMO Internet, Inc|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|116.80.60.141|3128|Japan|Tokyo|InfoSphere|
-|20|152.26.229.34|9443|United States|Concord|MCNC|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|10|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|11|152.26.229.47|9443|United States|Concord|MCNC|
+|12|152.26.229.83|9443|United States|Concord|MCNC|
+|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|152.26.229.46|9443|United States|Concord|MCNC|
+|15|182.253.109.108|8080|Indonesia|Jakarta|Biznet Metronet|
+|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|17|152.26.231.83|9443|United States|Concord|MCNC|
+|18|116.80.76.82|3128|Japan|Shimomeguro|InfoSphere|
+|19|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|20|72.10.164.178|25125|Canada|Montreal|GloboTech Communications|
 
 
 
