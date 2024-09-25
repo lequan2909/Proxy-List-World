@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|3|116.80.76.80|3128|Japan|Shimomeguro|InfoSphere|
-|4|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
-|5|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|6|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|9|43.252.107.102|7777|Indonesia|Blitar|PT Lintas Data Prima|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|86.102.135.30|3128|Russia|Ussuriysk|PRIMORYE|
-|12|109.195.98.207|80|Russia|Yekaterinburg|JSC "ER-Telecom Holding"|
-|13|140.238.230.215|3128|India|Mumbai|Oracle Corporation|
-|14|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
-|16|140.238.230.215|3128|India|Mumbai|Oracle Corporation|
-|17|67.43.236.18|24937|Canada|Montreal|GloboTech Communications|
+|1|116.80.76.80|3128|Japan|Shimomeguro|InfoSphere|
+|2|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|3|190.92.151.66|9002|United States|Phoenix|A2 Hosting, Inc.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
+|6|103.78.38.231|9080|Indonesia|Jakarta|MORATELINDO|
+|7|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|180.148.4.74|8080|Vietnam|Uyen Hung|VNTT|
+|9|122.185.180.190|32650|India|Mumbai|Bharti Airtel Limited|
+|10|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|103.155.246.180|8081|Indonesia|Sukoharjo|AMANNA|
+|12|152.26.229.42|9443|United States|Concord|MCNC|
+|13|152.26.229.34|9443|United States|Concord|MCNC|
+|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|16|103.139.126.31|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|17|43.131.45.21|8443|Germany|Frankfurt|Aceville Pte.ltd|
 |18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|152.26.229.34|9443|United States|Concord|MCNC|
-|20|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
+|19|72.10.164.178|20223|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
