@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4941** proxies at the latest update. Usable proxies are below.
+> Scraper found **4836** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|135|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|597|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|137|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|548|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|214|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|156|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3037|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|157.120.35.15|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|116.80.60.135|3128|Japan|Tokyo|InfoSphere|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|116.80.93.34|3128|Japan|Shimomeguro|InfoSphere|
+|2|116.80.60.135|3128|Japan|Tokyo|InfoSphere|
+|3|157.120.35.15|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|5|27.72.135.47|5106|Vietnam|Hanoi|Newass2011xDSLHN|
 |6|36.72.250.3|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|7|36.72.252.213|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|8|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|9|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|193.84.2.199|8080|Finland|Helsinki|Hostkey B.V.|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|14|31.46.175.173|8118|Hungary|Szigetszentmiklós|htc|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|85.214.10.133|3128|Germany|Berlin|Strato AG|
-|17|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|18|118.97.75.83|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|19|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|8.213.17.87|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
+|7|15.204.161.192|18080|United States|Reston|OVH SAS|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|93.171.130.11|3128|Ukraine|Dnipro|Shaporenko Yuri Nikolaevich|
+|10|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|12|152.42.249.65|8888|Singapore|Singapore|DigitalOcean, LLC|
+|13|115.73.216.107|8080|Vietnam|Ho Chi Minh City|VIETELmetro|
+|14|223.205.64.253|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|15|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|45.56.227.46|3128|United Kingdom|Canterbury|Navarino Single Member S.A.|
+|18|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|19|49.48.67.43|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|20|61.198.90.159|8080|Japan|Kanazawa|NSK Co., Ltd.|
 
 
 
