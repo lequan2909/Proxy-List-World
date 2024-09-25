@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|2|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|3|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|15.204.161.192|18080|United States|Reston|OVH SAS|
-|6|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|180.97.68.130|25000|China|Nanjing|China Telecom|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|157.120.35.16|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|124.105.24.80|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|116.107.229.82|5004|Vietnam|Haiphong|Viettel Corporation|
+|3|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|6|116.21.255.49|3128|China|Guangzhou|Chinanet|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|188.170.129.149|3128|Russia|Moscow|PJSC MegaFon|
+|10|157.120.35.16|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |11|116.80.47.31|3128|Japan|Tokyo|InfoSphere|
-|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|152.26.229.42|9443|United States|Concord|MCNC|
-|16|152.26.229.47|9443|United States|Concord|MCNC|
-|17|116.21.255.49|3128|China|Guangzhou|Chinanet|
-|18|36.72.252.213|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|19|152.26.231.83|9443|United States|Concord|MCNC|
-|20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|152.26.229.42|9443|United States|Concord|MCNC|
+|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|14|152.26.229.47|9443|United States|Concord|MCNC|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|59.11.85.221|3128|South Korea|Seongnam-si|Korea Telecom|
+|17|124.105.24.80|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|18|152.26.231.83|9443|United States|Concord|MCNC|
+|19|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|36.72.252.213|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
 
 
 
