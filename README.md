@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|3|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|4|43.131.45.21|8443|Germany|Frankfurt|Aceville Pte.ltd|
-|5|103.168.149.3|8181|Indonesia|Samosir|TORSADA|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|188.125.167.71|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|8|13.80.177.101|8118|Netherlands|Amsterdam|Microsoft Corporation|
-|9|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|10|190.94.212.149|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|142.215.53.8|8118|United States|Ashburn|Equinix (EMEA) Acquisition Enterprises B.V.|
-|14|152.26.229.46|9443|United States|Concord|MCNC|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|18|103.115.20.5|8080|Indonesia|Subang|PMYNET|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|185.208.101.219|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|5|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|6|103.168.149.3|8181|Indonesia|Samosir|TORSADA|
+|7|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|8|36.91.148.36|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|38.7.3.11|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|12|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
+|13|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|203.150.128.58|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|16|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|17|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|190.53.46.11|38525|Nicaragua|Ticuantepe|Amnet Telecomunicaciones S.A.|
 
 
 
