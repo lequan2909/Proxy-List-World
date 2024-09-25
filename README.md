@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|2|116.80.93.34|3128|Japan|Shimomeguro|InfoSphere|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|103.56.157.39|8080|Vietnam|Hanoi|VCCORP|
-|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|15.204.161.192|18080|United States|Reston|OVH SAS|
-|8|95.217.45.15|8080|Finland|Helsinki|Hetzner Online GmbH|
-|9|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|11|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|12|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|13|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|17|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|18|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|121.165.248.33|8888|South Korea|Songpa-gu|Korea Telecom|
+|3|116.80.93.34|3128|Japan|Shimomeguro|InfoSphere|
+|4|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
+|5|189.180.86.52|8118|Mexico|Querétaro City|UNINET|
+|6|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|7|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|31.46.175.173|8118|Hungary|Szigetszentmiklós|htc|
+|9|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|10|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|183.88.241.167|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|12|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|85.214.10.133|3128|Germany|Berlin|Strato AG|
+|14|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|15|103.56.157.39|8080|Vietnam|Hanoi|VCCORP|
+|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|17|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|18|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
 |19|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|20|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|154.12.50.166|8888|United States|Los Angeles|NetLab Global|
 
 
 
