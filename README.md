@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|121.165.248.33|8888|South Korea|Songpa-gu|Korea Telecom|
-|3|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |5|182.253.109.108|8080|Indonesia|Jakarta|Biznet Metronet|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|8|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
-|9|174.138.167.250|38864|United States|Phoenix|Secured Servers LLC|
-|10|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|13|174.138.167.250|38864|United States|Phoenix|Secured Servers LLC|
-|14|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|85.117.63.37|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|16|8.213.39.194|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
-|17|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|18|103.165.157.79|8090|Indonesia|Taman|MEGADATA-ISP|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|103.170.22.52|8089|Indonesia|Banyumas|PT Puskomedia Indonesia Kreatif|
+|6|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|7|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
+|11|8.213.39.194|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
+|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|13|31.128.69.121|8080|Ukraine|Kyiv|PRIVATE JOINT STOCK COMPANY "DATAGROUP"|
+|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|16|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|17|116.80.60.141|3128|Japan|Tokyo|InfoSphere|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|19|47.243.55.21|8118|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
