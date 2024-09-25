@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|136.60.0.212|80|United States|Austin|Google Fiber Inc.|
-|3|124.106.66.194|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|4|136.60.0.212|80|United States|Austin|Google Fiber Inc.|
-|5|45.174.57.26|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
-|6|190.121.145.115|999|Colombia|Sogamoso|Media Commerce Partners S.A|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|10|116.80.76.74|3128|Japan|Shimomeguro|InfoSphere|
-|11|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|12|189.232.93.142|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|13|109.127.82.162|8080|Iraq|Erbil|Newroz Telecom|
-|14|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|16|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|17|116.80.60.145|3128|Japan|Tokyo|InfoSphere|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|152.26.229.83|9443|United States|Concord|MCNC|
+|2|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
+|3|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|4|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
+|6|136.243.245.224|8082|Germany|Falkenstein|Hetzner Online GmbH|
+|7|187.62.209.119|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|8|116.80.76.74|3128|Japan|Shimomeguro|InfoSphere|
+|9|189.232.93.142|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|10|109.127.82.162|8080|Iraq|Erbil|Newroz Telecom|
+|11|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|116.80.60.145|3128|Japan|Tokyo|InfoSphere|
+|13|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|14|152.26.229.83|9443|United States|Concord|MCNC|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|152.26.231.83|9443|United States|Concord|MCNC|
+|18|152.26.231.94|9443|United States|Concord|MCNC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|152.26.231.93|9443|United States|Concord|MCNC|
 
 
 
