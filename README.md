@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|20.228.211.117|3128|United States|Boydton|Microsoft Corporation|
-|5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|2|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|7|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
-|8|20.228.211.117|3128|United States|Boydton|Microsoft Corporation|
-|9|171.232.191.206|10057|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|112.198.143.104|8082|Philippines|General Trias|Globe Telecom|
-|13|116.80.92.220|3128|Japan|Shimomeguro|InfoSphere|
-|14|202.57.25.86|8080|Indonesia|Semarang|announced of WINET|
-|15|1.55.30.182|8080|Vietnam|Bắc Ninh|FPT Telecom Company|
+|7|20.228.211.117|3128|United States|Boydton|Microsoft Corporation|
+|8|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|9|20.228.211.117|3128|United States|Boydton|Microsoft Corporation|
+|10|103.67.84.78|8085|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
+|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|14|116.80.92.220|3128|Japan|Shimomeguro|InfoSphere|
+|15|152.26.231.42|9443|United States|Concord|MCNC|
 |16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|171.232.191.206|10057|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|18|152.26.231.42|9443|United States|Concord|MCNC|
-|19|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|20|152.26.231.93|9443|United States|Concord|MCNC|
+|17|202.57.25.86|8080|Indonesia|Semarang|announced of WINET|
+|18|152.26.231.93|9443|United States|Concord|MCNC|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
 
 
 
