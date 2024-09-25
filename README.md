@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|116.80.76.86|3128|Japan|Shimomeguro|InfoSphere|
-|3|36.72.252.213|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|4|116.80.60.141|3128|Japan|Tokyo|InfoSphere|
-|5|23.19.73.223|3128|United States|Los Angeles|Leaseweb USA, Inc.|
-|6|182.253.109.108|8080|Indonesia|Jakarta|Biznet Metronet|
-|7|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
-|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|10|31.46.175.173|8118|Hungary|Szigetszentmiklós|htc|
-|11|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|13|116.80.93.34|3128|Japan|Shimomeguro|InfoSphere|
-|14|116.80.76.76|3128|Japan|Shimomeguro|InfoSphere|
-|15|45.71.114.148|999|Ecuador|Loja|Ufinet Panama S.A.|
-|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|17|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|18|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|20|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
+|1|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|2|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|116.80.76.86|3128|Japan|Shimomeguro|InfoSphere|
+|4|103.56.157.39|8080|Vietnam|Hanoi|VCCORP|
+|5|36.72.252.213|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|6|116.80.60.141|3128|Japan|Tokyo|InfoSphere|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|182.253.109.108|8080|Indonesia|Jakarta|Biznet Metronet|
+|9|8.213.17.87|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|31.46.175.173|8118|Hungary|Szigetszentmiklós|htc|
+|12|95.217.45.15|8080|Finland|Helsinki|Hetzner Online GmbH|
+|13|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|17|116.80.93.34|3128|Japan|Shimomeguro|InfoSphere|
+|18|103.93.193.141|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|19|116.80.76.76|3128|Japan|Shimomeguro|InfoSphere|
+|20|45.71.114.148|999|Ecuador|Loja|Ufinet Panama S.A.|
 
 
 
