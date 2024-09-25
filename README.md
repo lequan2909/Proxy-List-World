@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.204.161.192|18080|United States|Reston|OVH SAS|
-|3|118.43.114.10|8080|South Korea|Gunsan|Korea Telecom|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|5|15.204.161.192|18080|United States|Reston|OVH SAS|
 |6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|103.162.63.181|8080|Indonesia|Tasikmalaya|PT Ring Media Nusantara|
-|9|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|10|190.121.145.115|999|Colombia|Sogamoso|Media Commerce Partners S.A|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|38.156.75.132|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|14|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|15|152.26.231.86|9443|United States|Concord|MCNC|
-|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|17|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
+|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|8|45.182.176.38|9947|Brazil|São Paulo|Evolucao Telecom Ltda|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|152.26.231.86|9443|United States|Concord|MCNC|
+|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|152.26.229.83|9443|United States|Concord|MCNC|
+|15|152.26.229.42|9443|United States|Concord|MCNC|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|38.191.200.72|999|Colombia|Villavicencio|Cogent Communications|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
 |19|152.26.231.93|9443|United States|Concord|MCNC|
-|20|83.229.61.203|8118|Italy|Milan|Interkvm Host SRL|
+|20|171.232.191.206|10040|Vietnam|Ho Chi Minh City|Viettel Corporation|
 
 
 
