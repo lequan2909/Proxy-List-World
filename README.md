@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|4|93.177.126.211|8088|Russia|Balashikha|G COM Ltd.|
-|5|114.9.26.122|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|7|101.255.167.242|8181|Indonesia|Bekasi|PT Remala Abadi|
-|8|103.124.251.12|8081|Bangladesh|Dhaka|Earth Telecommunication|
-|9|103.22.99.93|7777|Indonesia|Magetan|KHALISTAGROUP|
-|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|11|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|12|136.60.0.212|80|United States|Austin|Google Fiber Inc.|
-|13|103.159.194.171|3128|Indonesia|Welahan|PT Giga Digital Nusantara|
-|14|185.165.169.7|8118|Romania|Bucharest|FlokiNET ehf|
-|15|103.48.71.6|83|India|Hyderabad|Country Online Services PVT LTD|
-|16|101.128.82.150|8181|Indonesia|Jakarta|CBN|
-|17|15.204.161.192|18080|United States|Reston|OVH SAS|
-|18|146.59.16.105|3128|Poland|Warsaw|OVH SAS|
-|19|181.192.2.23|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
-|20|39.62.4.164|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
+|3|103.178.42.3|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
+|4|27.147.159.221|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|5|138.117.231.131|999|Guatemala|Huehuetenango|Fibernet S.A|
+|6|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
+|7|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
+|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|9|85.117.56.151|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|10|101.128.82.150|8181|Indonesia|Jakarta|CBN|
+|11|112.198.129.234|8085|Philippines|Nasugbu|Globe Telecom|
+|12|103.182.78.137|1111|Indonesia|Gresik|PT Cybernet Data Multimedia|
+|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|14|15.204.161.192|18080|United States|Reston|OVH SAS|
+|15|180.180.175.11|8080|Thailand|Bangkok|TOT Public Company Limited|
+|16|201.91.248.67|20183|Brazil|São Paulo|Vivo|
+|17|103.180.118.76|3128|Indonesia|Gresik|PT Persada Data Multimedia|
+|18|103.122.0.91|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
+|19|103.178.21.91|3125|Indonesia|Sumberpucung|PT Trisna Mega Abadi|
+|20|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
