@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|203.150.113.4|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|3|103.87.169.199|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|4|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|7|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|8|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|9|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
-|10|206.119.113.181|3128|Hong Kong|Chai Wan|Starcloud Global Pte. LTD|
-|11|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
-|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|14|187.251.130.156|8080|Mexico|Ciudad de Villa de Álvarez|Total Play Telecomunicaciones SA De CV|
-|15|15.204.161.192|18080|United States|Reston|OVH SAS|
-|16|103.172.42.89|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|17|103.126.86.17|3127|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
-|18|27.147.175.115|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|19|85.15.93.132|7541|Russia|Khabarovsk|Vostoktelecom Telephone Company Limited Liability Company|
-|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|7|37.60.255.91|8888|Germany|Düsseldorf|SiteGround|
+|8|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|11|94.23.204.27|3128|France|Roubaix|OVH SAS|
+|12|114.9.26.122|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|13|136.60.0.212|80|United States|Austin|Google Fiber Inc.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|103.157.59.75|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
+|16|15.204.161.192|18080|United States|Reston|OVH SAS|
+|17|3.229.228.77|3128|United States|Ashburn|Amazon Technologies Inc.|
+|18|105.21.72.38|8080|Uganda|Kampala|SEACOM Limited Networks|
+|19|103.156.15.64|1080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|20|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
 
 
 
