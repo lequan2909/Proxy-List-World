@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5526** proxies at the latest update. Usable proxies are below.
+> Scraper found **5622** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|120|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|783|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|879|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|169|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3496|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|103.174.236.96|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
-|5|186.96.174.168|8081|Mexico|Soledad de Graciano Sánchez|Total Play Telecomunicaciones SA De CV|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|201.20.115.22|8080|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|15.204.161.192|18080|United States|Reston|OVH SAS|
-|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|190.110.37.11|999|Dominican Republic|Santiago de los Caballeros|Centric Mobility|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|177.234.194.226|999|Ecuador|Buena Fe|Ufinet Panama S.A.|
-|17|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|19|152.26.229.34|9443|United States|Concord|MCNC|
-|20|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|1|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|5|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|6|72.10.160.173|10567|Canada|Montreal|GloboTech Communications|
+|7|177.234.194.226|999|Ecuador|Buena Fe|Ufinet Panama S.A.|
+|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|9|15.204.161.192|18080|United States|Reston|OVH SAS|
+|10|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|152.26.229.47|9443|United States|Concord|MCNC|
+|12|152.26.231.86|9443|United States|Concord|MCNC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|152.26.229.42|9443|United States|Concord|MCNC|
+|16|152.26.229.34|9443|United States|Concord|MCNC|
+|17|67.43.227.227|10133|Canada|Montreal|GloboTech Communications|
+|18|116.80.92.220|3128|Japan|Shimomeguro|InfoSphere|
+|19|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|36.67.7.74|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
 
 
 
