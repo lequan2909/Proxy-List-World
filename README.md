@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|171.252.128.52|10003|Vietnam|Da Nang|Viettel Corporation|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
 |3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |4|203.150.113.4|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
 |5|157.120.34.252|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|7|103.87.169.199|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|9|144.91.98.213|3128|Germany|Nuremberg|Contabo GmbH|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|85.15.93.132|7541|Russia|Khabarovsk|Vostoktelecom Telephone Company Limited Liability Company|
-|12|15.204.161.192|18080|United States|Reston|OVH SAS|
-|13|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|187.251.108.31|1985|Mexico|Hermosillo|Total Play Telecomunicaciones SA De CV|
-|16|15.204.161.192|18080|United States|Reston|OVH SAS|
-|17|122.2.48.121|8080|Philippines|Ormoc City|Philippine Long Distance Telephone Co.|
-|18|201.144.25.10|8080|Mexico|Mexico City|UNINET|
-|19|103.164.116.172|8080|Indonesia|Jakarta|SOLUSINET|
-|20|103.172.17.51|8080|Indonesia|Ciamis|PT Media Access Telematika|
+|6|144.91.98.213|3128|Germany|Nuremberg|Contabo GmbH|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|103.87.169.199|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|15.204.161.192|18080|United States|Reston|OVH SAS|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|13|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|114.9.26.122|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|16|94.23.204.27|3128|France|Roubaix|OVH SAS|
+|17|103.22.99.93|7777|Indonesia|Magetan|KHALISTAGROUP|
+|18|190.94.212.216|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|19|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|20|189.232.93.142|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
 
 
 
