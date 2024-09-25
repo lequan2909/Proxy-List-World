@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
 |2|116.80.47.20|3128|Japan|Tokyo|InfoSphere|
-|3|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
-|4|116.80.76.82|3128|Japan|Shimomeguro|InfoSphere|
-|5|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|6|116.80.76.86|3128|Japan|Shimomeguro|InfoSphere|
-|7|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|8|36.72.250.3|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|9|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|11|31.46.175.173|8118|Hungary|Szigetszentmiklós|htc|
-|12|218.155.31.188|8080|South Korea|Seongnam-si|Korea Telecom|
-|13|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|14|190.94.212.82|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|16|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|17|36.64.27.57|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|18|190.92.151.66|9002|United States|Phoenix|A2 Hosting, Inc.|
-|19|180.180.90.66|8080|Thailand|Rayong|TOT Public Company Limited|
-|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|116.80.76.82|3128|Japan|Shimomeguro|InfoSphere|
+|4|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|6|89.217.193.0|8080|Switzerland|Münchenstein|Sunrise GmbH|
+|7|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|9|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|12|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|200.37.252.122|8080|Peru|Tarma|Telefonica del Peru S.A.A.|
+|14|116.80.76.76|3128|Japan|Shimomeguro|InfoSphere|
+|15|152.26.229.46|9443|United States|Concord|MCNC|
+|16|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|72.10.164.178|23185|Canada|Montreal|GloboTech Communications|
+|20|157.120.34.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 
 
 
