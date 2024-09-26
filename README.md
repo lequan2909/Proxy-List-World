@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|118.43.114.10|8080|South Korea|Gunsan|Korea Telecom|
-|3|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|4|182.253.109.108|8080|Indonesia|Jakarta|Biznet Metronet|
-|5|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|8|103.187.111.81|82|India|Hyderabad|Neolog Broadband Services|
-|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|10|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
-|11|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|103.153.134.150|8080|Indonesia|Tangerang|WMINET|
-|14|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
-|15|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
-|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|17|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
-|20|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|2|182.253.109.108|8080|Indonesia|Jakarta|Biznet Metronet|
+|3|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|118.43.114.10|8080|South Korea|Gunsan|Korea Telecom|
+|6|202.140.62.212|8080|India|Bengaluru|Karuturi Telecom Pvt Ltd|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|9|101.51.107.87|8080|Thailand|Bangkok|TOT Public Company Limited|
+|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|103.153.246.54|8181|Indonesia|Purwakarta|PRIMAHOME|
+|12|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|49.156.151.246|83|India|Hyderabad|City Online|
+|16|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
+|17|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|18|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
+|20|181.39.48.120|999|Ecuador|Quito|Telconet S.A|
 
 
 
