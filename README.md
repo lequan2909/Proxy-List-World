@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|84.204.138.54|8080|Russia|St Petersburg|PJSC MegaFon|
-|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|103.80.224.17|83|India|Vadodara|Robust Pixel Connect Private Limited|
-|6|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|7|131.241.33.214|8888|United States|Middletown|Cincinnati Bell Telephone Company LLC|
+|1|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|3|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|103.137.84.17|83|India|Jaipur|Bakliwal Telecom Services Pvt Ltd|
+|6|62.106.70.185|8118|Japan|Tokyo|xTom Japan Co., Ltd.|
+|7|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
 |8|152.26.229.47|9443|United States|Concord|MCNC|
 |9|152.26.229.42|9443|United States|Concord|MCNC|
 |10|152.26.229.34|9443|United States|Concord|MCNC|
-|11|67.43.228.253|26119|Canada|Montreal|GloboTech Communications|
-|12|190.94.213.80|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|13|67.43.227.227|14835|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.93|9443|United States|Concord|MCNC|
-|15|152.26.231.86|9443|United States|Concord|MCNC|
-|16|67.43.228.253|26119|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|8073|Canada|Montreal|GloboTech Communications|
-|18|103.247.23.181|1111|Indonesia|Bekasi|PT wifian Solution|
-|19|72.10.160.174|13937|Canada|Montreal|GloboTech Communications|
+|11|144.86.187.50|3129|United States|Malden|Charles River Operation|
+|12|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|152.26.229.93|9443|United States|Concord|MCNC|
+|14|152.26.231.86|9443|United States|Concord|MCNC|
+|15|152.26.229.83|9443|United States|Concord|MCNC|
+|16|67.43.228.253|28887|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|28639|Canada|Montreal|GloboTech Communications|
+|18|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|19|72.10.160.90|4431|Canada|Montreal|GloboTech Communications|
 |20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
