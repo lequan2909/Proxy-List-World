@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4804** proxies at the latest update. Usable proxies are below.
+> Scraper found **4795** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|184|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|565|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|186|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|554|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|137|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2960|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|95.217.45.15|8080|Finland|Helsinki|Hetzner Online GmbH|
-|3|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|1|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|4|118.43.114.10|8080|South Korea|Gunsan|Korea Telecom|
+|5|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|7|121.101.135.94|8089|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|8|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|45.56.227.46|3128|United Kingdom|Canterbury|Navarino Single Member S.A.|
-|10|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
-|14|103.24.106.190|8080|Indonesia|Jakarta|Quantum Dist Cyber APJII|
-|15|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
-|16|152.26.229.83|9443|United States|Concord|MCNC|
-|17|88.255.65.113|8080|Türkiye|Kartal|Turk Telekomunikasyon Anonim Sirketi|
-|18|67.43.236.20|3465|Canada|Montreal|GloboTech Communications|
-|19|95.217.45.15|8080|Finland|Helsinki|Hetzner Online GmbH|
-|20|152.26.229.42|9443|United States|Concord|MCNC|
+|7|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
+|8|62.106.70.185|8118|Japan|Tokyo|xTom Japan Co., Ltd.|
+|9|203.150.128.151|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|10|181.233.93.88|8080|Brazil|Belém|J.A TELECOM.PE|
+|11|116.80.60.135|3128|Japan|Tokyo|InfoSphere|
+|12|157.120.35.16|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|13|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
+|15|152.26.229.93|9443|United States|Concord|MCNC|
+|16|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|17|152.26.229.46|9443|United States|Concord|MCNC|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|103.26.110.46|84|India|Chennai|Niss Networks|
+|20|84.204.138.54|8080|Russia|St Petersburg|PJSC MegaFon|
 
 
 
