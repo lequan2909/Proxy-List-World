@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|3|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|2|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|12|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|175.100.92.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|14|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
-|15|103.133.61.173|8181|Indonesia|Bandar Lampung|TLINK|
-|16|103.125.19.29|8080|Indonesia|Tangerang|JAVAMEDIA|
-|17|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|11|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|103.166.227.85|8080|Indonesia|Majalengka|PT Arta Flash Sintesa Nusantara|
+|14|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|15|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|16|115.147.32.198|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|17|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
 |18|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
-|19|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
-|20|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|103.77.206.34|80|Indonesia|Makassar|GLOBALMANDIRI|
+|20|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
 
 
 
