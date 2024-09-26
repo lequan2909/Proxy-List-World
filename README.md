@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.87.169.173|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|3|1.2.242.26|8080|Thailand|Khlong Luang|TOT Public Company Limited|
-|4|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|5|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|193.192.124.74|8080|Türkiye|Istanbul|TurkNet Iletisim Hizmetleri A.S.|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|4|103.87.169.173|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|5|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|6|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|10|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|11|190.61.101.95|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|16|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|17|203.128.80.178|8099|Indonesia|Jakarta|Neuviz|
-|18|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|19|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|174.138.171.162|8950|United States|Phoenix|Secured Servers LLC|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|152.26.231.83|9443|United States|Concord|MCNC|
+|13|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|14|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|15|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|193.84.2.199|8080|Finland|Helsinki|Hostkey B.V.|
+|19|72.10.160.170|24597|Canada|Montreal|GloboTech Communications|
+|20|165.85.253.175|8080|United States|Santa Clara|Google LLC|
 
 
 
