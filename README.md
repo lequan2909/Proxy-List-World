@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|2|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
-|3|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|4|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
+|1|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
+|2|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|51.158.173.222|3128|France|Paris|Online S.A.S.|
+|5|85.214.10.133|3128|Germany|Berlin|Strato AG|
 |6|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|7|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|188.227.140.181|8080|Spain|Pozuelo de Alarcón|Aire Networks Del Mediterraneo SL Unipersonal|
+|7|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|8|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 |10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|12|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|103.69.20.99|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|17|193.192.124.74|8080|Türkiye|Istanbul|TurkNet Iletisim Hizmetleri A.S.|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|182.23.127.2|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|12|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|13|165.85.253.175|8081|United States|Santa Clara|Google LLC|
+|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|197.242.146.109|3128|South Africa|Cape Town|Afrihost (Pty) Ltd|
+|16|61.7.156.180|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|17|103.178.42.241|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
+|18|58.27.218.28|3128|Pakistan|Lahore|Wateen Telecom Limited|
 |19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
 
