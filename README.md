@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|2|103.56.157.39|8181|Vietnam|Hanoi|VCCORP|
-|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|4|202.154.18.69|8081|Indonesia|Jombang|DIGITNET|
-|5|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|125.209.110.83|39617|Pakistan|Karachi|Multinet 125-110/24|
+|2|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|3|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|4|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|42.3.187.52|8080|Hong Kong|Kwu Tung|Hong Kong Telecommunications (HKT) Limited Mass Internet|
+|6|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|7|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
 |10|116.80.47.20|3128|Japan|Tokyo|InfoSphere|
-|11|152.26.229.47|9443|United States|Concord|MCNC|
-|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|67.43.236.22|10441|Canada|Montreal|GloboTech Communications|
-|14|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|116.80.76.80|3128|Japan|Shimomeguro|InfoSphere|
-|17|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|72.10.164.178|5113|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|5113|Canada|Montreal|GloboTech Communications|
+|11|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|152.26.229.47|9443|United States|Concord|MCNC|
+|13|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|116.80.76.80|3128|Japan|Shimomeguro|InfoSphere|
+|15|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|16|116.80.92.220|3128|Japan|Shimomeguro|InfoSphere|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
+|20|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
 
 
 
