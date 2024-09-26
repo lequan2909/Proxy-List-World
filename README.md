@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|189.232.93.142|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|36.67.223.7|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|9|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
-|10|157.120.35.16|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|5|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|189.232.93.142|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|157.120.35.16|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |12|116.80.76.76|3128|Japan|Shimomeguro|InfoSphere|
-|13|152.26.229.93|9443|United States|Concord|MCNC|
-|14|152.26.231.86|9443|United States|Concord|MCNC|
-|15|152.26.231.94|9443|United States|Concord|MCNC|
-|16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|152.26.229.47|9443|United States|Concord|MCNC|
-|19|72.10.160.170|29853|Canada|Montreal|GloboTech Communications|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|58.27.218.28|3128|Pakistan|Lahore|Wateen Telecom Limited|
+|14|152.26.229.93|9443|United States|Concord|MCNC|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|103.48.68.28|83|India|Hyderabad|Country Online Services PVT LTD|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|45.9.43.28|8080|Russia|St Petersburg|Beget LLC|
+|20|152.26.231.93|9443|United States|Concord|MCNC|
 
 
 
