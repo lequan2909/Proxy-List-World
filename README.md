@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4873** proxies at the latest update. Usable proxies are below.
+> Scraper found **4857** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|181|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|663|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|647|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|171|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2900|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|125.165.41.166|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
-|3|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|4|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
+|2|118.175.30.26|8080|Thailand|Lopburi|TOT Public Company Limited|
+|3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |5|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
-|6|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|8|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
-|9|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
-|10|116.80.92.220|3128|Japan|Shimomeguro|InfoSphere|
-|11|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|116.80.60.141|3128|Japan|Tokyo|InfoSphere|
-|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|14|152.26.231.93|9443|United States|Concord|MCNC|
-|15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|131.153.187.5|31285|United States|Ashburn|Secured Servers LLC|
-|17|116.80.60.135|3128|Japan|Tokyo|InfoSphere|
-|18|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|19|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|20|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|6|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|7|203.128.80.178|8099|Indonesia|Jakarta|Neuviz|
+|8|152.26.229.46|9443|United States|Concord|MCNC|
+|9|116.105.18.72|10008|Vietnam|Da Nang|Viettel Corporation|
+|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|11|152.26.231.42|9443|United States|Concord|MCNC|
+|12|95.164.37.150|8118|United Kingdom|Coventry|Stark Industries Solutions LTD|
+|13|202.8.74.10|8080|Cambodia|Phnom Penh|TURBOTECH CO., LTD.|
+|14|152.26.229.47|9443|United States|Concord|MCNC|
+|15|210.16.92.0|58080|India|Pune|Shree Balaji Infoway Private Limited|
+|16|67.43.227.228|18965|Canada|Montreal|GloboTech Communications|
+|17|152.26.231.86|9443|United States|Concord|MCNC|
+|18|72.10.160.91|5937|Canada|Montreal|GloboTech Communications|
+|19|1.55.30.182|8080|Vietnam|Bắc Ninh|FPT Telecom Company|
+|20|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
 
 
 
