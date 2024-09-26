@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|27.96.131.193|80|South Korea|Seongnam-si|NBP|
-|3|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|4|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|5|51.158.173.222|3128|France|Paris|Online S.A.S.|
+|2|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
+|3|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|4|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|5|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
 |6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|7|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|191.102.248.1|8085|Argentina|Rosario|IP·RED|
-|11|85.214.10.133|3128|Germany|Berlin|Strato AG|
-|12|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|13|91.136.142.155|8080|Germany|Schwerte|ELEMENTMEDIA GmbH|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|16|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|51.158.173.222|3128|France|Paris|Online S.A.S.|
+|9|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|119.252.167.130|41890|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|12|38.9.113.164|8080|Brazil|Rio Branco|SEM FRONTEIRAS TELECOMUNICACOES LTDA|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|83.54.16.225|3128|Spain|León|Telefonica de Espana SAU|
+|18|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|19|140.238.230.215|3128|India|Mumbai|Oracle Corporation|
+|20|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
 
 
 
