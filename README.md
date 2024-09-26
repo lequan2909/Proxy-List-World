@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.80.88.74|443|Indonesia|Gorontalo|PT Jala Lintas Media|
+|1|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|4|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|83.54.16.225|3128|Spain|León|Telefonica de Espana SAU|
-|6|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
+|5|121.101.135.94|8089|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |7|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
-|8|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|9|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|203.128.80.178|8099|Indonesia|Jakarta|Neuviz|
-|11|152.26.231.94|9443|United States|Concord|MCNC|
-|12|152.26.231.42|9443|United States|Concord|MCNC|
+|8|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
+|10|152.26.231.94|9443|United States|Concord|MCNC|
+|11|152.26.231.42|9443|United States|Concord|MCNC|
+|12|152.26.229.46|9443|United States|Concord|MCNC|
 |13|152.26.231.86|9443|United States|Concord|MCNC|
-|14|152.32.64.43|8095|Philippines|Quezon City|Converge ICT Solution Inc|
-|15|152.26.229.46|9443|United States|Concord|MCNC|
-|16|152.26.229.47|9443|United States|Concord|MCNC|
-|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|152.26.229.83|9443|United States|Concord|MCNC|
-|20|104.129.192.176|8800|United States|San Jose|ZSCALER, INC.|
+|14|152.26.229.47|9443|United States|Concord|MCNC|
+|15|8.213.34.58|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
+|16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|103.169.133.22|8080|Indonesia|Majalengka|PT Alfa Omega Interkoneksi|
+|19|103.122.1.42|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
