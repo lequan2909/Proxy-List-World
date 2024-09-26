@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|3|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|144.86.187.38|3129|United States|Malden|Charles River Operation|
-|6|103.180.118.170|8080|Indonesia|Gresik|PT Persada Data Multimedia|
-|7|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
-|9|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
-|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
+|4|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|5|115.127.19.163|9090|Bangladesh|Dhaka|BRACNet Limited|
+|6|185.241.149.168|8080|United States|Dallas|Tier.Net Technologies LLC|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|9|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|10|190.61.80.98|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
+|11|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|119.47.90.221|8080|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
 |13|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
-|14|189.205.215.202|8080|Mexico|Puebla City|Axtel, S.A.B. de C.V.|
-|15|45.184.155.238|999|Argentina|Merlo|Ruiz Sebastian Alejandro|
-|16|103.88.90.54|8080|Indonesia|Malang|PT Paket Switch Bersama|
-|17|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|18|103.247.23.181|1111|Indonesia|Bekasi|PT wifian Solution|
-|19|144.86.187.39|3129|United States|Malden|Charles River Operation|
-|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
+|15|205.164.84.247|8591|Brazil|Buritis|AGIS|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|27.147.131.122|8090|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.229.34|9443|United States|Concord|MCNC|
 
 
 
