@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
 |4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|6|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|36.73.180.199|8080|Indonesia|Bondowoso|PT. TELKOM INDONESIA|
-|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|9|182.52.137.15|8080|Thailand|Bangkok|TOT Public Company Limited|
-|10|103.145.34.162|8081|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
-|11|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|12|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|13|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|14|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|103.156.15.104|1111|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|16|38.156.72.18|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|62.106.70.185|8118|Japan|Tokyo|xTom Japan Co., Ltd.|
-|18|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|19|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|20|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|6|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|7|144.86.187.38|3129|United States|Malden|Charles River Operation|
+|8|103.145.34.162|8081|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
+|9|122.3.139.85|8181|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|10|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|103.82.126.34|1111|Indonesia|Tangerang|PT.PLATINUM CITRA INDONESIA|
+|12|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|190.122.185.170|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
+|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|103.209.38.132|81|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|16|143.255.111.112|3128|Brazil|Águas Lindas de Goiás|MCD INFORMATICA E TELECOMUNICACOES LTDA - ME|
+|17|116.80.76.86|3128|Japan|Shimomeguro|InfoSphere|
+|18|94.228.240.240|8080|Russia|Moscow|TZ-Telecom Address|
+|19|116.80.47.20|3128|Japan|Tokyo|InfoSphere|
+|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
