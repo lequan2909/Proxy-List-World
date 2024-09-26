@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|3|200.125.171.78|9991|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|4|8.213.34.58|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
-|5|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|193.84.2.199|8080|Finland|Helsinki|Hostkey B.V.|
-|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|8|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|179.125.125.243|3128|Brazil|Teresina|Virtex Telecom|
-|11|103.160.182.77|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|12|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
-|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|14|182.253.109.108|8080|Indonesia|Jakarta|Biznet Metronet|
+|2|43.207.166.110|5050|Japan|Tokyo|Amazon.com, Inc.|
+|3|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|4|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|193.84.2.199|8080|Finland|Helsinki|Hostkey B.V.|
+|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|7|43.129.238.55|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|131.241.33.214|8888|United States|Middletown|Cincinnati Bell Telephone Company LLC|
+|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|182.253.109.108|8080|Indonesia|Jakarta|Biznet Metronet|
+|14|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
 |15|193.84.2.199|8080|Finland|Helsinki|Hostkey B.V.|
-|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|17|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|18|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
-|19|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|16|180.97.68.130|25000|China|Nanjing|China Telecom|
+|17|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|18|103.197.241.55|32650|Cambodia|Phnom Penh|COGETEL Co., Ltd|
+|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|20|38.156.236.162|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
 
 
 
