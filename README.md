@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|43.129.238.55|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|3|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|4|36.73.180.199|8080|Indonesia|Bondowoso|PT. TELKOM INDONESIA|
-|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|182.52.137.15|8080|Thailand|Bangkok|TOT Public Company Limited|
-|7|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|9|157.100.53.103|999|Ecuador|Machala|Ufinet Panama S.A.|
-|10|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|11|159.203.167.230|3128|United States|Clifton|DigitalOcean, LLC|
-|12|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|3|36.73.180.199|8080|Indonesia|Bondowoso|PT. TELKOM INDONESIA|
+|4|43.129.238.55|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|5|182.52.137.15|8080|Thailand|Bangkok|TOT Public Company Limited|
+|6|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|157.100.53.103|999|Ecuador|Machala|Ufinet Panama S.A.|
+|8|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|9|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|14|94.231.192.207|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |16|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
-|17|159.203.167.230|3128|United States|Clifton|DigitalOcean, LLC|
-|18|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
-|19|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|20|121.101.133.220|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
 
 
 
