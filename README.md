@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|182.253.109.108|8080|Indonesia|Jakarta|Biznet Metronet|
-|3|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|203.190.46.127|8090|Indonesia|Sleman|PT Jaring Lintas Utara|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|8|200.39.120.45|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
-|9|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
-|10|83.54.16.225|3128|Spain|León|Telefonica de Espana SAU|
-|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|37.187.149.223|8081|France|Roubaix|OVH SAS|
+|5|38.252.209.17|999|Peru|Lima|Telcom Mikrotik Peru S.A.C.|
+|6|182.253.109.108|8080|Indonesia|Jakarta|Biznet Metronet|
+|7|103.247.21.225|2024|Indonesia|Bekasi|PT wifian Solution|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
 |12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |13|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|14|116.105.18.72|10006|Vietnam|Da Nang|Viettel Corporation|
-|15|45.70.203.112|999|Ecuador|Quito|Ufinet Panama S.A.|
-|16|152.26.229.47|9443|United States|Concord|MCNC|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|67.43.236.18|30953|Canada|Montreal|GloboTech Communications|
-|20|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|152.26.229.47|9443|United States|Concord|MCNC|
+|15|152.26.229.42|9443|United States|Concord|MCNC|
+|16|152.26.229.83|9443|United States|Concord|MCNC|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|103.170.131.42|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
