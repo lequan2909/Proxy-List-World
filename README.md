@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.47.31|3128|Japan|Tokyo|InfoSphere|
-|2|31.46.175.173|8118|Hungary|Szigetszentmiklós|htc|
-|3|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|77.41.146.16|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|5|165.227.221.83|8080|United States|Clifton|DigitalOcean, LLC|
-|6|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|171.245.120.230|5000|Vietnam|Ha Long|Viettel Corporation|
-|9|152.26.231.42|9443|United States|Concord|MCNC|
-|10|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|152.26.229.46|9443|United States|Concord|MCNC|
-|12|152.26.229.42|9443|United States|Concord|MCNC|
-|13|72.10.164.178|28725|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.86|9443|United States|Concord|MCNC|
-|15|152.26.231.86|9443|United States|Concord|MCNC|
-|16|67.43.228.252|26983|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.93|13673|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.21|7037|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|10713|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|190.225.148.49|3128|Argentina|Tafí Viejo|Telecom Argentina S.A.|
+|5|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|6|77.41.146.16|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
+|9|103.159.194.33|1111|Indonesia|Temanjang|PT Giga Digital Nusantara|
+|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|12|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|13|182.23.35.242|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|14|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|15|103.227.106.157|1111|Indonesia|Lubuk Sikaping|PT Skynet Network Bersama|
+|16|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
+|17|181.209.96.156|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|18|103.174.18.11|8080|Indonesia|Jakarta|MORATELINDONAP|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
