@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5270** proxies at the latest update. Usable proxies are below.
+> Scraper found **5106** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|189|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|628|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|464|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|191|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3304|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|2|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|3|103.87.169.173|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|4|62.106.70.185|8118|Japan|Tokyo|xTom Japan Co., Ltd.|
-|5|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|6|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|10|41.139.197.131|8080|Kenya|Nairobi|Converged services Western|
-|11|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|116.80.93.34|3128|Japan|Shimomeguro|InfoSphere|
-|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|152.26.229.86|9443|United States|Concord|MCNC|
-|15|152.26.229.93|9443|United States|Concord|MCNC|
-|16|152.26.231.94|9443|United States|Concord|MCNC|
-|17|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
-|18|181.39.48.120|999|Ecuador|Quito|Telconet S.A|
-|19|152.26.229.47|9443|United States|Concord|MCNC|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|8|142.171.157.207|3128|United States|Los Angeles|Multacom Corporation|
+|9|45.231.170.137|999|Mexico|Juárez|GigNet, S.A. de C.V.|
+|10|118.97.237.2|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|11|59.11.85.221|3128|South Korea|Seongnam-si|Korea Telecom|
+|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
+|15|72.10.160.170|27491|Canada|Montreal|GloboTech Communications|
+|16|120.28.220.26|8080|Philippines|Cagayan de Oro|Globe Telecom|
+|17|152.26.231.93|9443|United States|Concord|MCNC|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|152.26.231.94|9443|United States|Concord|MCNC|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
