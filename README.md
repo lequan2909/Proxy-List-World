@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4857** proxies at the latest update. Usable proxies are below.
+> Scraper found **4891** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|179|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|649|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|180|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|682|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|171|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2900|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|4|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |6|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|146.190.102.35|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|189.232.93.142|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
-|13|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|15|144.86.187.39|3129|United States|Malden|Charles River Operation|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
-|18|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|154.23.22.121|3128|Hong Kong|Chai Wan|HONG KONG Megalayer Technology Co., Limited|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|7|38.156.75.12|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|8|103.82.126.34|1111|Indonesia|Tangerang|PT.PLATINUM CITRA INDONESIA|
+|9|189.232.93.142|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|10|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|103.145.34.162|8081|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
+|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|13|94.231.192.207|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|15|212.110.188.204|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|16|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
+|17|38.156.75.61|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|116.80.47.20|3128|Japan|Tokyo|InfoSphere|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
 
 
 
