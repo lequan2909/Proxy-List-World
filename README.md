@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4888** proxies at the latest update. Usable proxies are below.
+> Scraper found **4801** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|181|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|669|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|582|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|223|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2857|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.47.31|3128|Japan|Tokyo|InfoSphere|
-|3|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
-|5|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|6|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
-|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
-|11|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|12|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|143.0.243.70|8080|Brazil|São Gonçalo|Nova Info Internet e Telecomunicações LTDA|
-|15|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|16|38.9.59.45|8080|India|Chennai|Microsense Private Limited|
-|17|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
-|18|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|19|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|116.80.60.135|3128|Japan|Tokyo|InfoSphere|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|5|223.25.110.206|1080|Indonesia|Surabaya|SinergiNet|
+|6|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|8|103.179.218.5|1080|Indonesia|Pandeglang|PT Wistel Teknologi Solusi|
+|9|103.106.219.114|1080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|10|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
+|11|158.160.63.194|8090|Russia|Moscow|Yandex.Cloud LLC|
+|12|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
+|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|14|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
+|15|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|152.26.229.93|9443|United States|Concord|MCNC|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
 
 
 
