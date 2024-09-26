@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
-|2|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|3|188.227.140.181|8080|Spain|Pozuelo de Alarcón|Aire Networks Del Mediterraneo SL Unipersonal|
-|4|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|6|188.132.222.55|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|4|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|85.214.10.133|3128|Germany|Berlin|Strato AG|
-|9|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|10|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|13|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|174.138.171.162|35749|United States|Phoenix|Secured Servers LLC|
-|15|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
-|16|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
-|17|116.80.93.34|3128|Japan|Shimomeguro|InfoSphere|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|103.93.94.121|80|India|Ghaziabad|Exa Hosting Private Limited|
-|20|152.26.231.83|9443|United States|Concord|MCNC|
+|8|165.85.253.175|8081|United States|Santa Clara|Google LLC|
+|9|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|41.216.42.170|8080|Benin|Cotonou|SOCIETE BENINOISE D'INFRASTRUCTURES NUMERIQUES|
+|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|12|165.85.253.175|8081|United States|Santa Clara|Google LLC|
+|13|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|188.227.140.181|8080|Spain|Pozuelo de Alarcón|Aire Networks Del Mediterraneo SL Unipersonal|
+|16|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|27.72.65.164|5106|Vietnam|Hanoi|Viettel Group|
+|18|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
+|19|116.80.93.34|3128|Japan|Shimomeguro|InfoSphere|
+|20|174.138.171.162|35749|United States|Phoenix|Secured Servers LLC|
 
 
 
