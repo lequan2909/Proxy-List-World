@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5657** proxies at the latest update. Usable proxies are below.
+> Scraper found **5739** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|195|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|735|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|817|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|291|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3478|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|3|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
-|4|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|1|165.85.253.175|8081|United States|Santa Clara|Google LLC|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|165.85.253.175|8081|United States|Santa Clara|Google LLC|
+|7|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
 |8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|12|202.47.88.38|3127|Indonesia|Jombang|PT. Java Digital Nusantara|
-|13|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|14|136.60.0.212|80|United States|Austin|Google Fiber Inc.|
-|15|116.99.173.71|8118|Vietnam|Da Nang|Viettel Corporation|
-|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|17|177.67.86.96|999|Brazil|São Paulo|W I X NET DO BRASIL LTDA - ME|
-|18|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
-|19|116.80.93.34|3128|Japan|Shimomeguro|InfoSphere|
-|20|116.105.18.72|10010|Vietnam|Da Nang|Viettel Corporation|
+|9|187.102.236.209|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|12|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|13|136.60.0.212|80|United States|Austin|Google Fiber Inc.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|41.111.167.61|80|Algeria|Beni Saf|Algerie Telecom|
+|17|116.99.173.71|8118|Vietnam|Da Nang|Viettel Corporation|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|165.85.253.175|8081|United States|Santa Clara|Google LLC|
 
 
 
