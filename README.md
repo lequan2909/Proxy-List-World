@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|103.145.34.162|8081|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
-|4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|103.82.126.34|1111|Indonesia|Tangerang|PT.PLATINUM CITRA INDONESIA|
-|7|189.232.93.142|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|10|38.156.75.12|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|12|116.80.60.135|3128|Japan|Tokyo|InfoSphere|
-|13|116.80.47.20|3128|Japan|Tokyo|InfoSphere|
-|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|4|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|124.6.165.155|8082|Philippines|Lahug|INNOVE|
+|6|189.232.93.142|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
+|10|118.175.30.26|8080|Thailand|Lopburi|TOT Public Company Limited|
+|11|116.80.60.135|3128|Japan|Tokyo|InfoSphere|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|14|103.59.44.33|2022|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|15|200.37.252.122|8080|Peru|Tarma|Telefonica del Peru S.A.A.|
 |16|116.105.18.72|10005|Vietnam|Da Nang|Viettel Corporation|
 |17|116.105.18.72|10005|Vietnam|Da Nang|Viettel Corporation|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
+|18|116.80.47.20|3128|Japan|Tokyo|InfoSphere|
 |19|152.26.229.83|9443|United States|Concord|MCNC|
-|20|67.43.228.251|9267|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
 
