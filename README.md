@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|7|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|187.102.236.209|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|12|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|13|136.60.0.212|80|United States|Austin|Google Fiber Inc.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|16|41.111.167.61|80|Algeria|Beni Saf|Algerie Telecom|
-|17|116.99.173.71|8118|Vietnam|Da Nang|Viettel Corporation|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|165.85.253.175|8081|United States|Santa Clara|Google LLC|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|103.56.157.39|8080|Vietnam|Hanoi|VCCORP|
+|9|165.85.253.175|8081|United States|Santa Clara|Google LLC|
+|10|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|11|195.159.124.56|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
+|12|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|17|148.101.179.182|8080|Dominican Republic|Santo Domingo|Compañía Dominicana de Teléfonos S. A|
+|18|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
+|19|139.5.64.108|80|India|New Delhi|National Crime Records Bureau|
+|20|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
 
 
 
