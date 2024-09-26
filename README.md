@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |3|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|4|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|38.156.75.12|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|8|103.82.126.34|1111|Indonesia|Tangerang|PT.PLATINUM CITRA INDONESIA|
-|9|189.232.93.142|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|10|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|103.145.34.162|8081|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
-|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|13|94.231.192.207|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|14|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|15|212.110.188.204|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|16|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
-|17|38.156.75.61|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|116.80.47.20|3128|Japan|Tokyo|InfoSphere|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|4|36.73.180.199|8080|Indonesia|Bondowoso|PT. TELKOM INDONESIA|
+|5|43.129.238.55|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|6|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|182.52.137.15|8080|Thailand|Bangkok|TOT Public Company Limited|
+|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|9|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|157.100.53.103|999|Ecuador|Machala|Ufinet Panama S.A.|
+|11|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|12|124.6.165.155|8082|Philippines|Lahug|INNOVE|
+|13|190.90.22.106|999|Colombia|Bogotá|InterNexa Global Network|
+|14|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
+|15|189.232.93.142|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|17|43.131.45.21|8443|Germany|Frankfurt|Aceville Pte.ltd|
+|18|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|19|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|20|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
