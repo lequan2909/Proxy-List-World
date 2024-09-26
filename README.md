@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|2|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|202.154.18.69|8081|Indonesia|Jombang|DIGITNET|
-|6|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|8|190.205.40.94|3128|Venezuela|Caracas|CANTV Servicios, Venezuela|
-|9|103.153.140.31|8080|India|Dindigul|Airprime Internet Services Private Limited|
-|10|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
-|14|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
-|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|16|103.36.10.200|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|103.56.157.39|8080|Vietnam|Hanoi|VCCORP|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|79.140.235.3|3128|Kazakhstan|Karaganda|AB Group LLC|
+|9|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|5.56.124.176|6734|Moldova|Chisinau|JSC "Moldtelecom" S.A|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|38.183.214.50|8080|Venezuela|Valle de La Pascua|WISP TECNOGER, C.A.|
+|15|45.70.201.186|999|Ecuador|Quito|Ufinet Panama S.A.|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 |17|116.80.76.80|3128|Japan|Shimomeguro|InfoSphere|
-|18|152.26.231.83|9443|United States|Concord|MCNC|
-|19|152.26.229.93|9443|United States|Concord|MCNC|
-|20|152.26.229.34|9443|United States|Concord|MCNC|
+|18|103.133.61.173|8181|Indonesia|Bandar Lampung|TLINK|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
 
