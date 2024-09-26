@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|2|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|5|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|8|45.122.123.182|8080|India|New Delhi|FusionNet|
-|9|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|143.0.243.80|8080|Brazil|São Gonçalo|Nova Info Internet e Telecomunicações LTDA|
-|13|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|172.232.172.64|8080|United States|Tukwila|Akamai Technologies, Inc.|
-|15|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|18|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|19|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
-|20|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|1|103.165.155.254|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|2|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|4|165.85.253.175|8081|United States|Santa Clara|Google LLC|
+|5|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|6|103.30.115.154|8080|Timor-Leste|Dili|Telin Telkomcel TimorLeste|
+|7|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|171.6.31.101|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|10|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|11|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|165.85.253.175|8081|United States|Santa Clara|Google LLC|
+|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|131.241.33.214|8888|United States|Middletown|Cincinnati Bell Telephone Company LLC|
+|15|190.205.40.94|3128|Venezuela|Caracas|CANTV Servicios, Venezuela|
+|16|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|174.138.171.162|35749|United States|Phoenix|Secured Servers LLC|
+|18|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|19|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
+|20|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
 
 
 
