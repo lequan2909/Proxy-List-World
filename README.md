@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|3|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|4|15.204.161.192|18080|United States|Reston|OVH SAS|
-|5|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|8|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|2|1.4.172.1|8080|Thailand|Bangkok|TOT Public Company Limited|
+|3|15.204.161.192|18080|United States|Reston|OVH SAS|
+|4|31.46.175.173|8118|Hungary|Szigetszentmiklós|htc|
+|5|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
+|6|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|77.41.146.16|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|8|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|9|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
 |10|15.204.161.192|18080|United States|Reston|OVH SAS|
-|11|181.205.28.66|46380|Colombia|Medellín|Colombia Móvil|
+|11|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|216.122.181.249|8080|Dominican Republic|Santiago de los Caballeros|Colocation America Corporation|
-|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|45.117.30.9|58081|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|17|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|18|180.97.68.130|25000|China|Nanjing|China Telecom|
-|19|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
-|20|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|13|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|14|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|17|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|18|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
