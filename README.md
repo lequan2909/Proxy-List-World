@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|103.159.194.131|8080|Indonesia|Welahan|PT Giga Digital Nusantara|
-|5|103.78.36.116|8080|Indonesia|Jakarta|MORATELINDO|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|157.120.34.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
-|10|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|83.242.254.122|8080|Russia|Moscow|Comstar Volga|
-|12|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
-|13|202.154.13.3|8080|Indonesia|Parenggan|PT Akses Data Internusa|
-|14|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
-|17|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
-|18|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|20|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|157.120.34.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|103.78.36.116|8080|Indonesia|Jakarta|MORATELINDO|
+|5|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
+|7|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
+|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|12|152.26.229.83|9443|United States|Concord|MCNC|
+|13|152.26.231.83|9443|United States|Concord|MCNC|
+|14|152.26.229.93|9443|United States|Concord|MCNC|
+|15|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|16|152.26.231.42|9443|United States|Concord|MCNC|
+|17|72.10.164.178|23141|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|72.10.160.94|11339|Canada|Montreal|GloboTech Communications|
+|20|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
 
 
 
