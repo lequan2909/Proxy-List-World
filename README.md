@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|2|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|190.186.18.161|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|4|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|5|72.10.160.170|10827|Canada|Montreal|GloboTech Communications|
-|6|152.26.231.42|9443|United States|Concord|MCNC|
-|7|152.26.229.42|9443|United States|Concord|MCNC|
-|8|152.26.229.86|9443|United States|Concord|MCNC|
-|9|152.26.229.46|9443|United States|Concord|MCNC|
-|10|67.43.227.227|3179|Canada|Montreal|GloboTech Communications|
-|11|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|72.10.160.90|7717|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.254|21835|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|4021|Canada|Montreal|GloboTech Communications|
-|16|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|17|174.138.167.250|51642|United States|Phoenix|Secured Servers LLC|
-|18|67.43.228.253|28469|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|28469|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.93|9443|United States|Concord|MCNC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|5|103.69.20.55|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|6|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|8|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|152.26.229.42|9443|United States|Concord|MCNC|
+|12|152.26.231.42|9443|United States|Concord|MCNC|
+|13|152.26.229.46|9443|United States|Concord|MCNC|
+|14|67.43.227.227|29729|Canada|Montreal|GloboTech Communications|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|152.26.229.93|9443|United States|Concord|MCNC|
+|17|119.252.167.130|41890|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|18|67.43.227.227|29729|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|29729|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|7339|Canada|Montreal|GloboTech Communications|
 
 
 
