@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|2|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
-|7|103.171.157.133|8080|Indonesia|Jakarta|MYREPUBLIC|
-|8|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|9|152.26.229.83|9443|United States|Concord|MCNC|
-|10|152.26.231.93|9443|United States|Concord|MCNC|
-|11|116.80.76.86|3128|Japan|Shimomeguro|InfoSphere|
-|12|152.26.229.86|9443|United States|Concord|MCNC|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|67.43.227.228|28015|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|18575|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|1331|Canada|Montreal|GloboTech Communications|
-|17|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
-|18|72.10.164.178|1331|Canada|Montreal|GloboTech Communications|
-|19|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|20|193.84.2.199|8080|Finland|Helsinki|Hostkey B.V.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|157.20.157.5|8080|Indonesia|Madiun|PT Ismaya Djati Nuswantara|
+|3|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|4|43.131.45.21|8443|Germany|Frankfurt|Aceville Pte.ltd|
+|5|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|7|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
+|8|43.207.166.110|5050|Japan|Tokyo|Amazon.com, Inc.|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|12|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
+|13|24.204.29.115|8080|United States|Longview|Network IP|
+|14|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|15|38.183.214.50|8080|Venezuela|Valle de La Pascua|WISP TECNOGER, C.A.|
+|16|152.26.229.83|9443|United States|Concord|MCNC|
+|17|152.26.231.93|9443|United States|Concord|MCNC|
+|18|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
+|19|116.80.76.86|3128|Japan|Shimomeguro|InfoSphere|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
