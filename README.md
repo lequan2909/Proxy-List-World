@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4864** proxies at the latest update. Usable proxies are below.
+> Scraper found **4925** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|182|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|605|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|666|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|159|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2960|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.131.45.21|8443|Germany|Frankfurt|Aceville Pte.ltd|
-|2|93.171.130.11|3128|Ukraine|Dnipro|Shaporenko Yuri Nikolaevich|
-|3|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|43.207.166.110|5050|Japan|Tokyo|Amazon.com, Inc.|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
-|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|10|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|66.27.58.70|8080|United States|Artesia|Spectrum|
-|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|13|152.26.229.83|9443|United States|Concord|MCNC|
-|14|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|67.43.228.253|18533|Canada|Montreal|GloboTech Communications|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|18|67.43.228.253|18533|Canada|Montreal|GloboTech Communications|
-|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|152.26.231.94|9443|United States|Concord|MCNC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
+|3|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|4|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|83.242.254.122|8080|Russia|Moscow|Comstar Volga|
+|7|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|103.156.15.249|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|9|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
+|10|103.88.90.54|8080|Indonesia|Malang|PT Paket Switch Bersama|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|190.61.90.117|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
+|13|45.166.93.29|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|14|83.229.61.203|8118|Italy|Milan|Interkvm Host SRL|
+|15|38.183.214.50|8080|Venezuela|Valle de La Pascua|WISP TECNOGER, C.A.|
+|16|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
+|17|66.27.58.70|8080|United States|Artesia|Spectrum|
+|18|116.80.76.80|3128|Japan|Shimomeguro|InfoSphere|
+|19|1.52.48.25|11111|Vietnam|Vĩnh Phúc Province|Vietnam Internet Network Information Center|
+|20|143.244.138.31|3128|India|Bengaluru|DigitalOcean, LLC|
 
 
 
