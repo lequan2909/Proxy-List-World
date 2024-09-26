@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
-|3|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|4|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|83.242.254.122|8080|Russia|Moscow|Comstar Volga|
-|7|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|103.156.15.249|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|9|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
-|10|103.88.90.54|8080|Indonesia|Malang|PT Paket Switch Bersama|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|190.61.90.117|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
-|13|45.166.93.29|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|14|83.229.61.203|8118|Italy|Milan|Interkvm Host SRL|
-|15|38.183.214.50|8080|Venezuela|Valle de La Pascua|WISP TECNOGER, C.A.|
-|16|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
-|17|66.27.58.70|8080|United States|Artesia|Spectrum|
-|18|116.80.76.80|3128|Japan|Shimomeguro|InfoSphere|
-|19|1.52.48.25|11111|Vietnam|Vĩnh Phúc Province|Vietnam Internet Network Information Center|
-|20|143.244.138.31|3128|India|Bengaluru|DigitalOcean, LLC|
+|2|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|103.82.126.202|8080|Indonesia|Tangerang|PT.PLATINUM CITRA INDONESIA|
+|5|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
+|6|83.54.16.225|3128|Spain|León|Telefonica de Espana SAU|
+|7|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
+|8|185.241.149.168|8080|United States|Dallas|Tier.Net Technologies LLC|
+|9|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
+|13|71.191.130.54|8118|United States|Gainesville|Verizon Communications|
+|14|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|116.80.76.80|3128|Japan|Shimomeguro|InfoSphere|
+|16|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|116.80.60.135|3128|Japan|Tokyo|InfoSphere|
+|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
