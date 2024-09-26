@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|3|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|203.150.128.34|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|8|47.88.85.102|443|United States|Minkler|Alibaba.com LLC|
-|9|152.26.231.83|9443|United States|Concord|MCNC|
-|10|116.80.60.131|3128|Japan|Tokyo|InfoSphere|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|36.91.155.42|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|4|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|116.80.60.131|3128|Japan|Tokyo|InfoSphere|
+|10|152.26.231.83|9443|United States|Concord|MCNC|
 |11|152.26.231.93|9443|United States|Concord|MCNC|
 |12|152.26.229.46|9443|United States|Concord|MCNC|
 |13|152.26.229.83|9443|United States|Concord|MCNC|
-|14|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
-|15|152.26.231.86|9443|United States|Concord|MCNC|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|202.51.214.81|8080|Indonesia|Jakarta Pusat|PT. Sejahtera Globalindo|
-|19|72.10.160.173|26021|Canada|Montreal|GloboTech Communications|
-|20|103.133.27.143|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|14|152.26.229.93|9443|United States|Concord|MCNC|
+|15|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|103.59.44.33|2022|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
 
 
 
