@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5384** proxies at the latest update. Usable proxies are below.
+> Scraper found **5385** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|188|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|667|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|668|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|195|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3376|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 |2|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|3|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|10|103.56.157.39|8080|Vietnam|Hanoi|VCCORP|
-|11|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|13|103.169.254.131|3127|Indonesia|Curahjati|PT Master Star Network|
-|14|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|16|103.48.68.6|83|India|Hyderabad|Country Online Services PVT LTD|
-|17|212.174.79.169|8080|Türkiye|Sanliurfa|Turk Telekomunikasyon Anonim Sirketi|
-|18|182.53.74.84|8080|Thailand|Bangkok|TOT Public Company Limited|
-|19|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|20|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|116.104.133.55|5020|Vietnam|Hanoi|Viettel Corporation|
+|8|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|43.153.104.42|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|217.160.162.25|8888|Germany|Karlsruhe|IONOS SE|
+|11|202.154.18.69|8081|Indonesia|Jombang|DIGITNET|
+|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|131.241.33.214|8888|United States|Middletown|Cincinnati Bell Telephone Company LLC|
+|14|160.16.109.252|18080|Japan|Tokyo|SAKURA Internet Inc.|
+|15|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|152.26.231.83|9443|United States|Concord|MCNC|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
+|20|43.153.104.42|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
