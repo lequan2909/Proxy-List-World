@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|49.48.151.78|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|2|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
 |3|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|116.102.111.238|10001|Vietnam|Quận Ninh Kiều|Viettel Corporation|
-|5|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|6|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|7|103.156.74.154|8080|Indonesia|Gianyar|PT Trika Global Media|
-|8|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|200.61.16.80|8080|Argentina|Buenos Aires|Silica Networks Argentina S.A|
-|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|12|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|174.138.171.162|35749|United States|Phoenix|Secured Servers LLC|
-|15|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|177.38.83.242|3177|Brazil|Boa Esperança|ZAP BL TELECOMUNICACOES LTDA|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|103.125.19.29|8080|Indonesia|Tangerang|JAVAMEDIA|
+|12|152.26.231.42|9443|United States|Concord|MCNC|
+|13|152.26.229.46|9443|United States|Concord|MCNC|
+|14|145.40.97.148|10001|The Netherlands|Amsterdam|Packet Host, Inc.|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|17|145.40.97.148|10001|The Netherlands|Amsterdam|Packet Host, Inc.|
+|18|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|67.43.227.227|31507|Canada|Montreal|GloboTech Communications|
 
 
 
