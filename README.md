@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|144.86.187.48|3129|United States|Malden|Charles River Operation|
-|3|116.102.111.238|10001|Vietnam|Quận Ninh Kiều|Viettel Corporation|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|189.232.93.142|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|174.168.230.75|8118|United States|Portsmouth|Comcast Cable Communications, LLC|
+|4|103.247.23.37|1111|Indonesia|Banyumas|PT wifian Solution|
+|5|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|189.232.93.142|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|7|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
 |8|207.244.254.27|3128|United States|St Louis|Nubes, LLC|
-|9|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |10|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|103.247.23.37|1111|Indonesia|Banyumas|PT wifian Solution|
-|12|157.120.35.16|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|116.80.76.82|3128|Japan|Shimomeguro|InfoSphere|
+|11|157.120.35.16|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|116.80.76.82|3128|Japan|Shimomeguro|InfoSphere|
+|13|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
 |14|152.26.229.83|9443|United States|Concord|MCNC|
 |15|152.26.231.42|9443|United States|Concord|MCNC|
 |16|152.26.231.83|9443|United States|Concord|MCNC|
-|17|51.158.173.222|3128|France|Paris|Online S.A.S.|
+|17|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
 |18|157.120.34.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|152.26.229.47|9443|United States|Concord|MCNC|
-|20|67.43.228.252|2673|Canada|Montreal|GloboTech Communications|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|152.26.229.47|9443|United States|Concord|MCNC|
 
 
 
