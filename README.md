@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|2|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|6|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|7|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|9|103.75.53.22|8080|Indonesia|Jakarta|PT Quantum Tera Network|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
 |12|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|15|116.99.173.71|8118|Vietnam|Da Nang|Viettel Corporation|
-|16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|157.120.34.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|116.105.18.72|10006|Vietnam|Da Nang|Viettel Corporation|
-|19|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|20|200.39.120.44|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|14|195.159.124.56|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
+|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|59.11.85.221|3128|South Korea|Seongnam-si|Korea Telecom|
+|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|103.178.194.131|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|19|157.120.34.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 
 
 
