@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.60.139|3128|Japan|Tokyo|InfoSphere|
-|2|118.43.114.10|8080|South Korea|Gunsan|Korea Telecom|
-|3|95.217.45.15|8080|Finland|Helsinki|Hetzner Online GmbH|
-|4|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|6|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|8|154.12.242.82|8889|United States|Seattle|Nubes, LLC|
-|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|182.253.109.108|8080|Indonesia|Jakarta|Biznet Metronet|
-|11|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|128.92.239.190|8080|United States|Los Angeles|Spectrum|
-|14|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|15|116.105.18.72|10014|Vietnam|Da Nang|Viettel Corporation|
-|16|116.80.60.139|3128|Japan|Tokyo|InfoSphere|
+|2|18.183.250.177|5050|Japan|Tokyo|Amazon Technologies Inc.|
+|3|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|95.217.45.15|8080|Finland|Helsinki|Hetzner Online GmbH|
+|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|8|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|103.10.230.246|1337|Thailand|Bangkok|CATBB|
+|11|185.157.121.77|8070|Ukraine|Sokal|LLC "BEST-LINK"|
+|12|116.105.18.72|10014|Vietnam|Da Nang|Viettel Corporation|
+|13|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|14|116.80.60.139|3128|Japan|Tokyo|InfoSphere|
+|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
 |17|152.26.229.46|9443|United States|Concord|MCNC|
-|18|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
-|19|72.10.164.178|13313|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|31735|Canada|Montreal|GloboTech Communications|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
