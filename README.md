@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|118.27.111.97|80|Japan|Chiyoda|GMO Internet, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|4|118.43.114.10|8080|South Korea|Gunsan|Korea Telecom|
-|5|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|7|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
-|8|62.106.70.185|8118|Japan|Tokyo|xTom Japan Co., Ltd.|
-|9|203.150.128.151|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|10|181.233.93.88|8080|Brazil|Belém|J.A TELECOM.PE|
-|11|116.80.60.135|3128|Japan|Tokyo|InfoSphere|
-|12|157.120.35.16|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|152.26.229.93|9443|United States|Concord|MCNC|
-|16|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|17|152.26.229.46|9443|United States|Concord|MCNC|
-|18|152.26.231.42|9443|United States|Concord|MCNC|
-|19|103.26.110.46|84|India|Chennai|Niss Networks|
-|20|84.204.138.54|8080|Russia|St Petersburg|PJSC MegaFon|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|5|27.72.65.164|5102|Vietnam|Hanoi|Viettel Group|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|8|95.217.45.15|8080|Finland|Helsinki|Hetzner Online GmbH|
+|9|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|11|103.189.250.69|8090|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|12|103.25.110.222|8080|Indonesia|Banjar|PT. Indonesia Comnet Plus|
+|13|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
+|15|116.80.60.135|3128|Japan|Tokyo|InfoSphere|
+|16|157.120.35.16|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|152.26.229.93|9443|United States|Concord|MCNC|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
