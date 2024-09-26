@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|5|62.106.70.185|8118|Japan|Tokyo|xTom Japan Co., Ltd.|
-|6|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|8|180.190.200.24|8085|Philippines|Lahug|Globe Telecom|
-|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|116.102.111.238|10001|Vietnam|Quận Ninh Kiều|Viettel Corporation|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|195.159.124.56|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
-|14|66.96.233.62|8085|Indonesia|Jakarta|MYREPUBLIC|
-|15|38.52.208.6|999|Guatemala|Jalapa|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|16|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|122.3.45.189|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|18|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|19|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
-|20|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|165.85.253.175|8081|United States|Santa Clara|Google LLC|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|6|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|165.85.253.175|8081|United States|Santa Clara|Google LLC|
+|8|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|179.125.51.54|27234|Brazil|Duque de Caxias|Via Link Telecomunicacoes|
+|10|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|11|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|152.26.229.34|9443|United States|Concord|MCNC|
+|17|165.85.253.175|8081|United States|Santa Clara|Google LLC|
+|18|152.26.231.83|9443|United States|Concord|MCNC|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
+|20|116.80.60.141|3128|Japan|Tokyo|InfoSphere|
 
 
 
