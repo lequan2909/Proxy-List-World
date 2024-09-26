@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|103.78.113.16|8080|Indonesia|Jakarta|MORATELINDO|
-|8|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|10|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|13|201.134.169.214|8205|Mexico|Mexico City|Uninet S.A. de C.V.|
-|14|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|17|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|18|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|19|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|20|161.132.125.244|8080|Peru|Lima|WIN EMPRESAS S.A.C.|
+|1|103.78.113.16|8080|Indonesia|Jakarta|MORATELINDO|
+|2|165.85.253.175|8081|United States|Santa Clara|Google LLC|
+|3|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|165.85.253.175|8081|United States|Santa Clara|Google LLC|
+|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|6|37.46.135.225|3128|Russia|Irkutsk|JSC IOT|
+|7|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|201.134.169.214|8205|Mexico|Mexico City|Uninet S.A. de C.V.|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|11|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
+|12|67.43.227.226|1571|Canada|Montreal|GloboTech Communications|
+|13|103.189.123.223|8080|Indonesia|Jakarta|PT Ikhlas Cipta Teknologi|
+|14|120.28.216.126|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|17|58.27.218.28|3128|Pakistan|Lahore|Wateen Telecom Limited|
+|18|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|19|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
