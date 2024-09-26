@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|165.85.253.175|8081|United States|Santa Clara|Google LLC|
 |2|101.51.107.30|8080|Thailand|Bangkok|TOT Public Company Limited|
-|3|103.56.157.39|8080|Vietnam|Hanoi|VCCORP|
-|4|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|165.85.253.175|8081|United States|Santa Clara|Google LLC|
 |5|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|177.93.51.213|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|9|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|62.106.70.185|8118|Japan|Tokyo|xTom Japan Co., Ltd.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|17|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|18|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|19|116.80.60.131|3128|Japan|Tokyo|InfoSphere|
-|20|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|116.99.173.71|8118|Vietnam|Da Nang|Viettel Corporation|
+|9|144.86.187.37|3129|United States|Malden|Charles River Operation|
+|10|93.190.14.199|8080|Turkey|Osmangazi|Kobikom Telekomunikasyon Bilisim Hizmetler SAN VE TIC AS|
+|11|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|12|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|13|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|41.111.167.61|80|Algeria|Beni Saf|Algerie Telecom|
+|16|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|18|103.162.54.117|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
+|19|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
