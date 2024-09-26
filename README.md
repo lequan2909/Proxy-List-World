@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|2|182.253.109.108|8080|Indonesia|Jakarta|Biznet Metronet|
+|1|203.150.128.151|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|116.80.93.40|3128|Japan|Shimomeguro|InfoSphere|
-|4|154.12.50.166|8888|United States|Los Angeles|NetLab Global|
-|5|101.51.107.87|8080|Thailand|Bangkok|TOT Public Company Limited|
-|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|7|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
-|8|103.153.134.150|8080|Indonesia|Tangerang|WMINET|
-|9|116.80.92.220|3128|Japan|Shimomeguro|InfoSphere|
-|10|152.26.231.86|9443|United States|Concord|MCNC|
-|11|152.26.231.94|9443|United States|Concord|MCNC|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|152.26.231.42|9443|United States|Concord|MCNC|
-|15|152.26.229.46|9443|United States|Concord|MCNC|
-|16|67.43.228.252|20273|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.86|9443|United States|Concord|MCNC|
-|18|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|67.43.228.253|12529|Canada|Montreal|GloboTech Communications|
-|20|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|4|200.39.120.45|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|5|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|51.158.173.222|3128|France|Paris|Online S.A.S.|
+|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
+|11|154.12.50.166|8888|United States|Los Angeles|NetLab Global|
+|12|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
+|13|116.80.92.220|3128|Japan|Shimomeguro|InfoSphere|
+|14|202.51.214.81|8080|Indonesia|Jakarta Pusat|PT. Sejahtera Globalindo|
+|15|152.26.231.94|9443|United States|Concord|MCNC|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
