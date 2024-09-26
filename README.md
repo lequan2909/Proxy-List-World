@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|4|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|103.162.16.168|8080|Indonesia|Pati|PT Mega Data Perkasa|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|189.232.93.142|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
 |6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|45.133.107.10|81|Russia|Tul'skiy|Art-net LLC|
-|9|174.168.230.75|8118|United States|Portsmouth|Comcast Cable Communications, LLC|
-|10|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|144.86.187.39|3129|United States|Malden|Charles River Operation|
-|12|152.26.231.83|9443|United States|Concord|MCNC|
-|13|152.26.231.94|9443|United States|Concord|MCNC|
-|14|144.86.187.55|3129|United States|Malden|Charles River Operation|
-|15|144.86.187.52|3129|United States|Malden|Charles River Operation|
-|16|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|144.86.187.37|3129|United States|Malden|Charles River Operation|
-|18|67.43.228.250|2645|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.83|9443|United States|Concord|MCNC|
-|20|72.10.160.173|1483|Canada|Montreal|GloboTech Communications|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|152.26.231.94|9443|United States|Concord|MCNC|
+|10|152.26.231.83|9443|United States|Concord|MCNC|
+|11|207.244.254.27|3128|United States|St Louis|Nubes, LLC|
+|12|152.26.229.83|9443|United States|Concord|MCNC|
+|13|72.10.160.92|29877|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.173|8597|Canada|Montreal|GloboTech Communications|
+|15|152.26.229.34|9443|United States|Concord|MCNC|
+|16|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|17|67.43.228.253|9495|Canada|Montreal|GloboTech Communications|
+|18|152.26.231.93|9443|United States|Concord|MCNC|
+|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.164.178|6047|Canada|Montreal|GloboTech Communications|
 
 
 
