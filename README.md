@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|31.46.175.173|8118|Hungary|Szigetszentmiklós|htc|
-|2|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|4|45.179.201.129|999|Colombia|Medellín|NET&COM LTDA.|
-|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|2|43.131.45.21|8443|Germany|Frankfurt|Aceville Pte.ltd|
+|3|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|5|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|6|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|84.204.138.54|8080|Russia|St Petersburg|PJSC MegaFon|
+|8|79.140.235.3|3128|Kazakhstan|Karaganda|AB Group LLC|
+|9|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|10|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
 |11|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|12|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|131.241.33.214|8888|United States|Middletown|Cincinnati Bell Telephone Company LLC|
-|14|182.53.74.84|8080|Thailand|Bangkok|TOT Public Company Limited|
-|15|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|16|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
-|18|116.105.18.72|10014|Vietnam|Da Nang|Viettel Corporation|
-|19|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|20|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
+|12|41.33.219.131|1981|Egypt|Cairo|TE Data|
+|13|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|103.122.1.14|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
+|16|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
+|17|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
+|19|152.26.229.34|9443|United States|Concord|MCNC|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
