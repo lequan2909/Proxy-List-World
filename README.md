@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|4|36.37.86.26|9812|Indonesia|Jakarta|LINTASARTA|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |5|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|152.26.229.83|9443|United States|Concord|MCNC|
-|8|152.26.229.86|9443|United States|Concord|MCNC|
-|9|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|10|152.26.231.42|9443|United States|Concord|MCNC|
-|11|152.26.229.47|9443|United States|Concord|MCNC|
-|12|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|152.26.231.94|9443|United States|Concord|MCNC|
-|14|86.109.3.27|10086|United States|Chicago|Packet Host, Inc.|
-|15|152.26.231.86|9443|United States|Concord|MCNC|
-|16|67.43.236.20|17863|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|4153|Canada|Montreal|GloboTech Communications|
-|18|116.80.76.76|3128|Japan|Shimomeguro|InfoSphere|
-|19|67.43.228.253|8789|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|6|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|7|59.11.85.221|3128|South Korea|Seongnam-si|Korea Telecom|
+|8|152.26.229.83|9443|United States|Concord|MCNC|
+|9|152.26.231.42|9443|United States|Concord|MCNC|
+|10|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|11|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|152.26.229.47|9443|United States|Concord|MCNC|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
+|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|15|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|116.80.76.76|3128|Japan|Shimomeguro|InfoSphere|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|67.43.227.228|5671|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
 
