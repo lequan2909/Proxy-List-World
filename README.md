@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
 |3|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|103.234.31.60|8080|Indonesia|Jakarta|PT Jenius Lintas Nusantara|
-|5|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|103.125.17.22|8080|Indonesia|Tangerang|JAVAMEDIA|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|9|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
-|11|71.191.130.54|8118|United States|Gainesville|Verizon Communications|
+|4|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|7|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|82.180.146.42|3128|India|Mumbai|Contabo Asia Private Limited|
+|10|103.78.36.116|8080|Indonesia|Jakarta|MORATELINDO|
+|11|103.159.194.131|8080|Indonesia|Welahan|PT Giga Digital Nusantara|
 |12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|15|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
-|16|51.158.173.222|3128|France|Paris|Online S.A.S.|
-|17|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
-|18|157.120.35.16|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|20|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|13|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
+|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|16|157.120.35.16|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|116.80.60.139|3128|Japan|Tokyo|InfoSphere|
+|20|107.148.20.208|1234|United States|Los Angeles|PEG TECH INC|
 
 
 
