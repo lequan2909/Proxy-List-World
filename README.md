@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.47.31|3128|Japan|Tokyo|InfoSphere|
-|3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|4|205.185.125.235|3128|United States|Las Vegas|FranTech Solutions|
-|5|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|223.25.110.206|1080|Indonesia|Surabaya|SinergiNet|
-|8|103.247.22.148|8080|Indonesia|Bekasi|PT wifian Solution|
-|9|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
+|3|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|180.31.234.71|8080|Japan|Kasama|NTT Communications Corporation|
+|5|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|6|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|8|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |10|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
-|11|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
-|12|62.106.70.185|8118|Japan|Tokyo|xTom Japan Co., Ltd.|
-|13|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|14|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|116.80.60.135|3128|Japan|Tokyo|InfoSphere|
-|16|103.159.194.33|1111|Indonesia|Temanjang|PT Giga Digital Nusantara|
-|17|157.120.35.15|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|152.26.229.47|9443|United States|Concord|MCNC|
+|11|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|12|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|143.0.243.70|8080|Brazil|São Gonçalo|Nova Info Internet e Telecomunicações LTDA|
+|15|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|16|38.9.59.45|8080|India|Chennai|Microsense Private Limited|
+|17|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
+|18|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|19|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|20|116.80.60.135|3128|Japan|Tokyo|InfoSphere|
 
 
 
