@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|2|37.46.135.225|3128|Russia|Irkutsk|JSC IOT|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|144.86.187.37|3129|United States|Malden|Charles River Operation|
-|6|49.0.2.194|8090|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|7|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|9|144.86.187.37|3129|United States|Malden|Charles River Operation|
-|10|193.84.2.199|8080|Finland|Helsinki|Hostkey B.V.|
-|11|45.70.203.112|999|Ecuador|Quito|Ufinet Panama S.A.|
-|12|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|43.131.45.21|8443|Germany|Frankfurt|Aceville Pte.ltd|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|152.26.231.83|9443|United States|Concord|MCNC|
-|17|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|144.86.187.51|3129|United States|Malden|Charles River Operation|
-|19|152.26.231.42|9443|United States|Concord|MCNC|
-|20|86.109.3.27|9400|United States|Chicago|Packet Host, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|4|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|165.85.253.175|8081|United States|Santa Clara|Google LLC|
+|8|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|177.93.51.213|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|11|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|12|61.129.2.212|8080|China|Beijing|CHINANET|
+|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|14|193.84.2.199|8080|Finland|Helsinki|Hostkey B.V.|
+|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|16|116.99.173.71|8118|Vietnam|Da Nang|Viettel Corporation|
+|17|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
