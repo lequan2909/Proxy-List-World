@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|3|51.158.173.222|3128|France|Paris|Online S.A.S.|
-|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|6|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|189.51.123.7|80|Brazil|Medina|Rapeedo Telecom|
+|6|157.66.50.81|8080|Indonesia|Jakarta|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|7|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|85.214.10.133|3128|Germany|Berlin|Strato AG|
+|9|83.54.16.225|3128|Spain|León|Telefonica de Espana SAU|
+|10|103.59.44.33|2022|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
 |11|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|15|8.218.198.49|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|116.80.93.34|3128|Japan|Shimomeguro|InfoSphere|
-|19|152.26.229.86|9443|United States|Concord|MCNC|
-|20|152.26.229.93|9443|United States|Concord|MCNC|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|103.78.80.66|32650|Indonesia|Bogor|MORATELINDO|
+|14|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|60.48.93.7|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|116.80.93.34|3128|Japan|Shimomeguro|InfoSphere|
+|20|72.10.160.172|31735|Canada|Montreal|GloboTech Communications|
 
 
 
