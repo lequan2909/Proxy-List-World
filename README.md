@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.60.139|3128|Japan|Tokyo|InfoSphere|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|103.155.197.193|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|7|103.10.230.246|1337|Thailand|Bangkok|CATBB|
+|3|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|4|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|6|118.43.114.10|8080|South Korea|Gunsan|Korea Telecom|
+|7|165.85.253.175|8080|United States|Santa Clara|Google LLC|
 |8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|165.90.89.38|3128|Mozambique|Maputo|Moztel LDA|
-|10|103.177.9.19|8181|Indonesia|Blora|PT Helium Sinergi Telekomunikasi|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
-|13|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|14|152.26.229.34|9443|United States|Concord|MCNC|
-|15|152.26.229.83|9443|United States|Concord|MCNC|
-|16|152.26.231.94|9443|United States|Concord|MCNC|
-|17|152.26.229.46|9443|United States|Concord|MCNC|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|152.26.231.86|9443|United States|Concord|MCNC|
-|20|116.80.92.220|3128|Japan|Shimomeguro|InfoSphere|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|103.176.96.134|8082|Indonesia|Purwakarta|PT Global Sarana Elektronika|
+|12|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
+|15|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|16|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|152.26.231.94|9443|United States|Concord|MCNC|
+|20|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
 
 
 
