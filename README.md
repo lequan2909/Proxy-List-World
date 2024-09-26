@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|3|95.217.45.15|8080|Finland|Helsinki|Hetzner Online GmbH|
-|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|6|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|4|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|103.110.34.144|8089|Indonesia|Purwodadi Grobogan|PT RECONET SEMESTA INDONESIA|
 |7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|182.253.109.108|8080|Indonesia|Jakarta|Biznet Metronet|
-|9|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|116.80.47.20|3128|Japan|Tokyo|InfoSphere|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|157.120.35.15|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|152.26.229.34|9443|United States|Concord|MCNC|
-|17|152.26.229.83|9443|United States|Concord|MCNC|
-|18|116.80.93.40|3128|Japan|Shimomeguro|InfoSphere|
-|19|152.26.229.93|9443|United States|Concord|MCNC|
-|20|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|116.80.47.20|3128|Japan|Tokyo|InfoSphere|
+|10|157.120.35.15|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
+|14|115.147.32.198|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|15|152.26.229.34|9443|United States|Concord|MCNC|
+|16|152.26.229.83|9443|United States|Concord|MCNC|
+|17|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|152.26.229.93|9443|United States|Concord|MCNC|
+|19|122.3.45.189|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|20|116.80.93.40|3128|Japan|Shimomeguro|InfoSphere|
 
 
 
