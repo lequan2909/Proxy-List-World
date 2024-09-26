@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|118.43.114.10|8080|South Korea|Gunsan|Korea Telecom|
-|3|182.253.109.108|8080|Indonesia|Jakarta|Biznet Metronet|
-|4|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|5|154.12.50.166|8888|United States|Los Angeles|NetLab Global|
-|6|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
-|7|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|202.47.88.38|3127|Indonesia|Jombang|PT. Java Digital Nusantara|
+|2|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|3|116.80.93.40|3128|Japan|Shimomeguro|InfoSphere|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|101.51.107.87|8080|Thailand|Bangkok|TOT Public Company Limited|
+|7|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
+|8|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |10|116.80.76.76|3128|Japan|Shimomeguro|InfoSphere|
-|11|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
 |12|152.26.229.34|9443|United States|Concord|MCNC|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|157.120.35.15|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|15|152.26.229.83|9443|United States|Concord|MCNC|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|152.26.229.47|9443|United States|Concord|MCNC|
-|18|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|19|83.54.16.225|3128|Spain|León|Telefonica de Espana SAU|
-|20|72.10.160.173|14721|Canada|Montreal|GloboTech Communications|
+|13|157.120.35.15|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|14|152.26.229.83|9443|United States|Concord|MCNC|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|152.26.229.47|9443|United States|Concord|MCNC|
+|17|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|18|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|19|67.43.227.227|9701|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.174|1309|Canada|Montreal|GloboTech Communications|
 
 
 
