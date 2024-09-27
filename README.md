@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |2|211.222.173.123|3129|South Korea|Goyang-si|Korea Telecom|
-|3|103.157.24.29|8080|Indonesia|Depok|PT Dapur Remaja Multi Sarana|
-|4|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|103.56.157.39|8080|Vietnam|Hanoi|VCCORP|
+|5|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |6|139.84.214.147|3129|India|Bengaluru|The Constant Company, LLC|
-|7|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|8|139.84.220.140|3129|India|Bengaluru|The Constant Company, LLC|
+|7|139.84.220.140|3129|India|Bengaluru|The Constant Company, LLC|
+|8|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
 |9|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|10|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|15|193.84.2.199|8080|Finland|Helsinki|Hostkey B.V.|
-|16|200.37.187.58|999|Peru|Huancavelica|Telefonica del Peru S.A.A.|
-|17|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|51.158.173.222|3128|France|Paris|Online S.A.S.|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|103.83.198.169|8080|Indonesia|Serang|Dinas Komunikasi, Informatika, Statistik dan Persandian Provinsi Banten|
+|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|14|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|174.138.171.164|8900|United States|Phoenix|Secured Servers LLC|
+|16|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|17|139.84.214.147|3129|India|Bengaluru|The Constant Company, LLC|
+|18|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|20|139.84.220.140|3129|India|Bengaluru|The Constant Company, LLC|
 
 
 
