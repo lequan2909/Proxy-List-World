@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
-|8|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|171.96.192.188|80|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|10|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|11|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|12|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|16|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|110.137.26.233|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
-|19|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|20|58.240.211.250|7890|China|Suzhou|CNC Group Jiangsu province network|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
+|4|165.85.253.175|8081|United States|Santa Clara|Google LLC|
+|5|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
+|17|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|165.85.253.175|8081|United States|Santa Clara|Google LLC|
 
 
 
