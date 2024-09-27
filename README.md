@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|3|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|4|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
-|5|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|152.26.229.83|9443|United States|Concord|MCNC|
-|11|152.26.231.93|9443|United States|Concord|MCNC|
-|12|152.26.231.42|9443|United States|Concord|MCNC|
-|13|152.26.229.46|9443|United States|Concord|MCNC|
-|14|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
-|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|16|58.240.211.250|7890|China|Suzhou|CNC Group Jiangsu province network|
-|17|58.27.218.28|3128|Pakistan|Lahore|Wateen Telecom Limited|
-|18|67.43.227.226|3961|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.34|9443|United States|Concord|MCNC|
-|20|67.43.227.226|3961|Canada|Montreal|GloboTech Communications|
+|1|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|2|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|4|152.26.229.83|9443|United States|Concord|MCNC|
+|5|152.26.231.93|9443|United States|Concord|MCNC|
+|6|152.26.231.42|9443|United States|Concord|MCNC|
+|7|43.131.45.21|8443|Germany|Frankfurt|Aceville Pte.ltd|
+|8|152.26.229.46|9443|United States|Concord|MCNC|
+|9|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
+|10|116.80.60.141|3128|Japan|Tokyo|InfoSphere|
+|11|152.26.229.34|9443|United States|Concord|MCNC|
+|12|72.10.160.90|2143|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.230|21051|Canada|Montreal|GloboTech Communications|
+|14|116.80.76.82|3128|Japan|Shimomeguro|InfoSphere|
+|15|152.26.231.94|9443|United States|Concord|MCNC|
+|16|116.80.76.86|3128|Japan|Shimomeguro|InfoSphere|
+|17|58.11.21.76|8080|Thailand|Chon Buri|True Internet Corporation CO. Ltd.|
+|18|67.43.227.227|13025|Canada|Montreal|GloboTech Communications|
+|19|116.80.93.34|3128|Japan|Shimomeguro|InfoSphere|
+|20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
