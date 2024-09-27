@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.92.220|3128|Japan|Shimomeguro|InfoSphere|
-|3|116.80.93.40|3128|Japan|Shimomeguro|InfoSphere|
-|4|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|34.124.190.108|8090|Singapore|Singapore|Google LLC|
-|11|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|15|147.75.88.36|10004|United States|San Jose|Packet Host, Inc.|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
-|18|90.161.186.147|3128|Spain|Pineda de Mar|Uni2|
-|19|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|20|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|116.80.92.220|3128|Japan|Shimomeguro|InfoSphere|
+|4|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|5|116.80.93.40|3128|Japan|Shimomeguro|InfoSphere|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|10|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|13|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|147.75.88.36|10003|United States|San Jose|Packet Host, Inc.|
+|17|177.93.36.151|999|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
+|18|85.214.10.133|3128|Germany|Berlin|Strato AG|
+|19|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|177.93.59.71|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
