@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.93.40|3128|Japan|Shimomeguro|InfoSphere|
-|3|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|34.124.190.108|8090|Singapore|Singapore|Google LLC|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|8|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|152.26.229.47|9443|United States|Concord|MCNC|
-|15|152.26.231.83|9443|United States|Concord|MCNC|
-|16|152.26.229.93|9443|United States|Concord|MCNC|
-|17|152.26.229.46|9443|United States|Concord|MCNC|
-|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|3|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|103.236.191.101|8082|Indonesia|Jakarta|PT Victory Network Indonesia|
+|5|103.172.0.13|8181|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
+|6|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|7|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|103.126.219.37|8080|Bangladesh|Dhaka|MD IMTIAZ KHAN ABIR|
+|9|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|12|147.75.88.36|10003|United States|San Jose|Packet Host, Inc.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|152.26.231.42|9443|United States|Concord|MCNC|
+|15|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|19|114.130.153.58|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|20|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
 
 
 
