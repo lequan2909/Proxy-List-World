@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|5|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|43.131.45.21|8443|Germany|Frankfurt|Aceville Pte.ltd|
-|8|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|11|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|16|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|17|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|2|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|5|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|7|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|101.101.217.36|80|South Korea|Seongnam-si|NBP|
+|10|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|13|62.106.70.185|8118|Japan|Tokyo|xTom Japan Co., Ltd.|
+|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
 |18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|152.26.229.34|9443|United States|Concord|MCNC|
+|19|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|20|45.231.170.137|999|Mexico|Juárez|GigNet, S.A. de C.V.|
 
 
 
