@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|62.106.70.185|8118|Japan|Tokyo|xTom Japan Co., Ltd.|
+|1|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
 |2|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
-|3|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|4|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
-|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|9|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|10|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|13|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|16|27.147.131.41|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|19|38.255.84.82|999|Venezuela|Caracas|Galanet Solution C.A.|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|3|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|172.236.179.252|8000|India|Mumbai|Akamai Technologies, Inc.|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|31.46.175.173|8118|Hungary|Szigetszentmiklós|htc|
+|8|200.37.187.58|999|Peru|Huancavelica|Telefonica del Peru S.A.A.|
+|9|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|11|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|14|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|23.19.73.223|3128|United States|Los Angeles|Leaseweb USA, Inc.|
+|17|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|18|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|20|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
 
 
 
