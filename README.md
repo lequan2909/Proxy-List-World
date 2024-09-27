@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|3|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
 |4|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|5|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|147.75.88.36|10003|United States|San Jose|Packet Host, Inc.|
-|8|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|147.75.88.36|10003|United States|San Jose|Packet Host, Inc.|
-|10|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|112.78.165.92|8080|Indonesia|Jakarta|Biznet Networks|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|174.138.171.162|9000|United States|Phoenix|Secured Servers LLC|
-|15|103.176.96.211|8090|Indonesia|Purwakarta|PT Global Sarana Elektronika|
-|16|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|194.164.206.37|3128|United Kingdom|Farnham|NETKONECT|
-|19|103.189.96.38|8080|Indonesia|Sragen|Lintas Data Prima, PT|
-|20|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|8.242.154.34|999|Colombia|Bogotá|Level 3 Communications, Inc.|
+|8|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|12|5.58.33.187|55507|Ukraine|Ternopil|Columbus|
+|13|116.80.93.40|3128|Japan|Shimomeguro|InfoSphere|
+|14|116.80.76.80|3128|Japan|Shimomeguro|InfoSphere|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|17|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|18|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
+|20|72.10.160.174|9155|Canada|Montreal|GloboTech Communications|
 
 
 
