@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5064** proxies at the latest update. Usable proxies are below.
+> Scraper found **5360** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
 
 ## Sources
 
@@ -28,37 +28,37 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|201|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|644|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|206|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|707|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|210|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3051|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|135|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3354|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|2|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|179.48.80.9|8085|Brazil|Teresina|Fbnet Telecom|
-|5|45.81.115.86|3128|Türkiye|Bursa|Pembe Gul Isguzar Karagoz|
-|6|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|7|191.7.208.87|8080|Brazil|Novo Oriente|HTM SERVICOS DE TELECOMUNICACOES LTDA|
-|8|202.137.31.186|8080|Indonesia|Bekasi|LINKNET|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|11|36.64.27.57|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|72.10.160.172|2063|Canada|Montreal|GloboTech Communications|
-|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|15|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|16|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|17|152.26.229.34|9443|United States|Concord|MCNC|
-|18|67.43.227.226|29677|Canada|Montreal|GloboTech Communications|
-|19|38.183.214.50|8080|Venezuela|Valle de La Pascua|WISP TECNOGER, C.A.|
-|20|152.26.229.83|9443|United States|Concord|MCNC|
+|1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|3|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|4|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|9|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|10|119.47.90.76|8080|Indonesia|Batang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|11|45.177.179.65|999|Mexico|San Luis Potosí City|Wantelco SAS de CV|
+|12|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|16|174.138.171.162|35749|United States|Phoenix|Secured Servers LLC|
+|17|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|18|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
+|19|213.160.150.237|8080|Ukraine|Kyiv|"SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY|
+|20|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 
 
 
