@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|2|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|203.150.128.129|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|6|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|45.157.177.167|8080|Germany|Nuremberg|netcup GmbH|
-|8|212.110.187.185|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|9|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
-|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|17|61.7.183.113|8080|Thailand|Ao Nang|CAT Telecom Public Company Limited|
-|18|62.106.70.185|8118|Japan|Tokyo|xTom Japan Co., Ltd.|
-|19|157.120.34.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|203.150.128.129|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|165.85.253.175|8081|United States|Santa Clara|Google LLC|
+|7|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|119.82.242.200|8080|Indonesia|Gedangan|Indonesia Network Information Center|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
+|20|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
