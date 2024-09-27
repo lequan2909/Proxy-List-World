@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|7|157.120.35.15|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|8|27.96.131.193|80|South Korea|Seongnam-si|NBP|
-|9|203.150.128.164|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|10|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
+|2|157.120.35.15|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|7|103.179.182.211|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|8|124.105.24.80|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|9|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
+|10|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
 |11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|103.36.11.246|8181|Indonesia|Pandeglang|PT Awinet Global Mandiri|
-|16|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|17|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
-|18|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|12|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|62.106.70.185|8118|Japan|Tokyo|xTom Japan Co., Ltd.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|45.231.170.137|999|Mexico|Juárez|GigNet, S.A. de C.V.|
+|16|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
+|17|179.43.96.178|8080|Peru|Arequipa|GLG PERU SAC|
+|18|116.80.47.20|3128|Japan|Tokyo|InfoSphere|
 |19|152.26.229.46|9443|United States|Concord|MCNC|
-|20|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
