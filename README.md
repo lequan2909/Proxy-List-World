@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|51.158.173.222|3128|France|Paris|Online S.A.S.|
-|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|2|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|104.131.91.60|3128|United States|Clifton|DigitalOcean, LLC|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|139.84.220.140|3129|India|Bengaluru|The Constant Company, LLC|
+|6|104.131.91.60|3128|United States|Clifton|DigitalOcean, LLC|
+|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|124.121.104.173|8080|Thailand|Bangkok|TRUEBB|
 |10|139.84.220.140|3129|India|Bengaluru|The Constant Company, LLC|
-|11|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|12|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|13|139.84.220.140|3129|India|Bengaluru|The Constant Company, LLC|
-|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|62.106.70.185|8118|Japan|Tokyo|xTom Japan Co., Ltd.|
-|16|103.176.116.109|8000|India|Murshidābād|Gbpl Global Broadband Private Limited|
-|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|11|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|14|51.158.173.222|3128|France|Paris|Online S.A.S.|
+|15|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|18|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
+|20|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 
 
 
