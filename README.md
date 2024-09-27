@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
-|3|116.80.47.20|3128|Japan|Tokyo|InfoSphere|
-|4|139.84.208.147|3129|India|Bengaluru|The Constant Company, LLC|
-|5|112.163.170.209|3129|South Korea|Sacheon-si|Korea Telecom|
-|6|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|8|103.188.173.153|8080|Indonesia|Gombong|PT Satria Digital Media|
-|9|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|10|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|139.84.208.147|3129|India|Bengaluru|The Constant Company, LLC|
-|12|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
-|16|103.190.113.114|8080|Indonesia|Grobogan|PT Linkbit Inovasi Teknologi|
-|17|14.224.133.215|8080|Vietnam|Hanoi|VNPT|
-|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|19|147.75.88.36|10011|United States|San Jose|Packet Host, Inc.|
-|20|103.158.27.88|1212|Indonesia|Sleman|PT Madina Solusi Indonesia|
+|3|147.75.88.36|10003|United States|San Jose|Packet Host, Inc.|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|31.46.175.173|8118|Hungary|Szigetszentmiklós|htc|
+|6|139.84.208.147|3129|India|Bengaluru|The Constant Company, LLC|
+|7|112.163.170.209|3129|South Korea|Sacheon-si|Korea Telecom|
+|8|139.84.208.147|3129|India|Bengaluru|The Constant Company, LLC|
+|9|163.172.33.137|4003|France|Vitry-sur-Seine|Online S.A.S.|
+|10|103.156.114.24|8080|Indonesia|Bandung|MYREPUBLIC|
+|11|104.128.228.69|8118|United States|Los Angeles|HostUS|
+|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|14|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|147.75.88.36|10003|United States|San Jose|Packet Host, Inc.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|182.253.177.19|8080|Indonesia|Jakarta Pusat|BIZNET|
+|20|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
 
 
 
