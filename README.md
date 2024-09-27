@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5407** proxies at the latest update. Usable proxies are below.
+> Scraper found **5408** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|208|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|209|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|651|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|197|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|2|165.85.253.175|8080|United States|Santa Clara|Google LLC|
 |3|147.75.88.36|10003|United States|San Jose|Packet Host, Inc.|
-|4|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|6|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|10|147.75.88.36|10003|United States|San Jose|Packet Host, Inc.|
-|11|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|12|45.174.57.26|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
-|13|62.106.70.185|8118|Japan|Tokyo|xTom Japan Co., Ltd.|
-|14|194.164.206.37|3128|United Kingdom|Farnham|NETKONECT|
+|4|208.67.28.28|58090|United States|Eagle River|SonicNet Inc.|
+|5|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|114.8.131.178|8080|Indonesia|Gambir|PT. INDOSAT Tbk|
+|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|8|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|9|116.99.173.71|8118|Vietnam|Da Nang|Viettel Corporation|
+|10|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|11|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|85.214.10.133|3128|Germany|Berlin|Strato AG|
+|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |15|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|103.133.63.77|8181|Indonesia|Bandar Lampung|TLINK|
-|17|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|20|38.156.73.59|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|200.24.152.210|999|Ecuador|Manta|Negocios Y Telefonia Nedetel S.A|
+|17|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|18|62.106.70.185|8118|Japan|Tokyo|xTom Japan Co., Ltd.|
+|19|147.75.88.36|10003|United States|San Jose|Packet Host, Inc.|
+|20|82.202.247.117|3128|Russia|St Petersburg|JSC Selectel|
 
 
 
