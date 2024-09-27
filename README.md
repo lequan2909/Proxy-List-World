@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5439** proxies at the latest update. Usable proxies are below.
+> Scraper found **5480** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|207|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|744|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|785|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|165|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3365|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|112.163.170.209|3129|South Korea|Sacheon-si|Korea Telecom|
 |2|116.80.47.20|3128|Japan|Tokyo|InfoSphere|
-|3|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |4|172.236.179.251|8000|India|Mumbai|Akamai Technologies, Inc.|
-|5|103.122.0.134|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
-|6|147.75.88.36|10011|United States|San Jose|Packet Host, Inc.|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|36.95.12.154|8080|Indonesia|Padang|PT. Telekomunikasi Indonesia|
-|9|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
 |10|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|45.117.29.153|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|17|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
-|18|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|19|103.189.249.204|8092|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
-|20|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|147.75.88.36|10003|United States|San Jose|Packet Host, Inc.|
+|15|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|17|103.36.10.200|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
+|20|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
 
 
 
