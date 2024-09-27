@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|165.85.253.175|8080|United States|Santa Clara|Google LLC|
 |3|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|37.46.135.225|3128|Russia|Irkutsk|JSC IOT|
-|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|6|103.169.254.155|3127|Indonesia|Curahjati|PT Master Star Network|
-|7|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|8|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|10|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|11|38.156.73.59|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|4|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|7|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|10|190.92.151.66|9002|United States|Phoenix|A2 Hosting, Inc.|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
-|14|171.97.12.92|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|15|101.109.53.112|8080|Thailand|Pattaya|TOT Public Company Limited|
-|16|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|181.198.53.6|3128|Ecuador|Calceta|Telconet S.A|
-|18|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|19|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|45.174.57.26|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
+|15|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|16|154.12.50.166|8888|United States|Los Angeles|NetLab Global|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
+|20|223.25.110.225|1080|Indonesia|Surabaya|SinergiNet|
 
 
 
