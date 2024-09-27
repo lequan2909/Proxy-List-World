@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|104.131.91.60|3128|United States|Clifton|DigitalOcean, LLC|
+|4|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |6|139.84.220.140|3129|India|Bengaluru|The Constant Company, LLC|
-|7|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|116.99.173.71|8118|Vietnam|Da Nang|Viettel Corporation|
-|11|139.84.220.140|3129|India|Bengaluru|The Constant Company, LLC|
-|12|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|13|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|14|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|16|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|51.158.173.222|3128|France|Paris|Online S.A.S.|
-|19|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|104.131.91.60|3128|United States|Clifton|DigitalOcean, LLC|
+|8|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|11|51.158.173.222|3128|France|Paris|Online S.A.S.|
+|12|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|13|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|139.84.220.140|3129|India|Bengaluru|The Constant Company, LLC|
+|15|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|120.28.195.40|8282|Philippines|Cagayan de Oro|Globe Telecom|
+|17|114.130.153.58|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|18|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
 
 
 
