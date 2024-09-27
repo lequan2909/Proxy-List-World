@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|147.75.88.36|10003|United States|San Jose|Packet Host, Inc.|
-|3|101.108.142.249|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|5|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|6|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|9|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|101.108.142.249|8080|Thailand|Bangkok|TOT Public Company Limited|
+|2|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|147.75.88.36|10003|United States|San Jose|Packet Host, Inc.|
+|4|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|101.109.53.112|8080|Thailand|Pattaya|TOT Public Company Limited|
+|8|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|165.85.253.175|8081|United States|Santa Clara|Google LLC|
+|10|103.166.8.226|1080|Indonesia|Karanganyar Wetankali|PT Akses Bersama Sedaya|
 |11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 |13|147.75.88.36|10003|United States|San Jose|Packet Host, Inc.|
-|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|20|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
+|14|154.12.50.166|8888|United States|Los Angeles|NetLab Global|
+|15|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
+|16|154.12.50.166|8888|United States|Los Angeles|NetLab Global|
+|17|165.85.253.175|8081|United States|Santa Clara|Google LLC|
+|18|116.80.47.31|3128|Japan|Tokyo|InfoSphere|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 
 
 
