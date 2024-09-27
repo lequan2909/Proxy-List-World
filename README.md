@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|3|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|165.85.253.175|8081|United States|Santa Clara|Google LLC|
+|2|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|165.85.253.175|8081|United States|Santa Clara|Google LLC|
 |4|45.81.115.86|3128|Türkiye|Bursa|Pembe Gul Isguzar Karagoz|
-|5|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|103.36.10.200|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|12|223.197.178.186|3128|Hong Kong|Central|PCCW IMSBiz|
-|13|157.120.34.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|15|152.26.229.47|9443|United States|Concord|MCNC|
-|16|67.43.236.20|16909|Canada|Montreal|GloboTech Communications|
-|17|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|18|119.82.242.200|8080|Indonesia|Gedangan|Indonesia Network Information Center|
-|19|72.10.160.170|1661|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|30349|Canada|Montreal|GloboTech Communications|
+|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|6|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|83.171.111.142|8080|Russia|Murmansk|Rostelecom networks|
+|9|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|10|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
+|12|179.48.80.9|8085|Brazil|Teresina|Fbnet Telecom|
+|13|180.94.12.137|8080|Indonesia|Siak Sri Indrapura|PT Agsa Global Network|
+|14|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|15|165.85.253.175|8081|United States|Santa Clara|Google LLC|
+|16|157.120.34.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|72.10.160.172|18681|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.47|9443|United States|Concord|MCNC|
+|19|45.81.115.86|3128|Türkiye|Bursa|Pembe Gul Isguzar Karagoz|
+|20|67.43.227.226|15387|Canada|Montreal|GloboTech Communications|
 
 
 
