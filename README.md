@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.76.86|3128|Japan|Shimomeguro|InfoSphere|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|157.120.35.15|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|119.15.86.30|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|6|45.182.191.58|8080|Colombia|Tunja|TV AZTECA SUCURSAL COLOMBIA|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
-|9|223.25.110.204|1080|Indonesia|Surabaya|SinergiNet|
-|10|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|11|118.67.134.17|80|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
-|12|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
-|13|167.250.222.233|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|14|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|16|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|103.41.88.33|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|18|62.106.70.185|8118|Japan|Tokyo|xTom Japan Co., Ltd.|
-|19|103.143.169.153|84|India|Hyderabad|Aspt Networks Pvt Ltd|
-|20|157.120.34.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|5|157.120.35.15|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|7|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|72.10.160.174|2503|Canada|Montreal|GloboTech Communications|
+|10|62.106.70.185|8118|Japan|Tokyo|xTom Japan Co., Ltd.|
+|11|157.120.34.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|12|103.133.61.173|8181|Indonesia|Bandar Lampung|TLINK|
+|13|136.60.0.212|80|United States|Austin|Google Fiber Inc.|
+|14|103.36.10.200|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|15|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|16|152.26.229.46|9443|United States|Concord|MCNC|
+|17|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
+|18|58.27.218.28|3128|Pakistan|Lahore|Wateen Telecom Limited|
+|19|182.253.122.172|3127|Indonesia|Surabaya|BIZNET|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
