@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|2|31.46.175.173|8118|Hungary|Szigetszentmiklós|htc|
-|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|7|1.55.30.182|8080|Vietnam|Bắc Ninh|FPT Telecom Company|
-|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|10|179.60.220.1|9080|Argentina|Quilmes|CSCOM|
-|11|147.75.88.36|10003|United States|San Jose|Packet Host, Inc.|
-|12|152.26.231.93|9443|United States|Concord|MCNC|
-|13|72.10.160.174|12631|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.47|9443|United States|Concord|MCNC|
-|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|174.138.171.162|35749|United States|Phoenix|Secured Servers LLC|
-|17|67.43.227.226|22953|Canada|Montreal|GloboTech Communications|
-|18|163.172.33.137|4003|France|Vitry-sur-Seine|Online S.A.S.|
-|19|67.43.227.227|25649|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.94|9443|United States|Concord|MCNC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|3|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|31.46.175.173|8118|Hungary|Szigetszentmiklós|htc|
+|5|43.131.45.21|8443|Germany|Frankfurt|Aceville Pte.ltd|
+|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|9|163.172.33.137|4003|France|Vitry-sur-Seine|Online S.A.S.|
+|10|177.234.227.215|999|Ecuador|Manta|Ufinet Panama S.A.|
+|11|1.55.30.182|8080|Vietnam|Bắc Ninh|FPT Telecom Company|
+|12|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|13|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|14|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|15|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|17|103.180.123.27|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|58.27.218.28|3128|Pakistan|Lahore|Wateen Telecom Limited|
+|20|103.48.68.28|83|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
