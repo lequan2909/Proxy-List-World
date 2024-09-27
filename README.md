@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|103.157.24.29|8080|Indonesia|Depok|PT Dapur Remaja Multi Sarana|
+|1|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|139.84.220.140|3129|India|Bengaluru|The Constant Company, LLC|
-|6|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|139.84.214.147|3129|India|Bengaluru|The Constant Company, LLC|
-|8|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|200.37.187.58|999|Peru|Huancavelica|Telefonica del Peru S.A.A.|
-|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|193.84.2.199|8080|Finland|Helsinki|Hostkey B.V.|
-|13|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|51.158.173.222|3128|France|Paris|Online S.A.S.|
-|17|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|18|139.84.214.147|3129|India|Bengaluru|The Constant Company, LLC|
-|19|139.84.220.140|3129|India|Bengaluru|The Constant Company, LLC|
-|20|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|103.56.157.39|8080|Vietnam|Hanoi|VCCORP|
+|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|6|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|8|103.157.24.29|8080|Indonesia|Depok|PT Dapur Remaja Multi Sarana|
+|9|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|10|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|139.84.220.140|3129|India|Bengaluru|The Constant Company, LLC|
+|14|139.84.214.147|3129|India|Bengaluru|The Constant Company, LLC|
+|15|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|139.84.220.140|3129|India|Bengaluru|The Constant Company, LLC|
+|19|139.84.214.147|3129|India|Bengaluru|The Constant Company, LLC|
+|20|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
