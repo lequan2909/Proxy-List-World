@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|101.109.60.130|8080|Thailand|Pattaya|TOT Public Company Limited|
-|4|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|4|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
 |5|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|8|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|9|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|11|139.84.214.147|3129|India|Bengaluru|The Constant Company, LLC|
-|12|139.84.220.140|3129|India|Bengaluru|The Constant Company, LLC|
+|6|139.84.214.147|3129|India|Bengaluru|The Constant Company, LLC|
+|7|139.84.220.140|3129|India|Bengaluru|The Constant Company, LLC|
+|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|9|139.84.214.147|3129|India|Bengaluru|The Constant Company, LLC|
+|10|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|139.84.220.140|3129|India|Bengaluru|The Constant Company, LLC|
+|12|193.84.2.199|8080|Finland|Helsinki|Hostkey B.V.|
 |13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|45.70.203.116|999|Ecuador|Quito|Ufinet Panama S.A.|
-|16|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
-|17|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
-|18|34.124.190.108|8090|Singapore|Singapore|Google LLC|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|14|200.37.187.58|999|Peru|Huancavelica|Telefonica del Peru S.A.A.|
+|15|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|18|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
+|19|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
 
 
 
