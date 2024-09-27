@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|116.80.60.141|3128|Japan|Tokyo|InfoSphere|
+|4|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|7|103.187.86.27|8182|Indonesia|Pinrang|PT Satunol Digital Teknologi|
+|8|165.85.253.175|8081|United States|Santa Clara|Google LLC|
 |9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |10|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|11|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|14|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|15|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|17|45.70.201.253|999|Ecuador|Quito|Ufinet Panama S.A.|
-|18|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|20|62.106.70.185|8118|Japan|Tokyo|xTom Japan Co., Ltd.|
+|11|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|27.96.131.193|80|South Korea|Seongnam-si|NBP|
+|13|165.85.253.175|8081|United States|Santa Clara|Google LLC|
+|14|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|15|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
+|17|185.184.217.250|8099|Albania|Bulqizë|Infogis Sh.P.K.|
+|18|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|19|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|20|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
