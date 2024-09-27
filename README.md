@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|84.247.152.41|8080|Japan|Tokyo|Contabo GmbH|
-|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|1|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|116.80.60.135|3128|Japan|Tokyo|InfoSphere|
 |5|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|6|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|8|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|9|77.237.243.41|8000|Germany|Düsseldorf|Contabo GmbH|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|181.209.125.186|999|Argentina|Chascomús|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|14|62.106.70.185|8118|Japan|Tokyo|xTom Japan Co., Ltd.|
-|15|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|178.130.101.0|8080|Yemen|Sanaa|Yemen-net-bb-pool 178|
-|17|134.35.241.251|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|18|119.47.90.109|8080|Indonesia|Jatiroto|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|19|20.15.237.25|80|United States|Des Moines|Microsoft Corporation|
-|20|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
+|6|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|8|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|9|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|10|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|11|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|18|134.35.241.251|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|19|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
 
 
 
