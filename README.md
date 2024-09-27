@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|116.80.60.135|3128|Japan|Tokyo|InfoSphere|
-|6|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|7|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|8|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|9|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|11|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|62.106.70.185|8118|Japan|Tokyo|xTom Japan Co., Ltd.|
+|1|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|116.80.60.135|3128|Japan|Tokyo|InfoSphere|
+|3|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|4|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|5|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|6|115.78.13.224|8080|Vietnam|Ho Chi Minh City|VIETELftth|
+|7|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|8|154.12.50.166|8888|United States|Los Angeles|NetLab Global|
+|9|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|154.12.50.166|8888|United States|Los Angeles|NetLab Global|
+|11|187.216.229.150|8080|Mexico|Coronango|Uninet S.A. de C.V.|
+|12|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|13|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|165.85.253.175|8080|United States|Santa Clara|Google LLC|
 |15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|16|185.142.66.110|8080|Russia|Lytkarino|Wellcom-l ISP|
-|17|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|18|45.81.115.86|3128|Türkiye|Bursa|Pembe Gul Isguzar Karagoz|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|16|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|17|103.171.182.229|8080|Indonesia|Bogor|PT Hayat Teknologi Informatika|
+|18|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
