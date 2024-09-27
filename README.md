@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.60.135|3128|Japan|Tokyo|InfoSphere|
-|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|3|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|4|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|5|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
+|3|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|116.80.60.135|3128|Japan|Tokyo|InfoSphere|
+|5|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |6|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|7|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|165.85.253.175|8080|United States|Santa Clara|Google LLC|
-|9|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|12|103.172.42.121|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|13|83.171.111.142|8080|Russia|Murmansk|Rostelecom networks|
-|14|45.224.149.243|999|Ecuador|Quito|Ufinet Panama S.A.|
-|15|185.142.66.110|8080|Russia|Lytkarino|Wellcom-l ISP|
-|16|103.147.247.122|8080|Indonesia|Tangerang|PLBNET|
-|17|138.118.106.121|999|Guatemala|Guatemala City|ONNO NETWORKS, SOCIEDAD ANÓNIMA|
-|18|185.9.139.145|8080|Albania|Tirana|ABnet Sh.p.k|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|7|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|8|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|10|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|190.92.151.66|9002|United States|Phoenix|A2 Hosting, Inc.|
+|12|192.145.206.192|8080|Brazil|São João da Ponte|Vianet Guaraciama Eireli ME|
+|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|17|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|18|113.53.52.169|8080|Thailand|Bangkok|TOT Public Company Limited|
+|19|103.184.56.38|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
+|20|103.171.182.229|8080|Indonesia|Bogor|PT Hayat Teknologi Informatika|
 
 
 
