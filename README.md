@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|147.75.88.36|10003|United States|San Jose|Packet Host, Inc.|
-|3|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|103.169.254.155|3127|Indonesia|Curahjati|PT Master Star Network|
-|7|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|8|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|211.104.20.205|8080|South Korea|Seoul|Korea Telecom|
-|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|11|147.75.88.36|10003|United States|San Jose|Packet Host, Inc.|
-|12|203.150.128.216|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|13|114.8.131.178|8080|Indonesia|Gambir|PT. INDOSAT Tbk|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|19|189.124.85.77|33333|Brazil|Presidente Epitácio|FIT Telecom Eireli|
-|20|103.139.126.31|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|1|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|103.125.174.23|8181|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|3|147.75.88.36|10003|United States|San Jose|Packet Host, Inc.|
+|4|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|9|103.133.63.77|8181|Indonesia|Bandar Lampung|TLINK|
+|10|147.75.88.36|10003|United States|San Jose|Packet Host, Inc.|
+|11|212.236.38.166|8081|Austria|Vienna|Video-Broadcast|
+|12|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|13|200.41.170.211|11201|Argentina|Picún Leufú|Telefonica de Argentina|
+|14|116.80.93.38|3128|Japan|Shimomeguro|InfoSphere|
+|15|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|17|116.80.76.82|3128|Japan|Shimomeguro|InfoSphere|
+|18|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
+|19|194.164.206.37|3128|United Kingdom|Farnham|NETKONECT|
+|20|116.80.76.80|3128|Japan|Shimomeguro|InfoSphere|
 
 
 
