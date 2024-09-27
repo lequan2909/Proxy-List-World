@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5581** proxies at the latest update. Usable proxies are below.
+> Scraper found **5610** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|218|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|646|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|675|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|201|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3558|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.60.131|3128|Japan|Tokyo|InfoSphere|
-|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|203.150.113.121|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|5|172.236.164.238|8000|India|Mumbai|Akamai Technologies, Inc.|
-|6|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|139.84.214.147|3129|India|Bengaluru|The Constant Company, LLC|
-|8|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
+|1|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|116.80.60.131|3128|Japan|Tokyo|InfoSphere|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|172.236.164.238|8000|India|Mumbai|Akamai Technologies, Inc.|
+|5|139.84.214.147|3129|India|Bengaluru|The Constant Company, LLC|
+|6|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
+|7|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
+|8|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
 |9|79.141.167.137|9595|Canada|Toronto|HZ Hosting Ltd|
-|10|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|200.37.187.58|999|Peru|Huancavelica|Telefonica del Peru S.A.A.|
-|15|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|139.84.214.147|3129|India|Bengaluru|The Constant Company, LLC|
-|17|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
-|18|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|19|190.2.209.61|999|Colombia|Tumaco|TV AZTECA SUCURSAL COLOMBIA|
-|20|103.170.100.96|8080|Indonesia|Jakarta|Subnet Data Nusantara|
+|10|139.84.214.147|3129|India|Bengaluru|The Constant Company, LLC|
+|11|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|200.37.187.58|999|Peru|Huancavelica|Telefonica del Peru S.A.A.|
+|13|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|34.125.246.223|80|United States|Las Vegas|Google LLC|
+|15|203.150.113.121|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|16|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
+|19|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|194.164.206.37|3128|United Kingdom|Farnham|NETKONECT|
 
 
 
