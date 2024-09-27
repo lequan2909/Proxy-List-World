@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.12.50.166|8888|United States|Los Angeles|NetLab Global|
+|1|165.85.253.175|8080|United States|Santa Clara|Google LLC|
 |2|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|3|154.12.50.166|8888|United States|Los Angeles|NetLab Global|
-|4|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|45.177.179.65|999|Mexico|San Luis Potosí City|Wantelco SAS de CV|
-|7|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|61.129.2.212|8080|China|Beijing|CHINANET|
-|11|62.106.70.185|8118|Japan|Tokyo|xTom Japan Co., Ltd.|
-|12|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|3|165.85.253.175|8080|United States|Santa Clara|Google LLC|
+|4|154.12.50.166|8888|United States|Los Angeles|NetLab Global|
+|5|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|6|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|154.12.50.166|8888|United States|Los Angeles|NetLab Global|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |13|116.80.76.86|3128|Japan|Shimomeguro|InfoSphere|
-|14|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
-|15|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|16|72.10.164.178|5941|Canada|Montreal|GloboTech Communications|
-|17|174.138.171.163|38400|United States|Phoenix|Secured Servers LLC|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|152.26.231.83|9443|United States|Concord|MCNC|
+|14|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|51.222.32.203|3128|Brazil|Juazeiro do Norte|OVH Hosting|
+|16|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|152.26.231.94|9443|United States|Concord|MCNC|
+|18|152.26.231.83|9443|United States|Concord|MCNC|
+|19|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |20|152.26.231.93|9443|United States|Concord|MCNC|
 
 
