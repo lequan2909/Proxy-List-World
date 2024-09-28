@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|37.131.166.62|58080|Poland|Warsaw|Komputerowe Studio Grafiki, Wojciech Lis|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|152.26.229.83|9443|United States|Concord|MCNC|
-|6|45.71.114.149|999|Ecuador|Loja|Ufinet Panama S.A.|
-|7|152.26.231.83|9443|United States|Concord|MCNC|
-|8|152.26.229.47|9443|United States|Concord|MCNC|
-|9|14.242.25.180|8080|Vietnam|Ho Chi Minh City|VNPT|
-|10|152.26.231.93|9443|United States|Concord|MCNC|
-|11|152.26.229.46|9443|United States|Concord|MCNC|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|72.10.160.173|30917|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.93|6351|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|6309|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|25941|Canada|Montreal|GloboTech Communications|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|101.128.93.144|8090|Indonesia|Jakarta|CBN|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|2|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|37.111.52.41|8080|Myanmar|Yangon|Telenor Myanmar|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|152.26.231.83|9443|United States|Concord|MCNC|
+|10|152.26.229.47|9443|United States|Concord|MCNC|
+|11|152.26.229.83|9443|United States|Concord|MCNC|
+|12|103.48.70.81|84|India|Hyderabad|Country Online Services PVT LTD|
+|13|152.26.229.46|9443|United States|Concord|MCNC|
+|14|152.26.231.93|9443|United States|Concord|MCNC|
+|15|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|16|72.10.160.173|13239|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|6309|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|14073|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.93|1765|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
