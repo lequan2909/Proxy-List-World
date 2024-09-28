@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|10|12.88.29.66|9080|United States|New Orleans|AT&T Services, Inc.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|152.26.231.83|9443|United States|Concord|MCNC|
-|17|152.26.231.42|9443|United States|Concord|MCNC|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|152.26.229.93|9443|United States|Concord|MCNC|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|1|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|61.247.34.98|8080|Indonesia|Jakarta|Linknet-Fastnet ASN|
+|3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
+|7|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|152.26.231.83|9443|United States|Concord|MCNC|
+|12|152.26.231.42|9443|United States|Concord|MCNC|
+|13|152.26.229.93|9443|United States|Concord|MCNC|
+|14|152.26.229.86|9443|United States|Concord|MCNC|
+|15|152.26.231.94|9443|United States|Concord|MCNC|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|103.139.126.31|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|202.180.54.211|8080|Indonesia|Jakarta|PT. Panca Dewata Utama|
 
 
 
