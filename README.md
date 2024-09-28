@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|7|191.252.219.129|8889|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|12|152.26.229.47|9443|United States|Concord|MCNC|
-|13|152.26.229.83|9443|United States|Concord|MCNC|
-|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|15|182.253.122.172|3127|Indonesia|Surabaya|BIZNET|
-|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|17|72.10.164.178|10279|Canada|Montreal|GloboTech Communications|
-|18|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|19|67.43.227.226|30527|Canada|Montreal|GloboTech Communications|
-|20|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|1|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|3|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|6|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|112.198.179.17|8082|Philippines|Carmona|Globe Telecom|
+|13|191.252.219.129|8889|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
+|14|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
+|15|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|18|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
+|19|192.203.0.78|999|Puerto Rico|Fajardo|Boom NET|
+|20|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
 
 
 
