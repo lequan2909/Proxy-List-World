@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.104.169.120|5000|Vietnam|Hanoi|Viettel Corporation|
-|3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|5|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|6|171.238.239.214|5000|Vietnam|Tuyên Quang|Viettel Corporation|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|43.131.45.21|8443|Germany|Frankfurt|Aceville Pte.ltd|
+|2|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|3|210.87.125.58|1080|Indonesia|Kediri|CV Brawijaya Giga Network|
+|4|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|5|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|6|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|49.51.244.112|8888|United States|San Jose|OPHL|
+|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 |9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|118.175.30.26|8080|Thailand|Lopburi|TOT Public Company Limited|
-|12|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|14|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|116.80.93.40|3128|Japan|Shimomeguro|InfoSphere|
-|16|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
-|18|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|17|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|181.39.48.120|999|Ecuador|Quito|Telconet S.A|
+|20|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 
 
 
