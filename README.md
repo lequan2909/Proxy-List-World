@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4919** proxies at the latest update. Usable proxies are below.
+> Scraper found **4907** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|239|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|733|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|721|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|186|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2803|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
 |4|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|177.222.25.9|8080|Brazil|Duque de Caxias|Wireless Comm Services LTDA|
-|16|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
-|17|72.128.133.154|16099|United States|Hutto|Charter Communications|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|8|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|103.78.113.16|8080|Indonesia|Jakarta|MORATELINDO|
+|15|190.220.1.173|56974|Argentina|Buenos Aires|Techtel LMDS Comunicaciones Interactivas S.A.|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
+|20|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
 
 
 
