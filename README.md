@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|7|103.76.151.74|8089|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
-|11|181.209.96.156|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|103.36.10.200|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|16|72.10.160.171|20215|Canada|Montreal|GloboTech Communications|
-|17|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|18|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
-|19|118.97.75.83|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|20|72.10.164.178|26865|Canada|Montreal|GloboTech Communications|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|7|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|10|103.247.23.181|1111|Indonesia|Bekasi|PT wifian Solution|
+|11|60.48.93.7|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
+|14|1.55.30.182|8080|Vietnam|Bắc Ninh|FPT Telecom Company|
+|15|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|190.61.101.95|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
+|19|119.82.242.200|8080|Indonesia|Gedangan|Indonesia Network Information Center|
+|20|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
 
 
 
