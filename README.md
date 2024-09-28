@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|225|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|575|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|226|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|574|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|170|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3319|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|157.120.34.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|4|139.84.148.89|3129|India|Bengaluru|The Constant Company, LLC|
-|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|6|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|9|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|202.179.93.132|58080|India|Mumbai|Ankhnet|
-|13|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
-|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|17|119.252.167.130|41890|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|18|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|3|3.18.226.115|443|United States|Dublin|Amazon.com, Inc.|
+|4|139.84.144.243|3129|India|Bengaluru|The Constant Company, LLC|
+|5|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|139.84.144.214|3129|India|Bengaluru|The Constant Company, LLC|
+|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|8|199.195.253.213|3128|United States|New York|FranTech Solutions|
+|9|168.227.40.71|9192|Brazil|Cabo de Santo Agostinho|Digitec Eletronica Ltda - ME|
+|10|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|11|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|12|3.18.226.115|443|United States|Dublin|Amazon.com, Inc.|
+|13|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|103.191.254.2|8085|Indonesia|Jadi|PT Ayodya Data Internusa|
+|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|203.177.140.18|8082|Philippines|Iloilo City|AYALASYS|
+|17|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|18|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
+|20|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 
 
 
