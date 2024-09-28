@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|3|139.84.146.75|3129|India|Bengaluru|The Constant Company, LLC|
-|4|139.84.145.43|3129|India|Bengaluru|The Constant Company, LLC|
-|5|50.6.193.80|3128|United States|Jacksonville|Network Solutions, LLC|
-|6|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
-|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|10|62.106.70.185|8118|Japan|Tokyo|xTom Japan Co., Ltd.|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|36.93.8.34|11000|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|14|103.178.42.100|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
-|15|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|139.84.145.43|3129|India|Bengaluru|The Constant Company, LLC|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|50.6.193.80|3128|United States|Jacksonville|Network Solutions, LLC|
+|5|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
+|7|18.226.251.198|3128|United States|Dublin|Amazon.com, Inc.|
+|8|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|9|62.106.70.185|8118|Japan|Tokyo|xTom Japan Co., Ltd.|
+|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|13|18.226.251.198|3128|United States|Dublin|Amazon.com, Inc.|
+|14|50.6.193.80|3128|United States|Jacksonville|Network Solutions, LLC|
+|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |16|163.172.33.137|4003|France|Vitry-sur-Seine|Online S.A.S.|
-|17|50.6.193.80|3128|United States|Jacksonville|Network Solutions, LLC|
-|18|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|19|152.26.231.93|9443|United States|Concord|MCNC|
-|20|67.43.227.227|24239|Canada|Montreal|GloboTech Communications|
+|17|116.80.60.141|3128|Japan|Tokyo|InfoSphere|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
