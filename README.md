@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.124.190.108|8090|Singapore|Singapore|Google LLC|
-|3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|4|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|9|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|190.193.142.156|3128|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|116.80.93.34|3128|Japan|Shimomeguro|InfoSphere|
-|19|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|20|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|2|86.109.3.27|10086|United States|Chicago|Packet Host, Inc.|
+|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|5|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|124.105.99.230|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
+|11|62.106.70.185|8118|Japan|Tokyo|xTom Japan Co., Ltd.|
+|12|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|116.80.93.34|3128|Japan|Shimomeguro|InfoSphere|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|18|195.175.29.38|9090|Turkey|Adana|Turk Telekomunikasyon A.S|
+|19|116.80.60.135|3128|Japan|Tokyo|InfoSphere|
+|20|120.28.220.26|8080|Philippines|Cagayan de Oro|Globe Telecom|
 
 
 
