@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|103.56.157.39|8080|Vietnam|Hanoi|VCCORP|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|4|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|74.207.236.34|3128|United States|Atlanta|Akamai Technologies, Inc.|
 |6|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
 |7|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|18.226.251.198|3128|United States|Dublin|Amazon.com, Inc.|
-|9|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|14|59.11.85.221|3128|South Korea|Seongnam-si|Korea Telecom|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|18|118.218.123.235|3128|South Korea|Asan|SK Broadband Co Ltd|
-|19|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|20|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|12|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|114.130.153.58|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|14|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|152.26.229.83|9443|United States|Concord|MCNC|
+|16|157.120.34.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|152.26.231.83|9443|United States|Concord|MCNC|
+|19|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|20|139.84.146.75|3129|India|Bengaluru|The Constant Company, LLC|
 
 
 
