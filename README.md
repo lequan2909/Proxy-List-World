@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|7|142.93.221.122|3128|India|Bengaluru|DigitalOcean, LLC|
-|8|217.156.49.12|3128|Japan|Shibuya|Virtono Networks SRL|
-|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|11|31.46.175.173|8118|Hungary|Szigetszentmiklós|htc|
-|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|103.165.157.241|8090|Indonesia|Purbalingga|MEGADATA-ISP|
-|17|103.172.42.111|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|18|122.152.55.61|8080|Bangladesh|Chittagong|Innovative Online Ltd|
-|19|195.159.124.56|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
-|20|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
+|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|8|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|10|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|142.93.221.122|3128|India|Bengaluru|DigitalOcean, LLC|
+|13|217.156.49.12|3128|Japan|Shibuya|Virtono Networks SRL|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|43.131.45.21|8443|Germany|Frankfurt|Aceville Pte.ltd|
+|16|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|18|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|58.19.22.61|3128|China|Wuhan|CNC Group CHINA169 Hubei Province Network|
+|20|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
 
 
 
