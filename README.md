@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|103.56.157.39|8080|Vietnam|Hanoi|VCCORP|
-|5|36.64.27.57|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|6|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
-|7|115.127.36.190|222|Bangladesh|Dhaka|BRACNet Limited|
-|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|103.77.206.34|80|Indonesia|Makassar|GLOBALMANDIRI|
-|10|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|119.82.242.200|8080|Indonesia|Gedangan|Indonesia Network Information Center|
-|14|103.83.97.46|7777|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|5.2.228.168|8888|Romania|Constanța|RCS & RDS|
-|17|116.80.76.76|3128|Japan|Shimomeguro|InfoSphere|
-|18|152.26.231.83|9443|United States|Concord|MCNC|
-|19|152.26.231.94|9443|United States|Concord|MCNC|
-|20|72.10.164.178|28229|Canada|Montreal|GloboTech Communications|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|72.10.164.178|17577|Canada|Montreal|GloboTech Communications|
+|11|103.41.33.246|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|12|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|46.161.196.144|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|14|72.10.164.178|17577|Canada|Montreal|GloboTech Communications|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|18|116.80.76.76|3128|Japan|Shimomeguro|InfoSphere|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|152.26.231.94|9443|United States|Concord|MCNC|
 
 
 
