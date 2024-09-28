@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.47.32|3128|Japan|Tokyo|InfoSphere|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|1|116.80.47.31|3128|Japan|Tokyo|InfoSphere|
+|2|116.80.47.32|3128|Japan|Tokyo|InfoSphere|
+|3|174.138.171.164|8900|United States|Phoenix|Secured Servers LLC|
+|4|27.70.131.1|9002|Vietnam|Hanoi|Viettel Group|
 |5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|116.80.47.22|3128|Japan|Tokyo|InfoSphere|
-|7|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|103.7.26.142|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
-|9|167.71.110.174|8118|United States|Clifton|DigitalOcean, LLC|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|206.1.194.38|9090|Venezuela|Maracaibo|Airtek Solutions C.A.|
+|7|2.59.181.125|33420|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
+|8|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|9|116.80.47.22|3128|Japan|Tokyo|InfoSphere|
+|10|116.99.173.71|8118|Vietnam|Da Nang|Viettel Corporation|
 |11|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|163.172.33.137|4005|France|Vitry-sur-Seine|Online S.A.S.|
-|14|1.55.30.182|8080|Vietnam|Bắc Ninh|FPT Telecom Company|
-|15|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|16|116.80.47.24|3128|Japan|Tokyo|InfoSphere|
-|17|110.5.110.158|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
-|18|38.52.208.6|999|Guatemala|Jalapa|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|19|103.41.33.246|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|20|174.138.171.162|9000|United States|Phoenix|Secured Servers LLC|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|206.42.19.56|8080|Brazil|Pereiro|Brisanet Prestacao De Servicos De Internet Ltda|
+|14|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|163.172.33.137|4005|France|Vitry-sur-Seine|Online S.A.S.|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|116.80.47.24|3128|Japan|Tokyo|InfoSphere|
+|20|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
 
 
 
