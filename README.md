@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|4|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|5|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|7|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|116.80.60.141|3128|Japan|Tokyo|InfoSphere|
-|11|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|152.26.229.34|9443|United States|Concord|MCNC|
-|15|152.26.229.42|9443|United States|Concord|MCNC|
-|16|72.10.164.178|8727|Canada|Montreal|GloboTech Communications|
-|17|50.6.193.80|3128|United States|Jacksonville|Network Solutions, LLC|
-|18|116.80.93.34|3128|Japan|Shimomeguro|InfoSphere|
-|19|58.220.95.115|8800|China|Nanjing|CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou, Jiangsu Province, P.|
-|20|152.26.229.47|9443|United States|Concord|MCNC|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
+|8|103.143.168.58|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
+|12|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|116.80.60.141|3128|Japan|Tokyo|InfoSphere|
+|16|152.26.229.47|9443|United States|Concord|MCNC|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|152.26.229.34|9443|United States|Concord|MCNC|
 
 
 
