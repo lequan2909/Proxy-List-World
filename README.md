@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|2.59.181.125|33420|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
+|5|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
 |10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|13|104.37.102.181|8181|United States|Attica|ALTIUS Broadband, LLC|
-|14|182.253.122.172|3127|Indonesia|Surabaya|BIZNET|
-|15|145.40.97.148|10005|The Netherlands|Amsterdam|Packet Host, Inc.|
-|16|152.26.229.47|9443|United States|Concord|MCNC|
-|17|119.235.209.77|3125|Indonesia|Senen|PT. Mora Telematika Indonesia|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|152.26.231.42|9443|United States|Concord|MCNC|
-|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|152.26.231.93|9443|United States|Concord|MCNC|
+|15|152.26.231.42|9443|United States|Concord|MCNC|
+|16|116.80.96.170|3128|Japan|Shimomeguro|InfoSphere|
+|17|152.26.231.86|9443|United States|Concord|MCNC|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|139.84.144.214|3129|India|Bengaluru|The Constant Company, LLC|
+|20|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 
 
 
