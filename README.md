@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|139.84.144.214|3129|India|Bengaluru|The Constant Company, LLC|
-|4|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|139.84.144.214|3129|India|Bengaluru|The Constant Company, LLC|
+|2|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|6|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|86.109.3.27|10086|United States|Chicago|Packet Host, Inc.|
-|10|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|139.84.149.57|3129|India|Bengaluru|The Constant Company, LLC|
-|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|15|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|17|37.211.17.145|8080|Qatar|Doha|Ooredoo|
-|18|116.80.76.76|3128|Japan|Shimomeguro|InfoSphere|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|116.80.61.69|3128|Japan|Tokyo|InfoSphere|
+|6|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|9|67.43.227.230|4149|Canada|Montreal|GloboTech Communications|
+|10|116.80.76.76|3128|Japan|Shimomeguro|InfoSphere|
+|11|116.80.61.69|3128|Japan|Tokyo|InfoSphere|
+|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|72.10.164.178|28483|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|28483|Canada|Montreal|GloboTech Communications|
+|15|152.26.229.34|9443|United States|Concord|MCNC|
+|16|152.26.231.83|9443|United States|Concord|MCNC|
+|17|111.1.61.51|3128|China|Wenzhou|China Mobile communications corporation|
+|18|58.27.218.28|3128|Pakistan|Lahore|Wateen Telecom Limited|
+|19|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|20|67.43.236.20|19433|Canada|Montreal|GloboTech Communications|
 
 
 
