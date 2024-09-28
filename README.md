@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
-|3|27.70.131.1|9002|Vietnam|Hanoi|Viettel Group|
-|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|116.80.76.78|3128|Japan|Shimomeguro|InfoSphere|
-|7|116.80.47.31|3128|Japan|Tokyo|InfoSphere|
-|8|209.200.246.245|3128|Canada|Toronto|Ipxo LLC|
-|9|157.120.35.15|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|152.26.231.42|9443|United States|Concord|MCNC|
-|15|209.200.246.245|3128|Canada|Toronto|Ipxo LLC|
-|16|152.26.231.86|9443|United States|Concord|MCNC|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|152.26.229.93|9443|United States|Concord|MCNC|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|4|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|103.232.20.166|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|8|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|103.89.15.158|1085|United States|Dallas|Kamatera|
+|11|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|116.80.76.78|3128|Japan|Shimomeguro|InfoSphere|
+|14|106.227.95.142|3129|China|Taohua|China Telecom|
+|15|116.80.47.31|3128|Japan|Tokyo|InfoSphere|
+|16|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|157.120.35.15|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
 
