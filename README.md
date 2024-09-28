@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|165.85.253.175|8081|United States|Santa Clara|Google LLC|
+|1|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|103.157.218.46|3128|Vietnam|Ba Đình District|3S Viet Nam Technology Joint Stock Company|
+|3|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
 |4|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|7|38.180.17.233|3128|Serbia|Belgrade|M247 Europe SRL|
-|8|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|9|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
-|10|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|58.240.211.250|7890|China|Suzhou|CNC Group Jiangsu province network|
-|13|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|157.120.34.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|114.130.153.58|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|18|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|19|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|20|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|5|165.85.253.175|8081|United States|Santa Clara|Google LLC|
+|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|95.216.205.32|8118|Finland|Helsinki|Hetzner Online GmbH|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|58.240.211.250|7890|China|Suzhou|CNC Group Jiangsu province network|
+|12|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|165.85.253.175|8081|United States|Santa Clara|Google LLC|
+|14|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|17|157.120.34.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|116.80.60.151|3128|Japan|Tokyo|InfoSphere|
+|19|103.141.180.254|80|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
