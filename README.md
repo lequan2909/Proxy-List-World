@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|217.156.49.12|3128|Japan|Shibuya|Virtono Networks SRL|
-|4|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|5|103.160.182.77|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|6|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
-|7|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|8|114.8.131.178|8080|Indonesia|Gambir|PT. INDOSAT Tbk|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|11|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|12|116.105.18.72|10010|Vietnam|Da Nang|Viettel Corporation|
-|13|82.180.146.37|3128|India|Mumbai|Contabo Asia Private Limited|
-|14|152.26.229.34|9443|United States|Concord|MCNC|
-|15|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
-|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|17|140.238.243.243|2083|India|Mumbai|Oracle Corporation|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|165.85.253.175|8081|United States|Santa Clara|Google LLC|
-|20|72.10.160.170|28663|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|217.156.49.12|3128|Japan|Shibuya|Virtono Networks SRL|
+|3|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|5|165.85.253.175|8081|United States|Santa Clara|Google LLC|
+|6|165.85.253.175|8081|United States|Santa Clara|Google LLC|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|113.192.48.90|8090|Indonesia|Batu|PT.Global Media Data Prima|
+|12|120.28.220.26|8080|Philippines|Cagayan de Oro|Globe Telecom|
+|13|152.26.229.34|9443|United States|Concord|MCNC|
+|14|152.26.231.86|9443|United States|Concord|MCNC|
+|15|72.10.164.178|30737|Canada|Montreal|GloboTech Communications|
+|16|152.26.229.83|9443|United States|Concord|MCNC|
+|17|152.26.231.93|9443|United States|Concord|MCNC|
+|18|72.10.164.178|30737|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|72.10.160.170|8551|Canada|Montreal|GloboTech Communications|
 
 
 
