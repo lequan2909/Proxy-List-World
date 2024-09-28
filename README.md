@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.47.31|3128|Japan|Tokyo|InfoSphere|
-|3|116.80.47.32|3128|Japan|Tokyo|InfoSphere|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|116.80.47.31|3128|Japan|Tokyo|InfoSphere|
+|5|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|6|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|194.87.208.192|3128|Czechia|Prague|Reliable Communications s.r.o|
-|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|45.123.142.2|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|14|27.70.131.1|9002|Vietnam|Hanoi|Viettel Group|
-|15|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|20|139.84.149.57|3129|India|Bengaluru|The Constant Company, LLC|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|1.2.216.227|8080|Thailand|Bangkok|TOT Public Company Limited|
+|15|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|45.177.179.65|999|Mexico|San Luis Potosí City|Wantelco SAS de CV|
+|17|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|103.111.136.110|443|Indonesia|Samarinda|PT Mitra Lintas Multimedia|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
