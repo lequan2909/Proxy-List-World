@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|139.84.145.43|3129|India|Bengaluru|The Constant Company, LLC|
-|5|139.84.146.75|3129|India|Bengaluru|The Constant Company, LLC|
-|6|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
-|10|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|60.48.93.7|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|16|103.84.176.100|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|17|181.114.62.1|8085|Argentina|Ramallo|INTERAIR|
-|18|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
-|19|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|38.44.241.18|999|Dominican Republic|Santo Domingo Este|Visnetwork SRL|
+|5|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
+|6|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|83.229.61.203|8118|Italy|Milan|Interkvm Host SRL|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|45.231.170.137|999|Mexico|Juárez|GigNet, S.A. de C.V.|
+|11|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|116.80.93.34|3128|Japan|Shimomeguro|InfoSphere|
+|14|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|157.120.35.16|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|103.174.18.11|8080|Indonesia|Jakarta|MORATELINDONAP|
+|18|103.226.232.206|3125|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|72.10.160.174|29023|Canada|Montreal|GloboTech Communications|
 
 
 
