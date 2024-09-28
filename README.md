@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
-|4|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|116.80.93.40|3128|Japan|Shimomeguro|InfoSphere|
-|8|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|118.175.30.26|8080|Thailand|Lopburi|TOT Public Company Limited|
-|11|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|14|116.80.92.220|3128|Japan|Shimomeguro|InfoSphere|
-|15|157.120.34.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|17|116.105.18.72|10002|Vietnam|Da Nang|Viettel Corporation|
-|18|139.84.145.43|3129|India|Bengaluru|The Constant Company, LLC|
-|19|139.84.208.147|3129|India|Bengaluru|The Constant Company, LLC|
-|20|86.109.3.28|10011|United States|Chicago|Packet Host, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|5|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|6|180.191.16.9|8085|Philippines|Cabanatuan City|Globe Telecom|
+|7|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|8|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|12|116.80.93.40|3128|Japan|Shimomeguro|InfoSphere|
+|13|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|171.235.149.110|1007|Vietnam|Thu Dau Mot|Viettel Corporation|
+|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|17|38.9.48.211|8080|Dominican Republic|Santiago de los Caballeros|INVERSIONES BONAFER, SRL|
+|18|210.87.125.58|1080|Indonesia|Kediri|CV Brawijaya Giga Network|
+|19|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
