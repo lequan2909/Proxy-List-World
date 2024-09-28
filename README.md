@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|103.87.169.194|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|195.158.197.96|8088|Ukraine|Kyiv|Teremky LAN ISP LLC|
-|10|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|11|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|3|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
+|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|163.47.210.74|8080|India|Bengaluru|Microsense Pvt. Limited|
+|8|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|218.155.31.188|8080|South Korea|Seongnam-si|Korea Telecom|
+|11|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|70.90.138.109|8080|United States|Fraser|Comcast Cable Communications, LLC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |15|218.155.31.188|8080|South Korea|Seongnam-si|Korea Telecom|
-|16|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
-|20|67.43.227.227|12039|Canada|Montreal|GloboTech Communications|
+|16|102.222.51.105|8080|Botswana|Gaborone|JENNY INTERNET (PTY) LTD|
+|17|191.252.219.129|8889|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
+|18|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
 
 
 
