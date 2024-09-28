@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|116.80.47.31|3128|Japan|Tokyo|InfoSphere|
-|8|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|9|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|116.80.47.32|3128|Japan|Tokyo|InfoSphere|
-|13|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|15|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
+|4|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|5|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|116.80.47.32|3128|Japan|Tokyo|InfoSphere|
+|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|10|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|11|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|62.106.70.185|8118|Japan|Tokyo|xTom Japan Co., Ltd.|
+|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|182.253.40.149|8080|Indonesia|Jakarta Pusat|BIZNET|
 |16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|2.59.181.125|33420|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
-|18|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|36.93.22.154|8080|Indonesia|Keagungan|Telekomunikasi Indonesia|
-|20|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
+|17|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|18|180.241.250.207|8080|Indonesia|Indramayu|PT. TELKOM INDONESIA|
+|19|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
+|20|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
 
 
 
