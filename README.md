@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|36.67.223.7|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|5|45.70.203.122|999|Ecuador|Quito|Ufinet Panama S.A.|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|152.26.229.46|9443|United States|Concord|MCNC|
-|11|152.26.229.83|9443|United States|Concord|MCNC|
-|12|152.26.231.86|9443|United States|Concord|MCNC|
-|13|152.26.231.93|9443|United States|Concord|MCNC|
-|14|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|144.91.81.25|3128|Germany|Nuremberg|Contabo GmbH|
-|16|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|177.93.40.57|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|18|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|19|116.80.60.151|3128|Japan|Tokyo|InfoSphere|
-|20|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|152.26.229.46|9443|United States|Concord|MCNC|
+|8|152.26.231.86|9443|United States|Concord|MCNC|
+|9|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
+|11|152.26.231.93|9443|United States|Concord|MCNC|
+|12|203.189.96.232|80|Japan|Chiyoda|GMO Internet, Inc|
+|13|116.80.60.151|3128|Japan|Tokyo|InfoSphere|
+|14|72.10.160.170|11801|Canada|Montreal|GloboTech Communications|
+|15|152.26.229.83|9443|United States|Concord|MCNC|
+|16|67.43.227.228|23629|Canada|Montreal|GloboTech Communications|
+|17|120.28.220.26|8080|Philippines|Cagayan de Oro|Globe Telecom|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|72.10.160.91|7271|Canada|Montreal|GloboTech Communications|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
