@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|37.131.166.62|58080|Poland|Warsaw|Komputerowe Studio Grafiki, Wojciech Lis|
-|6|103.148.49.243|8080|Indonesia|Pontianak|BCMEDIA|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|116.80.60.141|3128|Japan|Tokyo|InfoSphere|
-|10|152.26.231.93|9443|United States|Concord|MCNC|
-|11|152.26.229.86|9443|United States|Concord|MCNC|
-|12|72.10.164.178|5149|Canada|Montreal|GloboTech Communications|
-|13|58.27.218.28|3128|Pakistan|Lahore|Wateen Telecom Limited|
-|14|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
-|15|72.10.160.94|27917|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.171|6233|Canada|Montreal|GloboTech Communications|
-|17|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|2|27.96.131.193|80|South Korea|Seongnam-si|NBP|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|203.128.80.178|8099|Indonesia|Jakarta|Neuviz|
+|5|119.93.148.191|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|6|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|150.95.26.146|7080|Thailand|Bangkok|GMO-Z.COM PTE. LTD.|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|11|190.120.249.61|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|116.80.60.141|3128|Japan|Tokyo|InfoSphere|
+|15|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
+|16|152.26.231.93|9443|United States|Concord|MCNC|
+|17|152.26.229.86|9443|United States|Concord|MCNC|
 |18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|72.10.164.178|5149|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|103.69.20.108|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
