@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|6|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|8|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|212.110.187.185|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|10|103.106.219.219|8080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
-|11|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|170.239.205.73|8080|Colombia|Bogotá|FIBERNET|
-|13|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
-|14|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|17|157.120.35.16|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|139.84.145.43|3129|India|Bengaluru|The Constant Company, LLC|
+|3|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|4|139.84.146.75|3129|India|Bengaluru|The Constant Company, LLC|
+|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|116.80.60.130|3128|Japan|Tokyo|InfoSphere|
+|11|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|157.120.35.16|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
+|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|18|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
