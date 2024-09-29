@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4869** proxies at the latest update. Usable proxies are below.
+> Scraper found **4933** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|243|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|660|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|724|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|205|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2803|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|91.92.123.64|8080|Iran|Tehran|TIC|
-|7|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|8|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|122.176.48.148|80|India|Delhi|Bharti Airtel|
-|13|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|103.231.239.137|58080|Bangladesh|Dhaka|Carnival Internet|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|167.71.110.174|8118|United States|Clifton|DigitalOcean, LLC|
-|18|103.139.126.31|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|19|103.84.176.100|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|20|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|182.253.93.4|53281|Indonesia|Jakarta Pusat|BIZNET|
+|4|91.92.123.64|8080|Iran|Tehran|TIC|
+|5|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|9|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|10|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|14|167.71.110.174|8118|United States|Clifton|DigitalOcean, LLC|
+|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|170.239.205.74|8080|Colombia|Bogotá|FIBERNET|
+|17|116.80.96.170|3128|Japan|Shimomeguro|InfoSphere|
+|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|152.26.229.47|9443|United States|Concord|MCNC|
 
 
 
