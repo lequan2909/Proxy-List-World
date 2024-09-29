@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|7|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
-|10|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|203.192.217.6|8080|India|Delhi|Entire In2Cable|
-|12|203.128.80.178|8099|Indonesia|Jakarta|Neuviz|
-|13|202.51.214.81|8080|Indonesia|Jakarta Pusat|PT. Sejahtera Globalindo|
-|14|190.186.1.126|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|181.39.48.120|999|Ecuador|Quito|Telconet S.A|
-|17|116.80.47.15|3128|Japan|Tokyo|InfoSphere|
-|18|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|19|152.26.231.93|9443|United States|Concord|MCNC|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|3|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|5|116.80.92.220|3128|Japan|Shimomeguro|InfoSphere|
+|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
+|8|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
+|13|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|14|103.84.176.101|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|16|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|17|131.0.207.140|8080|Brazil|Espumoso|CB NET TELECOM LTDA|
+|18|189.113.117.135|8080|Brazil|Sorriso|LCI Equipamentos de Informatica LTDA - LCI Telecom|
+|19|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
