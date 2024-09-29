@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|8|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|12|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|16|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|202.179.90.217|58080|India|Mumbai|Ankhnet|
-|20|116.80.60.139|3128|Japan|Tokyo|InfoSphere|
+|1|103.157.218.46|3128|Vietnam|Ba Đình District|3S Viet Nam Technology Joint Stock Company|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|103.56.157.39|8080|Vietnam|Hanoi|VCCORP|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|7|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|10|79.140.235.3|3128|Kazakhstan|Karaganda|AB Group LLC|
+|11|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|119.2.45.51|8080|Indonesia|Jakarta|PT. Laxo Global Akses|
+|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|17|103.156.74.156|8083|Indonesia|Gianyar|PT Trika Global Media|
+|18|173.249.60.246|14344|Germany|Nuremberg|Contabo GmbH|
+|19|212.110.188.198|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|20|103.133.63.77|8181|Indonesia|Bandar Lampung|TLINK|
 
 
 
