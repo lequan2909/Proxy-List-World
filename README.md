@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|69.197.135.43|40943|United States|Kansas City|WholeSale Internet|
-|3|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|69.197.135.43|40943|United States|Kansas City|WholeSale Internet|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|110.39.161.62|8080|Pakistan|Renala Khurd|Wateen Telecom Limited|
-|9|45.55.156.110|3128|United States|Clifton|DigitalOcean, LLC|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|45.55.156.110|3128|United States|Clifton|DigitalOcean, LLC|
+|3|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|8|103.157.218.46|3128|Vietnam|Ba Đình District|3S Viet Nam Technology Joint Stock Company|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |10|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|11|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|13|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|17|152.26.231.93|9443|United States|Concord|MCNC|
-|18|88.255.106.27|8080|Türkiye|Istanbul|TurkTelekom|
-|19|152.26.229.86|9443|United States|Concord|MCNC|
-|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|11|152.26.231.93|9443|United States|Concord|MCNC|
+|12|69.197.135.43|40943|United States|Kansas City|WholeSale Internet|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
+|14|152.26.231.86|9443|United States|Concord|MCNC|
+|15|115.78.13.224|8080|Vietnam|Ho Chi Minh City|VIETELftth|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|103.247.23.33|1111|Indonesia|Banyumas|PT wifian Solution|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|72.10.164.178|12565|Canada|Montreal|GloboTech Communications|
+|20|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
 
 
 
