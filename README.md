@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|2|103.171.156.134|8080|Indonesia|Jakarta|MYREPUBLIC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|85.175.5.50|3128|Russia|Krasnodar|Southen Telecommunication Maintainer|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|8|103.158.252.3|8080|Indonesia|Tangerang|Rapid Network|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|203.192.199.158|8080|India|Ponda|Entire In2Cable|
-|11|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
-|13|103.179.182.211|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|14|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
-|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|16|67.43.228.250|23219|Canada|Montreal|GloboTech Communications|
-|17|165.225.196.223|8800|United Kingdom|Manchester|Zscaler Switzerland GmbH|
-|18|122.54.165.123|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|19|116.80.61.69|3128|Japan|Tokyo|InfoSphere|
-|20|103.226.232.206|3125|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|116.104.90.218|5102|Vietnam|Hanoi|Viettel Corporation|
+|6|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
+|7|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|8|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|15|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|17|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|18|62.106.70.185|8118|Japan|Tokyo|xTom Japan Co., Ltd.|
+|19|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
 
 
 
