@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5007** proxies at the latest update. Usable proxies are below.
+> Scraper found **5036** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|262|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|664|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|693|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|174|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2949|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|3|103.157.218.46|3128|Vietnam|Ba Đình District|3S Viet Nam Technology Joint Stock Company|
-|4|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|3|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
 |5|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|7|190.107.232.202|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|8|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|10|103.247.12.18|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|11|180.180.175.11|8080|Thailand|Bangkok|TOT Public Company Limited|
-|12|27.64.123.77|8080|Vietnam|Ho Chi Minh City|Viettel Group|
-|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|103.156.17.241|8080|Indonesia|Indramayu|RSTNET|
-|15|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|103.189.123.223|8080|Indonesia|Jakarta|PT Ikhlas Cipta Teknologi|
-|18|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|2.59.181.125|33420|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
+|9|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|13|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
+|14|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|15|117.102.103.146|9890|Indonesia|Jakarta Pusat|BIZNET|
+|16|103.178.42.3|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
+|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|1.179.231.130|8080|Thailand|Ratchaburi|TOT Public Company Limited|
+|19|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 
 
 
