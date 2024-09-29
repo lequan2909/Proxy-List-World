@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|4|103.157.218.46|3128|Vietnam|Ba Đình District|3S Viet Nam Technology Joint Stock Company|
-|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|45.133.107.64|81|Russia|Tul'skiy|Art-net LLC|
-|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|77.237.242.119|8000|Germany|Düsseldorf|Contabo GmbH|
-|13|103.124.139.212|1080|Indonesia|Semarang|Global Media Data Prima|
-|14|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|103.247.23.181|1111|Indonesia|Bekasi|PT wifian Solution|
+|2|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|3|103.157.218.46|3128|Vietnam|Ba Đình District|3S Viet Nam Technology Joint Stock Company|
+|4|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|7|190.107.232.202|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|8|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|103.247.12.18|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|11|180.180.175.11|8080|Thailand|Bangkok|TOT Public Company Limited|
+|12|27.64.123.77|8080|Vietnam|Ho Chi Minh City|Viettel Group|
+|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|103.156.17.241|8080|Indonesia|Indramayu|RSTNET|
+|15|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|103.189.123.223|8080|Indonesia|Jakarta|PT Ikhlas Cipta Teknologi|
+|18|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
