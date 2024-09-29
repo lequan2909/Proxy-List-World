@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|101.51.164.228|8080|Thailand|Pattaya|TOT Public Company Limited|
 |3|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
 |4|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|5.58.98.183|8081|Ukraine|Ternopil|Columbus|
-|8|38.159.229.73|999|Ecuador|Vinces|Turbonet S.A.|
-|9|152.26.231.93|9443|United States|Concord|MCNC|
-|10|59.152.104.29|8080|Bangladesh|Dhaka|Earth Telecommunication ( pvt ) Limited|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|13|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|14|116.80.47.22|3128|Japan|Tokyo|InfoSphere|
-|15|152.26.229.47|9443|United States|Concord|MCNC|
-|16|152.26.231.86|9443|United States|Concord|MCNC|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|67.43.227.226|2161|Canada|Montreal|GloboTech Communications|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|9|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|116.80.47.22|3128|Japan|Tokyo|InfoSphere|
+|14|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|152.26.231.93|9443|United States|Concord|MCNC|
+|16|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|17|152.26.229.47|9443|United States|Concord|MCNC|
+|18|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
