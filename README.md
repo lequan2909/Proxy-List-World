@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.157.218.46|3128|Vietnam|Ba Đình District|3S Viet Nam Technology Joint Stock Company|
-|3|69.197.135.43|40943|United States|Kansas City|WholeSale Internet|
-|4|69.197.135.43|40943|United States|Kansas City|WholeSale Internet|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|2|69.197.135.43|40943|United States|Kansas City|WholeSale Internet|
+|3|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|5|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|69.197.135.43|40943|United States|Kansas City|WholeSale Internet|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|115.78.13.224|8080|Vietnam|Ho Chi Minh City|VIETELftth|
 |10|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|14|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|2.59.181.125|33420|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
-|17|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|152.26.231.83|9443|United States|Concord|MCNC|
-|19|152.26.229.86|9443|United States|Concord|MCNC|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|11|103.131.18.194|8080|Indonesia|Kudus|PT Global Media Data Prima|
+|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|152.26.231.94|9443|United States|Concord|MCNC|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|152.26.229.47|9443|United States|Concord|MCNC|
 
 
 
