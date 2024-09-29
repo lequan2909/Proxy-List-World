@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|101.51.175.248|8080|Thailand|Pattaya|TOT Public Company Limited|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|77.41.146.42|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|8|5.42.73.166|3128|Sweden|Stockholm|Aeza International LTD|
-|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|177.93.41.81|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|13|159.203.104.153|4200|United States|Clifton|DigitalOcean, LLC|
-|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|16|203.190.46.131|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|17|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|18|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|20|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|1|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
+|2|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|77.41.146.42|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|4|203.190.46.131|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|5|101.51.175.248|8080|Thailand|Pattaya|TOT Public Company Limited|
+|6|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|7|119.148.61.130|8080|Bangladesh|Dhaka|Agni Systems Limited|
+|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|9|38.45.249.100|999|Mexico|Tequisquiapan|Jesus Manuel Olguin Guzman|
+|10|103.36.10.200|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|188.132.222.24|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|15|118.137.29.92|8080|Indonesia|Jakarta|Linknet-Fastnet ASN|
+|16|152.26.231.42|9443|United States|Concord|MCNC|
+|17|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|116.80.61.69|3128|Japan|Tokyo|InfoSphere|
 
 
 
