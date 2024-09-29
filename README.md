@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|7|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|23.19.73.223|3128|United States|Los Angeles|Leaseweb USA, Inc.|
-|11|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|14|103.56.157.39|8080|Vietnam|Hanoi|VCCORP|
-|15|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|11|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|12|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|13|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|14|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|18|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |20|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
