@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4909** proxies at the latest update. Usable proxies are below.
+> Scraper found **4883** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|34|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|701|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|675|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|168|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3048|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.47.15|3128|Japan|Tokyo|InfoSphere|
-|2|101.108.120.29|8080|Thailand|Bangkok|TOT Public Company Limited|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|139.84.144.214|3129|India|Bengaluru|The Constant Company, LLC|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|7|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|139.84.154.138|3129|India|Bengaluru|The Constant Company, LLC|
-|9|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
-|10|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|11|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|12|103.171.157.133|8080|Indonesia|Jakarta|MYREPUBLIC|
-|13|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
-|14|103.224.124.239|8080|Indonesia|Bogor|PT Curug Lintas Indonesia|
-|15|67.43.227.226|18919|Canada|Montreal|GloboTech Communications|
-|16|89.221.225.229|8118|Israel|Petah Tikva|Stark Industries Solutions LTD|
-|17|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
-|18|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|19|67.43.228.253|27525|Canada|Montreal|GloboTech Communications|
-|20|116.80.60.149|3128|Japan|Tokyo|InfoSphere|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|116.80.47.17|3128|Japan|Tokyo|InfoSphere|
+|4|116.80.47.15|3128|Japan|Tokyo|InfoSphere|
+|5|101.108.120.29|8080|Thailand|Bangkok|TOT Public Company Limited|
+|6|139.84.157.214|3129|India|Bengaluru|The Constant Company, LLC|
+|7|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|139.84.157.158|3129|India|Bengaluru|The Constant Company, LLC|
+|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|116.80.96.170|3128|Japan|Shimomeguro|InfoSphere|
+|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|179.124.206.88|8080|Brazil|Assis Chateaubriand|Newcenter Telecom|
+|14|139.84.157.158|3129|India|Bengaluru|The Constant Company, LLC|
+|15|131.100.148.76|8080|Brazil|Brasília|Linkwap Provedor De Internet E Fibra Optica Ltda|
+|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|17|116.80.47.24|3128|Japan|Tokyo|InfoSphere|
+|18|67.43.227.227|4849|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.226|18919|Canada|Montreal|GloboTech Communications|
+|20|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
