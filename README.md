@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|91.92.123.64|8080|Iran|Tehran|TIC|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|36.95.12.154|8080|Indonesia|Padang|PT. Telekomunikasi Indonesia|
-|5|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
-|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|10|114.130.153.58|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|13|182.253.122.172|3127|Indonesia|Surabaya|BIZNET|
-|14|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
-|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|91.92.123.64|8080|Iran|Tehran|TIC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|103.130.167.48|8090|Indonesia|Surabaya|PT. Eka Mas Republik|
+|8|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|103.155.197.68|8181|Indonesia|Sukabumi|JEMBATANDATA|
+|10|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|11|41.203.83.242|8080|United Kingdom|London|Globacom Limited|
+|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|103.4.76.58|8082|Indonesia|Bogor|PT Khazanah Net Indonesia|
+|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |17|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|19|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|20|116.80.47.22|3128|Japan|Tokyo|InfoSphere|
+|18|116.80.47.22|3128|Japan|Tokyo|InfoSphere|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
