@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 |5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|8|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|152.26.229.86|9443|United States|Concord|MCNC|
-|14|72.10.164.178|14627|Canada|Montreal|GloboTech Communications|
-|15|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|152.26.229.34|9443|United States|Concord|MCNC|
-|18|152.26.231.83|9443|United States|Concord|MCNC|
-|19|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|20|67.43.227.226|21809|Canada|Montreal|GloboTech Communications|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|91.206.148.5|8080|Russia|Nachalovo|Ast-Systems Ltd.|
+|9|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|152.26.229.86|9443|United States|Concord|MCNC|
+|12|152.26.229.42|9443|United States|Concord|MCNC|
+|13|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|14|72.10.164.178|13635|Canada|Montreal|GloboTech Communications|
+|15|152.26.229.34|9443|United States|Concord|MCNC|
+|16|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|67.43.227.226|30377|Canada|Montreal|GloboTech Communications|
+|18|58.19.22.61|3128|China|Wuhan|CNC Group CHINA169 Hubei Province Network|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|103.203.232.101|1080|Indonesia|Kedok|INDANA|
 
 
 
