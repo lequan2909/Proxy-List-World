@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|69.197.135.43|40943|United States|Kansas City|WholeSale Internet|
 |3|116.80.96.170|3128|Japan|Shimomeguro|InfoSphere|
 |4|45.55.156.110|3128|United States|Clifton|DigitalOcean, LLC|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|45.55.156.110|3128|United States|Clifton|DigitalOcean, LLC|
-|10|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|103.148.195.22|8080|Indonesia|Tabanan|Dinas Komunikasi DAN Informatika Kabupaten Tabanan|
-|12|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|103.233.156.42|8080|Indonesia|Jakarta Pusat|PT. Mora Telematika Indonesia|
-|14|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|103.189.123.235|3125|Indonesia|Jakarta|PT Ikhlas Cipta Teknologi|
-|16|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
-|18|157.120.34.251|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|152.26.229.46|9443|United States|Concord|MCNC|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|5|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|177.93.46.187|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|69.197.135.43|40943|United States|Kansas City|WholeSale Internet|
+|11|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|45.55.156.110|3128|United States|Clifton|DigitalOcean, LLC|
+|13|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|27.116.21.46|8080|India|Hyderabad|Vainavi Industries Ltd.|
+|18|36.93.130.218|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|19|45.123.142.6|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
