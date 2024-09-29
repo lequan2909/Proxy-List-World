@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|184.82.58.0|8080|Thailand|Khon Kaen|AIS-Fibre|
-|9|45.189.252.242|999|Mexico|Lerdo de Tejada|Tracered SA De CV|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|50.6.193.80|3128|United States|Jacksonville|Network Solutions, LLC|
-|12|152.26.229.42|9443|United States|Concord|MCNC|
-|13|152.26.231.93|9443|United States|Concord|MCNC|
-|14|72.10.160.90|16431|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.34|9443|United States|Concord|MCNC|
-|16|152.26.229.93|9443|United States|Concord|MCNC|
-|17|152.26.231.94|9443|United States|Concord|MCNC|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|124.108.19.6|9292|India|Navi Mumbai|Advantus Corporate Infoserv Private Ltd|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|3|103.188.173.153|8080|Indonesia|Gombong|PT Satria Digital Media|
+|4|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|7|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|168.194.248.18|8080|Brazil|Goiânia|CANAA TELECOMUNICAÇÕES LTDA - ME|
+|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|186.208.81.214|3129|Brazil|Passo Fundo|RazaoInfo Internet Ltda|
+|14|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|47.51.51.190|8080|United States|Glendale|Charter Communications|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|152.26.231.93|9443|United States|Concord|MCNC|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|152.26.229.34|9443|United States|Concord|MCNC|
 
 
 
