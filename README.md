@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|9|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|27.70.131.1|9002|Vietnam|Hanoi|Viettel Group|
-|14|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|11|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
+|12|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|15|36.91.68.148|8080|Indonesia|Depok|PT. Telekomunikasi Indonesia|
 |16|116.80.76.78|3128|Japan|Shimomeguro|InfoSphere|
-|17|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|19|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|20|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
+|17|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|18|103.176.97.166|8080|Indonesia|Purwakarta|PT Global Sarana Elektronika|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 
 
 
