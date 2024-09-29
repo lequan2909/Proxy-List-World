@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|3|69.197.135.43|40943|United States|Kansas City|WholeSale Internet|
-|4|116.80.96.170|3128|Japan|Shimomeguro|InfoSphere|
-|5|45.55.156.110|3128|United States|Clifton|DigitalOcean, LLC|
-|6|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|69.197.135.43|40943|United States|Kansas City|WholeSale Internet|
-|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|45.55.156.110|3128|United States|Clifton|DigitalOcean, LLC|
-|10|190.94.245.178|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|2|69.197.135.43|40943|United States|Kansas City|WholeSale Internet|
+|3|116.80.96.170|3128|Japan|Shimomeguro|InfoSphere|
+|4|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|69.197.135.43|40943|United States|Kansas City|WholeSale Internet|
+|7|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|9|187.245.214.7|999|Mexico|Comitán|Mega Cable, S.A. de C.V.|
+|10|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
 |11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
 |13|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|151.22.181.208|8080|Italy|Rho|INFOSTRADA|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|116.80.47.22|3128|Japan|Tokyo|InfoSphere|
-|20|69.197.135.43|40943|United States|Kansas City|WholeSale Internet|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|116.80.47.22|3128|Japan|Tokyo|InfoSphere|
+|17|209.14.119.209|999|Colombia|Bogotá|AGIS|
+|18|45.70.202.161|999|Ecuador|Quito|Ufinet Panama S.A.|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|181.49.122.78|999|Colombia|Bogotá|Telmex Colombia S.A.|
 
 
 
