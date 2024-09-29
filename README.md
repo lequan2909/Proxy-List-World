@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|7|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|116.104.173.52|5020|Vietnam|Hanoi|Viettel Corporation|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|13|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|62.210.37.74|8012|France|Ivry-sur-Seine|Online S.A.S.|
+|11|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|12|163.172.33.137|4002|France|Vitry-sur-Seine|Online S.A.S.|
+|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|14|45.88.192.56|18080|United States|Los Angeles|DM-HK|
+|15|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
 |16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
-|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|19|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|17|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|192.53.114.26|80|Singapore|Singapore|Akamai Technologies, Inc.|
+|19|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|152.26.231.93|9443|United States|Concord|MCNC|
 
 
 
