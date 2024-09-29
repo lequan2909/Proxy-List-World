@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.47.15|3128|Japan|Tokyo|InfoSphere|
-|3|101.108.120.29|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|139.84.144.214|3129|India|Bengaluru|The Constant Company, LLC|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|36.93.130.219|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
-|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|139.84.158.35|3129|India|Bengaluru|The Constant Company, LLC|
-|12|116.102.111.238|10001|Vietnam|Quận Ninh Kiều|Viettel Corporation|
-|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|139.84.155.94|3129|India|Bengaluru|The Constant Company, LLC|
-|16|122.2.28.114|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|139.84.154.138|3129|India|Bengaluru|The Constant Company, LLC|
+|1|116.80.47.15|3128|Japan|Tokyo|InfoSphere|
+|2|101.108.120.29|8080|Thailand|Bangkok|TOT Public Company Limited|
+|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|4|139.84.144.214|3129|India|Bengaluru|The Constant Company, LLC|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|7|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|139.84.154.138|3129|India|Bengaluru|The Constant Company, LLC|
+|9|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
+|10|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|11|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|12|103.171.157.133|8080|Indonesia|Jakarta|MYREPUBLIC|
+|13|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
+|14|103.224.124.239|8080|Indonesia|Bogor|PT Curug Lintas Indonesia|
+|15|67.43.227.226|18919|Canada|Montreal|GloboTech Communications|
+|16|89.221.225.229|8118|Israel|Petah Tikva|Stark Industries Solutions LTD|
+|17|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
 |18|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|19|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|20|139.84.156.165|3129|India|Bengaluru|The Constant Company, LLC|
+|19|67.43.228.253|27525|Canada|Montreal|GloboTech Communications|
+|20|116.80.60.149|3128|Japan|Tokyo|InfoSphere|
 
 
 
