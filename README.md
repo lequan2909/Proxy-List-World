@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|69.197.135.43|40943|United States|Kansas City|WholeSale Internet|
-|3|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|4|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
 |5|69.197.135.43|40943|United States|Kansas City|WholeSale Internet|
 |6|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|103.88.237.91|84|India|Hyderabad|Mana Communications|
-|9|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|152.26.229.46|9443|United States|Concord|MCNC|
-|14|152.26.231.86|9443|United States|Concord|MCNC|
-|15|50.6.193.80|3128|United States|Jacksonville|Network Solutions, LLC|
-|16|152.26.229.93|9443|United States|Concord|MCNC|
-|17|72.10.160.90|29829|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|152.26.229.34|9443|United States|Concord|MCNC|
+|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|10|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|147.45.48.227|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
+|13|182.253.115.130|8080|Indonesia|Salatiga|BIZNET|
+|14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|152.26.229.46|9443|United States|Concord|MCNC|
+|18|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
 
