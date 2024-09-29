@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|139.84.150.16|3129|India|Bengaluru|The Constant Company, LLC|
-|3|139.84.155.222|3129|India|Bengaluru|The Constant Company, LLC|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|6|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|139.84.156.37|3129|India|Bengaluru|The Constant Company, LLC|
+|7|139.84.156.164|3129|India|Bengaluru|The Constant Company, LLC|
+|8|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
 |9|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|110.49.53.69|8081|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|14|139.84.153.23|3129|India|Bengaluru|The Constant Company, LLC|
-|15|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|2.59.181.125|33420|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
+|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|14|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|116.80.47.32|3128|Japan|Tokyo|InfoSphere|
+|16|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
 |18|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|72.10.164.178|17831|Canada|Montreal|GloboTech Communications|
-|20|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|72.10.164.178|17831|Canada|Montreal|GloboTech Communications|
 
 
 
