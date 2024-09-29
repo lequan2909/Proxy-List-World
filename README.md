@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|3|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|6|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|10|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|11|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|3|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|7|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|71.14.23.121|8080|United States|Hoover|Spectrum|
-|15|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|67.43.227.227|3043|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
+|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|116.80.60.151|3128|Japan|Tokyo|InfoSphere|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
 |18|67.43.227.227|3043|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|3043|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|31319|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.228|1657|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
