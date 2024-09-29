@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|2|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|31.128.69.121|8080|Ukraine|Kyiv|PRIVATE JOINT STOCK COMPANY "DATAGROUP"|
 |6|152.26.231.93|9443|United States|Concord|MCNC|
 |7|152.26.229.42|9443|United States|Concord|MCNC|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|11|67.43.228.253|31125|Canada|Montreal|GloboTech Communications|
-|12|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|72.10.164.178|5041|Canada|Montreal|GloboTech Communications|
-|14|186.208.81.214|3129|Brazil|Passo Fundo|RazaoInfo Internet Ltda|
-|15|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|16|72.10.160.174|1427|Canada|Montreal|GloboTech Communications|
-|17|180.56.193.13|8080|Japan|Roppongi|NTT Communications Corporation|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|111.1.61.51|3128|China|Wenzhou|China Mobile communications corporation|
-|20|72.10.160.171|2343|Canada|Montreal|GloboTech Communications|
+|8|45.123.142.2|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|72.10.164.178|22155|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.226|1065|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.253|2465|Canada|Montreal|GloboTech Communications|
+|13|139.84.144.214|3129|India|Bengaluru|The Constant Company, LLC|
+|14|180.56.193.13|8080|Japan|Roppongi|NTT Communications Corporation|
+|15|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|16|27.96.131.193|80|South Korea|Seongnam-si|NBP|
+|17|177.234.227.147|999|Ecuador|Manta|Ufinet Panama S.A.|
+|18|77.50.100.180|8080|Russia|Moscow|StarLink Telecom Network|
+|19|67.43.227.229|10125|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.91|1353|Canada|Montreal|GloboTech Communications|
 
 
 
