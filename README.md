@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.213.34.58|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
-|3|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|152.26.229.93|9443|United States|Concord|MCNC|
-|5|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|152.26.229.42|9443|United States|Concord|MCNC|
-|8|152.26.231.94|9443|United States|Concord|MCNC|
-|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|10|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|152.26.229.86|9443|United States|Concord|MCNC|
-|12|67.43.236.20|6063|Canada|Montreal|GloboTech Communications|
-|13|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|67.43.227.227|3967|Canada|Montreal|GloboTech Communications|
-|15|103.122.1.65|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
-|16|72.10.164.178|21815|Canada|Montreal|GloboTech Communications|
-|17|152.26.231.93|9443|United States|Concord|MCNC|
-|18|72.10.160.90|1187|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|32711|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|32711|Canada|Montreal|GloboTech Communications|
+|2|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|103.174.236.88|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|4|116.80.61.69|3128|Japan|Tokyo|InfoSphere|
+|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|86.109.3.27|10001|United States|Chicago|Packet Host, Inc.|
+|9|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|152.26.229.93|9443|United States|Concord|MCNC|
+|11|152.26.229.42|9443|United States|Concord|MCNC|
+|12|152.26.231.94|9443|United States|Concord|MCNC|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
+|14|49.145.113.155|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|15|152.26.231.93|9443|United States|Concord|MCNC|
+|16|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
