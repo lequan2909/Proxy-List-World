@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|103.56.157.39|8080|Vietnam|Hanoi|VCCORP|
-|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
-|10|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|12|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|113.192.31.5|1111|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|103.180.196.141|8080|Indonesia|Yogyakarta|PT Dekadata Lingkar Nusantara|
-|17|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|45.123.142.17|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|20|2.59.181.125|33420|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|2.59.181.125|33420|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
+|5|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|101.255.116.125|8080|Indonesia|Jakarta|PT Remala Abadi|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|10|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|185.240.49.141|8888|Kenya|Nairobi|Servercore Africa Ltd|
+|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|13|116.80.47.32|3128|Japan|Tokyo|InfoSphere|
+|14|139.84.220.140|3129|India|Bengaluru|The Constant Company, LLC|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|152.26.229.93|9443|United States|Concord|MCNC|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|19|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|20|67.43.228.253|13521|Canada|Montreal|GloboTech Communications|
 
 
 
