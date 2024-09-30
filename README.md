@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|51.222.142.100|9595|Canada|Beauharnois|OVH SAS|
-|4|103.195.65.106|8080|Indonesia|Tigaraksa|Indonesia Network Information Center|
-|5|113.53.12.91|8080|Thailand|Bangkok|TOT Public Company Limited|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|8|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|42.115.120.152|8080|Vietnam|Hanoi|FPT Telecom Company|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|103.46.10.100|8080|Indonesia|Malang|Lintas Data Prima, PT|
-|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|18|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|152.26.231.86|9443|United States|Concord|MCNC|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|103.166.159.163|8080|Indonesia|Bekasi|PT Timor Lintas Nusantara|
+|6|182.160.124.214|6969|Bangladesh|Dhaka|Aamra Networks Limited|
+|7|38.51.243.137|9991|Colombia|Túquerres|INTERCOMM DE NARIÑO SAS|
+|8|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
+|9|103.46.10.100|8080|Indonesia|Malang|Lintas Data Prima, PT|
+|10|42.115.120.152|8080|Vietnam|Hanoi|FPT Telecom Company|
+|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|14|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|103.242.104.146|3127|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|20|50.6.193.80|3128|United States|Jacksonville|Network Solutions, LLC|
 
 
 
