@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|23.19.73.223|3128|United States|Los Angeles|Leaseweb USA, Inc.|
-|7|103.124.136.59|999|Indonesia|Kartasura|Global Media Data Prima|
-|8|191.252.219.129|8889|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
-|9|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|12|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|103.156.74.186|8080|Indonesia|Gianyar|PT Trika Global Media|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|106.227.95.142|3129|China|Taohua|China Telecom|
-|18|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|144.86.187.36|3129|United States|Malden|Charles River Operation|
-|20|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|191.252.219.129|8889|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|13|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|15|58.69.247.70|8083|Philippines|Taal|Philippine Long Distance Telephone Co.|
+|16|114.79.146.166|8080|India|Mumbai|D-VoiS Broadband Private Limited|
+|17|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
