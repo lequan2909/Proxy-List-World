@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|7|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|144.86.187.53|3129|United States|Malden|Charles River Operation|
-|9|144.86.187.62|3129|United States|Malden|Charles River Operation|
-|10|144.86.187.59|3129|United States|Malden|Charles River Operation|
-|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|103.149.194.11|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
-|14|45.123.142.4|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|15|36.67.99.31|7023|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|17|103.228.246.151|7070|Indonesia|Ponorogo|PT Giga Patra Multimedia|
-|18|103.187.111.81|84|India|Hyderabad|Neolog Broadband Services|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|181.205.74.98|21901|Colombia|Medellín|Colombia Móvil|
+|1|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|12|144.86.187.59|3129|United States|Malden|Charles River Operation|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|181.209.112.74|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
+|16|152.26.229.34|9443|United States|Concord|MCNC|
+|17|152.26.231.93|9443|United States|Concord|MCNC|
+|18|152.26.229.93|9443|United States|Concord|MCNC|
+|19|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|20|152.26.229.47|9443|United States|Concord|MCNC|
 
 
 
