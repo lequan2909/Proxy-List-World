@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|10|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|12|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|13|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|17|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|103.78.113.16|8080|Indonesia|Jakarta|MORATELINDO|
-|20|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|116.80.47.32|3128|Japan|Tokyo|InfoSphere|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|7|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|8|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|13|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|14|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|65.52.174.95|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
