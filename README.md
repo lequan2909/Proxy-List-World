@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|175.106.10.227|7878|Indonesia|Jakarta|Quantum Dist POP GC|
+|2|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
 |3|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|4|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|5|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|7|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|4|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
 |12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|152.26.229.47|9443|United States|Concord|MCNC|
-|15|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|152.26.229.47|9443|United States|Concord|MCNC|
 |16|152.26.229.93|9443|United States|Concord|MCNC|
 |17|152.26.231.42|9443|United States|Concord|MCNC|
-|18|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|19|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|20|72.10.160.90|31951|Canada|Montreal|GloboTech Communications|
+|18|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|19|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|20|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
 
 
 
