@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
-|3|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|4|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
-|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|9|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|103.149.194.222|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
+|6|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
+|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|8|193.41.88.58|53281|Ukraine|Kyiv|Kyiv National Taras Shevchenko University|
+|9|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
 |10|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|11|67.43.227.230|4511|Canada|Montreal|GloboTech Communications|
-|12|152.26.231.93|9443|United States|Concord|MCNC|
-|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|14|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|72.10.160.90|13229|Canada|Montreal|GloboTech Communications|
-|16|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|13|152.26.231.93|9443|United States|Concord|MCNC|
+|14|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|15|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|152.26.231.94|9443|United States|Concord|MCNC|
+|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
