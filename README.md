@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|2|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|3|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|187.249.20.153|8081|Mexico|Ciudad Benito Juárez|Transtelco Inc|
-|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|10|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|37.46.135.225|3128|Russia|Irkutsk|JSC IOT|
-|13|201.144.25.10|8080|Mexico|Mexico City|UNINET|
-|14|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|15|72.10.160.170|27763|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.34|9443|United States|Concord|MCNC|
-|17|72.10.160.90|14345|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|67.43.227.227|24089|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.83|9443|United States|Concord|MCNC|
+|1|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|3|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|4|201.144.25.10|8080|Mexico|Mexico City|UNINET|
+|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|77.238.224.28|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|201.151.252.120|80|Mexico|Santa Rosa|Alestra, S. de R.L. de C.V.|
+|10|131.196.42.95|667|Brazil|Candeias|Voafibra Comunicacao|
+|11|209.45.90.174|999|Peru|Lima|Econocable Media SAC|
+|12|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
+|14|152.26.229.34|9443|United States|Concord|MCNC|
+|15|152.26.229.83|9443|United States|Concord|MCNC|
+|16|72.10.160.90|27289|Canada|Montreal|GloboTech Communications|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|152.26.231.94|9443|United States|Concord|MCNC|
+|20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
 
