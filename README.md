@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|3|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|42.115.120.152|8080|Vietnam|Hanoi|FPT Telecom Company|
-|6|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|38.51.243.137|9991|Colombia|Túquerres|INTERCOMM DE NARIÑO SAS|
-|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|185.200.38.140|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|10|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|11|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
-|13|144.86.187.59|3129|United States|Malden|Charles River Operation|
-|14|144.86.187.56|3129|United States|Malden|Charles River Operation|
-|15|144.86.187.37|3129|United States|Malden|Charles River Operation|
-|16|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|144.86.187.61|3129|United States|Malden|Charles River Operation|
-|18|144.86.187.48|3129|United States|Malden|Charles River Operation|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|7|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
+|10|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|15|103.215.187.67|8080|Indonesia|Mungkid|PT Jaringan Inti Exadata|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
+|19|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
