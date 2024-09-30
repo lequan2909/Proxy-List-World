@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.10.53.177|1080|Russia|Moscow|JSC Mediasoft ekspert|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
-|5|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|6|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|5.56.124.176|6734|Moldova|Chisinau|JSC "Moldtelecom" S.A|
-|10|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|13|181.204.81.181|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|15|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|49.51.244.112|8888|United States|San Jose|OPHL|
-|17|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|152.26.229.46|9443|United States|Concord|MCNC|
-|20|174.138.171.164|8900|United States|Phoenix|Secured Servers LLC|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|7|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|179.43.96.178|8080|Peru|Arequipa|GLG PERU SAC|
+|13|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|152.26.229.46|9443|United States|Concord|MCNC|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|152.26.231.83|9443|United States|Concord|MCNC|
+|19|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|20|152.26.231.93|9443|United States|Concord|MCNC|
 
 
 
