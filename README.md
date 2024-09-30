@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5570** proxies at the latest update. Usable proxies are below.
+> Scraper found **5670** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
 
 ## Sources
 
@@ -29,10 +29,10 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|70|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|792|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|857|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|317|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3433|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|282|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3503|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|7|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|8|122.2.48.121|8080|Philippines|Ormoc City|Philippine Long Distance Telephone Co.|
-|9|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|198.199.83.104|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|65.109.194.6|3128|Finland|Helsinki|Hetzner Online GmbH|
-|12|2.59.181.125|33420|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
-|13|198.199.83.104|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|139.84.220.140|3129|India|Bengaluru|The Constant Company, LLC|
-|15|103.162.16.168|8080|Indonesia|Pati|PT Mega Data Perkasa|
-|16|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
-|18|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|11|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|12|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|13|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|14|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|15|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|16|181.205.28.66|46380|Colombia|Medellín|Colombia Móvil|
+|17|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
+|19|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|177.68.149.122|8080|Brazil|Barueri|Vivo|
 
 
 
