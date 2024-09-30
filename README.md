@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|3|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|124.121.124.197|8080|Thailand|Bangkok|TRUEBB|
-|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|13|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|18|185.200.38.199|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|67.43.227.227|26353|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|124.106.66.194|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|8|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|10|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|191.97.96.86|8080|Argentina|General Roca|Vision NET|
+|12|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
+|14|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|152.26.229.46|9443|United States|Concord|MCNC|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|67.43.227.227|26353|Canada|Montreal|GloboTech Communications|
 
 
 
