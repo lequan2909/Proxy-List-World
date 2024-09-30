@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|519|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|519|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|519|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|449|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|449|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|449|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|45.10.53.177|1080|Russia|Moscow|JSC Mediasoft ekspert|
-|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|9|2.59.181.125|33420|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
-|10|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|12|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|188.165.52.148|3128|France|Roubaix|OVH SAS|
-|14|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|16|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|37.46.135.225|3128|Russia|Irkutsk|JSC IOT|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|5|62.106.70.185|8118|Japan|Tokyo|xTom Japan Co., Ltd.|
+|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|45.123.142.2|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|14|139.84.149.57|3129|India|Bengaluru|The Constant Company, LLC|
+|15|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
+|16|37.46.135.225|3128|Russia|Irkutsk|JSC IOT|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|19|38.133.217.120|8080|United States|Dallas|ContentKeeper Technologies|
 |20|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
