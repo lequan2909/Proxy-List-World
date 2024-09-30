@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|6|139.84.149.168|3129|India|Bengaluru|The Constant Company, LLC|
-|7|139.84.156.31|3129|India|Bengaluru|The Constant Company, LLC|
-|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|139.84.223.70|3129|India|Bengaluru|The Constant Company, LLC|
-|12|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|14|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|139.84.223.70|3129|India|Bengaluru|The Constant Company, LLC|
-|16|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|2.59.181.125|33420|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
-|18|139.84.157.131|3129|India|Bengaluru|The Constant Company, LLC|
-|19|139.84.151.246|3129|India|Bengaluru|The Constant Company, LLC|
-|20|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|103.172.17.51|8080|Indonesia|Ciamis|PT Media Access Telematika|
+|10|139.84.223.70|3129|India|Bengaluru|The Constant Company, LLC|
+|11|139.84.152.184|3129|India|Bengaluru|The Constant Company, LLC|
+|12|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|13|139.84.149.168|3129|India|Bengaluru|The Constant Company, LLC|
+|14|139.84.156.31|3129|India|Bengaluru|The Constant Company, LLC|
+|15|139.84.151.246|3129|India|Bengaluru|The Constant Company, LLC|
+|16|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|51.158.173.222|3128|France|Paris|Online S.A.S.|
+|18|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|19|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|139.84.223.70|3129|India|Bengaluru|The Constant Company, LLC|
 
 
 
