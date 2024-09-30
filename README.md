@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4497** proxies at the latest update. Usable proxies are below.
+> Scraper found **4455** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|93|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|666|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|609|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|129|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|144|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2651|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|7|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|103.180.118.138|1111|Indonesia|Gresik|PT Persada Data Multimedia|
-|9|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
-|11|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|14|125.26.73.179|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|152.26.231.94|9443|United States|Concord|MCNC|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|103.247.23.37|1111|Indonesia|Banyumas|PT wifian Solution|
+|7|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|12|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|152.26.231.83|9443|United States|Concord|MCNC|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
