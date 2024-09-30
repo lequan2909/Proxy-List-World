@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|4|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
-|7|203.150.128.151|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|8|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
-|9|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|103.93.93.220|3127|Indonesia|Jombang|MYRISE|
-|13|50.6.193.80|3128|United States|Jacksonville|Network Solutions, LLC|
-|14|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|15|86.109.3.28|10049|United States|Chicago|Packet Host, Inc.|
-|16|152.26.229.46|9443|United States|Concord|MCNC|
-|17|86.109.3.28|10049|United States|Chicago|Packet Host, Inc.|
-|18|152.26.229.34|9443|United States|Concord|MCNC|
-|19|152.26.229.86|9443|United States|Concord|MCNC|
-|20|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|4|166.155.239.80|80|United States|New Port Richey|Verizon Business|
+|5|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|113.53.12.91|8080|Thailand|Bangkok|TOT Public Company Limited|
+|8|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|166.155.239.80|80|United States|New Port Richey|Verizon Business|
+|10|103.195.65.106|8080|Indonesia|Tigaraksa|Indonesia Network Information Center|
+|11|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|152.26.229.46|9443|United States|Concord|MCNC|
+|14|181.78.22.109|999|Colombia|Astrea|IFX Networks Argentina S.R.L|
+|15|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|72.10.164.178|19207|Canada|Montreal|GloboTech Communications|
 
 
 
