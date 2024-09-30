@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|5|171.228.135.67|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|6|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|200.39.120.78|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|8|103.148.39.26|82|India|Bengaluru|Broadway Communication Pvt Ltd|
 |9|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|13|152.26.231.86|9443|United States|Concord|MCNC|
-|14|152.26.231.93|9443|United States|Concord|MCNC|
-|15|152.26.229.83|9443|United States|Concord|MCNC|
-|16|72.10.164.178|14073|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|14093|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.252|18259|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|14073|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|10|152.26.231.86|9443|United States|Concord|MCNC|
+|11|152.26.231.93|9443|United States|Concord|MCNC|
+|12|152.26.229.83|9443|United States|Concord|MCNC|
+|13|72.10.164.178|17963|Canada|Montreal|GloboTech Communications|
+|14|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|103.182.213.65|8080|Bangladesh|Tongi|Rapid Network|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|20|67.43.236.22|32325|Canada|Montreal|GloboTech Communications|
 
 
 
