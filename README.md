@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|406|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|406|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|406|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 |4|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
 |5|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|31.46.175.173|8118|Hungary|Szigetszentmiklós|htc|
-|7|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|9|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|2.59.181.125|33420|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
-|11|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|17|188.132.222.14|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|6|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|7|119.42.86.183|80|Thailand|Bang Rak|CAT-BB|
+|8|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|2.59.181.125|33420|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
+|14|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 
 
 
