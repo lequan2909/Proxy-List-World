@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|117.102.76.252|8080|Indonesia|Jakarta|Biznet Networks|
-|6|200.39.120.78|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|152.26.229.34|9443|United States|Concord|MCNC|
-|10|152.26.229.83|9443|United States|Concord|MCNC|
-|11|152.26.231.42|9443|United States|Concord|MCNC|
-|12|152.26.229.47|9443|United States|Concord|MCNC|
-|13|152.26.231.83|9443|United States|Concord|MCNC|
-|14|67.43.227.227|4015|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.94|24143|Canada|Montreal|GloboTech Communications|
-|16|116.80.96.170|3128|Japan|Shimomeguro|InfoSphere|
-|17|152.26.229.86|9443|United States|Concord|MCNC|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|72.10.160.170|14905|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|1|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|4|152.26.229.83|9443|United States|Concord|MCNC|
+|5|152.26.229.34|9443|United States|Concord|MCNC|
+|6|152.26.231.42|9443|United States|Concord|MCNC|
+|7|152.26.231.83|9443|United States|Concord|MCNC|
+|8|152.26.229.47|9443|United States|Concord|MCNC|
+|9|152.26.229.86|9443|United States|Concord|MCNC|
+|10|116.80.96.170|3128|Japan|Shimomeguro|InfoSphere|
+|11|152.26.229.46|9443|United States|Concord|MCNC|
+|12|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|13|198.24.188.138|37000|United States|Ashburn|Secured Servers LLC|
+|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|72.10.164.178|6237|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|6237|Canada|Montreal|GloboTech Communications|
+|20|189.127.190.109|8080|Brazil|Xapuri|Govista Telecomunicao Importacao Ltda|
 
 
 
