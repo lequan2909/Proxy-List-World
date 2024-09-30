@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.228.168.91|10089|Vietnam|Hanoi|Viettel Corporation|
-|2|103.107.84.191|8080|Indonesia|Yogyakarta|PT. Media Jaringan Indonesia|
-|3|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|147.28.155.20|10089|United States|Dallas|Packet Host, Inc.|
-|6|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|27.112.70.155|8083|Indonesia|Jakarta|GRAHANET|
-|9|180.191.254.10|8081|Philippines|General Trias|Globe Telecom|
-|10|77.240.38.49|3128|Kazakhstan|Almaty|PS Internet Company LLP|
-|11|103.48.68.30|83|India|Hyderabad|Country Online Services PVT LTD|
-|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|45.88.192.56|18080|United States|Los Angeles|DM-HK|
-|14|152.26.229.93|9443|United States|Concord|MCNC|
-|15|152.26.231.42|9443|United States|Concord|MCNC|
-|16|67.43.227.226|1987|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|1987|Canada|Montreal|GloboTech Communications|
-|18|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|19|67.43.236.20|21767|Canada|Montreal|GloboTech Communications|
-|20|116.80.92.222|3128|Japan|Shimomeguro|InfoSphere|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|147.28.155.20|10089|United States|Dallas|Packet Host, Inc.|
+|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|152.26.229.93|9443|United States|Concord|MCNC|
+|9|152.26.231.42|9443|United States|Concord|MCNC|
+|10|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|11|67.43.227.226|3167|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.174|18541|Canada|Montreal|GloboTech Communications|
+|13|190.61.61.210|999|Colombia|Juan de Acosta|Ufinet Panama S.A.|
+|14|72.10.164.178|11641|Canada|Montreal|GloboTech Communications|
+|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|67.43.227.227|4215|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.229|20597|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|19367|Canada|Montreal|GloboTech Communications|
+|19|116.80.92.222|3128|Japan|Shimomeguro|InfoSphere|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
