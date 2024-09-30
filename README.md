@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4421** proxies at the latest update. Usable proxies are below.
+> Scraper found **4498** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|105|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|605|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|682|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|175|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2578|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|3|101.109.52.81|8080|Thailand|Pattaya|TOT Public Company Limited|
-|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|124.106.66.194|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|13|118.172.239.231|8180|Thailand|Chon Buri|TOT Public Company Limited|
-|14|103.226.232.206|3125|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
-|15|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|103.189.250.65|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
-|17|67.43.227.229|23173|Canada|Montreal|GloboTech Communications|
-|18|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|185.19.4.22|3128|Ukraine|Kyiv|Triolan|
-|20|116.80.92.222|3128|Japan|Shimomeguro|InfoSphere|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|5|101.109.52.81|8080|Thailand|Pattaya|TOT Public Company Limited|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|9|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|13|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|202.137.122.4|8082|Philippines|Davao City|Dataconnect Network Services Inc.|
+|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|17|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|38.51.232.18|8080|Colombia|Sibundoy|SP SISTEMAS PALACIOS LTDA|
+|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
