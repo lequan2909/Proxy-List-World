@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|17|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|18|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|19|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|6|37.46.135.225|3128|Russia|Irkutsk|JSC IOT|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|95.78.161.82|8080|Russia|Chelyabinsk|CJSC "ER-Telecom Holding" Chelyabinsk branch|
+|10|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|152.26.231.83|9443|United States|Concord|MCNC|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|152.26.231.86|9443|United States|Concord|MCNC|
+|15|152.26.229.83|9443|United States|Concord|MCNC|
+|16|152.26.229.47|9443|United States|Concord|MCNC|
+|17|88.255.102.24|8080|Türkiye|Istanbul|TurkTelekom|
+|18|152.26.231.94|9443|United States|Concord|MCNC|
+|19|103.174.236.63|7777|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
