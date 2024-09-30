@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|9|2.59.181.125|33420|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|124.107.144.249|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|12|116.80.60.151|3128|Japan|Tokyo|InfoSphere|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|20|72.10.160.91|2745|Canada|Montreal|GloboTech Communications|
+|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|8|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|139.84.223.70|3129|India|Bengaluru|The Constant Company, LLC|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|77.237.243.41|8000|Germany|Düsseldorf|Contabo GmbH|
+|15|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|17|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|159.65.237.225|1693|United States|North Bergen|DigitalOcean, LLC|
 
 
 
