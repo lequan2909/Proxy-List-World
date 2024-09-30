@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|1|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|139.84.146.80|3129|India|Bengaluru|The Constant Company, LLC|
+|6|139.84.144.27|3129|India|Bengaluru|The Constant Company, LLC|
 |7|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|8|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|139.84.146.80|3129|India|Bengaluru|The Constant Company, LLC|
-|10|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|12|139.84.148.224|3129|India|Bengaluru|The Constant Company, LLC|
-|13|139.84.144.27|3129|India|Bengaluru|The Constant Company, LLC|
-|14|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|139.84.208.147|3129|India|Bengaluru|The Constant Company, LLC|
-|16|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|45.10.53.177|1080|Russia|Moscow|JSC Mediasoft ekspert|
-|18|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|9|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|139.84.148.224|3129|India|Bengaluru|The Constant Company, LLC|
+|12|45.10.53.177|1080|Russia|Moscow|JSC Mediasoft ekspert|
+|13|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|95.216.84.201|3128|Finland|Helsinki|Hetzner Online GmbH|
+|15|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|16|165.16.77.144|80|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|17|138.117.231.131|999|Guatemala|Huehuetenango|Fibernet S.A|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|20|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 
 
 
