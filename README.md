@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.47.22|3128|Japan|Tokyo|InfoSphere|
-|3|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|116.80.60.139|3128|Japan|Tokyo|InfoSphere|
-|5|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|6|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|134.35.197.59|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|14|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|209.14.113.2|999|Colombia|Cértegui|AGIS|
-|18|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|20|114.130.153.46|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|116.80.47.22|3128|Japan|Tokyo|InfoSphere|
+|4|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|5|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|116.80.60.139|3128|Japan|Tokyo|InfoSphere|
+|7|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|13|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|14|134.35.197.59|8080|Yemen|Sanaa|Public Telecommunication Corporation|
+|15|103.122.142.174|8080|Bangladesh|Dhaka|Carnival Internet|
+|16|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|17|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|103.160.205.170|8080|Indonesia|Mataram|PRIME|
+|19|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
