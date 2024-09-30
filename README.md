@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
 |3|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|6|103.247.23.37|1111|Indonesia|Banyumas|PT wifian Solution|
-|7|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|12|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|17|152.26.229.34|9443|United States|Concord|MCNC|
-|18|152.26.231.83|9443|United States|Concord|MCNC|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|125.26.73.179|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
+|8|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|11|152.26.229.42|9443|United States|Concord|MCNC|
+|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|13|152.26.229.34|9443|United States|Concord|MCNC|
+|14|152.26.231.83|9443|United States|Concord|MCNC|
+|15|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|16|152.26.229.83|9443|United States|Concord|MCNC|
+|17|72.10.164.178|22569|Canada|Montreal|GloboTech Communications|
+|18|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|19|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
