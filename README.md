@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|3|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|4|50.6.193.80|3128|United States|Jacksonville|Network Solutions, LLC|
-|5|50.6.193.80|3128|United States|Jacksonville|Network Solutions, LLC|
-|6|152.26.229.86|9443|United States|Concord|MCNC|
+|3|103.146.170.252|83|India|Nalgonda|Thrishul Broadband Private Ltd|
+|4|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
 |7|152.26.229.42|9443|United States|Concord|MCNC|
-|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|67.43.228.251|30969|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|22221|Canada|Montreal|GloboTech Communications|
-|11|194.164.206.37|3128|United Kingdom|Farnham|NETKONECT|
-|12|72.10.164.178|22221|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|22221|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|6175|Canada|Montreal|GloboTech Communications|
-|15|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|16|72.10.160.92|26161|Canada|Montreal|GloboTech Communications|
-|17|103.69.20.28|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|18|67.43.228.250|6753|Canada|Montreal|GloboTech Communications|
-|19|159.203.104.153|4200|United States|Clifton|DigitalOcean, LLC|
-|20|67.43.227.227|32561|Canada|Montreal|GloboTech Communications|
+|8|152.26.229.86|9443|United States|Concord|MCNC|
+|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|10|139.84.220.140|3129|India|Bengaluru|The Constant Company, LLC|
+|11|61.129.2.212|8080|China|Beijing|CHINANET|
+|12|50.6.193.80|3128|United States|Jacksonville|Network Solutions, LLC|
+|13|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|139.84.144.214|3129|India|Bengaluru|The Constant Company, LLC|
+|15|72.10.164.178|31501|Canada|Montreal|GloboTech Communications|
+|16|194.164.206.37|3128|United Kingdom|Farnham|NETKONECT|
+|17|50.6.193.80|3128|United States|Jacksonville|Network Solutions, LLC|
+|18|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|19|67.43.228.253|17509|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|19583|Canada|Montreal|GloboTech Communications|
 
 
 
