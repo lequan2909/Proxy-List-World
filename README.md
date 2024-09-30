@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|2|147.28.155.20|10089|United States|Dallas|Packet Host, Inc.|
-|3|171.235.149.110|1007|Vietnam|Thu Dau Mot|Viettel Corporation|
-|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|103.179.182.255|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|116.80.92.222|3128|Japan|Shimomeguro|InfoSphere|
-|8|5.42.78.122|3128|Sweden|Stockholm|Aeza International LTD|
-|9|147.28.155.20|10089|United States|Dallas|Packet Host, Inc.|
-|10|67.43.236.18|25965|Canada|Montreal|GloboTech Communications|
-|11|152.26.229.42|9443|United States|Concord|MCNC|
-|12|152.26.229.86|9443|United States|Concord|MCNC|
-|13|152.26.231.86|9443|United States|Concord|MCNC|
-|14|67.43.228.253|8987|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.47|9443|United States|Concord|MCNC|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|152.26.231.83|9443|United States|Concord|MCNC|
-|18|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|152.26.229.83|9443|United States|Concord|MCNC|
-|20|67.43.228.253|8987|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|147.28.155.20|10089|United States|Dallas|Packet Host, Inc.|
+|4|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|147.28.155.20|10089|United States|Dallas|Packet Host, Inc.|
+|8|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|116.80.92.222|3128|Japan|Shimomeguro|InfoSphere|
+|12|125.26.73.179|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
+|13|147.28.155.20|10089|United States|Dallas|Packet Host, Inc.|
+|14|152.26.229.86|9443|United States|Concord|MCNC|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|152.26.229.47|9443|United States|Concord|MCNC|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|152.26.231.83|9443|United States|Concord|MCNC|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
