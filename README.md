@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|3|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|4|103.76.149.134|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|10|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|89.116.33.72|3128|India|Mumbai|Hostinger International Limited|
-|14|192.9.190.151|3128|Australia|Sydney|Oracle Corporation|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
+|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|4|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|5|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
+|6|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|8|103.148.39.26|82|India|Bengaluru|Broadway Communication Pvt Ltd|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|77.238.224.28|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|152.26.229.86|9443|United States|Concord|MCNC|
+|15|116.80.47.32|3128|Japan|Tokyo|InfoSphere|
+|16|116.80.92.222|3128|Japan|Shimomeguro|InfoSphere|
 |17|152.26.229.42|9443|United States|Concord|MCNC|
 |18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|116.80.92.222|3128|Japan|Shimomeguro|InfoSphere|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|19|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|20|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
 
 
 
