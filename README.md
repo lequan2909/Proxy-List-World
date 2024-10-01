@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|2|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|185.64.209.116|53281|Russia|Kstovo|Svyazist LLC|
-|4|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|6|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|61.118.38.234|60808|Japan|Chiyoda|Open Computer Network|
-|9|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|11|185.141.134.120|8080|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
-|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|13|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|14|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|17|72.10.160.93|10057|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.34|9443|United States|Concord|MCNC|
-|19|152.26.231.83|9443|United States|Concord|MCNC|
-|20|152.26.231.93|9443|United States|Concord|MCNC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|3|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
+|4|51.159.75.249|3128|France|Paris|SCALEWAY|
+|5|185.64.209.116|53281|Russia|Kstovo|Svyazist LLC|
+|6|124.107.204.61|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|7|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|8|101.255.208.22|3127|Indonesia|Ciputat|PT Remala Abadi|
+|9|171.100.116.166|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|10|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
+|12|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|13|218.155.31.188|8080|South Korea|Seongnam-si|Korea Telecom|
+|14|45.81.115.86|3128|Türkiye|Bursa|Pembe Gul Isguzar Karagoz|
+|15|103.174.175.98|8085|Indonesia|Kayu Manis|PT Lintas Teknologi Solusindo|
+|16|94.231.192.36|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|91.107.157.179|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|61.118.38.234|60808|Japan|Chiyoda|Open Computer Network|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|74.48.105.68|3128|United States|Los Angeles|Multacom Corporation|
 
 
 
