@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|119.76.142.167|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
-|9|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|10|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|11|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
-|12|31.46.175.173|8118|Hungary|Szigetszentmiklós|htc|
-|13|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|2|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|5|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|6|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|129.153.113.206|8118|United States|Phoenix|Oracle Corporation|
+|8|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|9|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|10|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|144.86.187.49|3129|United States|Malden|Charles River Operation|
+|13|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
 |14|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|15|144.86.187.47|3129|United States|Malden|Charles River Operation|
-|16|89.109.252.139|8081|Russia|Moscow|CTC-IPOE|
-|17|144.86.187.52|3129|United States|Malden|Charles River Operation|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|16|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|17|162.216.113.93|9999|United States|Secaucus|Interserver, Inc|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|116.80.92.222|3128|Japan|Shimomeguro|InfoSphere|
+|20|144.86.187.41|3129|United States|Malden|Charles River Operation|
 
 
 
