@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5250** proxies at the latest update. Usable proxies are below.
+> Scraper found **5288** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|107|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|526|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|564|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|231|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3428|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.4.102.152|8080|Malaysia|Kuala Lumpur|Gigabit Hosting Sdn Bhd|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|3|144.86.187.44|3129|United States|Malden|Charles River Operation|
-|4|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|103.167.2.63|8080|Indonesia|Dukuh|Institut Agama Islam Negeri Salatiga|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|13|152.26.229.46|9443|United States|Concord|MCNC|
-|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|15|67.43.227.227|14551|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|3995|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|3995|Canada|Montreal|GloboTech Communications|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
+|3|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|7|103.217.224.201|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|8|103.133.24.19|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|9|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|125.26.108.122|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|11|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|13|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|14|152.26.229.93|9443|United States|Concord|MCNC|
+|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|16|67.43.227.227|21325|Canada|Montreal|GloboTech Communications|
+|17|152.26.229.47|9443|United States|Concord|MCNC|
+|18|38.51.232.18|8080|Colombia|Sibundoy|SP SISTEMAS PALACIOS LTDA|
 |19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|72.10.164.178|3995|Canada|Montreal|GloboTech Communications|
+|20|125.26.73.179|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
 
 
 
