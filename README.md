@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |2|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|207.230.8.69|999|Colombia|Bogotá|Cogent Communications|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|119.76.142.151|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
-|13|38.45.33.130|999|Venezuela|La Guaira|TELECOMUNICACIONES G-NETWORK, C.A.|
-|14|38.51.232.18|8080|Colombia|Sibundoy|SP SISTEMAS PALACIOS LTDA|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|17|72.10.164.178|7517|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|9|38.51.232.18|8080|Colombia|Sibundoy|SP SISTEMAS PALACIOS LTDA|
+|10|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|11|152.26.229.93|9443|United States|Concord|MCNC|
+|12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|58.27.218.28|3128|Pakistan|Lahore|Wateen Telecom Limited|
+|17|152.26.231.94|9443|United States|Concord|MCNC|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|72.10.164.178|7517|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.47|9443|United States|Concord|MCNC|
 
 
 
