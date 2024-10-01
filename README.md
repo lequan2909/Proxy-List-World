@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|116.80.96.170|3128|Japan|Shimomeguro|InfoSphere|
 |3|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|5|2.59.181.125|33420|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|103.179.182.211|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|8|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|9|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|152.26.229.46|9443|United States|Concord|MCNC|
-|12|152.26.229.47|9443|United States|Concord|MCNC|
-|13|72.10.164.178|4325|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.86|9443|United States|Concord|MCNC|
-|15|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|5|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|6|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|7|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|8|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|103.125.51.25|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
+|10|2.59.181.125|33420|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
+|11|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|13|103.172.70.28|1111|Indonesia|Gemolong|AZNET|
+|14|131.100.51.45|999|Colombia|Neiva|Fibernet TV SAS|
+|15|110.164.128.124|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|152.26.229.46|9443|United States|Concord|MCNC|
 |18|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|72.10.164.178|4325|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.93|9443|United States|Concord|MCNC|
+|19|152.26.229.47|9443|United States|Concord|MCNC|
+|20|152.26.231.42|9443|United States|Concord|MCNC|
 
 
 
