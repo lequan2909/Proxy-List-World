@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5200** proxies at the latest update. Usable proxies are below.
+> Scraper found **5090** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|470|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|230|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3435|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3325|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.76.56|3128|Japan|Shimomeguro|InfoSphere|
-|2|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|3|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|4|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|116.80.76.56|3128|Japan|Shimomeguro|InfoSphere|
+|3|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 |5|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
-|7|38.51.232.18|8080|Colombia|Sibundoy|SP SISTEMAS PALACIOS LTDA|
-|8|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|152.26.229.93|9443|United States|Concord|MCNC|
-|10|152.26.229.34|9443|United States|Concord|MCNC|
-|11|67.43.227.226|13431|Canada|Montreal|GloboTech Communications|
-|12|152.26.231.83|9443|United States|Concord|MCNC|
-|13|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|14|152.26.229.86|9443|United States|Concord|MCNC|
-|15|67.43.228.253|23183|Canada|Montreal|GloboTech Communications|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|152.26.229.83|9443|United States|Concord|MCNC|
-|18|152.26.231.93|9443|United States|Concord|MCNC|
-|19|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|6|186.96.31.46|7070|Mexico|Cholula|Total Play Telecomunicaciones SA De CV|
+|7|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
+|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|9|190.145.227.114|999|Colombia|Santiago de Cali|Telmex Colombia S.A.|
+|10|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|11|38.51.232.18|8080|Colombia|Sibundoy|SP SISTEMAS PALACIOS LTDA|
+|12|103.103.144.135|8080|Indonesia|Denpasar|ARTAMEDIANET|
+|13|152.26.229.34|9443|United States|Concord|MCNC|
+|14|103.191.196.99|8080|Indonesia|Indramayu|PT Pangkalan Lintas Data|
+|15|152.26.231.83|9443|United States|Concord|MCNC|
+|16|152.26.229.93|9443|United States|Concord|MCNC|
+|17|152.26.229.86|9443|United States|Concord|MCNC|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
+|20|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
