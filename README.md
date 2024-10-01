@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|4|182.253.38.13|3128|Indonesia|Jakarta Pusat|BIZNET|
-|5|200.125.171.78|9991|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|6|203.189.153.19|8083|Cambodia|Phnom Penh|ONLINE|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|49.48.70.207|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|14|103.40.121.33|8089|Indonesia|Blitar|PT DINAMIKA MEDIAKOM|
-|15|200.39.120.43|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
-|16|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|17|139.84.151.149|3129|India|Bengaluru|The Constant Company, LLC|
-|18|38.65.81.118|8080|United States|Dallas|ContentKeeper Technologies|
-|19|152.26.229.46|9443|United States|Concord|MCNC|
-|20|67.43.228.251|4389|Canada|Montreal|GloboTech Communications|
+|2|116.80.92.222|3128|Japan|Shimomeguro|InfoSphere|
+|3|139.84.158.235|3129|India|Bengaluru|The Constant Company, LLC|
+|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|5|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
+|6|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|103.200.17.10|8088|Indonesia|Central Java|PT Palapa Global Nusantara|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|11|182.253.38.13|3128|Indonesia|Jakarta Pusat|BIZNET|
+|12|37.187.109.70|10111|France|Gravelines|OVH SAS|
+|13|45.235.16.121|27234|Brazil|Chapecó|Acessoline Telecom|
+|14|103.156.17.83|8181|Indonesia|Indramayu|RSTNET|
+|15|152.26.229.46|9443|United States|Concord|MCNC|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|116.80.92.222|3128|Japan|Shimomeguro|InfoSphere|
 
 
 
