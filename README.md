@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|119.76.142.151|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
-|2|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|4|1.10.133.107|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|152.26.229.86|9443|United States|Concord|MCNC|
-|9|152.26.231.42|9443|United States|Concord|MCNC|
-|10|152.26.231.94|9443|United States|Concord|MCNC|
-|11|67.43.227.227|33073|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|8843|Canada|Montreal|GloboTech Communications|
-|13|152.26.229.83|9443|United States|Concord|MCNC|
-|14|67.43.227.227|33073|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|14433|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|8843|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|33073|Canada|Montreal|GloboTech Communications|
-|18|152.26.231.93|9443|United States|Concord|MCNC|
-|19|72.10.164.178|19927|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|19927|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|3|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|101.109.55.128|8080|Thailand|Pattaya|TOT Public Company Limited|
+|5|103.159.194.131|8080|Indonesia|Welahan|PT Giga Digital Nusantara|
+|6|45.235.16.121|27234|Brazil|Chapecó|Acessoline Telecom|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|36.95.155.74|3126|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|9|181.49.100.190|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|10|61.4.102.152|8080|Malaysia|Kuala Lumpur|Gigabit Hosting Sdn Bhd|
+|11|165.255.22.192|8080|South Africa|Johannesburg|Afrihost (Pty) Ltd|
+|12|152.26.229.86|9443|United States|Concord|MCNC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|38.51.232.18|8080|Colombia|Sibundoy|SP SISTEMAS PALACIOS LTDA|
+|15|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|16|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|152.26.231.94|9443|United States|Concord|MCNC|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
+|20|116.80.96.170|3128|Japan|Shimomeguro|InfoSphere|
 
 
 
