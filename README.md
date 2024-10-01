@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|101.109.55.128|8080|Thailand|Pattaya|TOT Public Company Limited|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|119.76.142.151|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
-|4|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|6|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|119.76.142.151|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
+|3|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|5|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |7|199.195.253.14|1080|United States|New York|FranTech Solutions|
 |8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|138.121.161.84|8095|Argentina|Rosario|WICORP SA|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|27.64.123.77|8080|Vietnam|Ho Chi Minh City|Viettel Group|
-|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|13|103.115.31.39|8181|Indonesia|Depok|HSPNET|
-|14|116.80.60.151|3128|Japan|Tokyo|InfoSphere|
-|15|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|16|152.26.231.94|9443|United States|Concord|MCNC|
-|17|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|19|152.26.229.46|9443|United States|Concord|MCNC|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|116.80.60.151|3128|Japan|Tokyo|InfoSphere|
+|10|38.51.232.18|8080|Colombia|Sibundoy|SP SISTEMAS PALACIOS LTDA|
+|11|152.26.231.94|9443|United States|Concord|MCNC|
+|12|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|13|51.159.75.249|3128|France|Paris|SCALEWAY|
+|14|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|15|152.26.229.46|9443|United States|Concord|MCNC|
+|16|31.46.175.173|8118|Hungary|Szigetszentmiklós|htc|
+|17|103.156.17.241|8080|Indonesia|Indramayu|RSTNET|
+|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
