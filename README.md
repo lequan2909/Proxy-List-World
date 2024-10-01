@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|4|2.59.181.125|33420|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|103.165.155.195|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|8|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|103.125.18.22|8080|Indonesia|Tangerang|JAVAMEDIA|
-|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|11|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|12|103.154.117.186|8080|Indonesia|Jakarta|MORATELINDONAP|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|152.26.229.34|9443|United States|Concord|MCNC|
-|15|152.26.229.42|9443|United States|Concord|MCNC|
-|16|207.211.168.178|3128|United States|Chicago|Oracle Corporation|
-|17|152.26.229.93|9443|United States|Concord|MCNC|
-|18|67.43.227.227|13519|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|4|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|119.47.90.228|3127|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|8|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|10|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|13|102.68.128.215|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|45.233.90.10|443|Brazil|Cruz do Espírito Santo|D.R SERVICOS DE COMUNICACAO LTDA - ME|
+|16|188.132.222.13|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|103.167.71.34|8080|Indonesia|Mukomuko|PT Rubyan Network Solution|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|152.26.229.34|9443|United States|Concord|MCNC|
 
 
 
