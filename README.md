@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5279** proxies at the latest update. Usable proxies are below.
+> Scraper found **5292** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|107|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|570|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|209|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|222|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3435|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|51.159.75.249|3128|France|Paris|SCALEWAY|
-|3|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|4|177.87.144.122|8086|Brazil|São José do Rio Pardo|Videomar Rede Nordeste S/A|
-|5|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
-|6|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
-|7|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|8|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|152.26.229.42|9443|United States|Concord|MCNC|
-|10|152.26.231.93|9443|United States|Concord|MCNC|
-|11|152.26.229.86|9443|United States|Concord|MCNC|
-|12|152.26.231.86|9443|United States|Concord|MCNC|
-|13|152.26.229.34|9443|United States|Concord|MCNC|
-|14|152.26.229.46|9443|United States|Concord|MCNC|
-|15|152.26.231.94|9443|United States|Concord|MCNC|
-|16|67.43.236.18|7243|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|4463|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|25571|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|8473|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.172|23459|Canada|Montreal|GloboTech Communications|
+|2|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|3|218.155.31.188|8080|South Korea|Seongnam-si|Korea Telecom|
+|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|51.159.75.249|3128|France|Paris|SCALEWAY|
+|7|185.141.134.120|8080|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
+|8|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|9|103.211.107.62|8080|Indonesia|Lampung|PT Atmega Telecomindo Nusantara|
+|10|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|11|185.64.209.116|53281|Russia|Kstovo|Svyazist LLC|
+|12|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|15|152.26.229.42|9443|United States|Concord|MCNC|
+|16|152.26.231.93|9443|United States|Concord|MCNC|
+|17|152.26.229.86|9443|United States|Concord|MCNC|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|152.26.229.34|9443|United States|Concord|MCNC|
 
 
 
