@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|4|222.109.192.34|8080|South Korea|Seoul|Korea Telecom|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|9|103.87.169.207|56642|India|Jaipur|Tejays Industries Pvt Ltd|
-|10|31.46.175.173|8118|Hungary|Szigetszentmiklós|htc|
-|11|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
-|14|86.109.3.27|10004|United States|Chicago|Packet Host, Inc.|
-|15|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|16|139.178.67.134|10004|United States|Parsippany|Packet Host, Inc.|
-|17|144.86.187.49|3129|United States|Malden|Charles River Operation|
-|18|122.3.77.27|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|19|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
-|20|220.247.162.70|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
+|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|31.46.175.173|8118|Hungary|Szigetszentmiklós|htc|
+|13|91.92.123.64|8080|Iran|Tehran|TIC|
+|14|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|66.85.137.139|39593|United States|Phoenix|Secured Servers LLC|
+|19|144.86.187.38|3129|United States|Malden|Charles River Operation|
+|20|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
 
 
 
