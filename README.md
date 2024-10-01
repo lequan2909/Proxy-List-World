@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5437** proxies at the latest update. Usable proxies are below.
+> Scraper found **5319** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|110|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|782|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|664|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|284|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3303|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|180.56.193.13|8080|Japan|Roppongi|NTT Communications Corporation|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|3|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|4|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |6|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|144.91.120.37|80|Germany|Nuremberg|Contabo GmbH|
-|10|38.45.32.131|999|Venezuela|La Guaira|TELECOMUNICACIONES G-NETWORK, C.A.|
-|11|125.26.73.179|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
-|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|13|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|152.26.229.46|9443|United States|Concord|MCNC|
-|15|152.26.229.93|9443|United States|Concord|MCNC|
-|16|58.27.218.28|3128|Pakistan|Lahore|Wateen Telecom Limited|
-|17|67.43.236.19|21445|Canada|Montreal|GloboTech Communications|
-|18|139.178.67.134|10002|United States|Parsippany|Packet Host, Inc.|
-|19|152.26.231.93|9443|United States|Concord|MCNC|
-|20|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|152.26.231.83|9443|United States|Concord|MCNC|
+|9|152.26.231.94|9443|United States|Concord|MCNC|
+|10|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|11|152.26.229.93|9443|United States|Concord|MCNC|
+|12|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|13|67.43.227.227|4549|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|7621|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.228|29777|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.230|29455|Canada|Montreal|GloboTech Communications|
+|17|147.28.155.20|10086|United States|Dallas|Packet Host, Inc.|
+|18|67.43.228.250|14515|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.93|6291|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.92|23935|Canada|Montreal|GloboTech Communications|
 
 
 
