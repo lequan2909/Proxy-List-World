@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|3|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|4|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|7|63.151.67.7|8080|United States|Hayden|Visionary Communications, Inc.|
-|8|114.8.131.178|8080|Indonesia|Gambir|PT. INDOSAT Tbk|
-|9|63.151.67.7|8080|United States|Hayden|Visionary Communications, Inc.|
-|10|112.78.40.210|8080|Indonesia|Jakarta|PT DES Teknologi Informasi|
-|11|182.253.109.126|8080|Indonesia|Jakarta|Biznet Metronet|
-|12|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|13|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|1.10.133.107|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|5|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|6|103.165.208.222|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|7|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|9|36.66.130.147|8080|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
+|10|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|38.51.232.18|8080|Colombia|Sibundoy|SP SISTEMAS PALACIOS LTDA|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
 |14|116.80.47.32|3128|Japan|Tokyo|InfoSphere|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|152.26.229.46|9443|United States|Concord|MCNC|
-|17|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|18|152.26.231.83|9443|United States|Concord|MCNC|
-|19|152.26.229.47|9443|United States|Concord|MCNC|
-|20|67.43.227.227|26341|Canada|Montreal|GloboTech Communications|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|17|116.80.96.170|3128|Japan|Shimomeguro|InfoSphere|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
