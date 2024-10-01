@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|3|91.92.123.64|8080|Iran|Tehran|TIC|
-|4|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|198.24.188.138|37100|United States|Ashburn|Secured Servers LLC|
-|6|103.156.201.170|83|India|Brahmapur|Reis Network Solutions|
-|7|31.46.175.173|8118|Hungary|Szigetszentmiklós|htc|
-|8|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
-|9|86.109.3.27|10004|United States|Chicago|Packet Host, Inc.|
-|10|139.178.67.134|10004|United States|Parsippany|Packet Host, Inc.|
-|11|144.86.187.57|3129|United States|Malden|Charles River Operation|
-|12|144.86.187.37|3129|United States|Malden|Charles River Operation|
-|13|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|15|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
-|18|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|147.28.155.20|10006|United States|Dallas|Packet Host, Inc.|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|198.24.188.138|37000|United States|Ashburn|Secured Servers LLC|
+|4|91.92.123.64|8080|Iran|Tehran|TIC|
+|5|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
+|6|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|144.86.187.41|3129|United States|Malden|Charles River Operation|
+|13|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|144.86.187.38|3129|United States|Malden|Charles River Operation|
+|15|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|16|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|18|103.48.68.67|83|India|Hyderabad|Country Online Services PVT LTD|
+|19|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
