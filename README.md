@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
 |2|116.80.76.56|3128|Japan|Shimomeguro|InfoSphere|
-|3|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|4|51.159.75.249|3128|France|Paris|SCALEWAY|
-|5|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|6|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
-|7|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|2.59.181.125|33420|Türkiye|Istanbul|Kadir Huseyin Tezcan Nosspeed Internet Teknolojileri|
-|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|10|38.9.141.63|8080|Indonesia|Medan|PT. Media Antar Nusa|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|5|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|6|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|38.9.141.63|8080|Indonesia|Medan|PT. Media Antar Nusa|
+|10|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|13|38.51.232.18|8080|Colombia|Sibundoy|SP SISTEMAS PALACIOS LTDA|
-|14|103.30.115.154|8080|Timor-Leste|Dili|Telin Telkomcel TimorLeste|
-|15|187.216.229.150|8080|Mexico|Coronango|Uninet S.A. de C.V.|
+|12|38.51.232.18|8080|Colombia|Sibundoy|SP SISTEMAS PALACIOS LTDA|
+|13|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
 |16|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|61.4.102.152|8080|Malaysia|Kuala Lumpur|Gigabit Hosting Sdn Bhd|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|152.26.229.34|9443|United States|Concord|MCNC|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
