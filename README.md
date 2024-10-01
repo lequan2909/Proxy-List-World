@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|31.46.175.173|8118|Hungary|Szigetszentmiklós|htc|
-|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|7|71.14.23.121|8080|United States|Hoover|Spectrum|
-|8|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|11|116.80.92.222|3128|Japan|Shimomeguro|InfoSphere|
-|12|152.26.229.93|9443|United States|Concord|MCNC|
-|13|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|14|152.26.229.47|9443|United States|Concord|MCNC|
-|15|116.80.76.56|3128|Japan|Shimomeguro|InfoSphere|
-|16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|51.159.159.73|80|France|Paris|SCALEWAY|
-|18|139.178.67.134|10010|United States|Parsippany|Packet Host, Inc.|
-|19|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|20|67.43.228.250|17885|Canada|Montreal|GloboTech Communications|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|5|113.160.235.248|19132|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|11|122.54.135.155|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|12|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|103.146.185.139|1111|Indonesia|Wonogiri|YAMNET|
+|14|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|17|116.80.92.222|3128|Japan|Shimomeguro|InfoSphere|
+|18|75.25.159.161|3128|United States|San Francisco|AT&T Services, Inc.|
+|19|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|116.80.76.56|3128|Japan|Shimomeguro|InfoSphere|
 
 
 
