@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5124** proxies at the latest update. Usable proxies are below.
+> Scraper found **5144** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|107|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|511|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|531|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|219|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3329|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|4|45.10.53.177|1081|Russia|Moscow|JSC Mediasoft ekspert|
-|5|5.42.78.122|3128|Sweden|Stockholm|Aeza International LTD|
-|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|7|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|8|103.137.218.166|83|India|Bānka|Nandbalaji Connecting Zone Pvt. Ltd|
-|9|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|200.119.218.94|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|15|152.26.231.86|9443|United States|Concord|MCNC|
-|16|152.26.229.93|9443|United States|Concord|MCNC|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|45.10.53.177|1081|Russia|Moscow|JSC Mediasoft ekspert|
-|19|152.26.229.83|9443|United States|Concord|MCNC|
-|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|1|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|5|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|116.80.76.56|3128|Japan|Shimomeguro|InfoSphere|
+|7|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|9|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|152.26.229.34|9443|United States|Concord|MCNC|
+|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|14|86.109.3.20|10071|United States|Chicago|Packet Host, Inc.|
+|15|152.26.231.94|9443|United States|Concord|MCNC|
+|16|152.26.229.47|9443|United States|Concord|MCNC|
+|17|51.159.75.249|3128|France|Paris|SCALEWAY|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|72.10.160.170|12769|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
