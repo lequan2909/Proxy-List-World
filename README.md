@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|116.104.90.218|5102|Vietnam|Hanoi|Viettel Corporation|
-|4|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|5|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|168.197.182.137|8080|Brazil|Elesbão Veloso|Vision Connect Telecomunicaçoes Ltda Me|
-|7|116.80.47.32|3128|Japan|Tokyo|InfoSphere|
-|8|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|9|152.26.229.83|9443|United States|Concord|MCNC|
-|10|67.43.236.20|12191|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.226|17099|Canada|Montreal|GloboTech Communications|
-|12|152.26.229.93|9443|United States|Concord|MCNC|
-|13|152.26.229.34|9443|United States|Concord|MCNC|
-|14|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|15|152.26.229.42|9443|United States|Concord|MCNC|
-|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|17|152.26.231.94|9443|United States|Concord|MCNC|
-|18|67.43.236.20|12191|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|18317|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.47|9443|United States|Concord|MCNC|
+|2|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|190.128.195.58|999|Paraguay|Luque|Telecel S.A.|
+|5|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|116.80.47.32|3128|Japan|Tokyo|InfoSphere|
+|7|152.26.229.83|9443|United States|Concord|MCNC|
+|8|152.26.229.93|9443|United States|Concord|MCNC|
+|9|152.26.229.34|9443|United States|Concord|MCNC|
+|10|152.26.229.42|9443|United States|Concord|MCNC|
+|11|152.26.231.94|9443|United States|Concord|MCNC|
+|12|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|152.26.229.47|9443|United States|Concord|MCNC|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|67.43.227.226|30093|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.173|4931|Canada|Montreal|GloboTech Communications|
+|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|18|51.159.159.73|80|France|Paris|SCALEWAY|
+|19|67.43.236.20|5941|Canada|Montreal|GloboTech Communications|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
