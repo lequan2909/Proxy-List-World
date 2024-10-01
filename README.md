@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|4|45.10.53.177|1080|Russia|Moscow|JSC Mediasoft ekspert|
-|5|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|152.26.229.34|9443|United States|Concord|MCNC|
-|10|152.26.229.46|9443|United States|Concord|MCNC|
-|11|152.26.231.83|9443|United States|Concord|MCNC|
-|12|152.26.229.83|9443|United States|Concord|MCNC|
-|13|152.26.229.93|9443|United States|Concord|MCNC|
-|14|72.10.160.171|11737|Canada|Montreal|GloboTech Communications|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|152.26.231.94|9443|United States|Concord|MCNC|
-|17|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|72.10.164.178|8089|Canada|Montreal|GloboTech Communications|
-|19|38.156.75.170|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|1|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|5|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|45.166.93.29|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|7|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|152.26.229.46|9443|United States|Concord|MCNC|
+|13|152.26.229.34|9443|United States|Concord|MCNC|
+|14|152.26.229.83|9443|United States|Concord|MCNC|
+|15|152.26.231.83|9443|United States|Concord|MCNC|
+|16|152.26.229.93|9443|United States|Concord|MCNC|
+|17|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|18|152.26.231.94|9443|United States|Concord|MCNC|
+|19|201.20.118.146|27234|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
 |20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
