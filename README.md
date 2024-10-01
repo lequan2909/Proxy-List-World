@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
 |2|119.76.142.167|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
-|3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|4|171.6.72.62|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|5|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
-|8|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|144.86.187.40|3129|United States|Malden|Charles River Operation|
-|11|37.46.135.225|3128|Russia|Irkutsk|JSC IOT|
-|12|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|3|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
+|4|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|5|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|6|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
+|9|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
+|10|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|11|144.86.187.35|3129|United States|Malden|Charles River Operation|
+|12|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
 |13|31.46.175.173|8118|Hungary|Szigetszentmiklós|htc|
-|14|119.47.90.240|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|15|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|103.125.174.23|8181|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|19|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|129.213.69.94|80|United States|Ashburn|Oracle Corporation|
+|14|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|16|103.233.156.42|8080|Indonesia|Jakarta Pusat|PT. Mora Telematika Indonesia|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|144.86.187.41|3129|United States|Malden|Charles River Operation|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
 
 
 
