@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|116.80.92.222|3128|Japan|Shimomeguro|InfoSphere|
-|4|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|5|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|139.84.158.235|3129|India|Bengaluru|The Constant Company, LLC|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|10|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|12|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|13|1.179.217.11|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|14|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|15|103.187.162.75|8080|Indonesia|Sepatan|PT Misqot Sejahtera Indonesia|
-|16|102.68.128.210|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|116.80.92.222|3128|Japan|Shimomeguro|InfoSphere|
-|20|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|2|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|116.80.92.222|3128|Japan|Shimomeguro|InfoSphere|
+|5|202.47.188.133|8090|Indonesia|Magetan|PT.CITRA BERDIKARI NUSANTARA|
+|6|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|7|181.209.122.75|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|8|198.99.81.198|8080|United States|Fort Collins|City of Fort Collins|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|11|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|12|177.200.80.6|11221|Brazil|Eusébio|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|16|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
+|17|116.80.92.222|3128|Japan|Shimomeguro|InfoSphere|
+|18|213.19.123.178|229|Czechia|Dolní Újezd|FORTECH|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|177.93.40.56|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
