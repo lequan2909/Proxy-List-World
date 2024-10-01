@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|61.4.102.152|8080|Malaysia|Kuala Lumpur|Gigabit Hosting Sdn Bhd|
-|3|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|4|31.46.175.173|8118|Hungary|Szigetszentmiklós|htc|
-|5|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|119.18.146.171|5020|Bangladesh|Chittagong|BBTS Network|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|116.80.76.56|3128|Japan|Shimomeguro|InfoSphere|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|14|67.43.228.254|5831|Canada|Montreal|GloboTech Communications|
-|15|152.26.229.46|9443|United States|Concord|MCNC|
-|16|31.46.175.173|8118|Hungary|Szigetszentmiklós|htc|
-|17|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|67.43.236.20|7265|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.86|9443|United States|Concord|MCNC|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|1|36.93.8.34|11000|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|2|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|116.80.76.56|3128|Japan|Shimomeguro|InfoSphere|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|61.129.2.212|8080|China|Beijing|CHINANET|
+|9|154.55.228.107|3128|Hong Kong|Hong Kong|HONG KONG Megalayer Technology Co., Limited|
+|10|152.26.231.93|9443|United States|Concord|MCNC|
+|11|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|152.26.229.46|9443|United States|Concord|MCNC|
+|13|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|14|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|67.43.227.227|14635|Canada|Montreal|GloboTech Communications|
+|17|152.26.229.86|9443|United States|Concord|MCNC|
+|18|67.43.227.226|1361|Canada|Montreal|GloboTech Communications|
+|19|31.46.175.173|8118|Hungary|Szigetszentmiklós|htc|
+|20|67.43.236.20|12213|Canada|Montreal|GloboTech Communications|
 
 
 
