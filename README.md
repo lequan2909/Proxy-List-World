@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5105** proxies at the latest update. Usable proxies are below.
+> Scraper found **5063** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|107|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|539|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|497|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|176|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3325|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|49.49.60.8|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
-|5|103.144.181.74|80|Indonesia|Gandul|PT. Indonesia Comnets Plus|
-|6|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|7|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|8|102.68.128.212|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|116.80.92.222|3128|Japan|Shimomeguro|InfoSphere|
-|11|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|12|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|13|152.26.229.42|9443|United States|Concord|MCNC|
-|14|152.26.231.94|9443|United States|Concord|MCNC|
-|15|72.10.160.172|2189|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|152.26.231.42|9443|United States|Concord|MCNC|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
+|2|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|5|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|6|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|200.114.87.2|8080|Argentina|Bosques|Citarella S.A.|
+|8|181.10.123.157|999|Argentina|El Carril|Telecom Argentina S.A.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|103.166.10.15|8181|Indonesia|Kediri|PT. Yasmin Amanah Media|
+|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|14|116.80.58.109|3128|Japan|Tokyo|InfoSphere|
+|15|152.26.229.42|9443|United States|Concord|MCNC|
+|16|152.26.231.83|9443|United States|Concord|MCNC|
+|17|152.26.229.46|9443|United States|Concord|MCNC|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
 |19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|72.10.160.90|20353|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|16919|Canada|Montreal|GloboTech Communications|
 
 
 
