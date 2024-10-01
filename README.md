@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5133** proxies at the latest update. Usable proxies are below.
+> Scraper found **5193** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|104|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|577|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|637|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|211|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3283|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|3|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|61.4.102.152|8080|Malaysia|Kuala Lumpur|Gigabit Hosting Sdn Bhd|
-|6|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|7|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|152.26.229.42|9443|United States|Concord|MCNC|
-|10|152.26.229.34|9443|United States|Concord|MCNC|
-|11|152.26.229.47|9443|United States|Concord|MCNC|
-|12|152.26.229.86|9443|United States|Concord|MCNC|
-|13|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|152.26.231.86|9443|United States|Concord|MCNC|
-|15|152.26.229.46|9443|United States|Concord|MCNC|
-|16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|152.26.231.42|9443|United States|Concord|MCNC|
-|18|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|67.43.228.253|32375|Canada|Montreal|GloboTech Communications|
+|2|61.4.102.152|8080|Malaysia|Kuala Lumpur|Gigabit Hosting Sdn Bhd|
+|3|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|4|31.46.175.173|8118|Hungary|Szigetszentmiklós|htc|
+|5|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|9|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|10|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
+|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|161.34.39.56|9999|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|15|116.80.47.32|3128|Japan|Tokyo|InfoSphere|
+|16|45.179.201.129|999|Colombia|Medellín|NET&COM LTDA.|
+|17|61.129.2.212|8080|China|Beijing|CHINANET|
+|18|67.43.236.20|11129|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
