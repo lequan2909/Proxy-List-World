@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|2|147.28.155.20|10003|United States|Dallas|Packet Host, Inc.|
-|3|103.170.96.64|8090|Indonesia|Sidoarjo|PT. Global Data Akses Persada|
-|4|147.28.155.20|10003|United States|Dallas|Packet Host, Inc.|
-|5|152.26.231.42|9443|United States|Concord|MCNC|
-|6|152.26.231.86|9443|United States|Concord|MCNC|
-|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|8|67.43.227.227|13053|Canada|Montreal|GloboTech Communications|
-|9|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|10|45.10.53.177|1081|Russia|Moscow|JSC Mediasoft ekspert|
-|11|152.26.229.83|9443|United States|Concord|MCNC|
-|12|67.43.227.228|24757|Canada|Montreal|GloboTech Communications|
-|13|152.26.229.86|9443|United States|Concord|MCNC|
-|14|103.54.80.162|1111|Indonesia|Purbalingga|Lintas Data Prima, PT|
-|15|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|16|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|17|152.26.229.93|9443|United States|Concord|MCNC|
-|18|187.32.76.99|3128|Brazil|Belo Horizonte|ALGAR TELECOM S/A|
-|19|152.26.229.34|9443|United States|Concord|MCNC|
-|20|101.109.19.90|8088|Thailand|Bangkok|TOT Public Company Limited|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|36.66.130.147|8080|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
+|3|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|4|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|5|147.28.155.20|10089|United States|Dallas|Packet Host, Inc.|
+|6|152.26.231.42|9443|United States|Concord|MCNC|
+|7|152.26.231.86|9443|United States|Concord|MCNC|
+|8|67.43.227.227|14551|Canada|Montreal|GloboTech Communications|
+|9|152.26.229.83|9443|United States|Concord|MCNC|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|12|152.26.229.86|9443|United States|Concord|MCNC|
+|13|152.26.229.93|9443|United States|Concord|MCNC|
+|14|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|15|152.26.229.34|9443|United States|Concord|MCNC|
+|16|152.26.229.46|9443|United States|Concord|MCNC|
+|17|51.159.159.73|80|France|Paris|SCALEWAY|
+|18|14.242.25.180|8080|Vietnam|Ho Chi Minh City|VNPT|
+|19|67.43.228.254|19681|Canada|Montreal|GloboTech Communications|
+|20|94.23.204.27|3128|France|Roubaix|OVH SAS|
 
 
 
