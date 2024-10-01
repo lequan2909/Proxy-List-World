@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5067** proxies at the latest update. Usable proxies are below.
+> Scraper found **5040** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|106|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|502|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|475|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|176|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3325|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.76.56|3128|Japan|Shimomeguro|InfoSphere|
-|3|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|4|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|103.170.96.64|8090|Indonesia|Sidoarjo|PT. Global Data Akses Persada|
-|6|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|103.115.20.5|8080|Indonesia|Subang|PMYNET|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|116.80.76.56|3128|Japan|Shimomeguro|InfoSphere|
-|13|152.26.229.47|9443|United States|Concord|MCNC|
-|14|152.26.231.42|9443|United States|Concord|MCNC|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|152.26.231.94|9443|United States|Concord|MCNC|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|72.10.160.174|25867|Canada|Montreal|GloboTech Communications|
-|20|152.26.229.42|9443|United States|Concord|MCNC|
+|1|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|2|147.28.155.20|10003|United States|Dallas|Packet Host, Inc.|
+|3|103.170.96.64|8090|Indonesia|Sidoarjo|PT. Global Data Akses Persada|
+|4|147.28.155.20|10003|United States|Dallas|Packet Host, Inc.|
+|5|152.26.231.42|9443|United States|Concord|MCNC|
+|6|152.26.231.86|9443|United States|Concord|MCNC|
+|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|8|67.43.227.227|13053|Canada|Montreal|GloboTech Communications|
+|9|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|10|45.10.53.177|1081|Russia|Moscow|JSC Mediasoft ekspert|
+|11|152.26.229.83|9443|United States|Concord|MCNC|
+|12|67.43.227.228|24757|Canada|Montreal|GloboTech Communications|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
+|14|103.54.80.162|1111|Indonesia|Purbalingga|Lintas Data Prima, PT|
+|15|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|16|175.100.91.80|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|187.32.76.99|3128|Brazil|Belo Horizonte|ALGAR TELECOM S/A|
+|19|152.26.229.34|9443|United States|Concord|MCNC|
+|20|101.109.19.90|8088|Thailand|Bangkok|TOT Public Company Limited|
 
 
 
