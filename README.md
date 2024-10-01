@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|2|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|3|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|27.96.131.193|80|South Korea|Seongnam-si|NBP|
+|5|113.192.31.5|1111|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
 |8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|10|116.80.58.109|3128|Japan|Tokyo|InfoSphere|
-|11|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|13|180.56.193.13|8080|Japan|Roppongi|NTT Communications Corporation|
-|14|147.28.155.20|10089|United States|Dallas|Packet Host, Inc.|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|58.27.218.28|3128|Pakistan|Lahore|Wateen Telecom Limited|
-|17|152.26.231.94|9443|United States|Concord|MCNC|
-|18|152.26.231.42|9443|United States|Concord|MCNC|
-|19|152.26.229.93|9443|United States|Concord|MCNC|
-|20|72.10.164.178|8089|Canada|Montreal|GloboTech Communications|
+|9|116.80.58.109|3128|Japan|Tokyo|InfoSphere|
+|10|103.174.236.96|8080|Indonesia|Indramayu|PT Global Erasiber Teknologi|
+|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|12|152.26.231.94|9443|United States|Concord|MCNC|
+|13|152.26.231.42|9443|United States|Concord|MCNC|
+|14|152.26.229.93|9443|United States|Concord|MCNC|
+|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|51.159.75.249|3128|France|Paris|SCALEWAY|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|72.10.160.171|9327|Canada|Montreal|GloboTech Communications|
+|19|103.80.237.65|8181|Indonesia|Bogor|PT MITRA VISIONER PRATAMA|
+|20|67.43.236.18|28115|Canada|Montreal|GloboTech Communications|
 
 
 
