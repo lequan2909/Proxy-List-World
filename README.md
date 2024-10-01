@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|2|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |4|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|10|152.26.231.94|9443|United States|Concord|MCNC|
-|11|152.26.231.86|9443|United States|Concord|MCNC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|171.238.237.206|5000|Vietnam|Tuyên Quang|Viettel Corporation|
+|9|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|10|152.26.231.86|9443|United States|Concord|MCNC|
+|11|152.26.231.94|9443|United States|Concord|MCNC|
 |12|152.26.231.93|9443|United States|Concord|MCNC|
-|13|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|15|67.43.236.19|21077|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|67.43.227.228|31757|Canada|Montreal|GloboTech Communications|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|91.92.123.64|8080|Iran|Tehran|TIC|
+|16|152.26.229.83|9443|United States|Concord|MCNC|
+|17|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|157.66.84.30|7777|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
+|20|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 
 
 
