@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|217.52.247.87|1976|Egypt|Cairo|Etisalat Misr|
-|2|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|3|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|103.247.23.65|2022|Indonesia|Banyumas|PT wifian Solution|
-|6|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|7|52.43.165.178|3128|United States|Portland|Amazon.com, Inc.|
-|8|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|9|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|10|103.159.194.131|8080|Indonesia|Welahan|PT Giga Digital Nusantara|
-|11|128.1.145.187|6187|Hong Kong|Hong Kong|Zenlayer Inc|
-|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|13|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|51.159.159.73|80|France|Paris|SCALEWAY|
-|15|152.26.231.42|9443|United States|Concord|MCNC|
-|16|152.26.229.34|9443|United States|Concord|MCNC|
-|17|42.3.187.52|8080|Hong Kong|Kwu Tung|Hong Kong Telecommunications (HKT) Limited Mass Internet|
-|18|152.26.229.46|9443|United States|Concord|MCNC|
-|19|147.28.155.20|10004|United States|Dallas|Packet Host, Inc.|
-|20|152.26.229.47|9443|United States|Concord|MCNC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|4|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|8|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|9|147.28.155.20|10004|United States|Dallas|Packet Host, Inc.|
+|10|152.26.229.34|9443|United States|Concord|MCNC|
+|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|12|152.26.231.42|9443|United States|Concord|MCNC|
+|13|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|14|174.138.171.164|8900|United States|Phoenix|Secured Servers LLC|
+|15|61.4.102.152|8080|Malaysia|Kuala Lumpur|Gigabit Hosting Sdn Bhd|
+|16|152.26.229.46|9443|United States|Concord|MCNC|
+|17|152.26.229.47|9443|United States|Concord|MCNC|
+|18|147.28.155.20|10004|United States|Dallas|Packet Host, Inc.|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
