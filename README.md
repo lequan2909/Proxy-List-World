@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|209.200.246.245|9595|Canada|Toronto|Ipxo LLC|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|5|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|192.145.206.192|8080|Brazil|São João da Ponte|Vianet Guaraciama Eireli ME|
-|8|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|103.174.238.105|8090|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|11|109.236.44.181|8080|Albania|Tirana|Abissnet sh.a.|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|152.26.231.94|9443|United States|Concord|MCNC|
-|14|152.26.229.83|9443|United States|Concord|MCNC|
-|15|152.26.231.86|9443|United States|Concord|MCNC|
-|16|139.178.67.134|9400|United States|Parsippany|Packet Host, Inc.|
-|17|177.136.85.193|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
-|18|72.10.160.170|6583|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.93|9443|United States|Concord|MCNC|
-|20|104.129.194.99|8800|United States|Reston|ZSCALER, INC.|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|6|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|7|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|10|182.53.50.2|3128|Thailand|Ban Mai Khao|TOT Public Company Limited|
+|11|144.86.187.34|3129|United States|Malden|Charles River Operation|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|109.236.44.181|8080|Albania|Tirana|Abissnet sh.a.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|152.26.231.86|9443|United States|Concord|MCNC|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|152.26.231.94|9443|United States|Concord|MCNC|
+|20|152.26.231.93|9443|United States|Concord|MCNC|
 
 
 
