@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|2|61.4.102.152|8080|Malaysia|Kuala Lumpur|Gigabit Hosting Sdn Bhd|
 |3|182.253.109.126|8080|Indonesia|Jakarta|Biznet Metronet|
 |4|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|5|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|152.26.229.93|9443|United States|Concord|MCNC|
-|13|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|152.26.229.47|9443|United States|Concord|MCNC|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|101.109.52.81|8080|Thailand|Pattaya|TOT Public Company Limited|
-|19|152.26.229.86|9443|United States|Concord|MCNC|
-|20|152.26.231.93|9443|United States|Concord|MCNC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|7|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|8|152.26.229.93|9443|United States|Concord|MCNC|
+|9|152.26.229.47|9443|United States|Concord|MCNC|
+|10|61.4.102.152|8080|Malaysia|Kuala Lumpur|Gigabit Hosting Sdn Bhd|
+|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|12|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|14|209.200.246.245|9595|Canada|Toronto|Ipxo LLC|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|152.26.231.93|9443|United States|Concord|MCNC|
+|17|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|20|72.10.160.173|32559|Canada|Montreal|GloboTech Communications|
 
 
 
