@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|27.71.149.77|5102|Vietnam|Huế|Viettel Group|
+|2|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|3|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
 |4|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|1.2.176.111|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|6|161.49.91.13|1337|Philippines|Pasig|Converge ICT Solution Inc|
-|7|103.189.197.83|8181|Indonesia|Serang|PT Graha Sumber Teknologi|
+|5|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
 |8|64.92.82.59|8080|United States|Chula Vista|Momentum Telecom, Inc.|
-|9|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|61.129.2.212|8080|China|Beijing|CHINANET|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|209.200.246.245|9595|Canada|Toronto|Ipxo LLC|
-|14|209.200.246.245|9595|Canada|Toronto|Ipxo LLC|
-|15|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|16|152.26.231.94|9443|United States|Concord|MCNC|
-|17|152.26.229.86|9443|United States|Concord|MCNC|
-|18|147.28.155.20|9401|United States|Dallas|Packet Host, Inc.|
-|19|67.43.236.20|2185|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|9|103.168.254.162|8086|Indonesia|Jepara|PT Fahasa Tri Data|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|103.203.234.28|8090|Indonesia|Ungaran|PT Nesta Indo Media|
+|14|125.26.73.179|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
+|15|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|152.26.231.94|9443|United States|Concord|MCNC|
+|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
 
