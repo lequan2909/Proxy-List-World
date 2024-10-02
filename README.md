@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|147.75.34.93|80|The Netherlands|Amsterdam|Packet Host, Inc.|
-|3|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|4|165.255.57.161|8080|South Africa|Johannesburg|Afrihost (Pty) Ltd|
-|5|45.133.107.238|81|Russia|Tul'skiy|Art-net LLC|
-|6|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|7|152.26.231.42|9443|United States|Concord|MCNC|
-|8|152.26.231.83|9443|United States|Concord|MCNC|
-|9|152.26.229.42|9443|United States|Concord|MCNC|
-|10|152.26.229.47|9443|United States|Concord|MCNC|
-|11|67.43.227.227|23459|Canada|Montreal|GloboTech Communications|
-|12|36.67.8.169|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
-|13|152.26.229.34|9443|United States|Concord|MCNC|
-|14|152.26.231.86|9443|United States|Concord|MCNC|
-|15|67.43.227.226|29229|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|23459|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|23459|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|23459|Canada|Montreal|GloboTech Communications|
-|19|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|1|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|2|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
+|3|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|103.190.113.114|8080|Indonesia|Grobogan|PT Linkbit Inovasi Teknologi|
+|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|181.114.61.17|8085|Argentina|Ramallo|INTERAIR|
+|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|10|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|152.26.231.83|9443|United States|Concord|MCNC|
+|12|152.26.231.42|9443|United States|Concord|MCNC|
+|13|152.26.229.42|9443|United States|Concord|MCNC|
+|14|152.26.229.47|9443|United States|Concord|MCNC|
+|15|152.26.229.34|9443|United States|Concord|MCNC|
+|16|67.43.227.227|2169|Canada|Montreal|GloboTech Communications|
+|17|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
 |20|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
 
 
