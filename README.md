@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|216.218.133.105|3128|United States|San Jose|Hurricane Electric LLC|
-|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|9|103.197.241.55|32650|Cambodia|Phnom Penh|COGETEL Co., Ltd|
-|10|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|103.126.87.120|8082|Indonesia|Klaten|BINTANGPERKASAORION|
-|12|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|13|206.119.113.181|3128|Hong Kong|Chai Wan|Starcloud Global Pte. LTD|
-|14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|15|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|16|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
-|17|144.86.187.52|3129|United States|Malden|Charles River Operation|
-|18|144.86.187.46|3129|United States|Malden|Charles River Operation|
-|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|152.26.229.42|9443|United States|Concord|MCNC|
+|1|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|2|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|3|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|4|209.45.90.174|999|Peru|Lima|Econocable Media SAC|
+|5|150.95.26.146|7080|Thailand|Bangkok|GMO-Z.COM PTE. LTD.|
+|6|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|7|14.241.111.97|8080|Vietnam|Hanoi|VNPT|
+|8|152.26.229.42|9443|United States|Concord|MCNC|
+|9|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|152.26.231.93|9443|United States|Concord|MCNC|
+|12|152.26.231.83|9443|United States|Concord|MCNC|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|125.26.73.179|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|72.10.164.178|24289|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|15249|Canada|Montreal|GloboTech Communications|
+|19|111.1.61.53|3128|China|Wenzhou|China Mobile communications corporation|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
