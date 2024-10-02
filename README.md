@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|4|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|152.26.229.47|9443|United States|Concord|MCNC|
-|6|72.10.160.173|9547|Canada|Montreal|GloboTech Communications|
-|7|147.28.155.20|10089|United States|Dallas|Packet Host, Inc.|
-|8|152.26.229.42|9443|United States|Concord|MCNC|
-|9|45.177.179.65|999|Mexico|San Luis Potosí City|Wantelco SAS de CV|
-|10|72.10.164.178|11283|Canada|Montreal|GloboTech Communications|
-|11|152.26.229.93|9443|United States|Concord|MCNC|
-|12|67.43.236.18|10387|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|11283|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|12557|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|31553|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|12557|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|1277|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|11283|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.83|9443|United States|Concord|MCNC|
-|20|67.43.227.227|1277|Canada|Montreal|GloboTech Communications|
+|2|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|61.129.2.212|8080|China|Beijing|CHINANET|
+|6|38.156.72.40|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|9|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|152.26.229.47|9443|United States|Concord|MCNC|
+|12|152.26.229.42|9443|United States|Concord|MCNC|
+|13|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|152.26.229.93|9443|United States|Concord|MCNC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|152.26.229.83|9443|United States|Concord|MCNC|
+|17|67.43.236.20|4701|Canada|Montreal|GloboTech Communications|
+|18|152.26.231.94|9443|United States|Concord|MCNC|
+|19|67.43.227.226|25485|Canada|Montreal|GloboTech Communications|
+|20|36.88.129.142|7777|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
 
 
 
