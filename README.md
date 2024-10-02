@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
 |3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|4|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|186.65.104.52|2020|Brazil|Salvador|Bahiadados Telecom Ltda.|
-|6|144.86.187.54|3129|United States|Malden|Charles River Operation|
-|7|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|115.178.49.181|8080|Indonesia|Bandung|NOC SIMAYA|
-|10|202.154.13.3|8080|Indonesia|Parenggan|PT Akses Data Internusa|
-|11|67.43.236.20|15257|Canada|Montreal|GloboTech Communications|
-|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|13|67.43.228.250|28921|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.93|9443|United States|Concord|MCNC|
-|15|152.26.229.42|9443|United States|Concord|MCNC|
-|16|147.28.155.20|10089|United States|Dallas|Packet Host, Inc.|
-|17|72.10.160.90|21827|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|32227|Canada|Montreal|GloboTech Communications|
-|19|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
-|20|67.43.227.226|30181|Canada|Montreal|GloboTech Communications|
+|4|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|7|139.178.67.134|443|United States|Parsippany|Packet Host, Inc.|
+|8|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|10|67.43.236.20|15257|Canada|Montreal|GloboTech Communications|
+|11|152.26.229.42|9443|United States|Concord|MCNC|
+|12|152.26.229.93|9443|United States|Concord|MCNC|
+|13|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|125.26.73.179|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
+|15|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|103.75.53.235|7788|Indonesia|Jakarta|PT Quantum Tera Network|
+|18|45.177.179.65|999|Mexico|San Luis Potosí City|Wantelco SAS de CV|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
