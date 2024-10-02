@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|4|50.6.193.80|3128|United States|Jacksonville|Network Solutions, LLC|
+|2|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|3|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|104.168.107.28|8080|United States|Buffalo|HostPapa|
 |5|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|50.6.193.80|3128|United States|Jacksonville|Network Solutions, LLC|
-|7|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|103.26.110.37|84|India|Chennai|Niss Networks|
-|9|45.182.176.38|9947|Brazil|São Paulo|Evolucao Telecom Ltda|
-|10|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|6|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|7|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
 |11|38.45.46.2|6332|Dominican Republic|Santo Domingo|FENIX NETWORKS, S.R.L.|
-|12|103.133.25.57|3125|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|13|147.28.155.20|10001|United States|Dallas|Packet Host, Inc.|
-|14|152.26.229.83|9443|United States|Concord|MCNC|
-|15|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|16|152.26.231.83|9443|United States|Concord|MCNC|
-|17|67.43.227.227|2263|Canada|Montreal|GloboTech Communications|
-|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|19|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
+|13|103.153.62.243|8181|Indonesia|Jakarta|IMEDIANET|
+|14|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|15|139.178.67.134|10000|United States|Parsippany|Packet Host, Inc.|
+|16|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
 |20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
