@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|4|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|67.73.184.178|8081|Colombia|Bogotá|CTL LATAM|
-|6|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|103.184.56.38|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
-|9|195.133.28.139|3128|Germany|Frankfurt am Main|Macarne-LLC|
+|4|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|5|95.216.139.24|7329|Finland|Helsinki|Hetzner Online GmbH|
+|6|173.255.223.18|8118|United States|Fremont|Akamai Technologies, Inc.|
+|7|103.171.240.174|8080|Indonesia|Jatiasih|PT Abs Multimedia Indonesia|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |10|181.114.61.17|8085|Argentina|Ramallo|INTERAIR|
-|11|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|152.26.229.83|9443|United States|Concord|MCNC|
 |12|116.105.18.72|10003|Vietnam|Da Nang|Viettel Corporation|
-|13|152.26.229.83|9443|United States|Concord|MCNC|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|152.26.229.47|9443|United States|Concord|MCNC|
-|17|152.26.229.46|9443|United States|Concord|MCNC|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
+|13|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|152.26.229.46|9443|United States|Concord|MCNC|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
 |19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|152.26.229.34|9443|United States|Concord|MCNC|
+|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 
 
 
