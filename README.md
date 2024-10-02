@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.58.109|3128|Japan|Tokyo|InfoSphere|
-|3|47.236.150.172|1080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|147.28.155.20|10004|United States|Dallas|Packet Host, Inc.|
-|8|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|10|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|182.252.72.164|8082|Bangladesh|Dhaka|Agni Systems Limited|
-|15|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|16|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|3|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|4|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|6|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|8|156.200.116.72|1981|Egypt|Cairo|TE Data|
+|9|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|147.28.155.20|10089|United States|Dallas|Packet Host, Inc.|
+|12|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|13|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|16|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|17|103.172.70.191|8181|Indonesia|Gemolong|AZNET|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
