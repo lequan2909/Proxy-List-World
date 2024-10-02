@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|2|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|187.188.172.14|8080|Mexico|Puebla City|Total Play Telecomunicaciones SA De CV|
-|4|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|125.26.73.179|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
-|6|152.26.231.42|9443|United States|Concord|MCNC|
-|7|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|67.43.228.253|13183|Canada|Montreal|GloboTech Communications|
-|9|152.26.229.46|9443|United States|Concord|MCNC|
+|2|218.155.31.188|8080|South Korea|Seongnam-si|Korea Telecom|
+|3|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|103.110.10.69|3127|Indonesia|Bandung|PT Citra Jelajah Informatika|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|103.167.168.9|5040|Indonesia|Cianjur|PT Argon Internet Amariqindo|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |10|152.26.229.42|9443|United States|Concord|MCNC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|67.43.236.20|1289|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|1289|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|4673|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|3649|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.47|9443|United States|Concord|MCNC|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|117.102.76.252|8080|Indonesia|Jakarta|Biznet Networks|
-|19|72.10.164.178|4673|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.83|9443|United States|Concord|MCNC|
+|11|152.26.231.42|9443|United States|Concord|MCNC|
+|12|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|152.26.229.46|9443|United States|Concord|MCNC|
+|14|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|61.129.2.212|8080|China|Beijing|CHINANET|
+|18|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|103.187.86.27|8182|Indonesia|Pinrang|PT Satunol Digital Teknologi|
+|20|72.10.164.178|15365|Canada|Montreal|GloboTech Communications|
 
 
 
