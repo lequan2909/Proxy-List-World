@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.218.77.86|3129|Indonesia|Jakarta|Amazon.com, Inc.|
-|3|45.123.142.2|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|181.115.66.236|999|Honduras|San Pedro Sula|TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|8|23.95.216.78|34561|United States|Marietta|HostPapa|
-|9|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|122.152.55.61|8080|Bangladesh|Chittagong|Innovative Online Ltd|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
+|3|77.52.187.54|8080|Ukraine|Rokytne|UMC|
+|4|131.0.235.10|55555|Argentina|Villa José León Suárez|MUSURIT|
+|5|36.91.135.141|40|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
+|6|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
+|7|68.162.217.121|8080|United States|Leominster|Verizon Business|
+|8|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
+|10|103.175.236.222|8080|Indonesia|Malang|PT Marva Global Telekomunikasi|
+|11|181.209.112.74|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
+|12|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
 |13|23.95.216.78|34561|United States|Marietta|HostPapa|
-|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|15|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
-|16|152.26.229.46|9443|United States|Concord|MCNC|
-|17|67.43.227.229|4135|Canada|Montreal|GloboTech Communications|
-|18|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
-|19|67.43.236.20|9673|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|23899|Canada|Montreal|GloboTech Communications|
+|14|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|16|103.167.170.151|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|17|152.26.229.46|9443|United States|Concord|MCNC|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|67.43.227.227|3227|Canada|Montreal|GloboTech Communications|
+|20|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
 
 
 
