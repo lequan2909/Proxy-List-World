@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.105.18.72|10002|Vietnam|Da Nang|Viettel Corporation|
-|3|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|4|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
 |6|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|200.116.230.212|8080|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P|
-|8|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|9|202.154.13.3|8080|Indonesia|Parenggan|PT Akses Data Internusa|
-|10|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|202.179.93.132|58080|India|Mumbai|Ankhnet|
-|12|103.180.118.138|1111|Indonesia|Gresik|PT Persada Data Multimedia|
-|13|152.26.229.93|9443|United States|Concord|MCNC|
+|7|101.255.166.241|8080|Indonesia|Bekasi|PT Remala Abadi|
+|8|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|11|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|152.26.229.93|9443|United States|Concord|MCNC|
+|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 |14|152.26.229.86|9443|United States|Concord|MCNC|
 |15|152.26.231.42|9443|United States|Concord|MCNC|
 |16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|17|72.10.164.178|33125|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|72.10.160.170|25283|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|67.43.227.228|13283|Canada|Montreal|GloboTech Communications|
+|19|170.80.203.45|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
