@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|2|116.105.18.72|10002|Vietnam|Da Nang|Viettel Corporation|
-|3|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|103.169.133.22|8080|Indonesia|Majalengka|PT Alfa Omega Interkoneksi|
-|5|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|103.65.202.209|8080|India|Warangal|Vaishnavi Online Internet Services Pvt. Ltd.|
-|7|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|8|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|10|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|116.105.18.72|10002|Vietnam|Da Nang|Viettel Corporation|
-|12|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
-|13|152.26.231.42|9443|United States|Concord|MCNC|
-|14|139.178.67.134|9400|United States|Parsippany|Packet Host, Inc.|
-|15|152.26.231.94|9443|United States|Concord|MCNC|
-|16|116.80.92.222|3128|Japan|Shimomeguro|InfoSphere|
-|17|152.26.231.93|9443|United States|Concord|MCNC|
-|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|19|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|20|152.26.229.47|9443|United States|Concord|MCNC|
+|2|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|116.105.18.72|10002|Vietnam|Da Nang|Viettel Corporation|
+|4|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|6|144.86.187.56|3129|United States|Malden|Charles River Operation|
+|7|144.86.187.56|3129|United States|Malden|Charles River Operation|
+|8|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|144.86.187.39|3129|United States|Malden|Charles River Operation|
+|13|103.242.106.153|8090|Indonesia|Sukabumi|PT Lintas Jaringan Nusantara|
+|14|116.105.18.72|10002|Vietnam|Da Nang|Viettel Corporation|
+|15|111.1.61.52|3128|China|Wenzhou|China Mobile communications corporation|
+|16|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|152.26.231.94|9443|United States|Concord|MCNC|
+|20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
 
