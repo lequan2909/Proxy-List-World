@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|2|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|5|15.235.12.19|3128|Canada|Beauharnois|OVH SAS|
-|6|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|9|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|10|103.133.26.107|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|11|201.62.125.142|8080|Brazil|Rio Claro|Claro NXT Telecomunicacoes Ltda|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|67.43.227.226|4675|Canada|Montreal|GloboTech Communications|
-|14|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|152.26.229.42|9443|United States|Concord|MCNC|
-|16|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|72.10.160.93|20913|Canada|Montreal|GloboTech Communications|
-|20|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
+|5|182.253.102.67|3128|Indonesia|Cikampek|BIZNET|
+|6|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|159.203.104.153|4200|United States|Clifton|DigitalOcean, LLC|
+|8|27.112.70.155|8083|Indonesia|Jakarta|GRAHANET|
+|9|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|12|103.67.84.78|8085|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
+|13|14.170.154.193|19132|Vietnam|Hanoi|VNPT-VNNIC|
+|14|147.45.48.219|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
+|15|5.42.78.122|3128|Sweden|Stockholm|Aeza International LTD|
+|16|103.172.86.241|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|17|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|20|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
