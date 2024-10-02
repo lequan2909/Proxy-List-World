@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.176.227.197|8009|Indonesia|Brebes|PT Pass Internet Indonesia|
-|3|103.168.254.138|8086|Indonesia|Jepara|PT Fahasa Tri Data|
-|4|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|7|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|9|23.95.216.78|34561|United States|Marietta|HostPapa|
-|10|103.191.254.2|8085|Indonesia|Jadi|PT Ayodya Data Internusa|
+|1|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|23.95.216.78|34561|United States|Marietta|HostPapa|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|77.237.243.41|8000|Germany|Düsseldorf|Contabo GmbH|
+|5|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
+|8|124.108.19.6|9292|India|Navi Mumbai|Advantus Corporate Infoserv Private Ltd|
+|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|10|181.46.243.155|3128|Argentina|Banfield|Telecentro S.A.|
 |11|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|13|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
-|14|147.28.155.20|10003|United States|Dallas|Packet Host, Inc.|
-|15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|152.26.231.86|9443|United States|Concord|MCNC|
-|17|67.43.227.226|4607|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|9907|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.34|9443|United States|Concord|MCNC|
-|20|152.26.229.83|9443|United States|Concord|MCNC|
+|12|152.26.229.86|9443|United States|Concord|MCNC|
+|13|152.26.229.34|9443|United States|Concord|MCNC|
+|14|152.26.231.86|9443|United States|Concord|MCNC|
+|15|152.26.229.83|9443|United States|Concord|MCNC|
+|16|50.6.193.80|3128|United States|Jacksonville|Network Solutions, LLC|
+|17|67.43.236.20|20019|Canada|Montreal|GloboTech Communications|
+|18|174.168.230.75|8118|United States|Portsmouth|Comcast Cable Communications, LLC|
+|19|72.10.164.178|25053|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.47|9443|United States|Concord|MCNC|
 
 
 
