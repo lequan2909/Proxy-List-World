@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|10|23.95.216.78|34561|United States|Marietta|HostPapa|
-|11|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
-|12|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|14|65.20.188.53|9090|Iraq|Karbala|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
-|15|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|152.26.229.86|9443|United States|Concord|MCNC|
-|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
+|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|7|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
+|10|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|11|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|12|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|38.52.220.171|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|15|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|17|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
