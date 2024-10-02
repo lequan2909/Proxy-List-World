@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|3|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|4|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|6|103.195.65.106|8080|Indonesia|Tigaraksa|Indonesia Network Information Center|
-|7|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|10|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|1|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
+|2|173.255.223.18|8118|United States|Fremont|Akamai Technologies, Inc.|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|165.255.57.161|8080|South Africa|Johannesburg|Afrihost (Pty) Ltd|
+|6|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|7|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |11|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|12|23.236.65.236|3129|United States|Los Angeles|Zenlayer Inc|
-|13|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|181.114.61.17|8085|Argentina|Ramallo|INTERAIR|
-|15|152.26.231.83|9443|United States|Concord|MCNC|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|152.26.231.42|9443|United States|Concord|MCNC|
-|18|67.43.236.21|3217|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.93|9443|United States|Concord|MCNC|
+|12|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|13|152.26.231.83|9443|United States|Concord|MCNC|
+|14|152.26.231.42|9443|United States|Concord|MCNC|
+|15|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|16|152.26.231.93|9443|United States|Concord|MCNC|
+|17|104.129.194.99|8800|United States|Reston|ZSCALER, INC.|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|187.94.16.59|39665|Brazil|Irecê|Holistica Provedor Internet Ltda|
 |20|152.26.231.94|9443|United States|Concord|MCNC|
 
 
