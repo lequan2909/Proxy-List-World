@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|171.97.85.107|8080|Thailand|Khon Kaen|True Internet Corporation CO. Ltd.|
-|3|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|4|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|5|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|7|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|103.10.230.246|1337|Thailand|Bangkok|CATBB|
-|9|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|10|157.119.211.133|8080|India|Tirupati|Finecom Internet services Pvt Ltd|
-|11|41.65.71.151|1976|Egypt|Kirdāsah|Etisalat Misr|
-|12|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|171.100.116.166|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|15|147.75.34.93|9401|The Netherlands|Amsterdam|Packet Host, Inc.|
-|16|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
-|20|116.80.96.169|3128|Japan|Shimomeguro|InfoSphere|
+|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|119.76.142.213|8080|Thailand|Din Daeng|True Internet Co., Ltd.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|193.84.2.199|8080|Finland|Helsinki|Hostkey B.V.|
+|6|154.236.179.229|1976|Egypt|Giza|Enterprise|
+|7|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|8|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|177.93.45.225|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|10|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|11|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|116.80.96.169|3128|Japan|Shimomeguro|InfoSphere|
+|17|152.26.231.83|9443|United States|Concord|MCNC|
+|18|152.26.231.93|9443|United States|Concord|MCNC|
+|19|72.10.164.178|1593|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.18|8195|Canada|Montreal|GloboTech Communications|
 
 
 
