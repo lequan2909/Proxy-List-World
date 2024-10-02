@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|3|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|4|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|5|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|50.6.193.80|3128|United States|Jacksonville|Network Solutions, LLC|
-|7|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|8|38.41.5.85|999|Venezuela|Caracas|MDS TELECOM C.A.|
-|9|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|152.26.231.94|9443|United States|Concord|MCNC|
-|13|152.26.229.34|9443|United States|Concord|MCNC|
-|14|152.26.229.93|9443|United States|Concord|MCNC|
-|15|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|152.26.231.42|9443|United States|Concord|MCNC|
-|18|152.26.229.47|9443|United States|Concord|MCNC|
-|19|45.177.179.65|999|Mexico|San Luis Potosí City|Wantelco SAS de CV|
-|20|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|1|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|2|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|45.174.57.22|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|152.26.229.34|9443|United States|Concord|MCNC|
+|8|152.26.231.94|9443|United States|Concord|MCNC|
+|9|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|10|111.1.61.53|3128|China|Wenzhou|China Mobile communications corporation|
+|11|152.26.229.93|9443|United States|Concord|MCNC|
+|12|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|152.26.229.47|9443|United States|Concord|MCNC|
+|14|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|15|152.26.231.42|9443|United States|Concord|MCNC|
+|16|152.26.231.93|9443|United States|Concord|MCNC|
+|17|152.26.229.86|9443|United States|Concord|MCNC|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|139.178.67.134|10013|United States|Parsippany|Packet Host, Inc.|
+|20|67.43.236.18|17753|Canada|Montreal|GloboTech Communications|
 
 
 
