@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|103.172.17.51|8080|Indonesia|Ciamis|PT Media Access Telematika|
-|3|23.95.216.78|34561|United States|Marietta|HostPapa|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|147.28.155.20|10089|United States|Dallas|Packet Host, Inc.|
+|3|116.254.99.14|8080|Indonesia|Jakarta|SpaceX Starlink|
 |4|23.95.216.78|34561|United States|Marietta|HostPapa|
-|5|203.176.129.85|8080|Cambodia|Phnom Penh|Angkor Data Communication|
-|6|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|103.165.126.65|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|8|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|9|94.68.245.147|8080|Greece|Marousi|OTEnet|
-|10|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|147.75.34.93|9401|The Netherlands|Amsterdam|Packet Host, Inc.|
-|12|201.20.115.22|8080|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|8|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|223.205.28.207|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|10|113.192.48.90|8090|Indonesia|Batu|PT.Global Media Data Prima|
+|11|103.73.164.190|32650|Cambodia|Phnom Penh|TPLC Holdings Ltd|
+|12|147.75.34.93|9401|The Netherlands|Amsterdam|Packet Host, Inc.|
 |13|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|14|113.192.48.90|8090|Indonesia|Batu|PT.Global Media Data Prima|
-|15|103.82.126.202|8080|Indonesia|Tangerang|PT.PLATINUM CITRA INDONESIA|
-|16|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
-|18|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|116.80.96.169|3128|Japan|Shimomeguro|InfoSphere|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|14|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|95.216.205.32|8118|Finland|Helsinki|Hetzner Online GmbH|
+|19|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|116.80.96.169|3128|Japan|Shimomeguro|InfoSphere|
 
 
 
