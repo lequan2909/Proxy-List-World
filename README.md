@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |6|125.27.0.165|8080|Thailand|Khlong San|TOT Public Company Limited|
-|7|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|8|104.248.98.31|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|8|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|190.107.237.11|999|Ecuador|Tulcán|CINECABLE TV|
+|10|104.168.107.28|8080|United States|Buffalo|HostPapa|
 |11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|13|190.107.237.11|999|Ecuador|Tulcán|CINECABLE TV|
-|14|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|16|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|17|116.80.92.222|3128|Japan|Shimomeguro|InfoSphere|
-|18|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|19|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|72.10.160.170|15941|Canada|Montreal|GloboTech Communications|
+|12|209.45.90.174|999|Peru|Lima|Econocable Media SAC|
+|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|14|116.80.92.222|3128|Japan|Shimomeguro|InfoSphere|
+|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|18|36.92.87.137|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
