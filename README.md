@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|5|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|218.155.31.188|8080|South Korea|Seongnam-si|Korea Telecom|
-|7|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|36.88.129.140|7777|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
-|14|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|103.110.10.69|3127|Indonesia|Bandung|PT Citra Jelajah Informatika|
-|17|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|72.10.160.172|13051|Canada|Montreal|GloboTech Communications|
-|20|216.218.133.105|3128|United States|San Jose|Hurricane Electric LLC|
+|2|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
+|3|171.238.237.206|5000|Vietnam|Tuyên Quang|Viettel Corporation|
+|4|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|152.26.231.42|9443|United States|Concord|MCNC|
+|14|152.26.229.86|9443|United States|Concord|MCNC|
+|15|152.26.229.46|9443|United States|Concord|MCNC|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|152.26.229.47|9443|United States|Concord|MCNC|
+|20|103.83.97.46|7777|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
 
 
 
