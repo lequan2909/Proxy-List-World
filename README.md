@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|2|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|23.95.216.78|34561|United States|Marietta|HostPapa|
-|5|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|6|23.95.216.78|34561|United States|Marietta|HostPapa|
-|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|9|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|10|103.191.254.2|8085|Indonesia|Jadi|PT Ayodya Data Internusa|
-|11|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|12|94.231.192.155|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|93.190.14.205|8080|Turkey|Osmangazi|Kobikom Telekomunikasyon Bilisim Hizmetler SAN VE TIC AS|
-|15|152.26.229.93|9443|United States|Concord|MCNC|
-|16|152.26.229.46|9443|United States|Concord|MCNC|
-|17|152.26.229.34|9443|United States|Concord|MCNC|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|67.43.228.253|19919|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|19919|Canada|Montreal|GloboTech Communications|
+|1|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|3|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
+|4|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|6|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|182.78.42.112|83|India|Ongole|Bharti Airtel|
+|10|23.95.216.78|34561|United States|Marietta|HostPapa|
+|11|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|36.66.242.117|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|15|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|16|185.208.102.133|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|17|118.97.75.85|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|18|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|46.99.183.154|1234|Albania|Tirana|IPKO Telecommunications LLC|
+|20|152.26.229.34|9443|United States|Concord|MCNC|
 
 
 
