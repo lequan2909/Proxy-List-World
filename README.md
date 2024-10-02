@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4819** proxies at the latest update. Usable proxies are below.
+> Scraper found **4773** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|106|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|601|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|107|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|554|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|233|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2921|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|116.80.60.151|3128|Japan|Tokyo|InfoSphere|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|209.14.118.161|999|Colombia|Neiva|AGIS|
-|6|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|7|159.203.104.153|4200|United States|Clifton|DigitalOcean, LLC|
-|8|152.26.229.34|9443|United States|Concord|MCNC|
-|9|152.26.229.47|9443|United States|Concord|MCNC|
-|10|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|13|152.26.229.93|9443|United States|Concord|MCNC|
-|14|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|67.43.227.227|28937|Canada|Montreal|GloboTech Communications|
-|16|152.26.231.94|9443|United States|Concord|MCNC|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|20|116.80.60.151|3128|Japan|Tokyo|InfoSphere|
+|3|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|103.139.126.31|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|6|139.255.94.123|39635|Indonesia|Jakarta|PT. LINKNET|
+|7|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|8|103.239.255.36|58080|Bangladesh|Dhaka|Carnival Internet|
+|9|72.10.164.178|26855|Canada|Montreal|GloboTech Communications|
+|10|125.26.73.179|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
+|11|152.26.231.93|9443|United States|Concord|MCNC|
+|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|13|152.26.231.94|9443|United States|Concord|MCNC|
+|14|152.26.231.86|9443|United States|Concord|MCNC|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|67.43.236.20|27141|Canada|Montreal|GloboTech Communications|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
+|18|182.252.70.220|8082|Bangladesh|Kāfrul|Agni Systems Limited|
+|19|72.10.160.91|31281|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|24777|Canada|Montreal|GloboTech Communications|
 
 
 
