@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|101.255.166.134|1111|Indonesia|Bekasi|PT Remala Abadi|
-|3|23.95.216.78|34561|United States|Marietta|HostPapa|
-|4|103.101.193.38|1111|Indonesia|Batam|PT Bintang Teknologi Sejahtera|
-|5|27.112.70.155|8083|Indonesia|Jakarta|GRAHANET|
-|6|23.19.73.223|3128|United States|Los Angeles|Leaseweb USA, Inc.|
-|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|23.95.216.78|34561|United States|Marietta|HostPapa|
-|10|190.26.255.30|999|Colombia|Bogotá|ETB - Colombia|
-|11|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|181.119.67.73|999|Colombia|Barrancabermeja|IFX Networks Argentina S.R.L|
-|14|147.75.34.93|9401|The Netherlands|Amsterdam|Packet Host, Inc.|
-|15|103.78.113.16|8080|Indonesia|Jakarta|MORATELINDO|
-|16|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|208.67.28.28|58090|United States|Eagle River|SonicNet Inc.|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|23.95.216.78|34561|United States|Marietta|HostPapa|
+|2|23.19.73.223|3128|United States|Los Angeles|Leaseweb USA, Inc.|
+|3|27.54.71.231|8080|Australia|Pakenham|CNTC|
+|4|101.255.166.134|1111|Indonesia|Bekasi|PT Remala Abadi|
+|5|171.100.116.166|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|6|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
+|7|115.127.137.51|58080|Bangladesh|Kāfrul|BRACNet Limited|
+|8|103.170.22.52|8089|Indonesia|Banyumas|PT Puskomedia Indonesia Kreatif|
+|9|182.23.127.2|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|10|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|11|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
+|12|38.159.227.230|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|13|147.75.34.93|9401|The Netherlands|Amsterdam|Packet Host, Inc.|
+|14|103.125.19.36|8080|Indonesia|Tangerang|JAVAMEDIA|
+|15|191.102.254.53|8085|Argentina|Rosario|IP·RED|
+|16|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|18|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|20|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
 
 
 
