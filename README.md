@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|2|171.97.85.107|8080|Thailand|Khon Kaen|True Internet Corporation CO. Ltd.|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|171.100.116.166|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|6|212.112.113.182|3128|Kyrgyzstan|Bishkek|AkNet|
-|7|191.102.254.10|8085|Argentina|Rosario|IP·RED|
-|8|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|191.102.254.53|8085|Argentina|Rosario|IP·RED|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|103.17.213.98|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|14|5.189.158.162|3128|Germany|Nuremberg|Contabo GmbH|
+|1|171.97.85.107|8080|Thailand|Khon Kaen|True Internet Corporation CO. Ltd.|
+|2|139.178.67.131|10068|United States|Parsippany|Packet Host, Inc.|
+|3|31.207.47.56|8118|The Netherlands|Amsterdam|Hostkey B.V.|
+|4|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|103.177.9.104|8080|Indonesia|Jakarta|PT Helium Sinergi Telekomunikasi|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|212.112.113.182|3128|Kyrgyzstan|Bishkek|AkNet|
+|8|182.23.127.2|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|9|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|179.49.113.230|999|Honduras|San Pedro Sula|Asociacion De Servicio De Internet S. De RL|
+|11|103.170.22.52|8089|Indonesia|Banyumas|PT Puskomedia Indonesia Kreatif|
+|12|212.110.188.222|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|13|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|188.132.221.54|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 |15|23.95.216.78|34561|United States|Marietta|HostPapa|
-|16|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|125.26.73.179|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
-|18|144.86.187.61|3129|United States|Malden|Charles River Operation|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|152.26.231.94|9443|United States|Concord|MCNC|
+|16|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
+|17|207.211.168.178|3128|United States|Chicago|Oracle Corporation|
+|18|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|139.178.67.134|9443|United States|Parsippany|Packet Host, Inc.|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
