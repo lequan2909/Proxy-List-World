@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|2|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|174.138.171.164|8900|United States|Phoenix|Secured Servers LLC|
-|4|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|5|212.112.113.182|3128|Kyrgyzstan|Bishkek|AkNet|
-|6|103.69.20.118|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|2|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|3|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|203.176.129.85|8080|Cambodia|Phnom Penh|Angkor Data Communication|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|77.237.243.41|8000|Germany|Düsseldorf|Contabo GmbH|
+|7|103.41.33.246|58080|India|Mumbai|Juweriyah Networks Private Limited|
 |8|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|9|174.138.171.164|8900|United States|Phoenix|Secured Servers LLC|
-|10|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|11|147.75.34.93|9401|The Netherlands|Amsterdam|Packet Host, Inc.|
-|12|103.191.165.9|8080|Indonesia|Subang|PT Sakti Wijaya Network|
-|13|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|152.26.229.34|9443|United States|Concord|MCNC|
-|17|152.26.229.93|9443|United States|Concord|MCNC|
-|18|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
+|9|96.9.74.91|8080|Cambodia|Phnom Penh|S.I Group|
+|10|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|209.14.119.228|999|Colombia|Bogotá|AGIS|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|116.254.99.14|8080|Indonesia|Jakarta|SpaceX Starlink|
+|14|171.4.70.67|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|15|23.95.216.78|34561|United States|Marietta|HostPapa|
+|16|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
+|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|152.26.229.34|9443|United States|Concord|MCNC|
 |20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
