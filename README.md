@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|131.0.235.10|55555|Argentina|Villa José León Suárez|MUSURIT|
-|4|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
-|5|118.172.239.231|8180|Thailand|Chon Buri|TOT Public Company Limited|
-|6|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|131.0.235.10|55555|Argentina|Villa José León Suárez|MUSURIT|
+|3|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
+|4|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|23.95.216.78|34561|United States|Marietta|HostPapa|
 |7|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|8|68.162.217.121|8080|United States|Leominster|Verizon Business|
-|9|122.152.55.61|8080|Bangladesh|Chittagong|Innovative Online Ltd|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|12|181.209.112.74|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
-|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|72.10.160.173|1749|Canada|Montreal|GloboTech Communications|
+|8|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
+|9|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|139.178.67.134|10011|United States|Parsippany|Packet Host, Inc.|
+|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
 |16|72.10.160.170|19009|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.254|32881|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|19009|Canada|Montreal|GloboTech Communications|
-|19|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|20|152.26.231.94|9443|United States|Concord|MCNC|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|152.26.231.94|9443|United States|Concord|MCNC|
+|19|72.10.160.170|19009|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
