@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|2|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|6|212.46.210.250|8080|Russia|Moscow|VympelKom broadband internet|
-|7|185.200.37.119|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|11|118.70.12.171|53281|Vietnam|Hanoi|FPT Telecom Company|
-|12|152.26.229.34|9443|United States|Concord|MCNC|
-|13|152.26.229.47|9443|United States|Concord|MCNC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
+|4|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|31.44.7.32|8080|United States|New York|ITGLOBAL.COM NL B.V.|
+|9|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|152.26.229.47|9443|United States|Concord|MCNC|
+|13|152.26.229.34|9443|United States|Concord|MCNC|
 |14|152.26.229.93|9443|United States|Concord|MCNC|
-|15|72.10.160.92|7345|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.46|9443|United States|Concord|MCNC|
-|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|18|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|19|72.10.160.90|28899|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|29453|Canada|Montreal|GloboTech Communications|
+|15|152.26.229.46|9443|United States|Concord|MCNC|
+|16|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
+|17|72.10.164.178|23423|Canada|Montreal|GloboTech Communications|
+|18|58.27.218.28|3128|Pakistan|Lahore|Wateen Telecom Limited|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
