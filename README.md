@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|3|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|23.95.216.78|34561|United States|Marietta|HostPapa|
-|5|103.199.117.120|8080|Indonesia|Semarang|PT Hepra Teknologi Indonesia|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|23.95.216.78|34561|United States|Marietta|HostPapa|
-|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|9|116.105.18.72|10003|Vietnam|Da Nang|Viettel Corporation|
-|10|152.26.229.86|9443|United States|Concord|MCNC|
-|11|72.10.164.178|29021|Canada|Montreal|GloboTech Communications|
-|12|152.26.231.86|9443|United States|Concord|MCNC|
-|13|152.26.229.47|9443|United States|Concord|MCNC|
-|14|152.26.229.93|9443|United States|Concord|MCNC|
-|15|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|16|72.10.160.171|11245|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|19999|Canada|Montreal|GloboTech Communications|
-|18|152.26.231.83|9443|United States|Concord|MCNC|
-|19|152.26.231.42|9443|United States|Concord|MCNC|
-|20|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|23.95.216.78|34561|United States|Marietta|HostPapa|
+|4|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|181.224.207.142|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
+|8|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
+|12|116.105.18.72|10003|Vietnam|Da Nang|Viettel Corporation|
+|13|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|152.26.231.94|9443|United States|Concord|MCNC|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|152.26.229.93|9443|United States|Concord|MCNC|
+|17|23.95.216.78|34561|United States|Marietta|HostPapa|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|152.26.229.47|9443|United States|Concord|MCNC|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
