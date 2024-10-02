@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4780** proxies at the latest update. Usable proxies are below.
+> Scraper found **4849** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -29,36 +29,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|109|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|613|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|595|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|212|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2888|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2975|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|3|103.190.113.114|8080|Indonesia|Grobogan|PT Linkbit Inovasi Teknologi|
+|3|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
 |4|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|12.163.95.129|8080|United States|Alex|AT&T Services, Inc.|
-|6|200.49.99.78|9991|Argentina|Buenos Aires|Telecom Argentina S.A|
-|7|103.171.240.174|8080|Indonesia|Jatiasih|PT Abs Multimedia Indonesia|
-|8|38.52.221.66|8080|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|152.26.231.86|9443|United States|Concord|MCNC|
-|11|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|12|152.26.229.86|9443|United States|Concord|MCNC|
-|13|152.26.229.34|9443|United States|Concord|MCNC|
-|14|218.155.31.188|8080|South Korea|Seongnam-si|Korea Telecom|
-|15|72.10.164.178|29751|Canada|Montreal|GloboTech Communications|
-|16|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|19|67.43.227.226|2407|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|29751|Canada|Montreal|GloboTech Communications|
+|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|6|103.195.65.106|8080|Indonesia|Tigaraksa|Indonesia Network Information Center|
+|7|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|10|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|11|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|23.236.65.236|3129|United States|Los Angeles|Zenlayer Inc|
+|13|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|181.114.61.17|8085|Argentina|Ramallo|INTERAIR|
+|15|152.26.231.83|9443|United States|Concord|MCNC|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|67.43.236.21|3217|Canada|Montreal|GloboTech Communications|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|152.26.231.94|9443|United States|Concord|MCNC|
 
 
 
