@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|4|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|5|139.84.144.243|3129|India|Bengaluru|The Constant Company, LLC|
-|6|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|7|43.229.254.221|8181|Indonesia|Bandung|PT. Media Antar Nusa|
-|8|103.26.110.37|84|India|Chennai|Niss Networks|
-|9|186.97.192.60|999|Colombia|Medellín|Colombia Móvil|
-|10|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|38.51.243.137|9991|Colombia|Túquerres|INTERCOMM DE NARIÑO SAS|
+|3|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|4|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|103.153.62.243|8181|Indonesia|Jakarta|IMEDIANET|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
+|8|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|9|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|186.97.192.60|999|Colombia|Medellín|Colombia Móvil|
+|11|38.41.27.150|11201|Venezuela|Caracas|MDS TELECOM C.A.|
+|12|115.127.19.163|9090|Bangladesh|Dhaka|BRACNet Limited|
 |13|152.26.229.86|9443|United States|Concord|MCNC|
 |14|152.26.231.42|9443|United States|Concord|MCNC|
-|15|67.43.228.253|24647|Canada|Montreal|GloboTech Communications|
+|15|152.26.229.42|9443|United States|Concord|MCNC|
 |16|152.26.231.86|9443|United States|Concord|MCNC|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|67.43.236.20|27837|Canada|Montreal|GloboTech Communications|
-|20|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|50.235.247.114|8085|United States|Wallingford|Comcast Cable Communications, LLC|
+|19|152.26.229.47|9443|United States|Concord|MCNC|
+|20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
 
