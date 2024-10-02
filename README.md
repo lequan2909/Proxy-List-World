@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
 |3|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|4|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|212.46.210.250|8080|Russia|Moscow|VympelKom broadband internet|
-|6|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
-|8|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|187.103.105.22|8999|Brazil|Blumenau|BR.Digital Provider|
-|10|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|212.46.210.250|8080|Russia|Moscow|VympelKom broadband internet|
+|9|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 |11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|12|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|14|103.25.110.222|8080|Indonesia|Banjar|PT. Indonesia Comnet Plus|
-|15|122.3.139.85|8181|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|18|152.26.231.42|9443|United States|Concord|MCNC|
-|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|152.26.229.93|9443|United States|Concord|MCNC|
+|12|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|13|190.211.250.139|999|Chile|Osorno|Compañia de Comunicaciones Coyhaique Ltda.|
+|14|31.129.253.30|40223|Ukraine|Izium|FOP Samoilenko Igor Olegovich|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|18|152.26.229.93|9443|United States|Concord|MCNC|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
 
 
 
