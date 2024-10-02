@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|13.212.166.142|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|103.81.220.192|8080|Indonesia|Bandung|STARNET|
 |3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|6|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|8.215.41.90|8080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|8|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|9|212.112.113.182|3128|Kyrgyzstan|Bishkek|AkNet|
-|10|186.115.202.103|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
-|11|161.34.40.33|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|14|116.80.60.151|3128|Japan|Tokyo|InfoSphere|
-|15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|72.10.160.90|25279|Canada|Montreal|GloboTech Communications|
-|19|174.138.171.162|35010|United States|Phoenix|Secured Servers LLC|
-|20|152.26.229.83|9443|United States|Concord|MCNC|
+|4|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|5|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|23.95.216.78|34561|United States|Marietta|HostPapa|
+|8|212.112.113.182|3128|Kyrgyzstan|Bishkek|AkNet|
+|9|109.86.182.203|3128|Ukraine|Kharkiv|Triolan|
+|10|41.174.132.58|8080|DR Congo|Kinshasa|Liquid Telecommunications Ltd|
+|11|147.75.34.93|9401|The Netherlands|Amsterdam|Packet Host, Inc.|
+|12|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|35.225.16.82|2387|United States|Council Bluffs|Google LLC|
+|14|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|210.79.146.98|8080|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|17|23.95.216.78|34561|United States|Marietta|HostPapa|
+|18|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 
 
 
