@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|103.139.126.31|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|6|139.255.94.123|39635|Indonesia|Jakarta|PT. LINKNET|
-|7|35.198.189.129|8080|Germany|Frankfurt|Google LLC|
-|8|103.239.255.36|58080|Bangladesh|Dhaka|Carnival Internet|
-|9|72.10.164.178|26855|Canada|Montreal|GloboTech Communications|
-|10|125.26.73.179|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
-|11|152.26.231.93|9443|United States|Concord|MCNC|
-|12|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|3|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|139.84.144.243|3129|India|Bengaluru|The Constant Company, LLC|
+|5|45.182.176.38|9947|Brazil|São Paulo|Evolucao Telecom Ltda|
+|6|62.74.173.146|8080|Greece|Athens|Vodafone-panafon Hellenic Telecommunications Company SA|
+|7|50.6.193.80|3128|United States|Jacksonville|Network Solutions, LLC|
+|8|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|50.6.193.80|3128|United States|Jacksonville|Network Solutions, LLC|
+|10|152.26.231.93|9443|United States|Concord|MCNC|
+|11|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|138.117.231.131|999|Guatemala|Huehuetenango|Fibernet S.A|
 |13|152.26.231.94|9443|United States|Concord|MCNC|
-|14|152.26.231.86|9443|United States|Concord|MCNC|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|67.43.236.20|27141|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.83|9443|United States|Concord|MCNC|
-|18|182.252.70.220|8082|Bangladesh|Kāfrul|Agni Systems Limited|
-|19|72.10.160.91|31281|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|24777|Canada|Montreal|GloboTech Communications|
+|14|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|67.43.227.227|8123|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|25845|Canada|Montreal|GloboTech Communications|
 
 
 
