@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|2|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|45.6.102.31|8080|Brazil|Rio de Janeiro|Golden Link|
-|4|203.150.128.159|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|74.103.66.15|80|United States|Sparrows Point|Verizon Business|
-|7|83.12.149.202|8080|Poland|Wojnowo|Orange Polska Spolka Akcyjna|
-|8|147.75.34.93|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|10|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|49.51.244.112|8888|United States|San Jose|OPHL|
-|12|82.180.146.42|3128|India|Mumbai|Contabo Asia Private Limited|
-|13|152.26.229.42|9443|United States|Concord|MCNC|
-|14|72.10.164.178|14485|Canada|Montreal|GloboTech Communications|
-|15|51.159.159.73|80|France|Paris|SCALEWAY|
-|16|148.72.140.24|10510|United States|St Louis|GoDaddy.com|
-|17|125.26.73.179|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
-|18|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|19|50.6.193.80|3128|United States|Jacksonville|Network Solutions, LLC|
-|20|51.158.173.222|3128|France|Paris|Online S.A.S.|
+|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|3|203.150.128.159|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|6|171.228.153.211|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
+|7|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|103.181.92.250|83|India|Pune|Vishwakarma Broadband Private Limited|
+|12|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|171.100.116.166|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|14|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|38.159.227.230|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|16|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
+|18|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|123.30.154.38|2008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
