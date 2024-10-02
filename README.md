@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|103.191.165.9|8080|Indonesia|Subang|PT Sakti Wijaya Network|
-|3|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|6|51.222.102.172|8080|Canada|Beauharnois|OVH SAS|
-|7|190.121.4.157|999|Chile|Osorno|Telefonica del Sur S.A.|
-|8|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|3|103.191.165.9|8080|Indonesia|Subang|PT Sakti Wijaya Network|
+|4|115.127.139.91|58080|Bangladesh|Paltan|BRACNet Limited|
+|5|94.68.245.147|8080|Greece|Marousi|OTEnet|
+|6|103.85.114.249|8080|Bangladesh|Dhaka|FiSSA communication|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|119.47.90.240|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
 |9|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|10|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|11|116.80.96.169|3128|Japan|Shimomeguro|InfoSphere|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|179.61.132.170|3128|Germany|Frankfurt am Main|ALEXANDRU VLAD trading as FREAKHOSTING|
+|10|116.80.96.169|3128|Japan|Shimomeguro|InfoSphere|
+|11|144.86.187.55|3129|United States|Malden|Charles River Operation|
+|12|188.132.222.24|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|152.26.229.42|9443|United States|Concord|MCNC|
 |14|152.26.229.46|9443|United States|Concord|MCNC|
-|15|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|72.10.164.178|11485|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|13001|Canada|Montreal|GloboTech Communications|
-|19|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|20|152.26.231.94|9443|United States|Concord|MCNC|
+|15|125.26.73.179|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|67.43.236.20|13555|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|72.10.160.172|5959|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
