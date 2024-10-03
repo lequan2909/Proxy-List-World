@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|206.84.201.101|999|Peru|Ventanilla|Cogent Communications|
-|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|8|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|37.46.135.225|3128|Russia|Irkutsk|JSC IOT|
-|10|103.200.17.10|8088|Indonesia|Central Java|PT Palapa Global Nusantara|
-|11|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|12|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|202.5.40.21|5020|Bangladesh|Chittagong|BBTS-NEW|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|3|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|4|203.150.128.191|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|5|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|116.80.93.37|3128|Japan|Shimomeguro|InfoSphere|
+|12|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|13|38.188.127.77|1111|Indonesia|Blitar|PT Data Buana Nusantara|
 |14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|203.150.128.191|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|67.43.227.227|23947|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|72.10.164.178|24191|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|15|152.26.229.42|9443|United States|Concord|MCNC|
+|16|125.26.73.179|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|72.10.160.172|7169|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|3075|Canada|Montreal|GloboTech Communications|
 
 
 
