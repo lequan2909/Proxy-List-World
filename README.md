@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.92.225|3128|Japan|Shimomeguro|InfoSphere|
-|2|116.80.93.37|3128|Japan|Shimomeguro|InfoSphere|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|23.95.216.78|34561|United States|Marietta|HostPapa|
-|5|203.150.113.99|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|61.19.145.66|8080|Thailand|Chiang Mai|CAT Telecom Public Company Limited|
-|8|45.81.144.45|8085|Iraq|Duhok|Fact LTD|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|116.80.92.225|3128|Japan|Shimomeguro|InfoSphere|
+|3|116.80.93.37|3128|Japan|Shimomeguro|InfoSphere|
+|4|203.150.113.99|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|5|23.95.216.78|34561|United States|Marietta|HostPapa|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|103.101.99.45|8080|Bangladesh|Daripāra|Pandora Technology|
 |9|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|23.95.216.78|34561|United States|Marietta|HostPapa|
-|13|103.123.120.121|8080|Indonesia|Jakarta|Sumber Utama Fiber Indonesia|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|147.75.34.93|80|The Netherlands|Amsterdam|Packet Host, Inc.|
-|17|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|18|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|19|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|10|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|23.95.216.78|34561|United States|Marietta|HostPapa|
+|12|45.81.144.45|8085|Iraq|Duhok|Fact LTD|
+|13|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|147.75.34.93|80|The Netherlands|Amsterdam|Packet Host, Inc.|
+|16|177.234.212.189|999|Ecuador|Quito|Ufinet Panama S.A.|
+|17|103.174.238.105|8090|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|116.80.92.225|3128|Japan|Shimomeguro|InfoSphere|
 
 
 
