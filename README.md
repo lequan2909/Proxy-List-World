@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|177.93.46.187|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|3|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |4|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|5|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|180.211.186.158|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|8|103.168.129.124|8080|Indonesia|Jakarta|LINTASARTA|
+|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|10|101.109.128.158|8080|Thailand|Bangkok|TOT Public Company Limited|
 |11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|101.109.128.158|8080|Thailand|Bangkok|TOT Public Company Limited|
-|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|14|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|12|177.234.247.234|999|Ecuador|Esmeraldas|Ufinet Panama S.A.|
+|13|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
 |15|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
 |17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|67.43.227.227|31995|Canada|Montreal|GloboTech Communications|
+|18|144.86.187.59|3129|United States|Malden|Charles River Operation|
 |19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|67.43.236.20|21167|Canada|Montreal|GloboTech Communications|
+|20|116.80.92.232|3128|Japan|Shimomeguro|InfoSphere|
 
 
 
