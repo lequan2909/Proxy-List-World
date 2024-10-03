@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|7|31.207.47.56|8118|The Netherlands|Amsterdam|Hostkey B.V.|
-|8|125.27.125.177|8080|Thailand|Pattaya|TOT Public Company Limited|
-|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|23.95.216.78|34561|United States|Marietta|HostPapa|
-|12|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|17|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|19|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|20|23.95.216.78|34561|United States|Marietta|HostPapa|
+|3|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|9|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|198.24.188.138|37100|United States|Ashburn|Secured Servers LLC|
+|11|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|212.112.113.182|3128|Kyrgyzstan|Bishkek|AkNet|
+|13|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|14|147.75.34.93|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|15|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|201.46.24.174|3128|Brazil|São Paulo|America-NET Ltda|
+|17|45.185.162.194|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|19|38.180.148.81|8080|Japan|Shibuya|M247 Europe SRL|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
