@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|103.125.38.50|8080|Indonesia|Surabaya|PT. Eka Mas Republik|
 |3|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|4|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|5|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|94.23.204.27|3128|France|Roubaix|OVH SAS|
 |6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
 |7|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|11|181.171.117.15|8080|Argentina|La Plata|Telecom Argentina S.A|
-|12|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|14|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|124.198.6.54|12362|South Korea|Incheon|HAIonNet|
-|16|23.95.216.78|34561|United States|Marietta|HostPapa|
+|8|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|203.150.128.191|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|11|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|12|191.102.248.2|8083|Argentina|Rosario|IP·RED|
+|13|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
+|14|203.150.128.231|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|19|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.229.47|9443|United States|Concord|MCNC|
 
 
 
