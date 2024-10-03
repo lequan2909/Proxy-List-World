@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|2|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|1|116.80.92.228|3128|Japan|Shimomeguro|InfoSphere|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|116.80.92.228|3128|Japan|Shimomeguro|InfoSphere|
+|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|8|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|9|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|7|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|23.95.216.78|34561|United States|Marietta|HostPapa|
+|11|104.168.107.28|8080|United States|Buffalo|HostPapa|
 |12|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|13|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|17|134.35.243.66|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|18|23.95.216.78|34561|United States|Marietta|HostPapa|
-|19|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|23.95.216.78|34561|United States|Marietta|HostPapa|
+|13|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|15|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|16|46.252.35.91|8080|Albania|Tirana|Vodafone Albania Sh.A.|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
+|19|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|124.198.6.54|12362|South Korea|Incheon|HAIonNet|
 
 
 
