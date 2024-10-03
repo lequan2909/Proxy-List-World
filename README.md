@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5428** proxies at the latest update. Usable proxies are below.
+> Scraper found **5355** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|170|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|873|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|800|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|353|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3074|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|200.39.120.43|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
-|8|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|103.99.27.3|8181|Indonesia|Tangerang|PT Lintas Network Solusi|
-|10|122.2.48.121|8080|Philippines|Ormoc City|Philippine Long Distance Telephone Co.|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|13|147.75.34.93|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|14|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|190.82.105.122|43949|Chile|La Cisterna|Telefonica Empresas|
+|7|212.112.113.182|3128|Kyrgyzstan|Bishkek|AkNet|
+|8|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|9|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|157.100.57.180|999|Ecuador|Juan Montalvo|Ufinet Panama S.A.|
+|11|147.75.34.93|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|12|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|103.152.93.158|7777|Indonesia|Demak|PT. JAYA LINTAS INDONESIA|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |15|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|17|23.95.216.78|34561|United States|Marietta|HostPapa|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
+|17|200.39.120.43|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|18|67.43.228.250|7809|Canada|Montreal|GloboTech Communications|
 |19|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|20|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|20|152.26.229.34|9443|United States|Concord|MCNC|
 
 
 
