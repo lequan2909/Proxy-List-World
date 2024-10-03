@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|5|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|9|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|11|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|13|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|14|31.207.47.56|8118|The Netherlands|Amsterdam|Hostkey B.V.|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|124.198.6.54|12362|South Korea|Incheon|HAIonNet|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|20|23.95.216.78|34561|United States|Marietta|HostPapa|
+|3|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|7|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|8|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|125.26.73.179|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
+|13|194.140.198.23|80|United States|Orangeburg|Nubes, LLC|
+|14|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
+|15|116.80.92.232|3128|Japan|Shimomeguro|InfoSphere|
+|16|152.26.229.46|9443|United States|Concord|MCNC|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|19|152.26.231.94|9443|United States|Concord|MCNC|
+|20|58.19.22.61|3128|China|Wuhan|CNC Group CHINA169 Hubei Province Network|
 
 
 
