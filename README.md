@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|139.84.144.27|3129|India|Bengaluru|The Constant Company, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|180.148.4.74|8080|Vietnam|Uyen Hung|VNTT|
-|5|23.95.216.78|34561|United States|Marietta|HostPapa|
-|6|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|7|84.244.119.36|23500|Czechia|Čerčany|BlueTone-CRa|
-|8|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|10|23.95.216.78|34561|United States|Marietta|HostPapa|
-|11|103.154.139.83|8080|Indonesia|Jakarta|MORATELINDONAP|
-|12|103.74.229.133|8080|Bangladesh|Kushtia|Windstream Communication Ltd|
-|13|147.75.34.93|9401|The Netherlands|Amsterdam|Packet Host, Inc.|
-|14|103.173.76.82|8080|Indonesia|Tangerang|PT. Fiber Networks Indonesia|
-|15|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|51.159.75.249|3128|France|Paris|SCALEWAY|
-|17|110.78.149.30|8080|Thailand|Chon Buri|CAT-BB|
-|18|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
-|19|200.54.22.74|8080|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|20|103.125.38.50|8080|Indonesia|Surabaya|PT. Eka Mas Republik|
+|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|110.78.149.30|8080|Thailand|Chon Buri|CAT-BB|
+|3|103.105.76.10|3125|Indonesia|Bojonegoro|GARUDA|
+|4|139.84.144.27|3129|India|Bengaluru|The Constant Company, LLC|
+|5|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|7|115.78.13.224|8080|Vietnam|Ho Chi Minh City|VIETELftth|
+|8|103.162.141.146|3128|Indonesia|Batam|PT Filltech Antar Nusa|
+|9|139.178.67.134|10089|United States|Parsippany|Packet Host, Inc.|
+|10|103.74.229.133|8080|Bangladesh|Kushtia|Windstream Communication Ltd|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|45.182.191.58|8080|Colombia|Tunja|TV AZTECA SUCURSAL COLOMBIA|
+|15|147.75.34.93|9401|The Netherlands|Amsterdam|Packet Host, Inc.|
+|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|17|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|18|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|19|103.158.27.88|1212|Indonesia|Sleman|PT Madina Solusi Indonesia|
+|20|51.159.75.249|3128|France|Paris|SCALEWAY|
 
 
 
