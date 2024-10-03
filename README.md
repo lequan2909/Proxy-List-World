@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5377** proxies at the latest update. Usable proxies are below.
+> Scraper found **5376** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|167|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|166|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|787|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|391|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|107.148.42.218|1234|United States|Los Angeles|PEG TECH INC|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|103.125.38.50|8080|Indonesia|Surabaya|PT. Eka Mas Republik|
-|8|23.95.216.78|34561|United States|Marietta|HostPapa|
-|9|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|11|147.75.34.93|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|12|103.190.113.114|8080|Indonesia|Grobogan|PT Linkbit Inovasi Teknologi|
-|13|103.105.76.49|8080|Indonesia|Bojonegoro|GARUDA|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|103.105.76.209|8080|Indonesia|Bojonegoro|GARUDA|
-|16|103.160.182.171|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|17|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|125.26.73.179|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
-|20|45.177.179.65|999|Mexico|San Luis Potosí City|Wantelco SAS de CV|
+|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|6|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|103.105.76.209|8080|Indonesia|Bojonegoro|GARUDA|
+|10|139.178.67.134|10089|United States|Parsippany|Packet Host, Inc.|
+|11|113.161.187.190|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|12|23.95.216.78|34561|United States|Marietta|HostPapa|
+|13|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|14|80.240.55.242|3128|Russia|Yeysk|inetnum UGTEL|
+|15|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|45.81.115.86|3128|Türkiye|Bursa|Pembe Gul Isguzar Karagoz|
+|18|191.97.96.208|8080|Argentina|General Roca|Vision NET|
+|19|210.16.92.0|58080|India|Pune|Shree Balaji Infoway Private Limited|
+|20|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
