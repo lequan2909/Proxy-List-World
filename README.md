@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|6|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|7|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|200.39.120.81|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
-|9|144.86.187.55|3129|United States|Malden|Charles River Operation|
-|10|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|13|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|118.67.134.17|80|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
-|15|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|125.26.73.179|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
-|20|200.106.236.142|3128|Honduras|Tegucigalpa|Metrored S.a. De C.V.|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|103.171.244.42|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|5|116.105.18.72|10002|Vietnam|Da Nang|Viettel Corporation|
+|6|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
+|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|23.95.216.78|34561|United States|Marietta|HostPapa|
+|10|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|147.75.34.93|9401|The Netherlands|Amsterdam|Packet Host, Inc.|
+|16|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|20|23.95.216.78|34561|United States|Marietta|HostPapa|
 
 
 
