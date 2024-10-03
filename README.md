@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.92.225|3128|Japan|Shimomeguro|InfoSphere|
-|3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|10|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|16|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|17|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|152.26.229.83|9443|United States|Concord|MCNC|
-|20|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|5|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|6|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|8|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|152.26.229.42|9443|United States|Concord|MCNC|
+|12|147.75.34.93|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|13|152.26.229.83|9443|United States|Concord|MCNC|
+|14|160.248.7.207|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|152.26.231.93|9443|United States|Concord|MCNC|
+|18|163.172.41.192|3128|France|Paris|Online S.A.S.|
+|19|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|20|152.26.229.34|9443|United States|Concord|MCNC|
 
 
 
