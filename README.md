@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|3|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|4|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|5|209.14.119.198|999|Colombia|Bogotá|AGIS|
+|3|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|4|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
 |6|147.75.34.93|9480|The Netherlands|Amsterdam|Packet Host, Inc.|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|195.25.20.155|3128|France|Paris|Orange Business Services|
-|9|77.41.146.20|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|12|116.80.93.37|3128|Japan|Shimomeguro|InfoSphere|
-|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|15|154.70.134.151|6969|South Africa|Vaalwater|HERO TELECOMS (PTY) LTD|
+|7|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|8|209.14.119.198|999|Colombia|Bogotá|AGIS|
+|9|200.106.124.248|999|Peru|Tacna|Telefonica del Peru|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|14|116.80.93.37|3128|Japan|Shimomeguro|InfoSphere|
+|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |16|152.26.229.83|9443|United States|Concord|MCNC|
-|17|152.26.231.94|9443|United States|Concord|MCNC|
-|18|152.26.231.42|9443|United States|Concord|MCNC|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|152.26.231.94|9443|United States|Concord|MCNC|
 |19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|116.80.92.228|3128|Japan|Shimomeguro|InfoSphere|
+|20|185.200.37.250|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
