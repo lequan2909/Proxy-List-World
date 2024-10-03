@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.60.140|3128|Japan|Tokyo|InfoSphere|
-|3|147.75.34.93|9480|The Netherlands|Amsterdam|Packet Host, Inc.|
-|4|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|178.170.122.55|3128|France|Courcouronnes|Ikoula Ripe|
+|3|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|178.170.122.55|3128|France|Courcouronnes|Ikoula Ripe|
+|5|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
 |6|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|103.122.65.109|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|103.122.66.220|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
-|14|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|67.43.227.226|21921|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|18|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|116.105.160.70|8080|Vietnam|Da Nang|Viettel Corporation|
-|20|23.95.216.78|34561|United States|Marietta|HostPapa|
+|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|8|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|16|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|61.129.2.212|8080|China|Beijing|CHINANET|
+|18|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|20|201.151.252.120|80|Mexico|Santa Rosa|Alestra, S. de R.L. de C.V.|
 
 
 
