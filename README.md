@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
 |4|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|5|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|173.249.60.246|14344|Germany|Nuremberg|Contabo GmbH|
-|7|45.177.179.65|999|Mexico|San Luis Potosí City|Wantelco SAS de CV|
+|5|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|6|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|7|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
 |8|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|10|45.174.57.26|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
-|11|103.171.182.229|8080|Indonesia|Bogor|PT Hayat Teknologi Informatika|
-|12|23.95.216.78|34561|United States|Marietta|HostPapa|
-|13|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
-|14|147.75.34.93|9401|The Netherlands|Amsterdam|Packet Host, Inc.|
-|15|190.121.145.115|999|Colombia|Sogamoso|Media Commerce Partners S.A|
-|16|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|148.230.180.141|8080|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|18|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|67.43.228.253|15207|Canada|Montreal|GloboTech Communications|
+|9|103.156.75.41|8181|Indonesia|Gianyar|PT Trika Global Media|
+|10|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|11|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|12|147.75.34.93|9401|The Netherlands|Amsterdam|Packet Host, Inc.|
+|13|27.64.58.8|32650|Vietnam|Ho Chi Minh City|Viettel Group|
+|14|23.95.216.78|34561|United States|Marietta|HostPapa|
+|15|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
+|19|190.121.145.115|999|Colombia|Sogamoso|Media Commerce Partners S.A|
 |20|23.95.216.78|34561|United States|Marietta|HostPapa|
 
 
