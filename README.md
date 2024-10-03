@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|116.109.110.34|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|1|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|116.80.92.225|3128|Japan|Shimomeguro|InfoSphere|
 |4|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|7|116.80.92.225|3128|Japan|Shimomeguro|InfoSphere|
-|8|116.98.76.238|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|12|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|13|195.25.20.155|3128|France|Paris|Orange Business Services|
-|14|115.74.129.77|1014|Vietnam|Ho Chi Minh City|VIETELxdsl|
-|15|147.75.34.93|9480|The Netherlands|Amsterdam|Packet Host, Inc.|
-|16|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|190.205.40.94|3128|Venezuela|Caracas|CANTV Servicios, Venezuela|
-|19|23.95.216.78|34561|United States|Marietta|HostPapa|
-|20|201.174.224.174|999|Mexico|Mexicali|Transtelco Inc|
+|5|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|6|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|13|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|17|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|45.10.53.177|1080|Russia|Moscow|JSC Mediasoft ekspert|
+|19|147.75.34.93|9480|The Netherlands|Amsterdam|Packet Host, Inc.|
+|20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
 
