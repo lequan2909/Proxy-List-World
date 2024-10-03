@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.47.28|3128|Japan|Tokyo|InfoSphere|
-|3|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|23.95.216.78|34561|United States|Marietta|HostPapa|
-|8|144.86.187.51|3129|United States|Malden|Charles River Operation|
-|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|144.86.187.61|3129|United States|Malden|Charles River Operation|
-|12|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|13|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|39.62.4.164|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
-|16|116.80.60.140|3128|Japan|Tokyo|InfoSphere|
-|17|152.26.229.34|9443|United States|Concord|MCNC|
+|3|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|11|190.60.36.78|8080|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
+|12|68.183.225.100|8888|Singapore|Singapore|DigitalOcean, LLC|
+|13|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
+|14|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|15|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|152.26.229.47|9443|United States|Concord|MCNC|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |18|152.26.231.42|9443|United States|Concord|MCNC|
-|19|68.183.225.100|8888|Singapore|Singapore|DigitalOcean, LLC|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|152.26.229.34|9443|United States|Concord|MCNC|
+|20|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
