@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|3|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|4|116.109.110.34|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|5|37.46.135.225|3128|Russia|Irkutsk|JSC IOT|
-|6|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|7|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|118.97.75.86|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|11|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|12|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|116.80.60.151|3128|Japan|Tokyo|InfoSphere|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|7|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|8|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|10|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|13|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
 |14|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|15|103.172.42.177|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|20|23.95.216.78|34561|United States|Marietta|HostPapa|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|17|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|36.93.22.154|8080|Indonesia|Keagungan|Telekomunikasi Indonesia|
+|19|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|20|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
 
 
 
