@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|6|190.82.105.122|43949|Chile|La Cisterna|Telefonica Empresas|
-|7|212.112.113.182|3128|Kyrgyzstan|Bishkek|AkNet|
-|8|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|9|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|157.100.57.180|999|Ecuador|Juan Montalvo|Ufinet Panama S.A.|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|103.156.248.45|8080|Indonesia|Medan|Trans Media Telekomunikasi|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|94.231.192.36|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|9|86.109.3.27|10002|United States|Chicago|Packet Host, Inc.|
+|10|144.86.187.49|3129|United States|Malden|Charles River Operation|
 |11|147.75.34.93|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|12|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|103.152.93.158|7777|Indonesia|Demak|PT. JAYA LINTAS INDONESIA|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
-|17|200.39.120.43|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
-|18|67.43.228.250|7809|Canada|Montreal|GloboTech Communications|
-|19|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|20|152.26.229.34|9443|United States|Concord|MCNC|
+|12|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|181.205.28.66|46380|Colombia|Medellín|Colombia Móvil|
+|15|185.30.144.222|8080|Albania|Tirana|Mobitel Shpk|
+|16|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
