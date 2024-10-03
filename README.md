@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|23.95.216.78|34561|United States|Marietta|HostPapa|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|101.51.164.228|8080|Thailand|Pattaya|TOT Public Company Limited|
-|6|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|144.86.187.49|3129|United States|Malden|Charles River Operation|
-|8|23.95.216.78|34561|United States|Marietta|HostPapa|
-|9|212.112.113.182|3128|Kyrgyzstan|Bishkek|AkNet|
-|10|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|23.95.216.78|34561|United States|Marietta|HostPapa|
+|4|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|42.3.187.52|8080|Hong Kong|Kwu Tung|Hong Kong Telecommunications (HKT) Limited Mass Internet|
+|8|119.92.188.29|8080|Philippines|West Rembo|Philippine Long Distance Telephone Co.|
+|9|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|177.93.16.66|8080|Costa Rica|San José|Telecable Economico S.A|
 |11|199.195.253.14|1080|United States|New York|FranTech Solutions|
 |12|147.75.34.93|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|13|102.223.27.226|8080|Equatorial Guinea|Malabo|Muni S.A|
-|14|84.254.0.86|32650|Greece|Athens|Tellas S.A|
-|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|16|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|17|116.80.92.228|3128|Japan|Shimomeguro|InfoSphere|
-|18|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
+|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|15|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|138.204.154.189|11201|Argentina|Oncativo|Cooperativa Electrica de Servicios y Obras Publicas de Oncativo Ltda.|
+|18|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
