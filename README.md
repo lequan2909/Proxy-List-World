@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|2|67.43.236.18|26873|Canada|Montreal|GloboTech Communications|
-|3|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|4|160.22.190.10|8080|Indonesia|Loakulu|PT Aldiyanur Mahakam Telemedia|
-|5|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
+|3|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|67.43.236.18|1853|Canada|Montreal|GloboTech Communications|
+|5|178.20.157.235|3128|Ukraine|Kyiv|Freehost UA|
 |6|116.80.92.225|3128|Japan|Shimomeguro|InfoSphere|
-|7|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|8|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|9|125.26.73.179|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
-|10|152.26.229.34|9443|United States|Concord|MCNC|
-|11|152.26.231.93|9443|United States|Concord|MCNC|
-|12|152.26.229.83|9443|United States|Concord|MCNC|
-|13|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|152.26.231.86|9443|United States|Concord|MCNC|
-|15|67.43.228.254|22309|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|19149|Canada|Montreal|GloboTech Communications|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|19|67.43.228.253|19149|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|26873|Canada|Montreal|GloboTech Communications|
+|7|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|8|191.242.224.185|3100|Brazil|Sorocaba|DIRECT LAN TELECOMUNICAÇÕES SOROCABA LTDA|
+|9|152.26.229.34|9443|United States|Concord|MCNC|
+|10|152.26.231.93|9443|United States|Concord|MCNC|
+|11|152.26.229.83|9443|United States|Concord|MCNC|
+|12|45.177.179.65|999|Mexico|San Luis Potosí City|Wantelco SAS de CV|
+|13|152.26.231.86|9443|United States|Concord|MCNC|
+|14|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
 
