@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|4|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|195.25.20.155|3128|France|Paris|Orange Business Services|
-|7|103.148.45.60|8833|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
-|10|147.75.34.93|9480|The Netherlands|Amsterdam|Packet Host, Inc.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|14|186.24.9.204|9898|Venezuela|Caracas|TELEFONICA VENEZOLANA, C.A.|
+|2|116.58.239.180|8080|Thailand|Dusit|CAT Telecom Public Company Limited|
+|3|182.253.232.196|8080|Indonesia|Jakarta|BIZNET|
+|4|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|171.228.144.243|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
+|7|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|8|131.0.234.194|55555|Argentina|Villa José León Suárez|MUSURIT|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|195.25.20.155|3128|France|Paris|Orange Business Services|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|147.75.34.93|9480|The Netherlands|Amsterdam|Packet Host, Inc.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|103.87.169.201|32650|India|Jaipur|Tejays Industries Pvt Ltd|
 |15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|182.253.232.196|8080|Indonesia|Jakarta|BIZNET|
-|17|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|103.87.169.201|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|19|171.238.237.206|5000|Vietnam|Tuyên Quang|Viettel Corporation|
-|20|152.26.229.47|9443|United States|Concord|MCNC|
+|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|18|23.95.216.78|34561|United States|Marietta|HostPapa|
+|19|152.26.229.47|9443|United States|Concord|MCNC|
+|20|152.26.229.34|9443|United States|Concord|MCNC|
 
 
 
