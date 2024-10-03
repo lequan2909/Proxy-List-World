@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|103.124.196.134|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|13|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|5.227.246.86|8424|Russia|Saratov|MTS-SRTV|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|17|195.25.20.155|3128|France|Paris|Orange Business Services|
-|18|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|3|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|5|23.95.216.78|34561|United States|Marietta|HostPapa|
+|6|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|12|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|17|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|152.26.229.34|9443|United States|Concord|MCNC|
+|20|152.26.231.93|9443|United States|Concord|MCNC|
 
 
 
