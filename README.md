@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |3|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
 |6|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
 |7|181.28.139.31|8080|Argentina|General Roca|Telecom Argentina S.A|
-|8|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|195.25.20.155|3128|France|Paris|Orange Business Services|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|14|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|16|41.242.44.9|8084|South Africa|Brits|Info-Gro (PTY) Ltd|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|19|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|20|24.172.82.94|53281|United States|Concord|Spectrum|
+|8|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|15|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|16|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|186.123.26.79|8080|Argentina|Villa Ballester|AMX Argentina S.A.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
