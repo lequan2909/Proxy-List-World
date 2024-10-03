@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|2|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
 |3|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|4|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|6|206.81.29.222|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|152.26.231.93|9443|United States|Concord|MCNC|
-|10|174.138.171.162|35749|United States|Phoenix|Secured Servers LLC|
-|11|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|152.26.229.93|9443|United States|Concord|MCNC|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|152.26.229.93|9443|United States|Concord|MCNC|
+|11|159.65.221.55|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
 |13|152.26.231.94|9443|United States|Concord|MCNC|
-|14|152.26.231.83|9443|United States|Concord|MCNC|
-|15|67.43.236.20|26569|Canada|Montreal|GloboTech Communications|
-|16|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|17|94.136.190.32|3128|India|Mumbai|Contabo GmbH|
-|18|72.10.164.178|20153|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|31377|Canada|Montreal|GloboTech Communications|
+|14|152.26.231.93|9443|United States|Concord|MCNC|
+|15|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|152.26.231.83|9443|United States|Concord|MCNC|
+|17|163.172.41.192|3128|France|Paris|Online S.A.S.|
+|18|95.216.205.32|8118|Finland|Helsinki|Hetzner Online GmbH|
+|19|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
 |20|116.80.60.151|3128|Japan|Tokyo|InfoSphere|
 
 
