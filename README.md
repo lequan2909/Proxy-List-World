@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|103.56.157.39|8080|Vietnam|Hanoi|VCCORP|
-|6|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|8|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|11|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|12|119.82.242.200|8080|Indonesia|Gedangan|Indonesia Network Information Center|
-|13|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|16|103.41.33.246|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|17|91.192.33.52|43801|Czechia|Chomutov|ISP Alliance a.s.|
-|18|152.26.231.93|9443|United States|Concord|MCNC|
-|19|152.26.229.86|9443|United States|Concord|MCNC|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|2|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|3|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|4|124.217.75.115|8181|Philippines|Arayat|Philippine Long Distance Telephone Co.|
+|5|95.216.205.32|8118|Finland|Helsinki|Hetzner Online GmbH|
+|6|174.138.171.162|36247|United States|Phoenix|Secured Servers LLC|
+|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|9|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
+|10|23.95.216.78|34561|United States|Marietta|HostPapa|
+|11|104.168.107.28|8080|United States|Buffalo|HostPapa|
+|12|174.138.171.162|36247|United States|Phoenix|Secured Servers LLC|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|15|27.147.159.221|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|16|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
+|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|103.159.194.121|8080|Indonesia|Temanjang|PT Giga Digital Nusantara|
 
 
 
