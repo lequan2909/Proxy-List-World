@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|116.80.92.232|3128|Japan|Shimomeguro|InfoSphere|
-|5|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|9|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|188.132.150.87|8080|Turkey|Gebze|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|14|103.83.198.169|8080|Indonesia|Serang|Dinas Komunikasi, Informatika, Statistik dan Persandian Provinsi Banten|
-|15|116.80.92.232|3128|Japan|Shimomeguro|InfoSphere|
-|16|72.10.160.174|31765|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.46|9443|United States|Concord|MCNC|
-|18|5.61.62.24|8118|United Kingdom|Failsworth|M247 Europe SRL|
-|19|104.129.194.99|8800|United States|Reston|ZSCALER, INC.|
-|20|152.26.229.47|9443|United States|Concord|MCNC|
+|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|23.95.216.78|34561|United States|Marietta|HostPapa|
+|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|9|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|10|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|5.42.78.122|3128|Sweden|Stockholm|Aeza International LTD|
+|14|168.227.40.71|9192|Brazil|Cabo de Santo Agostinho|Digitec Eletronica Ltda - ME|
+|15|147.75.34.93|80|The Netherlands|Amsterdam|Packet Host, Inc.|
+|16|36.93.140.183|8080|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|17|119.47.90.241|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|18|179.189.236.201|20183|Brazil|São Paulo|America-NET Ltda.|
+|19|116.80.92.232|3128|Japan|Shimomeguro|InfoSphere|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
