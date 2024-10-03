@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|23.95.216.78|34561|United States|Marietta|HostPapa|
-|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|147.75.34.93|80|The Netherlands|Amsterdam|Packet Host, Inc.|
-|10|50.6.193.80|3128|United States|Jacksonville|Network Solutions, LLC|
-|11|152.26.231.42|9443|United States|Concord|MCNC|
-|12|152.26.229.42|9443|United States|Concord|MCNC|
-|13|67.43.236.20|11947|Canada|Montreal|GloboTech Communications|
-|14|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|116.80.92.228|3128|Japan|Shimomeguro|InfoSphere|
-|17|67.43.236.18|32505|Canada|Montreal|GloboTech Communications|
-|18|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|19|152.26.229.46|9443|United States|Concord|MCNC|
-|20|67.43.228.253|16145|Canada|Montreal|GloboTech Communications|
+|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|47.88.17.136|18080|United States|Minkler|Alibaba.com LLC|
+|5|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|152.26.231.42|9443|United States|Concord|MCNC|
+|11|152.26.229.42|9443|United States|Concord|MCNC|
+|12|116.80.92.228|3128|Japan|Shimomeguro|InfoSphere|
+|13|67.43.236.18|32505|Canada|Montreal|GloboTech Communications|
+|14|152.26.229.46|9443|United States|Concord|MCNC|
+|15|72.10.164.178|10301|Canada|Montreal|GloboTech Communications|
+|16|139.84.144.27|3129|India|Bengaluru|The Constant Company, LLC|
+|17|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|18|144.86.187.39|3129|United States|Malden|Charles River Operation|
+|19|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|72.10.164.178|10301|Canada|Montreal|GloboTech Communications|
 
 
 
