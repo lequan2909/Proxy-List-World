@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|2|23.95.216.78|34561|United States|Marietta|HostPapa|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|23.95.216.78|34561|United States|Marietta|HostPapa|
-|8|195.25.20.155|3128|France|Paris|Orange Business Services|
-|9|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|10|124.198.6.54|12362|South Korea|Incheon|HAIonNet|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|125.26.73.179|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
-|16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|72.10.160.174|1553|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.173|13239|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|152.26.231.42|9443|United States|Concord|MCNC|
+|9|104.129.194.99|8800|United States|Reston|ZSCALER, INC.|
+|10|152.26.231.86|9443|United States|Concord|MCNC|
+|11|152.26.229.42|9443|United States|Concord|MCNC|
+|12|72.10.160.173|20871|Canada|Montreal|GloboTech Communications|
+|13|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|23.95.216.78|34561|United States|Marietta|HostPapa|
+|15|72.10.164.178|23271|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|23271|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|23271|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.93|9443|United States|Concord|MCNC|
+|19|124.198.6.54|12362|South Korea|Incheon|HAIonNet|
+|20|67.43.227.227|29651|Canada|Montreal|GloboTech Communications|
 
 
 
