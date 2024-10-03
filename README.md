@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|116.80.92.232|3128|Japan|Shimomeguro|InfoSphere|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|116.80.92.225|3128|Japan|Shimomeguro|InfoSphere|
-|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|23.95.216.78|34561|United States|Marietta|HostPapa|
-|7|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|9|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|45.231.170.137|999|Mexico|Juárez|GigNet, S.A. de C.V.|
-|11|110.77.171.46|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|12|190.107.237.26|999|Ecuador|Tulcán|CINECABLE TV|
-|13|61.7.191.209|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
-|14|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|23.95.216.78|34561|United States|Marietta|HostPapa|
-|16|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|116.80.92.232|3128|Japan|Shimomeguro|InfoSphere|
-|20|125.26.73.179|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|116.80.92.232|3128|Japan|Shimomeguro|InfoSphere|
+|5|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|9|116.80.92.232|3128|Japan|Shimomeguro|InfoSphere|
+|10|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|11|165.16.27.42|1981|Libya|Benghazi|Aljeel Aljadeed For Technology|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|86.109.3.27|10083|United States|Chicago|Packet Host, Inc.|
+|14|43.252.107.62|7777|Indonesia|Blitar|PT Lintas Data Prima|
+|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|19|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|67.43.236.20|8641|Canada|Montreal|GloboTech Communications|
 
 
 
