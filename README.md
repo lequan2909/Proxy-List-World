@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.60.151|3128|Japan|Tokyo|InfoSphere|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|45.10.53.177|1080|Russia|Moscow|JSC Mediasoft ekspert|
-|7|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|103.200.17.10|8088|Indonesia|Central Java|PT Palapa Global Nusantara|
-|13|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|14|45.10.53.177|1080|Russia|Moscow|JSC Mediasoft ekspert|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|116.80.60.151|3128|Japan|Tokyo|InfoSphere|
-|18|67.43.227.227|23195|Canada|Montreal|GloboTech Communications|
-|19|103.199.139.14|83|India|Pune|Syscon Infoway Pvt. Ltd.|
-|20|67.43.227.227|23195|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|116.80.60.151|3128|Japan|Tokyo|InfoSphere|
+|3|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
+|7|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|9|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|13|177.93.46.187|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|67.43.227.227|23195|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
