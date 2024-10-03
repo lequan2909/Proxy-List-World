@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|110.78.149.30|8080|Thailand|Chon Buri|CAT-BB|
-|3|103.105.76.10|3125|Indonesia|Bojonegoro|GARUDA|
-|4|139.84.144.27|3129|India|Bengaluru|The Constant Company, LLC|
-|5|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|7|115.78.13.224|8080|Vietnam|Ho Chi Minh City|VIETELftth|
-|8|103.162.141.146|3128|Indonesia|Batam|PT Filltech Antar Nusa|
-|9|139.178.67.134|10089|United States|Parsippany|Packet Host, Inc.|
-|10|103.74.229.133|8080|Bangladesh|Kushtia|Windstream Communication Ltd|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|13|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|45.182.191.58|8080|Colombia|Tunja|TV AZTECA SUCURSAL COLOMBIA|
-|15|147.75.34.93|9401|The Netherlands|Amsterdam|Packet Host, Inc.|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|4|144.86.187.60|3129|United States|Malden|Charles River Operation|
+|5|139.84.144.27|3129|India|Bengaluru|The Constant Company, LLC|
+|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|194.164.206.37|3128|United Kingdom|Farnham|NETKONECT|
+|9|148.72.140.24|10640|United States|St Louis|GoDaddy.com|
+|10|119.18.149.9|5020|Bangladesh|Chittagong|BBTS Network|
+|11|103.69.20.54|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|12|115.78.13.224|8080|Vietnam|Ho Chi Minh City|VIETELftth|
+|13|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|14|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|148.72.140.24|10640|United States|St Louis|GoDaddy.com|
+|16|147.75.34.93|9401|The Netherlands|Amsterdam|Packet Host, Inc.|
+|17|36.93.3.31|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
 |18|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|19|103.158.27.88|1212|Indonesia|Sleman|PT Madina Solusi Indonesia|
-|20|51.159.75.249|3128|France|Paris|SCALEWAY|
+|19|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
