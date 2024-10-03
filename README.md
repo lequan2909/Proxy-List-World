@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|147.75.34.93|80|The Netherlands|Amsterdam|Packet Host, Inc.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|23.95.216.78|34561|United States|Marietta|HostPapa|
-|5|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|23.95.216.78|34561|United States|Marietta|HostPapa|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|152.26.231.86|9443|United States|Concord|MCNC|
-|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|14|152.26.231.83|9443|United States|Concord|MCNC|
-|15|152.26.231.94|9443|United States|Concord|MCNC|
-|16|103.56.157.39|8080|Vietnam|Hanoi|VCCORP|
-|17|67.43.236.20|19007|Canada|Montreal|GloboTech Communications|
-|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|152.26.229.83|9443|United States|Concord|MCNC|
+|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|3|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|147.75.34.93|80|The Netherlands|Amsterdam|Packet Host, Inc.|
+|6|196.15.176.2|8080|South Africa|Tshitereke|Telkom SA Ltd|
+|7|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|13|77.242.30.9|8088|Albania|Tirana|Abissnet ISP|
+|14|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|15|103.156.16.227|8080|Indonesia|Jakarta|RSTNET|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|23.95.216.78|34561|United States|Marietta|HostPapa|
 
 
 
