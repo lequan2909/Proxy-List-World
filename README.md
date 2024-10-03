@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|3|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|179.61.132.170|3128|Germany|Frankfurt am Main|ALEXANDRU VLAD trading as FREAKHOSTING|
-|7|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|9|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|11|103.168.44.18|8080|Indonesia|Jakarta|PT CYB Media Group|
-|12|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|13|171.234.158.176|1001|Vietnam|Nam Định|Viettel Corporation|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|17|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|116.80.92.232|3128|Japan|Shimomeguro|InfoSphere|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|4|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|7|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|11|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|157.15.63.164|8085|Indonesia|Malang|PT Anugerah Media Data Nusantara|
+|13|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|14|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|23.95.216.78|34561|United States|Marietta|HostPapa|
+|17|36.88.111.98|55443|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|18|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|19|36.94.47.59|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
