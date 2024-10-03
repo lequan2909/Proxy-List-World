@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|394|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|394|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|394|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|8|125.26.73.179|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
-|9|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|12|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|23.95.216.78|34561|United States|Marietta|HostPapa|
-|14|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|144.86.187.42|3129|United States|Malden|Charles River Operation|
-|16|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|107.148.42.218|1234|United States|Los Angeles|PEG TECH INC|
-|18|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|19|144.86.187.45|3129|United States|Malden|Charles River Operation|
-|20|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|9|171.235.149.110|1007|Vietnam|Thu Dau Mot|Viettel Corporation|
+|10|180.56.193.13|8080|Japan|Roppongi|NTT Communications Corporation|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|77.237.242.119|8000|Germany|Düsseldorf|Contabo GmbH|
+|13|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|14|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|16|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
+|17|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
+|18|45.81.115.86|3128|Türkiye|Bursa|Pembe Gul Isguzar Karagoz|
+|19|23.95.216.78|34561|United States|Marietta|HostPapa|
+|20|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
