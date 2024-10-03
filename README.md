@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.60.151|3128|Japan|Tokyo|InfoSphere|
-|3|177.234.247.234|999|Ecuador|Esmeraldas|Ufinet Panama S.A.|
-|4|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|5|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|6|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|113.192.31.5|1111|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|9|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|10|116.98.76.238|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|11|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|14|116.109.110.34|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|17|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|67.43.236.20|21167|Canada|Montreal|GloboTech Communications|
-|20|198.24.188.138|36750|United States|Ashburn|Secured Servers LLC|
+|2|101.109.128.158|8080|Thailand|Bangkok|TOT Public Company Limited|
+|3|103.168.129.124|8080|Indonesia|Jakarta|LINTASARTA|
+|4|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|10|152.26.229.34|9443|United States|Concord|MCNC|
+|11|152.26.229.86|9443|United States|Concord|MCNC|
+|12|67.43.236.20|21167|Canada|Montreal|GloboTech Communications|
+|13|152.26.229.46|9443|United States|Concord|MCNC|
+|14|152.26.231.86|9443|United States|Concord|MCNC|
+|15|152.26.229.83|9443|United States|Concord|MCNC|
+|16|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|17|72.10.164.178|10003|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|21167|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|27.124.93.197|8080|Indonesia|Pamulang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
 
 
 
