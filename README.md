@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|180.56.193.13|8080|Japan|Roppongi|NTT Communications Corporation|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|6|37.46.135.225|3128|Russia|Irkutsk|JSC IOT|
-|7|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|9|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|11|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|12|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|6|77.237.242.119|8000|Germany|Düsseldorf|Contabo GmbH|
+|7|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|10|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|12|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|23.95.216.78|34561|United States|Marietta|HostPapa|
 |14|23.95.216.78|34561|United States|Marietta|HostPapa|
-|15|103.147.246.185|3127|Indonesia|Tangerang|PLBNET|
-|16|114.7.160.142|8080|Indonesia|Tangerang|PT. INDOSAT Tbk|
-|17|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|103.156.15.104|1111|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|19|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|103.172.70.28|1111|Indonesia|Gemolong|AZNET|
+|15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|16|103.105.76.10|3125|Indonesia|Bojonegoro|GARUDA|
+|17|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|19|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|20|147.75.34.93|9443|The Netherlands|Amsterdam|Packet Host, Inc.|
 
 
 
