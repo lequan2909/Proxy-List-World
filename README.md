@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|3|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
-|7|103.144.146.49|8080|Indonesia|Tulungagung|Lexxa Data|
-|8|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|10|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|152.26.229.47|9443|United States|Concord|MCNC|
-|15|152.26.229.83|9443|United States|Concord|MCNC|
-|16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|51.159.159.73|80|France|Paris|SCALEWAY|
-|18|67.43.227.227|11575|Canada|Montreal|GloboTech Communications|
-|19|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|72.10.160.173|5335|Canada|Montreal|GloboTech Communications|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|4|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|5|67.43.227.229|16401|Canada|Montreal|GloboTech Communications|
+|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|23.95.216.78|34561|United States|Marietta|HostPapa|
+|8|103.156.15.249|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|9|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|24.172.82.94|53281|United States|Concord|Spectrum|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|23.95.216.78|34561|United States|Marietta|HostPapa|
+|13|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|16|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|160.248.92.13|3128|Japan|Tokiwa|NTT PC Communications, Inc.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
 
 
 
