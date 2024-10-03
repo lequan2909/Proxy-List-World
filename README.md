@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.92.228|3128|Japan|Shimomeguro|InfoSphere|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|7|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|5|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |8|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|104.168.107.28|8080|United States|Buffalo|HostPapa|
-|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|9|23.95.216.78|34561|United States|Marietta|HostPapa|
+|10|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
 |11|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|13|181.78.17.70|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|14|23.95.216.78|34561|United States|Marietta|HostPapa|
-|15|147.75.34.93|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|16|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|45.10.53.177|1081|Russia|Moscow|JSC Mediasoft ekspert|
-|20|152.26.229.34|9443|United States|Concord|MCNC|
+|12|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|204.199.81.94|999|Colombia|Santiago de Cali|CTL Colombia|
+|14|103.124.136.59|999|Indonesia|Kartasura|Global Media Data Prima|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|45.10.53.177|1080|Russia|Moscow|JSC Mediasoft ekspert|
+|17|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
