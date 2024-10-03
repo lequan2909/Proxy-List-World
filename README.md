@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|116.80.93.37|3128|Japan|Shimomeguro|InfoSphere|
 |2|116.80.92.225|3128|Japan|Shimomeguro|InfoSphere|
-|3|116.80.93.37|3128|Japan|Shimomeguro|InfoSphere|
-|4|61.7.191.209|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
-|5|23.95.216.78|34561|United States|Marietta|HostPapa|
-|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|9|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|23.95.216.78|34561|United States|Marietta|HostPapa|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|43.243.141.12|8080|Indonesia|Pisangan|CEPATNET|
-|14|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|17|147.75.34.93|80|The Netherlands|Amsterdam|Packet Host, Inc.|
-|18|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|103.56.205.84|8080|Indonesia|Jakarta|Argon Data Communication|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|61.7.191.209|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
+|4|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|23.19.73.223|3128|United States|Los Angeles|Leaseweb USA, Inc.|
+|7|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|8|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|203.150.113.99|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|10|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
+|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|202.154.36.211|8080|Indonesia|Surabaya|RADNET-BDG|
+|14|23.95.216.78|34561|United States|Marietta|HostPapa|
+|15|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|147.75.34.93|80|The Netherlands|Amsterdam|Packet Host, Inc.|
+|17|23.95.216.78|34561|United States|Marietta|HostPapa|
+|18|116.0.53.34|8080|Pakistan|Karachi|Supernet|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|23.95.216.78|34561|United States|Marietta|HostPapa|
 
 
 
