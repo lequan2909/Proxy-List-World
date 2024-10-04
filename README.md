@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.82.126.34|1111|Indonesia|Tangerang|PT.PLATINUM CITRA INDONESIA|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |5|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|6|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|103.191.218.75|8080|Indonesia|Kuningan Barat|PT Replay Inti Media|
-|8|103.247.21.225|2024|Indonesia|Bekasi|PT wifian Solution|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|11|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|14|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|152.26.229.46|9443|United States|Concord|MCNC|
-|17|152.26.231.42|9443|United States|Concord|MCNC|
-|18|152.26.229.34|9443|United States|Concord|MCNC|
-|19|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|103.172.196.138|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|15|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|16|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|152.26.229.46|9443|United States|Concord|MCNC|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|152.26.229.34|9443|United States|Concord|MCNC|
 |20|152.26.231.93|9443|United States|Concord|MCNC|
 
 
