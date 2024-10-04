@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.47.27|3128|Japan|Tokyo|InfoSphere|
-|3|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|116.80.47.27|3128|Japan|Tokyo|InfoSphere|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |5|116.80.96.168|3128|Japan|Shimomeguro|InfoSphere|
-|6|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|9|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|11|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|17|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|121.101.131.67|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|19|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|88.255.106.27|8080|Türkiye|Istanbul|TurkTelekom|
+|6|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|7|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|14|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|18|37.46.135.225|3128|Russia|Irkutsk|JSC IOT|
+|19|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|163.172.33.137|4005|France|Vitry-sur-Seine|Online S.A.S.|
 
 
 
