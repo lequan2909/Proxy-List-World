@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|3|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|195.25.20.155|3128|France|Paris|Orange Business Services|
-|5|103.106.219.114|1080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|3|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|103.173.142.107|8090|Indonesia|Kota Pekalongan|PT Lestari Exellika Barokah|
 |6|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|38.52.220.171|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|9|103.165.208.222|8080|Indonesia|Malang|PT iForte Global Internet|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|15|152.26.231.94|9443|United States|Concord|MCNC|
+|7|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|10|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|11|116.80.96.168|3128|Japan|Shimomeguro|InfoSphere|
+|12|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|152.26.231.94|9443|United States|Concord|MCNC|
+|15|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
 |16|152.26.229.47|9443|United States|Concord|MCNC|
-|17|67.43.228.252|28747|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|2475|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.34|9443|United States|Concord|MCNC|
-|20|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|72.10.164.178|19541|Canada|Montreal|GloboTech Communications|
 
 
 
