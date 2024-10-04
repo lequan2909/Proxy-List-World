@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5365** proxies at the latest update. Usable proxies are below.
+> Scraper found **5434** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|184|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|589|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|658|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|330|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3304|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|5|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
-|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|223.25.110.185|8080|Indonesia|Surabaya|SinergiNet|
-|10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|178.20.157.235|3128|Ukraine|Kyiv|Freehost UA|
-|12|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
-|14|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|38.183.146.189|8181|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|20|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|7|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|8|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|174.138.171.163|38400|United States|Phoenix|Secured Servers LLC|
+|14|195.25.20.155|3128|France|Paris|Orange Business Services|
+|15|163.172.33.137|4005|France|Vitry-sur-Seine|Online S.A.S.|
+|16|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|17|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|174.138.171.164|9000|United States|Phoenix|Secured Servers LLC|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|174.138.171.163|38400|United States|Phoenix|Secured Servers LLC|
 
 
 
