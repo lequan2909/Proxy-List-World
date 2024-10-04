@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.98.8|3128|Japan|Shimomeguro|InfoSphere|
-|3|116.80.88.147|3128|Japan|Shimomeguro|InfoSphere|
-|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|5|116.80.88.154|3128|Japan|Shimomeguro|InfoSphere|
-|6|116.80.78.28|3128|Japan|Shimomeguro|InfoSphere|
-|7|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|8|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|9|116.80.48.146|3128|Japan|Tokyo|InfoSphere|
-|10|34.97.36.34|8561|Japan|Osaka|Google LLC|
-|11|116.80.48.207|3128|Japan|Tokyo|InfoSphere|
-|12|34.97.46.219|8561|Japan|Osaka|Google LLC|
-|13|34.97.47.210|8561|Japan|Osaka|Google LLC|
-|14|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|16|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|102.215.76.146|8080|Kenya|Nairobi|Icon Fiber Solutions ltd v4|
-|18|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|19|103.124.196.218|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|20|195.25.20.155|3128|France|Paris|Orange Business Services|
+|1|116.80.98.8|3128|Japan|Shimomeguro|InfoSphere|
+|2|116.80.88.147|3128|Japan|Shimomeguro|InfoSphere|
+|3|116.80.88.154|3128|Japan|Shimomeguro|InfoSphere|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|116.80.78.28|3128|Japan|Shimomeguro|InfoSphere|
+|6|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|7|116.80.48.207|3128|Japan|Tokyo|InfoSphere|
+|8|116.80.48.146|3128|Japan|Tokyo|InfoSphere|
+|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|12|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|13|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|195.25.20.155|3128|France|Paris|Orange Business Services|
+|15|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|34.97.36.34|8561|Japan|Osaka|Google LLC|
+|18|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|20|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 
 
 
