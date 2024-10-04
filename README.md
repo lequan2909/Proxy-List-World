@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|116.80.48.146|3128|Japan|Tokyo|InfoSphere|
 |4|116.80.99.164|3128|Japan|Shimomeguro|InfoSphere|
 |5|116.80.99.168|3128|Japan|Shimomeguro|InfoSphere|
-|6|116.80.70.233|3128|Japan|Shimomeguro|InfoSphere|
-|7|119.76.142.202|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
+|6|119.76.142.202|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
+|7|116.80.70.233|3128|Japan|Shimomeguro|InfoSphere|
 |8|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|9|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |10|18.230.231.135|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|116.80.98.8|3128|Japan|Shimomeguro|InfoSphere|
-|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|13|116.111.99.228|5103|Vietnam|Hanoi|Viettel Corporation|
+|14|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
 |15|116.80.60.140|3128|Japan|Tokyo|InfoSphere|
-|16|194.44.166.182|8099|Ukraine|Rivne|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
-|17|103.168.44.86|3127|Indonesia|Jakarta|PT CYB Media Group|
-|18|198.24.188.138|37100|United States|Ashburn|Secured Servers LLC|
-|19|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|20|159.203.104.153|4200|United States|Clifton|DigitalOcean, LLC|
+|16|116.80.98.8|3128|Japan|Shimomeguro|InfoSphere|
+|17|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|20|34.97.36.34|8561|Japan|Osaka|Google LLC|
 
 
 
