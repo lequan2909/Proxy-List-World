@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|5|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|6|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|192.99.169.19|8450|Canada|Beauharnois|OVH SAS|
+|5|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|190.8.164.55|999|Venezuela|Maiquetía|CORPORACION FIBEX TELECOM, C.A.|
 |7|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|103.76.149.198|8082|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|12|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|14|177.70.174.103|8080|Brazil|Entre Rios|infotec- serviços de provedor da internet ltda|
-|15|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|45.70.202.161|999|Ecuador|Quito|Ufinet Panama S.A.|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|103.125.19.36|8080|Indonesia|Tangerang|JAVAMEDIA|
+|12|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|182.160.109.162|8080|Bangladesh|Dhaka|Aamra Networks Limited|
+|14|1.32.59.217|47045|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|15|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|41.139.233.5|8080|Kenya|Nairobi|Converged services Coast|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|124.122.1.23|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
 
 
 
