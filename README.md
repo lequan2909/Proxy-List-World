@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|45.71.3.51|999|Ecuador|La Troncal|Sysnovelltel S.A|
-|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|116.80.47.28|3128|Japan|Tokyo|InfoSphere|
-|14|67.43.236.22|26691|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|31115|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.91|31907|Canada|Montreal|GloboTech Communications|
-|17|152.26.231.83|9443|United States|Concord|MCNC|
-|18|67.43.228.250|21751|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.86|9443|United States|Concord|MCNC|
-|20|152.26.229.34|9443|United States|Concord|MCNC|
+|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|116.80.47.28|3128|Japan|Tokyo|InfoSphere|
+|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|13|152.26.231.83|9443|United States|Concord|MCNC|
+|14|152.26.231.86|9443|United States|Concord|MCNC|
+|15|67.43.228.250|10211|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|29979|Canada|Montreal|GloboTech Communications|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|67.43.236.22|26691|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.47|9443|United States|Concord|MCNC|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
