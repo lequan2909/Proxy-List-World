@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|451|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|451|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|451|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.48.140|3128|Japan|Tokyo|InfoSphere|
-|3|116.80.69.234|3128|Japan|Shimomeguro|InfoSphere|
-|4|116.80.48.163|3128|Japan|Tokyo|InfoSphere|
-|5|125.26.59.104|8080|Thailand|Ban Talat Bueng|TOT Public Company Limited|
-|6|116.80.88.34|3128|Japan|Shimomeguro|InfoSphere|
-|7|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|8|103.56.157.39|8080|Vietnam|Hanoi|VCCORP|
+|2|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
+|3|34.97.46.219|8561|Japan|Osaka|Google LLC|
+|4|116.80.69.234|3128|Japan|Shimomeguro|InfoSphere|
+|5|116.80.48.140|3128|Japan|Tokyo|InfoSphere|
+|6|116.80.48.163|3128|Japan|Tokyo|InfoSphere|
+|7|125.26.59.104|8080|Thailand|Ban Talat Bueng|TOT Public Company Limited|
+|8|116.80.88.34|3128|Japan|Shimomeguro|InfoSphere|
 |9|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |13|195.25.20.155|3128|France|Paris|Orange Business Services|
-|14|117.1.83.125|5102|Vietnam|Hanoi|Viettel Corporation|
-|15|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|103.69.20.56|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|19|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|20|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
+|14|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|15|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|34.97.36.34|8561|Japan|Osaka|Google LLC|
+|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|34.97.42.111|8561|Japan|Osaka|Google LLC|
+|19|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
 
 
 
