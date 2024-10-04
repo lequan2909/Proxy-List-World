@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|171.238.237.206|5000|Vietnam|Tuyên Quang|Viettel Corporation|
-|5|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|8|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|10|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|11|146.196.41.141|8080|Indonesia|Karawang|UNINA|
-|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|13|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|27.64.58.8|32650|Vietnam|Ho Chi Minh City|Viettel Group|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|38.156.73.204|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|4|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|11|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|12|27.147.139.241|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|13|121.101.133.81|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|14|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|15|138.59.151.162|8080|Brazil|Porto Feliz|Wireless Comm Services LTDA|
+|16|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|19|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|190.94.251.210|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
 
 
 
