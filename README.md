@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.96.170|3128|Japan|Shimomeguro|InfoSphere|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|171.224.25.167|5102|Vietnam|Hanoi|Viettel Corporation|
-|5|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|117.6.55.196|5101|Vietnam|Hanoi|Viettel Corporation|
-|8|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
-|9|171.247.177.79|5104|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|2|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|3|116.80.96.170|3128|Japan|Shimomeguro|InfoSphere|
+|4|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|5|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|103.148.28.218|3125|Indonesia|Sigi|DEWATA|
-|16|77.237.243.41|8000|Germany|Düsseldorf|Contabo GmbH|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|72.10.160.90|23247|Canada|Montreal|GloboTech Communications|
-|19|152.26.231.83|9443|United States|Concord|MCNC|
-|20|152.26.231.94|9443|United States|Concord|MCNC|
+|12|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|182.23.127.2|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|14|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|27.123.1.46|3128|Indonesia|Bekasi|PT Tele Globe Global|
+|16|103.167.170.149|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|19|87.251.66.42|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
+|20|189.124.85.225|7171|Brazil|Presidente Venceslau|FIT Telecom Eireli|
 
 
 
