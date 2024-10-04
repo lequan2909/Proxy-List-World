@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|171.229.233.179|5103|Vietnam|Hanoi|Viettel Corporation|
-|4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|5|103.56.157.39|8080|Vietnam|Hanoi|VCCORP|
-|6|91.243.194.0|3128|Ukraine|Dnipro|Traditional LLC|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|103.113.149.245|6969|Bangladesh|Nayāpur|DigiCon Telecommunication Ltd|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|116.104.174.128|5000|Vietnam|Hanoi|Viettel Corporation|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|116.99.45.122|5103|Vietnam|Hanoi|Viettel Corporation|
-|13|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|5.42.78.122|3128|Sweden|Stockholm|Aeza International LTD|
-|15|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|16|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|34.97.47.210|8561|Japan|Osaka|Google LLC|
+|2|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|3|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|4|103.56.157.39|8080|Vietnam|Hanoi|VCCORP|
+|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|8|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|11|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|212.108.53.83|8080|Austria|Pressbaum|MMC GmbH|
+|17|34.97.42.111|8561|Japan|Osaka|Google LLC|
+|18|34.97.47.210|8561|Japan|Osaka|Google LLC|
+|19|116.80.48.141|3128|Japan|Tokyo|InfoSphere|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
