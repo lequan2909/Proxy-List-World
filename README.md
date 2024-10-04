@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |2|182.52.137.153|8080|Thailand|Bangkok|TOT Public Company Limited|
-|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|5|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|5|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |7|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|45.133.107.10|81|Russia|Tul'skiy|Art-net LLC|
-|9|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|212.252.66.209|8080|Turkey|Kuşcuburun|HEPONLINEELEKTRONIK|
-|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|14|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|103.169.133.22|8085|Indonesia|Majalengka|PT Alfa Omega Interkoneksi|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|27.147.139.241|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|19|114.129.19.139|8080|Indonesia|Banjar Medura|PT Hipernet Indodata|
-|20|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|223.135.156.183|8080|Japan|Tokyo|So-net Corporation|
+|10|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|12|103.171.240.174|8080|Indonesia|Jatiasih|PT Abs Multimedia Indonesia|
+|13|103.77.206.34|80|Indonesia|Makassar|GLOBALMANDIRI|
+|14|200.92.201.126|999|Mexico|San Felipe|Mega Cable, S.A. de C.V.|
+|15|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
+|18|67.43.228.250|23677|Canada|Montreal|GloboTech Communications|
+|19|125.26.73.179|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
+|20|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
 
 
 
