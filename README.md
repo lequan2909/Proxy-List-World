@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|27.66.127.196|5102|Vietnam|Hanoi|Viettel Group|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |5|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|116.104.128.233|5000|Vietnam|Hanoi|Viettel Corporation|
-|11|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|14|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|15|72.10.160.170|29335|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.46|9443|United States|Concord|MCNC|
-|17|152.26.229.86|9443|United States|Concord|MCNC|
-|18|152.26.229.34|9443|United States|Concord|MCNC|
-|19|67.43.228.254|27321|Canada|Montreal|GloboTech Communications|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|188.132.150.164|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|8|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|91.205.69.126|8080|Bosnia and Herzegovina|Gradačac|Telesat d.o.o.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|152.26.229.86|9443|United States|Concord|MCNC|
+|15|116.80.60.140|3128|Japan|Tokyo|InfoSphere|
+|16|152.26.229.34|9443|United States|Concord|MCNC|
+|17|152.26.229.46|9443|United States|Concord|MCNC|
+|18|72.10.160.170|29335|Canada|Montreal|GloboTech Communications|
+|19|152.26.231.94|9443|United States|Concord|MCNC|
+|20|67.43.236.20|24587|Canada|Montreal|GloboTech Communications|
 
 
 
