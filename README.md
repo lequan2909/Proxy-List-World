@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|4|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|2|103.191.165.23|8080|Indonesia|Subang|PT Sakti Wijaya Network|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|187.188.172.14|8080|Mexico|Puebla City|Total Play Telecomunicaciones SA De CV|
 |6|178.48.68.61|18080|Hungary|Budapest|UPC|
-|7|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|8|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|11|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|12|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|116.80.47.23|3128|Japan|Tokyo|InfoSphere|
-|19|118.70.12.171|53281|Vietnam|Hanoi|FPT Telecom Company|
+|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|8|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|36.67.8.169|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|14|189.201.153.89|999|Mexico|Tuxtla Gutiérrez|IP Matrix, S.A. de C.V.|
+|15|116.80.47.23|3128|Japan|Tokyo|InfoSphere|
+|16|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
 |20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
