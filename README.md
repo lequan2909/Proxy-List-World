@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.96.170|3128|Japan|Shimomeguro|InfoSphere|
-|2|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|3|119.13.77.25|39904|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|4|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|116.80.96.170|3128|Japan|Shimomeguro|InfoSphere|
+|3|195.25.20.155|3128|France|Paris|Orange Business Services|
+|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
 |6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|178.48.68.61|18080|Hungary|Budapest|UPC|
-|9|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|103.149.194.222|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
-|13|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|195.25.20.155|3128|France|Paris|Orange Business Services|
-|15|195.138.73.54|44017|Ukraine|Odesa|TeNeT Networking Centre|
-|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|17|45.71.186.183|999|Ecuador|Quevedo|Ufinet Panama S.A.|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|103.130.167.48|8090|Indonesia|Surabaya|PT. Eka Mas Republik|
+|9|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
+|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|11|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|116.80.92.225|3128|Japan|Shimomeguro|InfoSphere|
+|18|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|152.26.229.47|9443|United States|Concord|MCNC|
 
 
 
