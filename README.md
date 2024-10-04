@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|4|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|62.201.217.194|8080|Iraq|Sulaymaniyah|BAG|
-|10|114.9.52.98|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|11|152.26.229.42|9443|United States|Concord|MCNC|
-|12|152.26.229.34|9443|United States|Concord|MCNC|
-|13|152.26.229.86|9443|United States|Concord|MCNC|
-|14|72.10.164.178|3045|Canada|Montreal|GloboTech Communications|
-|15|94.237.115.5|5555|Finland|Helsinki|UpCloud Ltd|
-|16|94.237.39.48|5555|Finland|Helsinki|UpCloud Ltd|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|103.178.194.190|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|223.205.86.24|8080|Thailand|Ko Samui|Triple T Broadband Public Company Limited|
+|9|103.48.68.67|83|India|Hyderabad|Country Online Services PVT LTD|
+|10|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|11|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|12|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
+|15|152.26.229.34|9443|United States|Concord|MCNC|
+|16|103.247.12.18|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
 |17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|152.26.231.83|9443|United States|Concord|MCNC|
-|19|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
-|20|101.128.93.144|8090|Indonesia|Jakarta|CBN|
+|18|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
