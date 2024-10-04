@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.47.23|3128|Japan|Tokyo|InfoSphere|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|5|116.80.60.125|3128|Japan|Tokyo|InfoSphere|
-|6|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|10|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|103.147.134.238|1111|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
-|13|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|17|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|18|190.8.164.55|999|Venezuela|Maiquetía|CORPORACION FIBEX TELECOM, C.A.|
-|19|103.153.63.174|3125|Indonesia|Bekasi|IMEDIANET|
-|20|84.247.152.41|8000|Japan|Tokyo|Contabo GmbH|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|116.80.60.125|3128|Japan|Tokyo|InfoSphere|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|8|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|9|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|10|45.10.53.177|1081|Russia|Moscow|JSC Mediasoft ekspert|
+|11|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|13|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|14|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|18|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|19|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
