@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.96.168|3128|Japan|Shimomeguro|InfoSphere|
-|3|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|195.25.20.155|3128|France|Paris|Orange Business Services|
-|6|178.48.68.61|18080|Hungary|Budapest|UPC|
-|7|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|9|103.247.22.79|8080|Indonesia|Bekasi|PT wifian Solution|
-|10|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|11|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|10|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|171.228.132.62|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
+|13|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|14|181.49.177.198|8080|Colombia|Bogotá|Telmex Colombia S.A.|
 |15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|171.238.237.206|5000|Vietnam|Tuyên Quang|Viettel Corporation|
-|17|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|18|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|19|116.80.92.228|3128|Japan|Shimomeguro|InfoSphere|
-|20|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|17|103.227.61.51|8899|Australia|Sydney|Origin Net Pty Ltd|
+|18|116.80.92.228|3128|Japan|Shimomeguro|InfoSphere|
+|19|103.148.130.231|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|20|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
 
 
 
