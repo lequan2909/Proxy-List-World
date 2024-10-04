@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 |3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|6|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|192.99.169.19|8450|Canada|Beauharnois|OVH SAS|
-|9|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|11|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|103.247.23.57|8081|Indonesia|Banyumas|PT wifian Solution|
-|14|38.156.235.113|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
-|15|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|16|92.60.190.79|3128|Ukraine|Kyiv|Wnet Ukraine LLC|
-|17|101.255.40.98|8080|Indonesia|Bekasi|PT Remala Abadi|
-|18|103.1.93.184|55443|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
-|19|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|102.39.156.37|8080|South Africa|Cape Town|Vox Telecom|
+|4|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|7|171.236.242.89|5106|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|8|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|9|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|13|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|103.76.149.198|8082|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|36.68.31.1|8080|Indonesia|Surakarta|PT. TELKOM INDONESIA|
+|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|20|164.52.206.180|80|India|Delhi|E2E Networks Limited|
 
 
 
