@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|3|116.80.96.168|3128|Japan|Shimomeguro|InfoSphere|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|178.48.68.61|18080|Hungary|Budapest|UPC|
-|7|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|116.80.96.168|3128|Japan|Shimomeguro|InfoSphere|
+|3|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|178.48.68.61|18080|Hungary|Budapest|UPC|
+|5|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|195.25.20.155|3128|France|Paris|Orange Business Services|
+|9|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|103.247.22.79|8080|Indonesia|Bekasi|PT wifian Solution|
 |11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|12|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|45.10.53.177|1080|Russia|Moscow|JSC Mediasoft ekspert|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|45.10.53.177|1081|Russia|Moscow|JSC Mediasoft ekspert|
+|14|171.238.237.206|5000|Vietnam|Tuyên Quang|Viettel Corporation|
 |15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |16|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|67.43.227.230|10763|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.47|9443|United States|Concord|MCNC|
-|19|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|152.26.231.93|9443|United States|Concord|MCNC|
+|17|152.26.229.47|9443|United States|Concord|MCNC|
+|18|114.9.52.98|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
