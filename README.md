@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|10|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|12|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|13|147.28.155.20|10003|United States|Dallas|Packet Host, Inc.|
-|14|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|139.178.67.134|10013|United States|Parsippany|Packet Host, Inc.|
-|16|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|20|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|38.48.98.34|28080|United States|Pensacola|Wavefly|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|116.80.60.140|3128|Japan|Tokyo|InfoSphere|
+|14|116.80.93.37|3128|Japan|Shimomeguro|InfoSphere|
+|15|159.65.221.55|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|82.180.145.140|3128|India|Mumbai|Contabo Asia Private Limited|
+|17|116.80.91.122|3128|Japan|Shimomeguro|InfoSphere|
+|18|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|152.26.229.47|9443|United States|Concord|MCNC|
 
 
 
