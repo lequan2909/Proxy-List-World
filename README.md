@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|5.75.201.136|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|3|2.189.216.6|8080|Iran|Tehran|Iran Telecommunication Company PJS|
+|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 |5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|72.10.164.178|21167|Canada|Montreal|GloboTech Communications|
-|7|152.26.229.42|9443|United States|Concord|MCNC|
-|8|152.26.229.47|9443|United States|Concord|MCNC|
-|9|72.10.160.90|24437|Canada|Montreal|GloboTech Communications|
-|10|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|11|67.43.227.226|33147|Canada|Montreal|GloboTech Communications|
-|12|212.102.51.178|3128|Japan|Tokyo|Datacamp Limited|
-|13|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|61.129.2.212|8080|China|Beijing|CHINANET|
-|15|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|16|67.43.236.20|16403|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|2625|Canada|Montreal|GloboTech Communications|
-|18|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|6|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|7|45.10.53.177|1080|Russia|Moscow|JSC Mediasoft ekspert|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|36.64.132.91|3127|Indonesia|Banyuwangi|PT. Telekomunikasi Indonesia|
+|10|45.71.186.183|999|Ecuador|Quevedo|Ufinet Panama S.A.|
+|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|152.26.229.42|9443|United States|Concord|MCNC|
+|14|36.94.60.26|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|15|152.26.229.47|9443|United States|Concord|MCNC|
+|16|103.131.18.194|8080|Indonesia|Kudus|PT Global Media Data Prima|
+|17|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
 |19|152.26.231.42|9443|United States|Concord|MCNC|
-|20|72.10.164.178|21167|Canada|Montreal|GloboTech Communications|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
