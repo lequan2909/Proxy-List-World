@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.96.170|3128|Japan|Shimomeguro|InfoSphere|
-|3|171.241.70.54|5101|Vietnam|Hanoi|Viettel Corporation|
-|4|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|115.74.129.77|1014|Vietnam|Ho Chi Minh City|VIETELxdsl|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|103.172.70.153|8080|Indonesia|Karangampel|AZNET|
-|10|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|12|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|187.1.181.124|23500|Brazil|Belo Horizonte|Century Telecom Ltda|
-|16|152.26.231.83|9443|United States|Concord|MCNC|
-|17|152.26.231.42|9443|United States|Concord|MCNC|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|20|67.43.227.227|5607|Canada|Montreal|GloboTech Communications|
+|1|116.80.96.170|3128|Japan|Shimomeguro|InfoSphere|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|77.237.243.41|8000|Germany|Düsseldorf|Contabo GmbH|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|171.241.70.54|5101|Vietnam|Hanoi|Viettel Corporation|
+|14|132.255.223.1|9500|Brazil|Camaçari|LCD Serviços de Telecomunicações Multimidia|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|165.255.22.192|8080|South Africa|Johannesburg|Afrihost (Pty) Ltd|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
