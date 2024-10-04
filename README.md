@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|103.189.96.38|8080|Indonesia|Temanggung|Lintas Data Prima, PT|
-|9|103.131.18.194|8080|Indonesia|Kudus|PT Global Media Data Prima|
-|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|11|116.80.92.225|3128|Japan|Shimomeguro|InfoSphere|
-|12|152.26.229.42|9443|United States|Concord|MCNC|
-|13|152.26.231.94|9443|United States|Concord|MCNC|
-|14|152.26.229.34|9443|United States|Concord|MCNC|
-|15|152.26.229.83|9443|United States|Concord|MCNC|
-|16|152.26.231.83|9443|United States|Concord|MCNC|
-|17|116.80.60.125|3128|Japan|Tokyo|InfoSphere|
-|18|67.43.227.227|28967|Canada|Montreal|GloboTech Communications|
-|19|94.237.39.188|5555|Finland|Helsinki|UpCloud Ltd|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|2|103.82.126.34|1111|Indonesia|Tangerang|PT.PLATINUM CITRA INDONESIA|
+|3|103.147.73.50|7777|Indonesia|Kediri|ALFATINDO|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|206.62.64.34|8080|Brazil|Apucarana|AGIS|
+|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|13|200.125.168.56|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|14|45.10.53.177|1080|Russia|Moscow|JSC Mediasoft ekspert|
+|15|116.80.92.225|3128|Japan|Shimomeguro|InfoSphere|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
+|20|152.26.231.94|9443|United States|Concord|MCNC|
 
 
 
