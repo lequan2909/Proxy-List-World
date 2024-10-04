@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|116.80.47.27|3128|Japan|Tokyo|InfoSphere|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|6|116.80.47.27|3128|Japan|Tokyo|InfoSphere|
 |7|116.80.96.168|3128|Japan|Shimomeguro|InfoSphere|
-|8|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|163.172.33.137|4005|France|Vitry-sur-Seine|Online S.A.S.|
-|12|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|37.46.135.225|3128|Russia|Irkutsk|JSC IOT|
-|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|193.233.84.88|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
-|19|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|10|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|171.228.132.62|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
+|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|16|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|17|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|19|5.75.201.136|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|20|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
