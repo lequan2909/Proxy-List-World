@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|61.7.191.83|8080|Thailand|Ao Nang|CAT Telecom Public Company Limited|
-|3|84.247.152.41|8000|Japan|Tokyo|Contabo GmbH|
-|4|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|8|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|11|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|12|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|13|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|18|190.205.40.94|3128|Venezuela|Caracas|CANTV Servicios, Venezuela|
-|19|103.184.56.38|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
-|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|3|61.7.191.83|8080|Thailand|Ao Nang|CAT Telecom Public Company Limited|
+|4|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|7|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
+|10|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|14|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|15|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|185.64.208.164|53281|Russia|Kstovo|Svyazist LLC|
+|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|19|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|190.205.40.94|3128|Venezuela|Caracas|CANTV Servicios, Venezuela|
 
 
 
