@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|61.7.191.83|8080|Thailand|Ao Nang|CAT Telecom Public Company Limited|
 |3|13.212.240.145|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|209.45.90.174|999|Peru|Lima|Econocable Media SAC|
-|10|202.154.13.3|8080|Indonesia|Parenggan|PT Akses Data Internusa|
-|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|12|171.228.144.95|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|13|143.0.243.80|8080|Brazil|São Gonçalo|Nova Info Internet e Telecomunicações LTDA|
+|4|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|178.48.68.61|18080|Hungary|Szigetszentmiklós|UPC|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|103.184.56.38|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
+|8|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|9|118.179.84.218|8080|Bangladesh|Sylhet|Dhakacom Limited|
+|10|160.20.165.231|8587|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |14|36.88.123.218|41890|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|15|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|15|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|16|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|17|116.80.93.37|3128|Japan|Shimomeguro|InfoSphere|
+|18|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
 
