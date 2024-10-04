@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|103.159.96.141|8080|Indonesia|Gresik|PT Jinde Grup Indonesia|
-|6|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|103.156.86.222|8080|Indonesia|Palopo|PT Chacha Networking System|
-|9|116.80.60.151|3128|Japan|Tokyo|InfoSphere|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|188.132.222.162|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|2|115.178.49.195|1080|Indonesia|Bandung|NOC SIMAYA|
+|3|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|103.191.165.23|8080|Indonesia|Subang|PT Sakti Wijaya Network|
+|6|103.177.177.249|8080|Indonesia|Jakarta|PT Milenial Inti Telekomunikasi|
+|7|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|10|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|11|116.80.60.151|3128|Japan|Tokyo|InfoSphere|
+|12|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |14|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|103.191.165.23|8080|Indonesia|Subang|PT Sakti Wijaya Network|
-|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|15|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|18|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
 
 
 
