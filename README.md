@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5123** proxies at the latest update. Usable proxies are below.
+> Scraper found **5161** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|180|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|479|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|517|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|298|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3208|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|2|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|5.161.114.204|4228|United States|Ashburn|Hetzner Online GmbH|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|94.136.190.28|3128|India|Mumbai|Contabo Asia Private Limited|
-|8|103.122.66.140|1111|Indonesia|Gianyar|PT. Jinom Network Indonesia|
-|9|152.26.229.42|9443|United States|Concord|MCNC|
-|10|123.112.213.178|9000|China|Beijing|China Unicom Beijing Province Network|
-|11|152.26.229.46|9443|United States|Concord|MCNC|
-|12|116.80.91.122|3128|Japan|Shimomeguro|InfoSphere|
-|13|67.43.236.20|19777|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.47|9443|United States|Concord|MCNC|
-|15|45.10.53.177|1080|Russia|Moscow|JSC Mediasoft ekspert|
-|16|45.10.53.177|1080|Russia|Moscow|JSC Mediasoft ekspert|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|115.178.49.195|1080|Indonesia|Bandung|NOC SIMAYA|
-|19|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|20|189.127.190.109|8080|Brazil|Brasiléia|Govista Telecomunicao Importacao Ltda|
+|1|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|6|103.247.12.18|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|103.69.20.42|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|15|38.137.203.13|999|Peru|Lima|Internet Services Perú|
+|16|36.92.44.82|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|19|27.54.71.231|8080|Australia|Pakenham|CNTC|
+|20|171.226.40.31|1001|Vietnam|Ho Chi Minh City|Viettel Corporation|
 
 
 
