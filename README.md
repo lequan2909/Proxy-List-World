@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|2|164.52.206.180|80|India|Delhi|E2E Networks Limited|
 |3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|203.150.128.70|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|5|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|6|178.48.68.61|18080|Hungary|Budapest|UPC|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|117.5.38.63|5101|Vietnam|Hanoi|VIETTEL|
-|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|8|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|203.150.128.70|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
 |12|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|16|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|14|103.180.123.143|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|15|213.6.78.87|8080|Palestine|Nablus|Palestine Telecommunications Company|
+|16|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
 |17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
-|19|172.232.172.64|8080|United States|Tukwila|Akamai Technologies, Inc.|
-|20|152.26.231.83|9443|United States|Concord|MCNC|
+|18|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|181.114.61.17|8085|Argentina|San Nicolás de los Arroyos|INTERAIR|
+|20|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
 
 
 
