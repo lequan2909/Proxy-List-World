@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|103.191.218.75|8080|Indonesia|Kuningan Barat|PT Replay Inti Media|
-|4|77.226.234.205|3128|Spain|L'Hospitalet de Llobregat|Vodafone Espana S.A.U|
-|5|223.25.110.185|8080|Indonesia|Surabaya|SinergiNet|
-|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|12|103.155.196.27|8080|Indonesia|Jakarta|JEMBATANDATA|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|77.226.234.205|3128|Spain|L'Hospitalet de Llobregat|Vodafone Espana S.A.U|
+|7|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|103.191.218.75|8080|Indonesia|Kuningan Barat|PT Replay Inti Media|
+|10|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|11|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
 |16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|116.80.92.232|3128|Japan|Shimomeguro|InfoSphere|
-|18|152.26.229.46|9443|United States|Concord|MCNC|
-|19|152.26.229.83|9443|United States|Concord|MCNC|
-|20|36.94.60.26|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|17|212.102.51.178|3128|Japan|Tokyo|Datacamp Limited|
+|18|116.80.91.122|3128|Japan|Shimomeguro|InfoSphere|
+|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
