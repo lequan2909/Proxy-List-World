@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|4|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|5|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|7|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|116.105.18.72|10005|Vietnam|Da Nang|Viettel Corporation|
-|13|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
-|14|13.212.240.145|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|15|152.26.229.83|9443|United States|Concord|MCNC|
-|16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|61.129.2.212|8080|China|Beijing|CHINANET|
-|18|47.88.17.136|18080|United States|Minkler|Alibaba.com LLC|
-|19|37.187.149.223|8081|France|Roubaix|OVH SAS|
-|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|2|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|3|72.10.160.170|2657|Canada|Montreal|GloboTech Communications|
+|4|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|152.26.229.83|9443|United States|Concord|MCNC|
+|8|152.26.229.42|9443|United States|Concord|MCNC|
+|9|152.26.229.46|9443|United States|Concord|MCNC|
+|10|152.26.229.86|9443|United States|Concord|MCNC|
+|11|152.26.229.93|9443|United States|Concord|MCNC|
+|12|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|13|116.80.92.228|3128|Japan|Shimomeguro|InfoSphere|
+|14|58.19.22.61|3128|China|Wuhan|CNC Group CHINA169 Hubei Province Network|
+|15|111.1.61.54|3128|China|Wenzhou|China Mobile communications corporation|
+|16|72.10.160.91|28947|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.90|24091|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|24091|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|22323|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.93|25631|Canada|Montreal|GloboTech Communications|
 
 
 
