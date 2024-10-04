@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|5|45.10.53.177|1080|Russia|Moscow|JSC Mediasoft ekspert|
-|6|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|103.145.34.162|8081|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
-|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|12|223.205.74.219|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|13|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|103.149.195.9|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
+|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|11|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|12|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|13|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
 |14|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
-|20|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|15|181.209.112.74|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|16|61.29.96.146|8000|Australia|Melbourne|AAPT Limited|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
