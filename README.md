@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|5|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|6|178.48.68.61|18080|Hungary|Budapest|UPC|
-|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|8|31.44.7.32|8080|United States|Newark|ITGLOBAL.COM NL B.V.|
-|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|10|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|178.20.157.235|3128|Ukraine|Kyiv|Freehost UA|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|178.48.68.61|18080|Hungary|Budapest|UPC|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|178.20.157.235|3128|Ukraine|Kyiv|Freehost UA|
+|11|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |15|152.26.229.42|9443|United States|Concord|MCNC|
-|16|67.43.228.252|2735|Canada|Montreal|GloboTech Communications|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|94.237.33.238|5555|Finland|Helsinki|UpCloud Ltd|
-|19|152.26.231.83|9443|United States|Concord|MCNC|
+|16|152.26.231.83|9443|United States|Concord|MCNC|
+|17|152.26.231.94|9443|United States|Concord|MCNC|
+|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
 |20|72.10.164.178|3581|Canada|Montreal|GloboTech Communications|
 
 
