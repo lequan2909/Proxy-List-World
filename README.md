@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
-|2|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|3|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|4|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|103.165.253.194|8080|Indonesia|Subang|PT Pelangi Communication Network|
-|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|7|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|201.20.118.146|27234|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|10|116.80.60.140|3128|Japan|Tokyo|InfoSphere|
-|11|116.107.167.133|5104|Vietnam|Hanoi|Viettel Corporation|
-|12|152.26.229.46|9443|United States|Concord|MCNC|
-|13|152.26.231.94|9443|United States|Concord|MCNC|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|67.43.228.253|9317|Canada|Montreal|GloboTech Communications|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|51.159.75.249|3128|France|Paris|SCALEWAY|
-|20|152.26.231.83|9443|United States|Concord|MCNC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|8|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|10|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|103.139.126.234|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|116.80.60.140|3128|Japan|Tokyo|InfoSphere|
 
 
 
