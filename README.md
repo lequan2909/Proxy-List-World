@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
-|3|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|1|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
+|2|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
 |5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|207.211.168.178|3128|United States|Chicago|Oracle Corporation|
-|10|41.174.132.58|8080|DR Congo|Kinshasa|Liquid Telecommunications Ltd|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|27.147.137.90|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.89.188.14|2020|Brazil|Salvador|ITS TELECOMUNICACOES LTDA|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|116.80.91.122|3128|Japan|Shimomeguro|InfoSphere|
+|11|152.26.229.34|9443|United States|Concord|MCNC|
+|12|152.26.229.86|9443|United States|Concord|MCNC|
 |13|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|14|116.80.91.122|3128|Japan|Shimomeguro|InfoSphere|
-|15|152.26.229.34|9443|United States|Concord|MCNC|
-|16|67.43.227.227|18043|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.18|3717|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|198.24.188.138|38050|United States|Ashburn|Secured Servers LLC|
-|20|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|72.10.164.178|30839|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|23679|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|67.43.227.228|20059|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|30839|Canada|Montreal|GloboTech Communications|
 
 
 
