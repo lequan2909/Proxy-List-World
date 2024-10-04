@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.56.157.39|8080|Vietnam|Hanoi|VCCORP|
-|3|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|4|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|7|77.237.243.41|8000|Germany|Düsseldorf|Contabo GmbH|
-|8|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|15|103.165.208.222|8080|Indonesia|Malang|PT iForte Global Internet|
-|16|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|4|103.56.157.39|8080|Vietnam|Hanoi|VCCORP|
+|5|171.247.170.131|5101|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|6|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|15|182.78.42.112|83|India|Manchikalapādu|Bharti Airtel|
+|16|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|17|203.150.128.70|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
 |18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|203.150.128.70|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|20|116.80.47.27|3128|Japan|Tokyo|InfoSphere|
+|19|223.70.184.125|3128|China|Beijing|China Mobile communications corporation|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
