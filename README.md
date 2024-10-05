@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.92.232|3128|Japan|Shimomeguro|InfoSphere|
-|2|116.80.60.140|3128|Japan|Tokyo|InfoSphere|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|103.127.220.251|8080|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|6|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|7|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|8|38.9.141.63|8080|Indonesia|Medan|PT. Media Antar Nusa|
-|9|195.25.20.155|3128|France|Paris|Orange Business Services|
-|10|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|116.80.92.232|3128|Japan|Shimomeguro|InfoSphere|
+|3|116.80.60.140|3128|Japan|Tokyo|InfoSphere|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|8|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|38.9.141.63|8080|Indonesia|Medan|PT. Media Antar Nusa|
+|10|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
 |11|116.80.47.212|3128|Japan|Tokyo|InfoSphere|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|15|31.161.38.233|8090|The Netherlands|Amersfoort|KPN B.V|
-|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|19|177.67.86.96|999|Brazil|São Paulo|W I X NET DO BRASIL LTDA - ME|
-|20|189.50.9.30|8080|Brazil|Vitória|VIPRede Telecomunicações Ltda|
+|12|103.18.47.139|80|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|13|103.127.220.251|8080|Indonesia|Lamongan|PT Multi Guna Sinergi|
+|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|15|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|103.133.26.107|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|18|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|19|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|20|195.25.20.155|3128|France|Paris|Orange Business Services|
 
 
 
