@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|103.167.71.34|8080|Indonesia|Mukomuko|PT Rubyan Network Solution|
-|4|38.156.72.86|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|5|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|6|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|203.150.128.228|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|10|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|11|116.80.47.28|3128|Japan|Tokyo|InfoSphere|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|116.80.93.37|3128|Japan|Shimomeguro|InfoSphere|
-|14|116.80.99.167|3128|Japan|Shimomeguro|InfoSphere|
-|15|122.3.139.85|8181|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|16|157.20.146.76|3127|Pakistan|Lahore|Z COM NETWORKS|
-|17|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|209.200.246.243|3128|Canada|Toronto|Ipxo LLC|
-|20|116.80.48.143|3128|Japan|Tokyo|InfoSphere|
+|1|34.97.46.219|8561|Japan|Osaka|Google LLC|
+|2|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|3|34.97.36.34|8561|Japan|Osaka|Google LLC|
+|4|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|5|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|116.80.99.167|3128|Japan|Shimomeguro|InfoSphere|
+|8|116.80.47.28|3128|Japan|Tokyo|InfoSphere|
+|9|116.80.93.37|3128|Japan|Shimomeguro|InfoSphere|
+|10|116.80.48.209|3128|Japan|Tokyo|InfoSphere|
+|11|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|12|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|116.80.48.143|3128|Japan|Tokyo|InfoSphere|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
+|15|34.97.36.34|8561|Japan|Osaka|Google LLC|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|116.80.92.228|3128|Japan|Shimomeguro|InfoSphere|
 
 
 
