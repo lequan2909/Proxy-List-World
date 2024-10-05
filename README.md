@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|103.247.23.72|7777|Indonesia|Cileungsir|PT wifian Solution|
-|6|45.4.201.141|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|181.143.36.20|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|116.80.92.228|3128|Japan|Shimomeguro|InfoSphere|
-|12|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|13|103.167.71.34|8080|Indonesia|Mukomuko|PT Rubyan Network Solution|
-|14|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|15|116.80.48.148|3128|Japan|Tokyo|InfoSphere|
-|16|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|116.80.66.114|3128|Japan|Shimomeguro|InfoSphere|
-|18|116.80.69.227|3128|Japan|Shimomeguro|InfoSphere|
-|19|116.80.48.144|3128|Japan|Tokyo|InfoSphere|
-|20|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|77.41.146.43|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|8|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|10|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|12|116.80.92.228|3128|Japan|Shimomeguro|InfoSphere|
+|13|110.137.26.233|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|16|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|17|116.80.69.227|3128|Japan|Shimomeguro|InfoSphere|
+|18|116.80.66.114|3128|Japan|Shimomeguro|InfoSphere|
+|19|116.80.48.148|3128|Japan|Tokyo|InfoSphere|
+|20|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
