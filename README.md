@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5522** proxies at the latest update. Usable proxies are below.
+> Scraper found **5521** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|436|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|436|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|436|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|250|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|249|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|568|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|526|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|116.80.88.62|3128|Japan|Shimomeguro|InfoSphere|
+|2|116.80.88.62|3128|Japan|Shimomeguro|InfoSphere|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|116.80.88.60|3128|Japan|Shimomeguro|InfoSphere|
 |5|116.80.50.111|3128|Japan|Tokyo|InfoSphere|
-|6|116.80.88.60|3128|Japan|Shimomeguro|InfoSphere|
-|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|9|116.80.48.179|3128|Japan|Tokyo|InfoSphere|
-|10|34.97.49.38|8561|Japan|Osaka|Google LLC|
-|11|34.97.39.84|8561|Japan|Osaka|Google LLC|
-|12|27.71.166.70|5103|Vietnam|Da Nang|Viettel Group|
-|13|116.80.69.240|3128|Japan|Shimomeguro|InfoSphere|
-|14|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|116.80.48.147|3128|Japan|Tokyo|InfoSphere|
-|16|31.211.82.232|3128|Russia|Tomsk|OOO NETCOM|
-|17|180.211.162.146|8080|Bangladesh|Kāfrul|Bangladesh Telegraph & Telephone Board|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|5.58.33.187|55507|Ukraine|Ternopil|Columbus|
-|20|58.19.22.61|3128|China|Wuhan|CNC Group CHINA169 Hubei Province Network|
+|6|116.80.48.179|3128|Japan|Tokyo|InfoSphere|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|116.80.48.147|3128|Japan|Tokyo|InfoSphere|
+|14|116.80.69.240|3128|Japan|Shimomeguro|InfoSphere|
+|15|180.180.101.164|8080|Thailand|Ban Na|TOT Public Company Limited|
+|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|51.159.159.73|80|France|Paris|SCALEWAY|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|103.145.150.26|8080|Indonesia|Depok|PT. Indonesia Comnets Plus|
 
 
 
