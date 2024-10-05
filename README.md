@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|395|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|395|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|395|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.99.151|3128|Japan|Shimomeguro|InfoSphere|
-|2|116.80.43.171|3128|Japan|Tokyo|InfoSphere|
-|3|116.80.70.23|3128|Japan|Shimomeguro|InfoSphere|
-|4|116.80.71.195|3128|Japan|Shimomeguro|InfoSphere|
-|5|34.97.49.38|8561|Japan|Osaka|Google LLC|
-|6|34.97.46.98|8561|Japan|Osaka|Google LLC|
-|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|116.80.47.26|3128|Japan|Tokyo|InfoSphere|
-|9|116.80.88.59|3128|Japan|Shimomeguro|InfoSphere|
-|10|116.80.43.159|3128|Japan|Tokyo|InfoSphere|
-|11|116.80.70.8|3128|Japan|Shimomeguro|InfoSphere|
-|12|116.80.50.110|3128|Japan|Tokyo|InfoSphere|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|116.80.99.151|3128|Japan|Shimomeguro|InfoSphere|
+|3|116.80.43.171|3128|Japan|Tokyo|InfoSphere|
+|4|116.80.70.23|3128|Japan|Shimomeguro|InfoSphere|
+|5|116.80.71.195|3128|Japan|Shimomeguro|InfoSphere|
+|6|116.80.50.110|3128|Japan|Tokyo|InfoSphere|
+|7|116.80.70.8|3128|Japan|Shimomeguro|InfoSphere|
+|8|116.80.88.59|3128|Japan|Shimomeguro|InfoSphere|
+|9|116.80.47.26|3128|Japan|Tokyo|InfoSphere|
+|10|116.80.88.66|3128|Japan|Shimomeguro|InfoSphere|
+|11|116.80.43.159|3128|Japan|Tokyo|InfoSphere|
+|12|116.80.70.19|3128|Japan|Shimomeguro|InfoSphere|
 |13|116.80.88.69|3128|Japan|Shimomeguro|InfoSphere|
-|14|116.80.88.66|3128|Japan|Shimomeguro|InfoSphere|
-|15|116.80.70.19|3128|Japan|Shimomeguro|InfoSphere|
-|16|116.80.99.149|3128|Japan|Shimomeguro|InfoSphere|
-|17|116.80.69.236|3128|Japan|Shimomeguro|InfoSphere|
-|18|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|116.109.110.34|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|116.80.69.236|3128|Japan|Shimomeguro|InfoSphere|
+|15|116.80.99.149|3128|Japan|Shimomeguro|InfoSphere|
+|16|34.97.49.38|8561|Japan|Osaka|Google LLC|
+|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|116.80.70.14|3128|Japan|Shimomeguro|InfoSphere|
+|20|116.80.71.222|3128|Japan|Shimomeguro|InfoSphere|
 
 
 
