@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|400|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|400|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|400|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|116.80.47.28|3128|Japan|Tokyo|InfoSphere|
-|5|116.80.88.25|3128|Japan|Shimomeguro|InfoSphere|
-|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|8|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|10|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|14|171.228.136.18|32119|Vietnam|Vĩnh Yên|Viettel Corporation|
-|15|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|103.172.42.17|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|20|45.95.174.121|31280|France|Strasbourg|Host Europe|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|4|116.80.88.25|3128|Japan|Shimomeguro|InfoSphere|
+|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|11|116.80.47.28|3128|Japan|Tokyo|InfoSphere|
+|12|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|13|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|14|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|18|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|116.80.60.140|3128|Japan|Tokyo|InfoSphere|
+|20|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 
 
 
