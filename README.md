@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|9|103.30.115.154|8080|Timor-Leste|Dili|Telin Telkomcel TimorLeste|
-|10|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|200.114.84.190|8080|Argentina|La Plata|Citarella S.A.|
-|12|102.220.142.193|8080|Libya|Tripoli|BSISP Network|
-|13|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|45.166.93.29|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|17|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|116.80.69.239|3128|Japan|Shimomeguro|InfoSphere|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|37.46.135.225|3128|Russia|Irkutsk|JSC IOT|
+|7|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|128.0.168.153|1080|Ukraine|Kyiv|WNET TELECOM USA Corp.|
+|10|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|11|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|12|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|116.80.69.239|3128|Japan|Shimomeguro|InfoSphere|
+|17|5.42.78.122|3128|Sweden|Stockholm|Aeza International LTD|
+|18|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
+|19|116.80.48.141|3128|Japan|Tokyo|InfoSphere|
+|20|116.80.98.15|3128|Japan|Shimomeguro|InfoSphere|
 
 
 
