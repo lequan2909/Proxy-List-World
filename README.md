@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|431|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|431|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|431|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|116.80.99.166|3128|Japan|Shimomeguro|InfoSphere|
-|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|6|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|7|51.159.159.73|80|France|Paris|SCALEWAY|
-|8|178.48.68.61|18080|Hungary|Budapest|UPC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|116.80.69.238|3128|Japan|Shimomeguro|InfoSphere|
-|11|5.56.124.176|6734|Moldova|Chisinau|JSC "Moldtelecom" S.A|
-|12|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|13|116.80.48.209|3128|Japan|Tokyo|InfoSphere|
-|14|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|116.80.48.140|3128|Japan|Tokyo|InfoSphere|
-|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|20|152.26.231.42|9443|United States|Concord|MCNC|
+|2|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|116.80.99.166|3128|Japan|Shimomeguro|InfoSphere|
+|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|8|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|51.159.159.73|80|France|Paris|SCALEWAY|
+|10|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|11|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|116.80.69.238|3128|Japan|Shimomeguro|InfoSphere|
+|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|18|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
+|19|116.80.48.140|3128|Japan|Tokyo|InfoSphere|
+|20|116.80.48.209|3128|Japan|Tokyo|InfoSphere|
 
 
 
