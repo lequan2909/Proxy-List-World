@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |5|116.80.60.151|3128|Japan|Tokyo|InfoSphere|
-|6|121.200.62.234|8000|Bangladesh|Azimpur|Drik ICT Ltd|
-|7|186.194.160.68|999|Colombia|Bogotá|Telenet Digital S.A.S|
-|8|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|12|116.80.91.122|3128|Japan|Shimomeguro|InfoSphere|
-|13|116.80.48.143|3128|Japan|Tokyo|InfoSphere|
-|14|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|116.80.92.228|3128|Japan|Shimomeguro|InfoSphere|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|203.104.34.144|3128|China|Guangzhou|Fuzhou|
-|19|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|171.238.237.206|5000|Vietnam|Tuyên Quang|Viettel Corporation|
+|6|119.47.90.109|8080|Indonesia|Jatiroto|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|7|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|34.97.47.210|8561|Japan|Osaka|Google LLC|
+|10|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|191.102.248.4|8085|Argentina|Rosario|IP·RED|
+|12|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|34.97.36.34|8561|Japan|Osaka|Google LLC|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|103.143.197.218|8000|Indonesia|Semarang|JERNIHNETWORK|
+|20|103.133.223.20|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
 
 
 
