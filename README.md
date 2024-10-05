@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|404|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|404|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|404|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|116.80.47.26|3128|Japan|Tokyo|InfoSphere|
-|5|116.80.70.8|3128|Japan|Shimomeguro|InfoSphere|
-|6|116.80.50.110|3128|Japan|Tokyo|InfoSphere|
-|7|116.80.88.59|3128|Japan|Shimomeguro|InfoSphere|
-|8|116.80.43.159|3128|Japan|Tokyo|InfoSphere|
-|9|34.97.42.41|8561|Japan|Osaka|Google LLC|
-|10|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|116.80.70.19|3128|Japan|Shimomeguro|InfoSphere|
-|12|116.80.88.69|3128|Japan|Shimomeguro|InfoSphere|
-|13|116.80.88.66|3128|Japan|Shimomeguro|InfoSphere|
-|14|34.97.49.38|8561|Japan|Osaka|Google LLC|
-|15|116.80.99.149|3128|Japan|Shimomeguro|InfoSphere|
-|16|34.97.30.220|8561|Japan|Osaka|Google LLC|
-|17|116.80.69.236|3128|Japan|Shimomeguro|InfoSphere|
-|18|34.97.37.111|8561|Japan|Osaka|Google LLC|
-|19|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|2|116.80.71.195|3128|Japan|Shimomeguro|InfoSphere|
+|3|34.97.42.41|8561|Japan|Osaka|Google LLC|
+|4|116.80.50.110|3128|Japan|Tokyo|InfoSphere|
+|5|116.80.47.26|3128|Japan|Tokyo|InfoSphere|
+|6|116.80.70.8|3128|Japan|Shimomeguro|InfoSphere|
+|7|34.97.30.220|8561|Japan|Osaka|Google LLC|
+|8|116.80.88.59|3128|Japan|Shimomeguro|InfoSphere|
+|9|116.80.43.159|3128|Japan|Tokyo|InfoSphere|
+|10|34.97.37.111|8561|Japan|Osaka|Google LLC|
+|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|34.97.46.98|8561|Japan|Osaka|Google LLC|
+|13|116.80.70.19|3128|Japan|Shimomeguro|InfoSphere|
+|14|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|116.80.69.236|3128|Japan|Shimomeguro|InfoSphere|
+|16|116.80.99.149|3128|Japan|Shimomeguro|InfoSphere|
+|17|116.80.88.69|3128|Japan|Shimomeguro|InfoSphere|
+|18|116.80.88.66|3128|Japan|Shimomeguro|InfoSphere|
+|19|34.97.49.38|8561|Japan|Osaka|Google LLC|
 |20|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
