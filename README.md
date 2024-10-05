@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|3|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|5|103.247.23.33|1111|Indonesia|Cileungsir|PT wifian Solution|
-|6|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|7|116.80.48.148|3128|Japan|Tokyo|InfoSphere|
-|8|116.80.47.23|3128|Japan|Tokyo|InfoSphere|
-|9|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|11|116.80.88.147|3128|Japan|Shimomeguro|InfoSphere|
-|12|116.80.47.28|3128|Japan|Tokyo|InfoSphere|
-|13|152.26.229.86|9443|United States|Concord|MCNC|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|101.128.93.144|8090|Indonesia|Jakarta|CBN|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|152.26.231.94|9443|United States|Concord|MCNC|
-|18|67.43.228.252|14857|Canada|Montreal|GloboTech Communications|
-|19|116.80.78.28|3128|Japan|Shimomeguro|InfoSphere|
-|20|116.80.48.143|3128|Japan|Tokyo|InfoSphere|
+|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|118.70.12.171|53281|Vietnam|Hanoi|FPT Telecom Company|
+|6|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|7|103.77.206.34|80|Indonesia|Makassar|GLOBALMANDIRI|
+|8|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|103.70.79.2|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|10|116.80.48.148|3128|Japan|Tokyo|InfoSphere|
+|11|212.174.242.114|8080|Türkiye|Adana|TurkTelecom|
+|12|103.48.68.67|83|India|Hyderabad|Country Online Services PVT LTD|
+|13|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|103.25.110.222|8080|Indonesia|Banjar|PT. Indonesia Comnet Plus|
+|15|186.237.131.122|8080|Brazil|São José do Rio Preto|IFTNET Telecomunicacoes Ltda|
+|16|116.80.88.147|3128|Japan|Shimomeguro|InfoSphere|
+|17|116.80.47.28|3128|Japan|Tokyo|InfoSphere|
+|18|152.26.229.86|9443|United States|Concord|MCNC|
+|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 
 
 
