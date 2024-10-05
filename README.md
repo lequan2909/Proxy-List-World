@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.88.148|3128|Japan|Shimomeguro|InfoSphere|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|103.110.34.146|8089|Indonesia|Purwodadi Grobogan|PT RECONET SEMESTA INDONESIA|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|103.131.18.194|8080|Indonesia|Kudus|PT Global Media Data Prima|
-|12|103.247.23.33|1111|Indonesia|Cileungsir|PT wifian Solution|
-|13|41.79.33.170|8080|Botswana|Gaborone|Electro Metic Enterprises PTY LTD|
-|14|116.80.60.140|3128|Japan|Tokyo|InfoSphere|
-|15|116.80.48.146|3128|Japan|Tokyo|InfoSphere|
-|16|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|18|45.177.179.65|999|Mexico|Villa Zaragoza|Wantelco SAS de CV|
-|19|116.80.88.148|3128|Japan|Shimomeguro|InfoSphere|
-|20|152.26.229.34|9443|United States|Concord|MCNC|
+|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|4|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|116.80.60.140|3128|Japan|Tokyo|InfoSphere|
+|7|116.80.48.146|3128|Japan|Tokyo|InfoSphere|
+|8|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|116.80.88.148|3128|Japan|Shimomeguro|InfoSphere|
+|11|152.26.231.42|9443|United States|Concord|MCNC|
+|12|152.26.229.34|9443|United States|Concord|MCNC|
+|13|72.10.164.178|10415|Canada|Montreal|GloboTech Communications|
+|14|116.80.91.122|3128|Japan|Shimomeguro|InfoSphere|
+|15|152.26.229.83|9443|United States|Concord|MCNC|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|198.24.188.138|37100|United States|Ashburn|Secured Servers LLC|
+|18|116.80.96.170|3128|Japan|Shimomeguro|InfoSphere|
+|19|116.80.47.23|3128|Japan|Tokyo|InfoSphere|
+|20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
 
