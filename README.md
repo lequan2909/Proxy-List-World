@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|2|116.80.48.145|3128|Japan|Tokyo|InfoSphere|
-|3|203.150.128.5|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|5|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|3|116.80.48.145|3128|Japan|Tokyo|InfoSphere|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |6|116.80.88.148|3128|Japan|Shimomeguro|InfoSphere|
-|7|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|103.115.20.5|8080|Indonesia|Subang|PMYNET|
-|9|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|7|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|9|164.52.206.180|80|India|Delhi|E2E Networks Limited|
 |10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|12|116.80.48.208|3128|Japan|Tokyo|InfoSphere|
-|13|116.80.48.150|3128|Japan|Tokyo|InfoSphere|
-|14|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|15|36.94.30.238|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|16|103.171.244.44|8088|Indonesia|Madiun|PT Data Arta Sedaya|
-|17|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|195.25.20.155|3128|France|Paris|Orange Business Services|
+|12|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|14|116.80.48.208|3128|Japan|Tokyo|InfoSphere|
+|15|116.80.48.150|3128|Japan|Tokyo|InfoSphere|
+|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |18|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|101.255.209.146|8181|Indonesia|Jakarta|PT Remala Abadi|
-|20|195.25.20.155|3128|France|Paris|Orange Business Services|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
 
 
 
