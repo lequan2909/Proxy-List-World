@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|34.97.36.34|8561|Japan|Osaka|Google LLC|
 |2|116.80.50.82|3128|Japan|Tokyo|InfoSphere|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|103.125.17.22|8080|Indonesia|Tangerang|JAVAMEDIA|
-|5|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|163.53.81.73|32650|India|Udaipur|Kay Kay Softech Private Limited|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|103.215.187.66|8080|Indonesia|Mungkid|PT Jaringan Inti Exadata|
-|13|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|16|84.204.135.252|8080|Russia|St Petersburg|PJSC MegaFon|
-|17|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|19|170.78.61.26|8080|Brazil|Itarantim|Maiqvox Telecom|
-|20|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|6|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|116.80.48.207|3128|Japan|Tokyo|InfoSphere|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|34.97.36.34|8561|Japan|Osaka|Google LLC|
+|12|116.80.47.23|3128|Japan|Tokyo|InfoSphere|
+|13|116.80.48.150|3128|Japan|Tokyo|InfoSphere|
+|14|116.80.48.208|3128|Japan|Tokyo|InfoSphere|
+|15|5.42.78.122|3128|Sweden|Stockholm|Aeza International LTD|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|152.26.231.83|9443|United States|Concord|MCNC|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
