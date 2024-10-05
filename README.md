@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|77.41.146.43|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|5|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|45.4.201.141|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
 |6|116.80.92.228|3128|Japan|Shimomeguro|InfoSphere|
-|7|203.128.80.178|8099|Indonesia|Jakarta|Neuviz|
-|8|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|10|94.232.11.178|46449|Russia|Moscow|PJSC MegaFon|
-|11|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|14|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|15|116.80.48.207|3128|Japan|Tokyo|InfoSphere|
-|16|80.80.163.190|46276|Kosovo|Pristina|IPKO Telecommunications LLC|
-|17|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|116.80.70.21|3128|Japan|Shimomeguro|InfoSphere|
-|19|116.80.88.154|3128|Japan|Shimomeguro|InfoSphere|
-|20|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|103.247.23.72|7777|Indonesia|Cileungsir|PT wifian Solution|
+|8|122.54.135.155|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|9|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|12|37.46.135.225|3128|Russia|Irkutsk|JSC IOT|
+|13|103.239.255.36|58080|Bangladesh|Dhaka|Carnival Internet|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|16|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|17|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|116.80.48.207|3128|Japan|Tokyo|InfoSphere|
+|19|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|116.80.70.21|3128|Japan|Shimomeguro|InfoSphere|
 
 
 
