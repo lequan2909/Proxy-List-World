@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.70.13|3128|Japan|Shimomeguro|InfoSphere|
-|3|116.80.88.71|3128|Japan|Shimomeguro|InfoSphere|
-|4|116.80.47.12|3128|Japan|Tokyo|InfoSphere|
-|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|116.80.100.78|3128|Japan|Shimomeguro|InfoSphere|
+|2|116.80.88.71|3128|Japan|Shimomeguro|InfoSphere|
+|3|116.80.47.12|3128|Japan|Tokyo|InfoSphere|
+|4|116.80.70.13|3128|Japan|Shimomeguro|InfoSphere|
+|5|116.80.100.78|3128|Japan|Shimomeguro|InfoSphere|
+|6|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
 |7|116.80.88.62|3128|Japan|Shimomeguro|InfoSphere|
 |8|116.80.50.111|3128|Japan|Tokyo|InfoSphere|
 |9|116.80.88.60|3128|Japan|Shimomeguro|InfoSphere|
-|10|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|11|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|201.222.83.146|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|116.80.47.212|3128|Japan|Tokyo|InfoSphere|
-|18|103.130.130.179|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|19|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|20|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|116.80.47.212|3128|Japan|Tokyo|InfoSphere|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|13|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|116.80.70.22|3128|Japan|Shimomeguro|InfoSphere|
+|17|116.80.70.8|3128|Japan|Shimomeguro|InfoSphere|
+|18|116.80.100.79|3128|Japan|Shimomeguro|InfoSphere|
+|19|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
 
 
 
