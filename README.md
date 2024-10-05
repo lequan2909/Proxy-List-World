@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.98.13|3128|Japan|Shimomeguro|InfoSphere|
-|2|116.80.69.238|3128|Japan|Shimomeguro|InfoSphere|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|209.200.246.243|3128|Canada|Toronto|Ipxo LLC|
-|6|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|7|195.25.20.155|3128|France|Paris|Orange Business Services|
-|8|144.86.187.61|3129|United States|Malden|Charles River Operation|
-|9|193.233.84.46|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
-|10|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|13|58.27.218.26|3128|Pakistan|Lahore|Wateen Telecom Limited|
-|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|15|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|116.80.69.238|3128|Japan|Shimomeguro|InfoSphere|
+|4|116.80.98.13|3128|Japan|Shimomeguro|InfoSphere|
+|5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|6|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|209.200.246.243|3128|Canada|Toronto|Ipxo LLC|
+|8|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|58.27.218.26|3128|Pakistan|Lahore|Wateen Telecom Limited|
+|11|144.86.187.52|3129|United States|Malden|Charles River Operation|
+|12|103.170.22.51|8089|Indonesia|Banyumas|PT Puskomedia Indonesia Kreatif|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|16|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|17|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|103.165.215.78|8080|Indonesia|Malang|PT iForte Global Internet|
+|20|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
 
 
 
