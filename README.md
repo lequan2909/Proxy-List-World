@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.91.122|3128|Japan|Shimomeguro|InfoSphere|
+|1|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|2|116.80.93.37|3128|Japan|Shimomeguro|InfoSphere|
 |3|116.80.92.228|3128|Japan|Shimomeguro|InfoSphere|
-|4|116.80.93.37|3128|Japan|Shimomeguro|InfoSphere|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|15.235.12.19|3128|Canada|Montreal|OVH SAS|
-|7|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|144.86.187.39|3129|United States|Malden|Charles River Operation|
-|11|45.81.115.86|3128|Türkiye|Bursa|Pembe Gul Isguzar Karagoz|
-|12|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|14|116.80.88.35|3128|Japan|Shimomeguro|InfoSphere|
-|15|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|20|116.80.60.146|3128|Japan|Tokyo|InfoSphere|
+|4|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|5|116.80.91.122|3128|Japan|Shimomeguro|InfoSphere|
+|6|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|7|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|8|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|45.81.115.86|3128|Türkiye|Bursa|Pembe Gul Isguzar Karagoz|
+|10|116.80.88.35|3128|Japan|Shimomeguro|InfoSphere|
+|11|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
+|12|41.79.33.170|8080|Botswana|Gaborone|Electro Metic Enterprises PTY LTD|
+|13|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|14|144.86.187.43|3129|United States|Malden|Charles River Operation|
+|15|144.86.187.40|3129|United States|Malden|Charles River Operation|
+|16|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|17|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|18|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|19|144.86.187.47|3129|United States|Malden|Charles River Operation|
+|20|46.99.183.154|1234|Kosovo|Pristina|IPKO Telecommunications LLC|
 
 
 
