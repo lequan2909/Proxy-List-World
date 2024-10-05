@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5056** proxies at the latest update. Usable proxies are below.
+> Scraper found **5457** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|445|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|445|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|445|
 
 ## Sources
 
@@ -29,10 +29,10 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|244|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|550|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|586|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|449|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2855|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3220|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|116.80.71.195|3128|Japan|Shimomeguro|InfoSphere|
 |4|116.80.88.59|3128|Japan|Shimomeguro|InfoSphere|
 |5|116.80.47.26|3128|Japan|Tokyo|InfoSphere|
-|6|116.80.50.110|3128|Japan|Tokyo|InfoSphere|
+|6|119.76.142.187|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
 |7|116.80.70.8|3128|Japan|Shimomeguro|InfoSphere|
-|8|119.76.142.187|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
-|9|116.80.43.159|3128|Japan|Tokyo|InfoSphere|
+|8|116.80.43.159|3128|Japan|Tokyo|InfoSphere|
+|9|116.80.50.110|3128|Japan|Tokyo|InfoSphere|
 |10|116.80.88.69|3128|Japan|Shimomeguro|InfoSphere|
-|11|182.53.20.73|8080|Thailand|Chachoengsao|TOT Public Company Limited|
+|11|116.80.70.19|3128|Japan|Shimomeguro|InfoSphere|
 |12|116.80.88.66|3128|Japan|Shimomeguro|InfoSphere|
-|13|116.80.70.19|3128|Japan|Shimomeguro|InfoSphere|
-|14|116.80.99.149|3128|Japan|Shimomeguro|InfoSphere|
-|15|116.80.69.236|3128|Japan|Shimomeguro|InfoSphere|
-|16|103.165.157.167|8080|Indonesia|Pemalang|MEGADATA-ISP|
-|17|95.216.205.32|8118|Finland|Helsinki|Hetzner Online GmbH|
-|18|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|19|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|116.80.69.236|3128|Japan|Shimomeguro|InfoSphere|
+|14|182.53.20.73|8080|Thailand|Chachoengsao|TOT Public Company Limited|
+|15|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|116.80.99.149|3128|Japan|Shimomeguro|InfoSphere|
+|17|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|18|103.171.244.40|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|19|116.109.110.34|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|20|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
