@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|178.48.68.61|18080|Hungary|Budapest|UPC|
-|5|61.129.2.212|8080|China|Beijing|CHINANET|
-|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|7|116.80.48.150|3128|Japan|Tokyo|InfoSphere|
-|8|116.80.69.238|3128|Japan|Shimomeguro|InfoSphere|
-|9|152.26.229.47|9443|United States|Concord|MCNC|
-|10|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
-|11|152.26.231.94|9443|United States|Concord|MCNC|
-|12|152.26.231.93|9443|United States|Concord|MCNC|
-|13|152.26.229.83|9443|United States|Concord|MCNC|
-|14|95.154.20.113|34248|Denmark|Skaerbaek|SYD ENERGI|
-|15|116.80.60.146|3128|Japan|Tokyo|InfoSphere|
-|16|67.43.236.20|25855|Canada|Montreal|GloboTech Communications|
-|17|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|72.10.160.172|25311|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|2527|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|27437|Canada|Montreal|GloboTech Communications|
+|2|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
+|3|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
+|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|34.97.47.210|8561|Japan|Osaka|Google LLC|
+|11|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|12|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|116.80.69.238|3128|Japan|Shimomeguro|InfoSphere|
+|15|116.80.48.150|3128|Japan|Tokyo|InfoSphere|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|173.255.223.18|3128|United States|Fremont|Akamai Technologies, Inc.|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|152.26.229.47|9443|United States|Concord|MCNC|
+|20|152.26.231.93|9443|United States|Concord|MCNC|
 
 
 
