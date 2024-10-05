@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.50.93|3128|Japan|Tokyo|InfoSphere|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|34.97.37.111|8561|Japan|Osaka|Google LLC|
-|4|34.97.39.84|8561|Japan|Osaka|Google LLC|
-|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|116.80.70.12|3128|Japan|Shimomeguro|InfoSphere|
-|7|34.97.57.4|8561|Japan|Osaka|Google LLC|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|34.97.57.4|8561|Japan|Osaka|Google LLC|
+|5|34.97.37.111|8561|Japan|Osaka|Google LLC|
+|6|34.97.39.84|8561|Japan|Osaka|Google LLC|
+|7|116.80.70.12|3128|Japan|Shimomeguro|InfoSphere|
 |8|116.80.70.22|3128|Japan|Shimomeguro|InfoSphere|
 |9|116.80.100.77|3128|Japan|Shimomeguro|InfoSphere|
-|10|45.224.149.246|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|11|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|103.82.26.37|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|15|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|17|116.80.92.228|3128|Japan|Shimomeguro|InfoSphere|
-|18|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|45.224.149.246|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
 |19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
 
 
 
