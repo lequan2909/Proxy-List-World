@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|178.48.68.61|18080|Hungary|Budapest|UPC|
-|3|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|103.164.235.18|8085|Indonesia|Bandung|PT Bantani Media Utama|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|2|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|178.48.68.61|18080|Hungary|Budapest|UPC|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|103.164.235.18|8085|Indonesia|Bandung|PT Bantani Media Utama|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|116.80.69.235|3128|Japan|Shimomeguro|InfoSphere|
-|11|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|116.80.47.28|3128|Japan|Tokyo|InfoSphere|
-|13|116.80.48.142|3128|Japan|Tokyo|InfoSphere|
-|14|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|15|152.26.231.83|9443|United States|Concord|MCNC|
-|16|152.26.229.46|9443|United States|Concord|MCNC|
-|17|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|116.80.69.235|3128|Japan|Shimomeguro|InfoSphere|
+|14|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|116.80.48.142|3128|Japan|Tokyo|InfoSphere|
+|16|116.80.47.28|3128|Japan|Tokyo|InfoSphere|
+|17|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|152.26.231.83|9443|United States|Concord|MCNC|
+|19|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
