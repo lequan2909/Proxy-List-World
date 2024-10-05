@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.96.169|3128|Japan|Shimomeguro|InfoSphere|
-|2|103.174.236.63|7777|Indonesia|Brebes|PT Global Erasiber Teknologi|
-|3|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|4|178.48.68.61|18080|Hungary|Budapest|UPC|
-|5|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|177.11.190.84|8080|Brazil|Franca|Multpontos Telecomunicações Ltda - ME|
-|7|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|195.25.20.155|3128|France|Paris|Orange Business Services|
-|9|206.84.201.101|999|Peru|Callao|Cogent Communications|
-|10|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|177.44.161.8|3128|Brazil|Chopinzinho|WIIP TELECOM SERVIÇOS DE INTERNET LTDA|
-|12|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|13|116.80.48.146|3128|Japan|Tokyo|InfoSphere|
-|14|116.80.69.230|3128|Japan|Shimomeguro|InfoSphere|
-|15|38.183.146.214|8090|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|16|116.80.69.240|3128|Japan|Shimomeguro|InfoSphere|
-|17|116.80.69.234|3128|Japan|Shimomeguro|InfoSphere|
-|18|116.80.96.169|3128|Japan|Shimomeguro|InfoSphere|
-|19|116.80.99.168|3128|Japan|Shimomeguro|InfoSphere|
-|20|116.80.98.8|3128|Japan|Shimomeguro|InfoSphere|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|116.80.96.169|3128|Japan|Shimomeguro|InfoSphere|
+|3|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|5|171.228.136.18|32119|Vietnam|Vĩnh Yên|Viettel Corporation|
+|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|185.200.38.140|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|15|103.59.44.33|2022|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|116.80.48.146|3128|Japan|Tokyo|InfoSphere|
+|18|116.80.69.230|3128|Japan|Shimomeguro|InfoSphere|
+|19|116.80.69.240|3128|Japan|Shimomeguro|InfoSphere|
+|20|116.80.96.169|3128|Japan|Shimomeguro|InfoSphere|
 
 
 
