@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|103.190.171.241|1080|Indonesia|Jakarta|WMS|
-|6|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|7|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|12|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|103.133.26.107|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|152.26.231.86|9443|United States|Concord|MCNC|
-|17|152.26.229.86|9443|United States|Concord|MCNC|
+|2|34.97.46.219|8561|Japan|Osaka|Google LLC|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|34.97.47.210|8561|Japan|Osaka|Google LLC|
+|6|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|38.137.203.14|999|Peru|Lima|Internet Services Perú|
+|10|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|152.26.231.86|9443|United States|Concord|MCNC|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|91.236.156.30|8282|Ukraine|Poltava|Limited Liability Company AVATOR ISP|
 |18|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|72.10.164.178|14645|Canada|Montreal|GloboTech Communications|
-|20|182.140.146.149|3128|China|Muping|CHINANET SiChuan Telecom Internet Data Center|
+|19|116.80.48.145|3128|Japan|Tokyo|InfoSphere|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
