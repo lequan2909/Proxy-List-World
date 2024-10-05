@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|116.80.48.147|3128|Japan|Tokyo|InfoSphere|
-|9|116.80.69.240|3128|Japan|Shimomeguro|InfoSphere|
-|10|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|16|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|34.97.47.210|8561|Japan|Osaka|Google LLC|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|10|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|116.80.48.147|3128|Japan|Tokyo|InfoSphere|
+|13|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|116.80.69.240|3128|Japan|Shimomeguro|InfoSphere|
+|15|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|34.97.42.111|8561|Japan|Osaka|Google LLC|
+|17|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
 |18|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
