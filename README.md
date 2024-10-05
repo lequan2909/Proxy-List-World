@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|2|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|1|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|2|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|116.80.99.164|3128|Japan|Shimomeguro|InfoSphere|
+|6|116.80.69.227|3128|Japan|Shimomeguro|InfoSphere|
+|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 |9|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|10|116.80.98.15|3128|Japan|Shimomeguro|InfoSphere|
-|11|116.80.60.140|3128|Japan|Tokyo|InfoSphere|
-|12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|13|116.98.79.14|5101|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|17|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|18|116.80.48.141|3128|Japan|Tokyo|InfoSphere|
-|19|116.80.99.166|3128|Japan|Shimomeguro|InfoSphere|
-|20|116.80.98.13|3128|Japan|Shimomeguro|InfoSphere|
+|10|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|14|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|116.80.48.141|3128|Japan|Tokyo|InfoSphere|
+|16|116.80.99.166|3128|Japan|Shimomeguro|InfoSphere|
+|17|116.80.98.13|3128|Japan|Shimomeguro|InfoSphere|
+|18|116.80.88.154|3128|Japan|Shimomeguro|InfoSphere|
+|19|116.80.96.169|3128|Japan|Shimomeguro|InfoSphere|
+|20|27.124.93.197|8080|Indonesia|Pamulang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
 
 
 
