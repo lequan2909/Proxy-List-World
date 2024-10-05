@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.60.140|3128|Japan|Tokyo|InfoSphere|
-|3|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|4|116.80.92.232|3128|Japan|Shimomeguro|InfoSphere|
-|5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|6|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|201.220.150.89|999|Argentina|Río Tercero|Intercom SRL|
-|10|195.25.20.155|3128|France|Paris|Orange Business Services|
-|11|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|116.80.48.144|3128|Japan|Tokyo|InfoSphere|
-|13|116.80.69.240|3128|Japan|Shimomeguro|InfoSphere|
-|14|116.80.99.167|3128|Japan|Shimomeguro|InfoSphere|
-|15|103.186.91.107|1111|Indonesia|Jepara|PT Akses Data Internusa|
-|16|116.80.69.230|3128|Japan|Shimomeguro|InfoSphere|
-|17|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|152.26.231.93|9443|United States|Concord|MCNC|
-|19|152.26.229.86|9443|United States|Concord|MCNC|
-|20|152.26.229.83|9443|United States|Concord|MCNC|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|116.80.60.140|3128|Japan|Tokyo|InfoSphere|
+|7|116.80.92.232|3128|Japan|Shimomeguro|InfoSphere|
+|8|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|9|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|11|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|103.148.45.60|8833|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|18|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|19|38.156.75.13|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
