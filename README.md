@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|103.160.202.118|3128|Indonesia|Sidoarjo|PT Sembilan Mediadata Nusaraya|
-|3|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|116.80.96.169|3128|Japan|Shimomeguro|InfoSphere|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|171.228.136.18|32119|Vietnam|Vĩnh Yên|Viettel Corporation|
+|4|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
 |5|116.80.99.164|3128|Japan|Shimomeguro|InfoSphere|
-|6|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|103.179.246.30|8080|Pakistan|Multan|Orbit Networks Private Limited|
-|11|116.80.99.166|3128|Japan|Shimomeguro|InfoSphere|
-|12|116.80.69.244|3128|Japan|Shimomeguro|InfoSphere|
-|13|116.80.69.238|3128|Japan|Shimomeguro|InfoSphere|
-|14|116.80.48.143|3128|Japan|Tokyo|InfoSphere|
-|15|195.25.20.155|3128|France|Paris|Orange Business Services|
-|16|116.80.47.28|3128|Japan|Tokyo|InfoSphere|
-|17|116.80.48.148|3128|Japan|Tokyo|InfoSphere|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|116.80.47.212|3128|Japan|Tokyo|InfoSphere|
-|20|67.43.227.226|6487|Canada|Montreal|GloboTech Communications|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|103.118.175.42|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|9|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|11|103.106.240.18|96|Bangladesh|Dhaka|Md. Saddam Hossain|
+|12|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|13|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|116.80.99.166|3128|Japan|Shimomeguro|InfoSphere|
+|15|116.80.69.244|3128|Japan|Shimomeguro|InfoSphere|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|19|116.80.48.143|3128|Japan|Tokyo|InfoSphere|
+|20|116.80.47.28|3128|Japan|Tokyo|InfoSphere|
 
 
 
