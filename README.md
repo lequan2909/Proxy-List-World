@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|42.112.195.107|4015|Vietnam|Hanoi|FPT Telecom Company|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|42.112.195.107|4015|Vietnam|Hanoi|FPT Telecom Company|
+|3|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|9|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
 |10|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|116.80.69.240|3128|Japan|Shimomeguro|InfoSphere|
+|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 |12|116.80.48.147|3128|Japan|Tokyo|InfoSphere|
-|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|34.97.36.34|8561|Japan|Osaka|Google LLC|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|19|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|37.46.135.225|3128|Russia|Irkutsk|JSC IOT|
+|15|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|116.80.69.240|3128|Japan|Shimomeguro|InfoSphere|
+|17|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|18|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|19|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|190.108.12.117|8080|Uruguay|Montevideo|Tecnowind S.A.|
 
 
 
