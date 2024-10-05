@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|112.211.202.160|8081|Philippines|Baguio City|Philippine Long Distance Telephone Co.|
-|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|10|116.80.69.227|3128|Japan|Shimomeguro|InfoSphere|
-|11|116.80.99.164|3128|Japan|Shimomeguro|InfoSphere|
-|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|15|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|18|116.80.48.146|3128|Japan|Tokyo|InfoSphere|
-|19|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|4|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|103.133.26.107|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|8|116.80.69.227|3128|Japan|Shimomeguro|InfoSphere|
+|9|116.80.99.164|3128|Japan|Shimomeguro|InfoSphere|
+|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|11|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|12|24.192.227.234|8080|United States|Albion|WideOpenWest Finance LLC|
+|13|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|14|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|15|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|17|103.104.192.114|8080|Pakistan|Karachi|Redtone Telecommunications Pakistan (Private) Limited|
+|18|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|20|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 
 
 
