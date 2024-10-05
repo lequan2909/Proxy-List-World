@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|393|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|393|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|393|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|2|103.148.24.234|8080|Indonesia|Mojokerto|Menaksopal Link Nusantara|
 |3|163.53.81.73|32650|India|Udaipur|Kay Kay Softech Private Limited|
-|4|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|67.43.228.252|7357|Canada|Montreal|GloboTech Communications|
-|12|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|203.192.199.158|8080|India|Ponda|Entire In2Cable|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|212.92.204.54|8080|Croatia|Zagreb|A1 Hrvatska d.o.o|
-|19|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|20|201.251.61.143|8080|Argentina|San Juan Bautista|Telefonica de Argentina|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|6|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|103.156.15.249|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|9|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|14|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|128.0.168.153|1080|Ukraine|Kyiv|WNET TELECOM USA Corp.|
+|16|45.166.93.29|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|17|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|18|67.43.228.252|10579|Canada|Montreal|GloboTech Communications|
+|19|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
