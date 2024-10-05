@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.60.151|3128|Japan|Tokyo|InfoSphere|
-|3|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|6|103.217.216.12|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|103.143.197.218|8000|Indonesia|Semarang|JERNIHNETWORK|
-|13|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|191.243.46.2|18283|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|18|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|116.80.92.228|3128|Japan|Shimomeguro|InfoSphere|
-|20|45.233.90.10|443|Brazil|João Pessoa|D.R SERVICOS DE COMUNICACAO LTDA - ME|
+|1|116.80.70.12|3128|Japan|Shimomeguro|InfoSphere|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|116.80.100.77|3128|Japan|Shimomeguro|InfoSphere|
+|4|116.80.70.22|3128|Japan|Shimomeguro|InfoSphere|
+|5|103.82.26.37|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|34.97.57.4|8561|Japan|Osaka|Google LLC|
+|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|13|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|116.80.92.228|3128|Japan|Shimomeguro|InfoSphere|
+|15|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|103.65.238.225|8181|Indonesia|Medan|PT Media Alvina Sejati|
+|18|116.80.98.10|3128|Japan|Shimomeguro|InfoSphere|
+|19|116.80.98.13|3128|Japan|Shimomeguro|InfoSphere|
+|20|116.80.98.7|3128|Japan|Shimomeguro|InfoSphere|
 
 
 
