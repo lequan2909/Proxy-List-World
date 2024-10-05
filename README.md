@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|116.80.69.239|3128|Japan|Shimomeguro|InfoSphere|
 |3|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|116.80.96.169|3128|Japan|Shimomeguro|InfoSphere|
-|5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|6|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|103.203.233.105|3125|Indonesia|Kedok|INDANA|
+|5|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|103.59.44.33|2022|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|12|103.174.236.63|7777|Indonesia|Brebes|PT Global Erasiber Teknologi|
-|13|195.25.20.155|3128|France|Paris|Orange Business Services|
-|14|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|20|181.209.111.82|999|Argentina|Villa de Soto|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|14|116.80.48.141|3128|Japan|Tokyo|InfoSphere|
+|15|116.80.50.82|3128|Japan|Tokyo|InfoSphere|
+|16|116.80.99.167|3128|Japan|Shimomeguro|InfoSphere|
+|17|116.80.98.14|3128|Japan|Shimomeguro|InfoSphere|
+|18|45.190.52.24|8080|Brazil|Araranguá|Exa Internet|
+|19|116.80.99.164|3128|Japan|Shimomeguro|InfoSphere|
+|20|116.80.69.235|3128|Japan|Shimomeguro|InfoSphere|
 
 
 
