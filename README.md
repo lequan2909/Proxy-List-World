@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|414|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|414|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|414|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|406|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|406|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|406|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.97.54.188|8561|Japan|Osaka|Google LLC|
-|2|116.80.98.8|3128|Japan|Shimomeguro|InfoSphere|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|116.80.88.59|3128|Japan|Shimomeguro|InfoSphere|
-|7|116.80.89.190|3128|Japan|Shimomeguro|InfoSphere|
-|8|116.80.47.30|3128|Japan|Tokyo|InfoSphere|
-|9|116.80.48.180|3128|Japan|Tokyo|InfoSphere|
-|10|116.80.48.146|3128|Japan|Tokyo|InfoSphere|
-|11|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|12|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|13|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|116.80.43.175|3128|Japan|Tokyo|InfoSphere|
-|15|82.180.145.100|3128|India|Mumbai|Contabo Asia Private Limited|
-|16|116.80.48.144|3128|Japan|Tokyo|InfoSphere|
-|17|116.80.70.19|3128|Japan|Shimomeguro|InfoSphere|
-|18|34.97.49.38|8561|Japan|Osaka|Google LLC|
-|19|116.80.48.177|3128|Japan|Tokyo|InfoSphere|
-|20|116.80.89.190|3128|Japan|Shimomeguro|InfoSphere|
+|1|34.97.46.232|8561|Japan|Osaka|Google LLC|
+|2|34.97.48.217|8561|Japan|Osaka|Google LLC|
+|3|34.97.49.38|8561|Japan|Osaka|Google LLC|
+|4|34.97.54.188|8561|Japan|Osaka|Google LLC|
+|5|116.80.98.8|3128|Japan|Shimomeguro|InfoSphere|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|116.80.88.59|3128|Japan|Shimomeguro|InfoSphere|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|116.80.47.30|3128|Japan|Tokyo|InfoSphere|
+|11|116.80.48.180|3128|Japan|Tokyo|InfoSphere|
+|12|103.69.21.192|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|13|116.80.89.190|3128|Japan|Shimomeguro|InfoSphere|
+|14|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|116.80.48.146|3128|Japan|Tokyo|InfoSphere|
+|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|17|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|18|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|19|203.104.34.144|3128|China|Guangzhou|Fuzhou|
+|20|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
