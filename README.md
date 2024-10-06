@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
 |5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |7|116.80.48.171|3128|Japan|Tokyo|InfoSphere|
-|8|204.157.251.169|999|Dominican Republic|El Factor|Sequre Networks SRL|
-|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|10|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
-|11|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|12|116.80.88.62|3128|Japan|Shimomeguro|InfoSphere|
-|13|152.26.231.42|9443|United States|Concord|MCNC|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|10|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|11|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|85.119.120.55|8080|Malta|Birkirkara|Melita Ltd|
 |14|152.26.229.47|9443|United States|Concord|MCNC|
-|15|152.26.229.93|9443|United States|Concord|MCNC|
-|16|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|116.80.88.66|3128|Japan|Shimomeguro|InfoSphere|
-|18|116.80.89.152|3128|Japan|Shimomeguro|InfoSphere|
-|19|67.43.228.250|20441|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|23319|Canada|Montreal|GloboTech Communications|
+|15|152.26.231.42|9443|United States|Concord|MCNC|
+|16|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|19|67.43.227.227|15765|Canada|Montreal|GloboTech Communications|
+|20|103.82.26.37|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
 
 
 
