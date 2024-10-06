@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
 |2|178.48.68.61|18080|Hungary|Budapest|UPC|
-|3|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|4|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|6|116.80.47.27|3128|Japan|Tokyo|InfoSphere|
-|7|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|116.80.60.146|3128|Japan|Tokyo|InfoSphere|
-|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|10|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|67.43.228.250|4001|Canada|Montreal|GloboTech Communications|
+|3|34.97.78.175|8561|Japan|Osaka|Google LLC|
+|4|195.123.240.138|7777|United States|Los Angeles|Green Floid LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|115.74.246.138|8080|Vietnam|Quận Mười Một|VIETELxdsl|
+|7|111.89.146.129|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|8|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|116.80.47.27|3128|Japan|Tokyo|InfoSphere|
+|10|116.80.60.146|3128|Japan|Tokyo|InfoSphere|
+|11|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |12|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|72.10.160.90|9897|Canada|Montreal|GloboTech Communications|
-|14|115.74.246.138|8080|Vietnam|Quận Mười Một|VIETELxdsl|
-|15|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|67.43.227.227|2637|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.251|25567|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|2579|Canada|Montreal|GloboTech Communications|
+|14|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|67.43.227.227|12427|Canada|Montreal|GloboTech Communications|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
 |18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|72.10.160.170|11347|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|4371|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 
 
 
