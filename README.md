@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.47.23|3128|Japan|Tokyo|InfoSphere|
+|1|116.80.47.23|3128|Japan|Tokyo|InfoSphere|
+|2|116.80.69.227|3128|Japan|Shimomeguro|InfoSphere|
 |3|116.80.47.27|3128|Japan|Tokyo|InfoSphere|
-|4|116.80.69.227|3128|Japan|Shimomeguro|InfoSphere|
-|5|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|103.189.249.194|1111|Indonesia|Central Java|PT Berkah Media Kusuma Vision|
-|8|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|11|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|152.26.229.86|9443|United States|Concord|MCNC|
-|14|152.26.229.46|9443|United States|Concord|MCNC|
-|15|152.26.229.47|9443|United States|Concord|MCNC|
-|16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|152.26.229.34|9443|United States|Concord|MCNC|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|152.26.231.93|9443|United States|Concord|MCNC|
-|20|198.24.188.138|31538|United States|Ashburn|Secured Servers LLC|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|111.68.26.237|8080|Indonesia|Yogyakarta|GMEDIA|
+|12|171.242.59.91|5101|Vietnam|Hanoi|Viettel Corporation|
+|13|206.84.104.126|8080|Indonesia|Jakarta|AGIS|
+|14|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|152.26.229.86|9443|United States|Concord|MCNC|
+|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|152.26.229.47|9443|United States|Concord|MCNC|
 
 
 
