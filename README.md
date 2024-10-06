@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.92.225|3128|Japan|Shimomeguro|InfoSphere|
 |3|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|34.97.68.25|8561|Japan|Osaka|Google LLC|
-|7|34.97.72.67|8561|Japan|Osaka|Google LLC|
-|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|116.80.69.234|3128|Japan|Shimomeguro|InfoSphere|
-|10|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|54.152.9.36|3128|United States|Ashburn|Amazon.com, Inc.|
-|12|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|171.6.78.8|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|14|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|147.45.74.178|3128|Sweden|Stockholm|Aeza International LTD|
-|18|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|19|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|20|34.97.52.66|8561|Japan|Osaka|Google LLC|
+|5|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|54.152.9.36|3128|United States|Ashburn|Amazon.com, Inc.|
+|8|200.106.116.22|999|Peru|Huacho|Telefonica del Peru|
+|9|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|80.71.188.22|8080|Russia|Novosibirsk|MTS PJSC|
+|12|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|13|147.45.74.178|3128|Sweden|Stockholm|Aeza International LTD|
+|14|103.169.254.131|3127|Indonesia|Curahjati|PT Master Star Network|
+|15|171.6.78.8|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|16|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|17|34.97.52.66|8561|Japan|Osaka|Google LLC|
+|18|116.80.48.175|3128|Japan|Tokyo|InfoSphere|
+|19|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
+|20|116.80.60.146|3128|Japan|Tokyo|InfoSphere|
 
 
 
