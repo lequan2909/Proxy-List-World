@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5419** proxies at the latest update. Usable proxies are below.
+> Scraper found **5406** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|35|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|643|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|544|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|531|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3239|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 |4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|34.97.92.31|8561|Japan|Osaka|Google LLC|
-|9|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|10|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|45.189.151.27|999|Mexico|Caparroso|Javier Tamayo Garcia|
+|5|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|6|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|34.97.26.61|8561|Japan|Osaka|Google LLC|
+|10|34.97.197.142|8561|Japan|Osaka|Google LLC|
+|11|34.97.42.41|8561|Japan|Osaka|Google LLC|
 |12|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|119.76.142.232|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
-|15|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|16|34.97.26.61|8561|Japan|Osaka|Google LLC|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|34.97.85.151|8561|Japan|Osaka|Google LLC|
-|19|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|116.80.60.146|3128|Japan|Tokyo|InfoSphere|
+|17|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|152.26.231.93|9443|United States|Concord|MCNC|
 
 
 
