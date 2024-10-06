@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|453|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|453|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|453|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.97.61.85|8561|Japan|Osaka|Google LLC|
-|2|116.80.88.67|3128|Japan|Shimomeguro|InfoSphere|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|7|116.80.47.18|3128|Japan|Tokyo|InfoSphere|
-|8|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|202.61.120.182|8080|India|Chennai|Arjun Telecom Pvt. Ltd.|
-|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|12|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|124.107.204.61|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|103.172.70.191|8181|Indonesia|Gemolong|AZNET|
-|17|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|18|103.133.26.107|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|19|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|20|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|116.80.88.67|3128|Japan|Shimomeguro|InfoSphere|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|9|116.80.47.18|3128|Japan|Tokyo|InfoSphere|
+|10|95.216.205.32|8118|Finland|Helsinki|Hetzner Online GmbH|
+|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|14|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|16|5.58.98.183|8081|Ukraine|Ternopil|Columbus|
+|17|116.203.15.29|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|18|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|200.39.120.78|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
 
 
 
