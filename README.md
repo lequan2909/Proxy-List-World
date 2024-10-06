@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|34.97.68.25|8561|Japan|Osaka|Google LLC|
-|3|34.97.72.67|8561|Japan|Osaka|Google LLC|
-|4|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|7|72.10.164.178|12839|Canada|Montreal|GloboTech Communications|
+|3|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|5|34.97.72.67|8561|Japan|Osaka|Google LLC|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
 |8|72.10.164.178|12839|Canada|Montreal|GloboTech Communications|
-|9|152.26.231.86|9443|United States|Concord|MCNC|
-|10|152.26.229.47|9443|United States|Concord|MCNC|
-|11|152.26.229.46|9443|United States|Concord|MCNC|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|152.26.229.86|9443|United States|Concord|MCNC|
-|14|67.43.236.20|16619|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|152.26.231.93|9443|United States|Concord|MCNC|
-|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|72.10.164.178|12839|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|19581|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|13831|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|12839|Canada|Montreal|GloboTech Communications|
+|10|152.26.231.86|9443|United States|Concord|MCNC|
+|11|152.26.229.47|9443|United States|Concord|MCNC|
+|12|152.26.229.46|9443|United States|Concord|MCNC|
+|13|152.26.231.94|9443|United States|Concord|MCNC|
+|14|36.67.208.59|32650|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|67.43.228.250|13831|Canada|Montreal|GloboTech Communications|
+|18|152.26.231.93|9443|United States|Concord|MCNC|
+|19|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|67.43.236.20|21463|Canada|Montreal|GloboTech Communications|
 
 
 
