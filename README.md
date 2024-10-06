@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.72.67|8561|Japan|Osaka|Google LLC|
-|3|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|34.97.67.132|8561|Japan|Osaka|Google LLC|
-|6|34.97.78.175|8561|Japan|Osaka|Google LLC|
-|7|34.97.65.59|8561|Japan|Osaka|Google LLC|
-|8|34.97.42.41|8561|Japan|Osaka|Google LLC|
-|9|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|11|103.78.36.116|8080|Indonesia|Jakarta|MORATELINDO|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|116.80.60.146|3128|Japan|Tokyo|InfoSphere|
-|16|34.97.72.67|8561|Japan|Osaka|Google LLC|
-|17|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|18|152.26.229.47|9443|United States|Concord|MCNC|
-|19|152.26.231.94|9443|United States|Concord|MCNC|
-|20|152.26.231.93|9443|United States|Concord|MCNC|
+|2|34.97.229.206|8561|Japan|Osaka|Google LLC|
+|3|34.97.114.192|8561|Japan|Osaka|Google LLC|
+|4|34.97.27.41|8561|Japan|Osaka|Google LLC|
+|5|34.97.197.142|8561|Japan|Osaka|Google LLC|
+|6|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|34.97.11.208|8561|Japan|Osaka|Google LLC|
+|9|34.97.138.39|8561|Japan|Osaka|Google LLC|
+|10|34.97.72.67|8561|Japan|Osaka|Google LLC|
+|11|34.97.136.20|8561|Japan|Osaka|Google LLC|
+|12|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|13|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|116.80.60.146|3128|Japan|Tokyo|InfoSphere|
+|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|18|163.172.33.137|4011|France|Vitry-sur-Seine|Online S.A.S.|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
