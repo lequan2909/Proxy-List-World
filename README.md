@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.88.38|3128|Japan|Shimomeguro|InfoSphere|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|1|116.80.88.38|3128|Japan|Shimomeguro|InfoSphere|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|5|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
 |6|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|10|116.80.88.67|3128|Japan|Shimomeguro|InfoSphere|
-|11|116.80.69.236|3128|Japan|Shimomeguro|InfoSphere|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|116.80.48.180|3128|Japan|Tokyo|InfoSphere|
-|14|116.80.48.170|3128|Japan|Tokyo|InfoSphere|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|116.80.48.175|3128|Japan|Tokyo|InfoSphere|
-|17|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|72.10.164.178|28629|Canada|Montreal|GloboTech Communications|
-|19|103.25.110.222|8080|Indonesia|Banjar|PT. Indonesia Comnet Plus|
-|20|152.26.231.94|9443|United States|Concord|MCNC|
+|7|103.188.136.44|32650|Bangladesh|Nārāyanganj|Sajid Trading Limited|
+|8|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|116.80.88.67|3128|Japan|Shimomeguro|InfoSphere|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|36.88.129.142|7777|Indonesia|Surabaya|PT. Telekomunikasi Indonesia|
+|16|116.80.69.236|3128|Japan|Shimomeguro|InfoSphere|
+|17|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|20|116.80.48.180|3128|Japan|Tokyo|InfoSphere|
 
 
 
