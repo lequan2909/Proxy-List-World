@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.69.227|3128|Japan|Shimomeguro|InfoSphere|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|4|116.80.47.27|3128|Japan|Tokyo|InfoSphere|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|116.80.48.140|3128|Japan|Tokyo|InfoSphere|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|116.80.48.173|3128|Japan|Tokyo|InfoSphere|
-|10|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|116.80.92.228|3128|Japan|Shimomeguro|InfoSphere|
-|12|116.80.88.25|3128|Japan|Shimomeguro|InfoSphere|
-|13|103.157.117.41|8080|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
-|14|116.80.43.167|3128|Japan|Tokyo|InfoSphere|
-|15|116.80.48.179|3128|Japan|Tokyo|InfoSphere|
-|16|152.26.229.83|9443|United States|Concord|MCNC|
-|17|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|152.26.229.46|9443|United States|Concord|MCNC|
-|20|152.26.231.83|9443|United States|Concord|MCNC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|116.80.47.27|3128|Japan|Tokyo|InfoSphere|
+|3|116.80.69.227|3128|Japan|Shimomeguro|InfoSphere|
+|4|101.108.120.3|8080|Thailand|Bangkok|TOT Public Company Limited|
+|5|116.80.48.140|3128|Japan|Tokyo|InfoSphere|
+|6|194.44.36.114|6868|Ukraine|Brody|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
+|7|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|8|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|103.157.117.41|8080|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
+|10|116.80.48.173|3128|Japan|Tokyo|InfoSphere|
+|11|116.80.50.112|3128|Japan|Tokyo|InfoSphere|
+|12|116.80.43.167|3128|Japan|Tokyo|InfoSphere|
+|13|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|116.80.48.178|3128|Japan|Tokyo|InfoSphere|
+|15|116.80.92.228|3128|Japan|Shimomeguro|InfoSphere|
+|16|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|116.80.88.25|3128|Japan|Shimomeguro|InfoSphere|
+|18|116.80.48.179|3128|Japan|Tokyo|InfoSphere|
+|19|116.80.48.176|3128|Japan|Tokyo|InfoSphere|
+|20|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
