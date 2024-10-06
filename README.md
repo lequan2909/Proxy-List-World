@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.42.111|8561|Japan|Osaka|Google LLC|
-|3|34.97.39.84|8561|Japan|Osaka|Google LLC|
-|4|34.97.46.219|8561|Japan|Osaka|Google LLC|
-|5|34.97.57.4|8561|Japan|Osaka|Google LLC|
-|6|34.97.46.98|8561|Japan|Osaka|Google LLC|
-|7|34.97.42.41|8561|Japan|Osaka|Google LLC|
-|8|34.97.30.220|8561|Japan|Osaka|Google LLC|
-|9|34.97.37.111|8561|Japan|Osaka|Google LLC|
-|10|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|34.97.47.210|8561|Japan|Osaka|Google LLC|
-|12|103.35.153.74|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
-|13|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|15|34.97.36.34|8561|Japan|Osaka|Google LLC|
-|16|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|19|116.80.91.122|3128|Japan|Shimomeguro|InfoSphere|
-|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|3|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
+|4|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|6|61.7.183.113|8080|Thailand|Ao Nang|CAT Telecom Public Company Limited|
+|7|34.97.42.111|8561|Japan|Osaka|Google LLC|
+|8|116.80.91.122|3128|Japan|Shimomeguro|InfoSphere|
+|9|118.179.84.218|8080|Bangladesh|Sylhet|Dhakacom Limited|
+|10|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|11|116.80.47.27|3128|Japan|Tokyo|InfoSphere|
+|12|152.26.229.86|9443|United States|Concord|MCNC|
+|13|152.26.231.83|9443|United States|Concord|MCNC|
+|14|152.26.231.86|9443|United States|Concord|MCNC|
+|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|152.26.229.47|9443|United States|Concord|MCNC|
+|17|152.26.231.42|9443|United States|Concord|MCNC|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
