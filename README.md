@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|405|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|405|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|405|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.48.175|3128|Japan|Tokyo|InfoSphere|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|116.80.48.177|3128|Japan|Tokyo|InfoSphere|
-|4|116.80.48.144|3128|Japan|Tokyo|InfoSphere|
-|5|54.152.9.36|3128|United States|Ashburn|Amazon.com, Inc.|
-|6|116.80.48.141|3128|Japan|Tokyo|InfoSphere|
-|7|103.151.246.54|7777|Indonesia|Bogor|MANAKARRANET|
-|8|116.80.69.235|3128|Japan|Shimomeguro|InfoSphere|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|46.149.251.225|54486|United Kingdom|London|Vaioni Group Ltd|
-|11|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|190.40.234.18|999|Peru|Chiclayo|Telefonica del Peru|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|116.80.99.153|3128|Japan|Shimomeguro|InfoSphere|
+|3|116.80.48.175|3128|Japan|Tokyo|InfoSphere|
+|4|116.80.48.177|3128|Japan|Tokyo|InfoSphere|
+|5|116.80.48.144|3128|Japan|Tokyo|InfoSphere|
+|6|54.152.9.36|3128|United States|Ashburn|Amazon.com, Inc.|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|54.152.9.36|3128|United States|Ashburn|Amazon.com, Inc.|
+|10|103.151.246.54|7777|Indonesia|Bogor|MANAKARRANET|
+|11|116.80.48.141|3128|Japan|Tokyo|InfoSphere|
+|12|116.80.69.235|3128|Japan|Shimomeguro|InfoSphere|
+|13|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|14|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|116.80.69.221|3128|Japan|Shimomeguro|InfoSphere|
 |17|116.80.43.175|3128|Japan|Tokyo|InfoSphere|
-|18|116.80.69.221|3128|Japan|Shimomeguro|InfoSphere|
+|18|116.80.100.76|3128|Japan|Shimomeguro|InfoSphere|
 |19|116.80.69.236|3128|Japan|Shimomeguro|InfoSphere|
-|20|116.80.100.76|3128|Japan|Shimomeguro|InfoSphere|
+|20|116.80.69.240|3128|Japan|Shimomeguro|InfoSphere|
 
 
 
