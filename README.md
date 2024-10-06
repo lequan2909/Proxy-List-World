@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|451|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|451|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|451|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|398|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|398|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|398|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.88.67|3128|Japan|Shimomeguro|InfoSphere|
 |2|34.97.61.85|8561|Japan|Osaka|Google LLC|
 |3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 |5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|9|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|192.99.169.19|8450|Canada|Beauharnois|OVH SAS|
-|12|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|13|116.80.47.18|3128|Japan|Tokyo|InfoSphere|
-|14|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|15|46.252.141.11|8080|Germany|Troisdorf|Vodafone|
-|16|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|103.180.123.143|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|18|202.61.120.182|8080|India|Chennai|Arjun Telecom Pvt. Ltd.|
-|19|88.255.102.13|8080|Türkiye|Istanbul|TurkTelekom|
-|20|62.3.30.120|8080|Georgia||Enbinet Ltd.|
+|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|9|192.99.169.19|8448|Canada|Beauharnois|OVH SAS|
+|10|116.80.47.18|3128|Japan|Tokyo|InfoSphere|
+|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|13|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|16|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
+|17|70.63.90.245|8080|United States|Wilmington|Spectrum|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|150.129.5.228|8080|Pakistan|Karachi|Ebone Network (Pvt) Ltd|
+|20|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
