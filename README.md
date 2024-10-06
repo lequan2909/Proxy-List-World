@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.136.107|8561|Japan|Osaka|Google LLC|
-|3|34.97.67.132|8561|Japan|Osaka|Google LLC|
-|4|34.97.114.192|8561|Japan|Osaka|Google LLC|
-|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|7|34.97.26.61|8561|Japan|Osaka|Google LLC|
-|8|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|181.204.81.178|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
-|11|181.13.209.38|8080|Argentina|Paso de los Libres|Telecom Argentina S.A|
-|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
-|15|78.137.87.117|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|16|116.80.91.122|3128|Japan|Shimomeguro|InfoSphere|
-|17|34.97.67.132|8561|Japan|Osaka|Google LLC|
-|18|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|34.97.11.208|8561|Japan|Osaka|Google LLC|
+|5|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|6|34.97.197.142|8561|Japan|Osaka|Google LLC|
+|7|34.97.114.192|8561|Japan|Osaka|Google LLC|
+|8|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|212.110.188.220|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|12|34.97.138.39|8561|Japan|Osaka|Google LLC|
+|13|161.34.40.38|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|116.80.91.122|3128|Japan|Shimomeguro|InfoSphere|
+|15|190.14.239.58|999|Colombia|Pasto|Media Commerce Partners S.A|
+|16|116.80.92.228|3128|Japan|Shimomeguro|InfoSphere|
+|17|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|18|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
 |19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|116.80.92.228|3128|Japan|Shimomeguro|InfoSphere|
+|20|152.26.229.47|9443|United States|Concord|MCNC|
 
 
 
