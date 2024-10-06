@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|3|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|34.97.36.34|8561|Japan|Osaka|Google LLC|
-|5|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|6|34.97.57.4|8561|Japan|Osaka|Google LLC|
-|7|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|8|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
-|9|34.97.47.210|8561|Japan|Osaka|Google LLC|
-|10|34.97.42.111|8561|Japan|Osaka|Google LLC|
-|11|34.97.107.84|8561|Japan|Osaka|Google LLC|
-|12|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|147.28.155.20|10000|United States|Dallas|Packet Host, Inc.|
-|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|67.43.228.253|20115|Canada|Montreal|GloboTech Communications|
-|17|152.26.231.94|9443|United States|Concord|MCNC|
-|18|72.10.160.170|29625|Canada|Montreal|GloboTech Communications|
-|19|101.128.107.210|7777|Indonesia|Bekasi|CBN|
-|20|67.43.227.228|26181|Canada|Montreal|GloboTech Communications|
+|2|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|4|34.97.42.111|8561|Japan|Osaka|Google LLC|
+|5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|34.97.107.84|8561|Japan|Osaka|Google LLC|
+|9|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|67.43.228.253|26579|Canada|Montreal|GloboTech Communications|
+|11|152.26.231.94|9443|United States|Concord|MCNC|
+|12|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
+|13|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
+|15|152.26.229.46|9443|United States|Concord|MCNC|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|152.26.229.86|9443|United States|Concord|MCNC|
+|18|67.43.227.228|26181|Canada|Montreal|GloboTech Communications|
+|19|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|72.10.164.178|31027|Canada|Montreal|GloboTech Communications|
 
 
 
