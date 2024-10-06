@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|116.80.48.171|3128|Japan|Tokyo|InfoSphere|
-|5|103.106.115.46|8080|Indonesia|Kedaton|SMSNET|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|116.80.48.169|3128|Japan|Tokyo|InfoSphere|
-|8|116.80.48.177|3128|Japan|Tokyo|InfoSphere|
-|9|116.80.89.152|3128|Japan|Shimomeguro|InfoSphere|
-|10|116.80.69.221|3128|Japan|Shimomeguro|InfoSphere|
-|11|116.80.47.23|3128|Japan|Tokyo|InfoSphere|
-|12|116.80.48.147|3128|Japan|Tokyo|InfoSphere|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|116.80.69.236|3128|Japan|Shimomeguro|InfoSphere|
-|16|152.26.231.86|9443|United States|Concord|MCNC|
-|17|116.80.48.176|3128|Japan|Tokyo|InfoSphere|
-|18|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|116.80.98.12|3128|Japan|Shimomeguro|InfoSphere|
-|20|101.251.204.174|8080|China|Haidian|IDC, China Telecommunications Corporation|
+|2|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|8|116.80.48.171|3128|Japan|Tokyo|InfoSphere|
+|9|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|116.80.89.152|3128|Japan|Shimomeguro|InfoSphere|
+|13|116.80.48.177|3128|Japan|Tokyo|InfoSphere|
+|14|116.80.69.221|3128|Japan|Shimomeguro|InfoSphere|
+|15|116.80.48.169|3128|Japan|Tokyo|InfoSphere|
+|16|116.80.47.23|3128|Japan|Tokyo|InfoSphere|
+|17|116.80.48.147|3128|Japan|Tokyo|InfoSphere|
+|18|116.80.69.236|3128|Japan|Shimomeguro|InfoSphere|
+|19|116.80.48.176|3128|Japan|Tokyo|InfoSphere|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
