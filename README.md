@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|436|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|436|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|436|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.37.126|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|116.80.69.244|3128|Japan|Shimomeguro|InfoSphere|
-|4|116.80.47.30|3128|Japan|Tokyo|InfoSphere|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|161.34.37.126|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|116.80.69.244|3128|Japan|Shimomeguro|InfoSphere|
 |5|116.80.48.176|3128|Japan|Tokyo|InfoSphere|
-|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|116.80.47.30|3128|Japan|Tokyo|InfoSphere|
 |7|54.152.9.36|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|54.152.9.36|3128|United States|Ashburn|Amazon.com, Inc.|
-|9|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|116.80.88.35|3128|Japan|Shimomeguro|InfoSphere|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|17|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|116.80.69.227|3128|Japan|Shimomeguro|InfoSphere|
-|19|116.80.91.122|3128|Japan|Shimomeguro|InfoSphere|
-|20|116.80.69.236|3128|Japan|Shimomeguro|InfoSphere|
+|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|9|61.7.191.127|80|Thailand|Ao Nang|CAT Telecom Public Company Limited|
+|10|54.152.9.36|3128|United States|Ashburn|Amazon.com, Inc.|
+|11|216.250.247.212|47383|United States|New York|FiberState, LLC|
+|12|129.222.202.169|80|Colombia|Bogota|SpaceX Starlink|
+|13|116.80.88.35|3128|Japan|Shimomeguro|InfoSphere|
+|14|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|103.148.45.60|8833|Indonesia|Jambi City|PT BUANA VISUALNET SENTRA|
+|17|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|34.97.46.232|8561|Japan|Osaka|Google LLC|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
