@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|4|116.80.48.140|3128|Japan|Tokyo|InfoSphere|
-|5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|6|116.80.48.171|3128|Japan|Tokyo|InfoSphere|
-|7|152.26.229.34|9443|United States|Concord|MCNC|
-|8|152.26.231.42|9443|United States|Concord|MCNC|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|72.10.164.178|32045|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.170|28725|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.18|27073|Canada|Montreal|GloboTech Communications|
-|13|152.26.229.42|9443|United States|Concord|MCNC|
-|14|72.10.160.90|28639|Canada|Montreal|GloboTech Communications|
-|15|152.26.231.86|9443|United States|Concord|MCNC|
-|16|152.26.231.83|9443|United States|Concord|MCNC|
-|17|67.43.227.228|17735|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|28725|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|2497|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.173|11509|Canada|Montreal|GloboTech Communications|
+|3|116.80.48.140|3128|Japan|Tokyo|InfoSphere|
+|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|5|152.26.229.34|9443|United States|Concord|MCNC|
+|6|152.26.231.42|9443|United States|Concord|MCNC|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|72.10.160.170|29043|Canada|Montreal|GloboTech Communications|
+|9|152.26.229.42|9443|United States|Concord|MCNC|
+|10|152.26.231.83|9443|United States|Concord|MCNC|
+|11|152.26.231.86|9443|United States|Concord|MCNC|
+|12|116.80.92.232|3128|Japan|Shimomeguro|InfoSphere|
+|13|152.26.229.83|9443|United States|Concord|MCNC|
+|14|152.26.229.46|9443|United States|Concord|MCNC|
+|15|72.10.164.178|15627|Canada|Montreal|GloboTech Communications|
+|16|116.80.47.23|3128|Japan|Tokyo|InfoSphere|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|72.10.160.173|18251|Canada|Montreal|GloboTech Communications|
+|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|20|103.191.218.75|8080|Indonesia|Kuningan Barat|PT Replay Inti Media|
 
 
 
