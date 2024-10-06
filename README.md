@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.48.177|3128|Japan|Tokyo|InfoSphere|
-|3|116.80.48.144|3128|Japan|Tokyo|InfoSphere|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|116.80.48.177|3128|Japan|Tokyo|InfoSphere|
+|2|116.80.48.144|3128|Japan|Tokyo|InfoSphere|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|5|44.229.103.123|3128|United States|Portland|Amazon.com, Inc.|
+|6|44.229.103.123|3128|United States|Portland|Amazon.com, Inc.|
 |7|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|8|147.45.74.178|3128|Sweden|Stockholm|Aeza International LTD|
-|9|116.80.60.151|3128|Japan|Tokyo|InfoSphere|
+|8|116.80.60.151|3128|Japan|Tokyo|InfoSphere|
+|9|147.45.74.178|3128|Sweden|Stockholm|Aeza International LTD|
 |10|116.80.47.30|3128|Japan|Tokyo|InfoSphere|
-|11|116.80.88.59|3128|Japan|Shimomeguro|InfoSphere|
+|11|116.80.70.23|3128|Japan|Shimomeguro|InfoSphere|
 |12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |13|116.80.43.159|3128|Japan|Tokyo|InfoSphere|
 |14|116.80.69.220|3128|Japan|Shimomeguro|InfoSphere|
-|15|152.26.231.83|9443|United States|Concord|MCNC|
-|16|116.80.89.152|3128|Japan|Shimomeguro|InfoSphere|
-|17|152.26.229.47|9443|United States|Concord|MCNC|
-|18|116.80.70.23|3128|Japan|Shimomeguro|InfoSphere|
-|19|72.10.164.178|8553|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|9923|Canada|Montreal|GloboTech Communications|
+|15|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|152.26.231.83|9443|United States|Concord|MCNC|
+|17|116.80.88.59|3128|Japan|Shimomeguro|InfoSphere|
+|18|152.26.229.47|9443|United States|Concord|MCNC|
+|19|116.80.89.152|3128|Japan|Shimomeguro|InfoSphere|
+|20|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
