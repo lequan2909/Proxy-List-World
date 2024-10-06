@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5569** proxies at the latest update. Usable proxies are below.
+> Scraper found **5594** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|252|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|529|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|253|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|553|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|453|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3377|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|2|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|116.80.48.171|3128|Japan|Tokyo|InfoSphere|
-|6|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
-|7|116.80.98.13|3128|Japan|Shimomeguro|InfoSphere|
-|8|152.26.231.83|9443|United States|Concord|MCNC|
-|9|152.26.229.34|9443|United States|Concord|MCNC|
-|10|152.26.231.93|9443|United States|Concord|MCNC|
-|11|152.26.229.93|9443|United States|Concord|MCNC|
-|12|124.105.24.80|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|13|116.80.98.10|3128|Japan|Shimomeguro|InfoSphere|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|201.20.118.146|27234|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|16|187.188.169.169|8080|Mexico|Santa Cruz Huitziltepec|Total Play Telecomunicaciones SA De CV|
-|17|36.94.60.26|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|18|72.10.164.178|32829|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|26055|Canada|Montreal|GloboTech Communications|
-|20|190.94.212.240|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|116.80.48.171|3128|Japan|Tokyo|InfoSphere|
+|8|204.157.251.169|999|Dominican Republic|El Factor|Sequre Networks SRL|
+|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|10|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
+|11|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|12|116.80.88.62|3128|Japan|Shimomeguro|InfoSphere|
+|13|152.26.231.42|9443|United States|Concord|MCNC|
+|14|152.26.229.47|9443|United States|Concord|MCNC|
+|15|152.26.229.93|9443|United States|Concord|MCNC|
+|16|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|116.80.88.66|3128|Japan|Shimomeguro|InfoSphere|
+|18|116.80.89.152|3128|Japan|Shimomeguro|InfoSphere|
+|19|67.43.228.250|20441|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|23319|Canada|Montreal|GloboTech Communications|
 
 
 
