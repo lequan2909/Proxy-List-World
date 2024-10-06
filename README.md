@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.88.38|3128|Japan|Shimomeguro|InfoSphere|
-|3|116.80.99.153|3128|Japan|Shimomeguro|InfoSphere|
-|4|116.80.48.175|3128|Japan|Tokyo|InfoSphere|
-|5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|178.48.68.61|18080|Hungary|Budapest|UPC|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|45.133.107.64|81|Russia|Tul'skiy|Art-net LLC|
-|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|12|202.57.25.62|1111|Indonesia|Semarang|announced of WINET|
-|13|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|116.80.48.170|3128|Japan|Tokyo|InfoSphere|
-|17|116.80.88.60|3128|Japan|Shimomeguro|InfoSphere|
-|18|116.80.48.174|3128|Japan|Tokyo|InfoSphere|
-|19|116.80.99.153|3128|Japan|Shimomeguro|InfoSphere|
-|20|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|3|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|4|116.80.99.153|3128|Japan|Shimomeguro|InfoSphere|
+|5|116.80.48.175|3128|Japan|Tokyo|InfoSphere|
+|6|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|103.191.115.252|83|India|Bānka|Xpress Fiber Private Limited|
+|11|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|128.92.239.190|8080|United States|Los Angeles|Spectrum|
+|13|202.57.25.62|1111|Indonesia|Semarang|announced of WINET|
+|14|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|116.80.47.30|3128|Japan|Tokyo|InfoSphere|
+|17|116.80.48.170|3128|Japan|Tokyo|InfoSphere|
+|18|103.36.11.246|8181|Indonesia|Pandeglang|PT Awinet Global Mandiri|
+|19|116.80.88.60|3128|Japan|Shimomeguro|InfoSphere|
+|20|116.80.99.153|3128|Japan|Shimomeguro|InfoSphere|
 
 
 
