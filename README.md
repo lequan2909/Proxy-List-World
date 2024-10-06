@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
 |5|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|34.97.114.192|8561|Japan|Osaka|Google LLC|
-|7|34.97.117.29|8561|Japan|Osaka|Google LLC|
-|8|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|10|34.97.138.39|8561|Japan|Osaka|Google LLC|
-|11|116.80.47.27|3128|Japan|Tokyo|InfoSphere|
-|12|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|152.26.229.47|9443|United States|Concord|MCNC|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|34.97.138.39|8561|Japan|Osaka|Google LLC|
+|9|116.80.47.27|3128|Japan|Tokyo|InfoSphere|
+|10|152.26.231.42|9443|United States|Concord|MCNC|
+|11|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|152.26.229.47|9443|United States|Concord|MCNC|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
 |14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|152.26.231.42|9443|United States|Concord|MCNC|
-|16|67.43.227.227|3263|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.86|9443|United States|Concord|MCNC|
-|18|72.10.164.178|18903|Canada|Montreal|GloboTech Communications|
-|19|152.26.229.83|9443|United States|Concord|MCNC|
-|20|152.26.231.94|9443|United States|Concord|MCNC|
+|15|152.26.229.83|9443|United States|Concord|MCNC|
+|16|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|17|152.26.231.94|9443|United States|Concord|MCNC|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
