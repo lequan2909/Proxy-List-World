@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.48.68.61|18080|Hungary|Budapest|UPC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|5.42.78.122|3128|Sweden|Stockholm|Aeza International LTD|
-|5|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|8|116.80.47.23|3128|Japan|Tokyo|InfoSphere|
-|9|152.26.231.83|9443|United States|Concord|MCNC|
-|10|152.26.231.93|9443|United States|Concord|MCNC|
-|11|152.26.229.42|9443|United States|Concord|MCNC|
-|12|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|13|152.26.231.42|9443|United States|Concord|MCNC|
-|14|152.26.229.34|9443|United States|Concord|MCNC|
-|15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|152.26.229.47|9443|United States|Concord|MCNC|
-|17|72.10.164.178|24575|Canada|Montreal|GloboTech Communications|
-|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|19|72.10.160.170|13635|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|178.48.68.61|18080|Hungary|Budapest|UPC|
+|3|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|4|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|103.191.165.104|8080|Indonesia|Subang|PT Sakti Wijaya Network|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|115.74.246.138|8080|Vietnam|Quận Mười Một|VIETELxdsl|
+|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|10|34.97.123.137|8561|Japan|Osaka|Google LLC|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|13|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|152.26.231.93|9443|United States|Concord|MCNC|
+|15|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|16|116.80.47.23|3128|Japan|Tokyo|InfoSphere|
+|17|152.26.231.83|9443|United States|Concord|MCNC|
+|18|103.173.142.107|8090|Indonesia|Kota Pekalongan|PT Lestari Exellika Barokah|
+|19|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
