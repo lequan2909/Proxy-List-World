@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.48.175|3128|Japan|Tokyo|InfoSphere|
-|3|116.80.48.144|3128|Japan|Tokyo|InfoSphere|
-|4|116.80.48.177|3128|Japan|Tokyo|InfoSphere|
-|5|116.109.110.34|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|1|116.80.48.175|3128|Japan|Tokyo|InfoSphere|
+|2|116.80.48.144|3128|Japan|Tokyo|InfoSphere|
+|3|116.80.48.177|3128|Japan|Tokyo|InfoSphere|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
 |6|116.80.48.179|3128|Japan|Tokyo|InfoSphere|
 |7|116.80.88.68|3128|Japan|Shimomeguro|InfoSphere|
 |8|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|9|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|14.139.57.195|23500|India|Lucknow|National Knowledge Network|
-|12|103.48.68.12|83|India|Hyderabad|Country Online Services PVT LTD|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
+|14|116.80.71.195|3128|Japan|Shimomeguro|InfoSphere|
 |15|116.80.48.175|3128|Japan|Tokyo|InfoSphere|
 |16|116.80.48.169|3128|Japan|Tokyo|InfoSphere|
-|17|116.80.99.153|3128|Japan|Shimomeguro|InfoSphere|
-|18|116.80.71.195|3128|Japan|Shimomeguro|InfoSphere|
-|19|116.80.89.133|3128|Japan|Shimomeguro|InfoSphere|
-|20|116.80.93.37|3128|Japan|Shimomeguro|InfoSphere|
+|17|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|18|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|19|116.80.99.153|3128|Japan|Shimomeguro|InfoSphere|
+|20|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
 
 
 
