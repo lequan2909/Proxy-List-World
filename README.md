@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.68.25|8561|Japan|Osaka|Google LLC|
-|3|34.97.37.111|8561|Japan|Osaka|Google LLC|
-|4|178.48.68.61|18080|Hungary|Budapest|UPC|
-|5|34.97.42.41|8561|Japan|Osaka|Google LLC|
-|6|34.97.72.67|8561|Japan|Osaka|Google LLC|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|34.97.68.25|8561|Japan|Osaka|Google LLC|
-|13|3.106.122.53|3128|Australia|Sydney|Amazon Technologies Inc.|
-|14|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|15|152.26.229.86|9443|United States|Concord|MCNC|
-|16|152.26.231.83|9443|United States|Concord|MCNC|
-|17|152.26.229.34|9443|United States|Concord|MCNC|
-|18|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|67.43.228.253|10879|Canada|Montreal|GloboTech Communications|
-|20|34.97.117.29|8561|Japan|Osaka|Google LLC|
+|1|103.248.120.5|8080|India|Meerut|Shivansh Infotech pvt Ltd|
+|2|34.97.37.111|8561|Japan|Osaka|Google LLC|
+|3|178.48.68.61|18080|Hungary|Budapest|UPC|
+|4|34.97.42.111|8561|Japan|Osaka|Google LLC|
+|5|34.97.114.192|8561|Japan|Osaka|Google LLC|
+|6|37.46.135.225|3128|Russia|Irkutsk|JSC IOT|
+|7|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|12|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|152.26.231.83|9443|United States|Concord|MCNC|
+|14|152.26.229.86|9443|United States|Concord|MCNC|
+|15|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|41.242.44.9|8084|South Africa|Brits|Info-Gro (PTY) Ltd|
 
 
 
