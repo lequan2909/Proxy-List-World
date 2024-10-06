@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|3|172.179.120.236|3203|United States|Quincy|Microsoft|
-|4|34.97.136.107|8561|Japan|Osaka|Google LLC|
-|5|172.179.120.236|3203|United States|Quincy|Microsoft|
-|6|119.76.142.232|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
-|7|193.84.2.199|8080|Finland|Helsinki|Hostkey B.V.|
-|8|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|12|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|14|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|171.96.204.80|80|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|34.97.68.25|8561|Japan|Osaka|Google LLC|
-|19|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|34.97.92.31|8561|Japan|Osaka|Google LLC|
+|5|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|34.97.26.61|8561|Japan|Osaka|Google LLC|
+|12|34.97.67.132|8561|Japan|Osaka|Google LLC|
+|13|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|152.26.229.34|9443|United States|Concord|MCNC|
+|17|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|152.26.229.83|9443|United States|Concord|MCNC|
+|19|72.10.164.178|3653|Canada|Montreal|GloboTech Communications|
+|20|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
 
 
 
