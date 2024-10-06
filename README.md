@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.97.229.206|8561|Japan|Osaka|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|34.97.27.41|8561|Japan|Osaka|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|34.97.229.206|8561|Japan|Osaka|Google LLC|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|34.97.11.208|8561|Japan|Osaka|Google LLC|
-|5|34.97.42.41|8561|Japan|Osaka|Google LLC|
-|6|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|34.97.114.192|8561|Japan|Osaka|Google LLC|
-|8|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|9|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|10|34.97.136.20|8561|Japan|Osaka|Google LLC|
-|11|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|34.97.67.132|8561|Japan|Osaka|Google LLC|
-|13|34.97.68.25|8561|Japan|Osaka|Google LLC|
-|14|34.97.72.67|8561|Japan|Osaka|Google LLC|
-|15|161.34.37.126|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|116.80.47.12|3128|Japan|Tokyo|InfoSphere|
-|17|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|152.26.229.46|9443|United States|Concord|MCNC|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|152.26.229.83|9443|United States|Concord|MCNC|
+|5|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|34.97.138.39|8561|Japan|Osaka|Google LLC|
+|8|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|9|161.34.37.126|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|116.80.47.12|3128|Japan|Tokyo|InfoSphere|
+|11|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|152.26.229.83|9443|United States|Concord|MCNC|
+|14|152.26.231.94|9443|United States|Concord|MCNC|
+|15|72.10.164.178|22909|Canada|Montreal|GloboTech Communications|
+|16|152.26.229.46|9443|United States|Concord|MCNC|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|152.26.231.83|9443|United States|Concord|MCNC|
+|19|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
+|20|34.97.136.107|8561|Japan|Osaka|Google LLC|
 
 
 
