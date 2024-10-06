@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|6|152.26.229.86|9443|United States|Concord|MCNC|
-|7|67.43.227.227|21477|Canada|Montreal|GloboTech Communications|
-|8|152.26.229.34|9443|United States|Concord|MCNC|
-|9|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
-|10|152.26.229.93|9443|United States|Concord|MCNC|
-|11|152.26.231.94|9443|United States|Concord|MCNC|
-|12|67.43.228.253|17903|Canada|Montreal|GloboTech Communications|
-|13|152.26.229.46|9443|United States|Concord|MCNC|
-|14|72.10.164.178|26031|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|17903|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.172|18161|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|72.10.160.90|26879|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|21477|Canada|Montreal|GloboTech Communications|
-|20|139.255.33.242|3128|Indonesia|South Tangerang|PT. LINKNET|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|7|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|8|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|152.26.229.86|9443|United States|Concord|MCNC|
+|11|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
+|12|152.26.229.34|9443|United States|Concord|MCNC|
+|13|152.26.229.93|9443|United States|Concord|MCNC|
+|14|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|15|152.26.231.94|9443|United States|Concord|MCNC|
+|16|51.159.75.249|3128|France|Paris|SCALEWAY|
+|17|152.26.229.46|9443|United States|Concord|MCNC|
+|18|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
 
