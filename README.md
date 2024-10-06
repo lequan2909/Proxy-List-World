@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.47.23|3128|Japan|Tokyo|InfoSphere|
 |2|116.80.47.27|3128|Japan|Tokyo|InfoSphere|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|116.80.69.227|3128|Japan|Shimomeguro|InfoSphere|
-|5|51.222.142.100|9595|Canada|Beauharnois|OVH SAS|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|37.46.135.225|3128|Russia|Irkutsk|JSC IOT|
-|10|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|11|62.103.66.18|3128|Greece|Athens|OTEnet|
-|12|116.80.69.239|3128|Japan|Shimomeguro|InfoSphere|
-|13|34.97.46.98|8561|Japan|Osaka|Google LLC|
-|14|116.80.48.171|3128|Japan|Tokyo|InfoSphere|
-|15|116.80.48.175|3128|Japan|Tokyo|InfoSphere|
-|16|116.80.70.8|3128|Japan|Shimomeguro|InfoSphere|
-|17|34.97.36.34|8561|Japan|Osaka|Google LLC|
-|18|34.97.42.41|8561|Japan|Osaka|Google LLC|
-|19|116.80.70.12|3128|Japan|Shimomeguro|InfoSphere|
-|20|116.80.70.13|3128|Japan|Shimomeguro|InfoSphere|
+|3|116.80.69.227|3128|Japan|Shimomeguro|InfoSphere|
+|4|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|103.157.117.41|8080|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
+|7|116.80.69.239|3128|Japan|Shimomeguro|InfoSphere|
+|8|34.97.46.98|8561|Japan|Osaka|Google LLC|
+|9|116.80.70.13|3128|Japan|Shimomeguro|InfoSphere|
+|10|116.80.88.38|3128|Japan|Shimomeguro|InfoSphere|
+|11|116.80.48.171|3128|Japan|Tokyo|InfoSphere|
+|12|34.97.36.34|8561|Japan|Osaka|Google LLC|
+|13|34.97.42.41|8561|Japan|Osaka|Google LLC|
+|14|116.80.70.8|3128|Japan|Shimomeguro|InfoSphere|
+|15|34.97.37.111|8561|Japan|Osaka|Google LLC|
+|16|116.80.88.67|3128|Japan|Shimomeguro|InfoSphere|
+|17|116.80.93.37|3128|Japan|Shimomeguro|InfoSphere|
+|18|152.26.231.42|9443|United States|Concord|MCNC|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
