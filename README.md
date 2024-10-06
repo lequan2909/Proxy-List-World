@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.47.23|3128|Japan|Tokyo|InfoSphere|
-|2|116.80.69.227|3128|Japan|Shimomeguro|InfoSphere|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|116.80.47.23|3128|Japan|Tokyo|InfoSphere|
 |3|116.80.47.27|3128|Japan|Tokyo|InfoSphere|
-|4|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|116.80.69.227|3128|Japan|Shimomeguro|InfoSphere|
+|5|190.2.209.61|999|Colombia|Tumaco|TV AZTECA SUCURSAL COLOMBIA|
+|6|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
 |7|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|8|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|36.93.130.218|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
-|10|103.180.126.42|8181|Indonesia|Jakarta|PT Alam Media Data|
-|11|45.143.108.10|8080|Georgia|Zestaponi|Airmax LLC|
-|12|51.222.142.100|9595|Canada|Beauharnois|OVH SAS|
-|13|116.80.92.232|3128|Japan|Shimomeguro|InfoSphere|
-|14|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|67.43.227.226|14479|Canada|Montreal|GloboTech Communications|
-|17|152.26.231.94|9443|United States|Concord|MCNC|
-|18|72.10.164.178|29031|Canada|Montreal|GloboTech Communications|
-|19|161.34.37.126|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|152.26.229.42|9443|United States|Concord|MCNC|
+|8|112.78.165.184|8080|Indonesia|Jakarta|Biznet Networks|
+|9|37.46.135.225|3128|Russia|Irkutsk|JSC IOT|
+|10|116.80.92.232|3128|Japan|Shimomeguro|InfoSphere|
+|11|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|181.171.117.15|8080|Argentina|La Plata|Telecom Argentina S.A|
+|13|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|152.26.231.94|9443|United States|Concord|MCNC|
+|15|72.10.164.178|29031|Canada|Montreal|GloboTech Communications|
+|16|161.34.37.126|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|152.26.231.93|9443|United States|Concord|MCNC|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|152.26.229.47|9443|United States|Concord|MCNC|
 
 
 
