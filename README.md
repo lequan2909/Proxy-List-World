@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|5|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|152.26.229.93|9443|United States|Concord|MCNC|
-|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|152.26.231.94|9443|United States|Concord|MCNC|
-|9|72.10.164.178|2993|Canada|Montreal|GloboTech Communications|
-|10|203.104.34.144|3128|China|Guangzhou|Fuzhou|
+|2|34.97.107.84|8561|Japan|Osaka|Google LLC|
+|3|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|34.97.37.111|8561|Japan|Osaka|Google LLC|
+|6|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|8|152.26.229.93|9443|United States|Concord|MCNC|
+|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|10|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |11|72.10.160.171|11525|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.230|10945|Canada|Montreal|GloboTech Communications|
-|13|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|152.26.231.94|9443|United States|Concord|MCNC|
+|13|152.26.229.83|9443|United States|Concord|MCNC|
 |14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|15|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|72.10.160.94|31581|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|116.80.60.151|3128|Japan|Tokyo|InfoSphere|
-|20|67.43.228.253|26323|Canada|Montreal|GloboTech Communications|
+|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|116.80.60.151|3128|Japan|Tokyo|InfoSphere|
+|17|67.43.228.253|26323|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|23399|Canada|Montreal|GloboTech Communications|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|72.10.164.178|13967|Canada|Montreal|GloboTech Communications|
 
 
 
