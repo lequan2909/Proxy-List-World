@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|466|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|466|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|466|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.48.176|3128|Japan|Tokyo|InfoSphere|
+|1|34.97.84.250|8561|Japan|Osaka|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|116.80.47.30|3128|Japan|Tokyo|InfoSphere|
-|4|116.80.70.21|3128|Japan|Shimomeguro|InfoSphere|
-|5|34.97.54.188|8561|Japan|Osaka|Google LLC|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|116.80.88.66|3128|Japan|Shimomeguro|InfoSphere|
-|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|10|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|5.42.78.122|3128|Sweden|Stockholm|Aeza International LTD|
-|13|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|14|116.109.110.34|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|15|171.237.245.245|5103|Vietnam|Hanoi|Viettel Corporation|
-|16|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|18|34.97.48.217|8561|Japan|Osaka|Google LLC|
-|19|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|38.97.215.145|8080|United States|Denver|Cogent Communications|
+|4|116.80.48.176|3128|Japan|Tokyo|InfoSphere|
+|5|116.80.70.21|3128|Japan|Shimomeguro|InfoSphere|
+|6|103.118.127.218|6969|Indonesia|Jakarta|Tele|
+|7|116.80.88.66|3128|Japan|Shimomeguro|InfoSphere|
+|8|158.69.62.125|47383|Canada|Montreal|OVH SAS|
+|9|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|45.70.201.184|999|Ecuador|San Miguel de Salcedo|Ufinet Panama S.A.|
+|12|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|116.80.69.230|3128|Japan|Shimomeguro|InfoSphere|
+|14|116.80.60.146|3128|Japan|Tokyo|InfoSphere|
+|15|223.70.184.125|3128|China|Beijing|China Mobile communications corporation|
+|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|103.41.33.246|58080|India|Mumbai|Juweriyah Networks Private Limited|
 
 
 
