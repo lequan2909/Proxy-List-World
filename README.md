@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.88.38|3128|Japan|Shimomeguro|InfoSphere|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|116.80.88.38|3128|Japan|Shimomeguro|InfoSphere|
 |3|116.80.99.153|3128|Japan|Shimomeguro|InfoSphere|
-|4|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|5|116.80.48.175|3128|Japan|Tokyo|InfoSphere|
+|4|116.80.48.175|3128|Japan|Tokyo|InfoSphere|
+|5|116.80.48.144|3128|Japan|Tokyo|InfoSphere|
 |6|116.80.48.177|3128|Japan|Tokyo|InfoSphere|
-|7|116.80.48.144|3128|Japan|Tokyo|InfoSphere|
-|8|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|9|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|110.49.53.69|8081|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|44.229.103.123|3128|United States|Portland|Amazon.com, Inc.|
-|16|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|116.80.50.112|3128|Japan|Tokyo|InfoSphere|
-|18|44.229.103.123|3128|United States|Portland|Amazon.com, Inc.|
-|19|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|20|116.80.69.240|3128|Japan|Shimomeguro|InfoSphere|
+|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|116.80.50.112|3128|Japan|Tokyo|InfoSphere|
+|15|116.80.69.240|3128|Japan|Shimomeguro|InfoSphere|
+|16|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|116.80.48.147|3128|Japan|Tokyo|InfoSphere|
 
 
 
