@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|508|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|508|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|508|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|477|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|477|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|477|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|4|116.80.47.18|3128|Japan|Tokyo|InfoSphere|
-|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|116.80.47.18|3128|Japan|Tokyo|InfoSphere|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|116.80.69.240|3128|Japan|Shimomeguro|InfoSphere|
 |6|116.80.89.153|3128|Japan|Shimomeguro|InfoSphere|
-|7|116.80.69.240|3128|Japan|Shimomeguro|InfoSphere|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|10|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|116.80.70.21|3128|Japan|Shimomeguro|InfoSphere|
-|14|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|15|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|116.109.110.34|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|17|51.222.102.172|80|Canada|Montreal|OVH SAS|
-|18|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|19|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|212.108.53.83|8080|Austria|Pressbaum|MMC GmbH|
+|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|116.80.70.21|3128|Japan|Shimomeguro|InfoSphere|
+|11|116.109.110.34|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|12|5.42.78.122|3128|Sweden|Stockholm|Aeza International LTD|
+|13|124.107.204.61|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|103.172.70.191|8181|Indonesia|Gemolong|AZNET|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|18|116.80.71.222|3128|Japan|Shimomeguro|InfoSphere|
+|19|116.80.43.159|3128|Japan|Tokyo|InfoSphere|
+|20|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
