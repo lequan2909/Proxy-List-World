@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|157.230.254.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|5|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|116.80.91.122|3128|Japan|Shimomeguro|InfoSphere|
-|8|116.80.92.225|3128|Japan|Shimomeguro|InfoSphere|
+|4|157.230.254.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|94.23.84.25|3128|Spain|Madrid|OVH ISP|
+|6|116.80.91.122|3128|Japan|Shimomeguro|InfoSphere|
+|7|116.80.92.225|3128|Japan|Shimomeguro|InfoSphere|
+|8|103.166.32.215|1111|Indonesia|Kudus|PT Daniswara Citra Informatika|
 |9|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|116.80.47.28|3128|Japan|Tokyo|InfoSphere|
-|11|152.26.229.34|9443|United States|Concord|MCNC|
-|12|152.26.231.94|9443|United States|Concord|MCNC|
-|13|72.10.160.91|6777|Canada|Montreal|GloboTech Communications|
-|14|152.26.229.47|9443|United States|Concord|MCNC|
-|15|67.43.228.250|23051|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|22677|Canada|Montreal|GloboTech Communications|
-|17|152.26.231.93|9443|United States|Concord|MCNC|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|152.26.229.86|9443|United States|Concord|MCNC|
-|20|72.10.164.178|6985|Canada|Montreal|GloboTech Communications|
+|10|152.26.229.34|9443|United States|Concord|MCNC|
+|11|152.26.231.94|9443|United States|Concord|MCNC|
+|12|116.80.47.28|3128|Japan|Tokyo|InfoSphere|
+|13|116.80.47.27|3128|Japan|Tokyo|InfoSphere|
+|14|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|15|72.10.164.178|17365|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.93|33275|Canada|Montreal|GloboTech Communications|
+|17|152.26.229.47|9443|United States|Concord|MCNC|
+|18|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
+|20|152.26.229.86|9443|United States|Concord|MCNC|
 
 
 
