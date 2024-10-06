@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.97.42.41|8561|Japan|Osaka|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.88.34|3128|Japan|Shimomeguro|InfoSphere|
-|3|34.97.46.219|8561|Japan|Osaka|Google LLC|
-|4|116.80.47.23|3128|Japan|Tokyo|InfoSphere|
-|5|116.80.47.27|3128|Japan|Tokyo|InfoSphere|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|7|116.80.69.227|3128|Japan|Shimomeguro|InfoSphere|
-|8|34.97.37.111|8561|Japan|Osaka|Google LLC|
-|9|51.222.142.100|3128|Canada|Beauharnois|OVH SAS|
-|10|34.97.30.220|8561|Japan|Osaka|Google LLC|
-|11|101.108.120.3|8080|Thailand|Bangkok|TOT Public Company Limited|
-|12|103.157.83.229|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|13|34.97.46.98|8561|Japan|Osaka|Google LLC|
-|14|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|16|103.171.156.134|8080|Indonesia|Jakarta|MYREPUBLIC|
+|3|34.97.37.111|8561|Japan|Osaka|Google LLC|
+|4|34.97.30.220|8561|Japan|Osaka|Google LLC|
+|5|116.80.47.23|3128|Japan|Tokyo|InfoSphere|
+|6|34.97.42.41|8561|Japan|Osaka|Google LLC|
+|7|116.80.47.27|3128|Japan|Tokyo|InfoSphere|
+|8|116.80.69.227|3128|Japan|Shimomeguro|InfoSphere|
+|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|10|51.222.142.100|3128|Canada|Beauharnois|OVH SAS|
+|11|34.97.46.98|8561|Japan|Osaka|Google LLC|
+|12|34.97.46.219|8561|Japan|Osaka|Google LLC|
+|13|101.108.120.3|8080|Thailand|Bangkok|TOT Public Company Limited|
+|14|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
 |17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|116.80.69.239|3128|Japan|Shimomeguro|InfoSphere|
+|18|164.52.206.180|80|India|Delhi|E2E Networks Limited|
 |19|116.80.98.12|3128|Japan|Shimomeguro|InfoSphere|
 |20|116.80.93.37|3128|Japan|Shimomeguro|InfoSphere|
 
