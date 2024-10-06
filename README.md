@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.47.23|3128|Japan|Tokyo|InfoSphere|
-|3|116.80.69.227|3128|Japan|Shimomeguro|InfoSphere|
-|4|116.80.47.27|3128|Japan|Tokyo|InfoSphere|
-|5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|6|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|9|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|12|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|206.84.104.126|8080|Indonesia|Jakarta|AGIS|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|91.187.113.50|8080|Kosovo|Pristina|IPKO Telecommunications LLC|
-|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|3|116.80.92.232|3128|Japan|Shimomeguro|InfoSphere|
+|4|116.80.93.33|3128|Japan|Shimomeguro|InfoSphere|
+|5|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|6|152.26.231.83|9443|United States|Concord|MCNC|
+|7|116.80.91.122|3128|Japan|Shimomeguro|InfoSphere|
+|8|152.26.229.83|9443|United States|Concord|MCNC|
+|9|152.26.231.42|9443|United States|Concord|MCNC|
+|10|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
+|11|152.26.229.86|9443|United States|Concord|MCNC|
+|12|152.26.229.47|9443|United States|Concord|MCNC|
+|13|152.26.231.93|9443|United States|Concord|MCNC|
+|14|152.26.229.34|9443|United States|Concord|MCNC|
+|15|67.43.236.19|7209|Canada|Montreal|GloboTech Communications|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|72.10.164.178|16713|Canada|Montreal|GloboTech Communications|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|72.10.160.172|25131|Canada|Montreal|GloboTech Communications|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
