@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|34.97.114.192|8561|Japan|Osaka|Google LLC|
-|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|34.97.65.59|8561|Japan|Osaka|Google LLC|
-|6|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|34.97.30.220|8561|Japan|Osaka|Google LLC|
-|10|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|34.97.114.192|8561|Japan|Osaka|Google LLC|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|116.80.47.27|3128|Japan|Tokyo|InfoSphere|
-|16|103.166.158.201|8080|Indonesia|Bekasi|PT Timor Lintas Nusantara|
-|17|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|18|152.26.231.93|9443|United States|Concord|MCNC|
-|19|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|67.43.227.227|8843|Canada|Montreal|GloboTech Communications|
+|2|177.136.86.5|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
+|3|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|103.93.93.146|8082|Indonesia|Wedoro|MYRISE|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|116.80.47.27|3128|Japan|Tokyo|InfoSphere|
+|10|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|11|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|116.80.60.151|3128|Japan|Tokyo|InfoSphere|
+|13|152.26.231.93|9443|United States|Concord|MCNC|
+|14|171.235.149.110|1007|Vietnam|Thu Dau Mot|Viettel Corporation|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|152.26.229.83|9443|United States|Concord|MCNC|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|116.80.93.33|3128|Japan|Shimomeguro|InfoSphere|
+|19|152.26.231.42|9443|United States|Concord|MCNC|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
