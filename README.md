@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|157.230.254.171|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|6|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|7|152.26.231.86|9443|United States|Concord|MCNC|
-|8|51.222.142.100|9595|Canada|Beauharnois|OVH SAS|
-|9|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|3|157.230.254.171|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|34.97.42.111|8561|Japan|Osaka|Google LLC|
+|6|116.58.239.180|8080|Thailand|Dusit|CAT Telecom Public Company Limited|
+|7|103.231.239.137|58080|Bangladesh|Dhaka|Carnival Internet|
+|8|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|9|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
 |10|152.26.229.47|9443|United States|Concord|MCNC|
-|11|67.43.228.250|9759|Canada|Montreal|GloboTech Communications|
+|11|152.26.231.86|9443|United States|Concord|MCNC|
 |12|152.26.231.83|9443|United States|Concord|MCNC|
-|13|152.26.229.83|9443|United States|Concord|MCNC|
-|14|116.80.48.140|3128|Japan|Tokyo|InfoSphere|
+|13|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|14|152.26.229.83|9443|United States|Concord|MCNC|
 |15|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|16|72.10.160.171|32945|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|28725|Canada|Montreal|GloboTech Communications|
-|18|152.26.231.93|9443|United States|Concord|MCNC|
-|19|152.26.231.42|9443|United States|Concord|MCNC|
-|20|72.10.160.90|11579|Canada|Montreal|GloboTech Communications|
+|16|152.26.231.42|9443|United States|Concord|MCNC|
+|17|116.80.91.122|3128|Japan|Shimomeguro|InfoSphere|
+|18|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|152.26.231.93|9443|United States|Concord|MCNC|
 
 
 
