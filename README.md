@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.99.153|3128|Japan|Shimomeguro|InfoSphere|
 |3|116.80.48.175|3128|Japan|Tokyo|InfoSphere|
-|4|116.80.48.177|3128|Japan|Tokyo|InfoSphere|
-|5|116.80.48.144|3128|Japan|Tokyo|InfoSphere|
-|6|54.152.9.36|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|54.152.9.36|3128|United States|Ashburn|Amazon.com, Inc.|
-|12|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|116.80.48.177|3128|Japan|Tokyo|InfoSphere|
+|6|116.80.48.144|3128|Japan|Tokyo|InfoSphere|
+|7|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|10|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|116.80.69.240|3128|Japan|Shimomeguro|InfoSphere|
 |13|116.80.50.112|3128|Japan|Tokyo|InfoSphere|
-|14|116.80.69.240|3128|Japan|Shimomeguro|InfoSphere|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|17|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|18|131.100.48.105|999|Colombia|Neiva|Fibernet TV SAS|
-|19|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|160.25.180.35|8080|India|Mumbai|TAJ BROADBAND PRIVATE LIMITED|
+|16|38.156.72.165|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|19|103.153.63.174|3125|Indonesia|Bekasi|IMEDIANET|
 |20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
