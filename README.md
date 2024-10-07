@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.60.151|3128|Japan|Tokyo|InfoSphere|
-|3|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|7|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|103.171.244.91|8088|Indonesia|Madiun|PT Data Arta Sedaya|
-|10|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
-|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|12|152.26.231.83|9443|United States|Concord|MCNC|
-|13|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|72.10.160.92|26037|Canada|Montreal|GloboTech Communications|
+|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|116.80.60.151|3128|Japan|Tokyo|InfoSphere|
+|4|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|10|147.28.155.20|10068|United States|Dallas|Packet Host, Inc.|
+|11|147.28.155.20|10068|United States|Dallas|Packet Host, Inc.|
+|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|13|139.178.67.134|10011|United States|Parsippany|Packet Host, Inc.|
+|14|152.26.231.83|9443|United States|Concord|MCNC|
 |15|152.26.231.42|9443|United States|Concord|MCNC|
-|16|61.129.2.212|8080|China|Beijing|CHINANET|
-|17|67.43.228.251|31547|Canada|Montreal|GloboTech Communications|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|183.88.241.167|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|20|67.43.236.20|28179|Canada|Montreal|GloboTech Communications|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|67.43.236.21|15753|Canada|Montreal|GloboTech Communications|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|67.43.228.252|28031|Canada|Montreal|GloboTech Communications|
 
 
 
