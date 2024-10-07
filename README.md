@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5473** proxies at the latest update. Usable proxies are below.
+> Scraper found **5455** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|34|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|572|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|554|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|564|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3345|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.60.151|3128|Japan|Tokyo|InfoSphere|
-|3|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|3|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
 |4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|5|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|6|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|152.26.229.46|9443|United States|Concord|MCNC|
-|9|152.26.229.93|9443|United States|Concord|MCNC|
-|10|152.26.229.83|9443|United States|Concord|MCNC|
-|11|152.26.231.94|9443|United States|Concord|MCNC|
-|12|67.43.227.227|20377|Canada|Montreal|GloboTech Communications|
-|13|152.26.231.83|9443|United States|Concord|MCNC|
-|14|72.10.160.170|13993|Canada|Montreal|GloboTech Communications|
-|15|152.26.231.93|9443|United States|Concord|MCNC|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
-|18|103.191.251.34|8083|Indonesia|Batam|PT Mulia Batam Net|
-|19|72.10.160.94|6659|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|7893|Canada|Montreal|GloboTech Communications|
+|5|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|7|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|103.200.17.10|8088|Indonesia|Central Java|PT Palapa Global Nusantara|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|89.114.185.185|8080|Portugal|Porto|Vodafone Portugal|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|67.43.227.227|3717|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.251|31547|Canada|Montreal|GloboTech Communications|
+|17|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|152.26.229.47|9443|United States|Concord|MCNC|
 
 
 
