@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 |3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|11|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|13|45.123.142.6|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|14|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|187.1.16.36|92|Brazil|Birigui|FIT Telecom Eireli|
-|19|103.125.160.178|83|India|Hyderabad|CtrlS|
-|20|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|10|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|12|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|72.10.160.93|8957|Canada|Montreal|GloboTech Communications|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
 
