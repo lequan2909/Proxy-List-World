@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|34.97.46.232|8561|Japan|Osaka|Google LLC|
-|11|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|12|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|13|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|14|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|16|34.97.52.66|8561|Japan|Osaka|Google LLC|
-|17|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|34.97.58.253|8561|Japan|Osaka|Google LLC|
-|19|34.97.49.38|8561|Japan|Osaka|Google LLC|
-|20|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|7|34.97.84.250|8561|Japan|Osaka|Google LLC|
+|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|9|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|11|34.97.87.179|8561|Japan|Osaka|Google LLC|
+|12|34.97.61.85|8561|Japan|Osaka|Google LLC|
+|13|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|14|34.97.72.201|8561|Japan|Osaka|Google LLC|
+|15|34.97.52.66|8561|Japan|Osaka|Google LLC|
+|16|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|34.97.46.232|8561|Japan|Osaka|Google LLC|
+|18|34.97.48.217|8561|Japan|Osaka|Google LLC|
+|19|34.97.31.37|8561|Japan|Osaka|Google LLC|
+|20|34.97.58.253|8561|Japan|Osaka|Google LLC|
 
 
 
