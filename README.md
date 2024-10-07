@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.136.107|8561|Japan|Osaka|Google LLC|
-|3|34.97.114.192|8561|Japan|Osaka|Google LLC|
-|4|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|7|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|103.176.96.211|8090|Indonesia|Karawang|PT Global Sarana Elektronika|
-|9|181.78.17.70|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|10|171.228.118.24|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
-|11|34.97.132.44|8561|Japan|Osaka|Google LLC|
-|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|13|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|103.137.111.67|8080|Indonesia|Mojokerto|PT. Capoeng Digital Nusantara|
-|15|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|190.94.213.48|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|17|103.87.171.108|32650|India|Jaipur|Tejays|
-|18|190.8.47.122|999|Dominican Republic|Santo Domingo|Trilogy Dominicana, S.A.|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|195.25.20.155|3128|France|Paris|Orange Business Services|
+|6|193.233.84.94|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
+|7|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|103.176.96.211|8090|Indonesia|Karawang|PT Global Sarana Elektronika|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|152.26.231.86|9443|United States|Concord|MCNC|
+|13|152.26.229.46|9443|United States|Concord|MCNC|
+|14|152.26.229.86|9443|United States|Concord|MCNC|
+|15|116.80.91.122|3128|Japan|Shimomeguro|InfoSphere|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|18|152.26.229.93|9443|United States|Concord|MCNC|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
