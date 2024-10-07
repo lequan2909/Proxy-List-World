@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|157.245.203.103|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|210.5.184.90|8080|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|4|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|89.171.139.110|8080|Poland|Polkowice|NETIA|
-|6|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|11|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|14|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|152.26.231.83|9443|United States|Concord|MCNC|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|2|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|3|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|4|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|8|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|89.171.139.110|8080|Poland|Polkowice|NETIA|
+|10|15.235.12.19|3128|Canada|Montreal|OVH SAS|
+|11|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|152.26.229.86|9443|United States|Concord|MCNC|
+|14|152.26.229.47|9443|United States|Concord|MCNC|
+|15|152.26.229.83|9443|United States|Concord|MCNC|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|152.26.231.83|9443|United States|Concord|MCNC|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
 
 
 
