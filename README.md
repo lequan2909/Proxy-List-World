@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|157.245.203.103|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|89.171.139.110|8080|Poland|Polkowice|NETIA|
-|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|9|211.222.177.244|3128|South Korea|Goyang-si|Korea Telecom|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|157.245.203.103|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|89.171.139.110|8080|Poland|Polkowice|NETIA|
+|5|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|9|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
 |15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|188.132.222.14|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|19|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|41.205.24.13|8080|Cameroon|Douala|MTN Network Solutions (Cameroon)|
+|17|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|203.150.128.250|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
 |20|152.26.229.34|9443|United States|Concord|MCNC|
 
 
