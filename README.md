@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.47.28|3128|Japan|Tokyo|InfoSphere|
-|3|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|11|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|14|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|49.51.244.112|8888|United States|Phoenix|OPHL|
-|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|103.78.171.10|83|India|Pune|SCC NETWORK PVT LTD|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|4|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|103.171.240.174|8080|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
+|6|178.48.68.61|18080|Hungary|Budapest|UPC|
+|7|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|102.220.142.193|8080|Libya|Tripoli|BSISP Network|
+|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|190.13.85.82|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|15|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|19|67.43.236.20|4163|Canada|Montreal|GloboTech Communications|
+|20|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
