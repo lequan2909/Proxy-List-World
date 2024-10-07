@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|1.10.227.16|8080|Thailand|Damnoen Saduak|TOT Public Company Limited|
 |3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|6|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|103.130.167.48|8989|Indonesia|Surabaya|PT. Eka Mas Republik|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
 |9|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
 |11|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|12|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|152.26.231.86|9443|United States|Concord|MCNC|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|67.43.228.253|20607|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|14|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|67.43.227.228|11253|Canada|Montreal|GloboTech Communications|
 
 
 
