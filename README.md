@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|34.97.90.20|8561|Japan|Osaka|Google LLC|
-|5|34.97.136.107|8561|Japan|Osaka|Google LLC|
-|6|147.28.155.20|9443|United States|Dallas|Packet Host, Inc.|
-|7|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|11|152.26.229.86|9443|United States|Concord|MCNC|
-|12|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|9|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
+|10|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|12|152.26.229.86|9443|United States|Concord|MCNC|
 |13|116.80.92.225|3128|Japan|Shimomeguro|InfoSphere|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|67.43.228.253|29615|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|13195|Canada|Montreal|GloboTech Communications|
-|17|45.175.252.18|999|Mexico|Chihuahua City|Alma Jessica Gallegos Gutierrez|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|72.10.164.178|22533|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.94|9443|United States|Concord|MCNC|
+|14|34.97.136.107|8561|Japan|Osaka|Google LLC|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|18|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
 
 
 
