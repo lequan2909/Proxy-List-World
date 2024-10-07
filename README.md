@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
 |2|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|4|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|5|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|6|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|10|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|5|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|7|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|116.99.150.15|5006|Vietnam|Bến Tre|Viettel Corporation|
+|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|14|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |15|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |16|152.26.231.42|9443|United States|Concord|MCNC|
-|17|72.10.160.170|27817|Canada|Montreal|GloboTech Communications|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
+|17|152.26.229.93|9443|United States|Concord|MCNC|
+|18|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
 |19|67.43.227.229|20151|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|6193|Canada|Montreal|GloboTech Communications|
+|20|152.26.231.94|9443|United States|Concord|MCNC|
 
 
 
