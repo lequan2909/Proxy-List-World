@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.117.29|8561|Japan|Osaka|Google LLC|
-|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|4|210.5.184.90|8080|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|5|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|6|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|7|103.159.194.131|8080|Indonesia|Kendal|PT Giga Digital Nusantara|
-|8|1.20.203.119|8080|Thailand|Surat Thani|TOT Public Company Limited|
-|9|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|89.171.139.110|8080|Poland|Polkowice|NETIA|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|179.49.114.46|999|Honduras|San Pedro Sula|Asociacion De Servicio De Internet S. De RL.|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
-|15|172.232.172.64|8080|United States|Tukwila|Akamai Technologies, Inc.|
-|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|20|34.97.117.29|8561|Japan|Osaka|Google LLC|
+|2|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|3|210.5.184.90|8080|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|89.171.139.110|8080|Poland|Polkowice|NETIA|
+|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|10|103.159.96.141|8080|Indonesia|Gresik|PT Jinde Grup Indonesia|
+|11|201.149.100.32|8085|Brazil|Cruzeiro do Oeste|Crznet Telecom Ltda|
+|12|114.130.153.70|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|13|103.93.34.195|8999|Bangladesh|Kāfrul|Apple Communication Ltd.|
+|14|212.110.188.198|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|15|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|212.46.210.250|8080|Russia|Moscow|VympelKom broadband internet|
+|17|116.80.92.225|3128|Japan|Shimomeguro|InfoSphere|
+|18|103.189.96.196|8085|Indonesia|Temanggung|Lintas Data Prima, PT|
+|19|152.26.229.47|9443|United States|Concord|MCNC|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
