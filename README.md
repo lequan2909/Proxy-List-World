@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|179.49.114.46|999|Honduras|San Pedro Sula|Asociacion De Servicio De Internet S. De RL.|
-|6|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|7|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|89.171.139.110|8080|Poland|Polkowice|NETIA|
-|11|181.143.36.20|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|12|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|13|1.10.227.16|8080|Thailand|Damnoen Saduak|TOT Public Company Limited|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|116.80.91.122|3128|Japan|Shimomeguro|InfoSphere|
-|16|94.231.192.36|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|152.26.231.94|9443|United States|Concord|MCNC|
-|20|152.26.229.42|9443|United States|Concord|MCNC|
+|2|210.5.184.90|8080|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|3|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|89.171.139.110|8080|Poland|Polkowice|NETIA|
+|5|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|8|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|116.80.91.122|3128|Japan|Shimomeguro|InfoSphere|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
+|16|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|152.26.231.94|9443|United States|Concord|MCNC|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|152.26.229.47|9443|United States|Concord|MCNC|
 
 
 
