@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|81.91.151.146|3128|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|3|152.26.229.34|9443|United States|Concord|MCNC|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|5|152.26.229.47|9443|United States|Concord|MCNC|
-|6|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|7|67.43.236.20|5359|Canada|Montreal|GloboTech Communications|
-|8|152.26.231.94|9443|United States|Concord|MCNC|
-|9|67.43.227.228|31779|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.251|29547|Canada|Montreal|GloboTech Communications|
-|11|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|72.10.160.93|12705|Canada|Montreal|GloboTech Communications|
-|13|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|116.80.47.23|3128|Japan|Tokyo|InfoSphere|
-|15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|18|152.26.229.93|9443|United States|Concord|MCNC|
-|19|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|20|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|34.97.49.38|8561|Japan|Osaka|Google LLC|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|34.97.58.253|8561|Japan|Osaka|Google LLC|
+|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|10|34.97.46.232|8561|Japan|Osaka|Google LLC|
+|11|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|12|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|13|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|14|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|15|34.97.52.66|8561|Japan|Osaka|Google LLC|
+|16|34.97.61.85|8561|Japan|Osaka|Google LLC|
+|17|81.91.151.146|3128|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|18|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|20|152.26.229.34|9443|United States|Concord|MCNC|
 
 
 
