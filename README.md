@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.136.107|8561|Japan|Osaka|Google LLC|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|34.97.136.107|8561|Japan|Osaka|Google LLC|
 |5|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |6|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|7|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|172.232.172.64|8080|United States|Tukwila|Akamai Technologies, Inc.|
-|9|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|10|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|152.26.231.94|9443|United States|Concord|MCNC|
-|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|13|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|152.26.231.42|9443|United States|Concord|MCNC|
-|15|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|72.10.160.92|3935|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.93|9443|United States|Concord|MCNC|
-|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|19|72.10.160.171|15223|Canada|Montreal|GloboTech Communications|
-|20|8.213.34.58|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
+|7|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|8|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|152.26.231.94|9443|United States|Concord|MCNC|
+|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|12|152.26.231.42|9443|United States|Concord|MCNC|
+|13|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|72.10.160.92|31471|Canada|Montreal|GloboTech Communications|
+|15|152.26.229.93|9443|United States|Concord|MCNC|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|152.26.229.47|9443|United States|Concord|MCNC|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
