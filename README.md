@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5386** proxies at the latest update. Usable proxies are below.
+> Scraper found **5325** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|35|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|610|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|452|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|391|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3331|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.97.136.107|8561|Japan|Osaka|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|178.48.68.61|18080|Hungary|Budapest|UPC|
-|9|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|11|103.65.202.209|8080|India|Warangal|Vaishnavi Online Internet Services Pvt. Ltd.|
-|12|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|210.79.146.82|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|5|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|103.172.70.153|8080|Indonesia|Karangampel|AZNET|
+|9|152.166.69.34|8080|Dominican Republic|La Romana|Altice Dominicana S.A.|
+|10|103.172.70.28|1111|Indonesia|Gemolong|AZNET|
+|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|58.147.186.29|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
+|13|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
 |15|103.174.236.63|7777|Indonesia|Brebes|PT Global Erasiber Teknologi|
-|16|41.65.55.2|1981|Egypt|Qillīn|Etisalat Misr Mobile BB|
-|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|103.163.231.142|8080|Indonesia|Malang|PT Metrosolusi Teknologi Indonesia|
-|19|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|58.69.117.2|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|41.65.227.98|1976|Egypt|Tanta|Enterprise|
 
 
 
