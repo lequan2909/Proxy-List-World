@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|185.208.102.58|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|182.23.127.2|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|8|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|9|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|103.88.237.91|84|India|Hyderabad|Mana Communications|
-|13|116.80.91.122|3128|Japan|Shimomeguro|InfoSphere|
-|14|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|15|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|16|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|152.26.229.46|9443|United States|Concord|MCNC|
-|19|152.26.229.83|9443|United States|Concord|MCNC|
-|20|67.43.227.228|2701|Canada|Montreal|GloboTech Communications|
+|2|222.127.241.158|8082|Philippines|Iloilo City|GLBB|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|195.123.240.138|7777|United States|Los Angeles|Green Floid LLC|
+|6|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|11|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|182.23.127.2|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|14|116.80.91.122|3128|Japan|Shimomeguro|InfoSphere|
+|15|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
+|16|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|116.80.47.23|3128|Japan|Tokyo|InfoSphere|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
