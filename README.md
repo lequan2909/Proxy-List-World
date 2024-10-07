@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|150.239.111.249|3128|United States|Washington|SoftLayer|
-|8|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|10|31.207.47.56|8118|The Netherlands|Amsterdam|Hostkey B.V.|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|152.26.231.86|9443|United States|Concord|MCNC|
-|14|72.10.160.170|3759|Canada|Montreal|GloboTech Communications|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|43.153.104.42|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|152.26.229.93|9443|United States|Concord|MCNC|
-|18|158.179.215.122|8080|Spain|Madrid|Oracle Corporation|
-|19|163.172.33.137|4116|France|Vitry-sur-Seine|Online S.A.S.|
-|20|82.180.146.42|3128|India|Mumbai|Contabo Asia Private Limited|
+|2|34.97.26.61|8561|Japan|Osaka|Google LLC|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|5|34.97.78.175|8561|Japan|Osaka|Google LLC|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|34.97.37.111|8561|Japan|Osaka|Google LLC|
+|9|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|34.97.54.188|8561|Japan|Osaka|Google LLC|
+|13|34.97.136.20|8561|Japan|Osaka|Google LLC|
+|14|103.156.16.227|8080|Indonesia|Jakarta|RSTNET|
+|15|103.83.198.169|8080|Indonesia|Serang|Dinas Komunikasi, Informatika, Statistik dan Persandian Provinsi Banten|
+|16|103.186.204.52|8089|Indonesia|Tasikmalaya|PT Afna Digital Indonesia|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|19|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
