@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|34.97.154.179|8561|Japan|Osaka|Google LLC|
 |3|34.97.149.89|8561|Japan|Osaka|Google LLC|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|34.97.154.179|8561|Japan|Osaka|Google LLC|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|14|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|15|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|16|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|181.209.82.154|23500|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|67.43.227.228|18695|Canada|Montreal|GloboTech Communications|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|11|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|12|34.97.154.179|8561|Japan|Osaka|Google LLC|
+|13|171.228.118.24|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|152.26.229.83|9443|United States|Concord|MCNC|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|67.43.236.18|17523|Canada|Montreal|GloboTech Communications|
+|19|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|20|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
