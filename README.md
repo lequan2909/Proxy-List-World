@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|177.36.14.137|8080|Brazil|Limoeiro|1telecom Servicos De Tecnologia EM Internet Ltda|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|2|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|34.97.90.20|8561|Japan|Osaka|Google LLC|
+|5|185.71.149.136|3128|France|Montpellier|Eurofiber France SAS|
 |6|103.82.26.77|1996|Vietnam|Nam Định|Phong Thuy media joint stock company|
-|7|222.127.242.123|8082|Philippines|Iloilo City|GLBB|
-|8|45.117.29.153|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|9|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|13|34.97.90.20|8561|Japan|Osaka|Google LLC|
-|14|152.26.229.47|9443|United States|Concord|MCNC|
-|15|152.26.231.94|9443|United States|Concord|MCNC|
-|16|67.43.236.20|2655|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.230|10793|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|34.97.46.232|8561|Japan|Osaka|Google LLC|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|7|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|8|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|110.49.34.126|32650|Thailand|Phan Thong|Advanced Wireless Network Company Limited|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|152.26.229.47|9443|United States|Concord|MCNC|
+|16|61.129.2.212|8080|China|Beijing|CHINANET|
+|17|116.80.47.28|3128|Japan|Tokyo|InfoSphere|
+|18|152.26.229.86|9443|United States|Concord|MCNC|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|152.26.231.86|9443|United States|Concord|MCNC|
 
 
 
