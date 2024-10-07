@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|134.236.17.44|8080|Thailand|Bang Lamung|CAT-BB|
-|3|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|6|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|7|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|10|37.111.52.41|8080|Myanmar|Yangon|Telenor Myanmar|
-|11|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|12|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|89.171.139.110|8080|Poland|Polkowice|NETIA|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|103.87.148.40|1111|Indonesia|Demak|Lintas Data Prima, PT|
-|18|45.175.252.18|999|Mexico|Chihuahua City|Alma Jessica Gallegos Gutierrez|
-|19|41.65.55.10|1981|Egypt|Qillīn|Etisalat Misr Mobile BB|
-|20|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|34.97.136.107|8561|Japan|Osaka|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|134.236.17.44|8080|Thailand|Bang Lamung|CAT-BB|
+|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|89.171.139.110|8080|Poland|Polkowice|NETIA|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|14|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|173.249.60.246|14344|Germany|Nuremberg|Contabo GmbH|
+|16|152.26.231.86|9443|United States|Concord|MCNC|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|103.167.168.9|5040|Indonesia|Cianjur|PT Argon Internet Amariqindo|
+|19|89.171.139.110|8080|Poland|Polkowice|NETIA|
+|20|152.26.231.94|9443|United States|Concord|MCNC|
 
 
 
