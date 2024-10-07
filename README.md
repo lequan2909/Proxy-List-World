@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|3|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|5|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|7|34.97.47.210|8561|Japan|Osaka|Google LLC|
-|8|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|9|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|152.26.229.93|9443|United States|Concord|MCNC|
-|13|116.104.129.12|5000|Vietnam|Hanoi|Viettel Corporation|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|72.10.160.173|19895|Canada|Montreal|GloboTech Communications|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|103.110.34.144|8089|Indonesia|Purwodadi Grobogan|PT RECONET SEMESTA INDONESIA|
+|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|11|190.120.249.60|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
+|12|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|152.26.229.93|9443|United States|Concord|MCNC|
+|15|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
 |16|117.21.14.245|8000|China|Taohua|Chinanet|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|152.26.231.83|9443|United States|Concord|MCNC|
-|19|152.26.229.83|9443|United States|Concord|MCNC|
-|20|152.26.231.93|9443|United States|Concord|MCNC|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|37.111.52.41|8080|Myanmar|Yangon|Telenor Myanmar|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
