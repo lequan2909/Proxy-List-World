@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|3|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|4|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|8|120.28.189.82|8181|Philippines|Cagayan de Oro|Globe Telecom|
-|9|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|103.232.20.158|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
-|11|118.97.237.2|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|12|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|46.166.165.33|4002|Lithuania|Šiauliai|Cherry Servers|
-|14|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|16|203.189.96.232|80|Japan|Chiyoda|GMO Internet, Inc|
-|17|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|152.26.231.93|9443|United States|Concord|MCNC|
-|19|152.26.231.94|9443|United States|Concord|MCNC|
-|20|161.34.37.126|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|206.84.201.101|999|Peru|Callao|Cogent Communications|
+|7|89.26.83.25|8080|Austria|Rauris|SALZBURG AG fur Energie, Verkehr und Telekommunikation|
+|8|103.156.75.41|8181|Indonesia|Gianyar|PT Trika Global Media|
+|9|38.156.72.135|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|11|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|14|152.26.231.93|9443|United States|Concord|MCNC|
+|15|152.26.231.94|9443|United States|Concord|MCNC|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|152.26.229.47|9443|United States|Concord|MCNC|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
