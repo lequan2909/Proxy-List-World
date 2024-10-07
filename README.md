@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.97.136.107|8561|Japan|Osaka|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|4|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|103.69.20.55|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
-|12|72.10.164.178|13833|Canada|Montreal|GloboTech Communications|
-|13|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|152.26.231.93|9443|United States|Concord|MCNC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|193.233.84.130|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
+|6|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|49.229.100.235|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|8|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|10|89.171.139.110|8080|Poland|Polkowice|NETIA|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|13|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |16|152.26.229.83|9443|United States|Concord|MCNC|
-|17|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|152.26.229.47|9443|United States|Concord|MCNC|
-|19|72.10.164.178|13833|Canada|Montreal|GloboTech Communications|
+|17|152.26.231.93|9443|United States|Concord|MCNC|
+|18|177.234.193.180|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
 |20|152.26.231.94|9443|United States|Concord|MCNC|
 
 
