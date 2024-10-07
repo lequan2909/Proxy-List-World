@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|4|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|178.48.68.61|18080|Hungary|Budapest|UPC|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|103.189.197.83|8181|Indonesia|Serang|PT Graha Sumber Teknologi|
-|13|204.199.81.94|999|Colombia|Santiago de Cali|CTL Colombia|
-|14|103.74.229.133|8080|Bangladesh|Dhaka|Windstream Communication Ltd|
-|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
-|17|186.96.97.203|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|190.110.37.11|999|Dominican Republic|Santiago de los Caballeros|Centric Mobility|
-|20|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|3|178.48.68.61|18080|Hungary|Budapest|UPC|
+|4|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|89.135.59.71|8090|Hungary|Százhalombatta|Vodafone Hungary Ltd.|
+|7|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|152.26.231.83|9443|United States|Concord|MCNC|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|152.26.231.42|9443|United States|Concord|MCNC|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|72.10.164.178|9973|Canada|Montreal|GloboTech Communications|
+|18|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|19|152.26.229.47|9443|United States|Concord|MCNC|
+|20|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
 
 
 
