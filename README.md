@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|393|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|393|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|393|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.97.68.25|8561|Japan|Osaka|Google LLC|
-|2|34.97.11.208|8561|Japan|Osaka|Google LLC|
-|3|34.97.87.179|8561|Japan|Osaka|Google LLC|
-|4|34.97.136.20|8561|Japan|Osaka|Google LLC|
-|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|34.97.46.232|8561|Japan|Osaka|Google LLC|
-|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|34.97.47.210|8561|Japan|Osaka|Google LLC|
-|9|34.97.84.250|8561|Japan|Osaka|Google LLC|
-|10|34.97.26.61|8561|Japan|Osaka|Google LLC|
-|11|34.97.92.31|8561|Japan|Osaka|Google LLC|
-|12|34.97.90.20|8561|Japan|Osaka|Google LLC|
-|13|34.97.85.151|8561|Japan|Osaka|Google LLC|
-|14|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|34.97.42.111|8561|Japan|Osaka|Google LLC|
-|16|34.97.138.46|8561|Japan|Osaka|Google LLC|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|34.97.54.188|8561|Japan|Osaka|Google LLC|
-|19|3.36.117.200|3128|South Korea|Seoul|Amazon.com, Inc.|
-|20|34.97.61.13|8561|Japan|Osaka|Google LLC|
+|1|34.97.84.250|8561|Japan|Osaka|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|34.97.26.61|8561|Japan|Osaka|Google LLC|
+|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|8|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|10|34.97.46.232|8561|Japan|Osaka|Google LLC|
+|11|103.168.254.162|8086|Indonesia|Kudus|PT Fahasa Tri Data|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|34.97.87.179|8561|Japan|Osaka|Google LLC|
+|14|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|15|89.171.139.110|8080|Poland|Polkowice|NETIA|
+|16|111.89.146.127|3128|Japan|Tokyo|NTT PC Communications, Inc.|
+|17|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|18|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|103.172.43.170|8080|Indonesia|Jakarta|PT Berkat Internet Perkasa|
+|20|211.222.177.244|3128|South Korea|Goyang-si|Korea Telecom|
 
 
 
