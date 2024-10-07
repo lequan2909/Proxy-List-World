@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|34.97.48.217|8561|Japan|Osaka|Google LLC|
-|4|34.97.90.20|8561|Japan|Osaka|Google LLC|
-|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|34.97.48.217|8561|Japan|Osaka|Google LLC|
+|3|34.97.90.20|8561|Japan|Osaka|Google LLC|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|34.97.61.85|8561|Japan|Osaka|Google LLC|
 |6|34.97.44.231|8561|Japan|Osaka|Google LLC|
-|7|34.97.58.253|8561|Japan|Osaka|Google LLC|
-|8|34.97.54.188|8561|Japan|Osaka|Google LLC|
-|9|34.97.72.201|8561|Japan|Osaka|Google LLC|
-|10|88.255.106.23|8080|Türkiye|Istanbul|TurkTelekom|
-|11|34.97.84.250|8561|Japan|Osaka|Google LLC|
-|12|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|152.26.229.47|9443|United States|Concord|MCNC|
-|16|45.174.57.22|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|7|34.97.49.38|8561|Japan|Osaka|Google LLC|
+|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|9|88.255.106.23|8080|Türkiye|Istanbul|TurkTelekom|
+|10|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|103.87.169.199|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|12|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|13|34.97.54.188|8561|Japan|Osaka|Google LLC|
+|14|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|15|45.174.57.22|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|16|152.26.229.47|9443|United States|Concord|MCNC|
 |17|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|34.97.48.217|8561|Japan|Osaka|Google LLC|
-|19|67.43.228.253|27707|Canada|Montreal|GloboTech Communications|
+|18|34.97.31.37|8561|Japan|Osaka|Google LLC|
+|19|34.97.48.217|8561|Japan|Osaka|Google LLC|
 |20|152.26.229.93|9443|United States|Concord|MCNC|
 
 
