@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|3|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|103.189.123.223|8080|Indonesia|Jakarta|PT Ikhlas Cipta Teknologi|
-|5|103.155.197.193|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|6|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|152.26.231.86|9443|United States|Concord|MCNC|
-|9|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|152.26.231.94|9443|United States|Concord|MCNC|
-|11|152.26.229.34|9443|United States|Concord|MCNC|
-|12|67.43.236.20|6811|Canada|Montreal|GloboTech Communications|
-|13|152.26.229.86|9443|United States|Concord|MCNC|
-|14|116.80.47.23|3128|Japan|Tokyo|InfoSphere|
-|15|152.26.231.83|9443|United States|Concord|MCNC|
-|16|67.43.227.228|13161|Canada|Montreal|GloboTech Communications|
-|17|152.26.231.42|9443|United States|Concord|MCNC|
-|18|72.10.160.94|27439|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|19895|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.252|10829|Canada|Montreal|GloboTech Communications|
+|2|34.97.136.107|8561|Japan|Osaka|Google LLC|
+|3|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|4|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|171.241.186.32|5111|Vietnam|Thanh Hóa|Viettel Corporation|
+|6|27.147.130.10|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|7|58.147.186.29|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
+|8|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|103.174.236.63|7777|Indonesia|Brebes|PT Global Erasiber Teknologi|
+|10|187.188.169.169|8080|Mexico|Santa Cruz Huitziltepec|Total Play Telecomunicaciones SA De CV|
+|11|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|46.243.71.2|8888|Slovakia|Michalovce|Minet s.r.o.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|152.26.231.86|9443|United States|Concord|MCNC|
+|16|152.26.229.34|9443|United States|Concord|MCNC|
+|17|152.26.231.94|9443|United States|Concord|MCNC|
+|18|103.106.115.46|8080|Indonesia|Kedaton|SMSNET|
+|19|152.26.229.86|9443|United States|Concord|MCNC|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
