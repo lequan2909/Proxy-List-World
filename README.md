@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|3|178.48.68.61|18080|Hungary|Budapest|UPC|
-|4|181.174.228.186|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|5|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|152.26.229.42|9443|United States|Concord|MCNC|
-|15|152.26.229.93|9443|United States|Concord|MCNC|
-|16|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|152.26.231.86|9443|United States|Concord|MCNC|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|152.26.231.42|9443|United States|Concord|MCNC|
-|20|116.80.47.28|3128|Japan|Tokyo|InfoSphere|
+|2|116.80.47.28|3128|Japan|Tokyo|InfoSphere|
+|3|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|178.48.68.61|18080|Hungary|Budapest|UPC|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|122.54.105.109|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|7|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|45.182.176.38|9947|Brazil|São Paulo|Evolucao Telecom Ltda|
+|9|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|57.128.169.167|3128|United Kingdom|Erith|OVH SAS|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|152.26.229.93|9443|United States|Concord|MCNC|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
