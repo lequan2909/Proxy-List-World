@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|186.207.191.213|8080|Brazil|Salvador|Claro NXT Telecomunicacoes Ltda|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|181.174.228.186|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|12|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|152.26.229.83|9443|United States|Concord|MCNC|
-|20|152.26.229.46|9443|United States|Concord|MCNC|
+|5|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|178.48.68.61|18080|Hungary|Budapest|UPC|
+|7|49.145.186.83|8081|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|8|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|171.238.237.197|5000|Vietnam|Tuyên Quang|Viettel Corporation|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|152.26.229.83|9443|United States|Concord|MCNC|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|152.26.231.94|9443|United States|Concord|MCNC|
+|20|152.26.229.34|9443|United States|Concord|MCNC|
 
 
 
