@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|3|103.203.234.28|8090|Indonesia|Ungaran|PT Nesta Indo Media|
-|4|38.45.46.2|6332|Dominican Republic|Santo Domingo|FENIX NETWORKS, S.R.L.|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|7|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|9|103.172.70.153|8080|Indonesia|Karangampel|AZNET|
-|10|186.113.232.105|8080|Colombia|Pereira|Colombia Telecomunicaciones S.a. ESP|
-|11|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|12|157.100.60.170|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|13|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|103.145.68.77|8080|Indonesia|Sumenep|ALFANET|
-|18|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|20|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|103.165.157.79|8090|Indonesia|Pemalang|MEGADATA-ISP|
+|6|210.79.146.82|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|7|157.100.57.180|999|Ecuador|Juan Montalvo|Ufinet Panama S.A.|
+|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|177.93.48.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|10|103.191.196.99|8080|Indonesia|Indramayu|PT Pangkalan Lintas Data|
+|11|103.172.70.28|1111|Indonesia|Gemolong|AZNET|
+|12|58.69.117.149|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|101.255.210.26|1111|Indonesia|Jakarta|PT Remala Abadi|
+|15|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|16|182.23.127.2|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|17|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|19|103.172.70.153|8080|Indonesia|Karangampel|AZNET|
+|20|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 
 
 
