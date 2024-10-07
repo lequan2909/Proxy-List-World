@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|34.97.136.107|8561|Japan|Osaka|Google LLC|
-|6|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|177.37.217.45|8080|Brazil|Pereiro|Brisanet Servicos De Telecomunicacoes Ltda|
-|11|103.137.111.67|8080|Indonesia|Mojokerto|PT. Capoeng Digital Nusantara|
-|12|103.211.26.230|8181|Indonesia|Madiun|PT Olean Permata Telematika|
+|2|34.97.149.89|8561|Japan|Osaka|Google LLC|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|34.97.154.179|8561|Japan|Osaka|Google LLC|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|147.75.68.202|10000|United States|San Jose|Packet Host, Inc.|
+|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|10|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|11|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |13|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|34.97.197.142|8561|Japan|Osaka|Google LLC|
-|20|147.75.68.202|10000|United States|San Jose|Packet Host, Inc.|
+|14|147.75.68.202|10000|United States|San Jose|Packet Host, Inc.|
+|15|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|190.8.47.122|999|Dominican Republic|Santo Domingo|Trilogy Dominicana, S.A.|
 
 
 
