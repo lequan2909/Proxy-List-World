@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|3|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|190.2.209.58|999|Colombia|Tumaco|TV AZTECA SUCURSAL COLOMBIA|
-|5|193.233.84.90|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|10|152.26.229.86|9443|United States|Concord|MCNC|
-|11|152.26.231.83|9443|United States|Concord|MCNC|
-|12|72.10.160.93|19629|Canada|Montreal|GloboTech Communications|
-|13|152.26.231.86|9443|United States|Concord|MCNC|
-|14|67.43.227.228|2367|Canada|Montreal|GloboTech Communications|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|103.184.54.62|3128|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|7|103.156.75.41|8181|Indonesia|Gianyar|PT Trika Global Media|
+|8|118.97.237.2|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
+|9|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|203.189.96.232|80|Japan|Chiyoda|GMO Internet, Inc|
+|11|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|13|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|152.26.229.86|9443|United States|Concord|MCNC|
 |15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|67.43.227.227|17435|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|2753|Canada|Montreal|GloboTech Communications|
-|18|152.26.231.42|9443|United States|Concord|MCNC|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|67.43.227.227|17435|Canada|Montreal|GloboTech Communications|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|18|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
