@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.97.44.231|8561|Japan|Osaka|Google LLC|
-|2|34.97.52.66|8561|Japan|Osaka|Google LLC|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|34.97.84.250|8561|Japan|Osaka|Google LLC|
-|5|34.97.31.37|8561|Japan|Osaka|Google LLC|
-|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|34.97.54.188|8561|Japan|Osaka|Google LLC|
-|9|34.97.48.217|8561|Japan|Osaka|Google LLC|
-|10|34.97.87.179|8561|Japan|Osaka|Google LLC|
-|11|34.97.136.107|8561|Japan|Osaka|Google LLC|
-|12|103.56.157.39|8080|Vietnam|Hanoi|VCCORP|
-|13|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|34.97.54.188|8561|Japan|Osaka|Google LLC|
-|17|45.171.108.253|999|Ecuador|Nueva Loja|Lagonet-tv Cia. Ltda.|
+|2|34.97.61.85|8561|Japan|Osaka|Google LLC|
+|3|34.97.52.66|8561|Japan|Osaka|Google LLC|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|34.97.48.217|8561|Japan|Osaka|Google LLC|
+|7|34.97.54.188|8561|Japan|Osaka|Google LLC|
+|8|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|9|34.97.136.107|8561|Japan|Osaka|Google LLC|
+|10|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|36.89.209.146|8080|Indonesia|Bekasi|Telekomunikasi Indonesia|
+|12|34.97.87.179|8561|Japan|Osaka|Google LLC|
+|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|34.97.54.188|8561|Japan|Osaka|Google LLC|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|17|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
 |18|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|34.97.84.250|8561|Japan|Osaka|Google LLC|
-|20|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|19|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
 
 
 
