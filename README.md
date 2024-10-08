@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|116.80.82.213|3128|Japan|Shimomeguro|InfoSphere|
-|4|34.97.117.29|8561|Japan|Osaka|Google LLC|
-|5|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|6|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|7|163.172.33.137|4016|France|Vitry-sur-Seine|Online S.A.S.|
-|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|9|34.97.92.31|8561|Japan|Osaka|Google LLC|
-|10|157.15.44.105|7777|Indonesia|Kalibuntu|PT Sheep Network Teknologi|
-|11|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|34.97.46.232|8561|Japan|Osaka|Google LLC|
-|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|16|34.97.85.151|8561|Japan|Osaka|Google LLC|
-|17|34.97.87.179|8561|Japan|Osaka|Google LLC|
-|18|34.97.138.46|8561|Japan|Osaka|Google LLC|
-|19|34.97.54.188|8561|Japan|Osaka|Google LLC|
-|20|38.156.72.45|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|2|116.80.82.213|3128|Japan|Shimomeguro|InfoSphere|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
+|5|34.97.90.20|8561|Japan|Osaka|Google LLC|
+|6|114.130.153.58|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|9|34.97.138.46|8561|Japan|Osaka|Google LLC|
+|10|34.97.78.175|8561|Japan|Osaka|Google LLC|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|103.166.158.201|8080|Indonesia|Bekasi|PT Timor Lintas Nusantara|
+|13|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|14|168.227.40.71|9192|Brazil|Cabo de Santo Agostinho|Digitec Eletronica Ltda - ME|
+|15|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.37.126|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|18|152.26.229.42|9443|United States|Concord|MCNC|
+|19|152.26.229.34|9443|United States|Concord|MCNC|
+|20|116.80.93.33|3128|Japan|Shimomeguro|InfoSphere|
 
 
 
