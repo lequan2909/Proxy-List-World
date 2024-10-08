@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
 |2|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|8|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|9|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|116.80.93.33|3128|Japan|Shimomeguro|InfoSphere|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|14|152.26.229.47|9443|United States|Concord|MCNC|
-|15|152.26.231.93|9443|United States|Concord|MCNC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|6|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|7|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|152.26.229.47|9443|United States|Concord|MCNC|
+|12|152.26.231.93|9443|United States|Concord|MCNC|
+|13|116.80.93.33|3128|Japan|Shimomeguro|InfoSphere|
+|14|162.240.154.26|3128|United States|Provo|Unified Layer|
+|15|152.26.231.83|9443|United States|Concord|MCNC|
 |16|152.26.229.83|9443|United States|Concord|MCNC|
-|17|152.26.231.83|9443|United States|Concord|MCNC|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
 |18|152.26.231.94|9443|United States|Concord|MCNC|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|152.26.229.46|9443|United States|Concord|MCNC|
 
 
 
