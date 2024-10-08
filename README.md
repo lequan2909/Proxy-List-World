@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|77.41.146.30|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|5|103.173.142.107|8090|Indonesia|Kota Pekalongan|PT Lestari Exellika Barokah|
-|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|7|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|9|152.26.231.42|9443|United States|Concord|MCNC|
-|10|152.26.229.86|9443|United States|Concord|MCNC|
-|11|152.26.229.83|9443|United States|Concord|MCNC|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|77.41.146.30|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|5|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|6|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|152.26.229.83|9443|United States|Concord|MCNC|
+|8|152.26.231.42|9443|United States|Concord|MCNC|
+|9|152.26.229.86|9443|United States|Concord|MCNC|
+|10|152.26.231.94|9443|United States|Concord|MCNC|
+|11|152.26.231.93|9443|United States|Concord|MCNC|
 |12|152.26.231.86|9443|United States|Concord|MCNC|
-|13|152.26.231.93|9443|United States|Concord|MCNC|
-|14|152.26.231.94|9443|United States|Concord|MCNC|
-|15|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|72.10.160.90|22527|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|4847|Canada|Montreal|GloboTech Communications|
-|20|103.191.165.23|8181|Indonesia|Subang|PT Sakti Wijaya Network|
+|13|152.26.229.42|9443|United States|Concord|MCNC|
+|14|67.43.227.228|26033|Canada|Montreal|GloboTech Communications|
+|15|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|67.43.236.18|19115|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|10995|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|5797|Canada|Montreal|GloboTech Communications|
+|19|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|67.43.228.252|13423|Canada|Montreal|GloboTech Communications|
 
 
 
