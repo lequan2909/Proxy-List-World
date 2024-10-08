@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.61.13|8561|Japan|Osaka|Google LLC|
-|3|192.99.169.19|8448|Canada|Beauharnois|OVH SAS|
-|4|61.7.191.169|80|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
-|5|46.17.249.140|35782|Kazakhstan|Kostanay|Eurasia-Star LLP|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|38.183.146.181|8090|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|102.213.84.250|8080|Nigeria|Irewe|Globacom Limited|
-|10|194.105.85.157|8080|Italy|Angri|Connectivia S.r.l|
-|11|34.97.136.107|8561|Japan|Osaka|Google LLC|
-|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|15|195.25.20.155|3128|France|Paris|Orange Business Services|
-|16|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
-|17|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|103.166.227.82|8085|Indonesia|Majalengka|PT Arta Flash Sintesa Nusantara|
-|20|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|61.7.191.169|80|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|186.96.50.113|999|Mexico|Aguascalientes|Total Play Telecomunicaciones SA De CV|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|46.166.165.33|4002|Lithuania|Šiauliai|Cherry Servers|
+|11|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|14|129.222.202.169|80|Colombia|Bogota|SpaceX Starlink|
+|15|171.241.198.185|5111|Vietnam|Thanh Hóa|Viettel Corporation|
+|16|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|17|185.138.120.109|8080|Iraq|Baghdad|Horizon ISP|
+|18|68.162.217.121|8080|United States|Leominster|Verizon Business|
+|19|152.26.229.46|9443|United States|Concord|MCNC|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
