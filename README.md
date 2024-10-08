@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|6|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|7|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|2|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|6|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 |9|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|103.247.23.181|1111|Indonesia|Cileungsir|PT wifian Solution|
-|11|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
-|12|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|116.58.239.180|8080|Thailand|Dusit|CAT Telecom Public Company Limited|
-|14|103.231.177.120|5020|Bangladesh|Gazipur|Sayed Farhad Ahmed|
-|15|195.25.20.155|3128|France|Paris|Orange Business Services|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|103.171.244.42|8088|Indonesia|Madiun|PT Data Arta Sedaya|
-|18|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|163.172.33.137|4016|France|Vitry-sur-Seine|Online S.A.S.|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|11|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|103.143.168.58|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|15|41.65.0.199|1981|Egypt|6th of October City|Enterprise|
+|16|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|17|103.78.36.116|8080|Indonesia|Jakarta|MORATELINDO|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|5.189.130.42|23055|Germany|Nuremberg|Contabo GmbH|
 
 
 
