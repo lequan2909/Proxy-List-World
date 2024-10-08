@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|3|34.97.136.20|8561|Japan|Osaka|Google LLC|
-|4|34.97.138.46|8561|Japan|Osaka|Google LLC|
-|5|34.97.78.175|8561|Japan|Osaka|Google LLC|
-|6|34.97.85.151|8561|Japan|Osaka|Google LLC|
-|7|34.97.149.89|8561|Japan|Osaka|Google LLC|
-|8|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|34.97.27.41|8561|Japan|Osaka|Google LLC|
-|12|34.97.138.39|8561|Japan|Osaka|Google LLC|
-|13|34.97.229.206|8561|Japan|Osaka|Google LLC|
-|14|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|16|116.80.84.40|3128|Japan|Shimomeguro|InfoSphere|
-|17|190.187.174.54|8888|Peru|Lima region|Americatel Peru S.A.|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|5|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|163.172.33.137|4005|France|Vitry-sur-Seine|Online S.A.S.|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|34.97.138.39|8561|Japan|Osaka|Google LLC|
+|9|66.206.15.148|8134|United States|Los Angeles|Primary|
+|10|190.187.174.54|8888|Peru|Lima region|Americatel Peru S.A.|
+|11|116.80.84.40|3128|Japan|Shimomeguro|InfoSphere|
+|12|177.101.225.149|9090|Brazil|São Borja|Vogel Soluções em Telecom e Informática S/A|
+|13|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|19|152.26.229.83|9443|United States|Concord|MCNC|
 |20|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
 
 
