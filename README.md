@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|116.80.47.23|3128|Japan|Tokyo|InfoSphere|
-|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|12|179.189.236.201|20183|Brazil|São Paulo|America-NET Ltda.|
-|13|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|15|122.52.109.184|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|72.10.160.170|13793|Canada|Montreal|GloboTech Communications|
-|18|152.26.231.83|9443|United States|Concord|MCNC|
-|19|152.26.229.83|9443|United States|Concord|MCNC|
-|20|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|6|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|116.80.47.23|3128|Japan|Tokyo|InfoSphere|
+|8|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|12|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|13|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|16|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|18|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|19|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
