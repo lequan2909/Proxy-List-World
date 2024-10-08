@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|7|123.200.14.194|8080|Bangladesh|Khulna|Link3 Technologies Limited|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|11|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|195.123.240.138|7777|United States|Los Angeles|Green Floid LLC|
-|13|104.167.197.185|3128|United States|Miami|Newserverlife LLC|
-|14|152.26.229.47|9443|United States|Concord|MCNC|
-|15|23.251.5.175|8888|United States|Waynesboro|CABLE ONE, INC.|
-|16|67.43.227.227|21625|Canada|Montreal|GloboTech Communications|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|19|152.26.229.83|9443|United States|Concord|MCNC|
-|20|152.26.231.94|9443|United States|Concord|MCNC|
+|2|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|5|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|152.26.229.47|9443|United States|Concord|MCNC|
+|7|152.26.229.42|9443|United States|Concord|MCNC|
+|8|152.26.231.86|9443|United States|Concord|MCNC|
+|9|152.26.231.94|9443|United States|Concord|MCNC|
+|10|103.69.20.28|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|11|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|12|152.26.231.83|9443|United States|Concord|MCNC|
+|13|152.26.229.83|9443|United States|Concord|MCNC|
+|14|152.26.229.93|9443|United States|Concord|MCNC|
+|15|152.26.229.46|9443|United States|Concord|MCNC|
+|16|67.43.228.253|2539|Canada|Montreal|GloboTech Communications|
+|17|152.26.231.93|9443|United States|Concord|MCNC|
+|18|72.10.160.170|26121|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|21625|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.226|3835|Canada|Montreal|GloboTech Communications|
 
 
 
