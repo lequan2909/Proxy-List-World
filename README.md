@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.93.33|3128|Japan|Shimomeguro|InfoSphere|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|210.5.184.90|8080|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|7|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|185.116.236.104|3128|United States|New York|Massivegrid LTD|
-|9|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|10|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|116.97.9.74|5101|Vietnam|Hanoi|Viettel Corporation|
-|12|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|13|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|187.1.57.222|8080|Brazil|Vespasiano|Companhia Itabirana Telecomunicações Ltda|
-|15|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|16|185.116.236.104|3128|United States|New York|Massivegrid LTD|
-|17|203.192.217.6|8080|India|Nagpur|Entire In2Cable|
-|18|5.42.78.122|3128|Sweden|Stockholm|Aeza International LTD|
-|19|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|103.162.54.117|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|116.80.93.33|3128|Japan|Shimomeguro|InfoSphere|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|6|210.5.184.90|8080|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|10|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|11|185.116.236.104|3128|United States|New York|Massivegrid LTD|
+|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|13|104.167.197.185|3128|United States|Miami|Newserverlife LLC|
+|14|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|104.167.197.185|3128|United States|Miami|Newserverlife LLC|
+|20|185.116.236.104|3128|United States|New York|Massivegrid LTD|
 
 
 
