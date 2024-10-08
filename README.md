@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|103.54.218.203|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|5|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|103.156.16.81|8080|Indonesia|Jakarta|RSTNET|
-|9|116.80.82.213|3128|Japan|Shimomeguro|InfoSphere|
-|10|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|11|152.26.231.42|9443|United States|Concord|MCNC|
-|12|152.26.231.86|9443|United States|Concord|MCNC|
-|13|72.10.160.170|18759|Canada|Montreal|GloboTech Communications|
-|14|152.26.231.94|9443|United States|Concord|MCNC|
-|15|67.43.236.20|30145|Canada|Montreal|GloboTech Communications|
-|16|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|17|114.9.26.238|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|18|152.26.229.46|9443|United States|Concord|MCNC|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|2|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|103.156.16.81|8080|Indonesia|Jakarta|RSTNET|
+|7|77.41.146.30|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|8|116.80.82.213|3128|Japan|Shimomeguro|InfoSphere|
+|9|116.80.93.33|3128|Japan|Shimomeguro|InfoSphere|
+|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|11|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|12|152.26.231.42|9443|United States|Concord|MCNC|
+|13|152.26.231.94|9443|United States|Concord|MCNC|
+|14|152.26.231.86|9443|United States|Concord|MCNC|
+|15|72.10.160.170|1411|Canada|Montreal|GloboTech Communications|
+|16|152.26.229.46|9443|United States|Concord|MCNC|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|152.26.229.86|9443|United States|Concord|MCNC|
+|19|152.26.231.93|9443|United States|Concord|MCNC|
+|20|67.43.228.252|24897|Canada|Montreal|GloboTech Communications|
 
 
 
