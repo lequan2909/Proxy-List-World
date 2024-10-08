@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|5|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|116.80.84.40|3128|Japan|Shimomeguro|InfoSphere|
 |7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|152.26.229.46|9443|United States|Concord|MCNC|
-|11|152.26.229.93|9443|United States|Concord|MCNC|
-|12|152.26.231.86|9443|United States|Concord|MCNC|
-|13|152.26.229.83|9443|United States|Concord|MCNC|
-|14|152.26.231.94|9443|United States|Concord|MCNC|
-|15|152.26.229.34|9443|United States|Concord|MCNC|
-|16|72.10.160.90|12195|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.171|21173|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.42|9443|United States|Concord|MCNC|
-|19|67.43.228.250|13931|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.173|7669|Canada|Montreal|GloboTech Communications|
+|8|152.26.229.46|9443|United States|Concord|MCNC|
+|9|152.26.229.93|9443|United States|Concord|MCNC|
+|10|152.26.231.86|9443|United States|Concord|MCNC|
+|11|152.26.231.94|9443|United States|Concord|MCNC|
+|12|152.26.229.83|9443|United States|Concord|MCNC|
+|13|152.26.229.34|9443|United States|Concord|MCNC|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
+|15|51.159.75.249|3128|France|Paris|SCALEWAY|
+|16|152.26.231.93|9443|United States|Concord|MCNC|
+|17|103.59.163.130|32650|Myanmar|Yangon|Golden Dragon 2000 Company Limited|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|67.43.227.228|11071|Canada|Montreal|GloboTech Communications|
 
 
 
