@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4868** proxies at the latest update. Usable proxies are below.
+> Scraper found **4984** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|75|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|374|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|590|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|566|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|466|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2895|✅|
 
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|122.152.4.135|6000|Japan|Chiyoda|FreeBit Co., Ltd.|
-|5|38.159.229.62|999|Ecuador|Vinces|Turbonet S.A.|
-|6|84.247.152.41|8000|Japan|Tokyo|Contabo GmbH|
-|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|9|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|10|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|152.26.231.93|9443|United States|Concord|MCNC|
-|13|152.26.229.93|9443|United States|Concord|MCNC|
-|14|152.26.229.46|9443|United States|Concord|MCNC|
-|15|152.26.229.47|9443|United States|Concord|MCNC|
-|16|152.26.229.86|9443|United States|Concord|MCNC|
-|17|152.26.229.42|9443|United States|Concord|MCNC|
-|18|152.26.231.86|9443|United States|Concord|MCNC|
-|19|103.159.194.241|8080|Indonesia|Kendal|PT Giga Digital Nusantara|
-|20|116.80.91.122|3128|Japan|Shimomeguro|InfoSphere|
+|3|103.247.14.103|1111|Indonesia|Klaten|TERABIT|
+|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|3.36.117.200|3128|South Korea|Seoul|Amazon.com, Inc.|
+|8|201.144.25.10|8080|Mexico|Mexico City|UNINET|
+|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|10|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|12|152.26.229.46|9443|United States|Concord|MCNC|
+|13|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|152.26.231.42|9443|United States|Concord|MCNC|
+|15|67.43.236.20|27309|Canada|Montreal|GloboTech Communications|
+|16|59.124.9.67|3128|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|17|103.40.121.31|8087|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
+|18|152.26.229.34|9443|United States|Concord|MCNC|
+|19|112.17.10.41|8888|China|Hangzhou|China Mobile Communications Corporation|
+|20|180.94.12.137|8080|Indonesia|Siak Sri Indrapura|TBKNET|
 
 
 
