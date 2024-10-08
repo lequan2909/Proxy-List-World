@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|6|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|9|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|10|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|110.78.186.121|8080|Thailand|Pattaya|CAT-BB|
+|10|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
 |11|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|12|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|16|103.82.126.34|1111|Indonesia|Tangerang|PT.PLATINUM CITRA INDONESIA|
-|17|202.93.244.38|8080|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
-|18|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|20|163.172.33.137|4005|France|Vitry-sur-Seine|Online S.A.S.|
+|12|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|13|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|37.46.135.225|3128|Russia|Irkutsk|JSC IOT|
+|15|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|103.191.254.2|8085|Indonesia|Jadi|PT Ayodya Data Internusa|
+|20|103.106.219.114|1080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
 
 
 
