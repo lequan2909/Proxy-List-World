@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
-|3|34.97.27.41|8561|Japan|Osaka|Google LLC|
-|4|34.97.87.179|8561|Japan|Osaka|Google LLC|
+|2|34.97.136.107|8561|Japan|Osaka|Google LLC|
+|3|34.97.61.13|8561|Japan|Osaka|Google LLC|
+|4|36.73.138.119|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
 |5|103.24.217.128|8000|Hong Kong|Hong Kong|Nearoute Limited|
-|6|34.97.138.39|8561|Japan|Osaka|Google LLC|
-|7|34.97.78.175|8561|Japan|Osaka|Google LLC|
-|8|34.97.26.61|8561|Japan|Osaka|Google LLC|
-|9|34.97.136.20|8561|Japan|Osaka|Google LLC|
-|10|34.97.117.29|8561|Japan|Osaka|Google LLC|
-|11|34.97.136.107|8561|Japan|Osaka|Google LLC|
-|12|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|13|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|34.97.229.206|8561|Japan|Osaka|Google LLC|
-|17|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|34.97.46.219|8561|Japan|Osaka|Google LLC|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|103.156.248.45|8080|Indonesia|Pinrang|Trans Media Telekomunikasi|
+|6|34.97.85.151|8561|Japan|Osaka|Google LLC|
+|7|189.232.84.219|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|8|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|9|34.97.138.46|8561|Japan|Osaka|Google LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|34.97.136.20|8561|Japan|Osaka|Google LLC|
+|14|34.97.87.179|8561|Japan|Osaka|Google LLC|
+|15|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|16|34.97.54.188|8561|Japan|Osaka|Google LLC|
+|17|34.97.229.206|8561|Japan|Osaka|Google LLC|
+|18|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|34.97.26.61|8561|Japan|Osaka|Google LLC|
+|20|34.97.27.41|8561|Japan|Osaka|Google LLC|
 
 
 
