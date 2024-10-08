@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|2|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
 |3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|5|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|7|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|8|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|9|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|11|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|12|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|36.67.99.31|7023|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|15|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|17|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|20|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|6|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|9|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|116.97.33.10|5103|Vietnam|Hanoi|Viettel Corporation|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|103.122.142.174|8080|Bangladesh|Dhaka|Carnival Internet|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|103.180.123.143|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|16|152.26.229.46|9443|United States|Concord|MCNC|
+|17|152.26.229.42|9443|United States|Concord|MCNC|
+|18|152.26.231.83|9443|United States|Concord|MCNC|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|20.219.176.57|3129|India|Pune|Microsoft Corporation|
 
 
 
