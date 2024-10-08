@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|41.216.186.146|8080|Indonesia|Purbalingga|FASTHOSTING|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|77.41.146.30|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|12|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|13|152.26.231.83|9443|United States|Concord|MCNC|
-|14|152.26.231.94|9443|United States|Concord|MCNC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|6|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|103.156.16.81|8080|Indonesia|Jakarta|RSTNET|
+|11|180.180.218.250|8080|Thailand|Bangkok|TOT Public Company Limited|
+|12|152.26.231.83|9443|United States|Concord|MCNC|
+|13|152.26.231.94|9443|United States|Concord|MCNC|
+|14|152.26.229.42|9443|United States|Concord|MCNC|
 |15|152.26.229.34|9443|United States|Concord|MCNC|
-|16|152.26.229.42|9443|United States|Concord|MCNC|
-|17|72.10.164.178|15891|Canada|Montreal|GloboTech Communications|
-|18|152.26.229.83|9443|United States|Concord|MCNC|
-|19|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|20|152.26.229.86|9443|United States|Concord|MCNC|
+|16|152.26.229.83|9443|United States|Concord|MCNC|
+|17|152.26.229.86|9443|United States|Concord|MCNC|
+|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|19|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
