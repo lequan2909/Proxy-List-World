@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|7|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|9|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|11|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|14|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|16|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|163.172.33.137|4005|France|Vitry-sur-Seine|Online S.A.S.|
-|20|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|10|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|11|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|12|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|34.97.229.206|8561|Japan|Osaka|Google LLC|
+|15|163.172.33.137|4005|France|Vitry-sur-Seine|Online S.A.S.|
+|16|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|203.115.124.75|8080|India|Mumbai|PRIMENET|
+|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|103.182.213.65|8080|Bangladesh|Tongi|Rapid Network|
+|20|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
