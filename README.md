@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.46.219|8561|Japan|Osaka|Google LLC|
-|3|34.97.136.107|8561|Japan|Osaka|Google LLC|
-|4|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|5|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|7|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|185.71.149.136|3128|France|Montpellier|Eurofiber France SAS|
-|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|11|116.80.91.122|3128|Japan|Shimomeguro|InfoSphere|
-|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|13|190.187.174.54|8888|Peru|Lima region|Americatel Peru S.A.|
-|14|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|15|103.228.246.151|7070|Indonesia|Ponorogo|PT Giga Patra Multimedia|
-|16|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|186.215.87.194|30018|Brazil|Campo Grande|TELEFÔNICA BRASIL S.A|
-|18|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|1|34.97.136.107|8561|Japan|Osaka|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|5|34.97.46.219|8561|Japan|Osaka|Google LLC|
+|6|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|116.80.91.122|3128|Japan|Shimomeguro|InfoSphere|
+|9|163.172.33.137|4005|France|Vitry-sur-Seine|Online S.A.S.|
+|10|177.101.225.149|9090|Brazil|São Borja|Vogel Soluções em Telecom e Informática S/A|
+|11|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|213.250.198.146|8080|Czechia|Litomyšl|Nordic Telecom Regional s.r.o.|
+|16|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|18|152.26.231.94|9443|United States|Concord|MCNC|
 |19|152.26.229.86|9443|United States|Concord|MCNC|
 |20|152.26.229.34|9443|United States|Concord|MCNC|
 
