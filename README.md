@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|429|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|429|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|429|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|406|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|406|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|406|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|34.97.26.61|8561|Japan|Osaka|Google LLC|
 |3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|4|34.97.229.206|8561|Japan|Osaka|Google LLC|
-|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|6|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|7|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|8|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|10|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|15|34.97.149.89|8561|Japan|Osaka|Google LLC|
-|16|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|147.75.88.36|10017|United States|San Jose|Packet Host, Inc.|
-|18|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
+|9|34.97.61.13|8561|Japan|Osaka|Google LLC|
+|10|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|11|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|34.97.27.41|8561|Japan|Osaka|Google LLC|
+|16|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|103.139.127.244|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|19|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|20|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
