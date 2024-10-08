@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|3|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|5|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|8|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|103.247.23.33|1111|Indonesia|Cileungsir|PT wifian Solution|
-|10|87.247.186.40|1081|Iran|Tehran|Sotoon Cloud Infrastracuture|
-|11|34.97.67.132|8561|Japan|Osaka|Google LLC|
-|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|13|89.171.139.110|8080|Poland|Polkowice|NETIA|
-|14|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|152.26.231.83|9443|United States|Concord|MCNC|
-|18|34.97.57.4|8561|Japan|Osaka|Google LLC|
-|19|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|10|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|14|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|89.171.139.110|8080|Poland|Polkowice|NETIA|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|18|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |20|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 
 
