@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|6|119.76.142.245|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
-|7|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|38.159.229.243|999|Ecuador|Vinces|Turbonet S.A.|
-|13|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|103.173.244.210|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|15|134.209.90.203|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|17|171.6.145.227|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|18|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
-|20|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|34.97.57.4|8561|Japan|Osaka|Google LLC|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
+|7|109.71.240.93|8118|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|8|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|9|134.209.90.203|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|16|171.6.145.227|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|17|50.235.247.114|8085|United States|Wallingford|Comcast Cable Communications, LLC|
+|18|119.76.142.245|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
+|19|50.235.247.114|8085|United States|Wallingford|Comcast Cable Communications, LLC|
+|20|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
