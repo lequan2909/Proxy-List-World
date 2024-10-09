@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|438|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|438|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|438|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.24.217.128|8000|Hong Kong|Hong Kong|Nearoute Limited|
-|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|6|34.97.27.41|8561|Japan|Osaka|Google LLC|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|95.216.139.24|7329|Finland|Helsinki|Hetzner Online GmbH|
-|9|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|116.80.47.28|3128|Japan|Tokyo|InfoSphere|
-|11|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|144.86.187.57|3129|United States|Malden|Charles River Operation|
-|13|144.86.187.62|3129|United States|Malden|Charles River Operation|
-|14|144.86.187.38|3129|United States|Malden|Charles River Operation|
-|15|144.86.187.40|3129|United States|Malden|Charles River Operation|
-|16|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|20|144.86.187.54|3129|United States|Malden|Charles River Operation|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
+|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|6|34.97.78.175|8561|Japan|Osaka|Google LLC|
+|7|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|8|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|9|116.80.47.28|3128|Japan|Tokyo|InfoSphere|
+|10|34.97.46.219|8561|Japan|Osaka|Google LLC|
+|11|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|144.86.187.38|3129|United States|Malden|Charles River Operation|
+|13|144.86.187.54|3129|United States|Malden|Charles River Operation|
+|14|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|103.24.217.128|8000|Hong Kong|Hong Kong|Nearoute Limited|
+|16|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|34.97.27.41|8561|Japan|Osaka|Google LLC|
+|18|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|34.97.138.39|8561|Japan|Osaka|Google LLC|
+|20|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
