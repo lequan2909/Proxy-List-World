@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|4|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
 |6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|103.156.15.81|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|12|103.39.50.228|9090|Indonesia|Kuningan Barat|PT. Mega Mentari Mandiri|
-|13|103.172.70.138|1111|Indonesia|Karawang|AZNET|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|17|212.110.188.211|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|18|138.204.154.189|11201|Argentina|Oncativo|Cooperativa Electrica de Servicios y Obras Publicas de Oncativo Ltda.|
-|19|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|20|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|171.228.118.24|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
+|9|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|64.6.8.5|8080|United States|La Harpe|MTC Communications|
+|14|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|193.233.84.77|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
