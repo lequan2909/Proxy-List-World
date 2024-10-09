@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|3|218.155.31.188|8080|South Korea|Seongnam-si|Korea Telecom|
-|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
-|6|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|212.112.113.182|3128|Kyrgyzstan|Bishkek|AkNet|
-|9|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|10|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|34.97.72.201|8561|Japan|Osaka|Google LLC|
-|12|109.71.240.93|8118|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|13|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|15|187.72.80.197|8080|Brazil|São Paulo|ALGAR TELECOM S/A|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|20|116.80.82.213|3128|Japan|Shimomeguro|InfoSphere|
+|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|4|178.48.68.61|18080|Hungary|Budapest|UPC|
+|5|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
+|6|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|9|187.72.80.197|8080|Brazil|São Paulo|ALGAR TELECOM S/A|
+|10|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|119.18.149.9|5020|Bangladesh|Chittagong|BBTS Network|
+|13|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
+|14|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
+|16|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|17|152.26.231.83|9443|United States|Concord|MCNC|
+|18|152.26.231.94|9443|United States|Concord|MCNC|
+|19|152.26.229.42|9443|United States|Concord|MCNC|
+|20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
