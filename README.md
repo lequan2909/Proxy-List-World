@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|400|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|400|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|400|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.97.46.219|8561|Japan|Osaka|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|34.97.78.175|8561|Japan|Osaka|Google LLC|
-|5|116.80.47.28|3128|Japan|Tokyo|InfoSphere|
-|6|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|7|34.97.27.41|8561|Japan|Osaka|Google LLC|
-|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|9|119.42.74.34|8080|Thailand|Bang Rak|CAT-BB|
-|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|11|103.24.217.128|8000|Hong Kong|Hong Kong|Nearoute Limited|
-|12|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|13|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|14|161.34.37.126|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|17|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|20|109.71.240.93|8118|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|116.80.47.28|3128|Japan|Tokyo|InfoSphere|
+|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|6|34.97.78.175|8561|Japan|Osaka|Google LLC|
+|7|119.42.74.34|8080|Thailand|Bang Rak|CAT-BB|
+|8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|9|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|10|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|12|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|161.34.37.126|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|202.154.18.137|8090|Indonesia|Jombang|DIGITNET|
+|16|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|103.171.244.44|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|19|34.97.27.41|8561|Japan|Osaka|Google LLC|
+|20|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
