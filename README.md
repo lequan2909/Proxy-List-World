@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
 |2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|157.15.63.164|8085|Indonesia|Malang|PT Anugerah Media Data Nusantara|
-|8|8.213.34.58|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
-|9|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|10|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|116.212.110.18|58080|Bangladesh|Kāfrul|TelNET Communication Ltd|
-|15|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|152.26.229.83|9443|United States|Concord|MCNC|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|152.26.229.46|9443|United States|Concord|MCNC|
-|20|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|8.213.34.58|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
+|6|212.112.113.182|3128|Kyrgyzstan|Bishkek|AkNet|
+|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|8|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|158.255.212.55|3256|Austria|Vienna|EDIS GmbH|
+|11|103.56.157.39|8080|Vietnam|Hanoi|VCCORP|
+|12|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|13|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|14|116.80.93.33|3128|Japan|Shimomeguro|InfoSphere|
+|15|152.26.229.86|9443|United States|Concord|MCNC|
+|16|152.26.229.83|9443|United States|Concord|MCNC|
+|17|152.26.229.46|9443|United States|Concord|MCNC|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|152.26.231.86|9443|United States|Concord|MCNC|
+|20|152.26.231.83|9443|United States|Concord|MCNC|
 
 
 
