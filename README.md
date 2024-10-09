@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|5|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|7|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|36.95.27.225|8080|Indonesia|Padang|PT. Telekomunikasi Indonesia|
-|12|45.167.124.236|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|13|103.166.32.215|1111|Indonesia|Kudus|PT Daniswara Citra Informatika|
-|14|5.42.78.122|3128|Sweden|Stockholm|Aeza International LTD|
-|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|16|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|171.228.118.24|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|186.194.160.66|999|Colombia|Bogotá|Telenet Digital S.A.S|
-|20|103.69.20.115|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|2|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|4|212.48.251.69|28080|Hungary|Érd|Vodafone|
+|5|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|212.46.210.230|8080|Russia|Moscow|VympelKom broadband internet|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|46.166.165.33|4002|Lithuania|Šiauliai|Cherry Servers|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|171.247.146.71|1001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
 
 
 
