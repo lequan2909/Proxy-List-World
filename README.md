@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|5|189.232.84.219|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|6|178.48.68.61|18080|Hungary|Budapest|UPC|
-|7|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
+|2|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|189.232.84.219|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|4|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|7|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
 |8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|116.80.84.40|3128|Japan|Shimomeguro|InfoSphere|
-|10|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|12|116.80.82.213|3128|Japan|Shimomeguro|InfoSphere|
-|13|116.80.93.33|3128|Japan|Shimomeguro|InfoSphere|
-|14|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|15|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|16|152.26.229.46|9443|United States|Concord|MCNC|
-|17|152.26.229.34|9443|United States|Concord|MCNC|
-|18|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|67.43.227.226|5421|Canada|Montreal|GloboTech Communications|
-|20|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|9|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
+|10|72.10.164.178|28403|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.227|3817|Canada|Montreal|GloboTech Communications|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|152.26.231.83|9443|United States|Concord|MCNC|
+|15|72.10.160.90|8889|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|8889|Canada|Montreal|GloboTech Communications|
+|17|152.26.229.47|9443|United States|Concord|MCNC|
+|18|67.43.228.254|11541|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|4937|Canada|Montreal|GloboTech Communications|
+|20|103.247.23.65|2022|Indonesia|Cileungsir|PT wifian Solution|
 
 
 
