@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5854** proxies at the latest update. Usable proxies are below.
+> Scraper found **5866** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|413|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|413|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|413|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|120|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|748|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|760|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|625|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3403|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|5|159.203.104.153|4550|United States|Clifton|DigitalOcean, LLC|
-|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|34.97.42.111|8561|Japan|Osaka|Google LLC|
-|9|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
-|10|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|11|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|34.97.68.25|8561|Japan|Osaka|Google LLC|
+|1|34.97.229.206|8561|Japan|Osaka|Google LLC|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|34.97.78.175|8561|Japan|Osaka|Google LLC|
+|5|34.97.11.208|8561|Japan|Osaka|Google LLC|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|8|34.97.58.253|8561|Japan|Osaka|Google LLC|
+|9|34.97.68.25|8561|Japan|Osaka|Google LLC|
+|10|34.97.57.4|8561|Japan|Osaka|Google LLC|
+|11|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|12|203.150.128.120|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |14|34.97.72.201|8561|Japan|Osaka|Google LLC|
-|15|201.151.252.120|80|Mexico|Santa Rosa|Alestra, S. de R.L. de C.V.|
-|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|18|34.97.46.98|8561|Japan|Osaka|Google LLC|
-|19|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|34.97.11.208|8561|Japan|Osaka|Google LLC|
+|15|34.97.52.66|8561|Japan|Osaka|Google LLC|
+|16|34.97.138.39|8561|Japan|Osaka|Google LLC|
+|17|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
+|20|34.97.149.89|8561|Japan|Osaka|Google LLC|
 
 
 
