@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|34.97.52.66|8561|Japan|Osaka|Google LLC|
-|3|45.174.249.23|999|Mexico|Morelia|Wifmax S.A de C.V.|
-|4|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
-|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|218.155.31.188|8080|South Korea|Seongnam-si|Korea Telecom|
-|14|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|103.131.18.194|8080|Indonesia|Kudus|PT Global Media Data Prima|
-|16|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|14.242.25.180|8080|Vietnam|Ho Chi Minh City|VNPT|
-|20|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|45.174.249.23|999|Mexico|Morelia|Wifmax S.A de C.V.|
+|3|109.71.240.93|8118|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|4|178.48.68.61|18080|Hungary|Budapest|UPC|
+|5|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|7|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
+|10|34.97.57.4|8561|Japan|Osaka|Google LLC|
+|11|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|103.133.24.211|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|16|152.26.229.42|9443|United States|Concord|MCNC|
+|17|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|152.26.231.94|9443|United States|Concord|MCNC|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|116.80.93.33|3128|Japan|Shimomeguro|InfoSphere|
 
 
 
