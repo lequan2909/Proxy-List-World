@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.138.39|8561|Japan|Osaka|Google LLC|
-|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|4|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
-|5|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
-|8|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|12|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|15|190.61.101.72|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
-|16|114.130.175.18|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|34.97.52.66|8561|Japan|Osaka|Google LLC|
-|20|103.156.201.170|83|India|Brahmapur|Reis Network Solutions|
+|1|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|2|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|120.29.124.131|8080|Philippines|Pasig|ComClark Network & Technology Corp|
+|7|27.72.244.228|8080|Vietnam|Hanoi|Newass2011xDSLHN|
+|8|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|9|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|34.97.72.201|8561|Japan|Osaka|Google LLC|
+|11|34.97.42.111|8561|Japan|Osaka|Google LLC|
+|12|34.97.138.39|8561|Japan|Osaka|Google LLC|
+|13|34.97.31.37|8561|Japan|Osaka|Google LLC|
+|14|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|34.97.58.253|8561|Japan|Osaka|Google LLC|
+|17|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|34.97.11.208|8561|Japan|Osaka|Google LLC|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|103.179.182.255|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
 
 
 
