@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|10|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|161.34.37.126|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|109.71.240.93|8118|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
+|8|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|11|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|152.26.231.94|9443|United States|Concord|MCNC|
+|13|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|152.26.229.46|9443|United States|Concord|MCNC|
 |16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|72.10.160.90|6057|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|27153|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|11349|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|152.26.231.86|9443|United States|Concord|MCNC|
+|19|152.26.229.93|9443|United States|Concord|MCNC|
+|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
