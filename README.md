@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.92.225|3128|Japan|Shimomeguro|InfoSphere|
-|3|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|5|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
-|6|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|45.123.142.6|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|11|160.248.187.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|177.93.51.210|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|17|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|19|152.26.229.42|9443|United States|Concord|MCNC|
-|20|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
+|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
+|8|5.42.78.122|3128|Sweden|Stockholm|Aeza International LTD|
+|9|159.203.104.153|4550|United States|Clifton|DigitalOcean, LLC|
+|10|218.155.31.188|8080|South Korea|Seongnam-si|Korea Telecom|
+|11|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|13|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|16|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|177.221.44.89|49999|Brazil|Jaboatão dos Guararapes|1telecom Servicos De Tecnologia EM Internet Ltda|
+|18|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|152.26.229.34|9443|United States|Concord|MCNC|
+|20|152.26.229.42|9443|United States|Concord|MCNC|
 
 
 
