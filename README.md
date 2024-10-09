@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|34.97.46.98|8561|Japan|Osaka|Google LLC|
-|12|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
-|13|203.150.128.42|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|14|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|15|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|18|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|189.232.84.219|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|20|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|210.5.184.90|8080|Hong Kong|Kowloon Bay|HKBN Enterprise Solutions HK Limited|
+|2|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|218.155.31.188|8080|South Korea|Seongnam-si|Korea Telecom|
+|5|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|208.67.28.28|58090|United States|Eagle River|SonicNet Inc.|
+|9|189.232.84.219|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|10|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|110.164.128.124|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|14|45.6.102.24|8080|Brazil|Rio de Janeiro|Golden Link|
+|15|116.80.84.40|3128|Japan|Shimomeguro|InfoSphere|
+|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|19|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|20|183.88.241.167|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
 
 
 
