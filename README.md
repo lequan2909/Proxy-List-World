@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
 |2|116.80.92.225|3128|Japan|Shimomeguro|InfoSphere|
-|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|218.155.31.188|8080|South Korea|Seongnam-si|Korea Telecom|
-|6|178.48.68.61|18080|Hungary|Budapest|UPC|
-|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|8|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|195.133.28.139|3128|The Netherlands|Amsterdam|Aeza International LTD|
-|10|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|160.248.187.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|5|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|6|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
+|7|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|160.248.187.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
+|11|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|13|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |14|116.80.84.40|3128|Japan|Shimomeguro|InfoSphere|
-|15|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|152.26.229.86|9443|United States|Concord|MCNC|
-|19|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
-|20|67.43.227.226|2961|Canada|Montreal|GloboTech Communications|
+|15|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
+|16|67.43.227.227|2995|Canada|Montreal|GloboTech Communications|
+|17|103.247.23.65|2022|Indonesia|Cileungsir|PT wifian Solution|
+|18|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|152.26.229.47|9443|United States|Concord|MCNC|
+|20|67.43.227.226|15171|Canada|Montreal|GloboTech Communications|
 
 
 
