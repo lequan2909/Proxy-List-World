@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|8|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
-|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|17|193.233.84.94|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
-|18|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|20|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|5|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|36.95.27.225|8080|Indonesia|Padang|PT. Telekomunikasi Indonesia|
+|12|45.167.124.236|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|13|103.166.32.215|1111|Indonesia|Kudus|PT Daniswara Citra Informatika|
+|14|5.42.78.122|3128|Sweden|Stockholm|Aeza International LTD|
+|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|16|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|171.228.118.24|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|186.194.160.66|999|Colombia|Bogotá|Telenet Digital S.A.S|
+|20|103.69.20.115|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
 
 
 
