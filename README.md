@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|189.232.84.219|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|9|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|11|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|67.43.236.18|1529|Canada|Montreal|GloboTech Communications|
-|13|152.26.231.42|9443|United States|Concord|MCNC|
-|14|103.40.121.31|8087|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
-|15|67.43.227.228|8355|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|5587|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.230|24153|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.92|22799|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|14111|Canada|Montreal|GloboTech Communications|
-|20|152.26.231.83|9443|United States|Concord|MCNC|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|189.232.84.219|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|12|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|36.93.22.154|8080|Indonesia|Bekasi|Telekomunikasi Indonesia|
+|15|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|19|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
+|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
