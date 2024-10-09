@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.26.61|8561|Japan|Osaka|Google LLC|
-|3|34.97.78.175|8561|Japan|Osaka|Google LLC|
-|4|34.97.149.89|8561|Japan|Osaka|Google LLC|
-|5|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|34.97.136.107|8561|Japan|Osaka|Google LLC|
+|4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|5|34.97.26.61|8561|Japan|Osaka|Google LLC|
 |6|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|7|34.97.229.206|8561|Japan|Osaka|Google LLC|
-|8|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|34.97.61.13|8561|Japan|Osaka|Google LLC|
-|11|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|34.97.46.219|8561|Japan|Osaka|Google LLC|
-|15|222.127.246.81|8082|Philippines|Iloilo City|GLBB|
-|16|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|34.97.37.111|8561|Japan|Osaka|Google LLC|
-|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|19|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|47.51.51.190|8080|United States|Los Angeles|Charter Communications|
+|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|8|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|15|49.147.118.175|8081|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
