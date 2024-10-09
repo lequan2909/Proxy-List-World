@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|413|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|413|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|413|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.97.229.206|8561|Japan|Osaka|Google LLC|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|34.97.78.175|8561|Japan|Osaka|Google LLC|
-|5|34.97.11.208|8561|Japan|Osaka|Google LLC|
-|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|7|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|8|34.97.58.253|8561|Japan|Osaka|Google LLC|
-|9|34.97.68.25|8561|Japan|Osaka|Google LLC|
-|10|34.97.57.4|8561|Japan|Osaka|Google LLC|
-|11|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|12|203.150.128.120|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|13|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|34.97.72.201|8561|Japan|Osaka|Google LLC|
-|15|34.97.52.66|8561|Japan|Osaka|Google LLC|
-|16|34.97.138.39|8561|Japan|Osaka|Google LLC|
-|17|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|34.97.57.4|8561|Japan|Osaka|Google LLC|
+|3|203.150.128.120|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|5|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
+|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|10|34.97.229.206|8561|Japan|Osaka|Google LLC|
+|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|12|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|14|103.133.222.64|8090|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|15|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|34.97.68.25|8561|Japan|Osaka|Google LLC|
+|18|34.97.52.66|8561|Japan|Osaka|Google LLC|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
 |20|34.97.149.89|8561|Japan|Osaka|Google LLC|
 
 
