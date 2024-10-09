@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.39.84|8561|Japan|Osaka|Google LLC|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |3|34.97.46.219|8561|Japan|Osaka|Google LLC|
-|4|34.97.229.206|8561|Japan|Osaka|Google LLC|
-|5|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|7|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|8|34.97.37.111|8561|Japan|Osaka|Google LLC|
-|9|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|10|34.97.26.61|8561|Japan|Osaka|Google LLC|
-|11|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|13|103.24.217.128|8000|Hong Kong|Hong Kong|Nearoute Limited|
-|14|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|34.97.136.20|8561|Japan|Osaka|Google LLC|
+|4|34.97.26.61|8561|Japan|Osaka|Google LLC|
+|5|34.97.78.175|8561|Japan|Osaka|Google LLC|
+|6|34.97.149.89|8561|Japan|Osaka|Google LLC|
+|7|34.97.27.41|8561|Japan|Osaka|Google LLC|
+|8|34.97.39.84|8561|Japan|Osaka|Google LLC|
+|9|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|103.24.217.128|8000|Hong Kong|Hong Kong|Nearoute Limited|
+|12|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|13|34.97.229.206|8561|Japan|Osaka|Google LLC|
+|14|34.97.136.20|8561|Japan|Osaka|Google LLC|
+|15|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|144.86.187.52|3129|United States|Malden|Charles River Operation|
+|18|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|19|34.97.37.111|8561|Japan|Osaka|Google LLC|
+|20|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 
 
 
