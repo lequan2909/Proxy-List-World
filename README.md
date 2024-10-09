@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|160.248.187.248|3128|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|38.156.72.86|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|7|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|164.52.206.180|80|India|Delhi|E2E Networks Limited|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 |8|178.48.68.61|18080|Hungary|Budapest|UPC|
 |9|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|116.80.47.23|3128|Japan|Tokyo|InfoSphere|
-|12|131.153.187.5|31981|United States|Ashburn|Secured Servers LLC|
-|13|152.26.229.47|9443|United States|Concord|MCNC|
+|10|116.80.47.23|3128|Japan|Tokyo|InfoSphere|
+|11|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|12|152.26.229.47|9443|United States|Concord|MCNC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |14|152.26.229.46|9443|United States|Concord|MCNC|
-|15|8.213.34.58|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
-|16|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|17|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|152.26.231.83|9443|United States|Concord|MCNC|
+|15|152.26.231.42|9443|United States|Concord|MCNC|
+|16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.37.126|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|152.26.231.93|9443|United States|Concord|MCNC|
+|19|152.26.231.83|9443|United States|Concord|MCNC|
+|20|152.26.229.83|9443|United States|Concord|MCNC|
 
 
 
