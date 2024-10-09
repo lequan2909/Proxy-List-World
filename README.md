@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|189.232.84.219|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|9|112.5.61.134|3128|China|Guangzhou|China Mobile|
+|1|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|4|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|109.71.240.93|8118|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|6|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|189.232.84.219|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|9|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
 |10|152.26.229.83|9443|United States|Concord|MCNC|
 |11|152.26.229.46|9443|United States|Concord|MCNC|
-|12|72.10.160.91|9675|Canada|Montreal|GloboTech Communications|
-|13|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|14|72.10.160.91|9675|Canada|Montreal|GloboTech Communications|
-|15|152.26.231.94|9443|United States|Concord|MCNC|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|18|152.26.229.34|9443|United States|Concord|MCNC|
-|19|103.156.16.81|8080|Indonesia|Jakarta|RSTNET|
-|20|67.43.236.21|7781|Canada|Montreal|GloboTech Communications|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|103.69.20.28|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|14|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|144.86.187.59|3129|United States|Malden|Charles River Operation|
+|16|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|152.26.229.34|9443|United States|Concord|MCNC|
+|18|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|19|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|20|67.43.236.22|21427|Canada|Montreal|GloboTech Communications|
 
 
 
