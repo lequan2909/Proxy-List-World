@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|512|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|512|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|512|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.46.219|8561|Japan|Osaka|Google LLC|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|103.24.217.128|8000|Hong Kong|Hong Kong|Nearoute Limited|
-|5|34.97.27.41|8561|Japan|Osaka|Google LLC|
-|6|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|7|34.97.136.20|8561|Japan|Osaka|Google LLC|
-|8|34.97.138.39|8561|Japan|Osaka|Google LLC|
-|9|34.97.197.142|8561|Japan|Osaka|Google LLC|
-|10|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|11|34.97.37.111|8561|Japan|Osaka|Google LLC|
-|12|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|13|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|2|34.97.39.84|8561|Japan|Osaka|Google LLC|
+|3|34.97.37.111|8561|Japan|Osaka|Google LLC|
+|4|34.97.46.219|8561|Japan|Osaka|Google LLC|
+|5|34.97.78.175|8561|Japan|Osaka|Google LLC|
+|6|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|7|34.97.27.41|8561|Japan|Osaka|Google LLC|
+|8|34.97.138.46|8561|Japan|Osaka|Google LLC|
+|9|34.97.136.20|8561|Japan|Osaka|Google LLC|
+|10|34.97.197.142|8561|Japan|Osaka|Google LLC|
+|11|198.24.188.142|54793|United States|Ashburn|Secured Servers LLC|
+|12|34.97.138.39|8561|Japan|Osaka|Google LLC|
+|13|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |14|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|15|34.97.136.107|8561|Japan|Osaka|Google LLC|
-|16|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|15|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|16|164.52.206.180|80|India|Delhi|E2E Networks Limited|
 |17|161.34.37.126|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|19|34.97.39.84|8561|Japan|Osaka|Google LLC|
-|20|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|20|144.86.187.36|3129|United States|Malden|Charles River Operation|
 
 
 
