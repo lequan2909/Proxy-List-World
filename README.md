@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.97.68.25|8561|Japan|Osaka|Google LLC|
+|1|34.97.58.253|8561|Japan|Osaka|Google LLC|
 |2|34.97.57.4|8561|Japan|Osaka|Google LLC|
-|3|34.97.31.37|8561|Japan|Osaka|Google LLC|
-|4|34.97.72.201|8561|Japan|Osaka|Google LLC|
+|3|34.97.72.201|8561|Japan|Osaka|Google LLC|
+|4|34.97.68.25|8561|Japan|Osaka|Google LLC|
 |5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|34.97.42.111|8561|Japan|Osaka|Google LLC|
-|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|34.97.58.253|8561|Japan|Osaka|Google LLC|
-|11|34.97.11.208|8561|Japan|Osaka|Google LLC|
-|12|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|13|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|34.97.229.206|8561|Japan|Osaka|Google LLC|
+|6|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|7|34.97.52.66|8561|Japan|Osaka|Google LLC|
+|8|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|9|34.97.138.39|8561|Japan|Osaka|Google LLC|
+|10|34.97.46.98|8561|Japan|Osaka|Google LLC|
+|11|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|12|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|34.97.229.206|8561|Japan|Osaka|Google LLC|
+|14|34.97.67.132|8561|Japan|Osaka|Google LLC|
 |15|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|16|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
-|18|34.97.138.39|8561|Japan|Osaka|Google LLC|
-|19|34.97.52.66|8561|Japan|Osaka|Google LLC|
-|20|34.97.46.98|8561|Japan|Osaka|Google LLC|
+|16|34.97.31.37|8561|Japan|Osaka|Google LLC|
+|17|34.97.11.208|8561|Japan|Osaka|Google LLC|
+|18|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|19|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|20|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
