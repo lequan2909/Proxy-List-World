@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|5|164.52.206.180|80|India|Delhi|E2E Networks Limited|
-|6|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|9|103.127.38.46|7070|Pakistan|Lahore|Redtone Telecommunications Pakistan (Private) Limited|
-|10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|101.255.166.134|1111|Indonesia|Bekasi|PT Remala Abadi|
-|12|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|59.11.85.221|3128|South Korea|Seongnam-si|Korea Telecom|
-|14|203.189.96.232|80|Japan|Chiyoda|GMO Internet, Inc|
-|15|152.26.231.93|9443|United States|Concord|MCNC|
-|16|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|19|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|31.207.33.227|3128|France|Paris|Groupe LWS SARL|
+|4|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|6|161.34.40.115|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|8|152.26.231.93|9443|United States|Concord|MCNC|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|12|152.26.231.86|9443|United States|Concord|MCNC|
+|13|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|8.213.34.58|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
+|15|57.128.169.167|3128|United Kingdom|Erith|OVH SAS|
+|16|152.26.231.94|9443|United States|Concord|MCNC|
+|17|5.44.101.53|13128|Germany|Frankfurt am Main|Alvotech GmbH via velia.net|
+|18|152.26.229.46|9443|United States|Concord|MCNC|
+|19|152.26.229.47|9443|United States|Concord|MCNC|
+|20|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
