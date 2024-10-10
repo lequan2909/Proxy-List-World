@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|8|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
-|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|13|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|14|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|15|67.43.228.253|16483|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|9249|Canada|Montreal|GloboTech Communications|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|72.10.164.178|9249|Canada|Montreal|GloboTech Communications|
-|19|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|20|67.43.228.253|16483|Canada|Montreal|GloboTech Communications|
+|2|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|3|198.24.188.138|37200|United States|Ashburn|Secured Servers LLC|
+|4|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|72.10.160.90|26887|Canada|Montreal|GloboTech Communications|
+|6|103.226.232.206|3125|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
+|7|67.43.236.20|13735|Canada|Montreal|GloboTech Communications|
+|8|67.43.227.228|4839|Canada|Montreal|GloboTech Communications|
+|9|72.10.160.90|26887|Canada|Montreal|GloboTech Communications|
+|10|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|11|72.10.164.178|27305|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|13735|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.253|2577|Canada|Montreal|GloboTech Communications|
+|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|15|72.10.160.90|26887|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|16809|Canada|Montreal|GloboTech Communications|
+|17|94.103.92.163|3128|Russia|Moscow|Hosting technology LTD|
+|18|67.43.227.226|17421|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|67.43.227.228|4839|Canada|Montreal|GloboTech Communications|
 
 
 
