@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|2|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|109.71.240.93|8118|The Netherlands|Amsterdam|TimeWeb Ltd.|
 |3|178.48.68.61|18080|Hungary|Budapest|UPC|
-|4|203.192.199.158|8080|India|Ponda|Entire In2Cable|
-|5|161.34.37.126|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|67.43.228.253|28847|Canada|Montreal|GloboTech Communications|
-|8|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|67.43.227.228|27391|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.19|26293|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|26801|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.174|4831|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|16623|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.226|1283|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|28847|Canada|Montreal|GloboTech Communications|
-|17|212.252.73.29|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|67.43.236.18|19371|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|4995|Canada|Montreal|GloboTech Communications|
+|4|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|7|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|11|96.9.74.91|8080|Cambodia|Phnom Penh|S.I Group|
+|12|67.43.228.253|27429|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.170|13955|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.20|28219|Canada|Montreal|GloboTech Communications|
+|15|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|67.43.227.228|5445|Canada|Montreal|GloboTech Communications|
+|17|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|67.43.227.227|22311|Canada|Montreal|GloboTech Communications|
+|19|132.255.221.128|9500|Brazil|Camaçari|LCD Serviços de Telecomunicações Multimidia|
+|20|67.43.227.227|22311|Canada|Montreal|GloboTech Communications|
 
 
 
