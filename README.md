@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
-|5|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|8|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
+|3|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|6|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|8|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
 |10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|11|67.43.228.253|9943|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.250|20117|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.226|6523|Canada|Montreal|GloboTech Communications|
-|14|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|72.10.160.90|23837|Canada|Montreal|GloboTech Communications|
-|16|69.197.135.43|38751|United States|Kansas City|WholeSale Internet|
-|17|72.10.164.178|6871|Canada|Montreal|GloboTech Communications|
-|18|36.93.130.219|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
-|19|103.178.42.100|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
-|20|67.43.228.250|20117|Canada|Montreal|GloboTech Communications|
+|11|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|15|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|69.197.135.43|38751|United States|Kansas City|WholeSale Internet|
+|18|67.43.228.253|16177|Canada|Montreal|GloboTech Communications|
+|19|36.93.130.219|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|20|72.10.164.178|25429|Canada|Montreal|GloboTech Communications|
 
 
 
