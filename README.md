@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|34.97.57.4|8561|Japan|Osaka|Google LLC|
-|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
+|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|4|171.228.118.24|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
+|5|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |7|200.106.124.34|999|Peru|Tacna|Telefonica del Peru|
-|8|198.24.188.138|37000|United States|Ashburn|Secured Servers LLC|
-|9|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
-|10|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|11|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|192.248.95.1|3128|Sri Lanka|Kuliyapitiya|Lanka Education and Research Network|
-|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|14|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
-|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|17|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
-|18|190.187.201.26|8080|Peru|San Isidro|Americatel Peru S.A.|
-|19|45.174.57.26|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
-|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|34.97.57.4|8561|Japan|Osaka|Google LLC|
+|10|177.200.80.6|11221|Brazil|Eusébio|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
+|11|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|163.47.210.74|8080|India|Bengaluru|Microsense Pvt. Limited|
+|13|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|15|191.81.222.22|8080|Argentina|Villa Nueva|Telefonica de Argentina|
+|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|188.132.221.54|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|116.80.92.225|3128|Japan|Shimomeguro|InfoSphere|
+|19|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|20|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
