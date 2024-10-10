@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
-|6|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|144.86.187.58|3129|United States|Malden|Charles River Operation|
-|9|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|67.43.228.250|2891|Canada|Montreal|GloboTech Communications|
-|14|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|103.127.220.251|8080|Indonesia|Lamongan|PT Multi Guna Sinergi|
-|16|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|17|72.10.164.178|4749|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|29531|Canada|Montreal|GloboTech Communications|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|162.240.154.26|3128|United States|Provo|Unified Layer|
+|2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
+|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|6|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|14|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
+|15|162.240.154.26|3128|United States|Provo|Unified Layer|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|67.43.228.250|27695|Canada|Montreal|GloboTech Communications|
+|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|19|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|45.81.144.45|8085|Iraq|Duhok|Fact LTD|
 
 
 
