@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|178.48.68.61|18080|Hungary|Budapest|UPC|
-|5|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|7|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|11|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|12|161.34.37.126|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|103.36.10.200|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|16|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
-|17|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
-|18|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|72.10.160.174|25127|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|16611|Canada|Montreal|GloboTech Communications|
+|2|178.48.68.61|18080|Hungary|Budapest|UPC|
+|3|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
+|4|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|6|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|12|103.36.10.200|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|13|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
+|14|72.10.164.178|31215|Canada|Montreal|GloboTech Communications|
+|15|112.201.189.202|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
+|16|67.43.236.19|18125|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|8263|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|20405|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.18|7943|Canada|Montreal|GloboTech Communications|
+|20|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
