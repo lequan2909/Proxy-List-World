@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
 |5|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
-|6|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|9|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|11|45.175.252.18|999|Mexico|Chihuahua City|Alma Jessica Gallegos Gutierrez|
-|12|72.10.160.90|32313|Canada|Montreal|GloboTech Communications|
-|13|116.80.84.40|3128|Japan|Shimomeguro|InfoSphere|
-|14|67.43.228.253|6789|Canada|Montreal|GloboTech Communications|
-|15|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|6|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
+|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|14|116.80.84.40|3128|Japan|Shimomeguro|InfoSphere|
+|15|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
 |16|116.80.82.213|3128|Japan|Shimomeguro|InfoSphere|
-|17|67.43.228.250|17277|Canada|Montreal|GloboTech Communications|
-|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|19|103.88.113.202|8080|Vietnam|Hanoi|HTCITC|
-|20|15.235.12.19|3128|Canada|Montreal|OVH SAS|
+|17|72.10.160.90|4417|Canada|Montreal|GloboTech Communications|
+|18|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|19|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
 
 
 
