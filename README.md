@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|3|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|213.202.222.75|8080|Germany|Düsseldorf|WIIT AG|
-|6|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|7|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|8|178.48.68.61|18080|Hungary|Budapest|UPC|
-|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|10|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|2|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|3|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|4|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|5|109.71.240.93|8118|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|6|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|7|134.122.61.163|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|8|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|213.202.222.75|8080|Germany|Düsseldorf|WIIT AG|
 |12|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|94.43.164.242|8080|Georgia|Batumi|JSC "Silknet"|
-|14|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|67.43.228.253|25255|Canada|Montreal|GloboTech Communications|
-|16|161.34.37.126|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
-|18|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|19|213.202.222.75|8080|Germany|Düsseldorf|WIIT AG|
+|13|46.161.194.91|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|14|103.67.237.208|3128|India|Hyderabad|OASISGSSERVICES|
+|15|213.147.223.192|8424|Russia|Saratov|MTS PJSC|
+|16|150.136.170.150|8090|United States|Ashburn|Oracle Corporation|
+|17|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|54.153.62.219|3128|United States|San Jose|Amazon.com, Inc.|
+|19|161.34.37.126|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |20|104.167.197.185|9595|United States|Miami|Newserverlife LLC|
 
 
