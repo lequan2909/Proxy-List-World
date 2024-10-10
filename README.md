@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.97.61.13|8561|Japan|Osaka|Google LLC|
-|2|34.97.65.59|8561|Japan|Osaka|Google LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|13|34.97.61.13|8561|Japan|Osaka|Google LLC|
-|14|34.97.65.59|8561|Japan|Osaka|Google LLC|
-|15|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|4|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|6|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|103.172.197.163|8085|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|13|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|101.109.143.181|8080|Thailand|Bangkok|TOT Public Company Limited|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |16|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
-|17|103.226.232.206|3125|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|103.81.223.194|8080|Indonesia|Bandung|STARNET|
-|20|181.114.61.17|8085|Argentina|San Nicolás de los Arroyos|INTERAIR|
+|17|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|18|34.97.61.13|8561|Japan|Osaka|Google LLC|
+|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|20|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
 
 
 
