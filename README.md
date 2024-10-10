@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
-|3|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|4|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|6|38.183.146.77|8090|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|178.218.43.60|4411|Russia|Rybinsk|ATEXS PLUS Ltd.|
-|11|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|62.33.136.242|8080|Russia|Kursk|Joint Stock Company TransTeleCom|
-|13|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|38.183.146.214|8090|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|16|116.80.84.40|3128|Japan|Shimomeguro|InfoSphere|
-|17|190.121.157.141|999|Colombia|Lourdes|Media Commerce Partners S.A|
-|18|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
-|19|186.215.68.51|3127|Brazil|Brasília|Vivo|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|5|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|191.102.254.26|8083|Argentina|Rosario|IP·RED|
+|7|190.110.34.108|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|8|190.121.157.141|999|Colombia|Lourdes|Media Commerce Partners S.A|
+|9|103.48.68.68|83|India|Hyderabad|Country Online Services PVT LTD|
+|10|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|11|96.9.74.91|8080|Cambodia|Phnom Penh|S.I Group|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|116.80.84.40|3128|Japan|Shimomeguro|InfoSphere|
+|15|118.172.184.25|8180|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|16|103.81.223.194|8080|Indonesia|Bandung|STARNET|
+|17|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|45.175.252.18|999|Mexico|Chihuahua City|Alma Jessica Gallegos Gutierrez|
+|19|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 
 
 
