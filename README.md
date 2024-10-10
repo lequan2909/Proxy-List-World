@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|3|178.48.68.61|18080|Hungary|Budapest|UPC|
-|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|187.19.200.217|8090|Brazil|Petrópolis|Brisanet Servicos De Telecomunicacoes S.A|
-|11|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|12|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|13|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|14|177.101.225.149|9090|Brazil|São Borja|Vogel Soluções em Telecom e Informática S/A|
-|15|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|17|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|18|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|19|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|2|144.86.187.46|3129|United States|Malden|Charles River Operation|
+|3|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|178.48.68.61|18080|Hungary|Budapest|UPC|
+|5|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|177.11.190.84|8080|Brazil|Franca|Multpontos Telecomunicações Ltda - ME|
+|8|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|9|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|11|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|13|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|15|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|16|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|17|64.6.8.5|8080|United States|La Harpe|MTC Communications|
+|18|103.122.0.134|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
+|19|175.100.92.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
