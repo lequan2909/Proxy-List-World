@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|171.228.118.24|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
-|5|180.241.228.236|8080|Indonesia|Pekanbaru|PT. TELKOM INDONESIA|
-|6|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|85.117.63.207|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|10|45.174.57.26|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
-|11|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|187.1.16.36|92|Brazil|Birigui|FIT Telecom Eireli|
-|14|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|67.43.228.253|24235|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.94|23703|Canada|Montreal|GloboTech Communications|
-|18|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|19|67.43.227.226|8199|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|21605|Canada|Montreal|GloboTech Communications|
+|3|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
+|4|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|186.86.143.161|999|Colombia|San Gil|Telmex Colombia S.A.|
+|8|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|45.70.201.184|999|Ecuador|San Miguel de Salcedo|Ufinet Panama S.A.|
+|11|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
+|12|185.200.38.140|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|16|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
 
 
 
