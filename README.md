@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|218.155.31.188|8080|South Korea|Seongnam-si|Korea Telecom|
-|3|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|185.82.98.73|99|Lebanon|Tripoli|Protected|
-|9|101.109.143.181|8080|Thailand|Bangkok|TOT Public Company Limited|
-|10|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
-|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|14|72.10.164.178|29565|Canada|Montreal|GloboTech Communications|
-|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|16|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|17|67.43.228.250|16511|Canada|Montreal|GloboTech Communications|
-|18|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|67.43.227.229|22481|Canada|Montreal|GloboTech Communications|
-|20|46.99.143.53|1339|Kosovo|Pristina|IPKO Telecommunications LLC|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
+|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|6|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|15|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
+|16|103.115.20.5|8080|Indonesia|Subang|PMYNET|
+|17|190.83.15.241|999|Ecuador|Zamora Nuevo|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
+|18|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|19|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|20|67.43.227.227|30833|Canada|Montreal|GloboTech Communications|
 
 
 
