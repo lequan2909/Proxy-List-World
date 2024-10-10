@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|6|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|9|45.70.201.184|999|Ecuador|San Miguel de Salcedo|Ufinet Panama S.A.|
-|10|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|2|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|182.253.21.26|46977|Indonesia|Jakarta|Biznet Networks|
+|4|180.241.228.236|8080|Indonesia|Pekanbaru|PT. TELKOM INDONESIA|
+|5|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|7|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|9|109.71.240.93|8118|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|10|183.242.69.118|3218|China|Beijing|China Mobile Communications Corporation|
 |11|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|12|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|13|67.43.228.253|2067|Canada|Montreal|GloboTech Communications|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|67.43.227.227|1539|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|21087|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|1539|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|8811|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.171|20571|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|21087|Canada|Montreal|GloboTech Communications|
+|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|67.43.227.227|31973|Canada|Montreal|GloboTech Communications|
+|15|152.32.67.107|65535|Philippines|Quezon City|Converge ICT Solution Inc|
+|16|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|18|72.10.160.170|17715|Canada|Montreal|GloboTech Communications|
+|19|187.1.16.36|92|Brazil|Birigui|FIT Telecom Eireli|
+|20|67.43.236.20|27151|Canada|Montreal|GloboTech Communications|
 
 
 
