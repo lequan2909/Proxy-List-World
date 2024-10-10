@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|5|84.53.245.42|41258|Russia|Vladimir|Elcom ISP|
-|6|171.226.75.1|5104|Vietnam|Hanoi|Viettel Corporation|
-|7|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|82.218.176.25|32650|Austria|Sankt Pölten|kabelplus GmbH|
-|10|103.88.236.113|84|India|Hyderabad|Mana Communications|
-|11|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|188.72.43.162|47193|Iraq|Darkar|Pirmam For Information Technology Ltd|
-|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|14|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|19|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|6|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|113.192.48.90|8090|Indonesia|Batu|PT.Global Media Data Prima|
+|9|119.76.142.225|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
+|10|103.84.176.100|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|11|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|187.1.57.222|8080|Brazil|Vespasiano|Companhia Itabirana Telecomunicações Ltda|
+|13|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|15|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|16|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
 
 
 
