@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|3|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
-|6|187.62.153.57|8088|Brazil|Oeiras|Megalink Internet|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|5|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |7|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|201.234.186.234|999|Colombia|Bogotá|Level 3 Colombia S.A|
-|12|187.102.236.209|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
-|13|85.117.63.207|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|14|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|103.36.10.200|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|19|182.93.85.225|8080|Nepal|Kathmandu|Subisu D85|
-|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|20.184.18.156|31292|Singapore|Singapore|Microsoft Corporation|
+|9|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|10|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
+|12|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|13|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|14|183.242.69.118|3218|China|Beijing|China Mobile Communications Corporation|
+|15|109.71.240.93|8118|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
