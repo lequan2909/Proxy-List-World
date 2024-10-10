@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|20.184.18.156|31292|Singapore|Singapore|Microsoft Corporation|
-|4|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|4|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
 |5|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
-|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|10|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|11|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
-|12|187.102.236.209|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
-|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|15|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|18|67.43.227.226|18669|Canada|Montreal|GloboTech Communications|
-|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|20|67.43.236.20|27351|Canada|Montreal|GloboTech Communications|
+|6|185.200.38.140|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|7|119.47.90.240|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|8|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|12|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
+|13|178.18.206.9|9443|Turkey|Izmir|Eclit Bilisim Hizmetleri A.S|
+|14|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|17|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|18|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|19|103.69.20.55|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|20|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 
 
 
