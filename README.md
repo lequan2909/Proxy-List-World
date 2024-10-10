@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|178.48.68.61|18080|Hungary|Budapest|UPC|
-|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|7|103.245.16.133|8080|Indonesia|Depok|PT Quantum Tera Network|
-|8|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|202.154.36.21|8080|Indonesia|Surabaya|RADNET-BDG|
-|10|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|61.7.183.113|8080|Thailand|Ao Nang|CAT Telecom Public Company Limited|
-|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|3|109.71.240.93|8118|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|4|178.48.68.61|18080|Hungary|Budapest|UPC|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|192.145.205.110|8080|Brazil|Francisco Sá|Vianet Guaraciama Eireli ME|
+|8|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|12|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
+|13|183.88.241.167|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
 |14|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
-|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|19|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|20|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|15|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|18|118.172.184.25|8180|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|19|67.43.228.253|1513|Canada|Montreal|GloboTech Communications|
+|20|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
