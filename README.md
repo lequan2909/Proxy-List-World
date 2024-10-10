@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5336** proxies at the latest update. Usable proxies are below.
+> Scraper found **5301** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|123|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|485|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|450|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|432|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3338|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
-|4|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|186.86.143.161|999|Colombia|San Gil|Telmex Colombia S.A.|
-|8|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|45.70.201.184|999|Ecuador|San Miguel de Salcedo|Ufinet Panama S.A.|
-|11|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
-|12|185.200.38.140|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|16|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|2|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
+|6|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|8|202.154.18.12|8080|Indonesia|Jombang|DIGITNET|
+|9|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|116.80.84.40|3128|Japan|Shimomeguro|InfoSphere|
+|17|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|24.172.82.94|53281|United States|Gastonia|Spectrum|
 
 
 
