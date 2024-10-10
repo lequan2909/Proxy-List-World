@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5503** proxies at the latest update. Usable proxies are below.
+> Scraper found **5477** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -25,7 +25,7 @@ Click the file format that you want and copy the URL.
 |[us-proxy.org](https://www.us-proxy.org)|200|✅|
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
-|[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
+|[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|124|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|5|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
-|6|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|178.18.206.9|9443|Turkey|Izmir|Eclit Bilisim Hizmetleri A.S|
-|8|171.245.122.17|5000|Vietnam|Thái Bình|Viettel Corporation|
-|9|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|72.10.160.170|26061|Canada|Montreal|GloboTech Communications|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|5|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
+|6|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
+|8|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
+|9|20.184.18.156|31292|Singapore|Singapore|Microsoft Corporation|
+|10|175.100.92.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |11|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|72.10.160.170|26061|Canada|Montreal|GloboTech Communications|
-|14|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|200.94.102.11|999|Mexico|Macuspana|Alestra, S. de R.L. de C.V.|
-|16|72.10.160.170|26061|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.251|4461|Canada|Montreal|GloboTech Communications|
-|18|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|72.10.164.178|16321|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|16709|Canada|Montreal|GloboTech Communications|
+|12|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|13|8.213.34.58|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
+|14|156.225.70.152|39151|United States|Piscataway|ZAgency Media and Technology Company Limited|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|116.80.92.225|3128|Japan|Shimomeguro|InfoSphere|
+|17|66.85.137.139|57070|United States|Phoenix|Secured Servers LLC|
+|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|19|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
+|20|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 
 
 
