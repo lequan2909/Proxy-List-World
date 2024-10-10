@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|2|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|3|213.202.222.75|8080|Germany|Düsseldorf|WIIT AG|
-|4|178.48.68.61|18080|Hungary|Budapest|UPC|
-|5|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|8|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|13|116.80.82.213|3128|Japan|Shimomeguro|InfoSphere|
-|14|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|15|213.202.222.75|8080|Germany|Düsseldorf|WIIT AG|
-|16|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|17|67.43.228.253|19869|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|12679|Canada|Montreal|GloboTech Communications|
-|19|94.43.164.242|8080|Georgia|Batumi|JSC "Silknet"|
-|20|72.10.164.178|6703|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|3|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|4|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|6|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|213.202.222.75|8080|Germany|Düsseldorf|WIIT AG|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|12|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|13|162.240.154.26|3128|United States|Provo|Unified Layer|
+|14|45.70.202.161|999|Ecuador|Quito|Ufinet Panama S.A.|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|109.71.240.93|8118|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|19|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|20|45.6.102.31|8080|Brazil|Rio de Janeiro|Golden Link|
 
 
 
