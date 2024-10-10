@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|34.97.31.37|8561|Japan|Osaka|Google LLC|
 |2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|34.97.68.25|8561|Japan|Osaka|Google LLC|
-|4|34.97.149.89|8561|Japan|Osaka|Google LLC|
-|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|6|34.97.46.98|8561|Japan|Osaka|Google LLC|
-|7|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|9|34.97.67.132|8561|Japan|Osaka|Google LLC|
-|10|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|11|34.97.11.208|8561|Japan|Osaka|Google LLC|
-|12|34.97.72.201|8561|Japan|Osaka|Google LLC|
-|13|223.25.110.104|8090|Indonesia|Surabaya|SinergiNet|
-|14|34.97.57.4|8561|Japan|Osaka|Google LLC|
-|15|34.97.58.253|8561|Japan|Osaka|Google LLC|
-|16|138.117.231.131|999|Guatemala|Huehuetenango|Fibernet S.A|
-|17|138.118.106.121|999|Guatemala|Guatemala City|ONNO NETWORKS, SOCIEDAD ANÓNIMA|
-|18|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|20|34.97.52.66|8561|Japan|Osaka|Google LLC|
+|3|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|4|34.97.68.25|8561|Japan|Osaka|Google LLC|
+|5|34.97.11.208|8561|Japan|Osaka|Google LLC|
+|6|34.97.67.132|8561|Japan|Osaka|Google LLC|
+|7|34.97.46.98|8561|Japan|Osaka|Google LLC|
+|8|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|10|34.97.72.201|8561|Japan|Osaka|Google LLC|
+|11|34.97.149.89|8561|Japan|Osaka|Google LLC|
+|12|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|34.97.42.111|8561|Japan|Osaka|Google LLC|
+|14|34.97.229.206|8561|Japan|Osaka|Google LLC|
+|15|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|16|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|34.97.68.25|8561|Japan|Osaka|Google LLC|
+|20|103.87.148.21|8080|Indonesia|Demak|Lintas Data Prima, PT|
 
 
 
