@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|34.97.46.98|8561|Japan|Osaka|Google LLC|
-|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|195.123.240.138|7777|United States|Los Angeles|Green Floid LLC|
-|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|9|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|182.253.179.164|8080|Indonesia|Jakarta|BIZNET|
-|12|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|190.119.90.114|8080|Peru|La Victoria|America Movil Peru S.A.C.|
-|14|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|180.211.163.97|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|17|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|18|157.10.97.167|8080|Indonesia|Bengkulu|PT Lintas Jaringan Nusantara|
-|19|103.176.96.226|8082|Indonesia|Karawang|PT Global Sarana Elektronika|
-|20|107.148.42.218|1234|United States|Los Angeles|PEG TECH INC|
+|2|34.97.11.208|8561|Japan|Osaka|Google LLC|
+|3|34.97.46.98|8561|Japan|Osaka|Google LLC|
+|4|52.12.135.192|3128|United States|Portland|Amazon.com, Inc.|
+|5|103.236.177.149|8082|Philippines|Manila|Infinivan Incorporated|
+|6|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|103.67.237.208|3128|India|Hyderabad|OASISGSSERVICES|
+|8|52.12.135.192|3128|United States|Portland|Amazon.com, Inc.|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|103.176.96.226|8082|Indonesia|Karawang|PT Global Sarana Elektronika|
+|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|13|195.25.20.155|3128|France|Paris|Orange Business Services|
+|14|121.239.40.158|8081|China|Nanjing|Chinanet|
+|15|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|16|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|113.160.155.121|19132|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
+|18|181.209.112.74|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|19|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|34.97.229.206|8561|Japan|Osaka|Google LLC|
 
 
 
