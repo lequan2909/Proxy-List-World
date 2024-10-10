@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|178.48.68.61|18080|Hungary|Budapest|UPC|
-|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|103.88.90.54|8080|Indonesia|Malang|PT Paket Switch Bersama|
-|10|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|16|222.127.241.158|8082|Philippines|Iloilo City|GLBB|
-|17|72.10.164.178|12121|Canada|Montreal|GloboTech Communications|
-|18|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|19|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|72.10.164.178|12121|Canada|Montreal|GloboTech Communications|
+|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|4|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|104.128.228.69|8118|United States|Los Angeles|HostUS|
+|11|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|17|103.191.254.2|8085|Indonesia|Jadi|PT Ayodya Data Internusa|
+|18|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|19|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 
 
 
