@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|171.228.165.244|10089|Vietnam|Hanoi|Viettel Corporation|
-|4|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|103.143.169.230|84|India|Hyderabad|Aspt Networks Pvt Ltd|
-|9|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|186.96.96.134|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|13|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|103.87.169.194|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|2|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
+|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|5|171.228.165.244|10089|Vietnam|Hanoi|Viettel Corporation|
+|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|103.87.169.194|32650|India|Jaipur|Tejays Industries Pvt Ltd|
+|9|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|185.44.232.30|53281|Spain|Alcobendas|AVATEL TELECOM, SA|
 |16|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|131.100.51.81|999|Colombia|Neiva|Fibernet TV SAS|
 |18|54.145.251.231|3128|United States|Ashburn|Amazon Technologies Inc.|
-|19|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|185.44.232.30|53281|Spain|Alcobendas|AVATEL TELECOM, SA|
+|19|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|116.80.92.225|3128|Japan|Shimomeguro|InfoSphere|
 
 
 
