@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|8|84.247.152.41|8000|Japan|Tokyo|Contabo GmbH|
+|8|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|10|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|190.61.84.166|9812|Costa Rica|San José|Ufinet Costa Rica|
-|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|19|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|20|51.195.200.115|31280|United Kingdom|Edmonton|OVH SAS|
+|10|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|12|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|13|192.99.169.19|8448|Canada|Beauharnois|OVH SAS|
+|14|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|15|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
+|16|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
 
 
 
