@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
-|3|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|116.80.92.225|3128|Japan|Shimomeguro|InfoSphere|
-|8|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|67.43.228.253|14287|Canada|Montreal|GloboTech Communications|
-|12|8.213.34.58|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
-|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|14|183.88.241.167|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|15|67.43.228.250|20685|Canada|Montreal|GloboTech Communications|
-|16|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|17|72.10.164.178|20219|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.22|18051|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|15985|Canada|Montreal|GloboTech Communications|
-|20|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|1|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
+|2|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|7|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|8|116.80.92.225|3128|Japan|Shimomeguro|InfoSphere|
+|9|8.213.34.58|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
+|10|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
+|11|72.10.160.90|14479|Canada|Montreal|GloboTech Communications|
+|12|103.165.155.67|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|13|101.255.210.50|8080|Indonesia|Jakarta|PT Remala Abadi|
+|14|187.1.16.36|92|Brazil|Birigui|FIT Telecom Eireli|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|67.43.227.227|1277|Canada|Montreal|GloboTech Communications|
+|17|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|20|67.43.228.253|5337|Canada|Montreal|GloboTech Communications|
 
 
 
