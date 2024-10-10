@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|218.155.31.188|8080|South Korea|Seongnam-si|Korea Telecom|
-|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|144.86.187.48|3129|United States|Malden|Charles River Operation|
-|11|144.86.187.53|3129|United States|Malden|Charles River Operation|
-|12|144.86.187.49|3129|United States|Malden|Charles River Operation|
-|13|144.86.187.60|3129|United States|Malden|Charles River Operation|
-|14|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|17|144.86.187.45|3129|United States|Malden|Charles River Operation|
-|18|144.86.187.34|3129|United States|Malden|Charles River Operation|
-|19|144.86.187.37|3129|United States|Malden|Charles River Operation|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|8|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|9|161.34.37.126|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|67.43.236.18|13497|Canada|Montreal|GloboTech Communications|
+|11|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|13|67.43.227.227|7257|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|2807|Canada|Montreal|GloboTech Communications|
+|15|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|67.43.236.20|22715|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|22715|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.226|26853|Canada|Montreal|GloboTech Communications|
 
 
 
