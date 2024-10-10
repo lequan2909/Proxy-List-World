@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|178.48.68.61|18080|Hungary|Budapest|UPC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|61.7.183.113|8080|Thailand|Ao Nang|CAT Telecom Public Company Limited|
-|5|37.46.135.225|3128|Russia|Irkutsk|JSC IOT|
-|6|51.159.159.73|80|France|Paris|SCALEWAY|
-|7|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|116.80.47.23|3128|Japan|Tokyo|InfoSphere|
-|13|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|67.43.228.254|18821|Canada|Montreal|GloboTech Communications|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|170.83.82.10|3128|Brazil|Marabá|IBL Banda Larga Internet Informatica LTDA|
-|18|103.69.20.55|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|19|72.10.164.178|13545|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|31371|Canada|Montreal|GloboTech Communications|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|3|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|8|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|67.43.228.251|4461|Canada|Montreal|GloboTech Communications|
+|10|203.128.75.194|8080|Indonesia|Jakarta|Neuviz|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|67.43.228.253|12823|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.170|31639|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.250|18777|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|13545|Canada|Montreal|GloboTech Communications|
+|16|103.143.197.218|8000|Indonesia|Semarang|JERNIHNETWORK|
+|17|116.80.47.23|3128|Japan|Tokyo|InfoSphere|
+|18|72.10.164.178|13545|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.172|5025|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|13545|Canada|Montreal|GloboTech Communications|
 
 
 
