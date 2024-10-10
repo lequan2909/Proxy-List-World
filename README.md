@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|2|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|5|103.203.234.28|8090|Indonesia|Ungaran|PT Nesta Indo Media|
-|6|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|7|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|10|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|72.10.164.178|29329|Canada|Montreal|GloboTech Communications|
-|12|104.167.197.185|3128|United States|Miami|Newserverlife LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|182.253.112.194|8080|Indonesia|Weleri|BIZNET|
+|7|202.93.244.38|8080|Indonesia|Cirebon|PT. Dutakom Wibawa Putra|
+|8|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|103.247.23.65|2022|Indonesia|Cileungsir|PT wifian Solution|
+|12|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |13|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|14|72.10.164.178|29329|Canada|Montreal|GloboTech Communications|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|51.159.159.73|80|France|Paris|SCALEWAY|
-|17|67.43.228.254|4991|Canada|Montreal|GloboTech Communications|
-|18|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|19|72.10.160.90|30175|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|29043|Canada|Montreal|GloboTech Communications|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|67.43.227.227|27453|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.254|4991|Canada|Montreal|GloboTech Communications|
+|17|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|38.183.146.181|8090|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
+|19|103.69.20.28|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|20|38.99.101.101|3128|United States|San Jose|Cogent Communications|
 
 
 
