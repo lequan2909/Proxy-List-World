@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|2.187.214.96|8080|Iran|Urmia|Iran Telecommunication Company PJS|
-|7|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
-|8|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|3|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|6|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
+|7|2.187.214.96|8080|Iran|Urmia|Iran Telecommunication Company PJS|
+|8|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |11|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
-|12|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |14|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|176.88.166.218|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|103.36.10.200|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|18|1.10.227.16|8080|Thailand|Damnoen Saduak|TOT Public Company Limited|
+|19|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 
 
 
