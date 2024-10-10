@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|3|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |4|178.48.68.61|18080|Hungary|Budapest|UPC|
-|5|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|60.48.93.7|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
 |7|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|66.96.233.62|8085|Indonesia|Jakarta|MYREPUBLIC|
-|10|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
-|12|161.34.37.126|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|72.10.160.90|7727|Canada|Montreal|GloboTech Communications|
-|14|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|67.43.236.20|8263|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.92|26705|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|7139|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.174|25127|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|4067|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|7139|Canada|Montreal|GloboTech Communications|
+|8|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|11|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|177.101.225.149|9090|Brazil|São Borja|Vogel Soluções em Telecom e Informática S/A|
+|13|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|178.218.43.60|4411|Russia|Rybinsk|ATEXS PLUS Ltd.|
+|17|161.34.37.126|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|20|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
 
 
 
