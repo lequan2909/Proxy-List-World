@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.11.208|8561|Japan|Osaka|Google LLC|
-|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|4|34.97.46.98|8561|Japan|Osaka|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|7|34.97.57.4|8561|Japan|Osaka|Google LLC|
-|8|34.97.42.111|8561|Japan|Osaka|Google LLC|
-|9|34.97.68.25|8561|Japan|Osaka|Google LLC|
-|10|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|12|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|13|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|34.97.138.39|8561|Japan|Osaka|Google LLC|
-|17|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
-|18|34.97.67.132|8561|Japan|Osaka|Google LLC|
-|19|34.97.149.89|8561|Japan|Osaka|Google LLC|
-|20|34.97.52.66|8561|Japan|Osaka|Google LLC|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|45.123.142.4|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|6|103.191.165.104|8080|Indonesia|Subang|PT Sakti Wijaya Network|
+|7|34.97.46.98|8561|Japan|Osaka|Google LLC|
+|8|34.97.58.253|8561|Japan|Osaka|Google LLC|
+|9|34.97.11.208|8561|Japan|Osaka|Google LLC|
+|10|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|11|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|34.97.229.206|8561|Japan|Osaka|Google LLC|
+|13|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|14|103.229.185.154|8080|Indonesia|Pamulang|PT INDONESIA COMNETS PLUS|
+|15|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|16|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|17|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
+|18|80.240.55.242|3128|Russia|Yeysk|inetnum UGTEL|
+|19|67.43.228.252|3303|Canada|Montreal|GloboTech Communications|
+|20|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 
 
 
