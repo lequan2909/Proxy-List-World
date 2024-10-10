@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|178.48.68.61|18080|Hungary|Budapest|UPC|
-|3|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|178.48.68.61|18080|Hungary|Budapest|UPC|
+|1|178.48.68.61|18080|Hungary|Budapest|UPC|
+|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|3|178.48.68.61|18080|Hungary|Budapest|UPC|
+|4|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
 |5|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|8|109.71.240.93|8118|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|72.10.160.170|20471|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.250|16511|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.21|15989|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|14161|Canada|Montreal|GloboTech Communications|
-|14|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|15|67.43.228.251|5985|Canada|Montreal|GloboTech Communications|
-|16|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|17|72.10.164.178|16487|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|16487|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.18|18517|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|14161|Canada|Montreal|GloboTech Communications|
+|6|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|11|115.147.20.37|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|12|188.163.170.130|41209|Ukraine|Lviv|Kyivstar UA|
+|13|67.43.228.251|5985|Canada|Montreal|GloboTech Communications|
+|14|103.69.20.100|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|15|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|16|67.43.228.254|10137|Canada|Montreal|GloboTech Communications|
+|17|147.161.200.243|9480|Japan|Tokyo|Zscaler, Inc.|
+|18|165.155.229.10|9400|United States|Brooklyn|New York City Board of Education|
+|19|67.43.227.228|10283|Canada|Montreal|GloboTech Communications|
+|20|165.155.229.8|9480|United States|Brooklyn|New York City Board of Education|
 
 
 
