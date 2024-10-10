@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|5|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|8|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
+|2|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 |9|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|72.10.164.178|31583|Canada|Montreal|GloboTech Communications|
-|11|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|12|67.43.227.227|19775|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|19775|Canada|Montreal|GloboTech Communications|
-|14|8.213.34.58|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
+|10|183.88.241.167|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|67.43.227.228|25779|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.90|4477|Canada|Montreal|GloboTech Communications|
+|14|67.43.227.227|19775|Canada|Montreal|GloboTech Communications|
 |15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|16|72.10.164.178|31583|Canada|Montreal|GloboTech Communications|
-|17|188.132.221.54|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|67.43.228.252|24289|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|25943|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|2099|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|4477|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|3051|Canada|Montreal|GloboTech Communications|
+|18|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|67.43.227.227|19775|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|19775|Canada|Montreal|GloboTech Communications|
 
 
 
