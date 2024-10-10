@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|4|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|109.71.240.93|8118|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|6|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|195.25.20.155|3128|France|Paris|Orange Business Services|
-|8|180.56.193.13|8080|Japan|Roppongi|NTT Communications Corporation|
-|9|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|116.80.82.213|3128|Japan|Shimomeguro|InfoSphere|
-|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|67.43.227.227|17283|Canada|Montreal|GloboTech Communications|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|202.154.18.12|8080|Indonesia|Jombang|DIGITNET|
+|1|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|3|51.159.159.73|80|France|Paris|SCALEWAY|
+|4|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|5|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|116.80.82.213|3128|Japan|Shimomeguro|InfoSphere|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|118.172.184.25|8180|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|11|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|12|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|13|161.34.37.126|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|16|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|17|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|45.179.201.73|999|Colombia|Manizales|NET&COM LTDA.|
+|19|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
