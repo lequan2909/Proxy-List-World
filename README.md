@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|69.197.135.43|38751|United States|Kansas City|WholeSale Internet|
-|3|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|69.197.135.43|38751|United States|Kansas City|WholeSale Internet|
-|5|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
-|7|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|67.43.227.227|9513|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|17195|Canada|Montreal|GloboTech Communications|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|72.10.164.178|17195|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|2669|Canada|Montreal|GloboTech Communications|
-|15|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|181.114.61.17|8085|Argentina|San Nicolás de los Arroyos|INTERAIR|
-|17|72.10.160.90|10349|Canada|Montreal|GloboTech Communications|
-|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|1|69.197.135.43|38751|United States|Kansas City|WholeSale Internet|
+|2|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
+|3|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|69.197.135.43|38751|United States|Kansas City|WholeSale Internet|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|8|69.197.135.43|38751|United States|Kansas City|WholeSale Internet|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|117.102.103.146|9890|Indonesia|Jakarta Pusat|BIZNET|
+|12|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|8.213.34.58|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|36.93.22.154|8080|Indonesia|Bekasi|Telekomunikasi Indonesia|
+|17|204.157.185.3|999|Peru|Palpa|Signal Peru S.A.C|
+|18|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
 |19|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|20|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|20|161.34.37.126|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
