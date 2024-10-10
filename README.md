@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|3|8.213.34.58|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 |4|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
 |5|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |8|116.80.84.40|3128|Japan|Shimomeguro|InfoSphere|
-|9|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|72.10.160.92|30437|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|16191|Canada|Montreal|GloboTech Communications|
-|14|8.213.34.58|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
-|15|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|116.236.189.93|29999|China|Shanghai|China Telecom (Group)|
-|17|67.43.228.250|5027|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|9895|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|9895|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|14479|Canada|Montreal|GloboTech Communications|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|11|72.10.160.92|23829|Canada|Montreal|GloboTech Communications|
+|12|103.69.20.52|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|13|72.10.164.178|6591|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.172|15173|Canada|Montreal|GloboTech Communications|
+|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|203.104.34.144|3128|China|Guangzhou|Fuzhou|
+|17|122.2.79.174|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|18|67.43.227.227|23611|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|16191|Canada|Montreal|GloboTech Communications|
+|20|103.69.20.55|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
 
 
 
