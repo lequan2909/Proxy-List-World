@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|4|103.203.234.28|8090|Indonesia|Ungaran|PT Nesta Indo Media|
-|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|6|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|7|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
-|9|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|116.80.82.213|3128|Japan|Shimomeguro|InfoSphere|
-|11|171.228.155.24|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
-|12|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
-|16|67.43.228.253|3367|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|3367|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|8127|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|1857|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|3367|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|6|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
+|7|116.80.82.213|3128|Japan|Shimomeguro|InfoSphere|
+|8|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|72.10.160.170|23181|Canada|Montreal|GloboTech Communications|
+|11|5.161.219.13|4228|United States|Ashburn|Hetzner Online GmbH|
+|12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|49.48.48.147|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|14|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|17|191.102.254.53|8081|Argentina|Rosario|IP·RED|
+|18|103.122.1.14|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
+|19|67.43.227.227|2293|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
