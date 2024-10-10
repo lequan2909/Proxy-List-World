@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5673** proxies at the latest update. Usable proxies are below.
+> Scraper found **5663** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|118|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|650|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|640|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|544|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3403|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
-|6|103.56.157.39|8080|Vietnam|Hanoi|VCCORP|
-|7|34.97.57.4|8561|Japan|Osaka|Google LLC|
-|8|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|45.233.169.21|999|Colombia|Popayán|Simect Group Redes E Internet S.A.S|
-|10|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|217.160.162.25|8888|Germany|Essen|IONOS SE|
-|12|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|144.86.187.61|3129|United States|Malden|Charles River Operation|
-|17|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|15.235.12.19|3128|Canada|Montreal|OVH SAS|
-|19|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|20|35.220.254.137|8080|Hong Kong|Hong Kong|Google LLC|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|103.56.157.39|8080|Vietnam|Hanoi|VCCORP|
+|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|5|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|116.102.104.66|10001|Vietnam|Bà Rịa|Viettel Corporation|
+|8|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|200.106.124.34|999|Peru|Tacna|Telefonica del Peru|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
+|13|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
+|15|36.95.102.111|3128|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|16|34.97.57.4|8561|Japan|Osaka|Google LLC|
+|17|103.247.14.37|8080|Indonesia|Klaten|TERABIT|
+|18|109.123.229.224|4011|Japan|Tokyo|Contabo Asia Private Limited|
+|19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.164.178|17023|Canada|Montreal|GloboTech Communications|
 
 
 
