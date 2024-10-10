@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|5|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
-|6|179.60.242.72|999|Colombia|Bogotá|ITELKOM|
-|7|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|8|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|113.192.48.90|8090|Indonesia|Batu|PT.Global Media Data Prima|
-|10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|51.159.159.73|80|France|Paris|SCALEWAY|
-|12|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|14|34.97.11.208|8561|Japan|Osaka|Google LLC|
-|15|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|16|34.97.46.98|8561|Japan|Osaka|Google LLC|
-|17|202.47.88.38|3127|Indonesia|Jombang|PT. Java Digital Nusantara|
-|18|101.109.58.221|8080|Thailand|Pattaya|TOT Public Company Limited|
-|19|49.147.118.175|8081|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|20|121.239.40.158|8081|China|Nanjing|Chinanet|
+|4|179.60.242.72|999|Colombia|Bogotá|ITELKOM|
+|5|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
+|7|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|8|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|10|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|51.159.159.73|80|France|Paris|SCALEWAY|
+|13|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|195.123.240.138|7777|United States|Los Angeles|Green Floid LLC|
+|17|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
