@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|5|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|27.147.142.138|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|7|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|65.109.219.84|80|Finland|Helsinki|Hetzner Online GmbH|
-|9|190.192.45.168|3128|Argentina|Rosario|Telecom Argentina S.A.|
-|10|103.179.84.117|8080|Indonesia|Boyolali|PT CYB Media Group|
-|11|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|12|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|13|67.43.227.227|10949|Canada|Montreal|GloboTech Communications|
-|14|103.191.165.23|8181|Indonesia|Subang|PT Sakti Wijaya Network|
-|15|72.10.164.178|32973|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|32973|Canada|Montreal|GloboTech Communications|
-|17|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|18|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|19|67.43.227.227|10949|Canada|Montreal|GloboTech Communications|
-|20|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|1|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|47.128.240.230|3128|Singapore|Singapore|Amazon Technologies Inc|
+|6|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|7|67.43.228.250|28467|Canada|Montreal|GloboTech Communications|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|72.10.164.178|32973|Canada|Montreal|GloboTech Communications|
+|10|67.43.227.227|9305|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|32005|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.251|32667|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|32005|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|32973|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.170|2105|Canada|Montreal|GloboTech Communications|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|179.42.72.186|85|Brazil|São Paulo|Giga Sul Telecom|
+|18|67.43.227.227|9305|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|9305|Canada|Montreal|GloboTech Communications|
+|20|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
 
 
 
