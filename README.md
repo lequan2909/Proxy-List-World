@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|8|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|67.43.228.251|4461|Canada|Montreal|GloboTech Communications|
-|10|203.128.75.194|8080|Indonesia|Jakarta|Neuviz|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|67.43.228.253|12823|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.170|31639|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.250|18777|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|13545|Canada|Montreal|GloboTech Communications|
-|16|103.143.197.218|8000|Indonesia|Semarang|JERNIHNETWORK|
-|17|116.80.47.23|3128|Japan|Tokyo|InfoSphere|
-|18|72.10.164.178|13545|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.172|5025|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|13545|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|178.48.68.61|18080|Hungary|Budapest|UPC|
+|4|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|103.36.10.200|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|62.33.136.242|8080|Russia|Kursk|Joint Stock Company TransTeleCom|
+|8|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|116.80.47.23|3128|Japan|Tokyo|InfoSphere|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|61.129.2.212|8080|China|Beijing|CHINANET|
+|14|67.43.228.251|4461|Canada|Montreal|GloboTech Communications|
+|15|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|72.10.160.170|23325|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|20017|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|14097|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.253|20017|Canada|Montreal|GloboTech Communications|
+|20|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
