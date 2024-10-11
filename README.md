@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|178.48.68.61|18080|Hungary|Budapest|UPC|
-|4|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|5|181.129.97.34|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|6|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|7|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|8|103.169.254.131|3127|Indonesia|Curahjati|PT Master Star Network|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|223.25.110.88|1080|Indonesia|Surabaya|SinergiNet|
-|13|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|14|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|51.159.159.73|80|France|Paris|SCALEWAY|
-|18|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|67.43.227.227|15523|Canada|Montreal|GloboTech Communications|
-|20|185.116.236.104|3128|United States|New York|Massivegrid LTD|
+|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|4|34.97.58.253|8561|Japan|Osaka|Google LLC|
+|5|103.155.197.193|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|6|103.199.117.120|8080|Indonesia|Semarang|PT Hepra Teknologi Indonesia|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|181.129.97.34|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|9|34.97.138.39|8561|Japan|Osaka|Google LLC|
+|10|34.97.11.208|8561|Japan|Osaka|Google LLC|
+|11|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|12|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|13|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|210.79.146.98|8080|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|16|187.79.146.98|8080|Brazil|São Luís|V tal|
+|17|34.97.42.111|8561|Japan|Osaka|Google LLC|
+|18|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|19|36.95.12.154|8080|Indonesia|Padang|PT. Telekomunikasi Indonesia|
+|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
