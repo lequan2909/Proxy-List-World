@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|5|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|103.48.68.138|83|India|Hyderabad|Country Online Services PVT LTD|
-|10|103.87.148.40|1111|Indonesia|Demak|Lintas Data Prima, PT|
-|11|162.240.154.26|3128|United States|Provo|Unified Layer|
-|12|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|13|87.97.60.4|18080|Hungary|Budapest|INVITEL Zrt|
-|14|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|15|181.78.73.73|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
-|16|162.240.154.26|3128|United States|Provo|Unified Layer|
-|17|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|18|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|19|191.243.46.2|18283|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
-|20|36.93.3.31|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|27.50.29.82|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|5|103.172.43.170|8080|Indonesia|Jakarta|PT Berkat Internet Perkasa|
+|6|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|103.164.223.54|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|13|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|14|103.180.198.23|8181|Indonesia|Sukabumi|PT Bentang Johar Awal|
+|15|103.67.237.208|3128|India|Hyderabad|OASISGSSERVICES|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|17|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|18|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|19|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
 
 
 
