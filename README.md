@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|34.97.72.201|8561|Japan|Osaka|Google LLC|
-|5|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|34.97.138.39|8561|Japan|Osaka|Google LLC|
-|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|10|34.97.52.66|8561|Japan|Osaka|Google LLC|
-|11|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|34.97.42.111|8561|Japan|Osaka|Google LLC|
-|13|116.80.84.40|3128|Japan|Shimomeguro|InfoSphere|
-|14|34.97.78.175|8561|Japan|Osaka|Google LLC|
-|15|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|34.97.58.253|8561|Japan|Osaka|Google LLC|
-|17|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|34.97.31.37|8561|Japan|Osaka|Google LLC|
-|19|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|8|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|10|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|116.80.84.40|3128|Japan|Shimomeguro|InfoSphere|
+|12|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|69.65.18.35|3128|United States|Arlington Heights|GigeNET|
+|15|103.46.11.82|8080|Indonesia|Malang|Lintas Data Prima, PT|
+|16|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|17|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|69.65.18.35|3128|United States|Arlington Heights|GigeNET|
+|19|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|20|38.156.72.203|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
