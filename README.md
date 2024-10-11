@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |3|218.155.31.188|8080|South Korea|Seongnam-si|Korea Telecom|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|6|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|7|103.229.185.154|8080|Indonesia|Pamulang|PT INDONESIA COMNETS PLUS|
-|8|34.97.31.37|8561|Japan|Osaka|Google LLC|
-|9|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|10|58.19.22.61|3128|China|Wuhan|CNC Group CHINA169 Hubei Province Network|
-|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|12|72.10.160.91|11469|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|25053|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|14561|Canada|Montreal|GloboTech Communications|
-|15|190.26.255.30|999|Colombia|Bogotá|ETB - Colombia|
-|16|103.190.171.241|1080|Indonesia|Jakarta|WMS|
-|17|121.100.19.82|7088|Indonesia|Pamulang|NAP.Net.id - Network Access Point|
-|18|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|118.172.184.25|8180|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|20|103.147.246.185|3127|Indonesia|Tangerang|PLBNET|
+|4|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|5|94.23.204.27|3128|France|Roubaix|OVH SAS|
+|6|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|103.1.50.17|3125|Indonesia|Pasuruan|CPCNet Hong Kong Ltd. - IP Administrator|
+|8|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|9|62.33.136.242|8080|Russia|Kursk|Joint Stock Company TransTeleCom|
+|10|72.10.160.91|11469|Canada|Montreal|GloboTech Communications|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|36.64.162.194|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|13|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|181.114.61.17|8085|Argentina|San Nicolás de los Arroyos|INTERAIR|
+|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|101.128.93.144|8090|Indonesia|Jakarta|CBN|
+|18|124.120.108.176|8080|Thailand|Bangkok|TRUEBB|
+|19|67.43.227.227|21367|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|29777|Canada|Montreal|GloboTech Communications|
 
 
 
