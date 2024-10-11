@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|3|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|4|103.125.38.50|8080|Indonesia|Surabaya|PT. Eka Mas Republik|
-|5|103.186.204.52|8089|Indonesia|Tasikmalaya|PT Afna Digital Indonesia|
+|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|4|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|5|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
 |6|178.48.68.61|18080|Hungary|Budapest|UPC|
-|7|34.97.229.206|8561|Japan|Osaka|Google LLC|
-|8|193.233.84.55|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
-|9|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|10|103.158.127.135|8080|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
-|11|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|103.155.198.52|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
-|17|198.24.188.138|35999|United States|Ashburn|Secured Servers LLC|
-|18|67.43.236.20|32803|Canada|Montreal|GloboTech Communications|
-|19|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|171.228.132.84|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
+|10|103.109.237.18|8080|Bangladesh|Tāngāil|City Computer|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|179.32.62.127|999|Colombia|Medellín|Colombia Telecomunicaciones S.a. ESP|
+|13|103.155.198.52|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|14|181.114.61.17|8085|Argentina|San Nicolás de los Arroyos|INTERAIR|
+|15|139.178.67.134|10068|United States|Parsippany|Packet Host, Inc.|
+|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|17|203.176.129.85|8080|Cambodia|Phnom Penh|Angkor Data Communication|
+|18|195.25.20.155|3128|France|Paris|Orange Business Services|
+|19|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
