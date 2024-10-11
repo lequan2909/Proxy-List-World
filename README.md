@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|147.28.155.20|55555|United States|Dallas|Packet Host, Inc.|
-|6|103.72.89.129|8080|Indonesia|Molobulahe|PT Insolikh Jaringan Multimedia|
-|7|181.114.61.17|8085|Argentina|San Nicolás de los Arroyos|INTERAIR|
-|8|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|9|195.25.20.155|3128|France|Paris|Orange Business Services|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|122.210.119.110|32323|Japan|Yokohama|ARTERIA Networks Corporation|
+|4|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|41.173.7.82|8080|Uganda|Kampala|Liquid Telecommunications Ltd|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|103.155.198.52|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|8|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|49.148.43.177|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
 |10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|116.80.92.225|3128|Japan|Shimomeguro|InfoSphere|
-|13|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|193.233.84.94|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|72.10.160.94|13595|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|1993|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.93|30883|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.171|32373|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|29399|Canada|Montreal|GloboTech Communications|
+|11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|12|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|116.80.92.225|3128|Japan|Shimomeguro|InfoSphere|
+|14|147.28.155.20|55555|United States|Dallas|Packet Host, Inc.|
+|15|188.132.150.137|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|16|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|147.28.155.20|55555|United States|Dallas|Packet Host, Inc.|
+|19|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|192.248.95.1|3128|Sri Lanka|Kuliyapitiya|Lanka Education and Research Network|
 
 
 
