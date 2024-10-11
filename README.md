@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|3|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|3|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
 |4|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|5|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|162.240.154.26|3128|United States|Provo|Unified Layer|
-|7|67.43.228.253|1235|Canada|Montreal|GloboTech Communications|
-|8|67.43.227.226|27877|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|17207|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.228|33203|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|1747|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|1235|Canada|Montreal|GloboTech Communications|
-|13|103.172.0.13|8181|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|14|67.43.236.20|30681|Canada|Montreal|GloboTech Communications|
-|15|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|16|67.43.236.20|30681|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|17207|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|30681|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|12221|Canada|Montreal|GloboTech Communications|
-|20|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|6|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|8|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|183.88.241.167|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|11|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|72.10.160.90|11131|Canada|Montreal|GloboTech Communications|
+|14|122.54.100.121|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|15|121.239.40.158|8081|China|Nanjing|Chinanet|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|190.237.238.177|999|Peru|Trujillo|TDP-GRS|
+|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|182.253.40.149|8080|Indonesia|Samaan|BIZNET|
+|20|31.211.82.232|3128|Russia|Tomsk|OOO NETCOM|
 
 
 
