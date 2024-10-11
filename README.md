@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4983** proxies at the latest update. Usable proxies are below.
+> Scraper found **5033** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|204|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|608|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|580|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|441|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|519|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2772|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.72.201|8561|Japan|Osaka|Google LLC|
-|3|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|4|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|6|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|7|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|10|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|11|34.97.72.201|8561|Japan|Osaka|Google LLC|
-|12|67.43.236.20|20021|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|6747|Canada|Montreal|GloboTech Communications|
-|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|15|181.174.228.186|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|16|45.175.252.18|999|Mexico|Chihuahua City|Alma Jessica Gallegos Gutierrez|
-|17|67.43.228.250|30513|Canada|Montreal|GloboTech Communications|
-|18|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|19|67.43.227.227|6747|Canada|Montreal|GloboTech Communications|
-|20|204.157.185.3|999|Peru|Palpa|Signal Peru S.A.C|
+|2|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|3|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|5|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|162.240.154.26|3128|United States|Provo|Unified Layer|
+|7|67.43.228.253|1235|Canada|Montreal|GloboTech Communications|
+|8|67.43.227.226|27877|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|17207|Canada|Montreal|GloboTech Communications|
+|10|67.43.227.228|33203|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.90|1747|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.253|1235|Canada|Montreal|GloboTech Communications|
+|13|103.172.0.13|8181|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
+|14|67.43.236.20|30681|Canada|Montreal|GloboTech Communications|
+|15|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|16|67.43.236.20|30681|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|17207|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|30681|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|12221|Canada|Montreal|GloboTech Communications|
+|20|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
