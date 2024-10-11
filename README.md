@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|4|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|5|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|6|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
-|7|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|8|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|9|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|10|195.191.158.172|80|Russia|Ramenskoye|Intelsc Ltd.|
-|11|116.102.104.66|10001|Vietnam|Bà Rịa|Viettel Corporation|
-|12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|14|103.168.129.124|8080|Indonesia|Jakarta|LINTASARTA|
-|15|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|17|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|103.159.96.74|8080|Indonesia|Gresik|PT Jinde Grup Indonesia|
-|19|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|20|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|4|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|5|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|8|116.58.239.198|8080|Thailand|Dusit|CAT Telecom Public Company Limited|
+|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|12|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|16|187.102.36.15|3128|Brazil|Braço do Norte|MKM Internet Solution Provider Ltda|
+|17|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|18|113.176.118.255|7654|Vietnam|Tam Kỳ|VNPT|
+|19|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|157.100.57.180|999|Ecuador|Juan Montalvo|Ufinet Panama S.A.|
 
 
 
