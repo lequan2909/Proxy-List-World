@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5545** proxies at the latest update. Usable proxies are below.
+> Scraper found **5582** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|161|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|495|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|532|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|504|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3427|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|4|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|6|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|190.92.151.66|9021|United States|Phoenix|A2 Hosting, Inc.|
-|11|103.67.237.211|3128|India|Hyderabad|OASISGSSERVICES|
-|12|203.104.34.144|3128|China|Guangzhou|Fuzhou|
-|13|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|14|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|15|67.43.227.229|21709|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|14039|Canada|Montreal|GloboTech Communications|
-|17|116.80.84.40|3128|Japan|Shimomeguro|InfoSphere|
-|18|103.69.20.55|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|19|72.10.160.172|2379|Canada|Montreal|GloboTech Communications|
-|20|94.23.204.27|3128|France|Roubaix|OVH SAS|
+|1|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|4|23.19.73.223|3128|United States|Los Angeles|Leaseweb USA, Inc.|
+|5|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|6|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|190.107.237.12|999|Ecuador|Tulcán|CINECABLE TV|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|72.10.164.178|24015|Canada|Montreal|GloboTech Communications|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|72.10.160.90|32907|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.170|16623|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|11835|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|11835|Canada|Montreal|GloboTech Communications|
+|18|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
+|19|67.43.227.228|28069|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.171|8169|Canada|Montreal|GloboTech Communications|
 
 
 
