@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
-|3|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|4|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
-|6|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|103.168.44.18|8080|Indonesia|Jakarta|PT CYB Media Group|
-|8|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|9|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|10|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|12|103.39.51.73|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|13|67.43.228.253|29681|Canada|Montreal|GloboTech Communications|
-|14|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|15|67.43.228.253|29681|Canada|Montreal|GloboTech Communications|
-|16|61.129.2.212|8080|China|Beijing|CHINANET|
-|17|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|18|67.43.228.254|22527|Canada|Montreal|GloboTech Communications|
-|19|12.15.68.21|8080|United States|Alex|AT&T Services, Inc.|
-|20|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|2|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|3|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|6|206.201.3.83|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|7|38.156.73.59|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|8|103.188.252.65|1234|Indonesia|Ungaran|PT Data Lintas Media Indonesia|
+|9|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|11|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|13|185.116.236.104|9595|United States|New York|Massivegrid LTD|
+|14|121.239.40.158|8081|China|Nanjing|Chinanet|
+|15|54.153.62.219|3128|United States|San Jose|Amazon.com, Inc.|
+|16|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|17|46.166.165.33|4002|Lithuania|Šiauliai|Cherry Servers|
+|18|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|19|103.69.20.28|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|20|72.10.160.93|16431|Canada|Montreal|GloboTech Communications|
 
 
 
