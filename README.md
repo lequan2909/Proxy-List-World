@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|4|23.19.73.223|3128|United States|Los Angeles|Leaseweb USA, Inc.|
-|5|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|6|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|190.107.237.12|999|Ecuador|Tulcán|CINECABLE TV|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|72.10.164.178|24015|Canada|Montreal|GloboTech Communications|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|4|195.25.20.155|3128|France|Paris|Orange Business Services|
+|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|6|203.176.129.85|8080|Cambodia|Phnom Penh|Angkor Data Communication|
+|7|183.88.231.188|34599|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|8|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|121.239.40.158|8081|China|Nanjing|Chinanet|
+|11|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
 |12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|72.10.160.90|32907|Canada|Montreal|GloboTech Communications|
+|13|103.69.20.55|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|14|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
 |15|72.10.160.170|16623|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|11835|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|11835|Canada|Montreal|GloboTech Communications|
-|18|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
-|19|67.43.227.228|28069|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.171|8169|Canada|Montreal|GloboTech Communications|
+|16|119.92.75.48|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|17|67.43.227.227|11595|Canada|Montreal|GloboTech Communications|
+|18|118.175.30.26|8080|Thailand|Bang Bua Thong|TOT Public Company Limited|
+|19|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|20|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
 
 
 
