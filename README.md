@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|2|203.150.128.157|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|6|178.48.68.61|18080|Hungary|Budapest|UPC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|34.97.58.253|8561|Japan|Osaka|Google LLC|
+|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|5|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
 |7|185.211.57.166|3128|Iran|Tehran|Mahdiar Rafiee|
-|8|101.109.52.190|8080|Thailand|Pattaya|TOT Public Company Limited|
-|9|181.129.97.34|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|10|217.251.109.178|8080|Germany|Traunstein|Deutsche Telekom AG|
-|11|115.72.174.164|10005|Vietnam|Ho Chi Minh City|VIETELmetro|
-|12|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|13|36.89.209.146|8080|Indonesia|Bekasi|Telekomunikasi Indonesia|
-|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|15|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|16|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|17|180.190.200.77|8082|Philippines|Lahug|Globe Telecom|
-|18|72.10.160.171|20599|Canada|Montreal|GloboTech Communications|
-|19|36.93.22.154|8080|Indonesia|Bekasi|Telekomunikasi Indonesia|
-|20|72.10.164.178|26535|Canada|Montreal|GloboTech Communications|
+|8|103.165.155.129|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|12|101.109.52.190|8080|Thailand|Pattaya|TOT Public Company Limited|
+|13|31.207.47.56|8118|The Netherlands|Amsterdam|Hostkey B.V.|
+|14|103.163.175.28|8080|Indonesia|Jakarta|PT Lima Satu Tiga Global Tel-Access|
+|15|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|16|179.43.8.16|8088|Brazil|Jaicós|Voex Telecom Ltda|
+|17|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|18|74.103.66.15|80|United States|Sparrows Point|Verizon Business|
+|19|121.239.40.158|8081|China|Nanjing|Chinanet|
+|20|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
 
 
 
