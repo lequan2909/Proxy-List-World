@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|1|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|2|36.37.224.125|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
 |3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|122.3.131.143|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|6|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|7|190.94.245.178|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|8|103.48.68.83|83|India|Hyderabad|Country Online Services PVT LTD|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|11|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|12|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|67.43.228.253|5007|Canada|Montreal|GloboTech Communications|
-|15|51.159.159.73|80|France|Paris|SCALEWAY|
-|16|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|17|159.192.138.170|8080|Thailand|Bang Rak|CAT-BB|
-|18|72.10.160.173|2921|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|25637|Canada|Montreal|GloboTech Communications|
-|20|12.15.68.21|8080|United States|Alex|AT&T Services, Inc.|
+|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|7|114.130.154.130|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|8|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|10|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
+|12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|15|190.237.238.177|999|Peru|Trujillo|TDP-GRS|
+|16|103.171.244.44|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|17|72.10.160.173|2921|Canada|Montreal|GloboTech Communications|
+|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|19|116.80.84.40|3128|Japan|Shimomeguro|InfoSphere|
+|20|177.234.211.63|999|Ecuador|Guayaquil|VUELATECHNOLOGY|
 
 
 
