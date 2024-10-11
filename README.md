@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
-|7|103.147.246.185|3127|Indonesia|Tangerang|PLBNET|
-|8|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|10|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|11|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|13|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|103.162.54.117|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
-|15|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
-|17|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|19|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|20|103.126.87.120|8082|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|4|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|5|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|10|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|103.168.254.34|1111|Indonesia|Kudus|PT Fahasa Tri Data|
+|13|118.163.120.181|58837|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|14|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|15|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|17|103.147.246.185|3127|Indonesia|Tangerang|PLBNET|
+|18|191.241.184.61|40033|Brazil|Nossa Senhora da Glória|NetGloria Telecom|
+|19|203.95.198.29|32650|Cambodia|Phnom Penh|Today Communication Co., Ltd|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
