@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|7|116.58.239.198|8080|Thailand|Dusit|CAT Telecom Public Company Limited|
-|8|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|9|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|10|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|12|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|14|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|103.67.237.208|3128|India|Hyderabad|OASISGSSERVICES|
-|17|103.125.160.178|83|India|Hyderabad|CtrlS|
-|18|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|187.102.36.15|3128|Brazil|Braço do Norte|MKM Internet Solution Provider Ltda|
-|20|37.46.135.225|3128|Russia|Irkutsk|JSC IOT|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|116.58.239.198|8080|Thailand|Dusit|CAT Telecom Public Company Limited|
+|9|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|10|195.25.20.155|3128|France|Paris|Orange Business Services|
+|11|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
+|12|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|103.178.42.100|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
+|16|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|17|185.128.240.77|8080|Romania|Drobeta-Turnu Severin|Data ZYX SRL|
+|18|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|19|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|20|103.67.237.208|3128|India|Hyderabad|OASISGSSERVICES|
 
 
 
