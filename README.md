@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|5|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|172.233.152.170|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|7|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|8|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|12|172.233.152.170|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|13|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|161.34.36.13|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|16|170.238.104.213|8080|Brazil|São Fidélis|Ubbinet Provedor de Servicos de Internet Ltda ME|
-|17|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|36.92.87.137|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|172.233.152.170|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|6|222.109.192.34|8080|South Korea|Seoul|Korea Telecom|
+|7|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|31.207.47.56|8118|The Netherlands|Amsterdam|Hostkey B.V.|
+|10|172.233.152.170|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|11|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|13|200.39.120.43|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|14|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|19|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
