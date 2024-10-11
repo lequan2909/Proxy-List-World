@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|5|201.149.100.32|8085|Brazil|Cruzeiro do Oeste|Crznet Telecom Ltda|
-|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|7|38.156.73.59|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|8|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|103.139.98.157|8080|Indonesia|Bandaragung|Digital Network Setiawan|
-|10|67.43.236.20|33107|Canada|Montreal|GloboTech Communications|
-|11|8.215.41.90|8080|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|14|72.10.164.178|2983|Canada|Montreal|GloboTech Communications|
-|15|114.9.52.134|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|20|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|2|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|3|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|5|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|27.96.131.193|80|South Korea|Seongnam-si|NBP|
+|9|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
+|10|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|11|38.156.72.40|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|14|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|15|103.40.121.31|8087|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
+|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|19|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
