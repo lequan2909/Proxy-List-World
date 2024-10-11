@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|4|103.166.32.215|1111|Indonesia|Kudus|PT Daniswara Citra Informatika|
-|5|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|6|95.154.20.113|34248|Denmark|Skaerbaek|SYD ENERGI|
-|7|195.25.20.155|3128|France|Paris|Orange Business Services|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|13|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|14|187.32.246.82|3128|Brazil|Juiz de Fora|ALGAR TELECOM S/A|
-|15|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|16|178.218.43.60|4411|Russia|Rybinsk|ATEXS PLUS Ltd.|
-|17|222.127.248.78|8082|Philippines|Iloilo City|GLBB|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|72.10.164.178|22415|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|24297|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|5|3.83.125.5|3128|United States|Ashburn|Amazon Technologies Inc.|
+|6|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|9|103.56.157.39|8080|Vietnam|Hanoi|VCCORP|
+|10|145.40.97.148|10004|The Netherlands|Amsterdam|Packet Host, Inc.|
+|11|145.40.97.148|10004|The Netherlands|Amsterdam|Packet Host, Inc.|
+|12|183.247.152.98|53281|China|Hangzhou|China Mobile Communications Corporation|
+|13|203.192.199.158|8080|India|Ponda|Entire In2Cable|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|67.43.236.20|2657|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|29129|Canada|Montreal|GloboTech Communications|
+|17|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|18|72.10.164.178|29129|Canada|Montreal|GloboTech Communications|
+|19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|96.9.74.91|8080|Cambodia|Phnom Penh|S.I Group|
 
 
 
