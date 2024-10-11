@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.109.192.34|8080|South Korea|Seoul|Korea Telecom|
-|2|172.233.152.170|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|5|172.233.152.170|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|6|113.160.154.23|8080|Vietnam|Bắc Ninh|VietNam Post and Telecom Corporation|
-|7|45.189.252.40|999|Mexico|Tlalixcoyan|Tracered SA De CV|
-|8|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|9|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
+|4|34.97.31.37|8561|Japan|Osaka|Google LLC|
+|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|34.97.138.39|8561|Japan|Osaka|Google LLC|
+|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|34.97.52.66|8561|Japan|Osaka|Google LLC|
 |10|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|11|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
-|12|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|13|121.239.40.158|8081|China|Nanjing|Chinanet|
-|14|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|15|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|51.159.159.73|80|France|Paris|SCALEWAY|
-|17|203.104.34.144|3128|China|Guangzhou|Fuzhou|
-|18|103.239.255.36|58080|Bangladesh|Dhaka|Carnival Internet|
-|19|178.218.43.60|4411|Russia|Rybinsk|ATEXS PLUS Ltd.|
-|20|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|11|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|12|34.97.229.206|8561|Japan|Osaka|Google LLC|
+|13|34.97.72.201|8561|Japan|Osaka|Google LLC|
+|14|34.97.68.25|8561|Japan|Osaka|Google LLC|
+|15|34.97.78.175|8561|Japan|Osaka|Google LLC|
+|16|194.163.149.123|1111|Germany|Düsseldorf|Contabo GmbH|
+|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|18|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|19|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|20|121.239.40.158|8081|China|Nanjing|Chinanet|
 
 
 
