@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|5|103.211.107.62|8080|Indonesia|Lampung|PT Atmega Telecomindo Nusantara|
-|6|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|7|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
-|8|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|10|38.156.72.166|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|12|101.128.93.144|8090|Indonesia|Jakarta|CBN|
-|13|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
-|14|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|15|116.254.99.14|8080|Indonesia|Jakarta|SpaceX Starlink|
-|16|222.127.248.78|8082|Philippines|Iloilo City|GLBB|
-|17|103.67.237.212|3128|India|Hyderabad|OASISGSSERVICES|
-|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|198.24.188.138|35999|United States|Ashburn|Secured Servers LLC|
-|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|3|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|6|103.166.32.215|1111|Indonesia|Kudus|PT Daniswara Citra Informatika|
+|7|50.204.36.138|60808|United States|Sacramento|Comcast Cable Communications, LLC|
+|8|36.93.204.241|8080|Indonesia|Bogor|Telekomunikasi Indonesia|
+|9|103.226.232.206|3125|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
+|10|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|36.93.22.154|8080|Indonesia|Bekasi|Telekomunikasi Indonesia|
+|12|185.116.236.104|3128|United States|New York|Massivegrid LTD|
+|13|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|122.54.100.121|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|15|31.207.47.56|8118|The Netherlands|Amsterdam|Hostkey B.V.|
+|16|200.24.152.210|999|Ecuador|Tosagua|Negocios Y Telefonia Nedetel S.A|
+|17|115.127.19.163|9090|Bangladesh|Dhaka|BRACNet Limited|
+|18|67.43.236.20|9041|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|9041|Canada|Montreal|GloboTech Communications|
+|20|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
 
 
 
