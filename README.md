@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |3|91.107.132.93|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
-|4|103.163.175.28|8080|Indonesia|Jakarta|PT Lima Satu Tiga Global Tel-Access|
-|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|6|203.150.128.238|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|171.240.119.87|5111|Vietnam|Hanoi|Viettel Corporation|
-|9|116.80.84.40|3128|Japan|Shimomeguro|InfoSphere|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|4|178.48.68.61|18080|Hungary|Budapest|UPC|
+|5|45.125.222.81|8080|Bangladesh|Dhaka|Carnival Internet|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|103.67.237.208|3128|India|Hyderabad|OASISGSSERVICES|
+|8|103.163.175.28|8080|Indonesia|Jakarta|PT Lima Satu Tiga Global Tel-Access|
+|9|36.95.12.154|8080|Indonesia|Padang|PT. Telekomunikasi Indonesia|
+|10|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|11|116.80.84.40|3128|Japan|Shimomeguro|InfoSphere|
 |12|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|14|42.200.223.110|8080|Hong Kong|Kwu Tung|PCCW IMSBiz|
-|15|114.130.154.130|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|16|72.10.160.90|29999|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|67.43.227.227|30769|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|8891|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|30769|Canada|Montreal|GloboTech Communications|
+|13|45.190.170.0|999|Peru|Lima region|Softbutterfly SAC|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|167.250.222.233|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|16|72.10.164.178|1551|Canada|Montreal|GloboTech Communications|
+|17|200.119.141.114|999|Guatemala|Guatemala City|Telgua|
+|18|72.10.160.171|5933|Canada|Montreal|GloboTech Communications|
+|19|177.93.40.56|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|20|72.10.160.90|23317|Canada|Montreal|GloboTech Communications|
 
 
 
