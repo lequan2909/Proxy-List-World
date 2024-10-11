@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|95.164.116.183|3128|Türkiye|Izmir|Stark Industries Solutions LTD|
-|5|172.232.194.91|8128|Italy|Milan|Akamai Technologies, Inc.|
-|6|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|118.97.237.2|8080|Indonesia|Jakarta Pusat|PT. TELKOM INDONESIA|
-|10|103.156.17.83|8181|Indonesia|Indramayu|RSTNET|
-|11|41.70.12.206|8080|Malawi|Lilongwe|MAREN-Infrastructure1|
-|12|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|14|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|51.159.159.73|80|France|Paris|SCALEWAY|
-|17|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|18|103.145.150.26|8080|Indonesia|Depok|PT. Indonesia Comnets Plus|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|103.107.84.177|8080|Indonesia|Boyolali|PT. Media Jaringan Indonesia|
+|5|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|8|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|9|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|10|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|14|51.159.159.73|80|France|Paris|SCALEWAY|
+|15|181.10.160.154|8080|Argentina|La Carlota|Telecom Argentina S.A|
+|16|96.9.74.91|8080|Cambodia|Phnom Penh|S.I Group|
+|17|198.24.188.138|38050|United States|Ashburn|Secured Servers LLC|
+|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 |19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|198.24.188.138|38050|United States|Ashburn|Secured Servers LLC|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
