@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|9|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|187.251.130.156|8080|Mexico|Colima|Total Play Telecomunicaciones SA De CV|
-|11|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|12|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|13|186.113.232.105|8080|Colombia|Pereira|Colombia Telecomunicaciones S.a. ESP|
-|14|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
-|15|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|17|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|190.94.213.6|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|19|190.61.84.166|9812|Costa Rica|San José|Ufinet Costa Rica|
-|20|162.240.154.26|3128|United States|Provo|Unified Layer|
+|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|6|103.177.177.249|8080|Indonesia|Jakarta|PT Milenial Inti Telekomunikasi|
+|7|190.110.34.24|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|8|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|9|109.71.240.93|8118|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|10|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|103.154.91.250|8081|Indonesia|Jakarta|MORATELINDONAP|
+|12|94.23.204.27|3128|France|Roubaix|OVH SAS|
+|13|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|14|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|103.191.165.9|8080|Indonesia|Subang|PT Sakti Wijaya Network|
+|17|103.165.128.171|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|18|102.0.12.224|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|19|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
