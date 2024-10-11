@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
 |3|161.34.37.126|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|91.107.165.250|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|103.157.79.18|8080|Indonesia|Jakarta|EASTMEDIA|
-|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|222.129.139.112|9000|China|Beijing|China Unicom Beijing Province Network|
-|9|72.10.164.178|23213|Canada|Montreal|GloboTech Communications|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|101.128.93.144|8090|Indonesia|Jakarta|CBN|
-|12|74.103.66.15|80|United States|Sparrows Point|Verizon Business|
-|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|15|72.10.164.178|23213|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|4015|Canada|Montreal|GloboTech Communications|
-|17|147.75.68.202|9401|United States|San Jose|Packet Host, Inc.|
-|18|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|19|72.10.164.178|23213|Canada|Montreal|GloboTech Communications|
-|20|31.211.82.232|3128|Russia|Tomsk|OOO NETCOM|
+|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|6|103.157.79.18|8080|Indonesia|Jakarta|EASTMEDIA|
+|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|8|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|103.145.68.77|8080|Indonesia|Sumenep|ALFANET|
+|10|202.183.209.77|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|13|181.143.126.74|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|14|72.10.164.178|6043|Canada|Montreal|GloboTech Communications|
+|15|116.80.84.40|3128|Japan|Shimomeguro|InfoSphere|
+|16|156.200.123.170|8080|Egypt|Cairo|TE Data|
+|17|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|18|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|20|67.43.227.228|9401|Canada|Montreal|GloboTech Communications|
 
 
 
