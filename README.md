@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|5|103.149.194.58|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
-|6|195.25.20.155|3128|France|Paris|Orange Business Services|
-|7|119.95.182.57|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|8|209.146.20.228|8082|Philippines|Manila|Cogent Communications|
-|9|210.87.125.58|1080|Indonesia|Kediri|CV Brawijaya Giga Network|
-|10|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
-|11|116.80.84.40|3128|Japan|Shimomeguro|InfoSphere|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|14|103.40.121.31|8087|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
-|15|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|16|72.10.160.90|5531|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|5185|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|2267|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|5531|Canada|Montreal|GloboTech Communications|
-|20|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|3|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|4|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|34.97.149.89|8561|Japan|Osaka|Google LLC|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|34.97.31.37|8561|Japan|Osaka|Google LLC|
+|8|34.97.138.39|8561|Japan|Osaka|Google LLC|
+|9|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|10|103.48.70.161|83|India|Hyderabad|Country Online Services PVT LTD|
+|11|34.97.42.111|8561|Japan|Osaka|Google LLC|
+|12|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|14|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|15|36.94.60.26|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|16|51.159.159.73|80|France|Paris|SCALEWAY|
+|17|116.80.84.40|3128|Japan|Shimomeguro|InfoSphere|
+|18|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|19|181.143.181.34|8080|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
