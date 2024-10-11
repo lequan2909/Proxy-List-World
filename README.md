@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|115.72.174.164|10005|Vietnam|Ho Chi Minh City|VIETELmetro|
-|5|34.97.57.4|8561|Japan|Osaka|Google LLC|
-|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|7|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|8|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|11|34.97.138.39|8561|Japan|Osaka|Google LLC|
-|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|13|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|15|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|34.97.27.41|8561|Japan|Osaka|Google LLC|
-|17|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|19|51.159.159.73|80|France|Paris|SCALEWAY|
-|20|72.10.164.178|28613|Canada|Montreal|GloboTech Communications|
+|1|34.97.72.201|8561|Japan|Osaka|Google LLC|
+|2|34.97.57.4|8561|Japan|Osaka|Google LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|34.97.52.66|8561|Japan|Osaka|Google LLC|
+|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|6|101.109.52.190|8080|Thailand|Pattaya|TOT Public Company Limited|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|115.72.174.164|10005|Vietnam|Ho Chi Minh City|VIETELmetro|
+|9|36.89.209.146|8080|Indonesia|Bekasi|Telekomunikasi Indonesia|
+|10|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|34.97.67.132|8561|Japan|Osaka|Google LLC|
+|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|13|79.106.33.26|8079|Albania|Peshkopi|ONE ALBANIA SH.A.|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
+|16|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|17|34.97.57.4|8561|Japan|Osaka|Google LLC|
+|18|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|19|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
