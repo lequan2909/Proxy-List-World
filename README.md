@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|115.72.174.164|10005|Vietnam|Ho Chi Minh City|VIETELmetro|
-|5|103.211.107.62|8080|Indonesia|Lampung|PT Atmega Telecomindo Nusantara|
-|6|103.148.29.229|80|Indonesia|Sigi|DEWATA|
-|7|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|179.48.80.9|8085|Brazil|Teresina|Fbnet Telecom|
-|10|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|51.159.159.73|80|France|Paris|SCALEWAY|
-|12|36.64.162.194|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|13|31.129.33.101|3128|Russia|St Petersburg|JSC Selectel|
-|14|185.116.236.104|3128|United States|New York|Massivegrid LTD|
-|15|67.43.227.227|1481|Canada|Montreal|GloboTech Communications|
-|16|1.10.227.16|8080|Thailand|Damnoen Saduak|TOT Public Company Limited|
-|17|72.10.160.173|1075|Canada|Montreal|GloboTech Communications|
-|18|103.69.20.52|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|19|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|72.10.164.178|17941|Canada|Montreal|GloboTech Communications|
+|3|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|4|34.97.42.111|8561|Japan|Osaka|Google LLC|
+|5|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
+|6|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|103.156.16.81|8080|Indonesia|Jakarta|RSTNET|
+|9|195.25.20.155|3128|France|Paris|Orange Business Services|
+|10|103.155.197.193|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|11|181.39.233.212|8080|Ecuador|Guayaquil|Telconet S.A|
+|12|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|13|118.172.184.25|8180|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|14|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
+|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|159.192.138.170|8080|Thailand|Bang Rak|CAT-BB|
+|18|51.159.159.73|80|France|Paris|SCALEWAY|
+|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|20|183.88.241.167|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
 
 
 
