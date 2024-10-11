@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|189.161.150.39|8080|Mexico|Córdoba|UNINET|
+|2|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|199.195.253.14|1080|United States|New York|FranTech Solutions|
 |8|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|9|67.43.227.227|28313|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|5889|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.19|5245|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.93|11931|Canada|Montreal|GloboTech Communications|
-|13|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|14|14.192.3.161|83|India|Hyderabad|Viral Communications Private Limited|
-|15|72.10.160.90|6397|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.91|10433|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.91|10433|Canada|Montreal|GloboTech Communications|
-|18|69.65.18.35|3128|United States|Arlington Heights|GigeNET|
-|19|67.43.236.18|5889|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|6397|Canada|Montreal|GloboTech Communications|
+|9|27.147.130.10|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|10|111.1.61.50|3128|China|Wenzhou|China Mobile communications corporation|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|154.73.28.161|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|13|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|14|69.65.18.35|3128|United States|Arlington Heights|GigeNET|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|185.128.240.77|8080|Romania|Drobeta-Turnu Severin|Data ZYX SRL|
+|17|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
+|18|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|19|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|45.143.108.114|8080|Georgia|Zestaponi|Airmax LLC|
 
 
 
