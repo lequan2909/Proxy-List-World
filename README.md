@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.84.40|3128|Japan|Shimomeguro|InfoSphere|
-|3|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|195.25.20.155|3128|France|Paris|Orange Business Services|
-|8|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|14|45.230.48.131|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
-|15|189.124.85.225|7171|Brazil|Presidente Venceslau|FIT Telecom Eireli|
-|16|45.173.231.166|999|Ecuador|Quito|Jyxcem Cia.ltda|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|116.80.84.40|3128|Japan|Shimomeguro|InfoSphere|
+|5|34.97.42.111|8561|Japan|Osaka|Google LLC|
+|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|34.97.67.132|8561|Japan|Osaka|Google LLC|
+|8|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|9|34.97.138.39|8561|Japan|Osaka|Google LLC|
+|10|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|34.97.68.25|8561|Japan|Osaka|Google LLC|
+|12|34.97.78.175|8561|Japan|Osaka|Google LLC|
+|13|34.97.31.37|8561|Japan|Osaka|Google LLC|
+|14|103.203.232.101|1080|Indonesia|Kedok|INDANA|
+|15|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|16|195.25.20.155|3128|France|Paris|Orange Business Services|
+|17|34.97.72.201|8561|Japan|Osaka|Google LLC|
+|18|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|19|218.155.31.188|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
 
 
 
