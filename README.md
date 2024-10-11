@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|2|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|103.186.204.52|8089|Indonesia|Tasikmalaya|PT Afna Digital Indonesia|
-|8|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|188.132.222.37|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|3|178.48.68.61|18080|Hungary|Budapest|UPC|
+|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|6|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|142.215.53.8|8118|United States|Ashburn|Equinix (EMEA) Acquisition Enterprises B.V.|
+|8|193.233.84.85|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |11|34.97.11.208|8561|Japan|Osaka|Google LLC|
 |12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|14|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|15|72.10.164.178|8489|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|72.10.164.178|8489|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|22725|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|8489|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|15405|Canada|Montreal|GloboTech Communications|
+|13|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|14|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|72.10.160.90|15405|Canada|Montreal|GloboTech Communications|
+|17|20.26.97.150|8080|United Kingdom|City of London|Microsoft Corporation|
+|18|203.192.199.158|8080|India|Ponda|Entire In2Cable|
+|19|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|20|36.89.251.14|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
 
 
 
