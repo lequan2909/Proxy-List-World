@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|5|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|9|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|12|177.221.44.113|49999|Brazil|Jaboatão dos Guararapes|1telecom Servicos De Tecnologia EM Internet Ltda|
-|13|103.40.121.31|8087|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
-|14|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|15|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|16|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|17|178.218.43.60|4411|Russia|Rybinsk|ATEXS PLUS Ltd.|
-|18|36.93.22.154|8080|Indonesia|Bekasi|Telekomunikasi Indonesia|
-|19|103.236.177.149|8082|Philippines|Manila|Infinivan Incorporated|
-|20|103.149.194.58|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
+|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|103.158.127.135|8080|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|34.97.72.201|8561|Japan|Osaka|Google LLC|
+|10|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|14|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|16|203.104.34.144|3128|China|Guangzhou|Fuzhou|
+|17|67.43.227.227|1419|Canada|Montreal|GloboTech Communications|
+|18|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|19|51.158.173.222|3128|France|Paris|Online S.A.S.|
+|20|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 
 
 
