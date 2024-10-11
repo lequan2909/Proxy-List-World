@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5167** proxies at the latest update. Usable proxies are below.
+> Scraper found **5240** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|241|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|627|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|431|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|504|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2910|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|101.255.166.141|3128|Indonesia|Bekasi|PT Remala Abadi|
-|5|103.184.56.110|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
-|6|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|10|170.83.82.10|3128|Brazil|Marabá|IBL Banda Larga Internet Informatica LTDA|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|16|183.88.241.167|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|17|67.43.228.253|2789|Canada|Montreal|GloboTech Communications|
-|18|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|19|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|20|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|6|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|7|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|9|122.3.45.189|8082|Philippines|Bacoor|Philippine Long Distance Telephone Co.|
+|10|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|11|103.232.20.158|3127|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|12|43.246.201.92|9080|Bangladesh|Feni|Asiatel Network Limited|
+|13|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|14|170.83.82.10|3128|Brazil|Marabá|IBL Banda Larga Internet Informatica LTDA|
+|15|177.44.161.8|3128|Brazil|Chopinzinho|WIIP TELECOM SERVIÇOS DE INTERNET LTDA|
+|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|17|103.169.133.22|8085|Indonesia|Majalengka|PT Alfa Omega Interkoneksi|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|171.240.119.87|5111|Vietnam|Hanoi|Viettel Corporation|
+|20|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
