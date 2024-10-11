@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|8|85.210.84.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|9|170.245.132.82|9000|Paraguay|Carapeguá|MACHADO BAEZ, NERY JAVIER|
-|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|11|103.67.237.208|3128|India|Hyderabad|OASISGSSERVICES|
-|12|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|13|103.171.244.44|8088|Indonesia|Madiun|PT Data Arta Sedaya|
-|14|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|15|170.83.170.2|9191|Brazil|Macaíba|MT INTERNET COMERCIO & SERVICO LTDA|
-|16|103.122.142.174|8080|Bangladesh|Dhaka|Carnival Internet|
-|17|45.182.191.58|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|18|190.121.145.115|999|Colombia|Bogotá|Media Commerce Partners S.A|
-|19|103.178.42.100|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
-|20|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|6|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|7|4.158.55.159|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|122.2.79.174|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|10|85.210.203.188|8080|United Kingdom|City of London|Microsoft Corporation|
+|11|103.171.244.44|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|12|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|13|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|14|38.156.235.113|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|15|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|16|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|17|190.121.145.115|999|Colombia|Bogotá|Media Commerce Partners S.A|
+|18|103.67.237.208|3128|India|Hyderabad|OASISGSSERVICES|
+|19|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|20|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
 
 
 
