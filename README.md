@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|101.109.57.22|8080|Thailand|Pattaya|TOT Public Company Limited|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|185.211.57.166|3128|Iran|Tehran|Mahdiar Rafiee|
-|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|181.129.97.34|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|9|110.39.161.62|8080|Pakistan|Renala Khurd|Wateen Telecom Limited|
-|10|34.97.46.98|8561|Japan|Osaka|Google LLC|
-|11|49.0.2.194|8090|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|12|120.50.18.146|58080|Bangladesh|Dhaka|TelNET Communication Ltd|
-|13|72.10.164.178|29677|Canada|Montreal|GloboTech Communications|
-|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|15|67.43.228.253|31015|Canada|Montreal|GloboTech Communications|
-|16|103.40.121.31|8087|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
-|17|67.43.228.251|20735|Canada|Montreal|GloboTech Communications|
-|18|5.42.73.166|3128|Sweden|Stockholm|Aeza International LTD|
-|19|185.116.236.104|9595|United States|New York|Massivegrid LTD|
-|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|2|203.150.128.157|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|178.48.68.61|18080|Hungary|Budapest|UPC|
+|4|185.211.57.166|3128|Iran|Tehran|Mahdiar Rafiee|
+|5|101.109.57.22|8080|Thailand|Pattaya|TOT Public Company Limited|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
+|8|31.207.47.56|8118|The Netherlands|Amsterdam|Hostkey B.V.|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|181.129.97.34|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|11|103.67.237.208|3128|India|Hyderabad|OASISGSSERVICES|
+|12|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|13|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|14|103.165.155.129|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|15|185.116.236.104|3128|United States|New York|Massivegrid LTD|
+|16|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|17|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|19|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
+|20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
