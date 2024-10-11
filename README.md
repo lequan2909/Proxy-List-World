@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
-|5|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|8|162.240.154.26|3128|United States|Provo|Unified Layer|
-|9|129.222.202.169|80|Colombia|Bogota|SpaceX Starlink|
-|10|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
-|11|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|4|20.26.249.29|8080|United Kingdom|City of London|Microsoft Corporation|
+|5|85.210.121.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|6|85.210.84.11|8080|United Kingdom|City of London|Microsoft Corporation|
+|7|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|8|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
+|9|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|10|129.222.202.169|80|Colombia|Bogota|SpaceX Starlink|
+|11|38.99.101.101|3128|United States|San Jose|Cogent Communications|
 |12|195.133.28.139|3128|The Netherlands|Amsterdam|Aeza International LTD|
-|13|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|14|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|15|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|18|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|20|38.183.146.181|8090|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
+|13|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|80.240.55.242|3128|Russia|Yeysk|inetnum UGTEL|
+|17|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|18|72.10.164.178|20935|Canada|Montreal|GloboTech Communications|
+|19|145.40.97.148|10001|The Netherlands|Amsterdam|Packet Host, Inc.|
+|20|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
 
 
 
