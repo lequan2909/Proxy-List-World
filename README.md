@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
 |2|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
-|3|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|4|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|6|4.159.61.189|8080|United Kingdom|City of London|Microsoft Corporation|
-|7|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|8|38.156.73.59|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|9|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|11|183.88.241.167|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|12|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|13|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|67.43.228.253|30159|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|20619|Canada|Montreal|GloboTech Communications|
-|17|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|18|72.10.164.178|20619|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|29945|Canada|Montreal|GloboTech Communications|
-|20|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|3|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|4|103.165.212.210|8080|Indonesia|Malang|PT iForte Global Internet|
+|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|6|121.239.40.158|8081|China|Nanjing|Chinanet|
+|7|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|8|103.51.21.165|8080|India|Raipur|Foxtel Telecommunications Pvt. Ltd.|
+|9|4.158.175.186|8080|United Kingdom|City of London|Microsoft Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|12|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|187.102.36.15|3128|Brazil|Braço do Norte|MKM Internet Solution Provider Ltda|
+|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|17|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|18|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|19|4.158.61.222|8080|United Kingdom|City of London|Microsoft Corporation|
+|20|36.67.7.74|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 
 
 
