@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |4|171.7.33.70|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|5|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|5|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
 |6|172.233.152.170|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|7|172.233.152.170|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|8|103.75.96.70|8080|Indonesia|Bandung|MORATELINDO|
-|9|27.54.150.122|8080|Bangladesh|Dhaka|X-press Technologies Limited|
-|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|11|103.171.244.44|8088|Indonesia|Madiun|PT Data Arta Sedaya|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|62.103.66.18|3128|Greece|Athens|OTEnet|
-|14|38.41.0.62|11201|Venezuela|Caracas|MDS TELECOM C.A.|
-|15|103.172.17.51|8080|Indonesia|Ciamis|PT Media Access Telematika|
-|16|203.104.34.144|3128|China|Guangzhou|Fuzhou|
-|17|213.19.123.178|229|Czechia|Litomyšl|FORTECH|
-|18|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|19|67.43.227.227|22143|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.173|4005|Canada|Montreal|GloboTech Communications|
+|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|8|172.233.152.170|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|9|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|10|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|12|103.215.187.66|8080|Indonesia|Mungkid|PT Jaringan Inti Exadata|
+|13|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|14|61.129.2.212|8080|China|Beijing|CHINANET|
+|15|101.128.93.144|8090|Indonesia|Jakarta|CBN|
+|16|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|17|206.42.28.150|8800|Brazil|Parnamirim|Brisanet Prestacao De Servicos De Internet Ltda|
+|18|72.10.160.94|20057|Canada|Montreal|GloboTech Communications|
+|19|114.130.153.58|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|20|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
