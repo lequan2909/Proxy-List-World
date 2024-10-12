@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|3|34.97.78.175|8561|Japan|Osaka|Google LLC|
-|4|34.97.72.201|8561|Japan|Osaka|Google LLC|
-|5|203.104.34.144|3128|China|Guangzhou|Fuzhou|
-|6|58.220.95.66|11143|China|Shanghai|CHINATELECOM JiangSu YangZhou IDC networkdescr: YangZhou, Jiangsu Province, P.|
-|7|34.97.229.206|8561|Japan|Osaka|Google LLC|
-|8|34.97.61.13|8561|Japan|Osaka|Google LLC|
-|9|51.159.159.73|80|France|Paris|SCALEWAY|
-|10|34.97.65.59|8561|Japan|Osaka|Google LLC|
-|11|72.10.160.91|13729|Canada|Montreal|GloboTech Communications|
-|12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|34.97.68.25|8561|Japan|Osaka|Google LLC|
-|15|67.43.227.226|2695|Canada|Montreal|GloboTech Communications|
-|16|46.19.112.62|8890|Russia|Moscow|SVYAZ-ENERGO telecommunications company|
-|17|67.43.228.251|17689|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|31.129.33.101|3128|Russia|St Petersburg|JSC Selectel|
-|20|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|1|34.97.68.25|8561|Japan|Osaka|Google LLC|
+|2|34.97.61.13|8561|Japan|Osaka|Google LLC|
+|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|4|34.97.229.206|8561|Japan|Osaka|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|34.97.149.89|8561|Japan|Osaka|Google LLC|
+|8|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|10|125.165.125.119|8080|Indonesia|Manado|PT. TELKOM INDONESIA|
+|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|12|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|13|51.159.159.73|80|France|Paris|SCALEWAY|
+|14|34.97.229.206|8561|Japan|Osaka|Google LLC|
+|15|34.97.61.13|8561|Japan|Osaka|Google LLC|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|34.97.68.25|8561|Japan|Osaka|Google LLC|
+|19|195.191.158.172|80|Russia|Ramenskoye|Intelsc Ltd.|
+|20|119.40.98.29|20|Mongolia|Ulan Bator|Topica Co., Ltd|
 
 
 
