@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|115.77.20.123|2024|Vietnam|Ho Chi Minh City|Viettel Group|
-|3|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|6|211.34.124.42|3128|South Korea|Siheung-si|Korea Telecom|
-|7|46.166.165.33|4003|Lithuania|Šiauliai|Cherry Servers|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|10|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|11|171.240.119.87|5111|Vietnam|Hanoi|Viettel Corporation|
-|12|96.9.74.91|8080|Cambodia|Phnom Penh|S.I Group|
-|13|186.96.97.203|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|157.245.50.196|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|198.24.188.138|37200|United States|Ashburn|Secured Servers LLC|
-|17|43.243.141.12|8080|Indonesia|Pisangan|CEPATNET|
-|18|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|19|128.199.247.154|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|51.158.173.222|3128|France|Paris|Online S.A.S.|
+|4|178.48.68.61|18080|Hungary|Budapest|UPC|
+|5|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|8|115.77.20.123|2024|Vietnam|Ho Chi Minh City|Viettel Group|
+|9|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|10|103.191.254.2|8085|Indonesia|Jadi|PT Ayodya Data Internusa|
+|11|103.154.230.104|8080|Indonesia|Lamongan|DIGITNET|
+|12|103.78.171.10|83|India|Pune|SCC NETWORK PVT LTD|
+|13|119.92.75.48|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|203.104.34.144|3128|China|Guangzhou|Fuzhou|
+|16|211.224.153.68|3128|South Korea|Dalseong-gun|Korea Telecom|
+|17|186.96.66.159|999|Venezuela|Caracas|Gold Data USA Inc|
+|18|201.47.88.21|3128|Brazil|São Paulo|Vivo|
+|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|157.245.50.196|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
