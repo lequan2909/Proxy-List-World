@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
 |3|171.228.160.17|10089|Vietnam|Hanoi|Viettel Corporation|
-|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|67.43.228.252|17213|Canada|Montreal|GloboTech Communications|
-|7|67.43.227.226|28449|Canada|Montreal|GloboTech Communications|
-|8|72.10.164.178|15153|Canada|Montreal|GloboTech Communications|
-|9|67.43.228.251|24249|Canada|Montreal|GloboTech Communications|
-|10|187.32.76.99|3128|Brazil|Belo Horizonte|ALGAR TELECOM S/A|
-|11|72.10.160.171|25489|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|29247|Canada|Montreal|GloboTech Communications|
-|13|119.18.149.9|5020|Bangladesh|Chittagong|BBTS Network|
-|14|67.43.227.227|29247|Canada|Montreal|GloboTech Communications|
-|15|177.221.44.89|49999|Brazil|Jaboatão dos Guararapes|1telecom Servicos De Tecnologia EM Internet Ltda|
-|16|67.43.228.253|13705|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|20091|Canada|Montreal|GloboTech Communications|
-|18|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
-|19|72.10.160.90|12141|Canada|Montreal|GloboTech Communications|
-|20|104.37.102.181|8181|United States|Attica|ALTIUS Broadband, LLC|
+|4|45.70.236.192|999|Ecuador|Simón Bolívar|Ufinet Panama S.A.|
+|5|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|8|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|72.10.164.178|20301|Canada|Montreal|GloboTech Communications|
+|12|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
+|13|90.161.186.147|3128|Spain|Calella|Uni2|
+|14|67.43.228.251|24249|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|20301|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.226|32907|Canada|Montreal|GloboTech Communications|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|103.159.96.74|8080|Indonesia|Gresik|PT Jinde Grup Indonesia|
+|19|67.43.227.228|20091|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|20301|Canada|Montreal|GloboTech Communications|
 
 
 
