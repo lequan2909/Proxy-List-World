@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|4|178.48.68.61|18080|Hungary|Budapest|UPC|
-|5|23.19.73.223|3128|United States|Los Angeles|Leaseweb USA, Inc.|
-|6|85.175.5.50|3128|Russia|Krasnodar|Southen Telecommunication Maintainer|
-|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|8|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|9|171.224.88.80|10059|Vietnam|Hanoi|Viettel Corporation|
-|10|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|103.173.138.226|1111|Indonesia|Banjarnegara|PT Serayu Multi Connection|
-|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|13|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|15|27.64.48.10|5102|Vietnam|Ho Chi Minh City|Viettel Group|
-|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|72.10.164.178|2787|Canada|Montreal|GloboTech Communications|
+|2|23.19.73.223|3128|United States|Los Angeles|Leaseweb USA, Inc.|
+|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|6|178.48.68.61|18080|Hungary|Budapest|UPC|
+|7|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|8|51.159.159.73|80|France|Paris|SCALEWAY|
+|9|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|11|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|14|72.10.164.178|2787|Canada|Montreal|GloboTech Communications|
+|15|116.80.82.213|3128|Japan|Shimomeguro|InfoSphere|
+|16|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|18|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|36.93.32.137|8080|Indonesia|Tangerang|Telekomunikasi Indonesia|
+|20|67.43.227.227|30133|Canada|Montreal|GloboTech Communications|
 
 
 
