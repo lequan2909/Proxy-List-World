@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
 |2|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|3|200.106.124.90|999|Peru|Tacna|Telefonica del Peru|
-|4|200.111.232.94|8080|Chile|Santiago|Entel Chile S.A.|
-|5|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|36.89.251.14|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|8|119.47.90.240|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|9|116.254.99.14|8080|Indonesia|Jakarta|SpaceX Starlink|
-|10|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|11|181.129.97.34|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|12|67.43.227.228|11867|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|4113|Canada|Montreal|GloboTech Communications|
-|14|220.130.186.59|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|15|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|16|72.10.164.178|13933|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|23279|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.92|26059|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|28453|Canada|Montreal|GloboTech Communications|
-|20|103.125.16.51|8080|Indonesia|Tangerang|JAVAMEDIA|
+|3|188.132.222.54|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|4|45.70.236.192|999|Ecuador|Simón Bolívar|Ufinet Panama S.A.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|7|124.120.108.176|8080|Thailand|Bangkok|TRUEBB|
+|8|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|9|181.129.97.34|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|10|200.119.218.94|999|Bolivia|Santa Cruz|Cotas Ltda.|
+|11|67.43.227.227|4113|Canada|Montreal|GloboTech Communications|
+|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|13|72.10.164.178|13933|Canada|Montreal|GloboTech Communications|
+|14|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|15|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|16|72.10.160.90|15627|Canada|Montreal|GloboTech Communications|
+|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|18|67.43.228.253|2893|Canada|Montreal|GloboTech Communications|
+|19|101.128.93.144|8090|Indonesia|Jakarta|CBN|
+|20|103.153.246.54|8181|Indonesia|Purwakarta|PRIMAHOME|
 
 
 
