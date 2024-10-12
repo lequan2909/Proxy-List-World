@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|264|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|555|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|263|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|556|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|337|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3321|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.111.27.136|5103|Vietnam|Hanoi|Viettel Corporation|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|14.245.247.137|5006|Vietnam|Da Nang|VNPT|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|176.9.238.155|16379|Germany|Falkenstein|Hetzner|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|103.166.158.201|8080|Indonesia|Bekasi|PT Timor Lintas Nusantara|
-|10|67.43.227.227|14103|Canada|Montreal|GloboTech Communications|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|171.240.119.87|5111|Vietnam|Hanoi|Viettel Corporation|
-|13|51.159.75.249|3128|France|Paris|SCALEWAY|
-|14|67.43.227.226|31181|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.93|33215|Canada|Montreal|GloboTech Communications|
-|16|164.90.136.32|999|United States|Clifton|DigitalOcean, LLC|
-|17|165.16.30.225|1981|Libya|Benghazi|Aljeel Aljadeed For Technology|
-|18|182.53.50.2|3128|Thailand|Bangkok|TOT Public Company Limited|
-|19|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|20|72.10.160.90|20037|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|4|203.150.128.177|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|6|31.207.47.56|8118|The Netherlands|Amsterdam|Hostkey B.V.|
+|7|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|8|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|9|103.41.33.246|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|10|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|144.86.187.38|3129|United States|Malden|Charles River Operation|
+|13|182.160.103.220|8090|Bangladesh|Dhaka|Aamra Networks Limited|
+|14|144.86.187.43|3129|United States|Malden|Charles River Operation|
+|15|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|16|144.86.187.46|3129|United States|Malden|Charles River Operation|
+|17|72.10.160.90|29055|Canada|Montreal|GloboTech Communications|
+|18|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|19|67.43.236.21|6563|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.252|10919|Canada|Montreal|GloboTech Communications|
 
 
 
