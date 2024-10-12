@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|1|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
 |2|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|4|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|187.102.222.177|32650|Brazil|São Pedro do Suaçuí|Masternet Telecomunicacao Ltda|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|103.105.76.100|8080|Indonesia|Kediri|GARUDA|
-|10|31.129.33.101|3128|Russia|St Petersburg|JSC Selectel|
-|11|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|121.100.19.82|7088|Indonesia|Pamulang|NAP.Net.id - Network Access Point|
-|14|144.86.187.51|3129|United States|Malden|Charles River Operation|
-|15|72.10.160.172|12103|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|31483|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|19825|Canada|Montreal|GloboTech Communications|
-|18|172.232.194.91|8128|Italy|Milan|Akamai Technologies, Inc.|
-|19|144.86.187.40|3129|United States|Malden|Charles River Operation|
-|20|67.43.236.20|31483|Canada|Montreal|GloboTech Communications|
+|3|178.48.68.61|18080|Hungary|Budapest|UPC|
+|4|103.245.16.35|8080|Indonesia|Depok|PT Quantum Tera Network|
+|5|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|8|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|187.102.222.177|32650|Brazil|São Pedro do Suaçuí|Masternet Telecomunicacao Ltda|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|200.24.152.210|999|Ecuador|Tosagua|Negocios Y Telefonia Nedetel S.A|
+|13|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|27.54.150.122|8080|Bangladesh|Dhaka|X-press Technologies Limited|
+|15|38.253.88.242|999|United States|Miami|LAUAM MEGARED TELECOM, S.R.L.|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|19|94.23.204.27|3128|France|Roubaix|OVH SAS|
+|20|114.130.154.130|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
 
 
 
