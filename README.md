@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5556** proxies at the latest update. Usable proxies are below.
+> Scraper found **5557** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|262|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|263|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|644|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|371|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|103.160.41.54|1080|Indonesia|Campraksanta|PT Wistel Teknologi Solusi|
-|5|171.6.75.179|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|6|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|7|190.61.43.121|999|Colombia|El Copey|Ufinet Panama S.A.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|103.164.214.122|8080|Indonesia|Surabaya|PT iForte Global Internet|
+|4|178.48.68.61|18080|Hungary|Budapest|UPC|
+|5|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|6|103.110.34.146|8089|Indonesia|Purwodadi Grobogan|PT RECONET SEMESTA INDONESIA|
+|7|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|8|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|171.240.116.220|5111|Vietnam|Hanoi|Viettel Corporation|
 |10|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|11|103.169.133.22|8085|Indonesia|Majalengka|PT Alfa Omega Interkoneksi|
-|12|72.10.164.178|19761|Canada|Montreal|GloboTech Communications|
-|13|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
-|14|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|15|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|16|67.43.227.230|9147|Canada|Montreal|GloboTech Communications|
-|17|222.127.248.78|8082|Philippines|Iloilo City|GLBB|
-|18|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|19|72.10.160.90|28639|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|25473|Canada|Montreal|GloboTech Communications|
+|11|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|116.254.99.14|8080|Indonesia|Jakarta|SpaceX Starlink|
+|13|124.120.108.176|8080|Thailand|Bangkok|TRUEBB|
+|14|200.215.229.3|999|Peru|Cusco|Gpon Networks S.A.C.|
+|15|119.18.149.147|5020|Bangladesh|Chittagong|BBTS Network|
+|16|188.132.222.24|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|19|168.227.40.71|9192|Brazil|Cabo de Santo Agostinho|Digitec Eletronica Ltda - ME|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
