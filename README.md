@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|5|103.83.80.67|8080|India|Indore|Syntego Technologies India Private Limited|
-|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|7|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|200.119.218.94|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|10|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|11|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
-|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|116.254.99.14|8080|Indonesia|Jakarta|SpaceX Starlink|
-|14|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
-|15|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|16|171.240.119.87|5111|Vietnam|Hanoi|Viettel Corporation|
-|17|67.43.227.227|3329|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|25161|Canada|Montreal|GloboTech Communications|
-|19|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|20|72.10.164.178|14031|Canada|Montreal|GloboTech Communications|
+|2|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|3|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|157.20.253.43|8989|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|8|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|9|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|10|203.104.34.144|3128|China|Guangzhou|Fuzhou|
+|11|36.95.12.154|8080|Indonesia|Padang|PT. Telekomunikasi Indonesia|
+|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|13|103.48.70.81|83|India|Hyderabad|Country Online Services PVT LTD|
+|14|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|103.125.160.178|83|India|Hyderabad|CtrlS|
+|16|222.129.139.112|9000|China|Beijing|China Unicom Beijing Province Network|
+|17|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|18|187.62.153.56|8088|Brazil|Oeiras|Megalink Internet|
+|19|72.10.160.90|25161|Canada|Montreal|GloboTech Communications|
+|20|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
 
 
 
