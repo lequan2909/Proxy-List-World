@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|2|27.64.48.10|5102|Vietnam|Ho Chi Minh City|Viettel Group|
-|3|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|203.104.34.144|3128|China|Guangzhou|Fuzhou|
-|6|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|7|72.10.164.178|16007|Canada|Montreal|GloboTech Communications|
-|8|67.43.227.226|12787|Canada|Montreal|GloboTech Communications|
-|9|187.188.16.28|999|Mexico|Xalapa|Total Play Telecomunicaciones SA De CV|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|4|171.228.160.17|10089|Vietnam|Hanoi|Viettel Corporation|
+|5|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|6|187.188.16.28|999|Mexico|Xalapa|Total Play Telecomunicaciones SA De CV|
+|7|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|8|67.43.227.226|8853|Canada|Montreal|GloboTech Communications|
+|9|171.240.117.26|5111|Vietnam|Hanoi|Viettel Corporation|
 |10|67.43.228.251|24249|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.250|4089|Canada|Montreal|GloboTech Communications|
-|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|67.43.227.227|15979|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|16007|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.229|2477|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|16007|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|15979|Canada|Montreal|GloboTech Communications|
-|18|36.95.12.154|8080|Indonesia|Padang|PT. Telekomunikasi Indonesia|
-|19|67.43.228.252|23747|Canada|Montreal|GloboTech Communications|
-|20|91.205.69.126|8080|Bosnia and Herzegovina|Gradačac|Telesat d.o.o.|
+|11|200.215.229.3|999|Peru|Cusco|Gpon Networks S.A.C.|
+|12|156.200.123.170|8080|Egypt|Cairo|TE Data|
+|13|121.239.40.158|8081|China|Nanjing|Chinanet|
+|14|67.43.228.250|22071|Canada|Montreal|GloboTech Communications|
+|15|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
+|16|67.43.227.227|14787|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|12937|Canada|Montreal|GloboTech Communications|
+|18|38.183.146.214|8090|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
+|19|103.191.254.2|8085|Indonesia|Jadi|PT Ayodya Data Internusa|
+|20|67.43.227.227|14787|Canada|Montreal|GloboTech Communications|
 
 
 
