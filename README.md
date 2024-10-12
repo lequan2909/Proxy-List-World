@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|103.176.97.223|3127|Indonesia|Karawang|PT Global Sarana Elektronika|
-|5|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|6|220.122.200.11|3128|South Korea|Gumi|Korea Telecom|
-|7|200.111.232.94|8080|Chile|Santiago|Entel Chile S.A.|
-|8|171.240.119.87|5111|Vietnam|Hanoi|Viettel Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|203.104.34.144|3128|China|Guangzhou|Fuzhou|
-|11|67.43.228.253|17223|Canada|Montreal|GloboTech Communications|
-|12|103.191.165.23|8181|Indonesia|Subang|PT Sakti Wijaya Network|
-|13|103.1.50.17|3125|Indonesia|Pasuruan|CPCNet Hong Kong Ltd. - IP Administrator|
-|14|67.43.227.227|7491|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|8205|Canada|Montreal|GloboTech Communications|
-|16|41.70.12.206|8080|Malawi|Lilongwe|MAREN-Infrastructure1|
-|17|203.104.34.144|3128|China|Guangzhou|Fuzhou|
-|18|67.43.236.20|5155|Canada|Montreal|GloboTech Communications|
-|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|20|203.192.199.158|8080|India|Ponda|Entire In2Cable|
+|4|31.207.47.56|8118|The Netherlands|Amsterdam|Hostkey B.V.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|8|103.181.168.202|8080|India|Madurai|Mrkr Communications Private Limited|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|222.129.139.112|9000|China|Beijing|China Unicom Beijing Province Network|
+|11|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|38.253.88.242|999|United States|Miami|LAUAM MEGARED TELECOM, S.R.L.|
+|13|187.1.16.36|92|Brazil|Birigui|FIT Telecom Eireli|
+|14|67.43.228.253|9105|Canada|Montreal|GloboTech Communications|
+|15|31.129.33.101|3128|Russia|St Petersburg|JSC Selectel|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|67.43.227.226|29377|Canada|Montreal|GloboTech Communications|
+|18|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
+|19|72.10.160.92|25519|Canada|Montreal|GloboTech Communications|
+|20|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
 
 
 
