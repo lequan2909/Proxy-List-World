@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5369** proxies at the latest update. Usable proxies are below.
+> Scraper found **5442** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|281|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|522|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|595|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|384|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3224|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|4|47.88.85.102|443|United States|Minkler|Alibaba.com LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|8|38.156.73.204|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|10|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|116.80.82.213|3128|Japan|Shimomeguro|InfoSphere|
-|12|38.253.88.242|999|United States|Miami|LAUAM MEGARED TELECOM, S.R.L.|
-|13|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|14|200.215.229.3|999|Peru|Cusco|Gpon Networks S.A.C.|
-|15|45.238.118.156|27234|Brazil|Monte Mor|AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA|
-|16|204.199.174.77|999|Peru|Lima region|Fiberred Sociedad Anonima Cerrada|
-|17|72.10.160.92|24739|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|15109|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|10121|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.173|23607|Canada|Montreal|GloboTech Communications|
+|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|3|103.105.76.100|8080|Indonesia|Kediri|GARUDA|
+|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|5|36.67.7.74|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|6|54.153.62.219|3128|United States|San Jose|Amazon.com, Inc.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|67.43.228.252|31863|Canada|Montreal|GloboTech Communications|
+|9|185.55.70.230|80|Germany|Cologne|PlusServer GmbH|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|72.10.160.170|7345|Canada|Montreal|GloboTech Communications|
+|15|45.249.122.198|8080|India|Coimbatore|Airconnect Services|
+|16|103.199.117.120|8080|Indonesia|Semarang|PT Hepra Teknologi Indonesia|
+|17|67.43.227.227|22307|Canada|Montreal|GloboTech Communications|
+|18|49.148.43.177|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|19|72.10.164.178|1259|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|1259|Canada|Montreal|GloboTech Communications|
 
 
 
