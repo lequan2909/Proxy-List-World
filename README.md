@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5289** proxies at the latest update. Usable proxies are below.
+> Scraper found **5280** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|261|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|494|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|264|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|482|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|355|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3221|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|6|35.240.131.226|3128|Singapore|Singapore|Google LLC|
-|7|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|204.157.185.3|999|Peru|Palpa|Signal Peru S.A.C|
-|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|10|46.166.165.33|4002|Lithuania|Šiauliai|Cherry Servers|
-|11|51.159.159.73|80|France|Paris|SCALEWAY|
-|12|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|13|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|14|124.120.108.176|8080|Thailand|Bangkok|TRUEBB|
-|15|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|16|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|17|67.43.228.253|2007|Canada|Montreal|GloboTech Communications|
-|18|222.127.248.78|8082|Philippines|Iloilo City|GLBB|
-|19|171.7.33.70|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|20|181.129.97.34|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|4|178.48.68.61|18080|Hungary|Budapest|UPC|
+|5|23.19.73.223|3128|United States|Los Angeles|Leaseweb USA, Inc.|
+|6|85.175.5.50|3128|Russia|Krasnodar|Southen Telecommunication Maintainer|
+|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|8|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|9|171.224.88.80|10059|Vietnam|Hanoi|Viettel Corporation|
+|10|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|103.173.138.226|1111|Indonesia|Banjarnegara|PT Serayu Multi Connection|
+|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|13|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|15|27.64.48.10|5102|Vietnam|Ho Chi Minh City|Viettel Group|
+|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.164.178|2787|Canada|Montreal|GloboTech Communications|
 
 
 
