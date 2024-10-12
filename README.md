@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|2.187.233.168|8080|Iran|Urmia|Iran Telecommunication Company PJS|
-|3|121.159.11.171|3128|South Korea|Gimcheon|Korea Telecom|
-|4|178.218.43.60|4411|Russia|Rybinsk|ATEXS PLUS Ltd.|
-|5|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|2|116.111.27.136|5103|Vietnam|Hanoi|Viettel Corporation|
+|3|103.147.73.50|7777|Indonesia|Kediri|ALFATINDO|
+|4|2.187.233.168|8080|Iran|Urmia|Iran Telecommunication Company PJS|
+|5|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
 |6|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|7|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|11|72.10.160.91|21807|Canada|Montreal|GloboTech Communications|
-|12|139.178.67.134|10068|United States|Parsippany|Packet Host, Inc.|
-|13|67.43.236.20|20221|Canada|Montreal|GloboTech Communications|
-|14|206.42.28.150|8800|Brazil|Parnamirim|Brisanet Prestacao De Servicos De Internet Ltda|
-|15|72.10.164.178|13661|Canada|Montreal|GloboTech Communications|
-|16|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|17|119.47.90.240|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|18|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|19|72.10.160.90|29987|Canada|Montreal|GloboTech Communications|
-|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|7|203.104.34.144|3128|China|Guangzhou|Fuzhou|
+|8|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|67.43.227.226|3129|Canada|Montreal|GloboTech Communications|
+|10|103.239.253.118|58080|Bangladesh|Dhaka|Carnival Internet|
+|11|15.235.12.19|3128|Canada|Montreal|OVH SAS|
+|12|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|13|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|14|36.67.7.74|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|15|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|16|67.43.227.230|10485|Canada|Montreal|GloboTech Communications|
+|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|18|103.105.76.100|8080|Indonesia|Kediri|GARUDA|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|162.240.154.26|3128|United States|Provo|Unified Layer|
 
 
 
