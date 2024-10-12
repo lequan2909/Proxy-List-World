@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|144.86.187.40|3129|United States|Malden|Charles River Operation|
-|5|1.1.189.58|8080|Thailand|Bangkok|TOT Public Company Limited|
-|6|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|34.97.57.4|8561|Japan|Osaka|Google LLC|
-|9|188.132.222.49|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|10|187.102.238.49|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
-|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|144.86.187.51|3129|United States|Malden|Charles River Operation|
-|13|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
-|14|212.110.188.202|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|15|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|16|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|36.95.78.156|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|19|34.92.88.81|33333|Hong Kong|Hong Kong|Google LLC|
-|20|51.159.159.73|80|France|Paris|SCALEWAY|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|34.97.42.111|8561|Japan|Osaka|Google LLC|
+|5|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|6|144.86.187.46|3129|United States|Malden|Charles River Operation|
+|7|34.97.67.132|8561|Japan|Osaka|Google LLC|
+|8|34.97.78.175|8561|Japan|Osaka|Google LLC|
+|9|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|10|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
+|11|34.97.11.208|8561|Japan|Osaka|Google LLC|
+|12|195.25.20.155|3128|France|Paris|Orange Business Services|
+|13|144.86.187.57|3129|United States|Malden|Charles River Operation|
+|14|34.97.27.41|8561|Japan|Osaka|Google LLC|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|17|209.14.84.51|8888|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|18|34.97.52.66|8561|Japan|Osaka|Google LLC|
+|19|34.97.46.98|8561|Japan|Osaka|Google LLC|
+|20|34.97.57.4|8561|Japan|Osaka|Google LLC|
 
 
 
