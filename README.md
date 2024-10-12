@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|4|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|3|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|4|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
 |5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|187.102.222.177|32650|Brazil|São Pedro do Suaçuí|Masternet Telecomunicacao Ltda|
-|7|38.253.88.242|999|United States|Miami|LAUAM MEGARED TELECOM, S.R.L.|
-|8|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|9|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|10|178.128.99.90|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|41.139.197.131|8080|Kenya|Nairobi|Converged services Western|
-|12|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|13|222.129.139.112|9000|China|Beijing|China Unicom Beijing Province Network|
-|14|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|193.233.84.113|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
-|17|103.46.11.82|8080|Indonesia|Malang|Lintas Data Prima, PT|
-|18|103.40.121.31|8087|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
-|19|72.10.160.92|17443|Canada|Montreal|GloboTech Communications|
-|20|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|176.9.238.176|16379|Germany|Falkenstein|Hetzner|
+|8|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|9|67.43.228.250|28211|Canada|Montreal|GloboTech Communications|
+|10|128.92.239.190|8080|United States|Los Angeles|Spectrum|
+|11|27.64.48.10|5102|Vietnam|Ho Chi Minh City|Viettel Group|
+|12|222.129.139.112|9000|China|Beijing|China Unicom Beijing Province Network|
+|13|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|116.80.82.213|3128|Japan|Shimomeguro|InfoSphere|
+|15|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|16|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|67.43.227.227|32647|Canada|Montreal|GloboTech Communications|
+|19|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|20|185.89.156.2|44224|Albania|Elbasan|ATU|
 
 
 
