@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.105.28.52|10057|Vietnam|Da Nang|Viettel Corporation|
-|3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|34.97.72.201|8561|Japan|Osaka|Google LLC|
-|6|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|7|61.7.191.148|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
-|8|51.159.159.73|80|France|Paris|SCALEWAY|
-|9|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
-|10|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|2|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|3|116.105.28.52|10057|Vietnam|Da Nang|Viettel Corporation|
+|4|113.165.84.121|4001|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|27.73.165.224|5106|Vietnam|Hanoi|Viettel Group|
+|6|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|7|144.86.187.40|3129|United States|Malden|Charles River Operation|
+|8|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|10|144.86.187.50|3129|United States|Malden|Charles River Operation|
 |11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|185.89.156.2|44224|Albania|Elbasan|ATU|
-|13|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|14|198.24.188.142|54793|United States|Ashburn|Secured Servers LLC|
-|15|72.10.164.178|5221|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.18|31927|Canada|Montreal|GloboTech Communications|
+|12|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|13|182.53.50.2|3128|Thailand|Bangkok|TOT Public Company Limited|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
+|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |17|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|18|116.80.82.213|3128|Japan|Shimomeguro|InfoSphere|
-|19|181.114.61.17|8085|Argentina|San Nicolás de los Arroyos|INTERAIR|
-|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|67.43.236.18|27829|Canada|Montreal|GloboTech Communications|
+|20|31.211.82.232|3128|Russia|Tomsk|OOO NETCOM|
 
 
 
