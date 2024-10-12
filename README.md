@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|128.199.63.6|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|6|139.255.213.58|8080|Indonesia|Jakarta|PT. First Media, Tbk|
-|7|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|9|51.159.159.73|80|France|Paris|SCALEWAY|
-|10|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|11|122.152.55.61|8080|Bangladesh|Chittagong|Innovative Online Ltd|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
-|14|34.44.255.57|3128|United States|Council Bluffs|Google LLC|
-|15|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|16|106.227.95.142|3129|China|Taohua|China Telecom|
-|17|72.10.160.93|2431|Canada|Montreal|GloboTech Communications|
-|18|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|19|72.10.164.178|13219|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|16531|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|31.207.47.56|8118|The Netherlands|Amsterdam|Hostkey B.V.|
+|9|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|11|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|12|185.133.213.86|8074|Myanmar|Yangon|Global Technology Co|
+|13|51.159.159.73|80|France|Paris|SCALEWAY|
+|14|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
+|15|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|103.127.220.130|8080|Indonesia|Lamongan|PT Multi Guna Sinergi|
 
 
 
