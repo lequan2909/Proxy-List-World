@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
+|1|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|38.99.101.101|3128|United States|San Jose|Cogent Communications|
 |4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|6|31.207.47.56|8118|The Netherlands|Amsterdam|Hostkey B.V.|
-|7|51.158.173.222|3128|France|Paris|Online S.A.S.|
-|8|178.48.68.61|18080|Hungary|Budapest|UPC|
-|9|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|10|175.100.91.212|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|11|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|12|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|13|181.129.97.34|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|14|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|15|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|16|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
-|17|72.128.133.154|16099|United States|Mission|Charter Communications|
-|18|91.107.165.250|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
-|19|51.158.173.222|3128|France|Paris|Online S.A.S.|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|31.207.47.56|8118|The Netherlands|Amsterdam|Hostkey B.V.|
+|6|51.158.173.222|3128|France|Paris|Online S.A.S.|
+|7|181.129.97.34|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|8|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|11|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|12|121.239.40.158|8081|China|Nanjing|Chinanet|
+|13|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|14|103.105.76.100|8080|Indonesia|Kediri|GARUDA|
+|15|91.107.165.250|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|51.158.173.222|3128|France|Paris|Online S.A.S.|
+|17|67.43.227.227|14745|Canada|Montreal|GloboTech Communications|
+|18|183.88.241.167|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|19|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|20|103.36.10.200|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
 
 
 
