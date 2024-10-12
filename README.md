@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|5|103.118.175.42|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|6|203.104.34.144|3128|China|Guangzhou|Fuzhou|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|11|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|12|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|13|67.43.227.229|18121|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|12159|Canada|Montreal|GloboTech Communications|
-|15|119.18.149.147|5020|Bangladesh|Chittagong|BBTS Network|
-|16|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|67.43.236.19|21231|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.252|31863|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|12159|Canada|Montreal|GloboTech Communications|
-|20|200.24.152.210|999|Ecuador|Tosagua|Negocios Y Telefonia Nedetel S.A|
+|2|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|6|31.207.47.56|8118|The Netherlands|Amsterdam|Hostkey B.V.|
+|7|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|9|45.71.3.50|999|Ecuador|La Troncal|Sysnovelltel S.A|
+|10|94.23.204.27|3128|France|Roubaix|OVH SAS|
+|11|103.181.168.202|8080|India|Madurai|Mrkr Communications Private Limited|
+|12|103.1.50.17|3125|Indonesia|Pasuruan|CPCNet Hong Kong Ltd. - IP Administrator|
+|13|92.59.50.139|3128|Spain|Madrid|Uni2 XDSL customers YIF|
+|14|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|17|37.52.15.70|8080|Ukraine|Kyiv|UKRTELECOM|
+|18|67.43.227.227|22307|Canada|Montreal|GloboTech Communications|
+|19|36.93.204.241|8080|Indonesia|Bogor|Telekomunikasi Indonesia|
+|20|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
