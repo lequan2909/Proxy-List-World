@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|9|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|11|34.97.65.59|8561|Japan|Osaka|Google LLC|
-|12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|85.172.15.98|8083|Russia|Krasnodar|Southen Telecommunication Maintainer|
-|14|80.240.55.242|3128|Russia|Yeysk|inetnum UGTEL|
-|15|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
-|16|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|9|36.67.99.31|7023|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|10|36.93.130.218|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|13|103.69.20.100|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|14|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|15|34.97.72.201|8561|Japan|Osaka|Google LLC|
+|16|1.179.231.130|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|17|103.88.113.202|8080|Vietnam|Hanoi|HTCITC|
+|18|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|20|122.54.100.121|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
 
 
 
