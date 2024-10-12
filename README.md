@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|3|60.49.152.31|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|4|171.240.119.87|5111|Vietnam|Hanoi|Viettel Corporation|
-|5|103.239.253.66|8080|Bangladesh|Dhaka|Carnival Internet|
-|6|149.154.157.17|12345|Italy|Milan|M247 Europe SRL|
-|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|183.88.241.167|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|9|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|11|27.64.48.10|5102|Vietnam|Ho Chi Minh City|Viettel Group|
-|12|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|15|156.200.123.170|8080|Egypt|Cairo|TE Data|
-|16|203.104.34.144|3128|China|Guangzhou|Fuzhou|
-|17|67.43.227.227|33199|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|11047|Canada|Montreal|GloboTech Communications|
-|19|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|20|67.43.228.250|32813|Canada|Montreal|GloboTech Communications|
+|1|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|4|222.109.192.34|8080|South Korea|Seoul|Korea Telecom|
+|5|15.235.12.19|3128|Canada|Montreal|OVH SAS|
+|6|36.91.135.141|40|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|190.193.142.156|3128|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|9|129.146.226.84|3128|United States|Phoenix|Oracle Corporation|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|11|159.192.138.170|8080|Thailand|Bang Rak|CAT-BB|
+|12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
+|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|103.156.16.227|8080|Indonesia|Jakarta|RSTNET|
+|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
