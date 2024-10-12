@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|3|161.34.34.169|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|103.76.149.198|8082|Indonesia|Jakarta|PT. Java Digital Nusantara|
-|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|6|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|7|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|8|103.1.50.17|3125|Indonesia|Pasuruan|CPCNet Hong Kong Ltd. - IP Administrator|
-|9|204.157.185.3|999|Peru|Palpa|Signal Peru S.A.C|
-|10|46.209.15.187|8080|Iran|Tehran|ADSL Service in Kermanshah|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|31.207.47.56|8118|The Netherlands|Amsterdam|Hostkey B.V.|
+|4|157.20.253.43|8989|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|103.247.23.65|2022|Indonesia|Cileungsir|PT wifian Solution|
+|8|38.253.88.242|999|United States|Miami|LAUAM MEGARED TELECOM, S.R.L.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|222.127.51.132|8082|Philippines|Lahug|INNOVE|
 |11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|38.156.73.204|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|103.46.11.82|8080|Indonesia|Malang|Lintas Data Prima, PT|
 |13|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|103.226.232.206|3125|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
-|15|190.92.151.66|9021|United States|Phoenix|A2 Hosting, Inc.|
-|16|67.43.236.19|1233|Canada|Montreal|GloboTech Communications|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|67.43.227.227|3329|Canada|Montreal|GloboTech Communications|
-|19|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|20|67.43.228.251|17937|Canada|Montreal|GloboTech Communications|
+|14|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|185.44.26.217|43097|Spain|Pozo Estrecho|Electronica Martinez de Cartagena S.L.|
+|16|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|17|67.43.228.250|11097|Canada|Montreal|GloboTech Communications|
+|18|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|19|72.10.160.90|8445|Canada|Montreal|GloboTech Communications|
+|20|156.200.123.170|8080|Egypt|Cairo|TE Data|
 
 
 
