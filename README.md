@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|1|222.109.192.34|8080|South Korea|Seoul|Korea Telecom|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|15.235.12.19|3128|Canada|Montreal|OVH SAS|
-|4|202.57.25.62|1111|Indonesia|Semarang|announced of WINET|
-|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|190.193.142.156|3128|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|7|145.40.97.148|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|8|67.43.227.226|8849|Canada|Montreal|GloboTech Communications|
-|9|27.72.140.21|10087|Vietnam|Hanoi|Newass2011xDSLHN|
-|10|181.114.61.17|8085|Argentina|San Nicolás de los Arroyos|INTERAIR|
-|11|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|12|103.159.195.29|8080|Indonesia|Kudus|PT Giga Digital Nusantara|
-|13|72.10.160.90|28161|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|2979|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|9071|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|2979|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|3901|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|6605|Canada|Montreal|GloboTech Communications|
-|19|27.64.48.10|5102|Vietnam|Ho Chi Minh City|Viettel Group|
-|20|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|45.70.203.107|999|Ecuador|Quito|Ufinet Panama S.A.|
+|6|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|7|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|8|200.215.229.3|999|Peru|Cusco|Gpon Networks S.A.C.|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|11|38.137.203.13|999|Peru|Lima|Internet Services Perú|
+|12|182.53.50.2|3128|Thailand|Bangkok|TOT Public Company Limited|
+|13|119.18.149.9|5020|Bangladesh|Chittagong|BBTS Network|
+|14|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|15|1.10.227.16|8080|Thailand|Damnoen Saduak|TOT Public Company Limited|
+|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|17|103.191.165.23|8181|Indonesia|Subang|PT Sakti Wijaya Network|
+|18|200.76.42.203|999|Mexico|Ciudad de Villa de Álvarez|Alestra, S. de R.L. de C.V.|
+|19|67.43.227.227|17131|Canada|Montreal|GloboTech Communications|
+|20|42.3.187.52|8080|Hong Kong|Kwu Tung|Hong Kong Telecommunications (HKT) Limited Mass Internet|
 
 
 
