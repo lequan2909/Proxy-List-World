@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.99.27.3|8181|Indonesia|Tangerang|PT Lintas Network Solusi|
-|3|189.201.153.90|999|Mexico|Tuxtla Gutiérrez|IP Matrix, S.A. de C.V.|
-|4|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|5|103.69.20.52|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|6|103.168.254.162|8086|Indonesia|Kudus|PT Fahasa Tri Data|
-|7|182.53.50.2|3128|Thailand|Bangkok|TOT Public Company Limited|
-|8|119.92.75.48|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|10|67.43.228.253|30731|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|14507|Canada|Montreal|GloboTech Communications|
-|12|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
-|13|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|103.191.165.23|8181|Indonesia|Subang|PT Sakti Wijaya Network|
-|15|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|16|103.247.23.65|2022|Indonesia|Cileungsir|PT wifian Solution|
-|17|72.10.160.93|2373|Canada|Montreal|GloboTech Communications|
-|18|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|2|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|101.109.51.220|8080|Thailand|Pattaya|TOT Public Company Limited|
+|5|193.233.84.94|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
+|6|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|8|61.129.2.212|8080|China|Beijing|CHINANET|
+|9|72.10.164.178|10833|Canada|Montreal|GloboTech Communications|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|72.10.160.170|20055|Canada|Montreal|GloboTech Communications|
+|12|67.43.228.253|25359|Canada|Montreal|GloboTech Communications|
+|13|103.87.148.40|1111|Indonesia|Demak|Lintas Data Prima, PT|
+|14|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|15|114.130.154.130|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|16|198.24.188.138|35999|United States|Ashburn|Secured Servers LLC|
+|17|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|18|171.7.33.70|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
 |19|72.10.160.171|18323|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.94|28515|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
