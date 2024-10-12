@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5498** proxies at the latest update. Usable proxies are below.
+> Scraper found **5486** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|290|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|573|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|561|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|463|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3214|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|31.207.47.56|8118|The Netherlands|Amsterdam|Hostkey B.V.|
-|4|157.20.253.43|8989|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|7|103.247.23.65|2022|Indonesia|Cileungsir|PT wifian Solution|
-|8|38.253.88.242|999|United States|Miami|LAUAM MEGARED TELECOM, S.R.L.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|222.127.51.132|8082|Philippines|Lahug|INNOVE|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|103.46.11.82|8080|Indonesia|Malang|Lintas Data Prima, PT|
-|13|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|185.44.26.217|43097|Spain|Pozo Estrecho|Electronica Martinez de Cartagena S.L.|
-|16|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|17|67.43.228.250|11097|Canada|Montreal|GloboTech Communications|
-|18|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|19|72.10.160.90|8445|Canada|Montreal|GloboTech Communications|
-|20|156.200.123.170|8080|Egypt|Cairo|TE Data|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|4|31.207.47.56|8118|The Netherlands|Amsterdam|Hostkey B.V.|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|8|203.104.34.144|3128|China|Guangzhou|Fuzhou|
+|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|10|41.139.197.131|8080|Kenya|Nairobi|Converged services Western|
+|11|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|67.43.228.250|11097|Canada|Montreal|GloboTech Communications|
+|13|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|61.129.2.212|8080|China|Beijing|CHINANET|
+|15|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|16|72.10.164.178|1729|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|1729|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.228|19513|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|72.10.160.92|14219|Canada|Montreal|GloboTech Communications|
 
 
 
