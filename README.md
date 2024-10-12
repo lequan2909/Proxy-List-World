@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|3|157.100.53.103|999|Ecuador|Machala|Ufinet Panama S.A.|
-|4|103.40.121.31|8087|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|67.43.227.228|1753|Canada|Montreal|GloboTech Communications|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|67.43.236.20|4595|Canada|Montreal|GloboTech Communications|
-|12|103.158.253.29|8382|Indonesia|Dukuhturi|Rapid Network|
-|13|67.43.228.253|2973|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|2973|Canada|Montreal|GloboTech Communications|
-|15|177.221.44.89|49999|Brazil|Jaboatão dos Guararapes|1telecom Servicos De Tecnologia EM Internet Ltda|
-|16|115.77.20.123|2024|Vietnam|Ho Chi Minh City|Viettel Group|
-|17|72.10.164.178|29953|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|2973|Canada|Montreal|GloboTech Communications|
-|19|45.133.107.64|81|Russia|Tul'skiy|Art-net LLC|
-|20|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|2|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
+|3|222.109.192.34|8080|South Korea|Seoul|Korea Telecom|
+|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|5|36.88.125.36|8080|Indonesia|Sumedang|PT. Telekomunikasi Indonesia|
+|6|103.93.93.220|3127|Indonesia|Gresik|MYRISE|
+|7|191.102.254.54|8085|Argentina|Rosario|IP·RED|
+|8|170.81.77.132|2222|Brazil|João Pessoa|Sigtel Servicos De Telecomunicacoes Ltda|
+|9|86.101.159.145|18080|Hungary|Budapest|Vodafone Hungary Ltd.|
+|10|103.105.76.100|8080|Indonesia|Kediri|GARUDA|
+|11|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|14|103.46.11.82|8080|Indonesia|Malang|Lintas Data Prima, PT|
+|15|114.130.154.130|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|16|222.127.55.155|8083|Philippines|Lahug|INNOVE|
+|17|177.234.211.63|999|Ecuador|Guayaquil|VUELATECHNOLOGY|
+|18|5.104.83.232|8090|Japan|Tokyo|Contabo Asia Private Limited|
+|19|90.161.186.147|3128|Spain|Calella|Uni2|
+|20|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
 
 
 
