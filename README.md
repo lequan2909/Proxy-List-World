@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
 |3|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|6|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|7|190.92.151.66|9021|United States|Phoenix|A2 Hosting, Inc.|
-|8|144.86.187.59|3129|United States|Malden|Charles River Operation|
-|9|103.179.84.117|8080|Indonesia|Boyolali|PT CYB Media Group|
-|10|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|11|101.109.143.181|8080|Thailand|Bangkok|TOT Public Company Limited|
-|12|36.67.99.31|7023|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|13|176.37.21.46|41890|Ukraine|Kyiv|Lanet Network|
-|14|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|15|119.47.90.240|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|17|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|18|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|45.133.107.64|81|Russia|Tul'skiy|Art-net LLC|
-|20|51.159.159.73|80|France|Paris|SCALEWAY|
+|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|5|125.26.99.41|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|6|103.69.20.100|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|36.93.130.218|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|9|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|10|212.252.73.29|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|11|177.73.68.150|8080|Brazil|Brasília|OPENTEL Comércio e Serviços Ltda|
+|12|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|13|144.86.187.59|3129|United States|Malden|Charles River Operation|
+|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|15|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|16|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|17|203.150.113.90|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|18|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|19|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 
 
 
