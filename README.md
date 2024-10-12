@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|7|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|8|72.10.164.178|6613|Canada|Montreal|GloboTech Communications|
-|9|198.24.188.138|37100|United States|Ashburn|Secured Servers LLC|
-|10|72.10.164.178|6613|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|26111|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|24741|Canada|Montreal|GloboTech Communications|
-|13|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|14|61.129.2.212|8080|China|Beijing|CHINANET|
-|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|72.10.160.90|26111|Canada|Montreal|GloboTech Communications|
-|19|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|182.53.50.2|3128|Thailand|Bangkok|TOT Public Company Limited|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|6|180.211.162.146|8080|Bangladesh|Kāfrul|Bangladesh Telegraph & Telephone Board|
+|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|9|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|10|187.188.16.28|999|Mexico|Xalapa|Total Play Telecomunicaciones SA De CV|
+|11|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|12|27.64.48.10|5102|Vietnam|Ho Chi Minh City|Viettel Group|
+|13|200.215.229.3|999|Peru|Cusco|Gpon Networks S.A.C.|
+|14|191.102.107.237|999|Colombia|Quibdó|TV AZTECA SUCURSAL COLOMBIA|
+|15|72.10.164.178|23219|Canada|Montreal|GloboTech Communications|
+|16|198.24.188.138|35999|United States|Ashburn|Secured Servers LLC|
+|17|72.10.164.178|23219|Canada|Montreal|GloboTech Communications|
+|18|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
 
 
 
