@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|34.97.65.59|8561|Japan|Osaka|Google LLC|
-|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|6|222.109.192.34|8080|South Korea|Seoul|Korea Telecom|
-|7|31.207.47.56|8118|The Netherlands|Amsterdam|Hostkey B.V.|
-|8|190.119.90.114|8080|Peru|La Victoria|America Movil Peru S.A.C.|
-|9|34.97.57.4|8561|Japan|Osaka|Google LLC|
-|10|144.86.187.59|3129|United States|Malden|Charles River Operation|
-|11|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|12|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|13|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|14|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|15|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|16|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|17|144.86.187.60|3129|United States|Malden|Charles River Operation|
-|18|38.156.72.45|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|185.138.120.109|8080|Iraq|Baghdad|Horizon ISP|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|144.86.187.45|3129|United States|Malden|Charles River Operation|
+|5|103.164.213.78|8088|Indonesia|Surabaya|PT iForte Global Internet|
+|6|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|7|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|8|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|9|116.80.60.128|3128|Japan|Tokyo|InfoSphere|
+|10|186.65.104.52|2020|Brazil|Salvador|Bahiadados Telecom Ltda.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|13|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|14|67.43.236.20|32531|Canada|Montreal|GloboTech Communications|
+|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|16|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
+|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|19|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
