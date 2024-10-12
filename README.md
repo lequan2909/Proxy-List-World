@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
-|3|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|34.97.61.13|8561|Japan|Osaka|Google LLC|
 |4|31.207.47.56|8118|The Netherlands|Amsterdam|Hostkey B.V.|
-|5|171.236.112.81|5103|Vietnam|Hanoi|Viettel Corporation|
-|6|51.158.173.222|3128|France|Paris|Online S.A.S.|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|9|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|10|65.109.207.204|3128|Finland|Helsinki|Hetzner Online GmbH|
-|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|13|62.171.161.88|2018|Germany|Nuremberg|Contabo GmbH|
-|14|34.97.149.89|8561|Japan|Osaka|Google LLC|
-|15|181.114.61.17|8085|Argentina|San Nicolás de los Arroyos|INTERAIR|
+|5|110.78.186.213|8080|Thailand|Pattaya|CAT-BB|
+|6|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|7|65.109.207.204|3128|Finland|Helsinki|Hetzner Online GmbH|
+|8|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|12|65.109.207.204|3128|Finland|Helsinki|Hetzner Online GmbH|
+|13|103.67.237.211|3128|India|Hyderabad|OASISGSSERVICES|
+|14|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|15|202.154.18.69|8081|Indonesia|Jombang|DIGITNET|
 |16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|17|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|18|104.37.102.130|8181|United States|Attica|ALTIUS Broadband, LLC|
-|19|36.93.32.137|8080|Indonesia|Tangerang|Telekomunikasi Indonesia|
-|20|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|17|178.218.43.60|4411|Russia|Rybinsk|ATEXS PLUS Ltd.|
+|18|67.43.227.228|27093|Canada|Montreal|GloboTech Communications|
+|19|91.107.165.250|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
