@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|144.86.187.44|3129|United States|Malden|Charles River Operation|
-|6|144.86.187.43|3129|United States|Malden|Charles River Operation|
+|1|34.97.57.4|8561|Japan|Osaka|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|128.199.63.6|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|4|112.165.9.185|3128|South Korea|Seongnam-si|Korea Telecom|
+|5|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|6|82.64.186.155|8080|France|Paris|Proxad / Free SAS|
 |7|103.31.235.102|8080|Indonesia|Ciampea|PT Usaha Adi Sanggoro|
-|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|9|175.100.98.190|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|11|51.195.200.115|31280|United Kingdom|Edmonton|OVH SAS|
-|12|144.86.187.43|3129|United States|Malden|Charles River Operation|
-|13|83.148.75.16|3128|Bulgaria|Sofia|BTC-Broadband|
-|14|103.154.90.190|8080|Indonesia|Jakarta|MORATELINDONAP|
-|15|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|16|175.137.10.254|8081|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|17|115.72.169.42|10005|Vietnam|Thành Phố Bà Rịa|VIETELmetro|
-|18|82.64.186.155|8080|France|Paris|Proxad / Free SAS|
-|19|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|20|202.137.134.160|8088|Laos|Vientiane|Lao Telecommunication Co Ltd|
+|8|103.156.75.41|8181|Indonesia|Gianyar|PT Trika Global Media|
+|9|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|10|103.1.50.17|3125|Indonesia|Pasuruan|CPCNet Hong Kong Ltd. - IP Administrator|
+|11|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|13|187.1.16.36|92|Brazil|Birigui|FIT Telecom Eireli|
+|14|115.178.49.181|8080|Indonesia|Bandung|NOC SIMAYA|
+|15|142.215.53.8|8118|United States|Ashburn|Equinix (EMEA) Acquisition Enterprises B.V.|
+|16|36.93.22.154|8080|Indonesia|Bekasi|Telekomunikasi Indonesia|
+|17|103.226.232.206|3125|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
+|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|19|51.159.159.73|80|France|Paris|SCALEWAY|
+|20|189.195.139.178|999|Mexico|Tangancícuaro de Arista|Mega Cable, S.A. de C.V.|
 
 
 
