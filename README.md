@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|178.48.68.61|18080|Hungary|Budapest|UPC|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|7|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|121.239.40.158|8081|China|Nanjing|Chinanet|
-|9|67.43.236.22|31639|Canada|Montreal|GloboTech Communications|
-|10|222.129.139.112|9000|China|Beijing|China Unicom Beijing Province Network|
-|11|67.43.236.20|12443|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|29691|Canada|Montreal|GloboTech Communications|
-|13|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|14|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|67.43.228.253|31435|Canada|Montreal|GloboTech Communications|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|18|61.129.2.212|8080|China|Beijing|CHINANET|
-|19|103.36.10.200|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|20|72.10.160.91|8721|Canada|Montreal|GloboTech Communications|
+|2|178.48.68.61|18080|Hungary|Budapest|UPC|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|6|195.191.158.172|80|Russia|Ramenskoye|Intelsc Ltd.|
+|7|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
+|8|200.24.152.210|999|Ecuador|Tosagua|Negocios Y Telefonia Nedetel S.A|
+|9|103.36.10.200|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|10|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|11|72.10.160.94|14933|Canada|Montreal|GloboTech Communications|
+|12|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|13|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|72.10.160.90|12911|Canada|Montreal|GloboTech Communications|
+|15|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|67.43.227.230|9277|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.251|8597|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|7965|Canada|Montreal|GloboTech Communications|
+|19|182.140.146.149|3128|China|Muping|CHINANET SiChuan Telecom Internet Data Center|
+|20|67.43.227.226|32235|Canada|Montreal|GloboTech Communications|
 
 
 
