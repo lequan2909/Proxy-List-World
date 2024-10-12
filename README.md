@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|14.245.247.137|5006|Vietnam|Da Nang|VNPT|
-|3|103.217.224.82|8080|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|4|123.200.14.194|8080|Bangladesh|Khulna|Link3 Technologies Limited|
-|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|6|34.97.57.4|8561|Japan|Osaka|Google LLC|
-|7|103.101.216.2|8080|Indonesia|Sungaibamban|PT Duta Trans Nusantara Network|
-|8|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
-|9|154.55.228.114|3128|Hong Kong|Hong Kong|HONG KONG Megalayer Technology Co., Limited|
-|10|200.24.152.210|999|Ecuador|Tosagua|Negocios Y Telefonia Nedetel S.A|
-|11|122.54.100.121|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|12|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|13|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|31.129.33.101|3128|Russia|St Petersburg|JSC Selectel|
-|16|47.88.85.102|443|United States|Minkler|Alibaba.com LLC|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|72.10.164.178|13061|Canada|Montreal|GloboTech Communications|
-|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|198.24.188.138|38250|United States|Ashburn|Secured Servers LLC|
+|1|101.109.51.220|8080|Thailand|Pattaya|TOT Public Company Limited|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|117.5.96.144|5110|Vietnam|Bắc Giang|VIETTEL|
+|4|154.55.228.114|3128|Hong Kong|Hong Kong|HONG KONG Megalayer Technology Co., Limited|
+|5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|6|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|8|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|10|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|72.10.164.178|4689|Canada|Montreal|GloboTech Communications|
+|16|198.24.188.138|38250|United States|Ashburn|Secured Servers LLC|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|192.145.205.97|8080|Brazil|Francisco Sá|Vianet Guaraciama Eireli ME|
+|19|119.40.98.29|20|Mongolia|Ulan Bator|Topica Co., Ltd|
+|20|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
