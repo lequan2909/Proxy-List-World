@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|178.48.68.61|18080|Hungary|Budapest|UPC|
-|3|203.192.199.158|8080|India|Ponda|Entire In2Cable|
-|4|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|5|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|6|72.10.160.90|31123|Canada|Montreal|GloboTech Communications|
-|7|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|8|162.240.154.26|3128|United States|Provo|Unified Layer|
-|9|181.114.61.17|8085|Argentina|San Nicolás de los Arroyos|INTERAIR|
-|10|103.48.71.6|83|India|Hyderabad|Country Online Services PVT LTD|
-|11|51.158.173.222|3128|France|Paris|Online S.A.S.|
-|12|67.43.228.251|2975|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.254|13265|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.254|13265|Canada|Montreal|GloboTech Communications|
-|15|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|16|67.43.228.253|3193|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|10603|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|10603|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|31123|Canada|Montreal|GloboTech Communications|
-|20|103.239.255.36|58080|Bangladesh|Dhaka|Carnival Internet|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|178.48.68.61|18080|Hungary|Budapest|UPC|
+|4|191.241.184.61|40033|Brazil|Nossa Senhora da Glória|NetGloria Telecom|
+|5|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|6|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|7|171.240.119.87|5111|Vietnam|Hanoi|Viettel Corporation|
+|8|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|10|192.99.169.19|8450|Canada|Beauharnois|OVH SAS|
+|11|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
+|12|72.10.160.90|22135|Canada|Montreal|GloboTech Communications|
+|13|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|14|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|15|119.92.75.48|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|17|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|18|203.192.199.158|8080|India|Ponda|Entire In2Cable|
+|19|162.240.154.26|3128|United States|Provo|Unified Layer|
+|20|223.25.110.104|8090|Indonesia|Surabaya|SinergiNet|
 
 
 
