@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.97.31.37|8561|Japan|Osaka|Google LLC|
-|2|34.97.57.4|8561|Japan|Osaka|Google LLC|
-|3|34.97.46.98|8561|Japan|Osaka|Google LLC|
-|4|34.97.72.201|8561|Japan|Osaka|Google LLC|
-|5|34.97.58.253|8561|Japan|Osaka|Google LLC|
-|6|34.97.52.66|8561|Japan|Osaka|Google LLC|
-|7|34.97.68.25|8561|Japan|Osaka|Google LLC|
-|8|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|12|51.159.159.73|80|France|Paris|SCALEWAY|
-|13|34.97.138.39|8561|Japan|Osaka|Google LLC|
-|14|37.187.109.70|10111|France|Gravelines|OVH SAS|
-|15|34.97.42.111|8561|Japan|Osaka|Google LLC|
-|16|34.97.78.175|8561|Japan|Osaka|Google LLC|
-|17|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|18|34.97.67.132|8561|Japan|Osaka|Google LLC|
-|19|34.97.149.89|8561|Japan|Osaka|Google LLC|
-|20|209.14.84.51|8888|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|1|34.97.57.4|8561|Japan|Osaka|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|5|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|6|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|7|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|8|103.105.76.100|8080|Indonesia|Kediri|GARUDA|
+|9|209.14.84.51|8888|Brazil|Rio de Janeiro|X99 INTERNET LTDA.|
+|10|122.54.100.121|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|11|195.25.20.155|3128|France|Paris|Orange Business Services|
+|12|46.10.209.230|8080|Bulgaria|Sofia|BTC-BROADBAND|
+|13|203.192.199.158|8080|India|Ponda|Entire In2Cable|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|103.125.38.50|8080|Indonesia|Surabaya|PT. Eka Mas Republik|
+|16|51.159.159.73|80|France|Paris|SCALEWAY|
+|17|103.40.121.31|8087|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
+|18|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
