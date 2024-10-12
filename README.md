@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|3|178.48.68.61|18080|Hungary|Budapest|UPC|
-|4|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|5|67.43.236.19|27217|Canada|Montreal|GloboTech Communications|
+|1|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|4|177.93.45.225|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|5|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
 |6|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|72.10.160.91|20491|Canada|Montreal|GloboTech Communications|
+|7|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
 |8|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|10|202.183.209.77|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|72.10.160.174|1885|Canada|Montreal|GloboTech Communications|
-|15|190.8.164.24|8086|Venezuela|Maiquetía|CORPORACION FIBEX TELECOM, C.A.|
-|16|72.10.160.174|1885|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|5397|Canada|Montreal|GloboTech Communications|
-|18|81.31.234.70|80|Thailand|Bangkok|Y.U.T Corporate Company Limited|
-|19|111.1.61.54|3128|China|Wenzhou|China Mobile communications corporation|
-|20|67.43.227.227|5397|Canada|Montreal|GloboTech Communications|
+|9|67.43.236.19|27217|Canada|Montreal|GloboTech Communications|
+|10|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|11|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|12|103.226.232.206|3125|Indonesia|Banyuwangi|PT Jaringan Multimedia Indonesia|
+|13|139.255.33.242|3128|Indonesia|South Tangerang|PT. LINKNET|
+|14|120.28.189.82|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|121.239.40.158|8081|China|Nanjing|Chinanet|
+|17|200.119.218.94|999|Bolivia|Santa Cruz|Cotas Ltda.|
+|18|182.253.140.250|8080|Indonesia|Denpasar|Biznet Networks|
+|19|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|20|115.74.246.138|8080|Vietnam|Quận Mười Một|VIETELxdsl|
 
 
 
