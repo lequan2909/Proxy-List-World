@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|4|178.48.68.61|18080|Hungary|Budapest|UPC|
-|5|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|6|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|162.240.154.26|3128|United States|Provo|Unified Layer|
-|10|103.78.171.10|83|India|Pune|SCC NETWORK PVT LTD|
-|11|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
-|12|203.104.34.144|3128|China|Guangzhou|Fuzhou|
-|13|66.96.233.62|8085|Indonesia|Jakarta|MYREPUBLIC|
-|14|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|15|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|16|171.237.99.252|4002|Vietnam|Ninh Bình|Viettel Corporation|
-|17|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|18|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
-|19|195.191.158.172|80|Russia|Ramenskoye|Intelsc Ltd.|
-|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|119.195.236.148|3128|South Korea|Ansan-si|Korea Telecom|
+|5|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|6|14.245.247.137|5006|Vietnam|Da Nang|VNPT|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|202.154.18.137|8090|Indonesia|Jombang|DIGITNET|
+|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|10|120.28.222.2|8081|Philippines|Cagayan de Oro|Globe Telecom|
+|11|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|13|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|14|38.52.221.66|8080|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|15|162.240.154.26|3128|United States|Provo|Unified Layer|
+|16|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|19|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
