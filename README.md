@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|115.77.20.123|2024|Vietnam|Ho Chi Minh City|Viettel Group|
-|5|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|6|191.81.222.22|8080|Argentina|Villa Nueva|Telefonica de Argentina|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|11|96.9.74.91|8080|Cambodia|Phnom Penh|S.I Group|
-|12|136.226.232.188|10884|India|Mumbai|ZSCALER, INC.|
-|13|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|14|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|15|72.10.164.178|4769|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|67.43.227.226|27329|Canada|Montreal|GloboTech Communications|
-|18|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|19|67.43.228.253|2661|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.173|3141|Canada|Montreal|GloboTech Communications|
+|2|115.77.20.123|2024|Vietnam|Ho Chi Minh City|Viettel Group|
+|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|4|212.110.188.213|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|5|34.97.138.39|8561|Japan|Osaka|Google LLC|
+|6|61.7.191.148|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
+|7|168.227.40.71|9192|Brazil|Cabo de Santo Agostinho|Digitec Eletronica Ltda - ME|
+|8|103.30.43.183|3128|Hong Kong|Hong Kong|HKVPS|
+|9|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|10|43.224.116.125|8080|Bangladesh|Dhaka|Next Online Limited|
+|11|181.204.81.181|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
+|12|203.104.34.144|3128|China|Guangzhou|Fuzhou|
+|13|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|14|67.43.227.226|5523|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|25763|Canada|Montreal|GloboTech Communications|
+|16|187.188.16.28|999|Mexico|Xalapa|Total Play Telecomunicaciones SA De CV|
+|17|114.9.26.238|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|18|72.10.160.173|3141|Canada|Montreal|GloboTech Communications|
+|19|45.71.186.183|999|Ecuador|Quevedo|Ufinet Panama S.A.|
+|20|72.10.164.178|25763|Canada|Montreal|GloboTech Communications|
 
 
 
