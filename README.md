@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|61.7.191.148|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
-|3|34.97.72.201|8561|Japan|Osaka|Google LLC|
-|4|144.86.187.37|3129|United States|Malden|Charles River Operation|
+|2|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|61.7.191.148|8080|Thailand|Phi Phi Don|CAT Telecom Public Company Limited|
 |5|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|6|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|34.97.78.175|8561|Japan|Osaka|Google LLC|
-|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|9|190.92.151.66|9021|United States|Phoenix|A2 Hosting, Inc.|
-|10|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
-|11|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|45.119.133.218|3128|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|9|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|10|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|11|103.69.20.28|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
 |12|161.34.37.126|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|34.97.72.201|8561|Japan|Osaka|Google LLC|
-|14|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|15|67.43.227.226|8241|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.230|30223|Canada|Montreal|GloboTech Communications|
-|17|191.102.107.237|999|Colombia|Quibdó|TV AZTECA SUCURSAL COLOMBIA|
-|18|72.10.160.170|31595|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|9933|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|17171|Canada|Montreal|GloboTech Communications|
+|13|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|14|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|15|46.161.196.222|9812|Iraq|Baghdad|Valin Company for General Trading and Communication LTD|
+|16|121.100.19.82|7088|Indonesia|Pamulang|NAP.Net.id - Network Access Point|
+|17|67.43.227.230|30223|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|9933|Canada|Montreal|GloboTech Communications|
+|19|192.99.169.19|8448|Canada|Beauharnois|OVH SAS|
+|20|144.86.187.56|3129|United States|Malden|Charles River Operation|
 
 
 
