@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|49.48.54.57|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|3|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|4|116.99.172.110|5105|Vietnam|Da Nang|Viettel Corporation|
-|5|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|6|157.100.53.103|999|Ecuador|Machala|Ufinet Panama S.A.|
-|7|138.117.231.131|999|Guatemala|Huehuetenango|Fibernet S.A|
-|8|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|9|103.12.77.117|10048|Vietnam|Quận Long Biên|MOCLAMESOUL|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|103.40.121.31|8087|Indonesia|Klaten|PT DINAMIKA MEDIAKOM|
-|12|190.195.225.34|80|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|13|72.10.164.178|30809|Canada|Montreal|GloboTech Communications|
-|14|23.236.65.236|3129|United States|Los Angeles|Zenlayer Inc|
-|15|115.73.18.41|2023|Vietnam|Ho Chi Minh City|VIETELmetro|
-|16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|116.107.217.134|10051|Vietnam|Hải Dương|Viettel Corporation|
-|18|171.240.79.202|12035|Vietnam|Bắc Ninh|Viettel Corporation|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|116.80.84.40|3128|Japan|Shimomeguro|InfoSphere|
+|3|117.6.18.73|5110|Vietnam|Hanoi|Viettel Corporation|
+|4|171.240.79.202|12035|Vietnam|Bắc Ninh|Viettel Corporation|
+|5|222.109.192.34|8080|South Korea|Seoul|Korea Telecom|
+|6|115.73.18.41|2024|Vietnam|Ho Chi Minh City|VIETELmetro|
+|7|103.143.168.58|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|8|113.165.84.121|4001|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|10|119.148.61.130|8080|Bangladesh|Dhaka|Agni Systems Limited|
+|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|12|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|13|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|14|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|15|203.192.199.158|8080|India|Ponda|Entire In2Cable|
+|16|116.111.102.147|5105|Vietnam|Hanoi|Viettel Corporation|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|19|103.239.255.36|58080|Bangladesh|Dhaka|Carnival Internet|
+|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
