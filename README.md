@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.236.177.149|8082|Philippines|Manila|Infinivan Incorporated|
-|4|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|110.78.186.213|8080|Thailand|Pattaya|CAT-BB|
+|3|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|4|31.207.47.56|8118|The Netherlands|Amsterdam|Hostkey B.V.|
 |5|65.109.207.204|3128|Finland|Helsinki|Hetzner Online GmbH|
-|6|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|178.214.80.45|1976|Israel|Giv'on HaHadasha|Gemzo information technology Private Joint-Stock company|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
 |9|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|10|65.109.207.204|3128|Finland|Helsinki|Hetzner Online GmbH|
-|11|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|12|181.129.97.34|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|13|77.52.187.199|10000|Ukraine|Shyroke|PrJSC "VF UKRAINE"|
-|14|110.78.186.213|8080|Thailand|Pattaya|CAT-BB|
-|15|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|17|103.130.5.34|8080|Indonesia|Samarinda|LINTASMAYA|
-|18|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|19|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|20|170.239.207.78|8080|Colombia|Bogotá|FIBERNET|
+|10|36.95.12.154|8080|Indonesia|Padang|PT. Telekomunikasi Indonesia|
+|11|181.129.97.34|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|12|65.109.207.204|3128|Finland|Helsinki|Hetzner Online GmbH|
+|13|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|14|103.125.38.50|8080|Indonesia|Surabaya|PT. Eka Mas Republik|
+|15|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|16|114.130.153.58|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|17|161.34.37.126|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|116.80.82.213|3128|Japan|Shimomeguro|InfoSphere|
+|19|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
+|20|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
