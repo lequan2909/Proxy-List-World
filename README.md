@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.192.154|8561|Japan|Osaka|Google LLC|
+|1|34.97.176.53|8561|Japan|Osaka|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|34.97.220.13|8561|Japan|Osaka|Google LLC|
 |4|34.97.190.56|8561|Japan|Osaka|Google LLC|
 |5|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|34.97.176.53|8561|Japan|Osaka|Google LLC|
-|7|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|10|203.150.128.250|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|12|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|13|163.172.33.137|4161|France|Vitry-sur-Seine|Online S.A.S.|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|45.190.78.47|999|Mexico|Tala|Meta Networks SA De CV|
-|18|170.82.13.121|3600|Brazil|Porto Seguro|Netcenter Telecom|
-|19|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|20|203.192.199.158|8080|India|Ponda|Entire In2Cable|
+|6|34.97.192.154|8561|Japan|Osaka|Google LLC|
+|7|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|8|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|9|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|188.132.222.24|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|163.172.33.137|4118|France|Vitry-sur-Seine|Online S.A.S.|
+|14|223.205.191.113|8080|Thailand|Phra Nakhon Si Ayutthaya|Triple T Broadband Public Company Limited|
+|15|188.132.150.43|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|16|185.200.38.140|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|18|51.159.159.73|80|France|Paris|SCALEWAY|
+|19|58.19.22.61|3128|China|Wuhan|CNC Group CHINA169 Hubei Province Network|
+|20|103.118.175.42|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
 
 
 
