@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|101.109.103.233|8080|Thailand|Pattaya|TOT Public Company Limited|
 |3|1.10.133.110|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|8|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|9|46.246.14.5|3128|Sweden|Stockholm|Portlane Network|
-|10|188.166.222.236|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|13|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|14|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|16|103.46.11.82|8080|Indonesia|Malang|Lintas Data Prima, PT|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|103.174.236.96|8080|Indonesia|Brebes|PT Global Erasiber Teknologi|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|5|34.97.57.4|8561|Japan|Osaka|Google LLC|
+|6|46.246.14.5|3128|Sweden|Stockholm|Portlane Network|
+|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|8|103.159.194.249|8080|Indonesia|Kendal|PT Giga Digital Nusantara|
+|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|10|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|11|34.97.243.172|8561|Japan|Osaka|Google LLC|
+|12|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|13|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|103.151.247.242|7777|Indonesia|Bogor|MANAKARRANET|
+|16|36.50.92.120|8080|Indonesia|Sukamulya|PT Ring Media Nusantara|
+|17|72.10.160.92|24619|Canada|Montreal|GloboTech Communications|
+|18|157.245.50.196|8000|Singapore|Singapore|DigitalOcean, LLC|
+|19|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
