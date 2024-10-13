@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|3|178.48.68.61|18080|Hungary|Budapest|UPC|
-|4|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|5|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|115.147.20.37|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|9|67.43.227.228|18731|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.227|8909|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.18|10923|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|8909|Canada|Montreal|GloboTech Communications|
-|13|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|72.10.164.178|24657|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.92|7053|Canada|Montreal|GloboTech Communications|
-|16|193.233.84.86|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
-|17|171.224.88.80|10048|Vietnam|Hanoi|Viettel Corporation|
-|18|14.103.21.34|8081|China|Beijing|BITNET|
-|19|72.10.164.178|24657|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|8909|Canada|Montreal|GloboTech Communications|
+|2|178.48.68.61|18080|Hungary|Budapest|UPC|
+|3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|4|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
+|5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|6|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|9|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|10|67.43.227.228|18731|Canada|Montreal|GloboTech Communications|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|67.43.227.227|32543|Canada|Montreal|GloboTech Communications|
+|13|202.152.24.50|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|14|162.240.154.26|3128|United States|Provo|Unified Layer|
+|15|67.43.236.18|10923|Canada|Montreal|GloboTech Communications|
+|16|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|17|67.43.227.226|4663|Canada|Montreal|GloboTech Communications|
+|18|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|45.202.198.16|3128|United States|San Jose|Octopus Web Solution Inc|
+|20|34.97.243.172|8561|Japan|Osaka|Google LLC|
 
 
 
