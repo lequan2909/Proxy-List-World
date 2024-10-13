@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|2|23.19.73.223|3128|United States|Los Angeles|Leaseweb USA, Inc.|
 |3|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
 |4|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
 |6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |7|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
 |8|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|9|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
-|10|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|67.43.227.226|4525|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|17141|Canada|Montreal|GloboTech Communications|
-|13|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|14|72.10.164.178|17141|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|6175|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|6175|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|1805|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|17141|Canada|Montreal|GloboTech Communications|
-|19|103.164.116.172|8080|Indonesia|Jakarta|SOLUSINET|
-|20|72.10.160.173|29731|Canada|Montreal|GloboTech Communications|
+|9|217.251.109.178|8080|Germany|Traunstein|Deutsche Telekom AG|
+|10|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
+|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|12|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|67.43.228.253|22369|Canada|Montreal|GloboTech Communications|
+|14|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|15|67.43.227.227|27595|Canada|Montreal|GloboTech Communications|
+|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|102.212.30.22|8080|Kenya|Nairobi|Hanif Telecom Limited|
+|19|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|20|67.43.227.228|20343|Canada|Montreal|GloboTech Communications|
 
 
 
