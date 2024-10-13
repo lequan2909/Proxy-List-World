@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
 |3|34.97.154.179|8660|Japan|Osaka|Google LLC|
-|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|6|58.147.185.93|8181|Indonesia|Jakarta|PT. Transhybrid Communication|
-|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|213.199.44.90|8000|Germany|Düsseldorf|Contabo GmbH|
-|9|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
+|4|34.97.243.172|8561|Japan|Osaka|Google LLC|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|8|45.202.198.232|3128|United States|San Jose|Octopus Web Solution Inc|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 |10|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|11|103.67.237.208|3128|India|Hyderabad|OASISGSSERVICES|
-|12|72.128.133.154|16099|United States|Mission|Charter Communications|
+|11|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
+|12|45.202.198.248|3128|United States|San Jose|Octopus Web Solution Inc|
 |13|200.133.247.3|3130|Brazil|São José dos Campos|Rede Nacional de Ensino e Pesquisa|
-|14|34.97.243.172|8561|Japan|Osaka|Google LLC|
-|15|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|103.229.185.154|8080|Indonesia|Pamulang|PT INDONESIA COMNETS PLUS|
+|14|210.61.216.63|60808|Taiwan|Chang-hua|Chunghwa Telecom Co., Ltd.|
+|15|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
 |18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|114.130.153.70|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|20|172.233.152.170|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|19|191.102.254.10|8083|Argentina|Rosario|IP·RED|
+|20|143.244.138.31|3128|India|Bengaluru|DigitalOcean, LLC|
 
 
 
