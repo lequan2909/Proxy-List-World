@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.57.4|8561|Japan|Osaka|Google LLC|
-|3|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
-|7|34.97.31.37|8561|Japan|Osaka|Google LLC|
-|8|45.83.20.3|1080|Belgium|Brussels|Stark Industries Solutions LTD|
-|9|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
-|10|103.159.194.131|8080|Indonesia|Kendal|PT Giga Digital Nusantara|
-|11|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|12|91.107.165.250|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
-|14|34.97.27.41|8561|Japan|Osaka|Google LLC|
-|15|162.240.154.26|3128|United States|Provo|Unified Layer|
-|16|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
-|17|163.172.33.137|4376|France|Vitry-sur-Seine|Online S.A.S.|
-|18|65.109.207.204|3128|Finland|Helsinki|Hetzner Online GmbH|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|2|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|43.252.107.252|7777|Indonesia|Gamping Lor|PT Lintas Data Prima|
+|4|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
+|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|34.97.31.37|8561|Japan|Osaka|Google LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|34.97.57.4|8561|Japan|Osaka|Google LLC|
+|9|162.240.154.26|3128|United States|Provo|Unified Layer|
+|10|103.154.230.130|8080|Indonesia|Lamongan|DIGITNET|
+|11|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
+|12|165.16.27.43|1976|Libya|Benghazi|Aljeel Aljadeed For Technology|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|91.107.165.250|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|34.97.58.253|8561|Japan|Osaka|Google LLC|
+|16|185.71.149.136|3128|France|Montpellier|Eurofiber France SAS|
+|17|200.110.209.16|9080|Argentina|Quilmes|CSCOM|
+|18|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|19|163.172.33.137|4118|France|Vitry-sur-Seine|Online S.A.S.|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
