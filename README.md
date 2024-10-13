@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|34.97.154.179|8660|Japan|Osaka|Google LLC|
-|4|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|5|49.48.71.185|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|7|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|8|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|11|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|119.18.149.110|5020|Bangladesh|Chittagong|BBTS Network|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|157.90.6.20|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|16|103.236.191.101|8082|Indonesia|Jakarta|PT Victory Network Indonesia|
-|17|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|18|72.10.164.178|33129|Canada|Montreal|GloboTech Communications|
-|19|114.130.153.70|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|20|34.97.154.179|8660|Japan|Osaka|Google LLC|
+|3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|4|49.48.71.185|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|5|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
+|6|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|7|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|203.202.248.36|8080|Bangladesh|Chittagong|Aamra Networks Limited|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|13|116.105.79.46|1111|Vietnam|Da Nang|Viettel Corporation|
+|14|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|16|170.239.205.74|8080|Colombia|Bogotá|FIBERNET|
+|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|18|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|19|200.133.247.3|3130|Brazil|São José dos Campos|Rede Nacional de Ensino e Pesquisa|
+|20|45.202.198.78|3128|United States|San Jose|Octopus Web Solution Inc|
 
 
 
