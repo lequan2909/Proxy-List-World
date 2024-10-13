@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|7|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|45.70.238.45|8090|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|11|45.202.198.2|3128|United States|San Jose|Octopus Web Solution Inc|
-|12|45.202.198.3|3128|United States|San Jose|Octopus Web Solution Inc|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|45.202.198.4|3128|United States|San Jose|Octopus Web Solution Inc|
-|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|17|45.202.198.16|3128|United States|San Jose|Octopus Web Solution Inc|
-|18|45.202.198.19|3128|United States|San Jose|Octopus Web Solution Inc|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|103.67.84.78|8085|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
+|9|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|10|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|11|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|14|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|16|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
+|17|27.64.48.10|5102|Vietnam|Ho Chi Minh City|Viettel Group|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|51.159.159.73|80|France|Paris|SCALEWAY|
+|20|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
 
 
 
