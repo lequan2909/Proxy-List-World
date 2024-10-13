@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|3|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|4|210.87.125.58|1080|Indonesia|Kediri|CV Brawijaya Giga Network|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|7|181.204.21.122|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
-|8|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|72.10.164.178|11673|Canada|Montreal|GloboTech Communications|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|4|103.242.106.61|8090|Indonesia|Gunungkalong|PT Lintas Jaringan Nusantara|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|34.97.247.98|8561|Japan|Osaka|Google LLC|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|116.97.62.167|5000|Vietnam|Hanoi|Viettel Corporation|
+|13|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
 |16|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|17|144.34.174.203|3128|United States|Los Angeles|IT7 Networks Inc|
-|18|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|19|67.43.228.253|11655|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|16867|Canada|Montreal|GloboTech Communications|
+|17|190.14.249.174|999|Colombia|Bucaramanga|Media Commerce Partners S.A|
+|18|72.10.164.178|18909|Canada|Montreal|GloboTech Communications|
+|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
