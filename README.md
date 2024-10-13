@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|8|103.165.155.109|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|9|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|10|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|11|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|45.202.198.47|3128|United States|San Jose|Octopus Web Solution Inc|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|6|103.180.123.143|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|8|103.159.194.191|3128|Indonesia|Kendal|PT Giga Digital Nusantara|
+|9|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
+|10|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|45.202.198.173|3128|United States|San Jose|Octopus Web Solution Inc|
+|12|45.202.198.187|3128|United States|San Jose|Octopus Web Solution Inc|
+|13|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|14|45.202.198.224|3128|United States|San Jose|Octopus Web Solution Inc|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |16|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|17|103.180.123.143|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|18|72.10.160.90|15167|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|15167|Canada|Montreal|GloboTech Communications|
-|20|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|17|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|18|198.24.188.138|35750|United States|Ashburn|Secured Servers LLC|
+|19|157.245.50.196|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
