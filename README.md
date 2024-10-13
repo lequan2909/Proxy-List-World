@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|45.202.198.19|3128|United States|San Jose|Octopus Web Solution Inc|
-|5|45.202.198.4|3128|United States|San Jose|Octopus Web Solution Inc|
-|6|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|7|45.202.198.16|3128|United States|San Jose|Octopus Web Solution Inc|
-|8|45.202.198.3|3128|United States|San Jose|Octopus Web Solution Inc|
-|9|45.202.198.2|3128|United States|San Jose|Octopus Web Solution Inc|
-|10|45.202.198.5|3128|United States|San Jose|Octopus Web Solution Inc|
-|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|12|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|13|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|17|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
-|18|36.92.87.137|8080|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|19|162.240.154.26|3128|United States|Provo|Unified Layer|
-|20|51.159.159.73|80|France|Paris|SCALEWAY|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|3|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|145.40.97.148|10004|The Netherlands|Amsterdam|Packet Host, Inc.|
+|7|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|9|45.202.198.16|3128|United States|San Jose|Octopus Web Solution Inc|
+|10|45.202.198.3|3128|United States|San Jose|Octopus Web Solution Inc|
+|11|45.202.198.2|3128|United States|San Jose|Octopus Web Solution Inc|
+|12|45.202.198.4|3128|United States|San Jose|Octopus Web Solution Inc|
+|13|45.202.198.19|3128|United States|San Jose|Octopus Web Solution Inc|
+|14|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|15|189.50.9.33|8080|Brazil|Vitória|VIPRede Telecomunicações Ltda|
+|16|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
+|17|51.159.159.73|80|France|Paris|SCALEWAY|
+|18|200.215.229.3|999|Peru|Cusco|Gpon Networks S.A.C.|
+|19|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
