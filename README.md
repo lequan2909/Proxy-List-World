@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|34.97.154.179|8660|Japan|Osaka|Google LLC|
-|4|36.90.50.199|8080|Indonesia|Sidoarjo|PT. Telekomunikasi Indonesia|
-|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|7|45.202.198.246|3128|United States|San Jose|Octopus Web Solution Inc|
-|8|162.240.154.26|3128|United States|Provo|Unified Layer|
-|9|179.43.96.178|8080|Peru|Arequipa|GLG PERU SAC|
-|10|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|11|190.110.34.108|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|12|103.160.207.49|32650|India|Morādābād|Moradabad Internet Services Private Limited|
-|13|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
-|14|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|15|177.93.59.71|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
-|16|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|17|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|72.10.164.178|21283|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.92|5033|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.93|17007|Canada|Montreal|GloboTech Communications|
+|3|202.154.18.141|8088|Indonesia|Jombang|DIGITNET|
+|4|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|5|162.240.154.26|3128|United States|Provo|Unified Layer|
+|6|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|7|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
+|8|51.91.109.113|8118|France|Strasbourg|OVH SAS|
+|9|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|10|34.210.244.200|3128|United States|Portland|Amazon.com, Inc.|
+|11|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|12|157.245.50.196|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|67.43.227.229|20931|Canada|Montreal|GloboTech Communications|
+|18|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|20|124.158.153.218|8180|Indonesia|Pulo Gebang|PT iForte Global Internet|
 
 
 
