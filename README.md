@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|4|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|5|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
-|6|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|7|103.155.197.209|8090|Indonesia|Sukabumi|JEMBATANDATA|
+|2|34.97.192.154|8561|Japan|Osaka|Google LLC|
+|3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|4|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
+|5|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|6|103.155.197.209|8090|Indonesia|Sukabumi|JEMBATANDATA|
+|7|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
 |8|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|9|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
-|10|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|11|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|12|145.40.97.148|10002|The Netherlands|Amsterdam|Packet Host, Inc.|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|67.43.228.251|23613|Canada|Montreal|GloboTech Communications|
-|17|91.107.146.244|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|72.10.160.170|2211|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|43.225.67.222|80|Indonesia|Jakarta|HSPNET|
+|10|128.92.239.190|8080|United States|Los Angeles|Spectrum|
+|11|103.159.195.33|3128|Indonesia|Kudus|PT Giga Digital Nusantara|
+|12|80.209.232.48|3128|Lithuania|Vilnius|UAB "Interneto vizija"|
+|13|45.230.48.131|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
+|14|163.172.33.137|4118|France|Vitry-sur-Seine|Online S.A.S.|
+|15|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
+|16|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|17|41.111.167.61|80|Algeria|Oran|Algerie Telecom|
+|18|115.73.18.41|2024|Vietnam|Ho Chi Minh City|VIETELmetro|
+|19|91.107.146.244|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
 
 
 
