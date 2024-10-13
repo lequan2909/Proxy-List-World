@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|3|114.130.154.130|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|4|45.202.198.78|3128|United States|San Jose|Octopus Web Solution Inc|
-|5|192.248.95.1|3128|Sri Lanka|Kuliyapitiya|Lanka Education and Research Network|
-|6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|61.129.2.212|8080|China|Beijing|CHINANET|
-|9|34.97.154.179|8660|Japan|Osaka|Google LLC|
-|10|72.10.164.178|26107|Canada|Montreal|GloboTech Communications|
-|11|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|72.10.164.178|26107|Canada|Montreal|GloboTech Communications|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|67.43.227.227|31625|Canada|Montreal|GloboTech Communications|
-|15|103.131.19.156|3127|Indonesia|Pasarkemis|PT Global Media Data Prima|
-|16|67.43.228.253|32039|Canada|Montreal|GloboTech Communications|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|72.10.160.172|15939|Canada|Montreal|GloboTech Communications|
-|19|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|200.10.31.148|999|Colombia|Pereira|Super Redes S.A.S|
+|2|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|3|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|6|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
+|7|34.97.154.179|8660|Japan|Osaka|Google LLC|
+|8|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|9|45.202.198.227|3128|United States|San Jose|Octopus Web Solution Inc|
+|10|72.128.133.154|16099|United States|Mission|Charter Communications|
+|11|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|14|34.97.154.179|8660|Japan|Osaka|Google LLC|
+|15|45.202.198.173|3128|United States|San Jose|Octopus Web Solution Inc|
+|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|67.43.228.253|32039|Canada|Montreal|GloboTech Communications|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|20|66.210.33.34|8080|United States|Pensacola|Cox Communications Inc.|
 
 
 
