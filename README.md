@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|8|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
-|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|10|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|11|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|12|91.107.132.93|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|14|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|15|36.91.155.42|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|16|147.28.155.20|10005|United States|Dallas|Packet Host, Inc.|
-|17|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|19|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
-|20|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|9|91.107.132.93|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|188.132.222.162|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|162.240.154.26|3128|United States|Provo|Unified Layer|
+|15|91.107.146.244|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|17|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|18|186.50.210.61|3128|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
+|19|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|20|46.161.196.144|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
 
 
 
