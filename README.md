@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|7|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|8|173.249.60.246|14344|Germany|Nuremberg|Contabo GmbH|
-|9|34.97.243.172|8561|Japan|Osaka|Google LLC|
-|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|11|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|12|190.61.45.76|999|Colombia|Tangua|Ufinet Panama S.A.|
-|13|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
-|14|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|15|34.97.154.179|8660|Japan|Osaka|Google LLC|
-|16|115.147.20.37|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|19|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|20|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
+|8|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|9|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|10|117.1.91.215|5101|Vietnam|Hanoi|Viettel Corporation|
+|11|103.124.196.134|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|12|200.39.120.44|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|13|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|15|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|18|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|19|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
+|20|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
