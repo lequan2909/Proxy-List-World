@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.97.220.13|8561|Japan|Osaka|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|34.97.192.154|8561|Japan|Osaka|Google LLC|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|34.97.176.53|8561|Japan|Osaka|Google LLC|
+|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|4|34.97.190.56|8561|Japan|Osaka|Google LLC|
 |5|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|6|116.80.82.213|3128|Japan|Shimomeguro|InfoSphere|
-|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|103.148.130.231|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|9|103.118.124.137|6969|Indonesia|Jakarta|Tele|
-|10|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|11|45.202.198.120|3128|United States|San Jose|Octopus Web Solution Inc|
-|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|13|163.172.33.137|4118|France|Vitry-sur-Seine|Online S.A.S.|
-|14|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|202.179.69.216|58080|India|Pune|Ankhnet|
-|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|18|45.177.179.65|999|Mexico|Villa Zaragoza|Wantelco SAS de CV|
-|19|51.159.159.73|80|France|Paris|SCALEWAY|
-|20|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|7|103.148.130.231|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|8|34.97.220.13|8561|Japan|Osaka|Google LLC|
+|9|116.80.82.213|3128|Japan|Shimomeguro|InfoSphere|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|34.97.192.154|8561|Japan|Osaka|Google LLC|
+|12|209.14.119.228|999|Colombia|Bogotá|AGIS|
+|13|190.239.221.210|999|Peru|Barranca|Telefonica del Peru S.A.A.|
+|14|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|15|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
+|16|45.202.198.14|3128|United States|San Jose|Octopus Web Solution Inc|
+|17|94.23.204.27|3128|France|Roubaix|OVH SAS|
+|18|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|19|119.18.149.9|5020|Bangladesh|Chittagong|BBTS Network|
+|20|34.97.176.53|8561|Japan|Osaka|Google LLC|
 
 
 
