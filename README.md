@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -40,23 +40,23 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|4|113.192.31.5|1111|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|116.202.217.96|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|103.177.9.104|8080|Indonesia|Jakarta|PT Helium Sinergi Telekomunikasi|
-|9|202.152.142.186|8080|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
-|10|103.218.24.67|58080|Bangladesh|Dhaka|Carnival Internet|
-|11|36.90.50.199|8080|Indonesia|Sidoarjo|PT. Telekomunikasi Indonesia|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|14|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|17|34.97.220.13|8561|Japan|Osaka|Google LLC|
-|18|111.1.61.50|3128|China|Wenzhou|China Mobile communications corporation|
+|6|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|34.97.154.179|8660|Japan|Osaka|Google LLC|
+|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|9|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|10|103.247.23.192|8080|Indonesia|Cileungsir|PT wifian Solution|
+|11|38.159.229.73|999|Ecuador|Vinces|Turbonet S.A.|
+|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|15|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|16|1.52.48.25|11111|Vietnam|Vĩnh Phúc Province|Vietnam Internet Network Information Center|
+|17|177.93.59.71|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
+|18|34.97.220.13|8561|Japan|Osaka|Google LLC|
 |19|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
 |20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
