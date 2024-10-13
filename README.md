@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|34.97.247.98|8561|Japan|Osaka|Google LLC|
 |4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|5|198.24.187.93|22935|United States|Ashburn|Secured Servers LLC|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
-|8|67.43.236.18|8355|Canada|Montreal|GloboTech Communications|
-|9|34.97.247.98|8561|Japan|Osaka|Google LLC|
-|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|11|72.10.160.90|29237|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.174|18355|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.93|15241|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|16483|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|16483|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|4937|Canada|Montreal|GloboTech Communications|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|72.10.160.171|24433|Canada|Montreal|GloboTech Communications|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|67.43.228.254|10069|Canada|Montreal|GloboTech Communications|
+|5|116.102.104.66|10001|Vietnam|Bà Rịa|Viettel Corporation|
+|6|34.97.154.179|8660|Japan|Osaka|Google LLC|
+|7|34.97.243.172|8561|Japan|Osaka|Google LLC|
+|8|93.123.16.188|3128|Bulgaria|Sofia|Ohost LLC|
+|9|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
+|10|103.162.16.168|8080|Indonesia|Pati|PT Mega Data Perkasa|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|95.85.93.128|3128|United States|Manassas|G-Core Labs S.A.|
+|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|14|34.97.247.98|8561|Japan|Osaka|Google LLC|
+|15|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|16|72.10.164.178|27025|Canada|Montreal|GloboTech Communications|
+|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|18|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|19|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
