@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5508** proxies at the latest update. Usable proxies are below.
+> Scraper found **5452** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|53|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|737|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|681|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|466|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3294|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|6|188.227.140.181|8080|Spain|Madrid|Aire Networks Del Mediterraneo SL Unipersonal|
-|7|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|9|179.1.141.10|8080|Colombia|Bogotá|Internexa S.a. E.S.P|
-|10|103.159.96.74|8080|Indonesia|Gresik|PT Jinde Grup Indonesia|
-|11|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
-|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|13|116.105.79.46|1111|Vietnam|Da Nang|Viettel Corporation|
-|14|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|15|49.48.71.185|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|16|200.133.247.3|3130|Brazil|São José dos Campos|Rede Nacional de Ensino e Pesquisa|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|67.43.227.227|11219|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|34.97.154.179|8660|Japan|Osaka|Google LLC|
+|3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|4|34.97.243.172|8561|Japan|Osaka|Google LLC|
+|5|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|34.97.229.206|8561|Japan|Osaka|Google LLC|
+|10|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|67.43.227.227|15437|Canada|Montreal|GloboTech Communications|
+|12|34.97.154.179|8660|Japan|Osaka|Google LLC|
+|13|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|14|67.43.228.253|19877|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|28535|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|13149|Canada|Montreal|GloboTech Communications|
+|17|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|18|67.43.228.253|19877|Canada|Montreal|GloboTech Communications|
+|19|139.255.94.122|39635|Indonesia|Jakarta|PT. LINKNET|
+|20|72.10.160.90|13149|Canada|Montreal|GloboTech Communications|
 
 
 
