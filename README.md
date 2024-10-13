@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|1|34.97.154.179|8660|Japan|Osaka|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
 |6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|9|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
-|10|117.1.91.215|5101|Vietnam|Hanoi|Viettel Corporation|
-|11|49.0.3.130|8090|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|12|112.198.179.17|8082|Philippines|Carmona|Globe Telecom|
-|13|190.61.45.76|999|Colombia|Tangua|Ufinet Panama S.A.|
-|14|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|17|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|8|34.97.247.98|8561|Japan|Osaka|Google LLC|
+|9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|15|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|16|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|17|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |18|34.97.154.179|8660|Japan|Osaka|Google LLC|
-|19|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|20|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|19|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|20|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 
 
 
