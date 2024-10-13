@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |5|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|8|45.202.198.5|3128|United States|San Jose|Octopus Web Solution Inc|
-|9|45.202.198.16|3128|United States|San Jose|Octopus Web Solution Inc|
-|10|45.202.198.4|3128|United States|San Jose|Octopus Web Solution Inc|
-|11|45.202.198.19|3128|United States|San Jose|Octopus Web Solution Inc|
-|12|45.202.198.2|3128|United States|San Jose|Octopus Web Solution Inc|
-|13|45.83.20.3|1080|Belgium|Brussels|Stark Industries Solutions LTD|
-|14|45.202.198.3|3128|United States|San Jose|Octopus Web Solution Inc|
-|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|16|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|103.190.171.155|1111|Indonesia|Jakarta|WMS|
-|19|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|65.109.197.93|3128|Finland|Helsinki|Hetzner Online GmbH|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|88.255.102.24|8080|Türkiye|Istanbul|TurkTelekom|
+|12|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|13|160.16.109.252|18080|Japan|Tokyo|SAKURA Internet Inc.|
+|14|45.202.198.5|3128|United States|San Jose|Octopus Web Solution Inc|
+|15|45.202.198.16|3128|United States|San Jose|Octopus Web Solution Inc|
+|16|45.202.198.3|3128|United States|San Jose|Octopus Web Solution Inc|
+|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|18|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
+|19|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|20|45.202.198.19|3128|United States|San Jose|Octopus Web Solution Inc|
 
 
 
