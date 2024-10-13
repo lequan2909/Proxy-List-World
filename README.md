@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
 |4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|6|178.48.68.61|18080|Hungary|Budapest|UPC|
-|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|9|45.202.198.252|3128|United States|San Jose|Octopus Web Solution Inc|
-|10|34.97.154.179|8660|Japan|Osaka|Google LLC|
-|11|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|17|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|18|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|58.19.22.61|3128|China|Wuhan|CNC Group CHINA169 Hubei Province Network|
-|20|187.103.105.22|8999|Brazil|Blumenau|BR.Digital Provider|
+|5|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|8|1.179.231.130|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|9|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|185.4.201.49|55443|Czechia|Černošice|Sys-datacom Spindl|
+|12|103.31.133.236|3128|Indonesia|Kebon Melati|PT Arthatama Adhiprima Persada|
+|13|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|14|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|18|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|19|103.48.68.68|83|India|Hyderabad|Country Online Services PVT LTD|
+|20|72.10.160.91|10921|Canada|Montreal|GloboTech Communications|
 
 
 
