@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.154.179|8660|Japan|Osaka|Google LLC|
-|3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|10|103.156.16.227|8080|Indonesia|Jakarta|RSTNET|
-|11|177.221.44.113|49999|Brazil|Jaboatão dos Guararapes|1telecom Servicos De Tecnologia EM Internet Ltda|
-|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|1|34.97.154.179|8660|Japan|Osaka|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|4|34.97.57.4|8561|Japan|Osaka|Google LLC|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|9|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
+|10|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|16|34.97.11.208|8561|Japan|Osaka|Google LLC|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|157.245.50.196|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|183.247.152.98|53281|China|Hangzhou|China Mobile Communications Corporation|
+|14|70.63.90.245|8080|United States|Wilmington|Spectrum|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|103.179.182.211|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|18|222.127.242.123|8082|Philippines|Iloilo City|GLBB|
+|19|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
