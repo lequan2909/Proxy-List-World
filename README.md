@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|31.207.47.56|8118|The Netherlands|Amsterdam|Hostkey B.V.|
-|8|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|10|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|51.159.159.73|80|France|Paris|SCALEWAY|
-|13|62.33.136.242|8080|Russia|Kursk|Joint Stock Company TransTeleCom|
-|14|45.177.179.65|999|Mexico|Villa Zaragoza|Wantelco SAS de CV|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|118.172.184.25|8180|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|18|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|19|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|20|101.128.93.144|8090|Indonesia|Jakarta|CBN|
+|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|3|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|4|198.24.188.138|37000|United States|Ashburn|Secured Servers LLC|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|198.24.188.138|37000|United States|Ashburn|Secured Servers LLC|
+|7|203.104.34.144|3128|China|Guangzhou|Fuzhou|
+|8|116.111.73.23|5104|Vietnam|Hanoi|Viettel Corporation|
+|9|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|10|51.159.159.73|80|France|Paris|SCALEWAY|
+|11|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|12|139.185.35.122|3128|United Arab Emirates|Dubai|Oracle Corporation|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|15|101.255.166.241|8080|Indonesia|Bekasi|PT Remala Abadi|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|17|178.218.43.60|4411|Russia|Rybinsk|ATEXS PLUS Ltd.|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 
 
 
