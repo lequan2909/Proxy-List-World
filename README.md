@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5444** proxies at the latest update. Usable proxies are below.
+> Scraper found **5420** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|48|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|624|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|600|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|454|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3360|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|202.154.18.141|8088|Indonesia|Jombang|DIGITNET|
-|4|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|5|162.240.154.26|3128|United States|Provo|Unified Layer|
-|6|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|7|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
-|8|51.91.109.113|8118|France|Strasbourg|OVH SAS|
-|9|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|10|34.210.244.200|3128|United States|Portland|Amazon.com, Inc.|
-|11|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|12|157.245.50.196|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|67.43.227.229|20931|Canada|Montreal|GloboTech Communications|
-|18|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|20|124.158.153.218|8180|Indonesia|Pulo Gebang|PT iForte Global Internet|
+|3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|5|103.177.9.104|8080|Indonesia|Jakarta|PT Helium Sinergi Telekomunikasi|
+|6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|7|36.90.50.199|8080|Indonesia|Sidoarjo|PT. Telekomunikasi Indonesia|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|45.202.198.89|3128|United States|San Jose|Octopus Web Solution Inc|
+|10|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|11|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
+|12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|15|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|16|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|67.43.228.250|17403|Canada|Montreal|GloboTech Communications|
+|20|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
 
 
 
