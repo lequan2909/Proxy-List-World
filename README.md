@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.109.51.37|8080|Thailand|Pattaya|TOT Public Company Limited|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|4|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
-|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|103.159.96.141|8080|Indonesia|Gresik|PT Jinde Grup Indonesia|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|9|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|11|34.97.247.98|8561|Japan|Osaka|Google LLC|
-|12|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|13|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|14|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|15|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
-|16|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|17|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|18|72.10.164.178|5037|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|22219|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|101.109.51.37|8080|Thailand|Pattaya|TOT Public Company Limited|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|34.97.247.98|8561|Japan|Osaka|Google LLC|
+|5|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
+|6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|7|34.97.243.172|8561|Japan|Osaka|Google LLC|
+|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|103.48.70.57|83|India|Hyderabad|Country Online Services PVT LTD|
+|11|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|13|139.135.189.175|8081|Philippines|Calamba|ComClark Network & Technology Corp|
+|14|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|15|34.97.154.179|8660|Japan|Osaka|Google LLC|
+|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|17|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|18|45.188.156.121|8088|Brazil|Teresina|Marcelo & Renato Digital Net LTDA|
+|19|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|20|180.180.100.109|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
 
 
 
