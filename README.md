@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5493** proxies at the latest update. Usable proxies are below.
+> Scraper found **5688** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -29,10 +29,10 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|648|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|628|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|420|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3167|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3382|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|3|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
-|4|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|51.159.159.73|80|France|Paris|SCALEWAY|
-|7|187.102.36.15|3128|Brazil|Braço do Norte|MKM Internet Solution Provider Ltda|
-|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|9|34.210.244.200|3128|United States|Portland|Amazon.com, Inc.|
-|10|181.129.97.34|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|11|124.105.24.80|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|12|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|13|45.70.238.45|8090|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|14|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
-|15|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|16|208.67.28.28|58090|United States|Eagle River|SonicNet Inc.|
-|17|129.222.202.169|80|Colombia|Bogota|SpaceX Starlink|
-|18|103.173.72.13|1111|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
-|19|203.104.34.144|3128|China|Guangzhou|Fuzhou|
-|20|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
+|3|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
+|6|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|31.207.47.56|8118|The Netherlands|Amsterdam|Hostkey B.V.|
+|9|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|10|162.240.154.26|3128|United States|Provo|Unified Layer|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|13|34.210.244.200|3128|United States|Portland|Amazon.com, Inc.|
+|14|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|15|103.145.160.3|8080|Indonesia|South Tangerang|PT Indonesia Comnets Plus|
+|16|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|17|162.240.154.26|3128|United States|Provo|Unified Layer|
+|18|189.193.225.10|999|Mexico|Santo Domingo Tehuantepec|Mega Cable, S.A. de C.V.|
+|19|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|20|203.104.34.144|3128|China|Guangzhou|Fuzhou|
 
 
 
