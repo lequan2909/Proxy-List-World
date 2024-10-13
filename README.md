@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5454** proxies at the latest update. Usable proxies are below.
+> Scraper found **5456** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|298|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|551|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|433|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
 |3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|5|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|7|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|8|36.64.206.107|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|9|34.97.72.201|8561|Japan|Osaka|Google LLC|
-|10|51.159.159.73|80|France|Paris|SCALEWAY|
-|11|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
-|12|103.189.123.223|8080|Indonesia|Jakarta|PT Ikhlas Cipta Teknologi|
-|13|38.156.236.162|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|4|31.207.47.56|8118|The Netherlands|Amsterdam|Hostkey B.V.|
+|5|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|6|45.171.108.253|999|Ecuador|Nueva Loja|Lagonet-tv Cia. Ltda.|
+|7|103.143.169.230|84|India|Hyderabad|Aspt Networks Pvt Ltd|
+|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|145.40.97.148|10000|The Netherlands|Amsterdam|Packet Host, Inc.|
+|12|47.88.85.102|443|United States|Minkler|Alibaba.com LLC|
+|13|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
 |14|129.222.202.169|80|Colombia|Bogota|SpaceX Starlink|
-|15|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|46.166.165.33|4003|Lithuania|Šiauliai|Cherry Servers|
-|18|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|19|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|20|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|80.240.55.246|3128|Russia|Yeysk|inetnum UGTEL|
+|16|203.104.34.144|3128|China|Guangzhou|Fuzhou|
+|17|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|18|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|20|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
 
 
 
