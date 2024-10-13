@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|6|157.90.6.20|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|7|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|103.236.191.101|8082|Indonesia|Jakarta|PT Victory Network Indonesia|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|5|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|6|124.158.184.153|8080|Indonesia|Bogor|PT Jala Lintas Media|
+|7|45.202.198.47|3128|United States|San Jose|Octopus Web Solution Inc|
+|8|103.160.182.103|8080|Indonesia|Jember|PT Internusa Duta Makmur|
+|9|103.67.237.208|3128|India|Hyderabad|OASISGSSERVICES|
+|10|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|11|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
 |12|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|13|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|15|34.97.154.179|8660|Japan|Osaka|Google LLC|
-|16|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|114.130.154.130|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|18|103.109.237.18|8080|Bangladesh|Tāngāil|City Computer|
-|19|38.156.74.171|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|72.10.160.90|15167|Canada|Montreal|GloboTech Communications|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|34.97.154.179|8660|Japan|Osaka|Google LLC|
+|15|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|19|72.10.160.90|20025|Canada|Montreal|GloboTech Communications|
+|20|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
 
 
 
