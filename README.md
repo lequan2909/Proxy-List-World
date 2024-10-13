@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5541** proxies at the latest update. Usable proxies are below.
+> Scraper found **5564** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|298|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|638|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|661|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|433|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3214|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|200.94.102.11|999|Mexico|Macuspana|Alestra, S. de R.L. de C.V.|
-|4|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|5|212.112.113.182|3128|Kyrgyzstan|Bishkek|AkNet|
-|6|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|7|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|8|103.166.32.42|1111|Indonesia|Kudus|PT Daniswara Citra Informatika|
-|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|10|49.48.68.135|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|11|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|12|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|13|34.97.67.132|8561|Japan|Osaka|Google LLC|
-|14|51.159.159.73|80|France|Paris|SCALEWAY|
-|15|38.183.146.189|8181|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|16|181.114.62.1|8085|Argentina|San Nicolás de los Arroyos|INTERAIR|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|116.97.60.238|5000|Vietnam|Hanoi|Viettel Corporation|
-|19|114.130.154.130|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|20|34.97.68.25|8561|Japan|Osaka|Google LLC|
+|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|31.207.47.56|8118|The Netherlands|Amsterdam|Hostkey B.V.|
+|8|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|10|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|51.159.159.73|80|France|Paris|SCALEWAY|
+|13|62.33.136.242|8080|Russia|Kursk|Joint Stock Company TransTeleCom|
+|14|45.177.179.65|999|Mexico|Villa Zaragoza|Wantelco SAS de CV|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|118.172.184.25|8180|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|18|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|19|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|20|101.128.93.144|8090|Indonesia|Jakarta|CBN|
 
 
 
