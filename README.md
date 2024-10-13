@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|3|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
-|5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|6|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|7|186.3.76.227|999|Ecuador|Guayaquil|Telconet S.A|
-|8|43.252.107.252|7777|Indonesia|Gamping Lor|PT Lintas Data Prima|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
-|11|45.177.179.65|999|Mexico|Villa Zaragoza|Wantelco SAS de CV|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|62.33.136.242|8080|Russia|Kursk|Joint Stock Company TransTeleCom|
-|14|45.70.238.22|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|15|45.175.252.18|999|Mexico|Chihuahua City|Alma Jessica Gallegos Gutierrez|
-|16|182.53.50.2|3128|Thailand|Bangkok|TOT Public Company Limited|
-|17|103.48.68.124|83|India|Hyderabad|Country Online Services PVT LTD|
-|18|187.32.76.99|3128|Brazil|Belo Horizonte|ALGAR TELECOM S/A|
-|19|34.97.149.89|8561|Japan|Osaka|Google LLC|
-|20|65.109.197.93|3128|Finland|Helsinki|Hetzner Online GmbH|
+|3|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
+|4|178.48.68.61|18080|Hungary|Budapest|UPC|
+|5|91.107.165.250|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|102.68.128.210|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|7|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|8|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|9|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|10|23.251.5.175|8888|United States|Waynesboro|CABLE ONE, INC.|
+|11|195.191.158.172|80|Russia|Ramenskoye|Intelsc Ltd.|
+|12|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|77.242.16.30|8080|Albania|Tirana|Abissnet ISP|
+|15|45.70.238.22|999|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|16|103.36.10.200|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|17|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|18|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|181.114.62.1|8085|Argentina|San Nicolás de los Arroyos|INTERAIR|
 
 
 
