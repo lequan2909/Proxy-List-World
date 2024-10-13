@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|2|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|3|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
-|5|91.107.165.250|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|34.97.57.4|8561|Japan|Osaka|Google LLC|
+|6|91.107.165.250|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
 |7|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
 |9|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|10|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|11|119.235.209.77|3125|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|12|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|13|91.107.165.250|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|17|67.43.236.18|21071|Canada|Montreal|GloboTech Communications|
-|18|106.227.95.142|3129|China|Taohua|China Telecom|
-|19|203.104.34.144|3128|China|Guangzhou|Fuzhou|
-|20|162.240.154.26|3128|United States|Provo|Unified Layer|
+|10|91.150.189.122|30389|Poland|Rzeszów|Skyware Sp. z o.o.|
+|11|34.97.31.37|8561|Japan|Osaka|Google LLC|
+|12|124.120.108.176|8080|Thailand|Bangkok|TRUEBB|
+|13|45.119.113.65|83|India|Hyderabad|Netrun Technologies PVT LTD|
+|14|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|15|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|27.64.48.10|5102|Vietnam|Ho Chi Minh City|Viettel Group|
+|18|103.46.11.82|8080|Indonesia|Malang|Lintas Data Prima, PT|
+|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
 
 
 
