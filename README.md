@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
 |4|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|5|103.158.27.88|1212|Indonesia|Sleman|PT Madina Solusi Indonesia|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|7|163.172.33.137|4118|France|Vitry-sur-Seine|Online S.A.S.|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|12|171.237.99.252|4002|Vietnam|Ninh Bình|Viettel Corporation|
-|13|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|14|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|15|72.10.160.172|21855|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.228|4105|Canada|Montreal|GloboTech Communications|
-|17|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|19|67.43.228.252|20131|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|3137|Canada|Montreal|GloboTech Communications|
+|5|125.26.204.244|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|6|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|7|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|9|217.251.109.178|8080|Germany|Traunstein|Deutsche Telekom AG|
+|10|190.83.15.21|999|Ecuador|Zamora Nuevo|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|13|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|16|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|67.43.227.228|4701|Canada|Montreal|GloboTech Communications|
+|19|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
 
 
 
