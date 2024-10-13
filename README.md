@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|167.71.212.147|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|144.34.174.203|3128|United States|Los Angeles|IT7 Networks Inc|
-|5|34.97.154.179|8660|Japan|Osaka|Google LLC|
-|6|144.34.174.203|3128|United States|Los Angeles|IT7 Networks Inc|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|103.76.151.133|8181|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|10|34.97.57.4|8561|Japan|Osaka|Google LLC|
-|11|213.19.123.178|229|Czechia|Litomyšl|FORTECH|
-|12|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|180.250.143.189|1111|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|178.48.68.61|18080|Hungary|Budapest|UPC|
+|7|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|8|34.97.247.98|8561|Japan|Osaka|Google LLC|
+|9|144.34.174.203|3128|United States|Los Angeles|IT7 Networks Inc|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|13|167.71.110.174|8118|United States|Clifton|DigitalOcean, LLC|
+|14|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|15|144.86.187.60|3129|United States|Malden|Charles River Operation|
 |16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|18|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|67.43.227.228|25679|Canada|Montreal|GloboTech Communications|
-|20|144.34.174.203|3128|United States|Los Angeles|IT7 Networks Inc|
+|17|144.86.187.41|3129|United States|Malden|Charles River Operation|
+|18|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|34.97.46.98|8561|Japan|Osaka|Google LLC|
+|20|67.43.227.227|18345|Canada|Montreal|GloboTech Communications|
 
 
 
