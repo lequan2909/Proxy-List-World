@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|5|103.169.133.22|8085|Indonesia|Majalengka|PT Alfa Omega Interkoneksi|
-|6|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|7|34.97.57.4|8561|Japan|Osaka|Google LLC|
-|8|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
-|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|10|157.245.50.196|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|212.110.188.220|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|12|51.159.159.73|80|France|Paris|SCALEWAY|
-|13|122.54.100.121|8082|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|14|177.93.60.70|999|Colombia|Quibdó|TV AZTECA SUCURSAL COLOMBIA|
-|15|110.34.1.180|32650|Nepal|Kathmandu|Subisu Cablenet|
-|16|118.175.30.26|8080|Thailand|Bang Bua Thong|TOT Public Company Limited|
-|17|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|4|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|5|103.139.126.31|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|6|1.10.227.16|8080|Thailand|Damnoen Saduak|TOT Public Company Limited|
+|7|180.191.59.109|8082|Philippines|Tarlac City|Globe Telecom|
+|8|159.192.138.170|8080|Thailand|Bang Rak|CAT-BB|
+|9|51.159.159.73|80|France|Paris|SCALEWAY|
+|10|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|11|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|12|38.156.236.162|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|13|45.177.179.65|999|Mexico|Villa Zaragoza|Wantelco SAS de CV|
+|14|14.177.235.17|8080|Vietnam|Hanoi|VNPT|
+|15|103.118.175.42|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|16|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|17|178.218.43.60|4411|Russia|Rybinsk|ATEXS PLUS Ltd.|
+|18|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
 |19|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|20|67.43.236.20|21989|Canada|Montreal|GloboTech Communications|
+|20|222.129.139.112|9000|China|Beijing|China Unicom Beijing Province Network|
 
 
 
