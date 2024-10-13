@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|6|173.249.60.246|14344|Germany|Nuremberg|Contabo GmbH|
-|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|9|182.23.127.2|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|10|34.97.243.172|8561|Japan|Osaka|Google LLC|
-|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|12|49.0.3.130|8090|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|13|67.43.228.250|25241|Canada|Montreal|GloboTech Communications|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|5|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|7|34.97.247.98|8561|Japan|Osaka|Google LLC|
+|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|9|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
+|10|190.128.248.134|999|Paraguay|Asunción|Telecel S.A.|
+|11|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|13|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |14|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|15|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|16|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|17|67.43.236.20|2449|Canada|Montreal|GloboTech Communications|
-|18|200.125.171.78|9991|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|19|103.178.21.91|3125|Indonesia|Sumberpucung|PT Trisna Mega Abadi|
-|20|67.43.228.251|26931|Canada|Montreal|GloboTech Communications|
+|15|103.67.237.219|3128|India|Hyderabad|OASISGSSERVICES|
+|16|67.43.228.250|25241|Canada|Montreal|GloboTech Communications|
+|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|18|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|19|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|20|34.210.244.200|3128|United States|Portland|Amazon.com, Inc.|
 
 
 
