@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|167.71.212.147|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|34.97.154.179|8660|Japan|Osaka|Google LLC|
+|3|34.97.57.4|8561|Japan|Osaka|Google LLC|
+|4|34.97.154.179|8660|Japan|Osaka|Google LLC|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|167.71.212.147|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|34.97.243.172|8561|Japan|Osaka|Google LLC|
+|8|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|9|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
 |10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|180.250.143.189|1111|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|12|34.97.243.172|8561|Japan|Osaka|Google LLC|
-|13|34.97.247.98|8561|Japan|Osaka|Google LLC|
-|14|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|15|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|144.34.174.203|3128|United States|Los Angeles|IT7 Networks Inc|
-|17|103.67.237.214|3128|India|Hyderabad|OASISGSSERVICES|
-|18|34.97.57.4|8561|Japan|Osaka|Google LLC|
-|19|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|34.97.247.98|8561|Japan|Osaka|Google LLC|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|15|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
+|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|17|45.4.1.196|999|Chile|Santiago|Tlink SPA|
+|18|144.34.174.203|3128|United States|Los Angeles|IT7 Networks Inc|
+|19|191.102.107.237|999|Colombia|Quibdó|TV AZTECA SUCURSAL COLOMBIA|
+|20|34.97.243.172|8561|Japan|Osaka|Google LLC|
 
 
 
