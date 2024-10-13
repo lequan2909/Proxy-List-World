@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
 |3|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|5|45.202.198.89|3128|United States|San Jose|Octopus Web Solution Inc|
-|6|161.34.35.245|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|9|51.91.109.113|8118|France|Strasbourg|OVH SAS|
-|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|11|61.129.2.212|8080|China|Beijing|CHINANET|
-|12|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|13|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|72.10.160.170|2903|Canada|Montreal|GloboTech Communications|
+|5|161.34.35.245|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|61.129.2.212|8080|China|Beijing|CHINANET|
+|7|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|8|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|9|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|72.10.164.178|28553|Canada|Montreal|GloboTech Communications|
+|11|46.98.240.115|50001|Ukraine|Dnipro|ISP "Fregat"|
+|12|61.129.2.212|8080|China|Beijing|CHINANET|
+|13|103.229.185.154|8080|Indonesia|Pamulang|PT INDONESIA COMNETS PLUS|
+|14|72.10.160.170|1687|Canada|Montreal|GloboTech Communications|
+|15|203.104.34.144|3128|China|Guangzhou|Fuzhou|
 |16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|119.95.182.57|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|18|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|67.43.227.226|29151|Canada|Montreal|GloboTech Communications|
-|20|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|157.245.50.196|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|202.180.20.11|55443|Indonesia|Bandung|PT. HIPERNET INDODATA|
+|20|67.43.227.226|28149|Canada|Montreal|GloboTech Communications|
 
 
 
