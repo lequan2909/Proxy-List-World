@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|43.225.67.222|80|Indonesia|Jakarta|HSPNET|
-|6|185.165.37.130|1111|Slovakia|Bánovce nad Bebravou|Slovanet a.s.|
-|7|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|11|200.133.247.3|3130|Brazil|São José dos Campos|Rede Nacional de Ensino e Pesquisa|
-|12|213.199.44.90|8000|Germany|Düsseldorf|Contabo GmbH|
-|13|41.33.203.115|1982|Egypt|Beheira|TE Data|
-|14|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.164.178|19105|Canada|Montreal|GloboTech Communications|
-|17|103.48.68.68|83|India|Hyderabad|Country Online Services PVT LTD|
-|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|19|101.109.176.241|8080|Thailand|Bangkok|TOT Public Company Limited|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|3|178.48.68.61|18080|Hungary|Budapest|UPC|
+|4|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|6|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|7|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|8|200.133.247.3|3130|Brazil|São José dos Campos|Rede Nacional de Ensino e Pesquisa|
+|9|103.236.191.101|8082|Indonesia|Jakarta|PT Victory Network Indonesia|
+|10|72.10.164.178|3175|Canada|Montreal|GloboTech Communications|
+|11|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|13|103.67.237.214|3128|India|Hyderabad|OASISGSSERVICES|
+|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|15|111.1.61.53|3128|China|Wenzhou|China Mobile communications corporation|
+|16|212.110.188.189|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 
 
 
