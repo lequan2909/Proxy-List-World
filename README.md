@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|2|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|3|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
-|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|5|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|9|181.10.160.154|8080|Argentina|La Carlota|Telecom Argentina S.A|
-|10|67.43.228.251|5473|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.228|12359|Canada|Montreal|GloboTech Communications|
-|12|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|13|159.192.102.249|8080|Thailand|Lat Bua Luang|CAT-BB|
-|14|67.43.228.253|13705|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|26021|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.174|2893|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.18|23393|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|12241|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|25201|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|6|103.146.185.143|2022|Indonesia|Wonogiri|YAMNET|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|9|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
+|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|11|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|12|186.50.210.61|3128|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
+|13|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|14|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|15|103.193.144.5|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|16|93.123.16.188|3128|Bulgaria|Sofia|Ohost LLC|
+|17|45.4.201.141|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|18|103.82.246.9|8181|Indonesia|Klatak|PT Master Star Network|
+|19|72.10.160.90|3893|Canada|Montreal|GloboTech Communications|
 |20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
