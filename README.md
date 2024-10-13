@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|6|103.253.146.149|8888|Singapore|Singapore|DIGITALOCEAN|
-|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
-|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|12|124.6.165.155|8082|Philippines|Lahug|INNOVE|
-|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|14|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|15|45.202.198.120|3128|United States|San Jose|Octopus Web Solution Inc|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|38.137.203.14|999|Peru|Lima|Internet Services Perú|
-|18|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|19|72.128.133.154|16099|United States|Mission|Charter Communications|
-|20|203.104.34.144|3128|China|Guangzhou|Fuzhou|
+|2|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|3|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|4|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|91.192.33.52|43801|Czechia|Chomutov|ISP Alliance a.s.|
+|10|103.106.115.46|8080|Indonesia|Kedaton|SMSNET|
+|11|118.172.184.25|8180|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|13|27.64.48.10|5102|Vietnam|Ho Chi Minh City|Viettel Group|
+|14|186.86.143.161|999|Colombia|San Gil|Telmex Colombia S.A.|
+|15|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|16|101.255.167.242|8181|Indonesia|Bekasi|PT Remala Abadi|
+|17|51.159.159.73|80|France|Paris|SCALEWAY|
+|18|103.69.20.55|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|19|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|20|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
 
 
 
