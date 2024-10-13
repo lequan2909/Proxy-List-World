@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.58.253|8561|Japan|Osaka|Google LLC|
-|3|34.97.57.4|8561|Japan|Osaka|Google LLC|
-|4|34.97.27.41|8561|Japan|Osaka|Google LLC|
-|5|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|6|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|7|34.97.149.89|8561|Japan|Osaka|Google LLC|
-|8|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|10|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
-|11|45.83.20.3|1080|Belgium|Brussels|Stark Industries Solutions LTD|
-|12|31.207.47.56|8118|The Netherlands|Amsterdam|Hostkey B.V.|
-|13|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|4|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|34.97.27.41|8561|Japan|Osaka|Google LLC|
+|6|31.207.47.56|8118|The Netherlands|Amsterdam|Hostkey B.V.|
+|7|61.7.184.73|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
+|8|34.210.244.200|3128|United States|Portland|Amazon.com, Inc.|
+|9|103.172.70.153|8080|Indonesia|Karangampel|AZNET|
+|10|34.97.31.37|8561|Japan|Osaka|Google LLC|
+|11|200.39.120.43|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|13|45.83.20.3|1080|Belgium|Brussels|Stark Industries Solutions LTD|
 |14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|15|103.172.70.153|8080|Indonesia|Karangampel|AZNET|
-|16|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|17|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|18|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
-|19|103.51.205.20|8080|Indonesia|Sragen|Lintas Data Prima, PT|
-|20|45.175.237.152|999|Mexico|Francisco I. Madero Municipality|Hulux Telecomunicaciones|
+|15|34.97.57.4|8561|Japan|Osaka|Google LLC|
+|16|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
+|17|141.148.26.234|8081|United States|Ashburn|Oracle Corporation|
+|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|19|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|20|161.49.91.13|1337|Philippines|Pasig|Converge ICT Solution Inc|
 
 
 
