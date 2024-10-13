@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|34.97.58.253|8561|Japan|Osaka|Google LLC|
-|4|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
-|5|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
-|7|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|8|34.97.27.41|8561|Japan|Osaka|Google LLC|
-|9|51.159.159.73|80|France|Paris|SCALEWAY|
-|10|103.215.187.67|8080|Indonesia|Mungkid|PT Jaringan Inti Exadata|
-|11|110.39.161.62|8080|Pakistan|Renala Khurd|Wateen Telecom Limited|
-|12|103.125.38.82|8080|Indonesia|Surabaya|PT. Eka Mas Republik|
-|13|34.210.244.200|3128|United States|Portland|Amazon.com, Inc.|
-|14|103.156.15.112|1111|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
-|15|162.240.154.26|3128|United States|Provo|Unified Layer|
-|16|131.0.234.193|55555|Argentina|Villa José León Suárez|MUSURIT|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|19|103.162.54.117|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
-|20|71.14.23.121|8080|United States|Auburn|Spectrum|
+|2|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
+|4|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|5|31.207.47.56|8118|The Netherlands|Amsterdam|Hostkey B.V.|
+|6|178.48.68.61|18080|Hungary|Budapest|UPC|
+|7|51.159.159.73|80|France|Paris|SCALEWAY|
+|8|122.3.45.189|8082|Philippines|Bacoor|Philippine Long Distance Telephone Co.|
+|9|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|10|34.97.27.41|8561|Japan|Osaka|Google LLC|
+|11|41.57.6.30|6060|South Africa|Buffelspoort|Rust Scr|
+|12|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|13|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|14|76.169.129.241|8080|United States|Santa Ana|Charter Communications|
+|15|90.161.186.147|3128|Spain|Calella|Uni2|
+|16|103.173.72.13|1111|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
+|17|208.67.28.28|58090|United States|Eagle River|SonicNet Inc.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|181.205.28.66|46380|Colombia|Medellín|Colombia Móvil|
+|20|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
 
 
 
