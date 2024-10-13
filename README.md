@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5263** proxies at the latest update. Usable proxies are below.
+> Scraper found **5291** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|35|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|566|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|36|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|563|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|397|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|427|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3307|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|4|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|7|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|9|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|13|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|14|39.62.5.240|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
-|15|72.10.160.91|4153|Canada|Montreal|GloboTech Communications|
-|16|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|17|72.10.160.94|23839|Canada|Montreal|GloboTech Communications|
-|18|103.164.223.53|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|19|72.10.160.173|10479|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|14543|Canada|Montreal|GloboTech Communications|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|6|34.97.247.98|8561|Japan|Osaka|Google LLC|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
+|9|8.213.34.58|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|13|103.155.197.127|1111|Indonesia|Sukabumi|JEMBATANDATA|
+|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|15|182.23.127.2|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
