@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.31.37|8561|Japan|Osaka|Google LLC|
+|2|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
-|4|91.107.165.250|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|34.97.57.4|8561|Japan|Osaka|Google LLC|
+|4|162.240.154.26|3128|United States|Provo|Unified Layer|
+|5|38.99.101.101|3128|United States|San Jose|Cogent Communications|
 |6|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|7|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|8|181.143.181.34|8080|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
-|9|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|11|91.107.165.250|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|77.77.210.90|21056|Bosnia and Herzegovina|Sarajevo|TELEMACH BH|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|15|34.210.244.200|3128|United States|Portland|Amazon.com, Inc.|
-|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|17|91.107.165.250|3128|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|72.128.133.154|16099|United States|Mission|Charter Communications|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|14.103.21.34|8081|China|Beijing|BITNET|
+|7|70.186.128.126|8080|United States|Oklahoma City|Cox Communications Inc.|
+|8|179.57.170.143|999|Chile|Talca|Telefonica del Sur S.A.|
+|9|124.120.108.176|8080|Thailand|Bangkok|TRUEBB|
+|10|23.251.5.175|8888|United States|Waynesboro|CABLE ONE, INC.|
+|11|182.253.115.130|8080|Indonesia|Salatiga|BIZNET|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|34.210.244.200|3128|United States|Portland|Amazon.com, Inc.|
+|14|103.105.76.100|8080|Indonesia|Kediri|GARUDA|
+|15|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
+|16|203.104.34.144|3128|China|Guangzhou|Fuzhou|
+|17|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|18|182.53.50.2|3128|Thailand|Bangkok|TOT Public Company Limited|
+|19|182.253.178.29|8080|Indonesia|Jakarta Pusat|BIZNET|
+|20|116.254.99.14|8080|Indonesia|Jakarta|SpaceX Starlink|
 
 
 
