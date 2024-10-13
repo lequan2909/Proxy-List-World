@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|213.199.44.90|8000|Germany|Düsseldorf|Contabo GmbH|
-|3|124.107.144.249|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |7|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|103.36.10.200|8080|Indonesia|Pasuruan|PT Awinet Global Mandiri|
-|9|165.16.27.36|1981|Libya|Benghazi|Aljeel Aljadeed For Technology|
-|10|103.67.237.208|3128|India|Hyderabad|OASISGSSERVICES|
-|11|103.152.93.158|7777|Indonesia|Demak|PT. JAYA LINTAS INDONESIA|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|157.90.6.20|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|9|182.78.42.112|83|India|Manchikalapādu|Bharti Airtel|
+|10|114.130.154.130|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|11|103.48.68.90|83|India|Hyderabad|Country Online Services PVT LTD|
+|12|103.180.196.141|8080|Indonesia|Yogyakarta|PT Dekadata Lingkar Nusantara|
 |13|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|14|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|15|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|16|72.10.160.90|14373|Canada|Montreal|GloboTech Communications|
-|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|18|72.10.164.178|2223|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|23259|Canada|Montreal|GloboTech Communications|
-|20|103.48.68.68|83|India|Hyderabad|Country Online Services PVT LTD|
+|14|67.43.227.226|17449|Canada|Montreal|GloboTech Communications|
+|15|103.180.123.143|8080|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|16|72.10.164.178|1589|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|1589|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|24767|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|8149|Canada|Montreal|GloboTech Communications|
+|20|43.243.140.58|10001|Indonesia|Pisangan|CEPATNET|
 
 
 
