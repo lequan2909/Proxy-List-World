@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|34.97.192.154|8561|Japan|Osaka|Google LLC|
-|4|34.97.220.13|8561|Japan|Osaka|Google LLC|
-|5|34.97.176.53|8561|Japan|Osaka|Google LLC|
-|6|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|7|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|34.210.244.200|3128|United States|Portland|Amazon.com, Inc.|
-|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|12|163.172.33.137|4376|France|Vitry-sur-Seine|Online S.A.S.|
-|13|34.210.244.200|3128|United States|Portland|Amazon.com, Inc.|
-|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|15|36.88.253.86|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|17|103.148.48.97|8080|Indonesia|Pontianak|BCMEDIA|
-|18|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|19|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|20|45.202.198.12|3128|United States|San Jose|Octopus Web Solution Inc|
+|2|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|5|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
+|6|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|7|34.210.244.200|3128|United States|Portland|Amazon.com, Inc.|
+|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|9|34.210.244.200|3128|United States|Portland|Amazon.com, Inc.|
+|10|222.103.182.58|3128|South Korea|Gimcheon|Korea Telecom|
+|11|34.97.176.53|8561|Japan|Osaka|Google LLC|
+|12|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|13|34.97.220.13|8561|Japan|Osaka|Google LLC|
+|14|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|15|58.19.22.61|3128|China|Wuhan|CNC Group CHINA169 Hubei Province Network|
+|16|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|17|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
+|18|103.67.84.78|8085|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|103.41.33.246|58080|India|Mumbai|Juweriyah Networks Private Limited|
 
 
 
