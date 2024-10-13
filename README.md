@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|2|116.107.91.158|5000|Vietnam|Hải Dương|Viettel Corporation|
 |3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
-|5|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|6|202.173.217.4|8080|Thailand|Bangkok|KIRZ Company Limited|
-|7|45.83.20.3|1080|Belgium|Brussels|Stark Industries Solutions LTD|
-|8|34.97.27.41|8561|Japan|Osaka|Google LLC|
-|9|103.167.170.155|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|11|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|12|51.159.159.73|80|France|Paris|SCALEWAY|
-|13|190.61.101.95|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|16|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
-|20|72.10.164.178|5187|Canada|Montreal|GloboTech Communications|
+|4|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|5|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|103.172.70.153|8080|Indonesia|Karangampel|AZNET|
+|10|23.251.5.175|8888|United States|Waynesboro|CABLE ONE, INC.|
+|11|34.97.58.253|8561|Japan|Osaka|Google LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|211.34.124.172|3128|South Korea|Siheung-si|Korea Telecom|
+|14|193.233.84.84|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
+|15|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|16|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|17|181.129.97.34|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|18|51.159.159.73|80|France|Paris|SCALEWAY|
+|19|157.245.50.196|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
