@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5508** proxies at the latest update. Usable proxies are below.
+> Scraper found **5352** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|53|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|737|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|581|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|466|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3294|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|4|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|7|34.97.243.172|8561|Japan|Osaka|Google LLC|
-|8|103.109.237.18|8080|Bangladesh|Tāngāil|City Computer|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|200.133.247.3|3130|Brazil|São José dos Campos|Rede Nacional de Ensino e Pesquisa|
-|11|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|12|124.107.144.249|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|13|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|103.129.3.246|83|India|Bhubaneswar|S S Cablenet|
-|19|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|34.97.154.179|8660|Japan|Osaka|Google LLC|
+|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|6|58.147.185.93|8181|Indonesia|Jakarta|PT. Transhybrid Communication|
+|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|8|213.199.44.90|8000|Germany|Düsseldorf|Contabo GmbH|
+|9|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
+|10|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|11|103.67.237.208|3128|India|Hyderabad|OASISGSSERVICES|
+|12|72.128.133.154|16099|United States|Mission|Charter Communications|
+|13|200.133.247.3|3130|Brazil|São José dos Campos|Rede Nacional de Ensino e Pesquisa|
+|14|34.97.243.172|8561|Japan|Osaka|Google LLC|
+|15|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|103.229.185.154|8080|Indonesia|Pamulang|PT INDONESIA COMNETS PLUS|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|114.130.153.70|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|20|172.233.152.170|3128|United States|Los Angeles|Akamai Technologies, Inc.|
 
 
 
