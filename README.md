@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|6|188.227.140.181|8080|Spain|Madrid|Aire Networks Del Mediterraneo SL Unipersonal|
-|7|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|9|179.1.141.10|8080|Colombia|Bogotá|Internexa S.a. E.S.P|
-|10|103.159.96.74|8080|Indonesia|Gresik|PT Jinde Grup Indonesia|
-|11|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
-|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|13|116.105.79.46|1111|Vietnam|Da Nang|Viettel Corporation|
-|14|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|15|49.48.71.185|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|16|200.133.247.3|3130|Brazil|São José dos Campos|Rede Nacional de Ensino e Pesquisa|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|67.43.227.227|11219|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|4|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|34.97.243.172|8561|Japan|Osaka|Google LLC|
+|8|103.109.237.18|8080|Bangladesh|Tāngāil|City Computer|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|200.133.247.3|3130|Brazil|São José dos Campos|Rede Nacional de Ensino e Pesquisa|
+|11|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|12|124.107.144.249|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|103.129.3.246|83|India|Bhubaneswar|S S Cablenet|
+|19|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
