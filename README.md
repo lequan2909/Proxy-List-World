@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|27.66.73.241|5102|Vietnam|Thái Nguyên|Viettel Group|
-|3|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|4|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|7|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|116.197.132.201|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|13|190.82.105.122|43949|Chile|Santiago|Telefonica Empresas|
-|14|190.128.248.134|999|Paraguay|Asunción|Telecel S.A.|
-|15|67.43.228.254|3681|Canada|Montreal|GloboTech Communications|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|67.43.236.21|10183|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|10495|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.19|7733|Canada|Montreal|GloboTech Communications|
-|20|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|1|34.97.243.172|8561|Japan|Osaka|Google LLC|
+|2|103.247.23.33|1111|Indonesia|Cileungsir|PT wifian Solution|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|8|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
+|9|34.97.247.98|8561|Japan|Osaka|Google LLC|
+|10|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|11|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|13|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|17|124.120.108.176|8080|Thailand|Bangkok|TRUEBB|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|186.50.210.61|3128|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
+|20|197.155.230.206|8080|Zimbabwe|Harare|Liquid Telecommunications Ltd|
 
 
 
