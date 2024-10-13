@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|31.207.47.56|8118|The Netherlands|Amsterdam|Hostkey B.V.|
 |3|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|4|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|8|103.247.21.234|8080|Indonesia|Bekasi|PT wifian Solution|
-|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|10|179.189.236.201|20183|Brazil|São Paulo|America-NET Ltda.|
-|11|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|51.159.159.73|80|France|Paris|SCALEWAY|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|15|203.104.34.144|3128|China|Guangzhou|Fuzhou|
-|16|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|17|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|18|103.239.255.36|58080|Bangladesh|Dhaka|Carnival Internet|
-|19|118.172.184.25|8180|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|20|122.152.55.61|8080|Bangladesh|Chittagong|Innovative Online Ltd|
+|4|116.99.169.146|5101|Vietnam|Huế|Viettel Corporation|
+|5|162.240.154.26|3128|United States|Provo|Unified Layer|
+|6|45.123.142.6|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|7|162.240.154.26|3128|United States|Provo|Unified Layer|
+|8|47.239.65.194|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|212.112.113.182|3128|Kyrgyzstan|Bishkek|AkNet|
+|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|12|129.222.202.169|80|Colombia|Bogota|SpaceX Starlink|
+|13|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|14|179.189.50.160|80|Brazil|Sinop|Avato Tecnologia S.A|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|17|27.64.48.10|5102|Vietnam|Ho Chi Minh City|Viettel Group|
+|18|139.255.41.118|8080|Indonesia|South Tangerang|PT. LINKNET|
+|19|51.159.159.73|80|France|Paris|SCALEWAY|
+|20|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 
 
 
