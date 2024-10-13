@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5208** proxies at the latest update. Usable proxies are below.
+> Scraper found **5203** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|13|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|573|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|568|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|397|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3267|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|3|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
-|4|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|180.180.213.237|8080|Thailand|Chon Buri|TOT Public Company Limited|
-|7|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|8|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|49.49.41.114|8080|Thailand|Udon Thani|Triple T Broadband Public Company Limited|
-|10|103.242.105.251|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|11|189.164.200.125|8080|Mexico|Puebla City|UNINET|
-|12|80.240.55.242|3128|Russia|Yeysk|inetnum UGTEL|
-|13|38.45.32.131|999|Venezuela|La Guaira|TELECOMUNICACIONES G-NETWORK, C.A.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|16|176.36.190.253|8080|Ukraine|Kyiv|Lanet Network|
-|17|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|18|185.116.236.104|3128|United States|New York|Massivegrid LTD|
-|19|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|163.172.33.137|4118|France|Vitry-sur-Seine|Online S.A.S.|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|176.36.190.253|8080|Ukraine|Kyiv|Lanet Network|
+|8|38.188.127.86|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|9|34.97.176.53|8561|Japan|Osaka|Google LLC|
+|10|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|11|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|116.80.82.213|3128|Japan|Shimomeguro|InfoSphere|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|157.245.50.196|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|157.245.50.196|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|72.10.160.173|25885|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.250|7437|Canada|Montreal|GloboTech Communications|
+|18|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
+|19|67.43.227.226|3707|Canada|Montreal|GloboTech Communications|
+|20|190.92.151.66|9021|United States|Phoenix|A2 Hosting, Inc.|
 
 
 
