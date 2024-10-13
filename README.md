@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|34.97.192.154|8561|Japan|Osaka|Google LLC|
-|3|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|5|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|7|116.80.82.213|3128|Japan|Shimomeguro|InfoSphere|
-|8|170.83.82.10|3128|Brazil|Marabá|IBL Banda Larga Internet Informatica LTDA|
-|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|10|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|11|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|12|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|34.210.244.200|3128|United States|Portland|Amazon.com, Inc.|
+|7|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|8|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|9|34.210.244.200|3128|United States|Portland|Amazon.com, Inc.|
+|10|116.80.82.213|3128|Japan|Shimomeguro|InfoSphere|
+|11|109.127.82.162|8080|Iraq|Erbil|Newroz Telecom|
+|12|124.83.110.227|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
 |13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|14|119.40.98.29|20|Mongolia|Ulan Bator|Topica Co., Ltd|
-|15|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|16|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|17|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|18|51.159.159.73|80|France|Paris|SCALEWAY|
-|19|200.119.218.94|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|20|103.118.124.137|6969|Indonesia|Jakarta|Tele|
+|14|170.83.82.10|3128|Brazil|Marabá|IBL Banda Larga Internet Informatica LTDA|
+|15|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|16|128.92.239.190|8080|United States|Los Angeles|Spectrum|
+|17|46.166.165.33|4002|Lithuania|Šiauliai|Cherry Servers|
+|18|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
