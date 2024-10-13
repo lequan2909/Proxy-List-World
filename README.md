@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
 |6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|8|34.97.243.172|8561|Japan|Osaka|Google LLC|
-|9|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
-|10|34.97.247.98|8561|Japan|Osaka|Google LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|38.183.209.33|8080|Indonesia|Tangerang|PT. Putra Lebak Banten|
-|13|186.96.68.72|999|Venezuela|Caracas|Gold Data USA Inc|
-|14|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|15|45.117.29.33|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|16|177.93.48.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|18|163.172.33.137|4376|France|Vitry-sur-Seine|Online S.A.S.|
-|19|119.2.45.51|8080|Indonesia|Jakarta|PT. Laxo Global Akses|
-|20|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|8|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
+|9|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|34.97.154.179|8660|Japan|Osaka|Google LLC|
+|12|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|14|177.93.48.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|15|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|16|163.172.33.137|4376|France|Vitry-sur-Seine|Online S.A.S.|
+|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|67.43.236.20|24085|Canada|Montreal|GloboTech Communications|
+|20|118.137.88.178|8181|Indonesia|Jakarta|Linknet-Fastnet ASN|
 
 
 
