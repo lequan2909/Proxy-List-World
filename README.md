@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|34.97.78.175|8561|Japan|Osaka|Google LLC|
+|4|34.97.46.98|8561|Japan|Osaka|Google LLC|
 |5|34.97.192.154|8561|Japan|Osaka|Google LLC|
 |6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|7|103.153.191.209|8080|Indonesia|Malang|WANET|
-|8|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
-|9|103.157.59.75|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|10|103.156.74.154|8080|Indonesia|Gianyar|PT Trika Global Media|
-|11|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|12|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
-|13|103.155.197.209|8090|Indonesia|Sukabumi|JEMBATANDATA|
-|14|34.97.65.59|8561|Japan|Osaka|Google LLC|
-|15|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|16|72.10.164.178|19833|Canada|Montreal|GloboTech Communications|
-|17|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|18|34.97.229.206|8561|Japan|Osaka|Google LLC|
-|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|20|103.174.237.67|8080|Indonesia|Brebes|PT Global Erasiber Teknologi|
+|7|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
+|8|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|9|186.96.66.149|999|Venezuela|Caracas|Gold Data USA Inc|
+|10|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|12|145.40.97.148|80|The Netherlands|Amsterdam|Packet Host, Inc.|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|34.97.229.206|8561|Japan|Osaka|Google LLC|
+|16|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|17|103.153.191.209|8080|Indonesia|Malang|WANET|
+|18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|72.10.164.178|1209|Canada|Montreal|GloboTech Communications|
+|20|103.153.246.54|8181|Indonesia|Purwakarta|PRIMAHOME|
 
 
 
