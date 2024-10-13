@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5085** proxies at the latest update. Usable proxies are below.
+> Scraper found **5147** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|33|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|479|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|541|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|308|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3307|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|2|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
-|3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|4|194.44.166.182|8099|Ukraine|Rivne|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
-|5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|6|72.10.164.178|23347|Canada|Montreal|GloboTech Communications|
-|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|8|72.10.164.178|23347|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.91|31957|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.91|31957|Canada|Montreal|GloboTech Communications|
-|11|67.43.227.227|28481|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.226|4761|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.172|26135|Canada|Montreal|GloboTech Communications|
-|14|46.166.165.33|4003|Lithuania|Šiauliai|Cherry Servers|
-|15|72.10.164.178|23347|Canada|Montreal|GloboTech Communications|
-|16|103.174.236.96|8080|Indonesia|Brebes|PT Global Erasiber Teknologi|
-|17|72.10.160.90|15221|Canada|Montreal|GloboTech Communications|
-|18|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|19|72.10.164.178|23347|Canada|Montreal|GloboTech Communications|
-|20|101.255.209.242|8080|Indonesia|Jakarta|PT Remala Abadi|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
+|5|27.72.141.201|10086|Vietnam|Hanoi|Newass2011xDSLHN|
+|6|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|67.43.236.19|25931|Canada|Montreal|GloboTech Communications|
+|8|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|9|139.185.35.122|3128|United Arab Emirates|Dubai|Oracle Corporation|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|45.119.113.62|83|India|Hyderabad|Netrun Technologies PVT LTD|
+|13|67.43.228.252|17091|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|28751|Canada|Montreal|GloboTech Communications|
+|15|177.44.223.109|8080|Brazil|Mariópolis|Dataware Telecomunicações LTDA. - EPP|
+|16|67.43.227.227|16689|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|28751|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.253|31621|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|28751|Canada|Montreal|GloboTech Communications|
+|20|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
 
 
 
