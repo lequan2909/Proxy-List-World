@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.58.253|8561|Japan|Osaka|Google LLC|
-|3|34.97.31.37|8561|Japan|Osaka|Google LLC|
-|4|34.97.27.41|8561|Japan|Osaka|Google LLC|
-|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|6|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
-|7|34.97.149.89|8561|Japan|Osaka|Google LLC|
-|8|34.97.57.4|8561|Japan|Osaka|Google LLC|
-|9|103.167.170.155|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|10|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|11|116.107.91.158|5000|Vietnam|Hải Dương|Viettel Corporation|
+|2|34.97.31.37|8561|Japan|Osaka|Google LLC|
+|3|34.97.27.41|8561|Japan|Osaka|Google LLC|
+|4|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|5|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
+|6|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|7|34.97.58.253|8561|Japan|Osaka|Google LLC|
+|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|45.83.20.3|1080|Belgium|Brussels|Stark Industries Solutions LTD|
+|11|34.97.57.4|8561|Japan|Osaka|Google LLC|
 |12|34.210.244.200|3128|United States|Portland|Amazon.com, Inc.|
-|13|175.139.251.236|8081|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|181.129.97.34|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|18|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|19|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|20|51.159.159.73|80|France|Paris|SCALEWAY|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|171.238.239.231|5000|Vietnam|Tuyên Quang|Viettel Corporation|
+|15|51.159.159.73|80|France|Paris|SCALEWAY|
+|16|187.32.246.82|3128|Brazil|Juiz de Fora|ALGAR TELECOM S/A|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|187.188.16.28|999|Mexico|Xalapa|Total Play Telecomunicaciones SA De CV|
+|19|47.88.85.102|443|United States|Minkler|Alibaba.com LLC|
+|20|34.97.31.37|8561|Japan|Osaka|Google LLC|
 
 
 
