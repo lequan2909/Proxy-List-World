@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|2|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
-|3|195.34.243.210|3128|Russia|Lipetsk|Lipetsk Regional Public Network N5|
-|4|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|8|103.159.195.33|3128|Indonesia|Kudus|PT Giga Digital Nusantara|
-|9|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|10|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|12|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|13|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|14|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
-|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|16|67.43.228.253|27533|Canada|Montreal|GloboTech Communications|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|67.43.236.20|17463|Canada|Montreal|GloboTech Communications|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|67.43.227.227|31347|Canada|Montreal|GloboTech Communications|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
+|5|195.34.243.210|3128|Russia|Lipetsk|Lipetsk Regional Public Network N5|
+|6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|9|43.225.67.222|80|Indonesia|Jakarta|HSPNET|
+|10|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|11|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|13|101.109.56.83|8080|Thailand|Pattaya|TOT Public Company Limited|
+|14|181.39.48.120|999|Ecuador|Quito|Telconet S.A|
+|15|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|16|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|17|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|18|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
+|19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 
 
 
