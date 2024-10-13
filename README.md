@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|2|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|34.97.149.89|8561|Japan|Osaka|Google LLC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|6|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
-|7|51.159.159.73|80|France|Paris|SCALEWAY|
-|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|9|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|10|170.81.171.189|8089|Brazil|Francisco Morato|Wireless Comm Services LTDA|
-|11|45.70.238.45|8090|Ecuador|Portoviejo|Ufinet Panama S.A.|
-|12|34.210.244.200|3128|United States|Portland|Amazon.com, Inc.|
-|13|103.122.66.220|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|1|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|51.159.159.73|80|France|Paris|SCALEWAY|
+|5|16.171.74.5|8888|Sweden|Stockholm|Amazon.com|
+|6|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|7|103.106.219.114|1080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|8|45.70.238.45|8090|Ecuador|Portoviejo|Ufinet Panama S.A.|
+|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|70.186.128.126|8080|United States|Oklahoma City|Cox Communications Inc.|
+|12|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |15|34.97.27.41|8561|Japan|Osaka|Google LLC|
-|16|181.129.97.34|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|181.129.97.34|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|19|103.83.97.46|7777|Indonesia|Semarang|PT. Foxline Mediadata Indonusa|
-|20|103.67.84.78|8085|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|223.25.110.193|8080|Indonesia|Surabaya|SinergiNet|
+|18|51.159.159.73|80|France|Paris|SCALEWAY|
+|19|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
