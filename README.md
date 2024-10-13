@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|7|20.219.176.57|3129|India|Pune|Microsoft Corporation|
-|8|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|9|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|10|114.7.160.142|8080|Indonesia|Tangerang|PT. INDOSAT Tbk|
-|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|12|46.161.196.144|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|13|186.50.210.61|3128|Uruguay|Montevideo|Administracion Nacional de Telecomunicaciones|
-|14|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|15|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|16|27.64.48.10|5102|Vietnam|Ho Chi Minh City|Viettel Group|
-|17|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|119.47.90.240|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|20|160.16.109.252|18080|Japan|Tokyo|SAKURA Internet Inc.|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|47.241.43.44|7777|Singapore|Singapore|Alibaba Cloud LLC|
+|8|45.83.20.3|1080|Belgium|Brussels|Stark Industries Solutions LTD|
+|9|119.76.142.133|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
+|10|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|12|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|14|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
+|15|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|16|186.24.9.204|9898|Venezuela|Caracas|TELEFONICA VENEZOLANA, C.A.|
+|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|18|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|19|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|20|115.72.160.116|10005|Vietnam|Vũng Tàu|VIETELmetro|
 
 
 
