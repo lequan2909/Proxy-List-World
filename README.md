@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|34.97.176.53|8561|Japan|Osaka|Google LLC|
-|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|119.76.142.164|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
-|10|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|11|138.201.246.148|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|12|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|13|34.97.154.179|8660|Japan|Osaka|Google LLC|
-|14|131.100.48.105|999|Colombia|Neiva|Fibernet TV SAS|
-|15|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|17|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|18|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|119.76.142.164|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
+|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|34.97.154.179|8660|Japan|Osaka|Google LLC|
+|8|38.52.221.66|8080|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|10|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|201.20.67.70|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|34.97.176.53|8561|Japan|Osaka|Google LLC|
+|16|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|19|190.128.201.236|3128|Paraguay|Luque|Telecel S.A.|
+|20|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
 
 
 
