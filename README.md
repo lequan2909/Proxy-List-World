@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|4|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|67.43.228.253|23641|Canada|Montreal|GloboTech Communications|
-|8|67.43.227.227|15759|Canada|Montreal|GloboTech Communications|
-|9|209.200.246.243|9595|Canada|Toronto|Ipxo LLC|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|13|67.43.227.227|15759|Canada|Montreal|GloboTech Communications|
-|14|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|15|72.10.160.90|12307|Canada|Montreal|GloboTech Communications|
-|16|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|17|72.10.164.178|21003|Canada|Montreal|GloboTech Communications|
-|18|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|19|67.43.236.19|24423|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|12307|Canada|Montreal|GloboTech Communications|
+|4|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|5|174.168.230.75|8118|United States|Portsmouth|Comcast Cable Communications, LLC|
+|6|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|7|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|11|15.235.12.19|3128|Canada|Montreal|OVH SAS|
+|12|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|13|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|14|209.200.246.243|9595|Canada|Toronto|Ipxo LLC|
+|15|103.236.191.101|8082|Indonesia|Jakarta|PT Victory Network Indonesia|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|18|67.43.227.227|33247|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|33247|Canada|Montreal|GloboTech Communications|
+|20|103.48.68.68|83|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
