@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|4|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|162.240.154.26|3128|United States|Provo|Unified Layer|
-|8|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|3|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|4|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|5|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|6|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|7|15.235.12.19|3128|Canada|Montreal|OVH SAS|
+|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 |9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|186.225.108.43|8080|Brazil|São Paulo|America-NET Ltda|
-|12|171.228.158.152|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
-|13|58.147.186.214|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
-|14|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|15|45.76.122.178|80|Australia|Sydney|The Constant Company|
-|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|17|46.254.220.30|8080|Russia|Ivanteyevka|Ivanteevskie telekommunikacii LLC|
-|18|157.15.63.230|8090|Indonesia|Malang|PT Anugerah Media Data Nusantara|
-|19|15.235.12.19|3128|Canada|Montreal|OVH SAS|
-|20|222.127.153.184|8082|Philippines|Carmona|Globe Telecom|
+|10|186.96.50.113|999|Mexico|Aguascalientes|Total Play Telecomunicaciones SA De CV|
+|11|171.238.239.231|5000|Vietnam|Tuyên Quang|Viettel Corporation|
+|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|34.100.188.246|8888|India|Mumbai|Google LLC|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|35.240.131.226|3128|Singapore|Singapore|Google LLC|
+|18|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|19|72.10.164.178|13895|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
