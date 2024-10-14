@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|481|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|481|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|481|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|203.150.128.38|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|7|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|8|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|9|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|49.48.69.117|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|11|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|12|138.201.246.148|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|13|189.232.97.26|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|14|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|15|202.62.62.29|8080|Cambodia|Phnom Penh|COGETEL Co., Ltd|
-|16|172.99.190.30|8080|United Kingdom|London|GTHost|
-|17|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
-|18|187.155.55.210|999|Mexico|Mérida|Uninet S.A. de C.V.|
-|19|51.75.143.205|3128|France|Gravelines|OVH SAS|
-|20|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|34.97.176.53|8561|Japan|Osaka|Google LLC|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|7|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|34.97.247.98|8561|Japan|Osaka|Google LLC|
+|10|203.150.128.38|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|11|159.65.157.65|3128|India|Bengaluru|DigitalOcean, LLC|
+|12|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|13|58.136.169.194|8080|Thailand|Udon Thani|AIS-Fibre|
+|14|189.101.185.87|3128|Brazil|Sorocaba|Claro NXT Telecomunicacoes Ltda|
+|15|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|16|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|17|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|19|104.171.202.57|3128|United States|Dallas|Lambda|
+|20|49.48.69.117|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
 
 
 
