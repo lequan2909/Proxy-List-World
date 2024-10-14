@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|3|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|5|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|6|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|6|186.0.144.141|9595|Brazil|Birigui|Tellius Telecomunicacoes DAS Americas Ltda|
 |7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|11|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|72.10.164.178|24237|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|24237|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.91|8035|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|24505|Canada|Montreal|GloboTech Communications|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|19|67.43.227.230|28403|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|1747|Canada|Montreal|GloboTech Communications|
+|8|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|45.76.122.178|80|Australia|Sydney|The Constant Company|
+|10|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|13|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|147.28.155.20|10075|United States|Dallas|Packet Host, Inc.|
+|16|67.43.227.227|28063|Canada|Montreal|GloboTech Communications|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|67.43.228.253|7719|Canada|Montreal|GloboTech Communications|
+|19|157.66.221.222|39218|Vietnam|Thành Phố Thủ Dầu Một|Cloud Data Technology and Communication Company Limited|
+|20|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
 
 
 
