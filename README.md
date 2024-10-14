@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5452** proxies at the latest update. Usable proxies are below.
+> Scraper found **5389** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|67|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|728|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|66|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|614|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|335|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|387|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3364|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|4|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|5|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|6|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
-|7|34.97.154.179|8660|Japan|Osaka|Google LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|138.201.246.148|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|13|67.43.227.226|9669|Canada|Montreal|GloboTech Communications|
-|14|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|15|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|17|72.10.160.172|15141|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|9669|Canada|Montreal|GloboTech Communications|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|72.10.160.170|11817|Canada|Montreal|GloboTech Communications|
+|2|172.233.152.170|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|4|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|5|118.99.119.74|8080|Indonesia|Bandar Lampung|Biznet Networks|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|172.233.152.170|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|8|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|10|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|11|138.201.246.148|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|12|120.28.189.82|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|13|103.56.157.39|8080|Vietnam|Hanoi|VCCORP|
+|14|192.162.192.148|55443|Russia|Uglich|SigmaRoute|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|138.117.231.131|999|Guatemala|Huehuetenango|Fibernet S.A|
+|18|181.205.28.69|46380|Colombia|Medellín|Colombia Móvil|
+|19|103.123.85.51|8080|Indonesia|Temanggung|PT Desane Sinar Media|
+|20|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 
 
 
