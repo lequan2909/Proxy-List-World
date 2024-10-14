@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|4|133.208.148.135|8080|Japan|Chiyoda|NET-JP-ERX|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|4.230.148.252|3128|South Korea|Seoul|Microsoft Corporation|
-|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|8|49.147.115.39|8080|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|9|54.70.120.91|3128|United States|Portland|Amazon.com, Inc.|
+|2|49.48.53.119|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|3|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|5|159.65.157.65|3128|India|Bengaluru|DigitalOcean, LLC|
+|6|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|7|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|8|157.66.84.27|8181|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
+|9|103.5.172.114|8080|Afghanistan|Kabul|Global Entourage Services|
 |10|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|11|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|12|54.70.120.91|3128|United States|Portland|Amazon.com, Inc.|
+|11|112.198.179.57|8082|Philippines|Carmona|Globe Telecom|
+|12|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
 |13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|38.51.183.248|999|Venezuela|Barinas|THUNDERNET, C.A.|
-|16|189.8.6.3|8080|Brazil|São Paulo|Universal Telecom S.A.|
-|17|45.221.195.250|8080|Tanzania|Arusha|Habari Node PLC|
-|18|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|19|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|20|181.188.238.147|999|Ecuador|Quito|Otecel S.A.|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|16|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|17|189.101.185.87|3128|Brazil|Sorocaba|Claro NXT Telecomunicacoes Ltda|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|67.43.227.228|29615|Canada|Montreal|GloboTech Communications|
+|20|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
 
 
 
