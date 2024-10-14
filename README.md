@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|115.77.20.123|2024|Vietnam|Ho Chi Minh City|Viettel Group|
-|3|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|4|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|5|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|6|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|7|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|8|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|9|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|10|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|11|34.97.154.179|8660|Japan|Osaka|Google LLC|
-|12|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|13|119.110.71.161|63123|Indonesia|Jakarta|Maxindo|
-|14|144.86.187.43|3129|United States|Malden|Charles River Operation|
-|15|138.201.246.148|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|16|103.81.220.9|8080|Indonesia|Bandung|STARNET|
-|17|103.67.237.214|3128|India|Hyderabad|OASISGSSERVICES|
-|18|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|19|144.86.187.47|3129|United States|Malden|Charles River Operation|
-|20|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|1|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|2|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|3|103.199.117.162|8080|Indonesia|Ungaran|PT Hepra Teknologi Indonesia|
+|4|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|5|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|6|168.227.40.71|9192|Brazil|Cabo de Santo Agostinho|Digitec Eletronica Ltda - ME|
+|7|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|9|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|10|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|67.43.227.227|9363|Canada|Montreal|GloboTech Communications|
+|12|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|13|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|14|144.86.187.53|3129|United States|Malden|Charles River Operation|
+|15|72.10.164.178|18069|Canada|Montreal|GloboTech Communications|
+|16|144.86.187.43|3129|United States|Malden|Charles River Operation|
+|17|72.10.164.178|18069|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|9363|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.172|24169|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|9363|Canada|Montreal|GloboTech Communications|
 
 
 
