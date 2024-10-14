@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|115.77.20.123|2024|Vietnam|Ho Chi Minh City|Viettel Group|
-|4|34.97.52.66|8561|Japan|Osaka|Google LLC|
-|5|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|6|34.97.192.154|8561|Japan|Osaka|Google LLC|
-|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|8|34.97.72.201|8561|Japan|Osaka|Google LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|11|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|12|34.97.176.53|8561|Japan|Osaka|Google LLC|
-|13|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|14|34.97.65.59|8561|Japan|Osaka|Google LLC|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|34.97.220.13|8561|Japan|Osaka|Google LLC|
-|17|144.86.187.60|3129|United States|Malden|Charles River Operation|
-|18|144.86.187.37|3129|United States|Malden|Charles River Operation|
-|19|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|34.97.61.13|8561|Japan|Osaka|Google LLC|
+|1|34.97.52.66|8561|Japan|Osaka|Google LLC|
+|2|34.97.192.154|8561|Japan|Osaka|Google LLC|
+|3|34.97.176.53|8561|Japan|Osaka|Google LLC|
+|4|34.97.72.201|8561|Japan|Osaka|Google LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|34.97.57.4|8561|Japan|Osaka|Google LLC|
+|7|34.97.11.208|8561|Japan|Osaka|Google LLC|
+|8|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|10|34.97.220.13|8561|Japan|Osaka|Google LLC|
+|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|14|34.97.78.175|8561|Japan|Osaka|Google LLC|
+|15|34.97.67.132|8561|Japan|Osaka|Google LLC|
+|16|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|17|34.97.154.179|8660|Japan|Osaka|Google LLC|
+|18|45.233.169.57|999|Colombia|Popayán|Simect Group Redes E Internet S.A.S|
+|19|144.86.187.60|3129|United States|Malden|Charles River Operation|
+|20|103.234.35.150|7777|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
 
 
 
