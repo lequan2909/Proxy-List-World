@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5546** proxies at the latest update. Usable proxies are below.
+> Scraper found **5494** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|66|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|796|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|68|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|655|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|329|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|416|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3397|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|3|3.109.34.93|3128|India|Mumbai|Amazon Technologies Inc.|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
 |4|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|5|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|34.97.192.154|8561|Japan|Osaka|Google LLC|
-|10|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|13|103.88.239.178|84|India|Hyderabad|Mana Communications|
-|14|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|15|157.245.50.196|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|184.105.177.100|8080|United States|Fremont|Hurricane Electric LLC|
-|17|34.97.68.25|8561|Japan|Osaka|Google LLC|
-|18|72.10.164.178|23703|Canada|Montreal|GloboTech Communications|
-|19|181.171.117.15|8080|Argentina|La Plata|Telecom Argentina S.A|
-|20|72.10.164.178|23703|Canada|Montreal|GloboTech Communications|
+|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|9|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|10|176.9.238.176|16379|Germany|Falkenstein|Hetzner|
+|11|34.97.52.66|8561|Japan|Osaka|Google LLC|
+|12|79.174.188.153|8080|Russia|Moscow|Unitel, LLC|
+|13|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|203.150.128.200|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|67.43.236.19|3377|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.93|27645|Canada|Montreal|GloboTech Communications|
+|19|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|20|72.10.160.90|28509|Canada|Montreal|GloboTech Communications|
 
 
 
