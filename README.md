@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|6|104.167.197.172|9595|United States|Miami|Newserverlife LLC|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
-|9|34.97.57.4|8561|Japan|Osaka|Google LLC|
-|10|34.97.11.208|8561|Japan|Osaka|Google LLC|
-|11|103.156.16.130|8080|Indonesia|Jakarta|RSTNET|
-|12|116.97.62.167|5000|Vietnam|Hanoi|Viettel Corporation|
-|13|202.57.25.86|8080|Indonesia|Semarang|announced of WINET|
-|14|103.178.42.100|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
-|15|45.81.144.45|8085|Iraq|Duhok|Fact LTD|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|34.97.67.132|8561|Japan|Osaka|Google LLC|
-|18|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|19|190.94.213.6|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|20|34.97.176.53|8561|Japan|Osaka|Google LLC|
+|2|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|5|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
+|6|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|51.159.159.73|80|France|Paris|SCALEWAY|
+|10|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|104.167.197.172|3128|United States|Miami|Newserverlife LLC|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|45.76.122.178|80|Australia|Sydney|The Constant Company|
+|14|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|17|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|18|103.208.102.6|8080|Indonesia|Wonosobo|PT Tidar Lintas Nusa|
+|19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|20|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
