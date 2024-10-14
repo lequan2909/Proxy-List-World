@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|54.70.120.91|3128|United States|Portland|Amazon.com, Inc.|
-|5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|6|189.232.97.26|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|7|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|9|189.101.185.87|3128|Brazil|Sorocaba|Claro NXT Telecomunicacoes Ltda|
-|10|54.70.120.91|3128|United States|Portland|Amazon.com, Inc.|
-|11|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|12|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
-|13|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|14|89.114.185.185|8080|Portugal|Porto|Vodafone Portugal|
-|15|49.147.115.39|8080|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|16|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|17|143.255.111.112|3128|Brazil|Brasília|MCD INFORMATICA E TELECOMUNICACOES LTDA - ME|
-|18|181.225.224.251|3128|Cuba|Havana|Empresa de Telecomunicaciones de Cuba|
-|19|152.172.80.10|999|Chile|Alto Hospicio|TELEFÓNICA CHILE S.A.|
-|20|58.136.244.181|8080|Thailand|Bangkok|AIS-Fibre|
+|2|203.150.128.38|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|138.201.246.148|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|7|45.133.107.238|81|Russia|Tul'skiy|Art-net LLC|
+|8|189.232.97.26|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|10|189.8.6.3|8080|Brazil|São Paulo|Universal Telecom S.A.|
+|11|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
+|12|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|13|189.101.185.87|3128|Brazil|Sorocaba|Claro NXT Telecomunicacoes Ltda|
+|14|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|119.95.175.255|8081|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|49.147.115.39|8080|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|18|89.169.36.16|3128|Kazakhstan|Almaty|NLS ASTANA LLP|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|152.172.80.10|999|Chile|Alto Hospicio|TELEFÓNICA CHILE S.A.|
 
 
 
