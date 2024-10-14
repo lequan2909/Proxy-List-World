@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
 |3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|27.76.203.113|5102|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|6|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|7|156.236.73.161|8082|Japan|Chiyoda|Yisu Cloud|
-|8|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|12|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|13|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|14|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|15|67.43.228.251|24199|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.230|14405|Canada|Montreal|GloboTech Communications|
-|17|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|18|67.43.227.227|9431|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|19953|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|19953|Canada|Montreal|GloboTech Communications|
+|4|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|7|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|103.169.133.22|8085|Indonesia|Majalengka|PT Alfa Omega Interkoneksi|
+|9|103.22.99.42|8080|Indonesia|Magetan|KHALISTAGROUP|
+|10|66.96.233.62|8085|Indonesia|Jakarta|MYREPUBLIC|
+|11|144.86.187.40|3129|United States|Malden|Charles River Operation|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|16|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|17|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
 
 
 
