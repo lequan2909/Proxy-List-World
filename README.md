@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|7|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|14|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|185.200.38.101|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|103.236.191.101|8082|Indonesia|Jakarta|PT Victory Network Indonesia|
+|1|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|2|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|6|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|14|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|15|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
+|16|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
 |17|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|18|115.74.246.138|8080|Vietnam|Quận Mười Một|VIETELxdsl|
-|19|72.10.160.92|32451|Canada|Montreal|GloboTech Communications|
-|20|180.88.111.187|3128|China|Beijing|GXBLnet|
+|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|20|72.10.164.178|17643|Canada|Montreal|GloboTech Communications|
 
 
 
