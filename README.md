@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|2|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
 |3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|6|36.88.123.218|41890|Indonesia|Sumedang|PT. Telekomunikasi Indonesia|
-|7|103.67.237.211|3128|India|Hyderabad|OASISGSSERVICES|
-|8|198.24.188.142|54793|United States|Ashburn|Secured Servers LLC|
-|9|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|13|198.24.188.142|54793|United States|Ashburn|Secured Servers LLC|
-|14|103.67.237.219|3128|India|Hyderabad|OASISGSSERVICES|
-|15|103.31.235.102|8080|Indonesia|Ciampea|PT Usaha Adi Sanggoro|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|41.173.7.82|8080|Uganda|Kampala|Liquid Telecommunications Ltd|
-|18|138.117.231.131|999|Guatemala|Huehuetenango|Fibernet S.A|
-|19|103.156.74.156|8083|Indonesia|Gianyar|PT Trika Global Media|
-|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|10|186.103.142.219|999|Chile|Santiago|Telefonica Empresas Chile SA|
+|11|201.62.125.142|8080|Brazil|Rio Claro|Claro NXT Telecomunicacoes Ltda|
+|12|34.97.72.201|8561|Japan|Osaka|Google LLC|
+|13|103.67.237.212|3128|India|Hyderabad|OASISGSSERVICES|
+|14|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|118.99.119.74|8080|Indonesia|Bandar Lampung|Biznet Networks|
+|16|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|17|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|109.109.166.176|8104|United Kingdom|Stockport|Vispa Limited|
+|20|83.171.111.142|8080|Russia|Murmansk|Rostelecom networks|
 
 
 
