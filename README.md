@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|4|171.245.119.233|5000|Vietnam|Thái Bình|Viettel Corporation|
-|5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|15.235.12.19|3128|Canada|Montreal|OVH SAS|
+|7|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
 |8|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|9|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|11|218.155.31.188|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|15|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
-|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|17|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|18|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|129.222.202.169|80|Colombia|Bogota|SpaceX Starlink|
-|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|12|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|13|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|14|103.172.197.245|8085|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|15|103.69.20.108|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|16|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|18|72.10.160.90|32611|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|3519|Canada|Montreal|GloboTech Communications|
+|20|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 
 
 
