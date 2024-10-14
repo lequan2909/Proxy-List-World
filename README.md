@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|6|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|9|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|10|58.69.117.149|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|11|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|12|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|67.43.236.20|31275|Canada|Montreal|GloboTech Communications|
-|16|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|17|72.10.164.178|4115|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|17437|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.174|21339|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|11183|Canada|Montreal|GloboTech Communications|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|8|66.206.15.148|8134|United States|Los Angeles|Primary|
+|9|66.206.15.148|8134|United States|Los Angeles|Primary|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|12|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|13|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|14|201.134.169.214|8205|Mexico|Mexico City|Uninet S.A. de C.V.|
+|15|212.110.188.204|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|16|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
 
 
 
