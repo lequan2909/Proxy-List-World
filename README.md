@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|148.255.115.166|999|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
-|5|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|6|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|9|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|11|181.129.97.34|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|12|27.72.232.84|5102|Vietnam|Hanoi|Viettel Group|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|15|60.49.152.31|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|67.43.227.228|20991|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|12489|Canada|Montreal|GloboTech Communications|
-|20|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|2|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|4|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|5|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|6|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|7|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|10|171.228.132.62|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
+|11|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|13|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|14|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
+|15|1.10.227.16|8080|Thailand|Damnoen Saduak|TOT Public Company Limited|
+|16|157.20.253.43|8989|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|181.129.97.34|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
