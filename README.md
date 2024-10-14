@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|427|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|427|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|427|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.97.176.53|8561|Japan|Osaka|Google LLC|
+|1|34.97.220.13|8561|Japan|Osaka|Google LLC|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|4|34.97.220.13|8561|Japan|Osaka|Google LLC|
+|4|34.97.68.25|8561|Japan|Osaka|Google LLC|
 |5|34.97.57.4|8561|Japan|Osaka|Google LLC|
-|6|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|7|34.97.72.201|8561|Japan|Osaka|Google LLC|
-|8|34.97.68.25|8561|Japan|Osaka|Google LLC|
-|9|34.97.46.98|8561|Japan|Osaka|Google LLC|
-|10|34.97.154.179|8660|Japan|Osaka|Google LLC|
-|11|34.97.78.175|8561|Japan|Osaka|Google LLC|
+|6|34.97.78.175|8561|Japan|Osaka|Google LLC|
+|7|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|8|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|9|34.97.154.179|8660|Japan|Osaka|Google LLC|
+|10|34.97.11.208|8561|Japan|Osaka|Google LLC|
+|11|34.97.176.53|8561|Japan|Osaka|Google LLC|
 |12|34.97.229.206|8561|Japan|Osaka|Google LLC|
-|13|34.97.67.132|8561|Japan|Osaka|Google LLC|
-|14|34.97.11.208|8561|Japan|Osaka|Google LLC|
-|15|34.97.243.172|8561|Japan|Osaka|Google LLC|
-|16|34.97.61.13|8561|Japan|Osaka|Google LLC|
-|17|37.187.109.70|10111|France|Gravelines|OVH SAS|
+|13|34.97.243.172|8561|Japan|Osaka|Google LLC|
+|14|34.97.72.201|8561|Japan|Osaka|Google LLC|
+|15|34.97.67.132|8561|Japan|Osaka|Google LLC|
+|16|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|17|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |18|34.97.31.37|8561|Japan|Osaka|Google LLC|
-|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|34.97.61.13|8561|Japan|Osaka|Google LLC|
+|20|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
 
 
 
