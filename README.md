@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|4|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
 |7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|1.0.171.213|8080|Thailand|Wang Noi|TOT Public Company Limited|
-|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|136.60.0.212|80|United States|Austin|Google Fiber Inc.|
-|12|174.168.230.75|8118|United States|Portsmouth|Comcast Cable Communications, LLC|
+|8|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|9|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|10|176.9.238.176|16379|Germany|Falkenstein|Hetzner|
+|11|34.97.52.66|8561|Japan|Osaka|Google LLC|
+|12|79.174.188.153|8080|Russia|Moscow|Unitel, LLC|
 |13|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|15|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|16|186.65.106.90|2020|Brazil|Salvador|Bahiadados Telecom Ltda.|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|67.43.236.19|3377|Canada|Montreal|GloboTech Communications|
-|19|117.1.91.215|5101|Vietnam|Hanoi|Viettel Corporation|
-|20|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|203.150.128.200|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|67.43.236.19|3377|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.93|27645|Canada|Montreal|GloboTech Communications|
+|19|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|20|72.10.160.90|28509|Canada|Montreal|GloboTech Communications|
 
 
 
