@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|5|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|8|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|9|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|10|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|16|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
-|17|46.254.220.30|8080|Russia|Ivanteyevka|Ivanteevskie telekommunikacii LLC|
-|18|202.51.199.100|8080|Indonesia|Bogor|PT. Sejahtera Globalindo|
-|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|20|206.189.33.26|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|43.203.252.29|80|South Korea|Seoul|Amazon.com, Inc.|
+|8|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|9|15.235.12.19|3128|Canada|Montreal|OVH SAS|
+|10|186.225.108.43|8080|Brazil|São Paulo|America-NET Ltda|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|13|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|138.201.246.148|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|16|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|17|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|20|72.10.164.178|26041|Canada|Montreal|GloboTech Communications|
 
 
 
