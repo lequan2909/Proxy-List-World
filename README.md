@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|4|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|3|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
 |6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|7|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|8|116.202.217.96|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|12|34.97.154.179|8660|Japan|Osaka|Google LLC|
-|13|157.20.146.76|3127|Pakistan|Lahore|Z COM NETWORKS|
-|14|34.97.68.25|8561|Japan|Osaka|Google LLC|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
-|17|34.97.243.172|8561|Japan|Osaka|Google LLC|
-|18|34.97.176.53|8561|Japan|Osaka|Google LLC|
-|19|34.97.65.59|8561|Japan|Osaka|Google LLC|
-|20|34.97.220.13|8561|Japan|Osaka|Google LLC|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|9|103.156.16.130|8080|Indonesia|Jakarta|RSTNET|
+|10|190.121.157.141|999|Colombia|Lourdes|Media Commerce Partners S.A|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|14|95.0.168.62|1981|Türkiye|Karkamış|Turk Telekomunikasyon Anonim Sirketi|
+|15|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|20|157.20.146.76|3127|Pakistan|Lahore|Z COM NETWORKS|
 
 
 
