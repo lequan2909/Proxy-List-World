@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|455|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|455|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|455|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|429|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|429|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|429|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|2|34.97.57.4|8561|Japan|Osaka|Google LLC|
-|3|34.97.72.201|8561|Japan|Osaka|Google LLC|
-|4|34.97.31.37|8561|Japan|Osaka|Google LLC|
-|5|34.97.52.66|8561|Japan|Osaka|Google LLC|
-|6|34.97.176.53|8561|Japan|Osaka|Google LLC|
-|7|34.97.46.98|8561|Japan|Osaka|Google LLC|
-|8|34.97.220.13|8561|Japan|Osaka|Google LLC|
-|9|34.97.68.25|8561|Japan|Osaka|Google LLC|
-|10|34.97.67.132|8561|Japan|Osaka|Google LLC|
-|11|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|12|34.97.243.172|8561|Japan|Osaka|Google LLC|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|34.97.58.253|8561|Japan|Osaka|Google LLC|
-|15|34.97.154.179|8660|Japan|Osaka|Google LLC|
-|16|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|17|34.97.78.175|8561|Japan|Osaka|Google LLC|
-|18|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|19|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|20|34.97.247.98|8561|Japan|Osaka|Google LLC|
+|1|34.97.176.53|8561|Japan|Osaka|Google LLC|
+|2|34.97.154.179|8660|Japan|Osaka|Google LLC|
+|3|34.97.192.154|8561|Japan|Osaka|Google LLC|
+|4|34.97.52.66|8561|Japan|Osaka|Google LLC|
+|5|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|6|34.97.57.4|8561|Japan|Osaka|Google LLC|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|34.97.67.132|8561|Japan|Osaka|Google LLC|
+|9|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|10|34.97.68.25|8561|Japan|Osaka|Google LLC|
+|11|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|12|34.97.46.98|8561|Japan|Osaka|Google LLC|
+|13|34.97.11.208|8561|Japan|Osaka|Google LLC|
+|14|34.97.72.201|8561|Japan|Osaka|Google LLC|
+|15|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|16|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|18|34.97.78.175|8561|Japan|Osaka|Google LLC|
+|19|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|20|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 
 
 
