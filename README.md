@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|4|178.48.68.61|18080|Hungary|Budapest|UPC|
-|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|7|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|8|195.191.158.172|80|Russia|Ramenskoye|Intelsc Ltd.|
-|9|51.159.159.73|80|France|Paris|SCALEWAY|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|160.22.118.87|39083|Vietnam|An Hải|Cloud Data Technology and Communication Company Limited|
 |10|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
-|11|190.121.143.129|999|Colombia|San Martín|Media Commerce Partners S.A|
-|12|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|13|115.75.99.65|8080|Vietnam|Can Tho|VIETELxdsl|
-|14|45.81.144.45|8085|Iraq|Duhok|Fact LTD|
-|15|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|16|72.10.160.90|16165|Canada|Montreal|GloboTech Communications|
-|17|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
-|18|72.10.160.171|2215|Canada|Montreal|GloboTech Communications|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|13|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|14|136.232.116.2|48976|India|Ahmedabad|Reliance Jio Infocomm Limited|
+|15|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|188.132.150.86|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|18|180.88.111.187|3128|China|Beijing|GXBLnet|
+|19|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
 |20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
