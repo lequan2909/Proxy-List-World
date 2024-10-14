@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.97.154.179|8660|Japan|Osaka|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|198.24.187.93|32683|United States|Ashburn|Secured Servers LLC|
-|4|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
-|5|118.67.134.17|80|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|198.24.187.93|32683|United States|Ashburn|Secured Servers LLC|
-|8|34.97.192.154|8561|Japan|Osaka|Google LLC|
-|9|103.156.17.35|8181|Indonesia|Indramayu|RSTNET|
-|10|34.97.72.201|8561|Japan|Osaka|Google LLC|
-|11|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|12|58.19.22.61|3128|China|Wuhan|CNC Group CHINA169 Hubei Province Network|
-|13|67.43.228.252|31167|Canada|Montreal|GloboTech Communications|
-|14|179.42.72.186|85|Brazil|São Paulo|Giga Sul Telecom|
-|15|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|72.10.160.90|5553|Canada|Montreal|GloboTech Communications|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|5|34.97.154.179|8660|Japan|Osaka|Google LLC|
+|6|34.97.192.154|8561|Japan|Osaka|Google LLC|
+|7|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|8|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|72.10.160.90|11995|Canada|Montreal|GloboTech Communications|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|15|72.10.160.170|28081|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|1217|Canada|Montreal|GloboTech Communications|
+|17|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|18|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|19|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|181.129.97.34|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
