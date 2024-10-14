@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5344** proxies at the latest update. Usable proxies are below.
+> Scraper found **5408** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|64|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|606|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|670|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|361|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3355|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|7|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|10|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|13|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|14|195.123.240.138|7777|United States|Los Angeles|Green Floid LLC|
-|15|119.18.146.171|5020|Bangladesh|Chittagong|BBTS Network|
-|16|190.205.40.94|3128|Venezuela|Caracas|CANTV Servicios, Venezuela|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|212.110.188.193|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|19|91.239.17.22|8080|Russia|Ulyanovsk|Telecom.ru Ltd|
-|20|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|4|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|9|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|10|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|13|93.188.82.142|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|15|102.164.252.145|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|18|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|19|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|20|198.24.188.138|36250|United States|Ashburn|Secured Servers LLC|
 
 
 
