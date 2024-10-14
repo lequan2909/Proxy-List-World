@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|119.76.142.164|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
-|9|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|49.48.95.22|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|16|36.94.47.59|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|20|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|3|171.97.85.246|8080|Thailand|Khon Kaen|True Internet Corporation CO. Ltd.|
+|4|171.228.158.152|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
+|5|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|8|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|11|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|12|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|13|181.209.125.186|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|14|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|15|131.100.48.105|999|Colombia|Neiva|Fibernet TV SAS|
+|16|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|126.209.13.226|8082|Philippines|Manila|Infinivan Incorporated|
+|19|103.154.178.106|3128|Indonesia|Jambi City|PT Aneka Teguh Jaya|
+|20|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
