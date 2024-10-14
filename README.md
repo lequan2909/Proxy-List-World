@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|13|72.10.164.178|20247|Canada|Montreal|GloboTech Communications|
-|14|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|17|72.10.160.91|15347|Canada|Montreal|GloboTech Communications|
-|18|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
-|19|67.43.227.226|8615|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.254|4839|Canada|Montreal|GloboTech Communications|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|5|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|7|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|9|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|10|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|11|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|14|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|19|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
