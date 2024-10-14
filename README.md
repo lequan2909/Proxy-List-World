@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|185.9.139.145|8080|Albania|Tirana|ABnet Sh.p.k|
-|4|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|6|178.48.68.61|18080|Hungary|Budapest|UPC|
-|7|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|103.124.137.150|20|Indonesia|Tamanan|Global Media Data Prima|
-|11|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|2|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|103.156.16.130|8080|Indonesia|Jakarta|RSTNET|
+|8|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|9|185.200.38.101|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|11|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|12|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|13|38.45.45.60|999|Dominican Republic|Santo Domingo|FENIX NETWORKS, S.R.L.|
 |14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|18|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|19|67.43.228.251|5985|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.92|27129|Canada|Montreal|GloboTech Communications|
+|15|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|16|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|17|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
 
 
 
