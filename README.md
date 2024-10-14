@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|198.24.187.93|30127|United States|Ashburn|Secured Servers LLC|
+|2|52.207.12.175|3128|United States|Ashburn|Amazon.com, Inc.|
 |3|185.116.236.104|9595|United States|New York|Massivegrid LTD|
-|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|5|198.24.187.93|30127|United States|Ashburn|Secured Servers LLC|
-|6|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|162.240.154.26|3128|United States|Provo|Unified Layer|
-|8|66.85.137.139|37100|United States|Phoenix|Secured Servers LLC|
-|9|67.43.227.228|27991|Canada|Montreal|GloboTech Communications|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|72.10.160.90|11075|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|1899|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|13259|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.93|1503|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|13259|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|13233|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|26295|Canada|Montreal|GloboTech Communications|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|67.43.227.227|17797|Canada|Montreal|GloboTech Communications|
-|20|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|181.192.18.81|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
+|5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|6|185.116.236.104|9595|United States|New York|Massivegrid LTD|
+|7|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|8|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|10|67.43.227.228|1973|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|7783|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.227|13179|Canada|Montreal|GloboTech Communications|
+|13|185.116.236.104|9595|United States|New York|Massivegrid LTD|
+|14|67.43.227.227|13179|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.90|11075|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|7783|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.93|20835|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.230|15431|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.226|28741|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|7783|Canada|Montreal|GloboTech Communications|
 
 
 
