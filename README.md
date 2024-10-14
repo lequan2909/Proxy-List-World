@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
 |3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|13|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|14|72.10.160.171|30661|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|5735|Canada|Montreal|GloboTech Communications|
-|16|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
-|18|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
-|19|72.10.164.178|5735|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|14585|Canada|Montreal|GloboTech Communications|
+|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|5|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|72.10.164.178|5735|Canada|Montreal|GloboTech Communications|
+|10|101.255.149.57|8080|Indonesia|Bekasi|PT Remala Abadi|
+|11|187.103.105.22|8999|Brazil|Blumenau|BR.Digital Provider|
+|12|179.125.125.243|3128|Brazil|Teresina|Virtex Telecom|
+|13|103.156.15.241|8080|Indonesia|Bogor|PT Lintas Jaringan Nusantara|
+|14|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|202.51.106.229|8080|Indonesia|Jakarta|PT Solusi Infostruktur Nusantara|
+|16|119.15.86.30|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|17|72.10.160.174|25859|Canada|Montreal|GloboTech Communications|
+|18|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
+|19|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|20|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
 
 
 
