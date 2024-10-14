@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|52.79.210.217|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|52.79.210.217|3128|South Korea|Seoul|Amazon Technologies Inc.|
+|4|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|5|171.228.158.152|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
 |6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|7|52.79.210.217|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|8|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|10|198.24.188.142|31385|United States|Ashburn|Secured Servers LLC|
-|11|72.10.160.170|30379|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.250|15427|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|14897|Canada|Montreal|GloboTech Communications|
-|14|61.129.2.212|8080|China|Beijing|CHINANET|
-|15|124.6.165.155|8082|Philippines|Lahug|INNOVE|
-|16|72.10.160.90|12021|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|2559|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|14897|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|8101|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|12833|Canada|Montreal|GloboTech Communications|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|52.79.210.217|3128|South Korea|Seoul|Amazon Technologies Inc.|
+|10|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|11|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|13|72.10.164.178|10277|Canada|Montreal|GloboTech Communications|
+|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|15|67.43.236.20|20601|Canada|Montreal|GloboTech Communications|
+|16|171.228.158.152|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
+|17|72.10.164.178|10277|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|10277|Canada|Montreal|GloboTech Communications|
+|19|103.124.196.218|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|20|187.103.105.22|8999|Brazil|Blumenau|BR.Digital Provider|
 
 
 
