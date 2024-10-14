@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|9|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|11|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|12|72.10.160.90|9765|Canada|Montreal|GloboTech Communications|
-|13|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|14|67.43.236.20|13039|Canada|Montreal|GloboTech Communications|
-|15|103.76.151.114|8080|Indonesia|Cibinong|PT. Java Digital Nusantara|
-|16|152.172.80.10|999|Chile|Alto Hospicio|TELEFÓNICA CHILE S.A.|
-|17|72.10.164.178|6519|Canada|Montreal|GloboTech Communications|
-|18|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|19|45.236.105.81|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|4|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|6|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|7|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|8|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|9|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|10|107.189.8.240|8080|Luxembourg|Luxembourg|FranTech Solutions|
+|11|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|13|185.116.236.104|3128|United States|New York|Massivegrid LTD|
+|14|72.10.164.178|4747|Canada|Montreal|GloboTech Communications|
+|15|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
+|17|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|18|103.67.237.219|3128|India|Hyderabad|OASISGSSERVICES|
+|19|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|20|67.43.227.227|11349|Canada|Montreal|GloboTech Communications|
 
 
 
