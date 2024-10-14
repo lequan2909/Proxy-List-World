@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|4|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|6|103.35.153.74|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
-|7|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|2|34.97.72.201|8561|Japan|Osaka|Google LLC|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|34.97.154.179|8660|Japan|Osaka|Google LLC|
+|5|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
+|6|34.97.192.154|8561|Japan|Osaka|Google LLC|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|10|72.10.160.93|13359|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.251|26125|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|29123|Canada|Montreal|GloboTech Communications|
-|13|95.85.93.128|3128|United States|Manassas|G-Core Labs S.A.|
-|14|67.43.227.226|11001|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.228|2279|Canada|Montreal|GloboTech Communications|
-|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|67.43.227.227|7761|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.254|8601|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.91|5665|Canada|Montreal|GloboTech Communications|
+|9|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|10|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|14|103.35.153.74|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
+|15|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|16|58.19.22.61|3128|China|Wuhan|CNC Group CHINA169 Hubei Province Network|
+|17|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|18|67.43.228.251|5973|Canada|Montreal|GloboTech Communications|
+|19|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|20|72.10.160.93|13359|Canada|Montreal|GloboTech Communications|
 
 
 
