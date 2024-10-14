@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5505** proxies at the latest update. Usable proxies are below.
+> Scraper found **5515** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|67|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|673|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|683|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|345|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3462|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
-|4|103.191.165.4|7777|Indonesia|Subang|PT Sakti Wijaya Network|
-|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|6|103.178.42.100|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
-|9|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|10|66.206.15.148|8134|United States|Los Angeles|Primary|
-|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|12|103.101.99.45|8080|Bangladesh|Bhātāra|Pandora Technology|
-|13|45.77.48.243|80|Australia|Sydney|The Constant Company|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|67.43.228.252|17301|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|15341|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|28685|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|32699|Canada|Montreal|GloboTech Communications|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|4|178.48.68.61|18080|Hungary|Budapest|UPC|
+|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|8|195.191.158.172|80|Russia|Ramenskoye|Intelsc Ltd.|
+|9|51.159.159.73|80|France|Paris|SCALEWAY|
+|10|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
+|11|190.121.143.129|999|Colombia|San Martín|Media Commerce Partners S.A|
+|12|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|13|115.75.99.65|8080|Vietnam|Can Tho|VIETELxdsl|
+|14|45.81.144.45|8085|Iraq|Duhok|Fact LTD|
+|15|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|16|72.10.160.90|16165|Canada|Montreal|GloboTech Communications|
+|17|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|18|72.10.160.171|2215|Canada|Montreal|GloboTech Communications|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
