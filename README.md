@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|49.147.115.39|8080|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
 |4|49.48.69.117|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
 |5|8.222.170.141|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|7|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|8|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|9|189.232.97.26|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|10|49.147.115.39|8080|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|11|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
-|12|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|13|168.138.168.117|3128|Singapore|Singapore|Oracle Corporation|
+|6|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|7|189.232.97.26|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|8|168.138.168.117|3128|Singapore|Singapore|Oracle Corporation|
+|9|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|10|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|11|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|12|38.51.183.248|999|Venezuela|Barinas|THUNDERNET, C.A.|
+|13|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
 |14|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|15|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|16|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|17|89.169.36.16|3128|Kazakhstan|Almaty|NLS ASTANA LLP|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|152.172.80.10|999|Chile|Alto Hospicio|TELEFÓNICA CHILE S.A.|
-|20|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|15|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
+|16|104.171.202.57|3128|United States|Dallas|Lambda|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|19|191.85.45.207|999|Argentina|Claypole|Telefonica de Argentina|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
