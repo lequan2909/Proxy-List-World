@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|4|182.253.86.96|8080|Indonesia|Jakarta|Biznet Gamers|
-|5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|6|193.233.84.93|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
-|7|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|8|118.67.134.17|80|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
-|9|27.147.130.10|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|11|186.225.108.43|8080|Brazil|São Paulo|America-NET Ltda|
-|12|66.85.137.139|37100|United States|Phoenix|Secured Servers LLC|
-|13|80.78.68.87|8080|Albania|Shkodër|ABCom Network|
-|14|185.116.236.104|9595|United States|New York|Massivegrid LTD|
-|15|81.163.56.104|23500|Russia|Makhachkala|SUBNET05|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|18|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|19|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|20|157.245.50.196|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|3|182.253.86.96|8080|Indonesia|Jakarta|Biznet Gamers|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|185.116.236.104|3128|United States|New York|Massivegrid LTD|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|8|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|9|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|180.191.255.6|8081|Philippines|General Trias|Globe Telecom|
+|11|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|12|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|13|72.10.164.178|29021|Canada|Montreal|GloboTech Communications|
+|14|113.192.30.89|8088|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|15|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|103.247.23.33|1111|Indonesia|Cileungsir|PT wifian Solution|
+|18|67.43.227.227|28063|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.226|10861|Canada|Montreal|GloboTech Communications|
+|20|67.43.228.253|30159|Canada|Montreal|GloboTech Communications|
 
 
 
