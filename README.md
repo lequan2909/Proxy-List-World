@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|2|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
 |3|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
-|4|148.255.115.166|999|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|15.235.12.19|3128|Canada|Montreal|OVH SAS|
-|9|103.106.112.221|8090|Indonesia|Metro|SMSNET|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|13|157.20.128.247|8080|Indonesia|Curug|PT Citra Meta Data|
-|14|45.174.57.22|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
-|15|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|171.228.132.62|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|18|34.97.154.179|8660|Japan|Osaka|Google LLC|
-|19|38.52.208.3|999|Guatemala|Jalapa|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|20|67.43.227.228|1945|Canada|Montreal|GloboTech Communications|
+|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|5|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|6|148.255.115.166|999|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
+|7|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|10|103.118.44.181|8080|Cambodia|Phnom Penh|ANGKOR E & C (CAMBODIA) Co., Ltd.|
+|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|12|203.190.46.127|8090|Indonesia|Sleman|PT Jaring Lintas Utara|
+|13|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|14|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|181.129.97.34|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|16|45.70.236.195|999|Ecuador|Simón Bolívar|Ufinet Panama S.A.|
+|17|103.125.173.26|8080|Indonesia|Deli Serdang|PT Trinity Teknologi Nusantara|
+|18|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|19|180.180.100.109|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|20|34.97.154.179|8660|Japan|Osaka|Google LLC|
 
 
 
