@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.46.98|8561|Japan|Osaka|Google LLC|
-|3|34.97.247.98|8561|Japan|Osaka|Google LLC|
-|4|103.56.157.39|8080|Vietnam|Hanoi|VCCORP|
-|5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|7|79.143.177.29|21972|Germany|Munich|Contabo GmbH|
-|8|34.97.192.154|8561|Japan|Osaka|Google LLC|
-|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|10|202.57.25.62|1111|Indonesia|Semarang|announced of WINET|
-|11|52.207.12.175|3128|United States|Ashburn|Amazon.com, Inc.|
-|12|185.116.236.104|3128|United States|New York|Massivegrid LTD|
-|13|138.59.227.248|999|Paraguay|Ayolas|Aranda Cardozo Lider Ramon|
-|14|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
-|15|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|16|34.97.31.37|8561|Japan|Osaka|Google LLC|
-|17|198.24.188.138|36500|United States|Ashburn|Secured Servers LLC|
-|18|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|67.43.228.253|29791|Canada|Montreal|GloboTech Communications|
-|20|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|2|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|4|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|5|185.116.236.104|3128|United States|New York|Massivegrid LTD|
+|6|198.24.188.138|36500|United States|Ashburn|Secured Servers LLC|
+|7|67.43.228.253|29791|Canada|Montreal|GloboTech Communications|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|67.43.228.253|29791|Canada|Montreal|GloboTech Communications|
+|10|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|11|72.10.164.178|26697|Canada|Montreal|GloboTech Communications|
+|12|182.52.131.108|8180|Thailand|Bangkok|TOT Public Company Limited|
+|13|212.110.188.189|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|14|67.43.236.18|1691|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.173|7611|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|26697|Canada|Montreal|GloboTech Communications|
+|17|157.245.50.196|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|187.103.105.22|8999|Brazil|Blumenau|BR.Digital Provider|
+|20|157.245.50.196|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
