@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|6|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|8.222.170.141|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|9|189.232.97.26|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|10|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
-|11|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|12|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|107.189.8.240|8080|Luxembourg|Luxembourg|FranTech Solutions|
-|15|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|16|152.172.79.251|999|Chile|Alto Hospicio|TELEFÓNICA CHILE S.A.|
-|17|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|18|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|19|195.123.240.138|7777|United States|Los Angeles|Green Floid LLC|
-|20|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|4|189.232.97.26|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|5|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
+|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|7|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|8|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|9|104.171.202.57|3128|United States|Dallas|Lambda|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|45.5.116.231|999|Guatemala|Guatemala City|Infinitum S.A.|
+|12|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|13|38.52.221.138|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|14|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|15|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|16|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|17|104.171.202.57|3128|United States|Dallas|Lambda|
+|18|54.70.120.91|3128|United States|Portland|Amazon.com, Inc.|
+|19|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|20|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
 
 
 
