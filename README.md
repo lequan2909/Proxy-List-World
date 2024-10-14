@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|5|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|9|202.137.134.160|8088|Laos|Vientiane|Lao Telecommunication Co Ltd|
-|10|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|11|116.107.217.134|10053|Vietnam|Hải Dương|Viettel Corporation|
-|12|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|13|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|14|66.85.137.139|37000|United States|Phoenix|Secured Servers LLC|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|2|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|6|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|7|103.133.24.5|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|8|138.59.20.48|8090|Brazil|Mariana|Companhia Itabirana Telecomunicações Ltda|
+|9|212.110.188.216|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|13|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|14|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|15|66.85.137.139|37000|United States|Phoenix|Secured Servers LLC|
 |16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|58.65.197.91|8080|Pakistan|Karachi|Cyber Internet Services (Private) Limited|
-|18|72.10.160.170|3661|Canada|Montreal|GloboTech Communications|
-|19|111.199.233.244|9000|China|Beijing|China Unicom Beijing Province Network|
-|20|103.123.85.51|8080|Indonesia|Temanggung|PT Desane Sinar Media|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|190.94.245.179|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|19|190.205.40.94|3128|Venezuela|Caracas|CANTV Servicios, Venezuela|
+|20|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
