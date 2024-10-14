@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|2|52.207.12.175|3128|United States|Ashburn|Amazon.com, Inc.|
-|3|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|1|34.97.247.98|8561|Japan|Osaka|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|52.207.12.175|3128|United States|Ashburn|Amazon.com, Inc.|
 |4|185.116.236.104|9595|United States|New York|Massivegrid LTD|
-|5|181.192.18.81|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
-|6|52.207.12.175|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|181.192.18.81|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
+|7|52.207.12.175|3128|United States|Ashburn|Amazon.com, Inc.|
 |8|185.116.236.104|9595|United States|New York|Massivegrid LTD|
-|9|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|10|34.97.72.201|8561|Japan|Osaka|Google LLC|
-|11|34.97.31.37|8561|Japan|Osaka|Google LLC|
-|12|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
-|13|34.97.229.206|8561|Japan|Osaka|Google LLC|
-|14|34.97.192.154|8561|Japan|Osaka|Google LLC|
-|15|171.228.141.61|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|67.43.227.227|15439|Canada|Montreal|GloboTech Communications|
-|18|34.97.78.175|8561|Japan|Osaka|Google LLC|
-|19|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|12|171.228.141.61|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
+|13|34.97.192.154|8561|Japan|Osaka|Google LLC|
+|14|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|34.97.31.37|8561|Japan|Osaka|Google LLC|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|18|34.97.11.208|8561|Japan|Osaka|Google LLC|
+|19|144.86.187.39|3129|United States|Malden|Charles River Operation|
 |20|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
 
 
