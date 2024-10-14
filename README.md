@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|2|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|4|116.202.217.96|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
 |5|104.167.197.172|9595|United States|Miami|Newserverlife LLC|
-|6|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
-|8|104.167.197.172|9595|United States|Miami|Newserverlife LLC|
-|9|160.22.118.87|39083|Vietnam|An Hải|Cloud Data Technology and Communication Company Limited|
-|10|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|11|103.171.240.141|8181|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
-|12|41.205.24.22|8080|Cameroon|Douala|MTN Network Solutions (Cameroon)|
-|13|119.82.240.61|6060|Indonesia|Surabaya|Indonesia Network Information Center|
-|14|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|15|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|20|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
+|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|10|116.97.62.167|5000|Vietnam|Hanoi|Viettel Corporation|
+|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|12|45.77.48.243|80|Australia|Sydney|The Constant Company|
+|13|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
+|14|103.36.10.0|3125|Indonesia|Pasuruan|PT Awinet Global Mandiri|
+|15|103.171.240.141|8181|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
+|16|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|17|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|18|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|79.106.33.26|8079|Albania|Peshkopi|ONE ALBANIA SH.A.|
 
 
 
