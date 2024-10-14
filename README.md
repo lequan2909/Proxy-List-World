@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|4|49.48.72.204|8081|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|2|101.255.148.22|3127|Indonesia|Bekasi|PT Remala Abadi|
+|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|8|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|9|192.162.192.148|55443|Russia|Uglich|SigmaRoute|
-|10|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|11|38.159.232.139|999|Dominican Republic|Santiago de los Caballeros|Lightwave S.R.L|
-|12|188.132.222.54|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
-|16|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|17|72.10.164.178|12705|Canada|Montreal|GloboTech Communications|
-|18|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|19|36.93.130.218|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
-|20|67.43.227.226|5923|Canada|Montreal|GloboTech Communications|
+|6|38.242.215.185|8118|Germany|Düsseldorf|Contabo GmbH|
+|7|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|8|192.162.192.148|55443|Russia|Uglich|SigmaRoute|
+|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|120.28.189.82|8181|Philippines|Cagayan de Oro|Globe Telecom|
+|12|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|13|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|103.154.91.250|8081|Indonesia|Jakarta|MORATELINDONAP|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|46.166.165.33|4003|Lithuania|Šiauliai|Cherry Servers|
+|18|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|20|72.10.164.178|12705|Canada|Montreal|GloboTech Communications|
 
 
 
