@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.189.151.245|999|Mexico|Mexico City|Javier Tamayo Garcia|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|107.189.8.240|8080|Luxembourg|Luxembourg|FranTech Solutions|
-|6|168.138.168.117|3128|Singapore|Singapore|Oracle Corporation|
-|7|45.236.105.81|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|10|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
-|11|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|12|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|13|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|14|72.10.160.174|22749|Canada|Montreal|GloboTech Communications|
-|15|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|16|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|17|72.10.160.90|5543|Canada|Montreal|GloboTech Communications|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|168.138.168.117|3128|Singapore|Singapore|Oracle Corporation|
-|20|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|11|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|12|45.236.105.81|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|13|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|14|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|15|109.123.229.224|4011|Japan|Tokyo|Contabo Asia Private Limited|
+|16|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|17|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|19|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|20|67.43.228.253|2473|Canada|Montreal|GloboTech Communications|
 
 
 
