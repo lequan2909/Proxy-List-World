@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|8|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|9|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|13|72.10.160.170|17005|Canada|Montreal|GloboTech Communications|
-|14|109.123.229.224|4011|Japan|Tokyo|Contabo Asia Private Limited|
-|15|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|16|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|17|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|18|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|144.86.187.53|3129|United States|Malden|Charles River Operation|
+|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|3|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|20.219.176.57|3129|India|Pune|Microsoft Corporation|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|9|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
+|10|20.204.212.76|3129|India|Pune|Microsoft Corporation|
+|11|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|12|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|13|170.83.76.22|999|Venezuela|Caracas|Galanet Solution C.A.|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|190.107.237.26|999|Ecuador|Tulcán|CINECABLE TV|
+|16|212.110.188.193|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|17|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|18|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|19|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |20|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
 
 
