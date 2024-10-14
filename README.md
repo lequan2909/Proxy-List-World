@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|3|138.201.246.148|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|4|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|5|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|6|67.43.236.18|2561|Canada|Montreal|GloboTech Communications|
+|3|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|4|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|5|72.10.160.93|12353|Canada|Montreal|GloboTech Communications|
+|6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
 |7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|180.180.100.109|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|9|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|10|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|72.10.160.171|33217|Canada|Montreal|GloboTech Communications|
-|12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|72.10.160.173|23417|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.93|12353|Canada|Montreal|GloboTech Communications|
-|15|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.160.171|33217|Canada|Montreal|GloboTech Communications|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|67.43.228.250|11475|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.18|2561|Canada|Montreal|GloboTech Communications|
-|20|162.240.154.26|3128|United States|Provo|Unified Layer|
+|8|1.0.138.79|8080|Thailand|Pattaya|TOT Public Company Limited|
+|9|161.34.35.175|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|67.43.228.253|13233|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|25569|Canada|Montreal|GloboTech Communications|
+|13|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|67.43.228.251|5247|Canada|Montreal|GloboTech Communications|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|67.43.227.228|24221|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|13233|Canada|Montreal|GloboTech Communications|
+|18|193.233.84.77|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
+|19|72.10.160.90|14829|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|12451|Canada|Montreal|GloboTech Communications|
 
 
 
