@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|4|171.245.119.233|5000|Vietnam|Thái Bình|Viettel Corporation|
-|5|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|6|64.227.6.0|4003|United States|North Bergen|DigitalOcean, LLC|
+|2|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|4|162.240.154.26|3128|United States|Provo|Unified Layer|
+|5|162.240.154.26|3128|United States|Provo|Unified Layer|
+|6|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
 |7|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|8|88.255.106.23|8080|Türkiye|Istanbul|TurkTelekom|
-|9|15.235.12.19|3128|Canada|Montreal|OVH SAS|
-|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|11|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|171.238.239.231|5000|Vietnam|Tuyên Quang|Viettel Corporation|
-|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|15|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|16|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
-|17|67.43.227.226|30373|Canada|Montreal|GloboTech Communications|
-|18|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
-|19|34.100.188.246|8888|India|Mumbai|Google LLC|
-|20|45.77.48.243|80|Australia|Sydney|The Constant Company|
+|8|8.213.34.58|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
+|9|77.92.245.34|8080|Georgia|Tbilisi|JSC "Silknet"|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|138.201.246.148|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|12|64.6.8.5|8080|United States|La Harpe|MTC Communications|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|15|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|17|186.96.50.113|999|Mexico|Aguascalientes|Total Play Telecomunicaciones SA De CV|
+|18|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|19|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|20|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
 
 
 
