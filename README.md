@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|6|45.236.105.81|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|5|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|6|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
 |7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|8|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
-|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|10|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|12|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
-|13|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
-|16|181.79.234.90|999|Honduras|San Pedro Sula|Redes y Telecomunicaciones|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
-|19|72.10.160.170|11279|Canada|Montreal|GloboTech Communications|
-|20|107.189.8.240|8080|Luxembourg|Luxembourg|FranTech Solutions|
+|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|9|168.138.168.117|3128|Singapore|Singapore|Oracle Corporation|
+|10|45.236.105.81|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|11|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|12|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|61.129.2.212|8080|China|Beijing|CHINANET|
+|16|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|107.189.8.240|8080|Luxembourg|Luxembourg|FranTech Solutions|
+|18|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
 
 
 
