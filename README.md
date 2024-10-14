@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|4|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|6|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|7|15.235.12.19|3128|Canada|Montreal|OVH SAS|
-|8|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|9|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|103.67.237.214|3128|India|Hyderabad|OASISGSSERVICES|
-|11|51.158.173.222|3128|France|Paris|Online S.A.S.|
-|12|200.119.141.114|999|Guatemala|Guatemala City|Telgua|
-|13|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|136.60.0.212|80|United States|Austin|Google Fiber Inc.|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|182.253.243.254|3128|Indonesia|Batam|BIZNET|
-|18|103.229.185.154|8080|Indonesia|Pamulang|PT INDONESIA COMNETS PLUS|
-|19|67.43.228.250|30215|Canada|Montreal|GloboTech Communications|
-|20|218.1.142.243|57114|China|Shanghai|China Telecom (Group)|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|6|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|9|15.235.12.19|3128|Canada|Montreal|OVH SAS|
+|10|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|13|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|188.132.221.52|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|19|103.67.237.212|3128|India|Hyderabad|OASISGSSERVICES|
+|20|180.180.100.109|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
 
 
 
