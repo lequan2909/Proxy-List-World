@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|4|138.201.246.148|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|115.77.20.123|2024|Vietnam|Ho Chi Minh City|Viettel Group|
-|6|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|7|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|8|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|209.200.246.243|9595|Canada|Toronto|Ipxo LLC|
-|13|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.164.178|17969|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|31003|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.171|8533|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.93|31633|Canada|Montreal|GloboTech Communications|
-|20|103.200.20.56|3128|Vietnam|Quận Phú Nhuận|TNIX|
+|2|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|6|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|8|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|72.10.164.178|10269|Canada|Montreal|GloboTech Communications|
+|10|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|72.10.160.90|15793|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.171|1297|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|10269|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|15793|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|10269|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.226|6371|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.228|21015|Canada|Montreal|GloboTech Communications|
+|18|125.26.108.122|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
