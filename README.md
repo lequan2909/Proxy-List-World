@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|34.97.154.179|8660|Japan|Osaka|Google LLC|
-|4|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|34.97.154.179|8660|Japan|Osaka|Google LLC|
+|3|34.97.176.53|8561|Japan|Osaka|Google LLC|
+|4|34.97.52.66|8561|Japan|Osaka|Google LLC|
 |5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|34.97.192.154|8561|Japan|Osaka|Google LLC|
-|10|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|11|34.97.52.66|8561|Japan|Osaka|Google LLC|
-|12|144.86.187.41|3129|United States|Malden|Charles River Operation|
-|13|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|34.97.247.98|8561|Japan|Osaka|Google LLC|
-|15|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|16|34.97.31.37|8561|Japan|Osaka|Google LLC|
-|17|34.97.154.179|8660|Japan|Osaka|Google LLC|
-|18|181.115.67.3|999|Honduras|Tegucigalpa|Telgua|
-|19|34.97.72.201|8561|Japan|Osaka|Google LLC|
-|20|103.234.35.150|7777|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
+|6|34.97.72.201|8561|Japan|Osaka|Google LLC|
+|7|34.97.192.154|8561|Japan|Osaka|Google LLC|
+|8|144.86.187.38|3129|United States|Malden|Charles River Operation|
+|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|10|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|11|34.97.46.98|8561|Japan|Osaka|Google LLC|
+|12|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|34.97.57.4|8561|Japan|Osaka|Google LLC|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|34.97.11.208|8561|Japan|Osaka|Google LLC|
+|17|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|18|103.148.192.82|9012|Indonesia|Bandung|PT. Akashia Thuba Jaya|
+|19|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|20|34.97.78.175|8561|Japan|Osaka|Google LLC|
 
 
 
