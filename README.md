@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5393** proxies at the latest update. Usable proxies are below.
+> Scraper found **5431** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|65|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|618|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|656|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|290|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3462|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|7|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|8|66.206.15.148|8134|United States|Los Angeles|Primary|
-|9|66.206.15.148|8134|United States|Los Angeles|Primary|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|5|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|6|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|9|61.129.2.212|8080|China|Beijing|CHINANET|
+|10|72.10.160.90|17437|Canada|Montreal|GloboTech Communications|
 |11|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|12|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|13|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|14|201.134.169.214|8205|Mexico|Mexico City|Uninet S.A. de C.V.|
-|15|212.110.188.204|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|16|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|12|72.10.164.178|6133|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|6133|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|6133|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.253|24013|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|17437|Canada|Montreal|GloboTech Communications|
+|17|45.133.107.238|81|Russia|Tul'skiy|Art-net LLC|
+|18|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|67.43.236.20|31275|Canada|Montreal|GloboTech Communications|
 
 
 
