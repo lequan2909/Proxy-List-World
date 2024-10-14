@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|118.99.119.74|8080|Indonesia|Bandar Lampung|Biznet Networks|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|5|38.183.146.77|8090|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|6|103.56.157.39|8080|Vietnam|Hanoi|VCCORP|
-|7|210.5.104.126|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|9|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|10|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|11|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|12|62.201.251.217|8585|Iraq|Sulaymaniyah|IQ Networks for Data and Internet Services Ltd|
-|13|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|47.88.17.170|8118|United States|Minkler|Alibaba.com LLC|
-|16|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|17|38.159.232.139|999|Dominican Republic|Santiago de los Caballeros|Lightwave S.R.L|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|72.10.164.178|32283|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.19|12795|Canada|Montreal|GloboTech Communications|
+|2|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|103.56.157.39|8080|Vietnam|Hanoi|VCCORP|
+|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|138.201.246.148|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|8|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
+|9|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|10|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|13|192.162.192.148|55443|Russia|Uglich|SigmaRoute|
+|14|190.107.237.21|999|Ecuador|Tulcán|CINECABLE TV|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|17|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|180.180.100.109|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
