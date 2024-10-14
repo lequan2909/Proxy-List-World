@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|3|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
-|4|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|6|116.97.62.167|5000|Vietnam|Hanoi|Viettel Corporation|
-|7|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|8|119.110.71.161|63123|Indonesia|Jakarta|Maxindo|
-|9|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|10|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|206.42.43.192|8080|Brazil|João Pessoa|Brisanet Prestacao De Servicos De Internet Ltda|
-|13|45.174.57.22|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
-|14|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|15|161.34.40.35|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|17|103.87.148.21|8080|Indonesia|Demak|Lintas Data Prima, PT|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|20|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|119.110.71.161|63123|Indonesia|Jakarta|Maxindo|
+|4|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|5|220.150.76.92|6000|Japan|Chiyoda|FreeBit Co., Ltd.|
+|6|115.78.106.224|5102|Vietnam|Ho Chi Minh City|VIETELftth|
+|7|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|116.202.217.96|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|13|15.235.12.19|3128|Canada|Montreal|OVH SAS|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|16|116.97.62.167|5000|Vietnam|Hanoi|Viettel Corporation|
+|17|103.186.204.52|8089|Indonesia|Tasikmalaya|PT Afna Digital Indonesia|
+|18|45.174.79.95|999|Mexico|Delicias|Raul Duarte Urita|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|34.97.154.179|8660|Japan|Osaka|Google LLC|
 
 
 
