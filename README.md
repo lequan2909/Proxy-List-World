@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|4|181.171.117.15|8080|Argentina|La Plata|Telecom Argentina S.A|
-|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|6|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|7|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|8|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|9|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|12|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|13|103.239.255.36|58080|Bangladesh|Dhaka|Carnival Internet|
-|14|72.10.164.178|25101|Canada|Montreal|GloboTech Communications|
-|15|186.103.142.219|999|Chile|Santiago|Telefonica Empresas Chile SA|
-|16|72.10.160.172|3631|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|17691|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|25101|Canada|Montreal|GloboTech Communications|
-|19|186.96.97.203|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|20|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|4|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|10|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|11|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|13|126.209.3.250|8082|Philippines|Manila|Infinivan Incorporated|
+|14|64.227.6.0|4003|United States|North Bergen|DigitalOcean, LLC|
+|15|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|16|102.213.84.250|8080|Nigeria|Irewe|Globacom Limited|
+|17|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
+|18|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
 
 
 
