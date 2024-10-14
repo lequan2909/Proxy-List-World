@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.207.12.175|3128|United States|Ashburn|Amazon.com, Inc.|
-|2|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|3|185.116.236.104|9595|United States|New York|Massivegrid LTD|
-|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|5|52.207.12.175|3128|United States|Ashburn|Amazon.com, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|52.207.12.175|3128|United States|Ashburn|Amazon.com, Inc.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|185.116.236.104|9595|United States|New York|Massivegrid LTD|
 |6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|7|185.116.236.104|9595|United States|New York|Massivegrid LTD|
-|8|103.139.126.31|8080|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
-|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|10|103.157.117.116|8080|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
-|13|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|14|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
+|7|52.207.12.175|3128|United States|Ashburn|Amazon.com, Inc.|
+|8|185.116.236.104|9595|United States|New York|Massivegrid LTD|
+|9|181.192.18.81|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
 |15|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|67.43.236.20|12143|Canada|Montreal|GloboTech Communications|
-|20|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|16|185.116.236.104|9595|United States|New York|Massivegrid LTD|
+|17|72.10.164.178|5785|Canada|Montreal|GloboTech Communications|
+|18|157.245.50.196|8000|Singapore|Singapore|DigitalOcean, LLC|
+|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
