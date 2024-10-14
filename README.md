@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|5|34.97.57.4|8561|Japan|Osaka|Google LLC|
-|6|103.145.160.3|8080|Indonesia|South Tangerang|PT Indonesia Comnets Plus|
-|7|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|8|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|10|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|11|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
-|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|13|34.97.67.132|8561|Japan|Osaka|Google LLC|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|34.97.176.53|8561|Japan|Osaka|Google LLC|
-|18|103.124.196.218|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|19|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|20|103.208.102.6|8080|Indonesia|Wonosobo|PT Tidar Lintas Nusa|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
+|4|103.191.165.4|7777|Indonesia|Subang|PT Sakti Wijaya Network|
+|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|6|103.178.42.100|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|139.28.232.216|8899|United States|San Jose|Sriyaan Technologies|
+|9|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|10|66.206.15.148|8134|United States|Los Angeles|Primary|
+|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|12|103.101.99.45|8080|Bangladesh|Bhātāra|Pandora Technology|
+|13|45.77.48.243|80|Australia|Sydney|The Constant Company|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|67.43.228.252|17301|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|15341|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|28685|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|32699|Canada|Montreal|GloboTech Communications|
 
 
 
