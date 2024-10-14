@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|3|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
+|2|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|3|178.48.68.61|18080|Hungary|Budapest|UPC|
 |4|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|5|49.147.118.175|8081|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|7|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|103.163.231.142|8080|Indonesia|Malang|PT Metrosolusi Teknologi Indonesia|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|87.242.9.167|53281|Hungary|Sárospatak|PR-TELECOM ZRt.|
-|12|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|13|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|15|72.10.160.90|10877|Canada|Montreal|GloboTech Communications|
-|16|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|18|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|19|103.247.23.65|2022|Indonesia|Cileungsir|PT wifian Solution|
-|20|72.10.160.90|10877|Canada|Montreal|GloboTech Communications|
+|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|6|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|7|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|11|49.147.118.175|8081|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|12|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|13|181.129.97.34|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|14|23.173.216.99|1081|Japan|Tokyo|Eons Data Communications Limited|
+|15|118.179.84.218|8080|Bangladesh|Sylhet|Dhakacom Limited|
+|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
 
 
 
