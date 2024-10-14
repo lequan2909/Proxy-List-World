@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|6|119.76.142.164|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
-|7|34.124.190.108|8090|Singapore|Singapore|Google LLC|
-|8|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|4|180.191.255.147|8081|Philippines|General Trias|Globe Telecom|
+|5|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|6|34.97.176.53|8561|Japan|Osaka|Google LLC|
+|7|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|8|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
 |9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|10|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|14|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|187.188.169.169|8080|Mexico|Santa Cruz Huitziltepec|Total Play Telecomunicaciones SA De CV|
-|16|67.43.227.226|10255|Canada|Montreal|GloboTech Communications|
-|17|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|18|67.43.227.227|12073|Canada|Montreal|GloboTech Communications|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|171.228.158.152|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|206.201.3.83|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|67.43.227.226|10255|Canada|Montreal|GloboTech Communications|
+|20|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
 
 
 
