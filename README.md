@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|139.84.219.84|3129|India|Nawāda|The Constant Company, LLC|
-|4|139.84.221.222|3129|India|Nawāda|The Constant Company, LLC|
+|2|139.84.219.84|3129|India|Nawāda|The Constant Company, LLC|
+|3|139.84.221.222|3129|India|Nawāda|The Constant Company, LLC|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |5|139.84.221.122|3129|India|Nawāda|The Constant Company, LLC|
-|6|139.84.221.122|3129|India|Nawāda|The Constant Company, LLC|
+|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
 |7|139.84.221.222|3129|India|Nawāda|The Constant Company, LLC|
-|8|139.84.219.84|3129|India|Nawāda|The Constant Company, LLC|
-|9|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|10|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|12|103.180.122.71|8080|Indonesia|Bekasi|PT Indo Telemedia Solusi|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|202.173.220.50|1122|Thailand|Bangkok|KIRZ Company Limited|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
-|17|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|18|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|19|148.255.115.166|999|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
-|20|103.41.35.162|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|8|103.156.75.243|1080|Indonesia|Gianyar|PT Trika Global Media|
+|9|139.84.221.122|3129|India|Nawāda|The Constant Company, LLC|
+|10|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|11|139.84.219.84|3129|India|Nawāda|The Constant Company, LLC|
+|12|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|14|61.7.156.180|8080|Thailand|Samut Sakhon|CAT Telecom Public Company Limited|
+|15|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|139.84.221.222|3129|India|Nawāda|The Constant Company, LLC|
+|19|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
