@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|1|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
 |7|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|8|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
-|9|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|10|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|11|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
-|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|13|101.101.217.36|80|South Korea|Seongnam-si|NBP|
-|14|168.138.168.117|3128|Singapore|Singapore|Oracle Corporation|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|34.97.176.53|8561|Japan|Osaka|Google LLC|
-|20|131.0.207.140|8080|Brazil|Espumoso|CB NET TELECOM LTDA|
+|8|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
+|9|103.173.72.13|1111|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
+|10|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|11|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|12|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|144.86.187.45|3129|United States|Malden|Charles River Operation|
+|15|34.97.176.53|8561|Japan|Osaka|Google LLC|
+|16|168.138.168.117|3128|Singapore|Singapore|Oracle Corporation|
+|17|38.51.207.96|999|Venezuela|Maracaibo|Tecnoven Services CA|
+|18|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
 
 
 
