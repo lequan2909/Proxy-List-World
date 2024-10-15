@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|133.208.148.135|8080|Japan|Chiyoda|NET-JP-ERX|
-|4|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|5|8.222.170.141|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|223.205.99.219|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|5.161.104.243|10002|United States|Ashburn|Hetzner Online GmbH|
-|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|10|203.142.74.115|8080|Indonesia|Jakarta Pusat|BIZNET|
+|2|133.208.148.135|8080|Japan|Chiyoda|NET-JP-ERX|
+|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|4|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|8|5.161.104.243|10001|United States|Ashburn|Hetzner Online GmbH|
+|9|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|10|103.155.199.180|8080|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
 |11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|12|191.102.248.1|8085|Argentina|Rosario|IP·RED|
-|13|131.196.219.128|8080|Brazil|Vila Velha|Giganetlink Telecomunicacoes Ltda ME - ME|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
-|16|101.108.242.210|8080|Thailand|Bangkok|TOT Public Company Limited|
-|17|24.112.3.220|8080|United States|Durant|Vyve Broadband|
-|18|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|19|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|45.70.239.227|999|Ecuador|Manta|Ufinet Panama S.A.|
+|13|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|14|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|17|124.217.106.7|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|18|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|19|181.79.234.90|999|Honduras|San Pedro Sula|Redes y Telecomunicaciones|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
