@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|5|139.84.221.122|3129|India|Nawāda|The Constant Company, LLC|
-|6|139.84.219.84|3129|India|Nawāda|The Constant Company, LLC|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|9|139.84.219.84|3129|India|Nawāda|The Constant Company, LLC|
-|10|93.188.82.142|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|139.84.221.122|3129|India|Nawāda|The Constant Company, LLC|
-|12|139.84.221.222|3129|India|Nawāda|The Constant Company, LLC|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
+|2|34.97.176.53|8561|Japan|Osaka|Google LLC|
+|3|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|4|139.84.208.110|3129|India|Mumbai|The Constant Company, LLC|
+|5|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|6|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|103.127.97.187|3128|Philippines|Lucban|PT Biznet Gio Nusantara|
+|9|139.84.208.110|3129|India|Mumbai|The Constant Company, LLC|
+|10|139.84.221.122|3129|India|Nawāda|The Constant Company, LLC|
+|11|139.84.219.84|3129|India|Nawāda|The Constant Company, LLC|
+|12|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
+|13|45.117.30.9|58081|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|14|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
 |15|139.84.221.222|3129|India|Nawāda|The Constant Company, LLC|
-|16|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
-|17|119.252.167.130|41890|Indonesia|Bekasi|PT Indonesia Comnets Plus|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|16|103.13.204.24|8082|Indonesia|Kaborongan|PT JARINGANKU SARANA NUSANTARA|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|19|171.252.128.52|19012|Vietnam|Da Nang|Viettel Corporation|
+|20|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
 
 
 
