@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|61.7.191.7|8080|Thailand|Ao Nang|CAT Telecom Public Company Limited|
-|4|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|5|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
-|6|54.70.120.91|3128|United States|Portland|Amazon.com, Inc.|
-|7|72.10.164.178|15945|Canada|Montreal|GloboTech Communications|
-|8|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|9|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
-|10|72.10.160.173|8205|Canada|Montreal|GloboTech Communications|
-|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|12|72.10.164.178|15945|Canada|Montreal|GloboTech Communications|
-|13|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|14|72.10.160.170|11977|Canada|Montreal|GloboTech Communications|
-|15|5.161.104.243|10001|United States|Ashburn|Hetzner Online GmbH|
-|16|67.43.236.20|21269|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|11977|Canada|Montreal|GloboTech Communications|
-|18|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|19|89.169.36.16|3128|Kazakhstan|Almaty|NLS ASTANA LLP|
-|20|67.43.228.254|32295|Canada|Montreal|GloboTech Communications|
+|2|61.7.191.7|8080|Thailand|Ao Nang|CAT Telecom Public Company Limited|
+|3|54.70.120.91|3128|United States|Portland|Amazon.com, Inc.|
+|4|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
+|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|6|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|7|72.10.164.178|33069|Canada|Montreal|GloboTech Communications|
+|8|80.248.77.125|8081|Togo|Lomé|AS de CAFE Informatique|
+|9|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|10|5.161.104.243|10001|United States|Ashburn|Hetzner Online GmbH|
+|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|12|89.169.36.16|3128|Kazakhstan|Almaty|NLS ASTANA LLP|
+|13|72.10.164.178|33069|Canada|Montreal|GloboTech Communications|
+|14|180.88.111.187|3128|China|Beijing|GXBLnet|
+|15|36.92.28.34|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|16|177.234.211.63|999|Ecuador|Guayaquil|VUELATECHNOLOGY|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
+|20|72.10.160.173|8715|Canada|Montreal|GloboTech Communications|
 
 
 
