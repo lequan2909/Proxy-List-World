@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|139.84.221.122|3129|India|Nawāda|The Constant Company, LLC|
-|3|125.26.204.244|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|4|110.39.161.62|8080|Pakistan|Renala Khurd|Wateen Telecom Limited|
-|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|41.65.55.2|1981|Egypt|Qillīn|Etisalat Misr Mobile BB|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|10|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|11|135.125.225.75|8080|Germany|Saarbrücken|OVH SAS|
-|12|139.84.221.122|3129|India|Nawāda|The Constant Company, LLC|
-|13|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|14|72.10.160.90|21989|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|5889|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|3687|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|3687|Canada|Montreal|GloboTech Communications|
-|18|139.84.208.110|3129|India|Mumbai|The Constant Company, LLC|
-|19|67.43.228.253|20587|Canada|Montreal|GloboTech Communications|
-|20|191.242.224.185|3100|Brazil|Sorocaba|DIRECT LAN TELECOMUNICAÇÕES SOROCABA LTDA|
+|2|8.222.170.141|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|4|103.156.75.243|1080|Indonesia|Gianyar|PT Trika Global Media|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|119.252.167.130|41890|Indonesia|Bekasi|PT Indonesia Comnets Plus|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|104.37.102.181|8181|United States|Attica|ALTIUS Broadband, LLC|
+|11|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|170.239.205.78|999|Colombia|Bogotá|FIBERNET|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|72.10.160.90|15669|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.226|24007|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|18537|Canada|Montreal|GloboTech Communications|
+|19|180.88.111.187|3128|China|Beijing|GXBLnet|
+|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
