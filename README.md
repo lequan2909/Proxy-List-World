@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|8.222.170.141|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|139.84.208.110|3129|India|Mumbai|The Constant Company, LLC|
-|8|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|9|163.172.33.137|4383|France|Vitry-sur-Seine|Online S.A.S.|
-|10|139.84.208.110|3129|India|Mumbai|The Constant Company, LLC|
-|11|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
-|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|13|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|14|103.169.254.155|3127|Indonesia|Curahjati|PT Master Star Network|
-|15|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|16|211.222.173.3|3128|South Korea|Goyang-si|Korea Telecom|
-|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|18|103.75.96.70|8080|Indonesia|Bandung|MORATELINDO|
-|19|27.96.131.193|80|South Korea|Seongnam-si|NBP|
-|20|72.10.160.90|9155|Canada|Montreal|GloboTech Communications|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|103.169.133.42|8080|Indonesia|Majalengka|PT Alfa Omega Interkoneksi|
+|7|45.123.142.2|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|9|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|173.249.60.246|14344|Germany|Nuremberg|Contabo GmbH|
+|12|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
+|13|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|14|163.172.33.137|4383|France|Vitry-sur-Seine|Online S.A.S.|
+|15|211.222.173.3|3128|South Korea|Goyang-si|Korea Telecom|
+|16|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|17|47.88.85.102|443|United States|Minkler|Alibaba.com LLC|
+|18|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|124.6.165.155|8082|Philippines|Lahug|INNOVE|
 
 
 
