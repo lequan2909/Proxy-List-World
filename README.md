@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|45.83.20.3|1080|Belgium|Brussels|Stark Industries Solutions LTD|
-|3|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|168.138.168.117|3128|Singapore|Singapore|Oracle Corporation|
-|6|67.43.236.20|10943|Canada|Montreal|GloboTech Communications|
-|7|61.129.2.212|8080|China|Beijing|CHINANET|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|182.23.127.2|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
 |8|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|9|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|10|67.43.227.228|19341|Canada|Montreal|GloboTech Communications|
-|11|139.84.219.84|3129|India|Nawāda|The Constant Company, LLC|
+|9|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|11|54.70.120.91|3128|United States|Portland|Amazon.com, Inc.|
 |12|61.129.2.212|8080|China|Beijing|CHINANET|
-|13|67.43.227.230|10299|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|24443|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|10305|Canada|Montreal|GloboTech Communications|
-|16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|139.84.221.122|3129|India|Nawāda|The Constant Company, LLC|
-|18|72.10.160.91|20493|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.252|17331|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|24443|Canada|Montreal|GloboTech Communications|
+|13|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|14|72.10.164.178|12607|Canada|Montreal|GloboTech Communications|
+|15|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|16|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|17|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|18|139.84.219.84|3129|India|Nawāda|The Constant Company, LLC|
+|19|103.24.212.250|8082|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
+|20|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
 
 
 
