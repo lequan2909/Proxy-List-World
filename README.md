@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5811** proxies at the latest update. Usable proxies are below.
+> Scraper found **5808** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|86|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|83|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|828|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|564|✅|
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|3|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|4|168.138.168.117|3128|Singapore|Singapore|Oracle Corporation|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |5|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|203.150.113.49|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|8|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|9|159.203.104.153|4550|United States|Clifton|DigitalOcean, LLC|
-|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|15|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
-|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|17|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|18|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
-|19|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|6|168.138.168.117|3128|Singapore|Singapore|Oracle Corporation|
+|7|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|15.235.12.19|3128|Canada|Montreal|OVH SAS|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|12|103.28.148.187|8080|Indonesia|Jakarta|Argon Data Communication|
+|13|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|14|203.150.113.49|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|15|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|16|119.95.182.57|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|17|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
+|18|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
