@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|5|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
-|6|61.7.191.7|8080|Thailand|Ao Nang|CAT Telecom Public Company Limited|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|178.48.68.61|18080|Hungary|Budapest|UPC|
-|9|38.52.208.4|999|Guatemala|Jalapa|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|10|72.10.160.174|10967|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.91|21519|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.226|17229|Canada|Montreal|GloboTech Communications|
-|13|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|67.43.236.18|20435|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.173|20483|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|31959|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.91|21519|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|9547|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|14277|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|20435|Canada|Montreal|GloboTech Communications|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|7|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|5.161.104.243|10002|United States|Ashburn|Hetzner Online GmbH|
+|10|133.208.148.135|8080|Japan|Chiyoda|NET-JP-ERX|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|89.169.36.16|3128|Kazakhstan|Almaty|NLS ASTANA LLP|
+|14|67.43.236.18|11099|Canada|Montreal|GloboTech Communications|
+|15|181.129.97.34|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|16|67.43.227.228|28807|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.174|10967|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.90|23433|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.91|9547|Canada|Montreal|GloboTech Communications|
+|20|4.155.2.13|9480|United States|Quincy|Microsoft Corporation|
 
 
 
