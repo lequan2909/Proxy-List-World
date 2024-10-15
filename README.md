@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|171.252.128.52|19012|Vietnam|Da Nang|Viettel Corporation|
-|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|4|159.192.227.210|8080|Thailand|Bangkok|CAT-BB|
-|5|103.164.223.54|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|7|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|159.192.227.210|8080|Thailand|Bangkok|CAT-BB|
+|6|103.164.223.54|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|7|109.123.229.224|4011|Japan|Tokyo|Contabo Asia Private Limited|
 |8|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|11|171.252.128.52|19012|Vietnam|Da Nang|Viettel Corporation|
-|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|13|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
-|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|72.10.160.170|23911|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|21119|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|13555|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|23911|Canada|Montreal|GloboTech Communications|
-|20|45.238.118.156|27234|Brazil|Monte Mor|AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA|
+|9|1.20.203.29|8081|Thailand|Surat Thani|TOT Public Company Limited|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|13|171.252.128.52|19012|Vietnam|Da Nang|Viettel Corporation|
+|14|128.92.239.190|8080|United States|Los Angeles|Spectrum|
+|15|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
+|19|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|20|72.10.164.178|26229|Canada|Montreal|GloboTech Communications|
 
 
 
