@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|34.97.176.53|8561|Japan|Osaka|Google LLC|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|11|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
-|12|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|13|34.97.247.98|8561|Japan|Osaka|Google LLC|
-|14|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|15|45.236.105.81|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|16|216.173.71.126|3128|Latvia|Riga|SIA VEESP|
-|17|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|18|103.110.34.146|8089|Indonesia|Purwodadi Grobogan|PT RECONET SEMESTA INDONESIA|
-|19|139.59.147.47|3128|Germany|Frankfurt am Main|DIGITALOCEAN|
-|20|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|3|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
+|4|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|5|34.97.247.98|8561|Japan|Osaka|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|8|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|10|67.43.227.228|16557|Canada|Montreal|GloboTech Communications|
+|11|216.173.71.126|3128|Latvia|Riga|SIA VEESP|
+|12|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|13|84.247.152.41|8000|Japan|Tokyo|Contabo GmbH|
+|14|72.10.160.90|24447|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|19467|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|19467|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|19467|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.251|24597|Canada|Montreal|GloboTech Communications|
+|19|43.243.140.58|10001|Indonesia|Pisangan|CEPATNET|
+|20|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
 
 
 
