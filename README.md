@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|3|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|7|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|148.113.1.131|3128|India|Mumbai|OVH SAS|
-|9|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|10|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|14|171.252.128.52|19012|Vietnam|Da Nang|Viettel Corporation|
-|15|67.43.236.20|21763|Canada|Montreal|GloboTech Communications|
-|16|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|17|119.110.71.161|63123|Indonesia|Jakarta|Maxindo|
-|18|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|19|67.43.227.230|14989|Canada|Montreal|GloboTech Communications|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|7|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|8|12.7.109.1|9812|United States|Carrizo Springs|AIRESPRING-ADT SYSTEMS, INC.|
+|9|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|11|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|12|38.156.72.198|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|148.113.1.131|3128|India|Mumbai|OVH SAS|
+|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|15|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|193.233.84.89|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
+|18|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|19|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
+|20|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
 
 
 
