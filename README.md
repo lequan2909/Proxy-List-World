@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|410|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|410|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|410|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|435|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|435|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|435|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|5|34.97.65.59|8561|Japan|Osaka|Google LLC|
-|6|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|7|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|10|34.97.247.98|8561|Japan|Osaka|Google LLC|
-|11|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|12|34.97.176.53|8561|Japan|Osaka|Google LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|8.222.170.141|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|41.65.103.6|1976|Egypt|Kirdāsah|Etisalat Misr Mobile BB|
-|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|17|117.1.91.215|5101|Vietnam|Hanoi|Viettel Corporation|
-|18|103.165.157.79|8090|Indonesia|Pemalang|MEGADATA-ISP|
-|19|138.201.246.148|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|20|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
+|2|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|3|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|4|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|5|34.44.255.57|3128|United States|Council Bluffs|Google LLC|
+|6|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|8|34.97.176.53|8561|Japan|Osaka|Google LLC|
+|9|34.97.247.98|8561|Japan|Osaka|Google LLC|
+|10|211.222.173.3|3128|South Korea|Goyang-si|Korea Telecom|
+|11|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|12|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|13|34.97.61.13|8561|Japan|Osaka|Google LLC|
+|14|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|15|34.44.255.57|3128|United States|Council Bluffs|Google LLC|
+|16|138.201.246.148|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|17|121.101.134.214|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|18|103.242.106.61|8090|Indonesia|Gunungkalong|PT Lintas Jaringan Nusantara|
+|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|20|190.239.208.145|999|Peru|Buena Vista|Telefonica del Peru|
 
 
 
