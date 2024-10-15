@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|5|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |7|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|8|101.109.103.14|8080|Thailand|Pattaya|TOT Public Company Limited|
-|9|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|10|38.51.207.96|999|Venezuela|Maracaibo|Tecnoven Services CA|
-|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|46.252.35.91|8080|Albania|Tirana|Vodafone Albania Sh.A.|
-|14|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|38.156.72.59|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|54.70.120.91|3128|United States|Portland|Amazon.com, Inc.|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|116.97.62.167|5000|Vietnam|Hanoi|Viettel Corporation|
+|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|11|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|13|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|14|109.123.229.224|4011|Japan|Tokyo|Contabo Asia Private Limited|
+|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|16|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|17|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |20|148.113.1.131|3128|India|Mumbai|OVH SAS|
 
 
