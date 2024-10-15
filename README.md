@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|3|103.159.194.171|3128|Indonesia|Kendal|PT Giga Digital Nusantara|
+|3|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 |4|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |9|148.113.1.131|3128|India|Mumbai|OVH SAS|
-|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|67.43.227.226|11361|Canada|Montreal|GloboTech Communications|
-|12|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|15|54.70.120.91|3128|United States|Portland|Amazon.com, Inc.|
-|16|72.10.164.178|7191|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.18|9297|Canada|Montreal|GloboTech Communications|
-|18|111.199.233.244|9000|China|Beijing|China Unicom Beijing Province Network|
-|19|189.8.6.3|8080|Brazil|São Paulo|Universal Telecom S.A.|
-|20|103.69.21.192|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|10|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|13|124.6.165.155|8082|Philippines|Lahug|INNOVE|
+|14|45.188.76.130|999|Mexico|Jalapa|ONT NETWORKS SA de CV|
+|15|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|16|67.43.227.228|8483|Canada|Montreal|GloboTech Communications|
+|17|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
+|18|72.10.160.171|12085|Canada|Montreal|GloboTech Communications|
+|19|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|20|210.79.146.82|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
 
 
 
