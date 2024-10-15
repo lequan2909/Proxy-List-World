@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|6|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|7|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|8|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|9|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|10|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
-|11|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|12|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|13|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|14|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|15|150.136.4.250|3128|United States|Ashburn|Oracle Corporation|
+|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|4|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|5|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|7|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|8|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|9|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|13|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|14|103.166.32.42|1111|Indonesia|Kudus|PT Daniswara Citra Informatika|
+|15|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
 |16|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|18|103.67.237.219|3128|India|Hyderabad|OASISGSSERVICES|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|51.159.159.73|80|France|Paris|SCALEWAY|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|51.159.159.73|80|France|Paris|SCALEWAY|
+|20|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 
 
 
