@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|4|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|6|116.212.140.118|8080|Cambodia|Phnom Penh|MekongNet|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|42.3.187.52|8080|Hong Kong|Kwu Tung|Hong Kong Telecommunications (HKT) Limited Mass Internet|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|72.10.164.178|5145|Canada|Montreal|GloboTech Communications|
-|12|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|13|177.145.39.57|8080|Brazil|Nova Iguaçu|Vivo|
-|14|67.43.227.227|1845|Canada|Montreal|GloboTech Communications|
-|15|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|16|72.10.164.178|5145|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.171|10425|Canada|Montreal|GloboTech Communications|
-|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|19|67.43.228.250|23379|Canada|Montreal|GloboTech Communications|
-|20|117.21.14.245|8000|China|Taohua|Chinanet|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|171.252.128.52|19012|Vietnam|Da Nang|Viettel Corporation|
+|3|8.222.170.141|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|5|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|6|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|7|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|8|110.235.250.77|8080|Cambodia|Phnom Penh|COGETEL Co|
+|9|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
+|10|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|216.173.71.126|3128|Latvia|Riga|SIA VEESP|
+|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|14|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
+|15|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|16|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|19|67.43.236.18|30565|Canada|Montreal|GloboTech Communications|
+|20|162.240.154.26|3128|United States|Provo|Unified Layer|
 
 
 
