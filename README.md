@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|3|34.97.65.59|8561|Japan|Osaka|Google LLC|
-|4|34.97.61.13|8561|Japan|Osaka|Google LLC|
-|5|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|6|34.97.176.53|8561|Japan|Osaka|Google LLC|
-|7|34.97.247.98|8561|Japan|Osaka|Google LLC|
-|8|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|11|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|12|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
-|15|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|17|46.17.249.134|35782|Kazakhstan|Kostanay|Eurasia-Star LLP|
-|18|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|2|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|3|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|5|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|6|157.245.50.196|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|34.97.176.53|8561|Japan|Osaka|Google LLC|
+|8|144.86.187.40|3129|United States|Malden|Charles River Operation|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|34.97.247.98|8561|Japan|Osaka|Google LLC|
+|13|34.97.61.13|8561|Japan|Osaka|Google LLC|
+|14|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|15|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|16|161.34.40.34|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
 |19|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|20|54.70.120.91|3128|United States|Portland|Amazon.com, Inc.|
+|20|223.204.184.183|8081|Thailand|Narathiwat|Triple T Broadband Public Company Limited|
 
 
 
