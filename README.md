@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|8.222.170.141|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|139.84.208.110|3129|India|Mumbai|The Constant Company, LLC|
-|5|139.84.208.110|3129|India|Mumbai|The Constant Company, LLC|
-|6|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|7|163.172.33.137|4383|France|Vitry-sur-Seine|Online S.A.S.|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|45.125.222.81|8080|Bangladesh|Dhaka|Carnival Internet|
-|10|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|13|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|14|103.67.237.219|3128|India|Hyderabad|OASISGSSERVICES|
-|15|67.43.236.20|17297|Canada|Montreal|GloboTech Communications|
-|16|5.161.104.243|10002|United States|Ashburn|Hetzner Online GmbH|
-|17|27.72.141.201|10060|Vietnam|Hanoi|Newass2011xDSLHN|
-|18|67.43.228.253|24317|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|31027|Canada|Montreal|GloboTech Communications|
-|20|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|8|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|9|139.84.208.110|3129|India|Mumbai|The Constant Company, LLC|
+|10|139.84.208.110|3129|India|Mumbai|The Constant Company, LLC|
+|11|103.162.54.117|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
+|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|13|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|14|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|15|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
+|16|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|17|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|18|103.169.254.155|3127|Indonesia|Curahjati|PT Master Star Network|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|121.101.133.220|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
 
 
 
