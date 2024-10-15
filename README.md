@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|3|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|38.82.21.192|999|Venezuela|El Piñal|ICR NETWORK C.A|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|72.10.164.178|14417|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.92|18309|Canada|Montreal|GloboTech Communications|
-|9|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|10|148.113.1.131|3128|India|Mumbai|OVH SAS|
-|11|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|14|67.43.228.253|8239|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|14417|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|17405|Canada|Montreal|GloboTech Communications|
-|17|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|18|72.10.160.173|6241|Canada|Montreal|GloboTech Communications|
-|19|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|20|72.10.160.90|18309|Canada|Montreal|GloboTech Communications|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|5|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|187.102.36.15|3128|Brazil|Braço do Norte|MKM Internet Solution Provider Ltda|
+|7|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|8|103.127.97.187|3128|Philippines|Lucban|PT Biznet Gio Nusantara|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|162.240.154.26|3128|United States|Provo|Unified Layer|
+|11|36.70.150.192|8080|Indonesia|Pekanbaru|PT. TELKOM INDONESIA|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|16|148.113.1.131|3128|India|Mumbai|OVH SAS|
+|17|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|18|139.84.208.110|3129|India|Mumbai|The Constant Company, LLC|
+|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.164.178|14417|Canada|Montreal|GloboTech Communications|
 
 
 
