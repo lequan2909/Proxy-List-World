@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|139.84.221.122|3129|India|Nawāda|The Constant Company, LLC|
-|3|8.222.170.141|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|139.84.221.122|3129|India|Nawāda|The Constant Company, LLC|
-|7|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|8|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|12|103.67.237.208|3128|India|Hyderabad|OASISGSSERVICES|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|67.43.236.21|22627|Canada|Montreal|GloboTech Communications|
-|15|139.84.221.222|3129|India|Nawāda|The Constant Company, LLC|
-|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|17|72.10.160.91|10659|Canada|Montreal|GloboTech Communications|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|72.10.164.178|6849|Canada|Montreal|GloboTech Communications|
-|20|34.97.247.98|8561|Japan|Osaka|Google LLC|
+|2|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|3|103.174.237.67|8080|Indonesia|Brebes|PT Global Erasiber Teknologi|
+|4|103.180.122.71|8080|Indonesia|Bekasi|PT Indo Telemedia Solusi|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|103.112.54.21|58080|Bangladesh|Dhaka|Carnival Internet|
+|7|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|8|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|133.208.148.135|8080|Japan|Chiyoda|NET-JP-ERX|
+|11|139.84.221.222|3129|India|Nawāda|The Constant Company, LLC|
+|12|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|13|139.84.219.84|3129|India|Nawāda|The Constant Company, LLC|
+|14|72.10.160.91|10659|Canada|Montreal|GloboTech Communications|
+|15|103.48.68.11|83|India|Hyderabad|Country Online Services PVT LTD|
+|16|72.10.160.90|11957|Canada|Montreal|GloboTech Communications|
+|17|187.102.36.15|3128|Brazil|Braço do Norte|MKM Internet Solution Provider Ltda|
+|18|8.213.34.58|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
+|19|124.6.165.155|8082|Philippines|Lahug|INNOVE|
+|20|67.43.236.19|5433|Canada|Montreal|GloboTech Communications|
 
 
 
