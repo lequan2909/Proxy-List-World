@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|6|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|7|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|10|67.43.236.19|19795|Canada|Montreal|GloboTech Communications|
-|11|103.189.250.65|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
-|12|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|54.153.62.219|3128|United States|San Jose|Amazon.com, Inc.|
-|14|203.150.128.231|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|15|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|16|72.10.164.178|22499|Canada|Montreal|GloboTech Communications|
-|17|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|18|49.147.115.39|8080|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|19|67.43.227.227|5357|Canada|Montreal|GloboTech Communications|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|2|203.150.128.231|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|4|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|6|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|122.3.159.79|8082|Philippines|Marikina City|Philippine Long Distance Telephone Co.|
+|11|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|12|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|13|72.10.164.178|23749|Canada|Montreal|GloboTech Communications|
+|14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|121.200.62.234|8000|Bangladesh|Azimpur|Drik ICT Ltd|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|157.66.84.30|8080|Indonesia|Nglengkong|PT. Menaksopal Link Nusantara|
+|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|187.103.105.22|8999|Brazil|Blumenau|BR.Digital Provider|
 
 
 
