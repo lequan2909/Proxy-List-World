@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|3|178.48.68.61|18080|Hungary|Budapest|UPC|
-|4|213.250.198.146|8080|Czechia|Litomyšl|Nordic Telecom Regional s.r.o.|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|7|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
-|8|156.67.172.185|3128|Germany|Hörstel|Deutsche Glasfaser Business GmbH|
-|9|216.173.71.126|3128|Latvia|Riga|SIA VEESP|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|36.93.129.73|8080|Indonesia|Pabuaran|Telekomunikasi Indonesia|
-|12|5.161.104.243|10002|United States|Ashburn|Hetzner Online GmbH|
-|13|67.43.228.253|21161|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|8027|Canada|Montreal|GloboTech Communications|
-|15|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|103.75.84.237|3128|Indonesia|Klaten|MEGADATA|
-|18|38.156.75.61|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|67.43.236.20|4523|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.252|1959|Canada|Montreal|GloboTech Communications|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|101.108.242.210|8080|Thailand|Bangkok|TOT Public Company Limited|
+|4|178.48.68.61|18080|Hungary|Budapest|UPC|
+|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|6|102.0.8.204|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|7|67.43.228.253|31309|Canada|Montreal|GloboTech Communications|
+|8|5.161.104.243|10001|United States|Ashburn|Hetzner Online GmbH|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|49.147.115.39|8080|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|11|72.10.160.90|7215|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.171|10051|Canada|Montreal|GloboTech Communications|
+|13|67.43.228.253|31309|Canada|Montreal|GloboTech Communications|
+|14|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|16|72.10.164.178|12323|Canada|Montreal|GloboTech Communications|
+|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|18|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|19|62.201.251.217|8585|Iraq|Sulaymaniyah|IQ Networks for Data and Internet Services Ltd|
+|20|46.99.143.53|1339|Kosovo|Pristina|IPKO Telecommunications LLC|
 
 
 
