@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|171.245.122.17|5022|Vietnam|Thái Bình|Viettel Corporation|
-|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|10|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|12|115.147.20.37|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|15|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|16|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|17|172.233.152.170|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|18|67.43.227.226|23693|Canada|Montreal|GloboTech Communications|
-|19|36.42.91.188|2324|China|Xincheng|Chinanet|
-|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|2|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|9|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|16|148.113.1.131|3128|India|Mumbai|OVH SAS|
+|17|36.42.91.188|2324|China|Xincheng|Chinanet|
+|18|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|20|67.43.236.20|28149|Canada|Montreal|GloboTech Communications|
 
 
 
