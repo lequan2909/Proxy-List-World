@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|8.222.170.141|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|5|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|6|116.105.79.46|1111|Vietnam|Da Nang|Viettel Corporation|
-|7|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|8|187.32.246.82|3128|Brazil|Juiz de Fora|ALGAR TELECOM S/A|
-|9|38.41.0.167|999|Venezuela|Caracas|MDS TELECOM C.A.|
-|10|185.116.236.104|3128|United States|New York|Massivegrid LTD|
-|11|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|12|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|13|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|14|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
-|15|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|16|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|18|181.114.225.184|8080|Argentina|Mar del Plata|CyberWave S.A.|
-|19|72.10.164.178|1901|Canada|Montreal|GloboTech Communications|
-|20|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|4|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|5|8.222.170.141|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|121.101.133.220|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|8|185.116.236.104|3128|United States|New York|Massivegrid LTD|
+|9|46.161.194.88|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|10|177.73.136.29|8080|Brazil|Blumenau|UNIFIQUE TELECOMUNICACOES S/A|
+|11|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|12|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|13|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|14|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|15|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|17|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|72.10.164.178|33081|Canada|Montreal|GloboTech Communications|
+|19|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|20|162.240.154.26|3128|United States|Provo|Unified Layer|
 
 
 
