@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|1.10.227.16|8080|Thailand|Damnoen Saduak|TOT Public Company Limited|
-|6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|7|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|8|200.106.116.42|999|Peru|Huacho|Telefonica del Peru|
-|9|203.192.199.158|8080|India|Ponda|Entire In2Cable|
-|10|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|11|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|12|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
-|13|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|14|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
-|20|72.10.160.90|9779|Canada|Montreal|GloboTech Communications|
+|4|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|5|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|200.106.116.42|999|Peru|Huacho|Telefonica del Peru|
+|8|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
+|9|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|10|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|11|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|15|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
+|18|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
+|19|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
+|20|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
 
 
 
