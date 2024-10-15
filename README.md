@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|148.113.1.131|3128|India|Mumbai|OVH SAS|
-|4|27.64.120.69|5102|Vietnam|Ho Chi Minh City|Viettel Group|
-|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|6|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|7|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|8|178.48.68.61|18080|Hungary|Budapest|UPC|
-|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|10|103.13.204.24|8082|Indonesia|Kaborongan|PT JARINGANKU SARANA NUSANTARA|
-|11|171.228.141.61|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|12|103.147.118.240|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
-|13|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|14|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|15|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|16|103.105.76.100|8080|Indonesia|Kediri|GARUDA|
-|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|67.43.236.19|2927|Canada|Montreal|GloboTech Communications|
-|20|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|2|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|3|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|148.113.1.131|3128|India|Mumbai|OVH SAS|
+|5|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|6|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|10|103.162.16.168|8080|Indonesia|Pati|PT Mega Data Perkasa|
+|11|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|12|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|13|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
+|14|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|15|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|20|116.105.29.163|4000|Vietnam|Da Nang|Viettel Corporation|
 
 
 
