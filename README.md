@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|103.180.122.71|8080|Indonesia|Bekasi|PT Indo Telemedia Solusi|
-|4|61.7.156.180|8080|Thailand|Samut Sakhon|CAT Telecom Public Company Limited|
-|5|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|6|184.82.241.180|8080|Thailand|Phuket|AIS-Fibre|
-|7|103.147.84.222|8080|Indonesia|Tangerang|PT DATA PRIMA SOLUSINDO|
-|8|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|10|72.10.160.174|7517|Canada|Montreal|GloboTech Communications|
-|11|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|12|72.10.160.90|19079|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.172|9857|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|19079|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|3787|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|29853|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|29853|Canada|Montreal|GloboTech Communications|
-|18|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
-|19|72.10.160.90|19079|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|3787|Canada|Montreal|GloboTech Communications|
+|3|8.222.170.141|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|103.180.122.71|8080|Indonesia|Bekasi|PT Indo Telemedia Solusi|
+|5|163.172.33.137|4383|France|Vitry-sur-Seine|Online S.A.S.|
+|6|67.43.236.20|6581|Canada|Montreal|GloboTech Communications|
+|7|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|8|54.70.120.91|3128|United States|Portland|Amazon.com, Inc.|
+|9|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|10|72.10.164.178|29853|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.94|20183|Canada|Montreal|GloboTech Communications|
+|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|13|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|14|72.10.160.91|21059|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.22|21465|Canada|Montreal|GloboTech Communications|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|103.5.172.114|8080|Afghanistan|Kabul|Global Entourage Services|
+|18|67.43.227.226|32175|Canada|Montreal|GloboTech Communications|
+|19|182.253.140.250|8080|Indonesia|Denpasar|Biznet Networks|
+|20|72.10.160.170|28515|Canada|Montreal|GloboTech Communications|
 
 
 
