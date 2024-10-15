@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5369** proxies at the latest update. Usable proxies are below.
+> Scraper found **5362** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|77|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|622|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|615|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|326|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3386|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|6|8.222.170.141|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|8|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|9|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|11|72.10.164.178|13549|Canada|Montreal|GloboTech Communications|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|72.10.164.178|13549|Canada|Montreal|GloboTech Communications|
-|14|109.123.229.224|4011|Japan|Tokyo|Contabo Asia Private Limited|
-|15|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|16|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|17|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|178.128.41.57|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|4|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|8|163.172.33.137|4383|France|Vitry-sur-Seine|Online S.A.S.|
+|9|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|11|178.128.99.90|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|157.230.84.46|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|14|72.10.164.178|13549|Canada|Montreal|GloboTech Communications|
+|15|212.110.188.213|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|16|159.223.244.150|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
 |18|72.10.164.178|13549|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|15543|Canada|Montreal|GloboTech Communications|
-|20|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|19|72.10.160.90|11071|Canada|Montreal|GloboTech Communications|
+|20|46.174.52.83|3128|Russia|Moscow|www.rs-media.ru|
 
 
 
