@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|34.97.65.59|8561|Japan|Osaka|Google LLC|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|3|46.174.52.83|3128|Russia|Moscow|www.rs-media.ru|
-|4|42.3.187.52|8080|Hong Kong|Kwu Tung|Hong Kong Telecommunications (HKT) Limited Mass Internet|
-|5|15.204.31.10|3128|United States|Hillsboro|OVH SAS|
-|6|36.94.27.65|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|7|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|8|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
-|11|119.148.61.130|8080|Bangladesh|Dhaka|Agni Systems Limited|
-|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|13|46.174.52.83|3128|Russia|Moscow|www.rs-media.ru|
-|14|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|15|103.125.38.82|8080|Indonesia|Surabaya|PT. Eka Mas Republik|
-|16|187.102.36.15|3128|Brazil|Braço do Norte|MKM Internet Solution Provider Ltda|
-|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|18|110.78.164.224|8888|Thailand|Bangkok|CAT-BB|
-|19|67.43.227.227|22995|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|23855|Canada|Montreal|GloboTech Communications|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|5|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|6|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|7|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|8|103.153.191.209|8080|Indonesia|Malang|WANET|
+|9|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|10|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|11|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
+|12|216.173.71.126|3128|Latvia|Riga|SIA VEESP|
+|13|89.169.36.16|3128|Kazakhstan|Almaty|NLS ASTANA LLP|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|181.225.224.251|3128|Cuba|Havana|Empresa de Telecomunicaciones de Cuba|
+|16|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
+|17|60.48.93.7|8080|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
+|18|61.129.2.212|8080|China|Beijing|CHINANET|
+|19|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
+|20|72.10.160.93|19415|Canada|Montreal|GloboTech Communications|
 
 
 
