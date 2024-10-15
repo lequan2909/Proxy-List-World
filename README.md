@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|4|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|5|139.84.208.110|3129|India|Mumbai|The Constant Company, LLC|
-|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|9|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
-|10|142.171.157.207|3128|United States|Los Angeles|Multacom Corporation|
-|11|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
-|12|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|67.43.236.20|29345|Canada|Montreal|GloboTech Communications|
-|14|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|15|51.159.159.73|80|France|Paris|SCALEWAY|
-|16|72.10.160.171|6327|Canada|Montreal|GloboTech Communications|
-|17|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|3|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|171.240.116.45|5101|Vietnam|Hanoi|Viettel Corporation|
+|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|6|181.192.29.80|8080|Argentina|General Conesa|Coop Telefonica Villa Gesell Ltda|
+|7|163.172.33.137|4383|France|Vitry-sur-Seine|Online S.A.S.|
+|8|139.84.208.110|3129|India|Mumbai|The Constant Company, LLC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|103.41.35.162|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|13|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|15|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|16|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
+|17|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
 |18|49.147.115.39|8080|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|19|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|20|15.235.12.19|3128|Canada|Montreal|OVH SAS|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
 
 
 
