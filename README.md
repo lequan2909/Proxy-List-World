@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 |3|8.222.170.141|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|116.105.79.46|1111|Vietnam|Da Nang|Viettel Corporation|
+|4|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
 |5|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|7|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|163.172.33.137|4383|France|Vitry-sur-Seine|Online S.A.S.|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
 |9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|10|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|11|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|12|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|14|5.161.104.243|10001|United States|Ashburn|Hetzner Online GmbH|
-|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|187.103.105.22|8999|Brazil|Blumenau|BR.Digital Provider|
-|18|36.93.68.47|41890|Indonesia|South Tangerang|Telekomunikasi Indonesia|
-|19|103.164.223.54|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|20|66.206.15.147|8134|United States|Los Angeles|Primary|
+|10|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|13|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|168.138.168.117|3128|Singapore|Singapore|Oracle Corporation|
+|15|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|16|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|17|180.88.111.187|3128|China|Beijing|GXBLnet|
+|18|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
+|19|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|20|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
 
 
 
