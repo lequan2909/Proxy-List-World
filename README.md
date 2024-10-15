@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.154.36.211|8080|Indonesia|Surabaya|RADNET-BDG|
-|2|101.108.242.210|8080|Thailand|Bangkok|TOT Public Company Limited|
-|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|4|103.152.238.180|8085|Indonesia|Bekasi|APRIN|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|3|103.146.185.143|2022|Indonesia|Wonogiri|YAMNET|
+|4|178.48.68.61|18080|Hungary|Budapest|UPC|
+|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 |6|88.198.39.240|10002|Germany|Nuremberg|Hetzner Online GmbH|
-|7|38.188.178.250|999|Colombia|Choachí|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
-|8|131.196.219.128|8080|Brazil|Vila Velha|Giganetlink Telecomunicacoes Ltda ME - ME|
-|9|37.204.209.214|8080|Russia|Moscow|NCNET|
-|10|5.161.104.243|10001|United States|Ashburn|Hetzner Online GmbH|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|119.15.86.30|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|14|49.147.115.39|8080|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|38.183.146.171|8090|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|67.43.227.227|2023|Canada|Montreal|GloboTech Communications|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|12|49.147.115.39|8080|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|13|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|111.199.233.244|9000|China|Beijing|China Unicom Beijing Province Network|
+|16|5.161.104.243|10001|United States|Ashburn|Hetzner Online GmbH|
+|17|67.43.227.227|20937|Canada|Montreal|GloboTech Communications|
+|18|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
+|19|72.10.164.178|22145|Canada|Montreal|GloboTech Communications|
+|20|156.67.172.185|3128|Germany|Hörstel|Deutsche Glasfaser Business GmbH|
 
 
 
