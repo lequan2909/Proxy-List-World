@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|3|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|5|5.161.104.243|10001|United States|Ashburn|Hetzner Online GmbH|
-|6|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|2|103.191.58.14|8080|Indonesia|Nganjuk|Panjalu Sarana Data Indonesia|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
 |9|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|10|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
 |11|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|14|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|12|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|14|5.161.104.243|10001|United States|Ashburn|Hetzner Online GmbH|
+|15|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
 |16|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
 |17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|67.43.228.254|27605|Canada|Montreal|GloboTech Communications|
-|19|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
-|20|168.138.168.117|3128|Singapore|Singapore|Oracle Corporation|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|20|61.129.2.212|8080|China|Beijing|CHINANET|
 
 
 
