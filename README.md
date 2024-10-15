@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|202.152.142.186|8080|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
-|5|103.78.201.242|5001|India|Lucknow|Tachyon Communications Pvt Ltd|
-|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|8|54.70.120.91|3128|United States|Portland|Amazon.com, Inc.|
-|9|101.109.143.181|8080|Thailand|Bangkok|TOT Public Company Limited|
-|10|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|13|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|72.10.160.90|4041|Canada|Montreal|GloboTech Communications|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|168.138.168.117|3128|Singapore|Singapore|Oracle Corporation|
-|17|103.168.44.18|8080|Indonesia|Jakarta|PT CYB Media Group|
-|18|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|148.113.1.131|3128|India|Mumbai|OVH SAS|
-|20|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
+|2|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|54.70.120.91|3128|United States|Portland|Amazon.com, Inc.|
+|8|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|11|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|168.138.168.117|3128|Singapore|Singapore|Oracle Corporation|
+|14|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|15|173.249.60.246|14344|Germany|Nuremberg|Contabo GmbH|
+|16|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|18|148.113.1.131|3128|India|Mumbai|OVH SAS|
+|19|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|20|206.201.3.83|8095|Philippines|Pasig|Converge ICT Solution Inc|
 
 
 
