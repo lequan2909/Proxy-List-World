@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|5|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |8|20.204.212.76|3129|India|Pune|Microsoft Corporation|
 |9|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|10|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|11|34.97.247.98|8561|Japan|Osaka|Google LLC|
-|12|34.97.61.13|8561|Japan|Osaka|Google LLC|
-|13|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|14|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|15|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|10|20.204.214.79|3129|India|Pune|Microsoft Corporation|
+|11|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|12|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|144.86.187.59|3129|United States|Malden|Charles River Operation|
+|15|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
 |16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|17|34.97.65.59|8561|Japan|Osaka|Google LLC|
-|18|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|19|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|17|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|18|144.86.187.53|3129|United States|Malden|Charles River Operation|
+|19|138.201.246.148|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|20|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
 
 
 
