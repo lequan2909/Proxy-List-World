@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|3|223.205.99.219|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|4|103.152.238.180|8085|Indonesia|Bekasi|APRIN|
-|5|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|6|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
-|7|103.177.177.249|8080|Indonesia|Jakarta|PT Milenial Inti Telekomunikasi|
-|8|124.6.165.155|8082|Philippines|Lahug|INNOVE|
-|9|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|10|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|11|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|12|119.15.86.30|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|13|171.228.137.54|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|14|67.43.236.20|17813|Canada|Montreal|GloboTech Communications|
-|15|101.255.149.57|8080|Indonesia|Bekasi|PT Remala Abadi|
-|16|72.10.164.178|18343|Canada|Montreal|GloboTech Communications|
-|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|18|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|5.161.104.243|10002|United States|Ashburn|Hetzner Online GmbH|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|6|216.173.71.126|3128|Latvia|Riga|SIA VEESP|
+|7|188.132.221.170|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|8|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|9|5.161.104.243|10002|United States|Ashburn|Hetzner Online GmbH|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
+|12|103.48.68.68|83|India|Hyderabad|Country Online Services PVT LTD|
+|13|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|180.88.111.187|3128|China|Beijing|GXBLnet|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|45.236.105.81|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|17|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|18|113.160.235.248|19132|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|19|102.0.8.204|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
+|20|45.5.116.231|999|Guatemala|Guatemala City|Infinitum S.A.|
 
 
 
