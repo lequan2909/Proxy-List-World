@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
 |3|139.84.221.122|3129|India|Nawāda|The Constant Company, LLC|
 |4|139.84.221.122|3129|India|Nawāda|The Constant Company, LLC|
-|5|125.26.204.244|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|7|103.152.101.69|8080|Pakistan|Lahore|IN CABLE INTERNET (PRIVATE) LIMITED|
-|8|139.84.219.84|3129|India|Nawāda|The Constant Company, LLC|
-|9|139.84.221.122|3129|India|Nawāda|The Constant Company, LLC|
-|10|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|11|54.70.120.91|3128|United States|Portland|Amazon.com, Inc.|
-|12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|103.84.176.100|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|14|67.43.228.251|11585|Canada|Montreal|GloboTech Communications|
-|15|139.84.221.222|3129|India|Nawāda|The Constant Company, LLC|
-|16|72.10.164.178|29853|Canada|Montreal|GloboTech Communications|
-|17|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|18|67.43.228.252|27015|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|6773|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.252|27015|Canada|Montreal|GloboTech Communications|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|7|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|8|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|9|139.84.208.110|3129|India|Mumbai|The Constant Company, LLC|
+|10|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|11|139.84.219.84|3129|India|Nawāda|The Constant Company, LLC|
+|12|54.70.120.91|3128|United States|Portland|Amazon.com, Inc.|
+|13|139.84.221.122|3129|India|Nawāda|The Constant Company, LLC|
+|14|139.84.221.222|3129|India|Nawāda|The Constant Company, LLC|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|139.84.208.110|3129|India|Mumbai|The Constant Company, LLC|
+|17|72.10.164.178|29853|Canada|Montreal|GloboTech Communications|
+|18|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|19|72.10.164.178|29853|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|18667|Canada|Montreal|GloboTech Communications|
 
 
 
