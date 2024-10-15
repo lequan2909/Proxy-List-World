@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|6|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|7|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|8|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|14|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|72.10.160.90|19001|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|12915|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|19001|Canada|Montreal|GloboTech Communications|
-|18|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|19|67.43.227.226|12915|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|2635|Canada|Montreal|GloboTech Communications|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|7|45.133.107.10|81|Russia|Tul'skiy|Art-net LLC|
+|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|9|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|10|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|11|122.3.159.79|8082|Philippines|Marikina City|Philippine Long Distance Telephone Co.|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|18|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|72.10.164.178|26365|Canada|Montreal|GloboTech Communications|
 
 
 
