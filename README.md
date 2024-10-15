@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|4|159.192.227.210|8080|Thailand|Bangkok|CAT-BB|
-|5|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|6|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|7|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|8|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|9|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|10|157.230.38.173|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|3|8.222.170.141|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|5|1.20.203.29|8081|Thailand|Surat Thani|TOT Public Company Limited|
+|6|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|7|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|8|173.249.60.246|14344|Germany|Nuremberg|Contabo GmbH|
+|9|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
 |11|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|13|45.123.142.2|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|14|105.155.79.80|8080|Morocco|Agadir|ADSL Maroc telecom|
-|15|67.43.228.254|27071|Canada|Montreal|GloboTech Communications|
-|16|82.180.145.140|3128|India|Mumbai|Contabo Asia Private Limited|
-|17|72.10.160.174|16539|Canada|Montreal|GloboTech Communications|
-|18|45.238.118.156|27234|Brazil|Monte Mor|AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA|
-|19|27.72.141.201|10008|Vietnam|Hanoi|Newass2011xDSLHN|
-|20|67.43.227.226|13817|Canada|Montreal|GloboTech Communications|
+|12|171.238.239.231|5000|Vietnam|Tuyên Quang|Viettel Corporation|
+|13|67.43.227.226|13817|Canada|Montreal|GloboTech Communications|
+|14|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|15|72.10.160.90|13457|Canada|Montreal|GloboTech Communications|
+|16|89.169.36.16|3128|Kazakhstan|Almaty|NLS ASTANA LLP|
+|17|103.164.223.54|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|18|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|19|38.51.183.248|999|Venezuela|Barinas|THUNDERNET, C.A.|
+|20|72.10.160.170|11195|Canada|Montreal|GloboTech Communications|
 
 
 
