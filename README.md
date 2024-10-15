@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 |3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|4|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|84.247.152.41|8000|Japan|Tokyo|Contabo GmbH|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|34.97.247.98|8561|Japan|Osaka|Google LLC|
-|8|34.97.65.59|8561|Japan|Osaka|Google LLC|
-|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|103.177.9.104|8080|Indonesia|Jakarta|PT Helium Sinergi Telekomunikasi|
-|16|1.10.227.16|8080|Thailand|Damnoen Saduak|TOT Public Company Limited|
-|17|34.97.61.13|8561|Japan|Osaka|Google LLC|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|5|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|7|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|8|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|10|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|1.10.227.16|8080|Thailand|Damnoen Saduak|TOT Public Company Limited|
+|13|103.82.246.5|8080|Indonesia|Klatak|PT Master Star Network|
+|14|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|15|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|16|103.242.104.149|8181|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|17|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|18|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|19|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
