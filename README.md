@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|3|34.97.176.53|8561|Japan|Osaka|Google LLC|
-|4|45.83.20.3|1080|Belgium|Brussels|Stark Industries Solutions LTD|
-|5|162.240.154.26|3128|United States|Provo|Unified Layer|
+|3|45.83.20.3|1080|Belgium|Brussels|Stark Industries Solutions LTD|
+|4|148.113.1.131|3128|India|Mumbai|OVH SAS|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |6|139.84.208.110|3129|India|Mumbai|The Constant Company, LLC|
-|7|148.113.1.131|3128|India|Mumbai|OVH SAS|
+|7|34.97.176.53|8561|Japan|Osaka|Google LLC|
 |8|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|9|139.84.208.110|3129|India|Mumbai|The Constant Company, LLC|
-|10|162.240.154.26|3128|United States|Provo|Unified Layer|
-|11|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|14|170.83.82.10|3128|Brazil|Marabá|IBL Banda Larga Internet Informatica LTDA|
+|9|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|10|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|11|139.84.208.110|3129|India|Mumbai|The Constant Company, LLC|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|162.240.154.26|3128|United States|Provo|Unified Layer|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |15|103.127.97.187|3128|Philippines|Lucban|PT Biznet Gio Nusantara|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|103.105.76.100|8080|Indonesia|Kediri|GARUDA|
-|18|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|19|148.113.1.131|3128|India|Mumbai|OVH SAS|
-|20|139.84.208.110|3129|India|Mumbai|The Constant Company, LLC|
+|16|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|17|191.102.248.4|8085|Argentina|Rosario|IP·RED|
+|18|187.102.36.15|3128|Brazil|Braço do Norte|MKM Internet Solution Provider Ltda|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|170.83.82.10|3128|Brazil|Marabá|IBL Banda Larga Internet Informatica LTDA|
 
 
 
