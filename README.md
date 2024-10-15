@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|490|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|490|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|490|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|5|203.150.128.23|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|34.97.65.59|8561|Japan|Osaka|Google LLC|
-|8|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|189.101.185.87|3128|Brazil|Sorocaba|Claro NXT Telecomunicacoes Ltda|
-|10|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|12|144.86.187.51|3129|United States|Malden|Charles River Operation|
-|13|103.160.182.103|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|16|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|17|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|18|38.45.46.2|6332|Dominican Republic|Santo Domingo|FENIX NETWORKS, S.R.L.|
-|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|1|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|2|8.222.170.141|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|4|34.97.176.53|8561|Japan|Osaka|Google LLC|
+|5|34.97.247.98|8561|Japan|Osaka|Google LLC|
+|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|7|34.97.61.13|8561|Japan|Osaka|Google LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|12|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|14|203.150.128.23|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|15|189.101.185.87|3128|Brazil|Sorocaba|Claro NXT Telecomunicacoes Ltda|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|27.72.141.201|10015|Vietnam|Hanoi|Newass2011xDSLHN|
+|20|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
 
 
 
