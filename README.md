@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|6|36.92.162.220|8080|Indonesia|Tuban Timur|Telekomunikasi Indonesia|
-|7|171.7.57.145|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|10|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|11|58.69.117.2|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|12|101.128.78.202|32650|Indonesia|Medan|CBN|
-|13|186.96.68.72|999|Venezuela|Caracas|Gold Data USA Inc|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|105.174.43.194|8080|Angola|Luanda|UNITEL SA|
-|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|18|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|19|189.89.188.14|2020|Brazil|Salvador|ITS TELECOMUNICACOES LTDA|
-|20|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
+|2|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|3|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|4|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|38.41.0.167|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|9|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|10|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|13|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|14|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|15|133.208.148.135|8080|Japan|Chiyoda|NET-JP-ERX|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|103.177.9.104|8080|Indonesia|Jakarta|PT Helium Sinergi Telekomunikasi|
+|18|203.115.124.75|8080|India|Mumbai|PRIMENET|
+|19|103.127.97.187|3128|Philippines|Lucban|PT Biznet Gio Nusantara|
+|20|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
 
 
 
