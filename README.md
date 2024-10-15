@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|171.240.117.26|5101|Vietnam|Hanoi|Viettel Corporation|
+|2|139.84.208.110|3129|India|Mumbai|The Constant Company, LLC|
 |3|139.84.208.110|3129|India|Mumbai|The Constant Company, LLC|
-|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|8.222.170.141|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |5|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|6|139.84.208.110|3129|India|Mumbai|The Constant Company, LLC|
-|7|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|202.183.209.77|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|11|72.10.164.178|26967|Canada|Montreal|GloboTech Communications|
-|12|139.84.208.110|3129|India|Mumbai|The Constant Company, LLC|
-|13|67.43.227.227|30845|Canada|Montreal|GloboTech Communications|
-|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|15|178.128.99.90|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|18|27.147.137.90|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|19|67.43.227.226|17617|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|26967|Canada|Montreal|GloboTech Communications|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|9|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|119.148.23.242|8000|Bangladesh|Dhaka|Agni Systems Limited|
+|12|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
+|14|139.84.208.110|3129|India|Mumbai|The Constant Company, LLC|
+|15|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|16|72.10.164.178|6689|Canada|Montreal|GloboTech Communications|
+|17|187.102.36.15|3128|Brazil|Braço do Norte|MKM Internet Solution Provider Ltda|
+|18|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|72.10.160.91|15909|Canada|Montreal|GloboTech Communications|
+|20|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
 
 
 
