@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|139.84.219.84|3129|India|Nawāda|The Constant Company, LLC|
-|5|139.84.221.122|3129|India|Nawāda|The Constant Company, LLC|
-|6|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|7|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|139.84.219.84|3129|India|Nawāda|The Constant Company, LLC|
-|10|139.84.221.122|3129|India|Nawāda|The Constant Company, LLC|
-|11|190.94.212.76|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|12|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|13|45.189.117.199|999|Peru|Lima|Conex TV E.I.R.L|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|139.84.221.122|3129|India|Nawāda|The Constant Company, LLC|
-|16|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|139.84.219.84|3129|India|Nawāda|The Constant Company, LLC|
-|19|8.213.34.58|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
-|20|67.43.227.228|11709|Canada|Montreal|GloboTech Communications|
+|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|139.84.221.222|3129|India|Nawāda|The Constant Company, LLC|
+|5|139.84.219.84|3129|India|Nawāda|The Constant Company, LLC|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|139.84.221.222|3129|India|Nawāda|The Constant Company, LLC|
+|8|139.84.219.84|3129|India|Nawāda|The Constant Company, LLC|
+|9|193.233.84.112|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
+|10|163.172.33.137|4383|France|Vitry-sur-Seine|Online S.A.S.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|13|139.84.221.122|3129|India|Nawāda|The Constant Company, LLC|
+|14|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|17|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
+|18|139.84.221.122|3129|India|Nawāda|The Constant Company, LLC|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|8.213.34.58|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
 
 
 
