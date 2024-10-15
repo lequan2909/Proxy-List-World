@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|3|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|4|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|8|80.240.55.242|3128|Russia|Yeysk|inetnum UGTEL|
-|9|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|10|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|11|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|72.10.164.178|11199|Canada|Montreal|GloboTech Communications|
-|15|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|72.10.164.178|11199|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.19|32333|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|10275|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|30713|Canada|Montreal|GloboTech Communications|
+|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|3|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|4|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|5|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|6|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|7|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|9|72.10.164.178|14649|Canada|Montreal|GloboTech Communications|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|103.172.0.13|8181|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
+|12|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|13|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|16|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|17|72.10.164.178|14649|Canada|Montreal|GloboTech Communications|
+|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|72.10.160.94|24151|Canada|Montreal|GloboTech Communications|
+|20|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
 
 
 
