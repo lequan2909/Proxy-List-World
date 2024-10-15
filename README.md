@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5662** proxies at the latest update. Usable proxies are below.
+> Scraper found **5582** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|72|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|851|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|771|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|547|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3234|✅|
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
 |5|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |6|20.204.214.79|3129|India|Pune|Microsoft Corporation|
-|7|20.204.212.45|3129|India|Pune|Microsoft Corporation|
-|8|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|7|20.204.214.23|3129|India|Pune|Microsoft Corporation|
+|8|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
 |9|20.204.212.76|3129|India|Pune|Microsoft Corporation|
-|10|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|11|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|12|8.222.170.141|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|144.86.187.53|3129|United States|Malden|Charles River Operation|
-|14|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|16|144.86.187.51|3129|United States|Malden|Charles River Operation|
-|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|12|20.204.212.45|3129|India|Pune|Microsoft Corporation|
+|13|8.222.170.141|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|34.97.176.53|8561|Japan|Osaka|Google LLC|
+|15|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
+|16|34.97.247.98|8561|Japan|Osaka|Google LLC|
+|17|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
 |18|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|20|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
 
 
 
