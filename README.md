@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|3|8.222.170.141|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|72.10.160.93|5047|Canada|Montreal|GloboTech Communications|
-|5|5.161.104.243|10001|United States|Ashburn|Hetzner Online GmbH|
-|6|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|7|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|8|67.43.227.227|32099|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|26229|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.230|20667|Canada|Montreal|GloboTech Communications|
-|11|45.174.57.26|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
-|12|179.125.125.243|3128|Brazil|Teresina|Virtex Telecom|
-|13|72.10.164.178|26229|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|26229|Canada|Montreal|GloboTech Communications|
-|15|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|49.147.115.39|8080|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|17|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|18|67.43.227.227|32099|Canada|Montreal|GloboTech Communications|
-|19|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|20|72.10.160.170|26137|Canada|Montreal|GloboTech Communications|
+|2|61.7.191.7|8080|Thailand|Ao Nang|CAT Telecom Public Company Limited|
+|3|5.161.104.243|10001|United States|Ashburn|Hetzner Online GmbH|
+|4|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|5|67.43.227.227|32099|Canada|Montreal|GloboTech Communications|
+|6|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|72.10.164.178|26229|Canada|Montreal|GloboTech Communications|
+|8|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|9|189.195.139.178|999|Mexico|Tangancícuaro de Arista|Mega Cable, S.A. de C.V.|
+|10|128.92.239.190|8080|United States|Los Angeles|Spectrum|
+|11|103.171.240.141|8181|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
+|12|133.208.148.135|8080|Japan|Chiyoda|NET-JP-ERX|
+|13|190.107.232.202|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|14|103.178.42.100|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|67.43.227.227|32099|Canada|Montreal|GloboTech Communications|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|67.43.227.230|10995|Canada|Montreal|GloboTech Communications|
+|19|189.141.25.107|999|Mexico|Querétaro City|UNINET|
+|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
