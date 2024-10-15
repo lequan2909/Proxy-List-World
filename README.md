@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|133.208.148.135|8080|Japan|Chiyoda|NET-JP-ERX|
-|4|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|5|8.222.170.141|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|9|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|163.172.33.137|4383|France|Vitry-sur-Seine|Online S.A.S.|
-|13|103.143.196.67|8080|Indonesia|Sragen|JERNIHNETWORK|
-|14|103.105.81.38|8082|Indonesia|Karanggan|Biznet Networks|
-|15|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
-|16|34.97.65.59|8561|Japan|Osaka|Google LLC|
-|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|18|129.222.202.169|80|Colombia|Bogota|SpaceX Starlink|
-|19|116.197.132.201|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|20|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|6|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|8.222.170.141|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|12|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|180.211.183.130|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|16|43.243.141.12|8080|Indonesia|Pisangan|CEPATNET|
+|17|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|144.86.187.45|3129|United States|Malden|Charles River Operation|
+|20|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
 
 
 
