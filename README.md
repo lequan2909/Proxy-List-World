@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|4|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|157.66.85.32|8080|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|10|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|11|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
-|12|34.97.247.98|8561|Japan|Osaka|Google LLC|
-|13|45.236.105.81|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|14|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
-|15|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|16|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|17|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|67.43.236.22|23715|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|4|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|6|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|7|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
+|8|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|9|61.118.38.234|60808|Japan|Aizu-wakamatsu Shi|Open Computer Network|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|15|34.97.247.98|8561|Japan|Osaka|Google LLC|
+|16|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|17|8.222.170.141|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
 
 
 
