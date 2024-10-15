@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|395|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|395|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|395|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|34.97.65.59|8561|Japan|Osaka|Google LLC|
-|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|4|8.222.170.141|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|103.242.106.61|8090|Indonesia|Gunungkalong|PT Lintas Jaringan Nusantara|
-|6|157.245.50.196|8000|Singapore|Singapore|DigitalOcean, LLC|
-|7|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|8|189.101.185.87|3128|Brazil|Sorocaba|Claro NXT Telecomunicacoes Ltda|
-|9|103.67.237.208|3128|India|Hyderabad|OASISGSSERVICES|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|12|34.97.176.53|8561|Japan|Osaka|Google LLC|
-|13|34.97.61.13|8561|Japan|Osaka|Google LLC|
-|14|101.109.103.233|8080|Thailand|Pattaya|TOT Public Company Limited|
-|15|34.97.247.98|8561|Japan|Osaka|Google LLC|
-|16|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|17|36.67.8.169|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|18|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|20|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|8.222.170.141|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|211.222.173.3|3128|South Korea|Goyang-si|Korea Telecom|
+|7|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|8|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|10|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|181.21.168.161|999|Argentina|San Telmo|Telefonica de Argentina|
+|13|171.228.158.152|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
+|14|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|15|34.97.176.53|8561|Japan|Osaka|Google LLC|
+|16|103.175.240.87|8080|Indonesia|Banyumas|LDP|
+|17|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|18|51.159.159.73|80|France|Paris|SCALEWAY|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 
 
 
