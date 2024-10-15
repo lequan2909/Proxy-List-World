@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|5|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|49.48.55.232|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|7|34.97.176.53|8561|Japan|Osaka|Google LLC|
-|8|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|9|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|10|34.97.65.59|8561|Japan|Osaka|Google LLC|
-|11|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
-|12|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|193.233.84.56|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
-|15|103.178.21.91|3125|Indonesia|Sumberpucung|PT Trisna Mega Abadi|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|18|103.81.221.33|8080|Indonesia|Bandung|STARNET|
-|19|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|20|45.236.105.81|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|9|157.66.85.32|8080|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|10|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
+|11|84.214.150.146|8080|Norway|Oslo|Get AS|
+|12|103.81.221.33|8080|Indonesia|Bandung|STARNET|
+|13|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|16|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
+|17|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|18|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|19|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
+|20|103.191.115.252|83|India|Bānka|Xpress Fiber Private Limited|
 
 
 
