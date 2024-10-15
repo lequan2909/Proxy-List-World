@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|8.222.170.141|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
-|6|103.147.118.240|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
-|7|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|9|67.43.228.251|31685|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.253|9035|Canada|Montreal|GloboTech Communications|
-|11|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|12|67.43.236.20|3725|Canada|Montreal|GloboTech Communications|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|223.25.110.88|1080|Indonesia|Surabaya|SinergiNet|
-|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|18|67.43.227.228|23825|Canada|Montreal|GloboTech Communications|
-|19|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|20|72.10.164.178|2283|Canada|Montreal|GloboTech Communications|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|4|133.208.148.135|8080|Japan|Chiyoda|NET-JP-ERX|
+|5|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|8|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|9|160.20.165.231|8587|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|10|45.238.118.156|27234|Brazil|Monte Mor|AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA|
+|11|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|12|200.195.235.226|3128|Brazil|Salvador|BR.Digital Provider|
+|13|67.43.236.20|29765|Canada|Montreal|GloboTech Communications|
+|14|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|186.96.68.72|999|Venezuela|Caracas|Gold Data USA Inc|
+|17|115.74.246.138|8080|Vietnam|Quận Mười Một|VIETELxdsl|
+|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
+|20|180.88.111.187|3128|China|Beijing|GXBLnet|
 
 
 
