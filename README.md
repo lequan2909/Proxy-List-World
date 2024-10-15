@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|5.161.104.243|10001|United States|Ashburn|Hetzner Online GmbH|
-|4|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|5|5.161.104.243|10001|United States|Ashburn|Hetzner Online GmbH|
-|6|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
-|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|189.151.19.230|999|Mexico|Nogales|UNINET|
-|10|38.188.178.250|999|Colombia|Choachí|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|13|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|8.222.170.141|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|6|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|84.53.245.42|41258|Russia|Vladimir|Elcom ISP|
+|9|36.91.135.141|40|Indonesia|Jakarta Pusat|PT Telekomunikasi Indonesia|
+|10|109.72.66.216|8080|Russia|Moscow|Joint-Stock Company Investpribor|
+|11|200.114.87.4|8080|Argentina|Bosques|Citarella S.A.|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
 |14|133.208.148.135|8080|Japan|Chiyoda|NET-JP-ERX|
-|15|114.130.153.70|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|181.79.234.90|999|Honduras|San Pedro Sula|Redes y Telecomunicaciones|
-|18|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|19|67.43.227.227|20345|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|14243|Canada|Montreal|GloboTech Communications|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|80.209.232.48|3128|Lithuania|Vilnius|UAB "Interneto vizija"|
+|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|19|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|20|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
 
 
 
