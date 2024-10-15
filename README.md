@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|7|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|180.211.183.130|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
-|12|34.97.247.98|8561|Japan|Osaka|Google LLC|
-|13|8.213.34.58|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
-|14|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|15|67.43.236.20|32525|Canada|Montreal|GloboTech Communications|
-|16|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|17|72.10.160.94|21907|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.171|9431|Canada|Montreal|GloboTech Communications|
-|19|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|116.254.99.14|8080|Indonesia|Jakarta|SpaceX Starlink|
+|10|109.123.229.224|4011|Japan|Tokyo|Contabo Asia Private Limited|
+|11|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|12|103.229.185.154|8080|Indonesia|Pamulang|PT INDONESIA COMNETS PLUS|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|15|72.128.133.154|16099|United States|Mission|Charter Communications|
+|16|72.10.160.90|19801|Canada|Montreal|GloboTech Communications|
+|17|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|19|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|20|8.222.170.141|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
