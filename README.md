@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|2|163.172.33.137|4383|France|Vitry-sur-Seine|Online S.A.S.|
 |3|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|4|139.84.208.110|3129|India|Mumbai|The Constant Company, LLC|
+|4|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
 |5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|170.84.146.176|8099|Brazil|Beneditinos|Direct Telecom Ltda|
-|7|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|8|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|9|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|10|8.212.18.158|808|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|13|54.70.120.91|3128|United States|Portland|Amazon.com, Inc.|
-|14|67.43.227.230|21973|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|11063|Canada|Montreal|GloboTech Communications|
-|16|51.158.173.222|3128|France|Paris|Online S.A.S.|
-|17|72.10.164.178|12287|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.172|22975|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|32941|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|12287|Canada|Montreal|GloboTech Communications|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|8|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|9|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|10|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|11|51.158.173.222|3128|France|Paris|Online S.A.S.|
+|12|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|13|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|14|139.84.208.110|3129|India|Mumbai|The Constant Company, LLC|
+|15|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|72.10.160.90|6407|Canada|Montreal|GloboTech Communications|
+|17|103.48.71.58|83|India|Hyderabad|Country Online Services PVT LTD|
+|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|20|113.192.30.89|8088|Indonesia|Jakarta|PT Indo Telemedia Solusi|
 
 
 
