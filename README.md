@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|133.208.148.135|8080|Japan|Chiyoda|NET-JP-ERX|
-|4|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|5|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|6|178.48.68.61|18080|Hungary|Budapest|UPC|
-|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
-|9|156.67.172.185|3128|Germany|Hörstel|Deutsche Glasfaser Business GmbH|
-|10|5.161.104.243|10002|United States|Ashburn|Hetzner Online GmbH|
-|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|12|203.142.74.115|8080|Indonesia|Jakarta Pusat|BIZNET|
-|13|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|14|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|15|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|16|72.10.164.178|9691|Canada|Montreal|GloboTech Communications|
-|17|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|72.10.160.90|20265|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|8485|Canada|Montreal|GloboTech Communications|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|5.161.104.243|10001|United States|Ashburn|Hetzner Online GmbH|
+|9|200.24.157.122|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|11|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
+|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|13|212.110.188.213|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|14|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|15|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|16|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|19|119.47.90.241|1111|Indonesia|Jekulo|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|20|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
 
 
 
