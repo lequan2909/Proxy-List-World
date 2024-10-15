@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|4|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|5|139.84.208.110|3129|India|Mumbai|The Constant Company, LLC|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|10|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|12|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
+|3|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|4|139.84.208.110|3129|India|Mumbai|The Constant Company, LLC|
+|5|184.82.241.180|8080|Thailand|Phuket|AIS-Fibre|
+|6|103.152.101.69|8080|Pakistan|Lahore|IN CABLE INTERNET (PRIVATE) LIMITED|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|103.169.254.155|3127|Indonesia|Curahjati|PT Master Star Network|
+|9|103.41.35.162|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|10|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|11|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|36.67.99.31|7023|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 |13|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|16|139.84.208.110|3129|India|Mumbai|The Constant Company, LLC|
-|17|103.156.75.243|1080|Indonesia|Gianyar|PT Trika Global Media|
-|18|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|19|67.43.236.21|18763|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|4427|Canada|Montreal|GloboTech Communications|
+|14|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|139.84.208.110|3129|India|Mumbai|The Constant Company, LLC|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|49.147.115.39|8080|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|19|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|20|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
 
 
 
