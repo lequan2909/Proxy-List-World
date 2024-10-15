@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|8.222.170.141|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|103.67.237.208|3128|India|Hyderabad|OASISGSSERVICES|
-|8|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|3|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|6|8.222.170.141|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
 |9|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|72.10.164.178|3207|Canada|Montreal|GloboTech Communications|
-|11|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|13|20.83.26.240|3128|United States|Des Moines|Microsoft Corporation|
-|14|8.222.170.141|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|72.10.164.178|3207|Canada|Montreal|GloboTech Communications|
-|17|34.97.65.59|8561|Japan|Osaka|Google LLC|
-|18|72.10.160.90|31055|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.18|16025|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|31055|Canada|Montreal|GloboTech Communications|
+|10|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|11|72.10.164.178|13549|Canada|Montreal|GloboTech Communications|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|72.10.164.178|13549|Canada|Montreal|GloboTech Communications|
+|14|109.123.229.224|4011|Japan|Tokyo|Contabo Asia Private Limited|
+|15|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|16|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|17|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|18|72.10.164.178|13549|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.173|15543|Canada|Montreal|GloboTech Communications|
+|20|38.99.101.101|3128|United States|San Jose|Cogent Communications|
 
 
 
