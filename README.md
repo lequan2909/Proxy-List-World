@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|101.109.50.57|8080|Thailand|Pattaya|TOT Public Company Limited|
-|3|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|4|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|6|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|181.209.107.106|999|Argentina|Ministro Rivadavia|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|34.97.176.53|8561|Japan|Osaka|Google LLC|
-|11|116.68.170.115|8019|Indonesia|Jakarta|Asia Pacific Network Information Center|
-|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|13|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|14|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|15|107.189.8.240|8080|Luxembourg|Luxembourg|FranTech Solutions|
-|16|112.109.16.51|8080|Indonesia|Surabaya|DATAUTAMANET|
-|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|18|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|19|20.210.110.184|3128|Japan|Tokyo|Microsoft Corporation|
-|20|162.240.154.26|3128|United States|Provo|Unified Layer|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|6|178.48.68.61|18080|Hungary|Budapest|UPC|
+|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|8|171.228.157.91|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
+|9|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|10|181.209.107.106|999|Argentina|Ministro Rivadavia|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|11|34.97.176.53|8561|Japan|Osaka|Google LLC|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|101.109.143.181|8080|Thailand|Bangkok|TOT Public Company Limited|
+|14|179.189.50.160|80|Brazil|Sinop|Avato Tecnologia S.A|
+|15|170.238.104.213|8080|Brazil|São Fidélis|Ubbinet Provedor de Servicos de Internet Ltda ME|
+|16|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|223.25.110.104|8090|Indonesia|Surabaya|SinergiNet|
+|18|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|19|148.113.1.131|3128|India|Mumbai|OVH SAS|
+|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
