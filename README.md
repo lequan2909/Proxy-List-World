@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.147.118.240|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
-|3|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|4|139.84.208.110|3129|India|Mumbai|The Constant Company, LLC|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|139.84.208.110|3129|India|Mumbai|The Constant Company, LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|139.84.221.122|3129|India|Nawāda|The Constant Company, LLC|
-|9|162.240.154.26|3128|United States|Provo|Unified Layer|
-|10|139.84.221.222|3129|India|Nawāda|The Constant Company, LLC|
-|11|139.84.219.84|3129|India|Nawāda|The Constant Company, LLC|
-|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|13|139.84.208.110|3129|India|Mumbai|The Constant Company, LLC|
-|14|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|15|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|72.10.160.91|4365|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|9483|Canada|Montreal|GloboTech Communications|
-|19|139.84.221.122|3129|India|Nawāda|The Constant Company, LLC|
-|20|67.43.227.227|27851|Canada|Montreal|GloboTech Communications|
+|2|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|3|178.48.68.61|18080|Hungary|Budapest|UPC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|8|103.48.68.68|83|India|Hyderabad|Country Online Services PVT LTD|
+|9|103.75.96.70|8080|Indonesia|Bandung|MORATELINDO|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|72.10.164.178|13143|Canada|Montreal|GloboTech Communications|
+|12|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|14|67.43.227.228|28143|Canada|Montreal|GloboTech Communications|
+|15|187.102.36.15|3128|Brazil|Braço do Norte|MKM Internet Solution Provider Ltda|
+|16|113.118.159.127|9000|China|Shenzhen|Chinanet|
+|17|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|19|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
+|20|67.43.227.226|3943|Canada|Montreal|GloboTech Communications|
 
 
 
