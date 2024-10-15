@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|61.7.191.7|8080|Thailand|Ao Nang|CAT Telecom Public Company Limited|
-|3|5.161.104.243|10002|United States|Ashburn|Hetzner Online GmbH|
-|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|5|133.208.148.135|8080|Japan|Chiyoda|NET-JP-ERX|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|61.7.191.7|8080|Thailand|Ao Nang|CAT Telecom Public Company Limited|
+|4|5.161.104.243|10002|United States|Ashburn|Hetzner Online GmbH|
+|5|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
 |6|5.161.104.243|10002|United States|Ashburn|Hetzner Online GmbH|
-|7|116.202.217.96|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|172.233.152.170|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|7|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |10|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|11|175.137.10.254|8081|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|12|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
-|13|168.138.168.117|3128|Singapore|Singapore|Oracle Corporation|
-|14|67.43.228.253|11371|Canada|Montreal|GloboTech Communications|
-|15|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
-|16|67.43.227.227|31703|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.173|8715|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.91|16525|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|8715|Canada|Montreal|GloboTech Communications|
-|20|49.147.115.39|8080|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|11|49.147.115.39|8080|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|12|72.10.160.91|4153|Canada|Montreal|GloboTech Communications|
+|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|14|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
+|15|222.129.139.112|9000|China|Beijing|China Unicom Beijing Province Network|
+|16|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
+|17|171.228.137.54|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
+|18|187.230.111.235|999|Mexico|Nogales|Uninet S.A. de C.V.|
+|19|5.161.104.243|10002|United States|Ashburn|Hetzner Online GmbH|
+|20|5.161.104.243|10002|United States|Ashburn|Hetzner Online GmbH|
 
 
 
