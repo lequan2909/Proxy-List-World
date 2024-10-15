@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|203.150.113.49|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|4|168.138.168.117|3128|Singapore|Singapore|Oracle Corporation|
-|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|6|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|7|15.235.12.19|3128|Canada|Montreal|OVH SAS|
-|8|178.48.68.61|18080|Hungary|Budapest|UPC|
-|9|43.252.107.252|7777|Indonesia|Gamping Lor|PT Lintas Data Prima|
-|10|1.20.207.92|8080|Thailand|Rayong|TOT Public Company Limited|
-|11|182.253.177.166|8080|Indonesia|Jakarta Pusat|BIZNET|
-|12|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
-|13|103.28.148.187|8080|Indonesia|Jakarta|Argon Data Communication|
-|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|15|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|16|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|17|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|18|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|19|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|20|51.159.159.73|80|France|Paris|SCALEWAY|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|203.150.113.49|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|5|103.28.148.187|8080|Indonesia|Jakarta|Argon Data Communication|
+|6|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|7|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|8|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|9|34.97.247.98|8561|Japan|Osaka|Google LLC|
+|10|168.138.168.117|3128|Singapore|Singapore|Oracle Corporation|
+|11|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|1.20.207.92|8080|Thailand|Rayong|TOT Public Company Limited|
+|16|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|17|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|18|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|182.253.177.166|8080|Indonesia|Jakarta Pusat|BIZNET|
 
 
 
