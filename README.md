@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|8.222.170.141|8081|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|4|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|5|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|6|103.125.38.82|8080|Indonesia|Surabaya|PT. Eka Mas Republik|
-|7|82.97.242.96|3128|Russia|St Petersburg|TimeWeb Ltd.|
+|3|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|4|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|5|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
+|6|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |8|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
-|9|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|10|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|11|58.137.174.101|8080|Thailand|Bangkok|AGC|
-|12|67.43.236.20|1171|Canada|Montreal|GloboTech Communications|
-|13|187.249.20.153|8081|Mexico|Apodaca|Transtelco Inc|
-|14|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|15|72.10.160.173|18149|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.173|18149|Canada|Montreal|GloboTech Communications|
-|17|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|18|190.61.101.72|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
-|19|67.43.236.20|1171|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|7273|Canada|Montreal|GloboTech Communications|
+|9|138.0.231.202|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|10|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|11|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|12|49.147.115.39|8080|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|13|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|14|103.83.178.222|8080|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|15|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|16|124.105.102.167|8082|Philippines|Tanauan|Philippine Long Distance Telephone Co.|
+|17|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|18|72.10.160.173|14083|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|24105|Canada|Montreal|GloboTech Communications|
+|20|216.173.71.126|3128|Latvia|Riga|SIA VEESP|
 
 
 
