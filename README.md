@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|3|178.48.68.61|18080|Hungary|Budapest|UPC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|103.127.97.187|3128|Philippines|Lucban|PT Biznet Gio Nusantara|
-|6|139.84.219.84|3129|India|Nawāda|The Constant Company, LLC|
-|7|139.84.221.222|3129|India|Nawāda|The Constant Company, LLC|
-|8|139.84.221.122|3129|India|Nawāda|The Constant Company, LLC|
-|9|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|12|67.43.228.253|31771|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.174|28753|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.252|9575|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.226|3943|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|3943|Canada|Montreal|GloboTech Communications|
-|17|103.229.185.154|8080|Indonesia|Pamulang|PT INDONESIA COMNETS PLUS|
-|18|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|19|54.70.120.91|3128|United States|Portland|Amazon.com, Inc.|
-|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
+|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|6|103.162.141.146|3128|Indonesia|Batam|PT Filltech Antar Nusa|
+|7|87.107.48.254|3128|Iran|Tehran|Soroush Rasaneh|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|27.147.137.90|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|11|45.83.20.3|1080|Belgium|Brussels|Stark Industries Solutions LTD|
+|12|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|14|67.43.228.252|4933|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.226|6447|Canada|Montreal|GloboTech Communications|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|67.43.228.253|21357|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|13143|Canada|Montreal|GloboTech Communications|
+|19|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.164.178|13143|Canada|Montreal|GloboTech Communications|
 
 
 
