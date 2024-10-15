@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|4|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|6|178.48.68.61|18080|Hungary|Budapest|UPC|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
-|9|72.10.164.178|5429|Canada|Montreal|GloboTech Communications|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|12|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|4|178.48.68.61|18080|Hungary|Budapest|UPC|
+|5|5.161.104.243|10002|United States|Ashburn|Hetzner Online GmbH|
+|6|5.161.104.243|10002|United States|Ashburn|Hetzner Online GmbH|
+|7|216.173.71.126|3128|Latvia|Riga|SIA VEESP|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|10|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|11|187.62.191.3|61456|Brazil|Bariri|Conexao Networks Provedor de Internet|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
 |13|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|16|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|17|72.10.164.178|5429|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.230|14099|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|5429|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|7771|Canada|Montreal|GloboTech Communications|
+|14|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|15|67.43.236.18|27897|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|5429|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.230|14099|Canada|Montreal|GloboTech Communications|
+|18|143.64.8.21|8080|China|Beimeng|Shanghai Blue Cloud Technology Co., Ltd|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|72.10.164.178|5429|Canada|Montreal|GloboTech Communications|
 
 
 
