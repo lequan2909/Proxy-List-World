@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|4|20.204.214.23|3129|India|Pune|Microsoft Corporation|
-|5|200.106.116.42|999|Peru|Huacho|Telefonica del Peru|
-|6|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|2|20.44.189.184|3129|Japan|Tokyo|Microsoft Corporation|
+|3|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
+|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|5|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|20.204.214.23|3129|India|Pune|Microsoft Corporation|
 |7|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
 |8|147.28.155.20|10005|United States|Dallas|Packet Host, Inc.|
-|9|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
-|10|103.82.246.5|8080|Indonesia|Klatak|PT Master Star Network|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|187.63.156.93|999|Dominican Republic|Santo Domingo Este|Derivalnet Y Comunicaciones SRL|
 |11|198.24.187.93|8001|United States|Ashburn|Secured Servers LLC|
-|12|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|13|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|103.166.32.42|1111|Indonesia|Kudus|PT Daniswara Citra Informatika|
+|12|138.94.236.165|8080|Brazil|Altamira|Nettcon Provedor De Internet Eireli EPP|
+|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|14|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|15|116.80.82.214|3128|Japan|Shimomeguro|InfoSphere|
 |16|20.44.188.17|3129|Japan|Tokyo|Microsoft Corporation|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|17|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|19|220.233.27.127|80|Australia|Sydney|Exetel Pty Ltd|
 |20|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
 
 
