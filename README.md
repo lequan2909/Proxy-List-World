@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|148.113.1.131|3128|India|Mumbai|OVH SAS|
-|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|2|148.113.1.131|3128|India|Mumbai|OVH SAS|
+|3|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
+|4|178.48.68.61|18080|Hungary|Budapest|UPC|
 |5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|6|150.95.104.109|8080|Vietnam|Hanoi|GMO-Z.com Runsystem Joint Stock Company|
-|7|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|163.172.33.137|4383|France|Vitry-sur-Seine|Online S.A.S.|
+|8|148.113.1.131|3128|India|Mumbai|OVH SAS|
 |9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
-|11|45.83.20.3|1080|Belgium|Brussels|Stark Industries Solutions LTD|
-|12|103.184.56.125|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
-|13|148.113.1.131|3128|India|Mumbai|OVH SAS|
-|14|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|15|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|16|54.70.120.91|3128|United States|Portland|Amazon.com, Inc.|
-|17|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|18|173.249.60.246|14344|Germany|Nuremberg|Contabo GmbH|
-|19|86.109.3.28|10046|United States|Chicago|Packet Host, Inc.|
-|20|139.84.221.222|3129|India|Nawāda|The Constant Company, LLC|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|14|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|41.65.251.87|1981|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|18|72.10.160.93|11089|Canada|Montreal|GloboTech Communications|
+|19|67.43.228.250|16757|Canada|Montreal|GloboTech Communications|
+|20|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
 
 
 
