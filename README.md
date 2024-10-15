@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|178.48.68.61|18080|Hungary|Budapest|UPC|
+|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
 |5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|7|5.161.104.243|10002|United States|Ashburn|Hetzner Online GmbH|
-|8|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|11|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|6|161.49.91.13|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|7|103.155.197.209|8090|Indonesia|Sukabumi|JEMBATANDATA|
+|8|184.174.33.250|3128|Germany|Düsseldorf|Colocation America Corporation|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|11|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|12|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|13|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
 |14|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|49.147.115.39|8080|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|16|67.43.228.253|27199|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|1589|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|22931|Canada|Montreal|GloboTech Communications|
-|19|5.161.104.243|10002|United States|Ashburn|Hetzner Online GmbH|
-|20|15.235.12.19|3128|Canada|Montreal|OVH SAS|
+|15|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|17|103.82.8.242|8989|Bangladesh|Dhaka|FNF Online|
+|18|223.25.110.185|8080|Indonesia|Surabaya|SinergiNet|
+|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|20|49.147.115.39|8080|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
 
 
 
