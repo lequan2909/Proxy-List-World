@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|5.161.104.243|10001|United States|Ashburn|Hetzner Online GmbH|
-|6|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|9|102.164.252.150|8080|Equatorial Guinea|Bata|Conexxia GE S.L|
-|10|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|14|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|16|67.43.228.253|5423|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|14703|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.171|17695|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|5409|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|3995|Canada|Montreal|GloboTech Communications|
+|2|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|3|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|4|109.123.229.224|4011|Japan|Tokyo|Contabo Asia Private Limited|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|144.86.187.36|3129|United States|Malden|Charles River Operation|
+|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|10|54.70.120.91|3128|United States|Portland|Amazon.com, Inc.|
+|11|72.10.160.170|3995|Canada|Montreal|GloboTech Communications|
+|12|124.6.165.155|8082|Philippines|Lahug|INNOVE|
+|13|103.154.117.186|8080|Indonesia|Jakarta|MORATELINDONAP|
+|14|72.10.164.178|28749|Canada|Montreal|GloboTech Communications|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|17|72.10.164.178|28749|Canada|Montreal|GloboTech Communications|
+|18|49.147.115.39|8080|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|19|49.148.43.177|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|20|72.10.164.178|28749|Canada|Montreal|GloboTech Communications|
 
 
 
