@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|9|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|10|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|11|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|12|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|13|72.10.160.174|8345|Canada|Montreal|GloboTech Communications|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|124.105.180.29|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|162.240.154.26|3128|United States|Provo|Unified Layer|
+|13|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
 |14|178.48.68.61|18080|Hungary|Budapest|UPC|
 |15|67.43.227.227|2957|Canada|Montreal|GloboTech Communications|
-|16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|18|110.49.34.126|32650|Thailand|Phan Thong|Advanced Wireless Network Company Limited|
-|19|72.10.160.90|23825|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|23825|Canada|Montreal|GloboTech Communications|
+|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|19|72.10.160.173|9957|Canada|Montreal|GloboTech Communications|
+|20|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
 
 
 
