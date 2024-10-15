@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|139.84.219.84|3129|India|Nawāda|The Constant Company, LLC|
-|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|5|139.84.221.122|3129|India|Nawāda|The Constant Company, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|139.84.221.122|3129|India|Nawāda|The Constant Company, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|139.84.219.84|3129|India|Nawāda|The Constant Company, LLC|
+|6|139.84.221.122|3129|India|Nawāda|The Constant Company, LLC|
+|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
 |8|139.84.219.84|3129|India|Nawāda|The Constant Company, LLC|
-|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|10|139.84.221.222|3129|India|Nawāda|The Constant Company, LLC|
-|11|104.37.102.181|8181|United States|Attica|ALTIUS Broadband, LLC|
-|12|163.172.33.137|4383|France|Vitry-sur-Seine|Online S.A.S.|
-|13|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|14|139.84.221.222|3129|India|Nawāda|The Constant Company, LLC|
-|15|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|18|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|19|139.84.219.84|3129|India|Nawāda|The Constant Company, LLC|
-|20|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|139.84.221.122|3129|India|Nawāda|The Constant Company, LLC|
+|10|171.240.116.45|5101|Vietnam|Hanoi|Viettel Corporation|
+|11|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|12|139.84.219.84|3129|India|Nawāda|The Constant Company, LLC|
+|13|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|16|171.240.116.220|5101|Vietnam|Hanoi|Viettel Corporation|
+|17|103.174.236.96|8080|Indonesia|Brebes|PT Global Erasiber Teknologi|
+|18|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|19|5.161.104.243|10002|United States|Ashburn|Hetzner Online GmbH|
+|20|72.10.164.178|26711|Canada|Montreal|GloboTech Communications|
 
 
 
