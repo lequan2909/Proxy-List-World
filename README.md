@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|103.215.187.67|8080|Indonesia|Mungkid|PT Jaringan Inti Exadata|
-|7|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|8|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|9|180.211.183.130|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
-|10|116.111.102.147|5105|Vietnam|Hanoi|Viettel Corporation|
-|11|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|12|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|13|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|14|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|16|54.70.120.91|3128|United States|Portland|Amazon.com, Inc.|
-|17|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|67.43.227.227|19285|Canada|Montreal|GloboTech Communications|
-|20|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|7|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|8|103.162.55.42|8080|Indonesia|Pamekasan|Institut Agama Islam Negeri Madura|
+|9|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|12|27.124.93.197|8080|Indonesia|Pamulang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|14|103.36.11.246|8181|Indonesia|Pandeglang|PT Awinet Global Mandiri|
+|15|103.215.187.67|8080|Indonesia|Mungkid|PT Jaringan Inti Exadata|
+|16|207.248.3.81|999|Chile|Rancagua|Grupo Metrowan Telecom SPA|
+|17|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|18|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
