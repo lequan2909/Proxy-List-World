@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|3|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|7|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|9|34.97.65.59|8561|Japan|Osaka|Google LLC|
-|10|34.97.176.53|8561|Japan|Osaka|Google LLC|
-|11|51.158.173.222|3128|France|Paris|Online S.A.S.|
-|12|171.228.183.229|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|16|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|17|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|18|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
-|19|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|20|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|2|34.97.176.53|8561|Japan|Osaka|Google LLC|
+|3|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|8|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|9|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|10|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|11|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|12|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|15|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|37.187.109.70|10111|France|Gravelines|OVH SAS|
+|17|51.159.159.73|80|France|Paris|SCALEWAY|
+|18|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|19|162.240.154.26|3128|United States|Provo|Unified Layer|
+|20|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
 
 
 
