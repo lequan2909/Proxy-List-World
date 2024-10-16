@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|34.97.65.59|8561|Japan|Osaka|Google LLC|
-|4|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|5|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|6|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|3|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|4|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
 |7|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|8|103.245.16.133|8080|Indonesia|Depok|PT Quantum Tera Network|
-|9|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|10|147.28.155.20|10005|United States|Dallas|Packet Host, Inc.|
-|11|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|8|103.125.51.25|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
+|9|157.66.221.222|39218|Vietnam|Thành Phố Thủ Dầu Một|Cloud Data Technology and Communication Company Limited|
+|10|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|11|171.245.10.143|5008|Vietnam|Haiphong|Viettel Corporation|
 |12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|126.209.3.250|8082|Philippines|Manila|Infinivan Incorporated|
-|14|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|15|103.5.172.114|8080|Afghanistan|Kabul|Global Entourage Services|
-|16|103.75.84.237|3128|Indonesia|Klaten|MEGADATA|
-|17|170.239.207.179|999|Colombia|Bogotá|FIBERNET|
-|18|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|19|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|20|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|14|37.112.57.124|3128|Russia|Bryansk|CJSC "ER-Telecom Holding" Bryansk branch|
+|15|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|16|36.93.217.223|8080|Indonesia|Bogor|Telekomunikasi Indonesia|
+|17|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|18|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|19|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|20|188.72.6.178|8083|Iraq|Seyid Sadiq|AL-SARD FIBER Co. for Internet Fiber and Optical Cable Services /Ltd.|
 
 
 
