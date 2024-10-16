@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|3|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|4|187.94.214.17|3128|Brazil|Carangola|Acesse Comunicação Ltda|
-|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
-|10|67.43.227.226|13129|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|3537|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.254|24775|Canada|Montreal|GloboTech Communications|
-|13|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|14|103.169.134.133|8080|Indonesia|Kediri|PT Neo Santara Solusi|
-|15|67.43.227.228|14401|Canada|Montreal|GloboTech Communications|
-|16|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|17|67.43.227.228|14401|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.174|18429|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|29757|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.172|1881|Canada|Montreal|GloboTech Communications|
+|3|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
+|4|188.124.230.43|32199|Russia|Taman'|Miranda-Media B2C Static # 5|
+|5|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
+|6|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc.|
+|7|41.216.186.146|8080|Indonesia|Purbalingga|FASTHOSTING|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
+|11|103.153.62.155|8080|Indonesia|Weleri|IMEDIANET|
+|12|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|13|72.10.160.94|2391|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.254|24775|Canada|Montreal|GloboTech Communications|
+|15|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|16|119.92.75.48|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|17|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|18|72.10.164.178|28611|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|29043|Canada|Montreal|GloboTech Communications|
+|20|45.236.105.81|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
 
 
 
