@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.176.53|8561|Japan|Osaka|Google LLC|
-|3|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|4|116.97.62.167|5000|Vietnam|Hanoi|Viettel Corporation|
+|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|4|34.97.176.53|8561|Japan|Osaka|Google LLC|
 |5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|7|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|8|112.198.179.42|8082|Philippines|Carmona|Globe Telecom|
-|9|62.171.161.88|2018|Germany|Nuremberg|Contabo GmbH|
-|10|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|11|5.161.104.243|10001|United States|Ashburn|Hetzner Online GmbH|
-|12|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|15|5.161.104.243|10001|United States|Ashburn|Hetzner Online GmbH|
-|16|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|17|37.187.109.70|10111|France|Gravelines|OVH SAS|
-|18|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|19|118.175.30.26|8080|Thailand|Bang Bua Thong|TOT Public Company Limited|
-|20|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|6|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|7|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|8|148.113.1.131|3128|India|Mumbai|OVH SAS|
+|9|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|10|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|11|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|12|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|14|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|17|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|18|103.139.98.157|8080|Indonesia|Bandaragung|Digital Network Setiawan|
+|19|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|20|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
 
 
 
