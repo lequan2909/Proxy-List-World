@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5010** proxies at the latest update. Usable proxies are below.
+> Scraper found **5011** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|152|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|153|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|579|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|474|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
 |4|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|5|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|6|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|7|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|8|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|11|102.68.128.212|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|12|216.173.71.126|3128|Latvia|Riga|SIA VEESP|
-|13|79.106.108.132|8079|Albania|Gjirokastër|ALBTELECOM VI|
-|14|103.31.235.102|8080|Indonesia|Ciampea|PT Usaha Adi Sanggoro|
-|15|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
-|16|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|117.6.104.235|5102|Vietnam|Hanoi|Viettel Corporation|
+|6|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|7|116.107.166.51|5101|Vietnam|Hanoi|Viettel Corporation|
+|8|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|9|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
+|10|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|182.253.178.159|8080|Indonesia|Jakarta Pusat|BIZNET|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
