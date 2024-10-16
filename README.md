@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|391|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|391|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|391|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|3|116.107.217.134|10053|Vietnam|Hải Dương|Viettel Corporation|
-|4|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|5|159.203.104.153|4550|United States|Clifton|DigitalOcean, LLC|
-|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|136.60.0.212|80|United States|Austin|Google Fiber Inc.|
-|12|212.110.188.193|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|13|188.166.222.236|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|136.226.232.202|11165|India|Mumbai|ZSCALER, INC.|
-|15|136.226.254.189|10833|India|Mumbai|ZSCALER, INC.|
-|16|136.226.244.80|10878|India|Chennai|ZSCALER, INC.|
-|17|103.46.11.154|8080|Indonesia|Malang|Lintas Data Prima, PT|
-|18|136.226.244.80|10878|India|Chennai|ZSCALER, INC.|
+|2|141.145.213.155|3128|France|Paris|Oracle Corporation|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|110.77.180.64|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|186.123.26.79|8080|Argentina|Villa Ballester|Techtel LMDS Comunicaciones Interactivas S.A.|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|116.107.217.134|10053|Vietnam|Hải Dương|Viettel Corporation|
+|11|201.77.108.160|999|Mexico|Jiménez Municipality|Nidix Networks S.a. De C.V.|
+|12|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|13|136.226.244.80|10878|India|Chennai|ZSCALER, INC.|
+|14|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|15|136.226.232.202|11165|India|Mumbai|ZSCALER, INC.|
+|16|167.103.6.178|10312|India|Chennai|ZSCALER, INC.|
+|17|136.226.244.84|10981|India|Chennai|ZSCALER, INC.|
+|18|136.226.254.189|10833|India|Mumbai|ZSCALER, INC.|
 |19|167.103.6.175|10285|India|Chennai|ZSCALER, INC.|
-|20|167.103.6.178|10312|India|Chennai|ZSCALER, INC.|
+|20|136.226.244.80|10878|India|Chennai|ZSCALER, INC.|
 
 
 
