@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|3|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|159.203.104.153|4550|United States|Clifton|DigitalOcean, LLC|
-|6|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|7|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|11|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|5.56.124.176|6734|Moldova|Chisinau|JSC "Moldtelecom" S.A|
-|14|46.243.71.2|8888|Slovakia|Michalovce|Minet s.r.o.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
-|19|67.43.236.18|6177|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|4|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
+|5|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|6|66.206.15.148|8134|United States|Los Angeles|Primary|
+|7|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|9|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|10|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|45.174.79.95|999|Mexico|Delicias|Raul Duarte Urita|
+|13|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|15|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|113.16.209.116|10010|China|Liuzhou|CHINATELECOM Guangxi Nanning IDC networkdescr: Nanning, Guangxi Province, P.R.|
+|19|67.43.236.18|18419|Canada|Montreal|GloboTech Communications|
+|20|38.99.101.101|3128|United States|San Jose|Cogent Communications|
 
 
 
