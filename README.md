@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|49.49.7.170|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|4|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
-|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|7|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|8|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|9|185.9.139.145|8080|Albania|Tirana|ABnet Sh.p.k|
-|10|103.154.91.182|8080|Indonesia|Jakarta|MORATELINDONAP|
-|11|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|12|27.65.51.234|5102|Vietnam|Ho Chi Minh City|Viettel Group|
-|13|190.26.255.30|999|Colombia|Bogotá|ETB - Colombia|
+|2|203.150.113.132|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|3|119.76.142.249|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
+|4|171.96.204.225|80|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|5|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|182.23.35.242|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|8|212.112.113.182|3128|Kyrgyzstan|Bishkek|AkNet|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|170.150.209.40|8080|Brazil|Garrafão do Norte|Imunidade Digital Servicos EM Comunicacao Ltda|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|49.49.7.170|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|13|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
 |14|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|15|167.103.7.71|11160|India|Chennai|ZSCALER, INC.|
-|16|136.226.244.84|10981|India|Chennai|ZSCALER, INC.|
-|17|72.10.164.178|27315|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|27315|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|18619|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|10225|Canada|Montreal|GloboTech Communications|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|167.103.7.71|11160|India|Chennai|ZSCALER, INC.|
+|17|136.226.244.84|10981|India|Chennai|ZSCALER, INC.|
+|18|72.10.164.178|9519|Canada|Montreal|GloboTech Communications|
+|19|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|20|67.43.236.20|18619|Canada|Montreal|GloboTech Communications|
 
 
 
