@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|3|112.198.179.42|8082|Philippines|Carmona|Globe Telecom|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|45.83.20.3|1080|Belgium|Brussels|Stark Industries Solutions LTD|
-|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|7|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|8|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|9|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|14|92.51.122.174|8080|Georgia||Deltanet-net Network|
-|15|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|4|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|6|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|7|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|10|5.161.104.243|10001|United States|Ashburn|Hetzner Online GmbH|
+|11|103.78.113.9|8080|Indonesia|Jakarta|MORATELINDO|
+|12|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|14|131.0.234.194|55555|Argentina|Villa José León Suárez|MUSURIT|
+|15|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
 |16|148.113.1.131|3128|India|Mumbai|OVH SAS|
-|17|103.78.113.9|8080|Indonesia|Jakarta|MORATELINDO|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|20|208.67.28.28|58090|United States|Eagle River|SonicNet Inc.|
+|17|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|103.247.14.37|8080|Indonesia|Klaten|TERABIT|
+|20|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
 
 
 
