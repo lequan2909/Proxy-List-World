@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|3|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|4|49.48.89.155|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|5|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|6|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|7|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
-|8|72.10.164.178|1301|Canada|Montreal|GloboTech Communications|
-|9|172.233.152.170|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|10|67.43.236.20|29755|Canada|Montreal|GloboTech Communications|
-|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|14|185.116.236.104|3128|United States|New York|Massivegrid LTD|
-|15|54.153.62.219|3128|United States|San Jose|Amazon.com, Inc.|
-|16|72.10.160.172|31193|Canada|Montreal|GloboTech Communications|
-|17|202.183.209.77|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|18|51.159.75.249|3128|France|Paris|SCALEWAY|
-|19|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|20|67.43.236.20|29755|Canada|Montreal|GloboTech Communications|
+|2|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|3|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|4|34.97.247.98|8561|Japan|Osaka|Google LLC|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|116.80.47.17|3128|Japan|Tokyo|InfoSphere|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|9|103.67.237.212|3128|India|Hyderabad|OASISGSSERVICES|
+|10|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
+|11|223.25.110.226|8080|Indonesia|Surabaya|SinergiNet|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|14|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|16|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|17|67.43.228.251|18649|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|16699|Canada|Montreal|GloboTech Communications|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
 
 
 
