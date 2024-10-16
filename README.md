@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.65.59|8561|Japan|Osaka|Google LLC|
-|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|144.86.187.35|3129|United States|Malden|Charles River Operation|
-|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|4|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|5|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|6|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
+|7|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
 |8|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
-|9|38.159.229.98|999|Ecuador|Vinces|Turbonet S.A.|
-|10|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|11|184.82.54.37|8080|Thailand|Khon Kaen|AIS-Fibre|
-|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|14|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|15|131.221.140.225|8080|Brazil|Barcarena Nova|MVM PINTO COMERCIO E SERVICOS ME|
-|16|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|9|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
+|10|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|16|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|18|112.201.189.202|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
+|19|72.10.160.90|10601|Canada|Montreal|GloboTech Communications|
+|20|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
 
 
 
