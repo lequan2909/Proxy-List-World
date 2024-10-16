@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|2|119.82.240.61|6060|Indonesia|Surabaya|Indonesia Network Information Center|
 |3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|117.6.104.235|5102|Vietnam|Hanoi|Viettel Corporation|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|11|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|98.147.60.146|48678|United States|Honolulu|Spectrum|
-|14|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|4|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|5|159.203.104.153|4550|United States|Clifton|DigitalOcean, LLC|
+|6|172.233.131.233|10001|United States|Los Angeles|Akamai Technologies, Inc.|
+|7|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|8|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|9|5.227.245.173|8424|Russia|Saratov|MTS-SRTV|
+|10|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
+|11|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|138.204.154.189|11201|Argentina|Oncativo|Cooperativa Electrica de Servicios y Obras Publicas de Oncativo Ltda.|
+|15|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
+|16|14.242.25.180|8080|Vietnam|Ho Chi Minh City|VNPT|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 |18|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|19|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|111.1.61.54|3128|China|Wenzhou|China Mobile communications corporation|
 
 
 
