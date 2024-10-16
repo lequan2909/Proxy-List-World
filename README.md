@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |3|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|4|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|5|102.68.128.212|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
-|6|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
-|7|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
-|8|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|4|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|5|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|103.67.237.212|3128|India|Hyderabad|OASISGSSERVICES|
+|8|103.186.91.39|8989|Indonesia|Jepara|PT Akses Data Internusa|
 |9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|10|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|11|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
 |12|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|13|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|17|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|18|72.10.164.178|27195|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|27195|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|17437|Canada|Montreal|GloboTech Communications|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|15|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|16|58.147.186.226|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|19|111.1.61.53|3128|China|Wenzhou|China Mobile communications corporation|
+|20|67.43.236.20|16699|Canada|Montreal|GloboTech Communications|
 
 
 
