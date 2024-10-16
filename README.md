@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
 |3|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
 |4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|6|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|7|36.93.130.219|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
-|8|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|10|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|11|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|12|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|15|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|16|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|17|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|18|147.28.155.20|10005|United States|Dallas|Packet Host, Inc.|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|7|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|8|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|9|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|11|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|12|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|13|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|14|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|15|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|18|54.153.62.219|3128|United States|San Jose|Amazon.com, Inc.|
+|19|102.39.156.37|8080|South Africa|Cape Town|Vox Telecom|
+|20|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
 
 
 
