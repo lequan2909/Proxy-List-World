@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|171.245.121.197|5010|Vietnam|Thái Bình|Viettel Corporation|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|171.245.121.197|5010|Vietnam|Thái Bình|Viettel Corporation|
-|10|51.159.159.73|80|France|Paris|SCALEWAY|
-|11|72.10.160.93|32717|Canada|Montreal|GloboTech Communications|
-|12|117.6.107.224|5103|Vietnam|Hanoi|Viettel Corporation|
-|13|67.43.227.227|14243|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|9895|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|11941|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|14243|Canada|Montreal|GloboTech Communications|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|72.10.164.178|11941|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|9895|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|15269|Canada|Montreal|GloboTech Communications|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|171.245.121.197|5010|Vietnam|Thái Bình|Viettel Corporation|
+|4|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|6|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|9|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|10|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|13|147.28.155.20|10089|United States|Dallas|Packet Host, Inc.|
+|14|51.159.159.73|80|France|Paris|SCALEWAY|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|72.10.164.178|6299|Canada|Montreal|GloboTech Communications|
+|17|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|72.10.160.90|27143|Canada|Montreal|GloboTech Communications|
+|19|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
