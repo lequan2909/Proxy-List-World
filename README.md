@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|6|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|7|85.62.10.94|8080|Spain|Madrid|Uni2 1|
-|8|66.211.155.34|8080|United States|Nashua|FirstLight Fiber|
-|9|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|10|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|11|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|12|5.161.104.243|10002|United States|Ashburn|Hetzner Online GmbH|
-|13|67.43.236.20|10433|Canada|Montreal|GloboTech Communications|
-|14|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|15|67.43.228.251|23599|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|9089|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|32241|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|72.10.160.171|16563|Canada|Montreal|GloboTech Communications|
+|2|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|4|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|8|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|10|5.161.104.243|10002|United States|Ashburn|Hetzner Online GmbH|
+|11|72.10.160.171|16563|Canada|Montreal|GloboTech Communications|
+|12|103.122.1.113|8181|Indonesia|Palembang|PT. Java Digital Nusantara|
+|13|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|14|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|15|67.43.236.20|2205|Canada|Montreal|GloboTech Communications|
+|16|45.236.105.81|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|17|72.10.164.178|19493|Canada|Montreal|GloboTech Communications|
+|18|107.189.8.240|8080|Luxembourg|Luxembourg|FranTech Solutions|
+|19|103.165.157.123|8085|Indonesia|Pemalang|MEGADATA-ISP|
+|20|72.10.160.173|6633|Canada|Montreal|GloboTech Communications|
 
 
 
