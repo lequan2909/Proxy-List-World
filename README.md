@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|2|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|3|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
 |4|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
 |5|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|6|203.150.113.58|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|7|1.2.185.214|8080|Thailand|Bangkok|TOT Public Company Limited|
-|8|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
-|9|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|10|38.156.72.166|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|12|103.67.237.212|3128|India|Hyderabad|OASISGSSERVICES|
+|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|7|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|9|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
+|10|1.2.185.214|8080|Thailand|Bangkok|TOT Public Company Limited|
+|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|12|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
 |13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|15|38.188.178.250|999|Colombia|Choachí|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|20|147.45.137.174|3128|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|69.75.140.157|8080|United States|Norwalk|Spectrum|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
