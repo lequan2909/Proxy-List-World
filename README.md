@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|4|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|5|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|4|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |7|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|10|67.43.227.228|26085|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|2619|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.228|26085|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.230|5171|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|3891|Canada|Montreal|GloboTech Communications|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|17|67.43.227.226|8491|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|3891|Canada|Montreal|GloboTech Communications|
-|19|113.31.114.213|3128|China|Yangpu|UCLOUD|
-|20|72.10.160.90|30895|Canada|Montreal|GloboTech Communications|
+|8|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|9|67.43.227.228|26085|Canada|Montreal|GloboTech Communications|
+|10|72.10.164.178|2619|Canada|Montreal|GloboTech Communications|
+|11|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|12|67.43.228.253|13779|Canada|Montreal|GloboTech Communications|
+|13|15.235.12.19|3128|Canada|Montreal|OVH SAS|
+|14|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|103.69.20.115|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|16|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|17|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|18|67.43.227.226|8491|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|1103|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.21|21579|Canada|Montreal|GloboTech Communications|
 
 
 
