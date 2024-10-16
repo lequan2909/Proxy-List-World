@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|4|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|5|187.94.214.17|3128|Brazil|Carangola|Acesse Comunicação Ltda|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|9|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|10|103.67.237.214|3128|India|Hyderabad|OASISGSSERVICES|
-|11|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|182.253.178.159|8080|Indonesia|Jakarta Pusat|BIZNET|
-|15|190.61.40.190|999|Colombia|Bogotá|Ufinet Panama S.A.|
-|16|103.169.134.133|8080|Indonesia|Kediri|PT Neo Santara Solusi|
-|17|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|18|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|19|67.43.227.226|20595|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|13073|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|187.94.214.17|3128|Brazil|Carangola|Acesse Comunicação Ltda|
+|4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|5|148.72.165.7|30174|United States|St Louis|GoDaddy.com|
+|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|7|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
+|8|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|9|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|10|45.5.116.144|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
+|11|148.72.165.7|30174|United States|St Louis|GoDaddy.com|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|14|45.71.202.147|1993|Ecuador|Cuenca|Ufinet Panama S.A.|
+|15|103.169.134.133|8080|Indonesia|Kediri|PT Neo Santara Solusi|
+|16|116.97.58.253|5000|Vietnam|Hanoi|Viettel Corporation|
+|17|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|18|67.43.227.226|26449|Canada|Montreal|GloboTech Communications|
+|19|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
+|20|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
 
 
 
