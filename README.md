@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5078** proxies at the latest update. Usable proxies are below.
+> Scraper found **5093** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|197|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|615|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|630|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|491|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2849|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
-|3|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|4|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|119.15.86.30|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|6|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|7|67.43.236.20|16355|Canada|Montreal|GloboTech Communications|
-|8|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|9|67.43.236.18|15215|Canada|Montreal|GloboTech Communications|
-|10|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|72.10.160.92|5173|Canada|Montreal|GloboTech Communications|
-|12|190.61.43.121|999|Colombia|El Copey|Ufinet Panama S.A.|
-|13|103.171.156.218|8080|Indonesia|Jakarta|MYREPUBLIC|
-|14|72.10.164.178|29997|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|30237|Canada|Montreal|GloboTech Communications|
-|16|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|17|24.172.82.94|53281|United States|Gastonia|Spectrum|
-|18|186.96.96.134|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
+|2|49.49.7.170|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|3|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
+|4|103.159.194.249|8080|Indonesia|Kendal|PT Giga Digital Nusantara|
+|5|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|136.226.244.84|10981|India|Chennai|ZSCALER, INC.|
+|11|113.192.30.89|8088|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|12|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
+|13|72.10.160.90|17191|Canada|Montreal|GloboTech Communications|
+|14|167.103.7.71|11160|India|Chennai|ZSCALER, INC.|
+|15|67.43.236.20|21935|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|28783|Canada|Montreal|GloboTech Communications|
+|17|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|18|67.43.228.250|27695|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.226|3707|Canada|Montreal|GloboTech Communications|
+|20|124.105.99.230|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
