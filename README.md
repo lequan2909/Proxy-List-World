@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|188.166.184.118|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
-|4|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|5|138.117.84.198|8080|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|6|51.159.159.73|80|France|Paris|SCALEWAY|
-|7|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|8|72.10.160.170|21251|Canada|Montreal|GloboTech Communications|
-|9|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|72.10.160.171|21251|Canada|Montreal|GloboTech Communications|
-|11|116.107.217.134|10056|Vietnam|Hải Dương|Viettel Corporation|
-|12|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|67.43.228.253|12879|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|12145|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.228|19745|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|12145|Canada|Montreal|GloboTech Communications|
-|17|115.74.246.138|8080|Vietnam|Quận Mười Một|VIETELxdsl|
-|18|67.43.227.226|1389|Canada|Montreal|GloboTech Communications|
-|19|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|5|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
+|6|178.73.192.5|3128|Sweden|Stockholm|Portlane Network|
+|7|103.157.117.116|8080|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
+|8|116.97.57.6|5000|Vietnam|Hanoi|Viettel Corporation|
+|9|77.41.146.0|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|103.67.237.219|3128|India|Hyderabad|OASISGSSERVICES|
+|12|191.97.6.150|999|Colombia|Líbano|TV AZTECA SUCURSAL COLOMBIA|
+|13|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|72.10.164.178|6067|Canada|Montreal|GloboTech Communications|
+|16|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|67.43.236.20|7065|Canada|Montreal|GloboTech Communications|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
 
 
 
