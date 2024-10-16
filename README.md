@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|6|213.199.44.86|8000|Germany|Düsseldorf|Contabo GmbH|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|9|5.227.245.173|8424|Russia|Saratov|MTS-SRTV|
-|10|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|13|103.156.17.171|8181|Indonesia|Indramayu|RSTNET|
-|14|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|17|45.236.105.81|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|18|110.164.128.124|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|19|103.106.218.219|8080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
-|20|67.43.228.252|18403|Canada|Montreal|GloboTech Communications|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|213.199.44.86|8000|Germany|Düsseldorf|Contabo GmbH|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|7|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
+|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|9|49.0.2.194|8090|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|10|45.236.105.81|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|11|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|202.183.209.77|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|17|61.129.2.212|8080|China|Beijing|CHINANET|
+|18|72.10.164.178|30597|Canada|Montreal|GloboTech Communications|
+|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|67.43.236.20|24225|Canada|Montreal|GloboTech Communications|
 
 
 
