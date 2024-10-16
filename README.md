@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|34.97.65.59|8561|Japan|Osaka|Google LLC|
-|3|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|6|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
-|7|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|8|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|9|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|59.152.104.29|8080|Bangladesh|Ukhiya|Earth Telecommunication ( pvt ) Limited|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|14|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|15|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|112.201.189.202|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
-|17|110.232.66.30|8080|Indonesia|Medan|PT. Media Antar Nusa|
-|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|144.86.187.35|3129|United States|Malden|Charles River Operation|
+|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|8|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
+|9|38.159.229.98|999|Ecuador|Vinces|Turbonet S.A.|
+|10|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|11|184.82.54.37|8080|Thailand|Khon Kaen|AIS-Fibre|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|15|131.221.140.225|8080|Brazil|Barcarena Nova|MVM PINTO COMERCIO E SERVICOS ME|
+|16|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
