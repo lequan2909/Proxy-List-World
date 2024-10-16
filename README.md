@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|4|182.52.1.197|8080|Thailand|Pak Kret|TOT Public Company Limited|
-|5|103.166.194.114|8080|Indonesia|Bekasi|Hipernet Indodata|
-|6|36.92.44.82|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|7|144.48.162.122|8080|Bangladesh|Kāfrul|Cue Club Technology|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|88.198.39.240|10002|Germany|Nuremberg|Hetzner Online GmbH|
-|10|112.201.183.124|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|13|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|14|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|15|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.160.90|6087|Canada|Montreal|GloboTech Communications|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|72.10.164.178|12261|Canada|Montreal|GloboTech Communications|
-|19|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|20|72.10.160.170|25927|Canada|Montreal|GloboTech Communications|
+|2|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|182.52.1.197|8080|Thailand|Pak Kret|TOT Public Company Limited|
+|6|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|9|103.170.100.96|8080|Indonesia|Jakarta|Subnet Data Nusantara|
+|10|45.230.48.131|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
+|11|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|12|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|14|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|209.146.20.226|8082|Philippines|Manila|Cogent Communications|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|103.148.130.231|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|18|67.43.227.228|15573|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.172|5605|Canada|Montreal|GloboTech Communications|
+|20|188.132.150.43|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
 
 
 
