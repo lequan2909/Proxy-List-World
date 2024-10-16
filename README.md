@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
-|3|188.166.184.118|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|6|187.188.16.28|999|Mexico|Xalapa|Total Play Telecomunicaciones SA De CV|
-|7|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
-|8|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|67.43.227.227|26121|Canada|Montreal|GloboTech Communications|
+|2|188.166.184.118|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
+|4|36.88.111.98|55443|Indonesia|Sumedang|PT. Telekomunikasi Indonesia|
+|5|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|6|188.125.169.237|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|7|101.255.209.242|8080|Indonesia|Jakarta|PT Remala Abadi|
+|8|191.243.46.2|18283|Brazil|Itapaci|Microturbo Telecomunicacoes Ltda-me|
+|9|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |11|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|12|72.10.160.172|5463|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|28195|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|3481|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|3481|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|26121|Canada|Montreal|GloboTech Communications|
-|17|112.198.132.3|8085|Philippines|Nasugbu|Globe Telecom|
-|18|67.43.236.20|3481|Canada|Montreal|GloboTech Communications|
-|19|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|20|72.10.160.91|15439|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|9301|Canada|Montreal|GloboTech Communications|
+|13|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
+|14|67.43.227.227|1599|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.91|15439|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|20595|Canada|Montreal|GloboTech Communications|
+|17|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|45.236.105.81|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|20|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
 
 
 
