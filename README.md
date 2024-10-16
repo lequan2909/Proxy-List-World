@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|4|34.97.176.53|8561|Japan|Osaka|Google LLC|
-|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|7|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|103.178.42.100|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
-|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|13|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|14|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|15|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|16|58.147.190.145|8181|Indonesia|Bogor|PT. Transhybrid Communication|
-|17|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|18|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|2|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|7|103.199.117.115|8080|Indonesia|Semarang|PT Hepra Teknologi Indonesia|
+|8|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|9|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|189.8.6.3|8080|Brazil|São Paulo|Universal Telecom S.A.|
+|12|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|13|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|14|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|15|49.146.220.233|8082|Philippines|Candelaria|Philippine Long Distance Telephone Co.|
+|16|119.18.156.245|8080|Indonesia|Jakarta|PT. Jala Lintas Media|
+|17|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|20|72.10.164.178|7611|Canada|Montreal|GloboTech Communications|
 
 
 
