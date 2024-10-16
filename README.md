@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|103.171.244.42|8088|Indonesia|Madiun|PT Data Arta Sedaya|
-|4|117.5.249.201|5106|Vietnam|Hanoi|VIETTEL|
-|5|116.97.57.6|5000|Vietnam|Hanoi|Viettel Corporation|
-|6|216.173.71.126|3128|Latvia|Riga|SIA VEESP|
-|7|103.67.237.212|3128|India|Hyderabad|OASISGSSERVICES|
-|8|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|9|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|10|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|12|84.255.40.228|8998|Malta|Msida|Melita plc|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|187.188.16.28|999|Mexico|Xalapa|Total Play Telecomunicaciones SA De CV|
-|15|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|16|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|116.107.217.134|10011|Vietnam|Hải Dương|Viettel Corporation|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|27.72.141.201|10015|Vietnam|Hanoi|Newass2011xDSLHN|
+|4|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|8|103.247.23.57|8081|Indonesia|Cileungsir|PT wifian Solution|
+|9|186.207.191.213|8080|Brazil|Salvador|Claro NXT Telecomunicacoes Ltda|
+|10|103.155.246.180|8081|Indonesia|Sukoharjo|AMANNA|
+|11|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|12|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|5.58.25.124|8080|Ukraine|Ternopil|Columbus|
+|15|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|17|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|18|72.10.164.178|18109|Canada|Montreal|GloboTech Communications|
+|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |20|67.43.227.230|1355|Canada|Montreal|GloboTech Communications|
 
 
