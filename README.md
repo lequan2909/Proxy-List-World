@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|406|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|406|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|406|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|110.77.180.64|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|3|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|7|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|8|75.25.159.161|3128|United States|San Francisco|AT&T Services, Inc.|
-|9|141.145.213.155|3128|France|Paris|Oracle Corporation|
-|10|49.49.7.170|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|12|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|13|116.97.62.167|5000|Vietnam|Hanoi|Viettel Corporation|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
-|16|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|17|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
-|18|119.18.149.147|5020|Bangladesh|Chittagong|BBTS Network|
-|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|20|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|1|110.77.180.64|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|2|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
+|3|141.145.213.155|3128|France|Paris|Oracle Corporation|
+|4|103.46.11.154|8080|Indonesia|Malang|Lintas Data Prima, PT|
+|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|8|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|119.76.142.249|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
+|11|136.226.244.80|10878|India|Chennai|ZSCALER, INC.|
+|12|136.226.244.82|10878|India|Chennai|ZSCALER, INC.|
+|13|136.226.232.167|11063|India|Mumbai|ZSCALER, INC.|
+|14|165.225.120.89|10878|India|Mumbai|ZSCALER, INC.|
+|15|136.226.232.163|11243|India|Mumbai|ZSCALER, INC.|
+|16|136.226.232.174|9443|India|Mumbai|ZSCALER, INC.|
+|17|167.103.6.177|11267|India|Chennai|ZSCALER, INC.|
+|18|136.226.232.203|10063|India|Mumbai|ZSCALER, INC.|
+|19|136.226.244.84|10981|India|Chennai|ZSCALER, INC.|
+|20|136.226.232.174|9443|India|Mumbai|ZSCALER, INC.|
 
 
 
