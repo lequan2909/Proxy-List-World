@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|6|119.95.182.57|8080|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|7|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|8|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
-|9|187.94.214.17|3128|Brazil|Carangola|Acesse Comunicação Ltda|
-|10|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|11|188.124.230.43|32199|Russia|Taman'|Miranda-Media B2C Static # 5|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
+|4|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|6|181.114.224.37|8080|Argentina|Mar del Plata|CyberWave S.A.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|9|206.84.104.126|8080|Indonesia|Jakarta|AGIS|
+|10|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|11|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
 |12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|13|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|14|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|15|182.253.86.96|8080|Indonesia|Jakarta|Biznet Gamers|
-|16|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|17|171.252.128.52|19012|Vietnam|Da Nang|Viettel Corporation|
-|18|5.161.104.243|10002|United States|Ashburn|Hetzner Online GmbH|
-|19|67.43.227.227|3789|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.22|19663|Canada|Montreal|GloboTech Communications|
+|13|189.8.6.3|8080|Brazil|São Paulo|Universal Telecom S.A.|
+|14|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc.|
+|15|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|16|103.157.59.75|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
+|17|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|18|193.105.123.195|8123|Azerbaijan|Baku|Bulud Telecom LLC|
+|19|36.93.32.137|8080|Indonesia|Tangerang|Telekomunikasi Indonesia|
+|20|182.253.39.203|8080|Indonesia|Jakarta Pusat|BIZNET|
 
 
 
