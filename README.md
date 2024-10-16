@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4954** proxies at the latest update. Usable proxies are below.
+> Scraper found **5076** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|187|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|583|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|195|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|615|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|409|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|491|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2849|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|6|181.114.224.37|8080|Argentina|Mar del Plata|CyberWave S.A.|
-|7|187.94.214.17|3128|Brazil|Carangola|Acesse Comunicação Ltda|
-|8|155.93.96.210|8080|Nigeria|Lagos|Vodacom Business Nigeria|
-|9|189.8.6.3|8080|Brazil|São Paulo|Universal Telecom S.A.|
-|10|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|171.238.237.206|5000|Vietnam|Tuyên Quang|Viettel Corporation|
-|13|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|14|103.172.197.9|8181|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|103.59.163.206|80|Myanmar|Yangon|Golden Dragon 2000 Company Limited|
-|17|187.62.153.56|8088|Brazil|Oeiras|Megalink Internet|
-|18|66.211.155.34|8080|United States|Nashua|FirstLight Fiber|
-|19|203.150.128.230|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|20|103.157.59.75|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|49.49.7.170|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|3|200.24.139.161|999|Ecuador|Quito|Ufinet Panama S.A.|
+|4|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
+|5|37.187.109.70|10111|France|Gravelines|OVH SAS|
+|6|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|148.72.173.18|30221|United States|St Louis|GoDaddy.com, LLC|
+|8|67.43.227.226|27167|Canada|Montreal|GloboTech Communications|
+|9|67.43.228.253|30237|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.92|5173|Canada|Montreal|GloboTech Communications|
+|11|189.223.54.117|999|Mexico|Tijuana|Uninet S.A. de C.V.|
+|12|67.43.236.20|29119|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.173|21135|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.174|11637|Canada|Montreal|GloboTech Communications|
+|15|67.43.236.18|15215|Canada|Montreal|GloboTech Communications|
+|16|195.116.24.237|8080|Poland|Kock|Orange Polska Spolka Akcyjna|
+|17|72.10.164.178|4039|Canada|Montreal|GloboTech Communications|
+|18|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|19|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|67.43.236.19|8331|Canada|Montreal|GloboTech Communications|
 
 
 
