@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|103.170.100.96|8080|Indonesia|Jakarta|Subnet Data Nusantara|
-|8|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|3|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|5|88.198.39.240|10002|Germany|Nuremberg|Hetzner Online GmbH|
+|6|162.229.228.112|8080|United States|Orange Park|AT&T Services, Inc.|
+|7|162.229.228.112|8080|United States|Orange Park|AT&T Services, Inc.|
+|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |9|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|10|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|11|113.192.30.89|8088|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|12|72.10.164.178|24419|Canada|Montreal|GloboTech Communications|
-|13|124.6.165.155|8082|Philippines|Lahug|INNOVE|
-|14|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|15|72.10.160.172|32553|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|11453|Canada|Montreal|GloboTech Communications|
-|17|162.229.228.112|8080|United States|Orange Park|AT&T Services, Inc.|
-|18|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|13|185.208.101.216|8080|Türkiye|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|14|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|15|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|72.10.164.178|24419|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.172|24371|Canada|Montreal|GloboTech Communications|
+|18|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
 |19|72.10.164.178|24419|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|2337|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|11043|Canada|Montreal|GloboTech Communications|
 
 
 
