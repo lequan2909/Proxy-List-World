@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|144.86.187.54|3129|United States|Malden|Charles River Operation|
-|4|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|5|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|6|45.133.107.234|81|Russia|Tul'skiy|Art-net LLC|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|103.159.194.121|8080|Indonesia|Rembang|PT Giga Digital Nusantara|
-|9|103.69.20.56|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|10|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|11|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
-|12|104.129.192.170|10878|United States|San Jose|ZSCALER, INC.|
-|13|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|14|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|15|202.137.134.160|8088|Laos|Vientiane|Lao Telecommunication Co Ltd|
-|16|72.10.164.178|2847|Canada|Montreal|GloboTech Communications|
-|17|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|18|72.10.160.90|30439|Canada|Montreal|GloboTech Communications|
-|19|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|2|36.77.233.188|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|5|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|6|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|7|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|8|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|9|147.28.155.20|10005|United States|Dallas|Packet Host, Inc.|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|11|188.132.222.55|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|13|157.100.53.103|999|Ecuador|Machala|Ufinet Panama S.A.|
+|14|38.156.75.15|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|182.253.66.122|8080|Indonesia|Jakarta Pusat|BIZNET|
+|17|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|18|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|19|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
+|20|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
 
 
 
