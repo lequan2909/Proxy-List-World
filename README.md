@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -42,21 +42,21 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
 |3|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|4|34.97.65.59|8561|Japan|Osaka|Google LLC|
-|5|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|6|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|177.23.176.58|8080|Brazil|Rio de Janeiro|JM TELECOMUNICACOES E MANUTENCAO DE COMP. EIRELI|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|103.123.168.248|8080|Bangladesh|Comilla|Sajid Trading Ltd.|
-|10|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|11|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|12|103.179.84.50|8080|Indonesia|Boyolali|PT CYB Media Group|
-|13|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|4|184.82.43.14|8080|Thailand|Khon Kaen|AIS-Fibre|
+|5|45.9.43.28|8080|Russia|St Petersburg|Beget LLC|
+|6|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|7|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|10|34.97.176.53|8561|Japan|Osaka|Google LLC|
+|11|144.86.187.46|3129|United States|Malden|Charles River Operation|
+|12|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|13|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |14|189.232.97.26|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|15|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|45.233.169.57|999|Colombia|Popayán|Simect Group Redes E Internet S.A.S|
+|16|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|17|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|18|182.253.115.130|8080|Indonesia|Salatiga|BIZNET|
 |19|199.195.253.14|1080|United States|New York|FranTech Solutions|
 |20|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
 
