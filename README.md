@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|4|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|7|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|9|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|10|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|11|61.129.2.212|8080|China|Beijing|CHINANET|
-|12|34.97.176.53|8561|Japan|Osaka|Google LLC|
-|13|119.110.75.230|3888|Indonesia|Bekasi|Maxindo|
-|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|15|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|20|213.199.44.86|8000|Germany|Düsseldorf|Contabo GmbH|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|5|51.158.173.222|3128|France|Paris|Online S.A.S.|
+|6|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|7|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|8|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|9|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|10|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|11|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
+|12|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|14|34.97.247.98|8561|Japan|Osaka|Google LLC|
+|15|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|16|113.192.31.5|1111|Indonesia|Jakarta|PT Indo Telemedia Solusi|
+|17|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|18|222.127.77.203|8082|Philippines|Lahug|INNOVE|
+|19|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|20|180.190.200.77|8082|Philippines|Lahug|Globe Telecom|
 
 
 
