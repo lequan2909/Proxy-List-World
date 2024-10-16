@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|5|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|6|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|9|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|2|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|3|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|4|88.198.39.240|10002|Germany|Nuremberg|Hetzner Online GmbH|
+|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|6|102.68.128.212|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|7|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|9|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
 |10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |11|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|12|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
-|13|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|14|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|15|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|16|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|98.147.60.146|48678|United States|Honolulu|Spectrum|
-|18|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|27.72.141.201|10081|Vietnam|Hanoi|Newass2011xDSLHN|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|13|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|14|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|15|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|16|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|67.43.227.226|5525|Canada|Montreal|GloboTech Communications|
 
 
 
