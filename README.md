@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|36.77.233.188|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|4|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|5|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|6|103.106.115.46|8080|Indonesia|Kedaton|SMSNET|
-|7|131.196.42.95|667|Brazil|Candeias|Voafibra Comunicacao|
-|8|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|10|103.247.22.79|8080|Indonesia|Bekasi|PT wifian Solution|
-|11|103.152.93.158|7777|Indonesia|Demak|PT. JAYA LINTAS INDONESIA|
-|12|187.103.105.22|8999|Brazil|Blumenau|BR.Digital Provider|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|15|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|103.48.68.68|83|India|Hyderabad|Country Online Services PVT LTD|
-|17|112.198.179.42|8082|Philippines|Carmona|Globe Telecom|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|67.43.227.226|10577|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|28451|Canada|Montreal|GloboTech Communications|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|4|36.77.233.188|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|6|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|7|103.176.97.223|3127|Indonesia|Karawang|PT Global Sarana Elektronika|
+|8|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|9|130.0.25.110|34607|Albania|Shkodër|IBC Backbone Services South|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
+|14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|119.13.77.25|39904|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|16|67.43.227.227|28451|Canada|Montreal|GloboTech Communications|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|202.183.209.77|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|19|72.10.160.94|5427|Canada|Montreal|GloboTech Communications|
+|20|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
 
 
 
