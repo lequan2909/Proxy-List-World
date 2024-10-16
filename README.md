@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|6|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
-|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|8|27.254.104.134|8080|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|9|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|10|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|2|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|186.225.108.43|3128|Brazil|São Paulo|America-NET Ltda|
+|5|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|7|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|10|144.86.187.45|3129|United States|Malden|Charles River Operation|
 |11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|12|72.10.164.178|29581|Canada|Montreal|GloboTech Communications|
-|13|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|14|67.43.228.253|28557|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.173|1667|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|15027|Canada|Montreal|GloboTech Communications|
-|17|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
-|18|67.43.228.250|4993|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|2445|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|29581|Canada|Montreal|GloboTech Communications|
+|12|5.161.104.243|10005|United States|Ashburn|Hetzner Online GmbH|
+|13|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|14|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|15|67.43.228.253|13663|Canada|Montreal|GloboTech Communications|
+|16|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|67.43.228.253|13663|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|16367|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|28709|Canada|Montreal|GloboTech Communications|
 
 
 
