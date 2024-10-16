@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|213.199.44.86|8000|Germany|Düsseldorf|Contabo GmbH|
-|4|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|5|103.169.134.133|8080|Indonesia|Kediri|PT Neo Santara Solusi|
-|6|181.129.250.42|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|7|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|8|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
-|9|184.82.54.37|8080|Thailand|Khon Kaen|AIS-Fibre|
-|10|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
-|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|14|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|15|116.97.62.167|5000|Vietnam|Hanoi|Viettel Corporation|
-|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|158.178.203.159|3128|France|Paris|Oracle Corporation|
-|20|130.0.25.110|34607|Albania|Shkodër|IBC Backbone Services South|
+|2|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|3|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|4|103.208.102.6|8080|Indonesia|Wonosobo|PT Tidar Lintas Nusa|
+|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|182.253.178.159|8080|Indonesia|Jakarta Pusat|BIZNET|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|11|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|15|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|17|103.22.99.42|8080|Indonesia|Magetan|KHALISTAGROUP|
+|18|47.88.85.102|3389|United States|Minkler|Alibaba.com LLC|
+|19|187.103.105.22|8999|Brazil|Blumenau|BR.Digital Provider|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
