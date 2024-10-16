@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|49.49.7.170|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|5|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|49.49.7.170|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|213.199.44.86|8000|Germany|Düsseldorf|Contabo GmbH|
+|5|103.172.197.9|8181|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
 |6|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|7|190.128.248.134|999|Paraguay|Asunción|Telecel S.A.|
-|8|181.114.224.37|8080|Argentina|Mar del Plata|CyberWave S.A.|
-|9|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|10|171.252.128.52|19012|Vietnam|Da Nang|Viettel Corporation|
-|11|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|72.10.160.171|12673|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|17825|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.92|5173|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|17825|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|17825|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|24907|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.228|31993|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|17825|Canada|Montreal|GloboTech Communications|
+|7|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|8|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
+|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|10|32.142.206.26|9081|United States|Brandon|AT&T Services, Inc.|
+|11|186.225.108.43|3128|Brazil|São Paulo|America-NET Ltda|
+|12|181.114.224.37|8080|Argentina|Mar del Plata|CyberWave S.A.|
+|13|38.183.146.181|8090|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
+|14|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|72.10.160.171|12673|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|9833|Canada|Montreal|GloboTech Communications|
+|18|117.5.249.201|5106|Vietnam|Hanoi|VIETTEL|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|72.10.160.170|15389|Canada|Montreal|GloboTech Communications|
 
 
 
