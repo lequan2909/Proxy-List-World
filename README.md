@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.80.110.14|8080|Bhutan|Lungtenzampa|Tshering NORBU t/a NANO|
-|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|103.67.237.212|3128|India|Hyderabad|OASISGSSERVICES|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|67.43.227.228|17777|Canada|Montreal|GloboTech Communications|
-|12|188.72.43.129|47193|Iraq|Darkar|Pirmam For Information Technology Ltd|
-|13|171.252.128.52|19012|Vietnam|Da Nang|Viettel Corporation|
-|14|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|67.43.227.227|24875|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|33015|Canada|Montreal|GloboTech Communications|
-|18|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|45.236.105.81|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|3|117.1.113.184|1001|Vietnam|Hanoi|Viettel Corporation|
+|4|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|5|103.171.244.45|8088|Indonesia|Madiun|PT Data Arta Sedaya|
+|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|8|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|9|103.176.96.245|8088|Indonesia|Karawang|PT Global Sarana Elektronika|
+|10|103.165.155.109|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|11|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|12|49.48.69.117|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|13|103.157.117.116|8080|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
+|14|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|15|200.39.139.65|999|Chile|Santiago|Iconex SPA|
+|16|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|17|67.43.236.20|28149|Canada|Montreal|GloboTech Communications|
+|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|72.10.164.178|33015|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
