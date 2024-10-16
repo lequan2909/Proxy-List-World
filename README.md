@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|4|34.97.65.59|8561|Japan|Osaka|Google LLC|
-|5|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|6|159.203.104.153|4550|United States|Clifton|DigitalOcean, LLC|
-|7|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|10|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|11|159.203.104.153|4550|United States|Clifton|DigitalOcean, LLC|
-|12|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|13|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|14|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|15|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|5|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|6|116.107.166.51|5101|Vietnam|Hanoi|Viettel Corporation|
+|7|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|8|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|10|98.147.60.146|48678|United States|Honolulu|Spectrum|
+|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|12|116.202.217.96|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|13|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|14|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
+|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
 |16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|18|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
-|19|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|17|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|18|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|202.183.209.77|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|20|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
 
 
 
