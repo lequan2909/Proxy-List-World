@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5533** proxies at the latest update. Usable proxies are below.
+> Scraper found **5561** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|197|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|683|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|711|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|580|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3147|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|3|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|62.74.173.146|8080|Greece|Salamina|Vodafone-panafon Hellenic Telecommunications Company SA|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
-|13|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|17|190.94.212.221|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|18|171.240.119.87|5101|Vietnam|Hanoi|Viettel Corporation|
-|19|67.43.236.20|12187|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.174|29777|Canada|Montreal|GloboTech Communications|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|4|38.41.0.60|11201|Venezuela|Caracas|MDS TELECOM C.A.|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|8|122.2.28.114|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|9|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|10|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|72.10.160.93|24553|Canada|Montreal|GloboTech Communications|
+|13|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|51.159.159.73|80|France|Paris|SCALEWAY|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|17|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|115.74.246.138|8080|Vietnam|Quận Mười Một|VIETELxdsl|
+|20|103.158.27.88|1212|Indonesia|Sleman|PT Madina Solusi Indonesia|
 
 
 
