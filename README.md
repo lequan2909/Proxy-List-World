@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|3|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|195.123.240.138|7777|United States|Los Angeles|Green Floid LLC|
-|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|6|43.229.254.221|8181|Indonesia|Bandung|PT. Media Antar Nusa|
-|7|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|1|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|4|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|34.97.176.53|8561|Japan|Osaka|Google LLC|
 |8|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|144.86.187.37|3129|United States|Malden|Charles River Operation|
-|11|103.170.64.128|80|India|Pune|Dream Cables|
-|12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|14|202.57.25.86|8080|Indonesia|Semarang|announced of WINET|
-|15|206.81.30.3|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|116.105.28.52|10057|Vietnam|Da Nang|Viettel Corporation|
-|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|18|188.132.150.86|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|19|201.251.61.143|8080|Argentina|San Juan Bautista|Telefonica de Argentina|
-|20|189.232.97.26|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|9|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|103.87.171.138|32650|India|Jaipur|Tejays|
+|12|174.168.230.75|8118|United States|Portsmouth|Comcast Cable Communications, LLC|
+|13|189.232.97.26|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|14|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|15|181.188.238.145|999|Ecuador|Quito|Otecel S.A.|
+|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|17|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|18|103.186.8.162|8080|Indonesia|Kediri|PRISMA|
+|19|119.18.146.171|5020|Bangladesh|Chittagong|BBTS Network|
+|20|168.138.168.117|3128|Singapore|Singapore|Oracle Corporation|
 
 
 
