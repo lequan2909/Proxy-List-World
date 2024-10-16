@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|3|34.97.176.53|8561|Japan|Osaka|Google LLC|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|172.233.152.170|3128|United States|Los Angeles|Akamai Technologies, Inc.|
 |4|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|103.155.197.238|8080|Indonesia|Sukabumi|JEMBATANDATA|
 |6|51.159.159.73|80|France|Paris|SCALEWAY|
-|7|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|10|103.172.35.27|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|11|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|12|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|13|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|34.97.176.53|8561|Japan|Osaka|Google LLC|
-|16|144.86.187.43|3129|United States|Malden|Charles River Operation|
-|17|78.108.108.9|8080|Czechia|Pilsen|Neutral Free eXchange members - FreeTel alternate|
-|18|34.97.247.98|8561|Japan|Osaka|Google LLC|
-|19|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|20|168.138.168.117|3128|Singapore|Singapore|Oracle Corporation|
+|7|34.97.176.53|8561|Japan|Osaka|Google LLC|
+|8|172.233.152.170|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|9|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|10|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|13|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|103.145.34.162|8081|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
+|17|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|18|45.5.118.177|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
+|19|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|20|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
 
 
 
