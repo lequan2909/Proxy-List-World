@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|4|117.1.113.184|1001|Vietnam|Hanoi|Viettel Corporation|
-|5|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|8|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|12|189.232.97.26|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|14|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|4|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|34.97.247.98|8561|Japan|Osaka|Google LLC|
+|7|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|8|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|10|181.129.147.162|8080|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
+|11|116.97.57.6|5000|Vietnam|Hanoi|Viettel Corporation|
+|12|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|13|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|14|103.87.171.138|32650|India|Jaipur|Tejays|
 |15|174.168.230.75|8118|United States|Portsmouth|Comcast Cable Communications, LLC|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
-|19|168.138.168.117|3128|Singapore|Singapore|Oracle Corporation|
-|20|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
+|16|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|17|144.86.187.37|3129|United States|Malden|Charles River Operation|
+|18|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|19|189.232.97.26|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
