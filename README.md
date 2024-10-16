@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|3|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|4|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|5|34.97.65.59|8561|Japan|Osaka|Google LLC|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|7|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|2|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|3|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|6|203.150.113.58|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|7|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|8|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
 |9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|11|188.132.222.70|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
-|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|112.198.132.3|8085|Philippines|Nasugbu|Globe Telecom|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|34.97.247.98|8561|Japan|Osaka|Google LLC|
+|10|103.169.134.133|8080|Indonesia|Kediri|PT Neo Santara Solusi|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|13|62.201.251.217|8585|Iraq|Sulaymaniyah|IQ Networks for Data and Internet Services Ltd|
+|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|15|181.78.11.234|999|Colombia|Guacarí|IFX Networks Argentina S.R.L|
+|16|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|17|188.132.222.70|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|168.227.40.71|9192|Brazil|Cabo de Santo Agostinho|Digitec Eletronica Ltda - ME|
+|19|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
 |20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
