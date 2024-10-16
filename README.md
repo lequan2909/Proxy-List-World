@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
 |4|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|9|148.113.1.131|3128|India|Mumbai|OVH SAS|
-|10|118.175.30.26|8080|Thailand|Bang Bua Thong|TOT Public Company Limited|
-|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|12|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|14|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|17|201.77.108.160|999|Mexico|Jiménez Municipality|Nidix Networks S.a. De C.V.|
-|18|109.123.229.224|4011|Japan|Tokyo|Contabo Asia Private Limited|
-|19|103.229.185.154|8080|Indonesia|Pamulang|PT INDONESIA COMNETS PLUS|
-|20|67.43.228.251|12163|Canada|Montreal|GloboTech Communications|
+|5|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|6|196.201.229.10|8080|Kenya|Nairobi|Liquid Telecommunications Ltd|
+|7|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|16|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|17|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|45.83.20.3|1080|Belgium|Brussels|Stark Industries Solutions LTD|
+|20|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
