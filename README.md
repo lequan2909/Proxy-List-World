@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4988** proxies at the latest update. Usable proxies are below.
+> Scraper found **4905** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|160|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|665|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|158|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|584|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|358|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2847|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|4|34.97.65.59|8561|Japan|Osaka|Google LLC|
-|5|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|6|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|7|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|11|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|148.113.1.131|3128|India|Mumbai|OVH SAS|
-|14|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|15|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|16|103.78.113.9|8080|Indonesia|Jakarta|MORATELINDO|
-|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|18|208.67.28.28|58090|United States|Eagle River|SonicNet Inc.|
-|19|171.245.10.143|5008|Vietnam|Haiphong|Viettel Corporation|
-|20|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|4|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|5|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|6|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|7|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|8|103.245.16.133|8080|Indonesia|Depok|PT Quantum Tera Network|
+|9|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|10|147.28.155.20|10005|United States|Dallas|Packet Host, Inc.|
+|11|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|126.209.3.250|8082|Philippines|Manila|Infinivan Incorporated|
+|14|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|15|103.5.172.114|8080|Afghanistan|Kabul|Global Entourage Services|
+|16|103.75.84.237|3128|Indonesia|Klaten|MEGADATA|
+|17|170.239.207.179|999|Colombia|Bogotá|FIBERNET|
+|18|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|19|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|20|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
 
 
 
