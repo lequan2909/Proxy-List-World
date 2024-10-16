@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|3|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|4|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|6|45.70.202.161|999|Ecuador|Quito|Ufinet Panama S.A.|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|9|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|10|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|11|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|12|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|13|148.113.1.131|3128|India|Mumbai|OVH SAS|
-|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|15|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|5|116.97.57.6|5000|Vietnam|Hanoi|Viettel Corporation|
+|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|7|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|8|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|9|23.19.73.223|3128|United States|Los Angeles|Leaseweb USA, Inc.|
+|10|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|11|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|12|155.138.218.57|8118|United States|Atlanta|The Constant Company|
+|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|14|155.138.218.57|8118|United States|Atlanta|The Constant Company|
+|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
 |16|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
-|17|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|18|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|19|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|20|67.43.236.19|24057|Canada|Montreal|GloboTech Communications|
+|17|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|18|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|19|34.97.176.53|8561|Japan|Osaka|Google LLC|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
