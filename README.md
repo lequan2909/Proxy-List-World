@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|7|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|8|23.19.73.223|3128|United States|Los Angeles|Leaseweb USA, Inc.|
-|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|10|103.172.42.103|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|11|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|12|200.24.159.152|999|Ecuador|Cuenca|Negocios Y Telefonia Nedetel S.A|
-|13|34.97.247.98|8561|Japan|Osaka|Google LLC|
-|14|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|18|159.223.76.73|24202|Singapore|Singapore|DigitalOcean, LLC|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|148.113.1.131|3128|India|Mumbai|OVH SAS|
+|3|34.97.247.98|8561|Japan|Osaka|Google LLC|
+|4|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|5|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|6|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|7|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|8|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|10|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|12|180.190.200.77|8082|Philippines|Lahug|Globe Telecom|
+|13|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|16|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|17|45.236.105.81|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|18|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|19|159.223.76.73|24202|Singapore|Singapore|DigitalOcean, LLC|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
