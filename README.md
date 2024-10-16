@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
 |3|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|203.150.113.80|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|5|206.81.30.3|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|34.97.247.98|8561|Japan|Osaka|Google LLC|
-|8|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|9|1.0.138.79|8080|Thailand|Pattaya|TOT Public Company Limited|
-|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|12|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|13|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|14|84.214.150.146|8080|Norway|Oslo|Get AS|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|17|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|94.179.109.254|8081|Ukraine|Kyiv|UKRTELECOM|
-|19|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|5|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|206.81.30.3|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|213.199.44.86|8000|Germany|Düsseldorf|Contabo GmbH|
+|8|49.0.3.130|8090|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|9|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|11|43.229.254.221|8181|Indonesia|Bandung|PT. Media Antar Nusa|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|14|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|15|94.179.109.254|8081|Ukraine|Kyiv|UKRTELECOM|
+|16|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|17|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
