@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|3|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|4|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
-|5|103.67.237.208|3128|India|Hyderabad|OASISGSSERVICES|
-|6|103.156.248.45|8080|Indonesia|Pinrang|Trans Media Telekomunikasi|
-|7|84.255.40.228|8998|Malta|Msida|Melita plc|
-|8|186.125.218.146|999|Argentina|Molinos|Telecom Argentina S.A.|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|103.157.117.116|8080|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
-|11|103.176.96.245|8088|Indonesia|Karawang|PT Global Sarana Elektronika|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|187.188.16.28|999|Mexico|Xalapa|Total Play Telecomunicaciones SA De CV|
-|14|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|15|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|16|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|19|72.10.160.90|22653|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|28379|Canada|Montreal|GloboTech Communications|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|4|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
+|5|103.176.96.245|8088|Indonesia|Karawang|PT Global Sarana Elektronika|
+|6|202.173.217.4|8080|Thailand|Bangkok|KIRZ Company Limited|
+|7|38.156.73.59|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|8|3.230.21.126|3128|United States|Ashburn|Amazon Technologies Inc.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|11|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|12|112.198.179.17|8082|Philippines|Carmona|Globe Telecom|
+|13|103.162.141.146|3128|Indonesia|Batam|PT Filltech Antar Nusa|
+|14|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|15|209.200.246.243|9595|Canada|Toronto|Ipxo LLC|
+|16|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|17|5.58.25.124|8080|Ukraine|Ternopil|Columbus|
+|18|67.43.227.230|1355|Canada|Montreal|GloboTech Communications|
+|19|51.159.159.73|80|France|Paris|SCALEWAY|
+|20|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
 
 
 
