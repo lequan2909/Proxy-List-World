@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|3|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|4|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|5|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|113.16.209.116|10010|China|Liuzhou|CHINATELECOM Guangxi Nanning IDC networkdescr: Nanning, Guangxi Province, P.R.|
-|10|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|11|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|12|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|103.35.153.74|8080|Indonesia|Depok|PT INDONESIA COMNETS PLUS|
-|14|72.10.164.178|24497|Canada|Montreal|GloboTech Communications|
-|15|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|16|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|17|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|18|103.156.75.41|8181|Indonesia|Gianyar|PT Trika Global Media|
-|19|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|4|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|5|45.55.57.204|443|United States|Clifton|DigitalOcean, LLC|
+|6|45.55.57.204|443|United States|Clifton|DigitalOcean, LLC|
+|7|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|8|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|9|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|10|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|113.16.209.116|10010|China|Liuzhou|CHINATELECOM Guangxi Nanning IDC networkdescr: Nanning, Guangxi Province, P.R.|
+|17|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|116.203.15.29|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|20|103.179.84.50|8080|Indonesia|Boyolali|PT CYB Media Group|
 
 
 
