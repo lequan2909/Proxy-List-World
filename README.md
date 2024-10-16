@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|3|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|193.233.84.88|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
-|7|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|103.166.194.114|8080|Indonesia|Bekasi|Hipernet Indodata|
-|10|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|11|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|12|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|13|72.10.160.172|1333|Canada|Montreal|GloboTech Communications|
-|14|112.201.189.202|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
-|15|72.10.160.170|25957|Canada|Montreal|GloboTech Communications|
-|16|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|17|51.159.159.73|80|France|Paris|SCALEWAY|
-|18|67.43.236.19|22115|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|13275|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|25957|Canada|Montreal|GloboTech Communications|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|193.233.84.88|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
+|9|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|11|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|12|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|16|51.159.159.73|80|France|Paris|SCALEWAY|
+|17|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|209.200.246.243|9595|Canada|Toronto|Ipxo LLC|
+|19|72.10.164.178|16425|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|16425|Canada|Montreal|GloboTech Communications|
 
 
 
