@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|3|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|5|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|6|178.48.68.61|18080|Hungary|Budapest|UPC|
-|7|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|8|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|9|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|11|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|12|198.99.81.198|8080|United States|Fort Collins|City of Fort Collins|
-|13|34.97.65.59|8561|Japan|Osaka|Google LLC|
-|14|206.81.30.3|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|103.186.8.162|8080|Indonesia|Kediri|PRISMA|
-|16|168.138.168.117|3128|Singapore|Singapore|Oracle Corporation|
-|17|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|18|148.113.1.131|3128|India|Mumbai|OVH SAS|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|2|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|3|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|4|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|5|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|103.179.84.50|8080|Indonesia|Boyolali|PT CYB Media Group|
+|7|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|8|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|9|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|10|34.97.247.98|8561|Japan|Osaka|Google LLC|
+|11|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|12|64.6.8.5|8080|United States|La Harpe|MTC Communications|
+|13|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|14|144.86.187.37|3129|United States|Malden|Charles River Operation|
+|15|49.0.3.130|8090|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|18|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|19|114.130.183.66|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|20|103.156.74.186|8080|Indonesia|Gianyar|PT Trika Global Media|
 
 
 
