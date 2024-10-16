@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|5|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|6|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|216.173.71.126|3128|Latvia|Riga|SIA VEESP|
+|6|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 |8|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|10|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
 |11|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|12|67.43.236.20|10433|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.172|3763|Canada|Montreal|GloboTech Communications|
-|14|113.16.209.116|10010|China|Liuzhou|CHINATELECOM Guangxi Nanning IDC networkdescr: Nanning, Guangxi Province, P.R.|
-|15|72.10.164.178|31937|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.252|3949|Canada|Montreal|GloboTech Communications|
-|17|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|18|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|19|67.43.236.20|10433|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|5073|Canada|Montreal|GloboTech Communications|
+|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|72.10.164.178|19401|Canada|Montreal|GloboTech Communications|
+|14|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|15|72.10.164.178|19401|Canada|Montreal|GloboTech Communications|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|67.43.236.20|22283|Canada|Montreal|GloboTech Communications|
+|18|171.238.239.231|5000|Vietnam|Tuyên Quang|Viettel Corporation|
+|19|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|20|67.43.228.250|21443|Canada|Montreal|GloboTech Communications|
 
 
 
