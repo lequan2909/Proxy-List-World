@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|88.198.39.240|10002|Germany|Nuremberg|Hetzner Online GmbH|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
-|6|72.10.164.178|31993|Canada|Montreal|GloboTech Communications|
-|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|8|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|9|72.10.160.91|17297|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.227|5683|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|25351|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.170|19591|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.90|11223|Canada|Montreal|GloboTech Communications|
-|14|103.148.25.201|8080|Indonesia|Trenggalek|Menaksopal Link Nusantara|
-|15|67.43.236.20|25351|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|5683|Canada|Montreal|GloboTech Communications|
-|17|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
-|18|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
-|19|67.43.228.253|28395|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.173|27215|Canada|Montreal|GloboTech Communications|
+|2|188.166.184.118|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
+|7|67.43.228.253|28395|Canada|Montreal|GloboTech Communications|
+|8|67.43.227.227|17603|Canada|Montreal|GloboTech Communications|
+|9|103.69.20.99|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|10|119.15.86.30|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|11|67.43.228.251|12085|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|4153|Canada|Montreal|GloboTech Communications|
+|13|157.119.211.133|8080|India|Puttūr|Finecom Internet services Pvt Ltd|
+|14|113.16.209.116|10010|China|Liuzhou|CHINATELECOM Guangxi Nanning IDC networkdescr: Nanning, Guangxi Province, P.R.|
+|15|67.43.228.253|28395|Canada|Montreal|GloboTech Communications|
+|16|123.200.7.110|8080|Bangladesh|Khulna|Link3 Technologies Limited|
+|17|177.234.211.63|999|Ecuador|Guayaquil|VUELATECHNOLOGY|
+|18|180.88.111.187|3128|China|Beijing|GXBLnet|
+|19|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|20|62.74.173.146|8080|Greece|Salamina|Vodafone-panafon Hellenic Telecommunications Company SA|
 
 
 
