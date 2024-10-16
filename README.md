@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.65.59|8561|Japan|Osaka|Google LLC|
-|3|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|4|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|5|115.79.27.106|1001|Vietnam|Ho Chi Minh City|VIETELftth|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|8|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|12|37.187.109.70|10111|France|Gravelines|OVH SAS|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|15|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|17|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|19|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|20|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|2|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|3|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|4|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|5|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|6|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|9|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|10|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|13|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|14|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|15|148.113.1.131|3128|India|Mumbai|OVH SAS|
+|16|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|19|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|20|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 
 
 
