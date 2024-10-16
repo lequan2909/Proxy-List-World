@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|3|144.86.187.62|3129|United States|Malden|Charles River Operation|
-|4|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
-|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|2|103.188.175.35|80|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|3|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|4|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 |8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|10|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|13|202.183.209.77|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|14|67.43.236.19|5223|Canada|Montreal|GloboTech Communications|
-|15|192.46.229.19|3128|Singapore|Singapore|Akamai Technologies, Inc.|
-|16|190.12.95.170|47029|Peru|Lima|WIN EMPRESAS S.A.C|
-|17|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|18|111.1.61.52|3128|China|Wenzhou|China Mobile communications corporation|
-|19|72.10.160.170|23501|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|20467|Canada|Montreal|GloboTech Communications|
+|9|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|10|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|11|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
+|13|38.183.146.181|8090|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|17|72.10.160.91|2285|Canada|Montreal|GloboTech Communications|
+|18|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
+|19|5.161.104.243|10005|United States|Ashburn|Hetzner Online GmbH|
+|20|112.198.179.17|8082|Philippines|Carmona|Globe Telecom|
 
 
 
