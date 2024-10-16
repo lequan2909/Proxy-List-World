@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|77.41.146.0|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|4|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|5|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|6|216.173.71.126|3128|Latvia|Riga|SIA VEESP|
-|7|103.166.227.85|8080|Indonesia|Majalengka|PT Arta Flash Sintesa Nusantara|
-|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|11|103.155.198.166|8082|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|12|103.156.16.243|8080|Indonesia|Jakarta|RSTNET|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|113.160.214.209|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|27.72.141.201|10015|Vietnam|Hanoi|Newass2011xDSLHN|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|8|187.62.153.57|8088|Brazil|Oeiras|Megalink Internet|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|11|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
 |13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|72.10.164.178|5933|Canada|Montreal|GloboTech Communications|
+|14|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
 |15|51.159.159.73|80|France|Paris|SCALEWAY|
-|16|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|17|67.43.227.226|6237|Canada|Montreal|GloboTech Communications|
-|18|187.249.20.153|8081|Mexico|Apodaca|Transtelco Inc|
-|19|67.43.236.20|14537|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|27241|Canada|Montreal|GloboTech Communications|
+|16|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|67.43.236.20|3607|Canada|Montreal|GloboTech Communications|
+|18|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|19|70.186.128.126|8080|United States|Oklahoma City|Cox Communications Inc.|
+|20|103.174.236.63|7777|Indonesia|Brebes|PT Global Erasiber Teknologi|
 
 
 
