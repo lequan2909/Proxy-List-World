@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|34.97.247.98|8561|Japan|Osaka|Google LLC|
-|4|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|116.107.166.51|5101|Vietnam|Hanoi|Viettel Corporation|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|116.80.47.17|3128|Japan|Tokyo|InfoSphere|
-|9|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|10|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
-|11|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|13|109.123.229.224|4006|Japan|Tokyo|Contabo Asia Private Limited|
-|14|109.123.229.224|4006|Japan|Tokyo|Contabo Asia Private Limited|
-|15|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|16|147.45.137.174|3128|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|17|34.97.247.98|8561|Japan|Osaka|Google LLC|
-|18|185.116.236.104|9595|United States|New York|Massivegrid LTD|
-|19|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|3|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|4|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
+|5|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|7|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|10|116.80.47.17|3128|Japan|Tokyo|InfoSphere|
+|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|12|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
+|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|15|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|16|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|18|103.31.235.102|8080|Indonesia|Ciampea|PT Usaha Adi Sanggoro|
+|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
 
 
 
