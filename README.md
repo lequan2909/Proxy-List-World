@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.176.53|8561|Japan|Osaka|Google LLC|
-|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|45.83.20.3|1080|Belgium|Brussels|Stark Industries Solutions LTD|
+|4|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
 |5|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
 |7|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|10|34.97.65.59|8561|Japan|Osaka|Google LLC|
-|11|81.91.151.146|3128|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|148.113.1.131|3128|India|Mumbai|OVH SAS|
-|14|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
-|15|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|16|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|17|54.70.120.91|3128|United States|Portland|Amazon.com, Inc.|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|67.43.227.227|28093|Canada|Montreal|GloboTech Communications|
+|8|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|11|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|13|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|14|170.239.205.73|8080|Colombia|Bogotá|FIBERNET|
+|15|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|16|148.113.1.131|3128|India|Mumbai|OVH SAS|
+|17|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
+|19|5.161.104.243|10001|United States|Ashburn|Hetzner Online GmbH|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
