@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4643** proxies at the latest update. Usable proxies are below.
+> Scraper found **4743** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,16 +13,16 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
 |Source|Found Proxies|Succeed|
 |------|-------------|-------|
-|[free-proxy-list.net](https://free-proxy-list.net)|0|🚫|
-|[us-proxy.org](https://www.us-proxy.org)|200|✅|
+|[free-proxy-list.net](https://free-proxy-list.net)|300|✅|
+|[us-proxy.org](https://www.us-proxy.org)|0|🚫|
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|2|72.10.160.92|31143|Canada|Montreal|GloboTech Communications|
-|3|67.43.227.227|3451|Canada|Montreal|GloboTech Communications|
-|4|67.43.236.20|17219|Canada|Montreal|GloboTech Communications|
-|5|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|6|67.43.228.253|1905|Canada|Montreal|GloboTech Communications|
-|7|67.43.228.253|1905|Canada|Montreal|GloboTech Communications|
-|8|67.43.228.252|5999|Canada|Montreal|GloboTech Communications|
-|9|67.43.227.227|3451|Canada|Montreal|GloboTech Communications|
-|10|183.88.241.167|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|11|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|67.43.236.18|24773|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.253|1905|Canada|Montreal|GloboTech Communications|
-|15|46.209.15.187|8080|Iran|Tehran|ADSL Service in Kermanshah|
-|16|67.43.228.253|1905|Canada|Montreal|GloboTech Communications|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|67.43.227.230|30023|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|1905|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|17219|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|3|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|5|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|67.43.227.227|7163|Canada|Montreal|GloboTech Communications|
+|7|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|10|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|72.10.164.178|18751|Canada|Montreal|GloboTech Communications|
+|12|67.43.227.227|7163|Canada|Montreal|GloboTech Communications|
+|13|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|14|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|15|72.10.164.178|18751|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|4969|Canada|Montreal|GloboTech Communications|
+|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|18|115.74.246.138|8080|Vietnam|Quận Mười Một|VIETELxdsl|
+|19|182.253.26.196|8080|Indonesia|Jakarta|BIZNET|
+|20|67.43.227.230|30023|Canada|Montreal|GloboTech Communications|
 
 
 
