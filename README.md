@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.97.247.98|8561|Japan|Osaka|Google LLC|
-|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|4|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|6|189.232.97.26|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|8|178.48.68.61|18080|Hungary|Budapest|UPC|
-|9|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|13|211.109.199.99|80|South Korea|Yongin-si|SK Broadband Co Ltd|
-|14|67.43.236.20|12789|Canada|Montreal|GloboTech Communications|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|4|213.199.44.86|8000|Germany|Düsseldorf|Contabo GmbH|
+|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|6|46.161.194.65|1976|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|7|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|34.97.247.98|8561|Japan|Osaka|Google LLC|
+|9|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|10|189.232.97.26|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|13|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|14|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
 |15|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|16|181.174.225.202|999|Peru|Lima|CHARACKWAVES CUSYPATA EXPORT/IMPORT S.A.C.|
-|17|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|16|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|17|162.240.154.26|3128|United States|Provo|Unified Layer|
 |18|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
 |19|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|162.240.154.26|3128|United States|Provo|Unified Layer|
+|20|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
 
 
 
