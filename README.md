@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
-|3|148.113.1.131|3128|India|Mumbai|OVH SAS|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|6|72.10.160.170|19591|Canada|Montreal|GloboTech Communications|
-|7|54.153.62.219|3128|United States|San Jose|Amazon.com, Inc.|
-|8|72.10.164.178|1597|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.171|24269|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|1597|Canada|Montreal|GloboTech Communications|
-|11|67.43.236.20|29999|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|5683|Canada|Montreal|GloboTech Communications|
-|13|72.10.164.178|1597|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|19591|Canada|Montreal|GloboTech Communications|
-|15|45.132.236.169|3129|United States|Los Angeles|Zenlayer Inc|
-|16|112.198.179.17|8082|Philippines|Carmona|Globe Telecom|
-|17|67.43.227.230|21011|Canada|Montreal|GloboTech Communications|
-|18|1.1.226.191|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|19|72.10.160.90|17863|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|5683|Canada|Montreal|GloboTech Communications|
+|2|103.156.248.45|8080|Indonesia|Pinrang|Trans Media Telekomunikasi|
+|3|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
+|4|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|192.99.169.19|8448|Canada|Beauharnois|OVH SAS|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|8|67.43.227.230|10655|Canada|Montreal|GloboTech Communications|
+|9|67.43.236.20|25351|Canada|Montreal|GloboTech Communications|
+|10|103.173.77.165|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|11|66.96.233.62|8085|Indonesia|Jakarta|MYREPUBLIC|
+|12|72.10.160.174|13797|Canada|Montreal|GloboTech Communications|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|67.43.227.228|19491|Canada|Montreal|GloboTech Communications|
+|15|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|67.43.227.227|13301|Canada|Montreal|GloboTech Communications|
+|18|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|115.74.246.138|8080|Vietnam|Quận Mười Một|VIETELxdsl|
+|20|67.43.227.226|26853|Canada|Montreal|GloboTech Communications|
 
 
 
