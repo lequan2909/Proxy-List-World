@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|3|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |6|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|206.81.30.3|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|10|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|11|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
-|12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|189.232.97.26|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|15|184.82.43.14|8080|Thailand|Khon Kaen|AIS-Fibre|
-|16|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|17|168.138.168.117|3128|Singapore|Singapore|Oracle Corporation|
-|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|19|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
-|20|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|34.97.247.98|8561|Japan|Osaka|Google LLC|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|182.253.115.130|8080|Indonesia|Salatiga|BIZNET|
+|10|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|11|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|12|144.86.187.37|3129|United States|Malden|Charles River Operation|
+|13|144.48.162.122|8080|Bangladesh|Kāfrul|Cue Club Technology|
+|14|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|17|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|18|148.113.1.131|3128|India|Mumbai|OVH SAS|
+|19|103.139.25.121|8080|Indonesia|Celep|Universitas Muhammadiyah Sidoarjo|
+|20|168.138.168.117|3128|Singapore|Singapore|Oracle Corporation|
 
 
 
