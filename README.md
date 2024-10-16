@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|4|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
 |5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|7|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|10|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|72.10.164.178|18653|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|23573|Canada|Montreal|GloboTech Communications|
-|14|120.220.197.194|45047|China|Guangzhou|China Mobile communications corporation|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|170.239.205.73|8080|Colombia|Bogotá|FIBERNET|
+|14|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
 |15|72.10.164.178|18653|Canada|Montreal|GloboTech Communications|
 |16|72.10.164.178|18653|Canada|Montreal|GloboTech Communications|
 |17|72.10.164.178|18653|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|18653|Canada|Montreal|GloboTech Communications|
-|19|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|20|67.43.227.228|12199|Canada|Montreal|GloboTech Communications|
+|18|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|19|72.10.164.178|18653|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.227|26185|Canada|Montreal|GloboTech Communications|
 
 
 
