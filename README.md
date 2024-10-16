@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |3|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|4|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|5|72.10.164.178|18039|Canada|Montreal|GloboTech Communications|
-|6|144.86.187.56|3129|United States|Malden|Charles River Operation|
-|7|67.43.227.227|6177|Canada|Montreal|GloboTech Communications|
-|8|77.68.2.139|80|United Kingdom|London|IONOS SE|
-|9|72.10.164.178|18039|Canada|Montreal|GloboTech Communications|
-|10|144.86.187.43|3129|United States|Malden|Charles River Operation|
-|11|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
-|12|72.10.164.178|18039|Canada|Montreal|GloboTech Communications|
-|13|187.102.36.15|3128|Brazil|Braço do Norte|MKM Internet Solution Provider Ltda|
-|14|144.86.187.55|3129|United States|Malden|Charles River Operation|
-|15|72.10.164.178|18039|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|7627|Canada|Montreal|GloboTech Communications|
+|4|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|8|45.71.202.147|1993|Ecuador|Cuenca|Ufinet Panama S.A.|
+|9|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
+|10|144.86.187.56|3129|United States|Malden|Charles River Operation|
+|11|144.86.187.34|3129|United States|Malden|Charles River Operation|
+|12|45.236.105.81|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|13|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|14|67.43.227.226|17485|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|31935|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|2819|Canada|Montreal|GloboTech Communications|
 |17|67.43.227.227|6177|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|2819|Canada|Montreal|GloboTech Communications|
-|19|111.1.61.54|3128|China|Wenzhou|China Mobile communications corporation|
-|20|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
+|18|67.43.227.227|6177|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.227|6177|Canada|Montreal|GloboTech Communications|
+|20|62.74.173.146|8080|Greece|Salamina|Vodafone-panafon Hellenic Telecommunications Company SA|
 
 
 
