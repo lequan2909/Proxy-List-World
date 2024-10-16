@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|203.150.128.230|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|4|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|5|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
-|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|7|181.114.224.37|8080|Argentina|Mar del Plata|CyberWave S.A.|
-|8|103.182.213.65|8080|Bangladesh|Tongi|Rapid Network|
-|9|120.28.220.26|8080|Philippines|Cagayan de Oro|Globe Telecom|
-|10|13.234.24.116|3128|India|Mumbai|Amazon Technologies Inc.|
-|11|187.94.214.17|3128|Brazil|Carangola|Acesse Comunicação Ltda|
-|12|189.8.6.3|8080|Brazil|São Paulo|Universal Telecom S.A.|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|31.211.82.232|3128|Russia|Tomsk|OOO NETCOM|
-|15|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|16|45.233.169.21|999|Colombia|Popayán|Simect Group Redes E Internet S.A.S|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc.|
-|19|18.169.83.87|1080|United Kingdom|London|Amazon Technologies Inc.|
-|20|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|2|203.150.128.230|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|3|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|4|181.114.224.37|8080|Argentina|Mar del Plata|CyberWave S.A.|
+|5|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
+|6|103.127.97.187|3128|Philippines|Lucban|PT Biznet Gio Nusantara|
+|7|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
+|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|9|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|13|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|202.69.38.82|8080|Pakistan|Lahore|Gerrys Information Technology (PVT) Ltd|
+|16|67.43.227.227|20741|Canada|Montreal|GloboTech Communications|
+|17|103.69.20.115|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|80.240.55.246|3128|Russia|Yeysk|inetnum UGTEL|
 
 
 
