@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|4|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|6|45.83.20.3|1080|Belgium|Brussels|Stark Industries Solutions LTD|
-|7|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|103.156.75.41|8181|Indonesia|Gianyar|PT Trika Global Media|
+|3|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|4|34.97.176.53|8561|Japan|Osaka|Google LLC|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|45.83.20.3|1080|Belgium|Brussels|Stark Industries Solutions LTD|
+|8|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
+|9|103.173.77.165|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|11|126.209.13.226|8082|Philippines|Manila|Infinivan Incorporated|
 |12|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|15|190.107.232.202|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|16|148.113.1.131|3128|India|Mumbai|OVH SAS|
-|17|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|18|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|19|103.154.230.93|8080|Indonesia|Lamongan|DIGITNET|
-|20|190.61.90.117|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|38.194.236.168|3128|Mexico|Querétaro City|Ientc S De RL De CV|
+|15|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|17|188.132.222.49|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|148.113.1.131|3128|India|Mumbai|OVH SAS|
+|19|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|20|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
 
 
 
