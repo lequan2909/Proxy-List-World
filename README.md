@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|407|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|407|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|407|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|400|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|400|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|400|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|6|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|9|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|13|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|14|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|103.147.73.33|1080|Indonesia|Kediri|ALFATINDO|
-|17|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|61.129.2.212|8080|China|Beijing|CHINANET|
-|19|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|20|67.43.227.227|12089|Canada|Montreal|GloboTech Communications|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|5|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|7|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|8|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|10|34.97.176.53|8561|Japan|Osaka|Google LLC|
+|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|12|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|13|34.97.247.98|8561|Japan|Osaka|Google LLC|
+|14|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|15|110.136.123.148|8080|Indonesia|Jember|PT. TELKOM INDONESIA|
+|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|17|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|18|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
 
 
 
