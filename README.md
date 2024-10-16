@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|4|159.203.104.153|4550|United States|Clifton|DigitalOcean, LLC|
-|5|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
-|6|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|7|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|8|116.107.166.51|5101|Vietnam|Hanoi|Viettel Corporation|
-|9|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
-|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|14|116.80.47.17|3128|Japan|Tokyo|InfoSphere|
-|15|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|16|185.105.230.45|3128|Tajikistan|Dushanbe|JSC TT Mobile|
-|17|172.233.131.233|10001|United States|Los Angeles|Akamai Technologies, Inc.|
-|18|103.31.235.102|8080|Indonesia|Ciampea|PT Usaha Adi Sanggoro|
-|19|5.227.245.173|8424|Russia|Saratov|MTS-SRTV|
-|20|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|116.202.217.96|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|8|116.97.240.147|4995|Vietnam|Hanoi|Viettel Corporation|
+|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|10|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|11|49.48.89.155|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|12|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|17|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|18|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|19|72.10.164.178|24037|Canada|Montreal|GloboTech Communications|
+|20|186.96.96.134|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 
 
 
