@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|4|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|5|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|6|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|9|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|10|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|11|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|12|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|13|148.113.1.131|3128|India|Mumbai|OVH SAS|
-|14|144.86.187.37|3129|United States|Malden|Charles River Operation|
-|15|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|80.240.55.246|3128|Russia|Yeysk|inetnum UGTEL|
-|18|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|19|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|20|188.132.150.164|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|4|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|5|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
+|6|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|9|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
+|10|171.252.128.52|19012|Vietnam|Da Nang|Viettel Corporation|
+|11|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|12|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|14|148.113.1.131|3128|India|Mumbai|OVH SAS|
+|15|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|18|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|51.159.159.73|80|France|Paris|SCALEWAY|
 
 
 
