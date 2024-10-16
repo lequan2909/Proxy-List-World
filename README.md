@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|144.86.187.62|3129|United States|Malden|Charles River Operation|
+|4|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
 |5|141.145.213.155|3128|France|Paris|Oracle Corporation|
-|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|7|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|9|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|27.96.131.193|80|South Korea|Seongnam-si|NBP|
-|11|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
-|12|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|14|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|15|51.159.159.73|80|France|Paris|SCALEWAY|
-|16|144.86.187.35|3129|United States|Malden|Charles River Operation|
-|17|67.43.228.254|10311|Canada|Montreal|GloboTech Communications|
-|18|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|19|67.43.227.228|23927|Canada|Montreal|GloboTech Communications|
-|20|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
+|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|8|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|9|201.49.193.249|7171|Brazil|Bataguassu|FIT Telecom Eireli|
+|10|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|11|112.198.179.17|8082|Philippines|Carmona|Globe Telecom|
+|12|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
+|13|144.86.187.35|3129|United States|Malden|Charles River Operation|
+|14|51.159.159.73|80|France|Paris|SCALEWAY|
+|15|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|16|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|17|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|181.171.117.15|8080|Argentina|La Plata|Telecom Argentina S.A|
+|20|103.152.238.180|8085|Indonesia|Bekasi|APRIN|
 
 
 
