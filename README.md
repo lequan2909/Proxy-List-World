@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|4|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|7|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|9|34.97.176.53|8561|Japan|Osaka|Google LLC|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|13|94.182.40.51|3128|Iran|Tehran|Aria Shatel PJSC|
-|14|116.105.28.52|10057|Vietnam|Da Nang|Viettel Corporation|
-|15|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|16|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|2|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|3|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|4|144.48.162.122|8080|Bangladesh|Kāfrul|Cue Club Technology|
+|5|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|6|45.236.105.81|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|7|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|8|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|112.198.132.3|8085|Philippines|Nasugbu|Globe Telecom|
+|11|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|181.174.225.202|999|Peru|Lima|CHARACKWAVES CUSYPATA EXPORT/IMPORT S.A.C.|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|16|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
 |17|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|18|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|19|103.191.218.87|8080|Indonesia|Kuningan Barat|PT Replay Inti Media|
-|20|206.81.30.3|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|103.229.185.154|8080|Indonesia|Pamulang|PT INDONESIA COMNETS PLUS|
+|20|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 
 
 
