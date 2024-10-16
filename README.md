@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|3|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
 |4|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|5|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|6|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
 |8|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|9|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|10|72.10.160.92|26307|Canada|Montreal|GloboTech Communications|
-|11|51.159.159.73|80|France|Paris|SCALEWAY|
-|12|67.43.228.253|11159|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|18291|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.172|12923|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.173|24705|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|11159|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.170|22449|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.228|1761|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|22449|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.173|24705|Canada|Montreal|GloboTech Communications|
+|9|182.253.109.192|8080|Indonesia|Semarang|Biznet Metronet|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|12|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
+|13|15.235.12.19|3128|Canada|Montreal|OVH SAS|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|177.11.190.84|8080|Brazil|Franca|Multpontos Telecomunicações Ltda - ME|
+|16|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|112.198.132.3|8085|Philippines|Nasugbu|Globe Telecom|
+|19|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|61.129.2.212|8080|China|Beijing|CHINANET|
 
 
 
