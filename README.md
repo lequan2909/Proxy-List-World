@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|4|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|5|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
-|6|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|8|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|9|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|10|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|11|67.43.227.227|26035|Canada|Montreal|GloboTech Communications|
-|12|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|13|67.43.227.227|26035|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.172|20119|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|22745|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|32965|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.171|9187|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|6811|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.230|20109|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|14651|Canada|Montreal|GloboTech Communications|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|6|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|7|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|8|66.206.15.148|8134|United States|Los Angeles|Primary|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|34.97.247.98|8561|Japan|Osaka|Google LLC|
+|11|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|12|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|13|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|14|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|45.224.149.179|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|116.202.217.96|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|18|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|19|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|20|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
 
 
 
