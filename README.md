@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|49.49.7.170|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|4|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|7|146.59.16.105|3128|Poland|Warsaw|OVH SAS|
-|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|9|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|88.198.39.240|10002|Germany|Nuremberg|Hetzner Online GmbH|
-|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|13|112.201.189.202|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
-|14|116.97.62.167|5000|Vietnam|Hanoi|Viettel Corporation|
-|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|191.179.216.84|8080|Brazil|Caruaru|Claro NXT Telecomunicacoes Ltda|
-|18|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|19|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|20|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|6|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
+|7|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|8|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|11|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|212.110.188.193|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|13|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|14|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|15|167.103.7.71|11160|India|Chennai|ZSCALER, INC.|
+|16|124.6.155.170|3131|Philippines|Taguig|Globe Telecom|
+|17|136.226.244.120|10655|India|Chennai|ZSCALER, INC.|
+|18|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|19|67.43.236.19|18769|Canada|Montreal|GloboTech Communications|
+|20|179.125.125.243|3128|Brazil|Teresina|Virtex Telecom|
 
 
 
