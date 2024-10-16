@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|110.77.180.64|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|5|118.70.184.10|31300|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|141.145.213.155|3128|France|Paris|Oracle Corporation|
-|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|9|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|11|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|12|167.103.7.70|11132|India|Chennai|ZSCALER, INC.|
-|13|136.226.244.80|10878|India|Chennai|ZSCALER, INC.|
-|14|167.103.6.179|9401|India|Chennai|ZSCALER, INC.|
-|15|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|16|165.16.46.1|8080|Libya|Tripoli|Aljeel Aljadeed Technology|
-|17|136.226.244.84|10981|India|Chennai|ZSCALER, INC.|
-|18|136.226.232.199|10981|India|Mumbai|ZSCALER, INC.|
-|19|72.10.160.94|23109|Canada|Montreal|GloboTech Communications|
-|20|167.103.6.178|10312|India|Chennai|ZSCALER, INC.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|141.145.213.155|3128|France|Paris|Oracle Corporation|
+|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|5|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|6|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|7|201.77.108.160|999|Mexico|Jiménez Municipality|Nidix Networks S.a. De C.V.|
+|8|167.103.7.70|11132|India|Chennai|ZSCALER, INC.|
+|9|115.147.23.249|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|10|167.103.6.179|9401|India|Chennai|ZSCALER, INC.|
+|11|167.103.6.178|10312|India|Chennai|ZSCALER, INC.|
+|12|167.103.6.175|10285|India|Chennai|ZSCALER, INC.|
+|13|72.10.160.94|23109|Canada|Montreal|GloboTech Communications|
+|14|167.103.6.177|11267|India|Chennai|ZSCALER, INC.|
+|15|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|16|5.161.104.243|10005|United States|Ashburn|Hetzner Online GmbH|
+|17|167.103.6.178|10312|India|Chennai|ZSCALER, INC.|
+|18|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
+|19|67.43.228.253|2443|Canada|Montreal|GloboTech Communications|
+|20|167.103.6.177|11267|India|Chennai|ZSCALER, INC.|
 
 
 
