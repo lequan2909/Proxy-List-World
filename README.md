@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|188.166.184.118|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|6|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|7|36.64.206.107|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|8|77.41.146.0|8080|Russia|Moscow|OJSC Vimpelcom HQ|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|181.209.82.154|23500|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|103.157.117.116|8080|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
-|14|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|17|72.10.160.90|8017|Canada|Montreal|GloboTech Communications|
-|18|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|116.97.57.6|5000|Vietnam|Hanoi|Viettel Corporation|
+|6|77.41.146.0|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|9|117.5.249.201|5106|Vietnam|Hanoi|VIETTEL|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|91.229.28.110|3128|Slovakia|Hul|KOMNET, s.r.o.|
+|13|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|72.10.164.178|29205|Canada|Montreal|GloboTech Communications|
+|15|67.43.228.250|10769|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.252|31897|Canada|Montreal|GloboTech Communications|
+|17|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|18|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
 |19|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|67.43.228.250|10769|Canada|Montreal|GloboTech Communications|
+|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
