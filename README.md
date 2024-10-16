@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|4|213.199.44.90|8000|Germany|Düsseldorf|Contabo GmbH|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|45.235.16.121|27234|Brazil|Chapecó|Acessoline Telecom|
-|9|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|10|182.52.1.197|8080|Thailand|Pak Kret|TOT Public Company Limited|
-|11|162.229.228.112|8080|United States|Orange Park|AT&T Services, Inc.|
-|12|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|13|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|43.203.252.29|80|South Korea|Seoul|Amazon.com, Inc.|
-|16|89.116.32.140|3128|India|Mumbai|Hostinger International Limited|
-|17|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|18|218.1.142.72|57114|China|Shanghai|China Telecom (Group)|
-|19|116.104.170.56|5014|Vietnam|Hanoi|Viettel Corporation|
-|20|88.198.39.240|10006|Germany|Nuremberg|Hetzner Online GmbH|
+|2|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|67.43.227.226|5683|Canada|Montreal|GloboTech Communications|
+|5|72.10.160.93|27597|Canada|Montreal|GloboTech Communications|
+|6|72.10.160.170|19591|Canada|Montreal|GloboTech Communications|
+|7|124.6.165.155|8082|Philippines|Lahug|INNOVE|
+|8|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|67.43.236.18|22857|Canada|Montreal|GloboTech Communications|
+|10|67.43.227.227|5683|Canada|Montreal|GloboTech Communications|
+|11|36.93.130.219|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|12|67.43.227.226|5683|Canada|Montreal|GloboTech Communications|
+|13|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|14|67.43.236.21|29255|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|1597|Canada|Montreal|GloboTech Communications|
+|16|8.213.34.58|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
+|17|72.10.164.178|1597|Canada|Montreal|GloboTech Communications|
+|18|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|218.1.142.72|57114|China|Shanghai|China Telecom (Group)|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
