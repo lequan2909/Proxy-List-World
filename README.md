@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|7|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|9|109.123.229.224|4006|Japan|Tokyo|Contabo Asia Private Limited|
-|10|67.43.236.20|6985|Canada|Montreal|GloboTech Communications|
-|11|89.46.249.252|5080|United Kingdom|London|Hydra Communications Ltd|
-|12|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|13|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|14|67.43.228.250|22983|Canada|Montreal|GloboTech Communications|
-|15|182.253.86.96|8080|Indonesia|Jakarta|Biznet Gamers|
-|16|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
-|17|162.240.154.26|3128|United States|Provo|Unified Layer|
-|18|37.187.149.223|8081|France|Roubaix|OVH SAS|
-|19|109.123.229.224|4006|Japan|Tokyo|Contabo Asia Private Limited|
-|20|72.10.160.170|2411|Canada|Montreal|GloboTech Communications|
+|2|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|3|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|4|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|5|119.92.75.48|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|212.110.188.220|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|67.43.236.20|3319|Canada|Montreal|GloboTech Communications|
+|10|67.43.236.20|3319|Canada|Montreal|GloboTech Communications|
+|11|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|12|192.46.229.19|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|13|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|14|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|15|72.10.164.178|28935|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.251|27467|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.226|12167|Canada|Montreal|GloboTech Communications|
+|18|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|19|103.48.68.68|83|India|Hyderabad|Country Online Services PVT LTD|
+|20|216.173.71.126|3128|Latvia|Riga|SIA VEESP|
 
 
 
