@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|34.97.247.98|8561|Japan|Osaka|Google LLC|
-|4|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|34.97.247.98|8561|Japan|Osaka|Google LLC|
+|3|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|4|34.97.190.56|8561|Japan|Osaka|Google LLC|
 |5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
 |6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |7|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
-|10|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|11|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|34.97.65.59|8561|Japan|Osaka|Google LLC|
+|9|116.97.57.6|5000|Vietnam|Hanoi|Viettel Corporation|
+|10|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|23.19.73.223|3128|United States|Los Angeles|Leaseweb USA, Inc.|
 |12|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
-|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|16|45.236.105.81|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|17|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
-|18|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
-|19|202.183.209.77|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|20|155.138.218.57|8118|United States|Atlanta|The Constant Company|
+|13|34.97.247.98|8561|Japan|Osaka|Google LLC|
+|14|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|19|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|20|36.93.8.34|11000|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
 
 
 
