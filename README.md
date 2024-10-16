@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|3|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|4|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|45.76.122.178|80|Australia|Sydney|The Constant Company|
-|8|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|11|38.41.0.60|11201|Venezuela|Caracas|MDS TELECOM C.A.|
-|12|67.43.227.227|8217|Canada|Montreal|GloboTech Communications|
-|13|109.123.229.224|4011|Japan|Tokyo|Contabo Asia Private Limited|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|3.230.21.126|3128|United States|Ashburn|Amazon Technologies Inc.|
-|16|72.10.160.91|30995|Canada|Montreal|GloboTech Communications|
-|17|180.88.111.187|3128|China|Beijing|GXBLnet|
-|18|188.166.222.236|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|187.249.20.153|8081|Mexico|Apodaca|Transtelco Inc|
-|20|162.240.154.26|3128|United States|Provo|Unified Layer|
+|2|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|3|178.48.68.61|18080|Hungary|Budapest|UPC|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|7|72.10.160.92|12645|Canada|Montreal|GloboTech Communications|
+|8|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|67.43.227.226|22543|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.172|10457|Canada|Montreal|GloboTech Communications|
+|11|67.43.228.253|17207|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|20749|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.227|14009|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.18|30013|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.229|9385|Canada|Montreal|GloboTech Communications|
+|16|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|101.128.78.202|32650|Indonesia|Medan|CBN|
+|18|72.10.164.178|20749|Canada|Montreal|GloboTech Communications|
+|19|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.160.170|4317|Canada|Montreal|GloboTech Communications|
 
 
 
