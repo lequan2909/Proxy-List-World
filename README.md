@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
 |3|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|6|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|34.97.247.98|8561|Japan|Osaka|Google LLC|
-|8|103.87.171.138|32650|India|Jaipur|Tejays|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
-|11|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
-|12|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|120.28.220.26|8080|Philippines|Cagayan de Oro|Globe Telecom|
-|16|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|18|187.188.169.169|8080|Mexico|Santa Cruz Huitziltepec|Total Play Telecomunicaciones SA De CV|
-|19|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|20|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|5|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|7|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|8|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|9|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|10|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|12|103.179.84.50|8080|Indonesia|Boyolali|PT CYB Media Group|
+|13|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|14|148.113.1.131|3128|India|Mumbai|OVH SAS|
+|15|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|16|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|18|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|19|195.189.70.51|3128|Kazakhstan|Astana|CTC ASTANA LTD|
+|20|120.28.220.26|8080|Philippines|Cagayan de Oro|Globe Telecom|
 
 
 
