@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|203.150.113.132|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|4|171.96.204.225|80|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|5|103.167.170.169|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|6|116.97.62.167|5000|Vietnam|Hanoi|Viettel Corporation|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|9|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
-|10|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|13|49.49.7.170|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|14|5.58.98.183|8081|Ukraine|Ternopil|Columbus|
-|15|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|16|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|136.226.244.120|10655|India|Chennai|ZSCALER, INC.|
-|19|167.103.7.71|11160|India|Chennai|ZSCALER, INC.|
-|20|72.10.164.178|6985|Canada|Montreal|GloboTech Communications|
+|1|171.96.204.225|80|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|2|119.76.142.249|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
+|3|114.130.153.46|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|4|49.49.7.170|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|5|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
+|8|103.156.17.35|8181|Indonesia|Indramayu|RSTNET|
+|9|136.226.244.120|10655|India|Chennai|ZSCALER, INC.|
+|10|72.10.164.178|31613|Canada|Montreal|GloboTech Communications|
+|11|167.103.7.71|11160|India|Chennai|ZSCALER, INC.|
+|12|136.226.244.82|10878|India|Chennai|ZSCALER, INC.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|136.226.232.166|11243|India|Mumbai|ZSCALER, INC.|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|136.226.244.82|10878|India|Chennai|ZSCALER, INC.|
+|17|167.103.6.177|11267|India|Chennai|ZSCALER, INC.|
+|18|165.225.120.93|9480|India|Mumbai|ZSCALER, INC.|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|103.19.58.179|8082|Indonesia|Ngawi|BITSNET|
 
 
 
