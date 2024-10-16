@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|3|144.86.187.41|3129|United States|Malden|Charles River Operation|
-|4|119.13.77.25|39904|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|5|162.229.228.112|8080|United States|Orange Park|AT&T Services, Inc.|
-|6|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|7|112.201.189.202|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
-|8|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|51.159.159.73|80|France|Paris|SCALEWAY|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|72.10.160.90|18157|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.19|25415|Canada|Montreal|GloboTech Communications|
-|13|162.229.228.112|8080|United States|Orange Park|AT&T Services, Inc.|
-|14|144.86.187.41|3129|United States|Malden|Charles River Operation|
-|15|67.43.227.226|19625|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|26159|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|26159|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.227|27651|Canada|Montreal|GloboTech Communications|
-|19|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|3|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|4|144.48.162.122|8080|Bangladesh|Kāfrul|Cue Club Technology|
+|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|6|186.225.108.43|3128|Brazil|São Paulo|America-NET Ltda|
+|7|162.229.228.112|8080|United States|Orange Park|AT&T Services, Inc.|
+|8|103.78.171.10|83|India|Pune|SCC NETWORK PVT LTD|
+|9|112.201.183.124|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
+|10|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|11|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|12|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|13|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|51.159.159.73|80|France|Paris|SCALEWAY|
+|15|162.229.228.112|8080|United States|Orange Park|AT&T Services, Inc.|
+|16|45.236.105.81|999|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|17|67.43.236.20|14009|Canada|Montreal|GloboTech Communications|
+|18|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|19|67.43.236.20|14009|Canada|Montreal|GloboTech Communications|
+|20|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
 
 
 
