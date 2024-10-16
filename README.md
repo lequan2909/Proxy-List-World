@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|3|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|6|178.48.68.61|18080|Hungary|Budapest|UPC|
-|7|213.199.44.86|8000|Germany|Düsseldorf|Contabo GmbH|
-|8|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|9|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|10|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|11|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|12|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|13|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|14|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|15|72.10.160.170|25289|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.173|14733|Canada|Montreal|GloboTech Communications|
-|17|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|67.43.227.229|12179|Canada|Montreal|GloboTech Communications|
-|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|20|181.174.225.202|999|Peru|Lima|CHARACKWAVES CUSYPATA EXPORT/IMPORT S.A.C.|
+|2|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|3|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|4|178.48.68.61|18080|Hungary|Budapest|UPC|
+|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|9|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|10|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|11|27.75.70.42|4004|Vietnam|Ho Chi Minh City|Viettel Group|
+|12|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|13|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|14|67.43.227.227|8759|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.170|17789|Canada|Montreal|GloboTech Communications|
+|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|17|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|72.10.164.178|18653|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.173|29647|Canada|Montreal|GloboTech Communications|
 
 
 
