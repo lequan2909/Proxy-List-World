@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5223** proxies at the latest update. Usable proxies are below.
+> Scraper found **5283** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|79|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|139|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|660|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|528|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|3|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|7|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|8|178.48.68.61|18080|Hungary|Budapest|UPC|
-|9|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|10|34.97.247.98|8561|Japan|Osaka|Google LLC|
-|11|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|12|64.6.8.5|8080|United States|La Harpe|MTC Communications|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|154.73.109.201|1981|Libya|Tripoli|Trans-Sahara IT & Communication|
-|15|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|203.150.113.80|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|18|18.181.154.135|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|5|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
+|6|103.189.250.69|7777|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|7|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|9|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|10|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|11|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|12|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|206.81.30.3|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|203.138.144.132|3128|Japan|Sapporo|SIMPLEIA|
+|16|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|18|34.97.176.53|8561|Japan|Osaka|Google LLC|
+|19|101.255.148.22|3127|Indonesia|Bekasi|PT Remala Abadi|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
