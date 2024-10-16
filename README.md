@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|4|36.77.233.188|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|5|180.190.200.24|8085|Philippines|Lahug|Globe Telecom|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|38.99.101.101|3128|United States|San Jose|Cogent Communications|
-|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|10|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|11|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|12|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|27.72.244.228|8080|Vietnam|Hanoi|Newass2011xDSLHN|
-|15|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|18|72.10.164.178|20075|Canada|Montreal|GloboTech Communications|
-|19|36.93.8.34|11000|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|20|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|2|36.77.233.188|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|5|38.99.101.101|3128|United States|San Jose|Cogent Communications|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|10|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|12|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|14|112.201.189.202|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
+|15|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|16|119.18.149.9|5020|Bangladesh|Chittagong|BBTS Network|
+|17|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|19|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
