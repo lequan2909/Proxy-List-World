@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|49.49.7.170|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|5|116.97.62.167|5000|Vietnam|Hanoi|Viettel Corporation|
-|6|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
-|7|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
+|3|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|4|116.97.62.167|5000|Vietnam|Hanoi|Viettel Corporation|
+|5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|7|212.112.113.182|3128|Kyrgyzstan|Bishkek|AkNet|
 |8|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|9|116.104.133.0|5008|Vietnam|Hanoi|Viettel Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|103.154.91.182|8080|Indonesia|Jakarta|MORATELINDONAP|
-|12|171.240.119.87|5101|Vietnam|Hanoi|Viettel Corporation|
-|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|14|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|15|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|16|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|136.226.244.81|11066|India|Chennai|ZSCALER, INC.|
-|20|136.226.244.120|10655|India|Chennai|ZSCALER, INC.|
+|9|5.160.237.190|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|11|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|13|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|136.226.244.81|11066|India|Chennai|ZSCALER, INC.|
+|16|136.226.244.120|10655|India|Chennai|ZSCALER, INC.|
+|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
 
 
 
