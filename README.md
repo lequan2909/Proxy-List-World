@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5540** proxies at the latest update. Usable proxies are below.
+> Scraper found **5549** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|196|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|691|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|197|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|699|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|580|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3147|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |3|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|4|213.199.44.86|8000|Germany|Düsseldorf|Contabo GmbH|
+|4|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
 |5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|45.76.122.178|80|Australia|Sydney|The Constant Company|
 |8|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|9|38.41.0.60|11201|Venezuela|Caracas|MDS TELECOM C.A.|
-|10|103.69.20.56|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|11|67.43.227.227|1593|Canada|Montreal|GloboTech Communications|
-|12|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|67.43.227.227|1593|Canada|Montreal|GloboTech Communications|
-|15|51.159.159.73|80|France|Paris|SCALEWAY|
-|16|67.43.228.250|19805|Canada|Montreal|GloboTech Communications|
-|17|27.76.203.113|5102|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|182.253.86.96|8080|Indonesia|Jakarta|Biznet Gamers|
-|20|72.10.160.172|27443|Canada|Montreal|GloboTech Communications|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|11|38.41.0.60|11201|Venezuela|Caracas|MDS TELECOM C.A.|
+|12|67.43.227.227|8217|Canada|Montreal|GloboTech Communications|
+|13|109.123.229.224|4011|Japan|Tokyo|Contabo Asia Private Limited|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|3.230.21.126|3128|United States|Ashburn|Amazon Technologies Inc.|
+|16|72.10.160.91|30995|Canada|Montreal|GloboTech Communications|
+|17|180.88.111.187|3128|China|Beijing|GXBLnet|
+|18|188.166.222.236|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|187.249.20.153|8081|Mexico|Apodaca|Transtelco Inc|
+|20|162.240.154.26|3128|United States|Provo|Unified Layer|
 
 
 
