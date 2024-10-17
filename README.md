@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|163.172.33.137|4137|France|Vitry-sur-Seine|Online S.A.S.|
-|4|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|5|103.162.54.117|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|103.164.223.54|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|8|109.205.126.6|8080|Latvia|Riga|Kronospan Riga SIA|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|103.184.56.110|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|8|177.55.50.45|8085|Brazil|Cambará|Webby Tecnologia Ltda|
+|9|103.69.20.108|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
 |10|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|11|27.124.93.197|8080|Indonesia|Pamulang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 |12|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
-|14|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|72.10.160.173|8205|Canada|Montreal|GloboTech Communications|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
-|19|72.10.164.178|9789|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|8321|Canada|Montreal|GloboTech Communications|
+|13|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|103.179.246.30|8080|Pakistan|Multan|Orbit Networks Private Limited|
+|16|45.70.85.33|58080|Brazil|Araçatuba|B.B.S COMUNICAÇÕES LTDA ME|
+|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|18|186.125.218.147|999|Argentina|Molinos|Telecom Argentina S.A.|
+|19|72.10.160.173|21195|Canada|Montreal|GloboTech Communications|
+|20|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
 
 
 
