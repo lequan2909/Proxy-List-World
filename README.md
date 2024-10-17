@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|4|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|3|193.123.106.173|3128|Brazil|Vinhedo|Oracle Corporation|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
 |6|178.48.68.61|18080|Hungary|Budapest|UPC|
-|7|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|39.62.4.164|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
-|11|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|12|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|15|72.10.160.170|14287|Canada|Montreal|GloboTech Communications|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|202.57.25.62|1111|Indonesia|Semarang|announced of WINET|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|20|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|9|116.202.217.96|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|62.3.30.70|8080|Georgia||Enbinet Ltd.|
+|14|103.162.62.250|8181|Indonesia|Yogyakarta|PT Ring Media Nusantara|
+|15|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|16|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|17|72.10.164.178|10677|Canada|Montreal|GloboTech Communications|
+|18|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
 
 
 
