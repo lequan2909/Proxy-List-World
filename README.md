@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|2|181.78.17.25|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
 |3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|4|72.10.160.90|16311|Canada|Montreal|GloboTech Communications|
-|5|72.10.160.174|16329|Canada|Montreal|GloboTech Communications|
-|6|171.240.119.87|5101|Vietnam|Hanoi|Viettel Corporation|
-|7|72.10.160.91|17263|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.93|6817|Canada|Montreal|GloboTech Communications|
-|9|67.43.236.20|25237|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.90|16311|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|31679|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|31679|Canada|Montreal|GloboTech Communications|
-|13|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|72.10.160.174|16329|Canada|Montreal|GloboTech Communications|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|67.43.236.20|25237|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|25249|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.22|22257|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|13529|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|16311|Canada|Montreal|GloboTech Communications|
+|4|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|72.10.160.93|6817|Canada|Montreal|GloboTech Communications|
+|6|67.43.236.22|22257|Canada|Montreal|GloboTech Communications|
+|7|67.43.236.20|27965|Canada|Montreal|GloboTech Communications|
+|8|67.43.236.20|27965|Canada|Montreal|GloboTech Communications|
+|9|67.43.236.20|27965|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.92|21713|Canada|Montreal|GloboTech Communications|
+|11|72.10.160.91|9319|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.173|2815|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.19|12621|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|16311|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.170|3657|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.174|16329|Canada|Montreal|GloboTech Communications|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|67.43.236.20|27965|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
