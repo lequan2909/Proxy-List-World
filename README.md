@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|125.24.59.106|8080|Thailand|Si Satchanalai|TOT Public Company Limited|
-|3|121.101.133.220|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|4|186.96.96.134|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|5|60.204.145.212|8888|China|Shanghai|Huawei Cloud Service data center|
-|6|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
-|7|72.10.160.90|16311|Canada|Montreal|GloboTech Communications|
-|8|58.147.186.214|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
-|9|162.55.61.160|9001|Germany|Nuremberg|Hetzner Online GmbH|
-|10|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|11|67.43.227.226|9383|Canada|Montreal|GloboTech Communications|
-|12|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|13|67.43.227.226|9383|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.174|19755|Canada|Montreal|GloboTech Communications|
-|15|179.125.125.243|3128|Brazil|Teresina|Virtex Telecom|
-|16|72.10.160.170|17179|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|20121|Canada|Montreal|GloboTech Communications|
-|18|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|162.55.61.160|9001|Germany|Nuremberg|Hetzner Online GmbH|
+|2|103.182.78.137|1111|Indonesia|Surabaya|PT Cybernet Data Multimedia|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|181.78.17.25|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
+|5|125.24.59.106|8080|Thailand|Si Satchanalai|TOT Public Company Limited|
+|6|222.127.248.78|8082|Philippines|Iloilo City|GLBB|
+|7|67.43.227.226|2915|Canada|Montreal|GloboTech Communications|
+|8|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|9|72.10.160.90|16311|Canada|Montreal|GloboTech Communications|
+|10|212.112.113.182|3128|Kyrgyzstan|Bishkek|AkNet|
+|11|67.43.236.20|27965|Canada|Montreal|GloboTech Communications|
+|12|67.43.236.20|27965|Canada|Montreal|GloboTech Communications|
+|13|72.10.160.172|28691|Canada|Montreal|GloboTech Communications|
+|14|67.43.236.19|16385|Canada|Montreal|GloboTech Communications|
+|15|119.15.86.30|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|16|72.10.164.178|25755|Canada|Montreal|GloboTech Communications|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|60.204.145.212|8888|China|Shanghai|Huawei Cloud Service data center|
+|19|72.10.160.91|15101|Canada|Montreal|GloboTech Communications|
+|20|67.43.227.228|30937|Canada|Montreal|GloboTech Communications|
 
 
 
