@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|4|178.48.68.61|18080|Hungary|Budapest|UPC|
-|5|103.190.171.155|1111|Indonesia|Jakarta|WMS|
-|6|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|7|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|9|103.171.240.139|8181|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
-|10|94.231.192.213|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|115.187.30.171|1111|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|12|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|13|116.104.132.62|5020|Vietnam|Hanoi|Viettel Corporation|
-|14|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|15|103.48.68.30|83|India|Hyderabad|Country Online Services PVT LTD|
-|16|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|17|72.10.160.92|1059|Canada|Montreal|GloboTech Communications|
-|18|103.39.70.4|8181|Indonesia|Sambas|PT Gateway media Zafira|
-|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|4|157.15.44.105|7777|Indonesia|Kalibuntu|PT Sheep Network Teknologi|
+|5|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|10|103.156.17.153|1111|Indonesia|Indramayu|RSTNET|
+|11|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|13|111.1.61.54|3128|China|Wenzhou|China Mobile communications corporation|
+|14|191.103.219.225|48612|Colombia|Sincelejo|Edatel S.a. E.S.P|
+|15|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|16|116.104.132.62|5020|Vietnam|Hanoi|Viettel Corporation|
+|17|36.91.155.42|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|19|72.10.164.178|5315|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.170|21909|Canada|Montreal|GloboTech Communications|
 
 
 
