@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5340** proxies at the latest update. Usable proxies are below.
+> Scraper found **5339** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|239|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|238|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|591|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|417|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|101.255.167.174|8080|Indonesia|Bekasi|PT Remala Abadi|
-|3|103.81.222.136|8080|Indonesia|Bandung|STARNET|
-|4|62.176.27.228|3128|Russia|Chekhov|Rial Com JSC|
-|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|6|46.166.165.33|4058|Lithuania|Šiauliai|Cherry Servers|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|10|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
-|13|72.10.164.178|32901|Canada|Montreal|GloboTech Communications|
-|14|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|19|182.140.146.149|3128|China|Muping|CHINANET SiChuan Telecom Internet Data Center|
-|20|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|2|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|3|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|4|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|7|61.129.2.212|8080|China|Beijing|CHINANET|
+|8|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|116.104.174.238|5022|Vietnam|Hanoi|Viettel Corporation|
+|10|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|11|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|12|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|119.15.86.30|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|62.176.27.228|3128|Russia|Chekhov|Rial Com JSC|
+|16|103.69.20.115|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|17|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|18|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|19|115.74.246.138|8080|Vietnam|Quận Mười Một|VIETELxdsl|
+|20|61.129.2.212|8080|China|Beijing|CHINANET|
 
 
 
