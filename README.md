@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 |3|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|103.131.18.20|8080|Indonesia|Kudus|PT Global Media Data Prima|
+|4|62.23.184.85|8080|France|Paris|COLT Technology Services Group Limited|
 |5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|67.43.236.19|10207|Canada|Montreal|GloboTech Communications|
-|7|72.10.160.91|23215|Canada|Montreal|GloboTech Communications|
-|8|182.253.178.159|3128|Indonesia|Jakarta Pusat|BIZNET|
-|9|67.43.228.251|4123|Canada|Montreal|GloboTech Communications|
-|10|67.43.227.226|18913|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.251|4123|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.251|4123|Canada|Montreal|GloboTech Communications|
-|13|36.93.130.218|66|Indonesia|Pabuaran|Telekomunikasi Indonesia|
-|14|72.10.160.174|23559|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.170|26143|Canada|Montreal|GloboTech Communications|
-|16|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
-|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|18|72.10.160.90|27271|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.253|19473|Canada|Montreal|GloboTech Communications|
-|20|152.70.177.163|8118|Germany|Frankfurt am Main|Oracle Corporation|
+|6|67.43.228.251|4123|Canada|Montreal|GloboTech Communications|
+|7|72.10.160.170|21415|Canada|Montreal|GloboTech Communications|
+|8|72.10.160.94|2633|Canada|Montreal|GloboTech Communications|
+|9|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|67.43.228.253|17193|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.174|21415|Canada|Montreal|GloboTech Communications|
+|13|124.6.165.155|8082|Philippines|Lahug|INNOVE|
+|14|67.43.227.226|18913|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|28395|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|28395|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|28395|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|24451|Canada|Montreal|GloboTech Communications|
+|19|45.5.116.144|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
+|20|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
 
 
 
