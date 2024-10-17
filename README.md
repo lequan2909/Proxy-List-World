@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|75.25.159.161|3128|United States|San Francisco|AT&T Services, Inc.|
-|6|103.127.97.187|3128|Philippines|Lucban|PT Biznet Gio Nusantara|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|9|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|38.123.220.16|8080|Mexico|Ixtlahuaca de Rayón|Cogent Communications|
-|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|13|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|14|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|15|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|17|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|18|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|19|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|20|223.25.110.104|8090|Indonesia|Surabaya|SinergiNet|
+|2|178.48.68.61|18080|Hungary|Budapest|UPC|
+|3|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|4|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|6|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|8|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|9|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|10|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|11|72.10.164.178|33001|Canada|Montreal|GloboTech Communications|
+|12|94.231.192.212|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|185.116.236.104|3128|United States|New York|Massivegrid LTD|
+|14|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|72.10.164.178|33001|Canada|Montreal|GloboTech Communications|
+|17|72.10.164.178|33001|Canada|Montreal|GloboTech Communications|
+|18|49.146.220.233|8082|Philippines|Candelaria|Philippine Long Distance Telephone Co.|
+|19|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
+|20|72.10.164.178|33001|Canada|Montreal|GloboTech Communications|
 
 
 
