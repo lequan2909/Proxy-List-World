@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4832** proxies at the latest update. Usable proxies are below.
+> Scraper found **4921** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|208|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|515|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|604|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|330|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2853|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|1.4.198.150|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|5|116.104.129.202|5010|Vietnam|Hanoi|Viettel Corporation|
-|6|72.10.160.173|2391|Canada|Montreal|GloboTech Communications|
-|7|72.10.164.178|33009|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.92|21713|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|33009|Canada|Montreal|GloboTech Communications|
-|10|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|72.10.160.91|30869|Canada|Montreal|GloboTech Communications|
-|12|45.174.57.22|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
-|13|67.43.227.227|16703|Canada|Montreal|GloboTech Communications|
-|14|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|15|72.10.160.170|30151|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.172|15443|Canada|Montreal|GloboTech Communications|
-|17|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|152.172.65.178|999|Chile|Alto Hospicio|TELEFÓNICA CHILE S.A.|
-|20|67.43.236.20|20297|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|47.88.17.170|8118|United States|Minkler|Alibaba.com LLC|
+|3|1.4.198.150|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|4|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|6|36.67.99.31|7023|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|7|95.78.161.82|8080|Russia|Chelyabinsk|CJSC "ER-Telecom Holding" Chelyabinsk branch|
+|8|181.209.82.195|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|9|171.240.119.87|5101|Vietnam|Hanoi|Viettel Corporation|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|12|193.227.129.214|55160|United States|Bend|Tier.Net Technologies LLC|
+|13|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|14|67.43.228.253|26597|Canada|Montreal|GloboTech Communications|
+|15|67.43.227.227|1765|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|26597|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.227|1765|Canada|Montreal|GloboTech Communications|
+|18|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
+|19|37.187.109.70|10111|France|Gravelines|OVH SAS|
+|20|67.43.228.253|26597|Canada|Montreal|GloboTech Communications|
 
 
 
