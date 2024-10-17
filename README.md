@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|2|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|3|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|4|182.253.26.196|8080|Indonesia|Jakarta|BIZNET|
-|5|67.43.227.227|6029|Canada|Montreal|GloboTech Communications|
-|6|72.10.160.170|8337|Canada|Montreal|GloboTech Communications|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|209.200.246.243|9595|Canada|Toronto|Ipxo LLC|
-|9|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|10|72.10.164.178|26007|Canada|Montreal|GloboTech Communications|
-|11|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|12|72.10.164.178|26007|Canada|Montreal|GloboTech Communications|
-|13|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|2|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|3|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|4|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
+|5|72.10.160.170|30127|Canada|Montreal|GloboTech Communications|
+|6|209.200.246.243|9595|Canada|Toronto|Ipxo LLC|
+|7|180.88.111.187|3128|China|Beijing|GXBLnet|
+|8|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|11|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|13|67.43.227.227|23741|Canada|Montreal|GloboTech Communications|
 |14|72.10.160.90|8717|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|26007|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|4881|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|6029|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|26007|Canada|Montreal|GloboTech Communications|
-|19|195.116.24.237|8080|Poland|Kock|Orange Polska Spolka Akcyjna|
-|20|67.43.236.20|31315|Canada|Montreal|GloboTech Communications|
+|15|116.107.217.134|10070|Vietnam|Hải Dương|Viettel Corporation|
+|16|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|17|67.43.227.226|4245|Canada|Montreal|GloboTech Communications|
+|18|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|19|67.43.236.20|31315|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.93|25225|Canada|Montreal|GloboTech Communications|
 
 
 
