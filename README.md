@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|3|178.48.68.61|18080|Hungary|Budapest|UPC|
-|4|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|5|170.84.147.176|8088|Brazil|Magalhães de Almeida|Direct Telecom Ltda|
-|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|7|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|8|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|9|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|171.234.72.163|5014|Vietnam|Nam Sách|Viettel Corporation|
-|11|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|12|138.201.184.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|67.43.228.253|32889|Canada|Montreal|GloboTech Communications|
-|16|103.229.185.154|8080|Indonesia|Pamulang|PT INDONESIA COMNETS PLUS|
-|17|67.43.228.250|1115|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.170|23911|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.227|32395|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|32909|Canada|Montreal|GloboTech Communications|
+|1|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|41.216.186.146|8080|Indonesia|Purbalingga|FASTHOSTING|
+|4|181.57.171.254|8085|Colombia|Bogotá|Telmex Colombia S.A.|
+|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|6|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|7|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|9|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|10|88.198.39.240|10002|Germany|Nuremberg|Hetzner Online GmbH|
+|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|12|125.26.108.122|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|13|182.78.42.112|83|India|Manchikalapādu|Bharti Airtel|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|171.234.72.163|5014|Vietnam|Nam Sách|Viettel Corporation|
+|17|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|18|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|19|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|20|119.76.142.249|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
 
 
 
