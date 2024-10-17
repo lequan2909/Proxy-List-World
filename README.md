@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
 |2|34.97.65.59|8561|Japan|Osaka|Google LLC|
-|3|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 |4|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|7|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
-|8|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|9|36.82.192.186|3128|Indonesia|Balikpapan|PT. TELKOM INDONESIA|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|34.97.65.59|8561|Japan|Osaka|Google LLC|
-|13|34.97.190.56|8561|Japan|Osaka|Google LLC|
-|14|202.183.209.77|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|15|72.10.164.178|12599|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|10493|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|10493|Canada|Montreal|GloboTech Communications|
-|18|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|37.187.109.70|10111|France|Gravelines|OVH SAS|
+|5|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
+|6|23.19.73.223|3128|United States|Los Angeles|Leaseweb USA, Inc.|
+|7|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
+|8|223.206.190.63|8080|Thailand|Kanchanaburi|Triple T Broadband Public Company Limited|
+|9|103.156.75.40|8181|Indonesia|Gianyar|PT Trika Global Media|
+|10|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|11|144.86.187.45|3129|United States|Malden|Charles River Operation|
+|12|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|13|187.190.99.229|8080|Mexico|Valle de Santiago|Total Play Telecomunicaciones SA De CV|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|8.213.34.58|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|34.97.190.56|8561|Japan|Osaka|Google LLC|
 
 
 
