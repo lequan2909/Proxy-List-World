@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|178.48.68.61|18080|Hungary|Budapest|UPC|
-|3|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|4|177.93.48.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|72.10.164.178|10881|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.171|11775|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.171|11775|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.93|20577|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.172|6967|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|13279|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|28093|Canada|Montreal|GloboTech Communications|
-|14|222.65.214.176|9000|China|Shanghai|CHINANET-SH|
-|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|72.10.164.178|10881|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.254|23503|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|14.110.253.16|9000|China|Chongqing|Chinanet|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|3|178.48.68.61|18080|Hungary|Budapest|UPC|
+|4|120.28.139.63|8082|Philippines|Caloocan City|Globe Telecom|
+|5|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|72.10.164.178|5311|Canada|Montreal|GloboTech Communications|
+|7|72.10.160.171|24333|Canada|Montreal|GloboTech Communications|
+|8|187.103.105.22|8999|Brazil|Blumenau|BR.Digital Provider|
+|9|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|11|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|190.61.45.76|999|Colombia|Tangua|Ufinet Panama S.A.|
+|14|72.10.164.178|5311|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|5311|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|21773|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.254|10267|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|5311|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|7215|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|21773|Canada|Montreal|GloboTech Communications|
 
 
 
