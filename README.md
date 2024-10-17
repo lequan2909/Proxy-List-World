@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|4|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|6|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|7|45.70.236.192|999|Ecuador|Simón Bolívar|Ufinet Panama S.A.|
-|8|67.43.236.20|25495|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.170|14719|Canada|Montreal|GloboTech Communications|
-|10|103.13.204.24|8082|Indonesia|Kaborongan|PT JARINGANKU SARANA NUSANTARA|
-|11|72.10.160.171|6391|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.250|23605|Canada|Montreal|GloboTech Communications|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|72.10.160.91|2233|Canada|Montreal|GloboTech Communications|
-|15|191.85.45.207|999|Argentina|Claypole|Telefonica de Argentina|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|72.10.164.178|29609|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.253|24449|Canada|Montreal|GloboTech Communications|
-|19|103.69.20.99|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|20|171.228.169.167|10089|Vietnam|Hanoi|Viettel Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|4|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|5|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|8|45.174.57.26|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|9|103.127.97.187|3128|Philippines|Lucban|PT Biznet Gio Nusantara|
+|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|190.94.198.178|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|13|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|14|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|15|12.88.29.66|9080|United States|New Orleans|AT&T Services, Inc.|
+|16|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|17|12.88.29.66|9080|United States|New Orleans|AT&T Services, Inc.|
+|18|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|67.43.236.20|19819|Canada|Montreal|GloboTech Communications|
+|20|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
 
 
 
