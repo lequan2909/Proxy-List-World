@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|2|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|6|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|144.86.187.44|3129|United States|Malden|Charles River Operation|
-|9|194.124.36.254|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|10|191.102.248.1|8085|Argentina|Rosario|IP·RED|
-|11|103.156.201.170|83|India|Brahmapur|Reis Network Solutions|
-|12|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|163.172.33.137|4137|France|Vitry-sur-Seine|Online S.A.S.|
-|14|163.172.33.137|4137|France|Vitry-sur-Seine|Online S.A.S.|
-|15|188.132.221.21|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|190.137.228.140|8090|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|17|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|18|91.187.113.50|8080|Kosovo|Pristina|IPKO Telecommunications LLC|
-|19|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|20|103.229.185.154|8080|Indonesia|Pamulang|PT INDONESIA COMNETS PLUS|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|182.253.93.4|53281|Indonesia|Jakarta Pusat|BIZNET|
+|8|27.124.93.197|8080|Indonesia|Pamulang|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|10|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|11|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|175.137.10.254|8081|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|13|103.19.58.179|8082|Indonesia|Ngawi|BITSNET|
+|14|180.88.111.187|3128|China|Beijing|GXBLnet|
+|15|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|20|67.43.227.227|27209|Canada|Montreal|GloboTech Communications|
 
 
 
