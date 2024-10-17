@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|3|103.148.48.97|8080|Indonesia|Pontianak|BCMEDIA|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|46.166.165.33|4019|Lithuania|Šiauliai|Cherry Servers|
-|6|103.174.236.88|8080|Indonesia|Brebes|PT Global Erasiber Teknologi|
-|7|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|27.72.141.201|10065|Vietnam|Hanoi|Newass2011xDSLHN|
-|10|61.129.2.212|8080|China|Beijing|CHINANET|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|114.236.93.208|19088|China|Guangzhou|Chinanet|
-|13|67.43.236.20|20573|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.170|3349|Canada|Montreal|GloboTech Communications|
-|15|67.43.227.227|30303|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.226|2109|Canada|Montreal|GloboTech Communications|
-|17|51.158.173.222|3128|France|Paris|Online S.A.S.|
-|18|72.10.160.170|3349|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|20573|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.254|13897|Canada|Montreal|GloboTech Communications|
+|2|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|3|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|5|119.2.45.51|8080|Indonesia|Jakarta|PT. Laxo Global Akses|
+|6|178.48.68.61|18080|Hungary|Budapest|UPC|
+|7|72.10.160.91|16525|Canada|Montreal|GloboTech Communications|
+|8|8.213.34.58|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
+|9|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|10|115.74.246.138|8080|Vietnam|Quận Mười Một|VIETELxdsl|
+|11|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|12|72.10.160.90|31329|Canada|Montreal|GloboTech Communications|
+|13|212.110.188.216|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|14|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|139.255.67.212|8185|Indonesia|Jakarta|PT. LINKNET|
+|16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|72.10.160.171|26353|Canada|Montreal|GloboTech Communications|
+|20|112.198.132.3|8085|Philippines|Nasugbu|Globe Telecom|
 
 
 
