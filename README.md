@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|1|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|4|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|5|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
 |6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|8|52.169.235.202|3128|Ireland|Dublin|Microsoft Corporation|
-|9|5.9.21.152|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|72.10.164.178|8779|Canada|Montreal|GloboTech Communications|
-|11|67.43.228.252|17469|Canada|Montreal|GloboTech Communications|
-|12|67.43.228.253|1781|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.253|1781|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.226|7815|Canada|Montreal|GloboTech Communications|
-|15|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|16|72.10.160.91|24585|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|2749|Canada|Montreal|GloboTech Communications|
-|18|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|103.123.85.51|8080|Indonesia|Temanggung|PT Desane Sinar Media|
-|20|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|112.198.179.17|8082|Philippines|Carmona|Globe Telecom|
+|8|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|9|67.43.227.226|7815|Canada|Montreal|GloboTech Communications|
+|10|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|67.43.227.227|28703|Canada|Montreal|GloboTech Communications|
+|12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|16|103.19.58.179|8082|Indonesia|Ngawi|BITSNET|
+|17|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|18|109.199.114.176|3128|Germany|Düsseldorf|Contabo GmbH|
+|19|67.43.228.253|22847|Canada|Montreal|GloboTech Communications|
+|20|182.253.140.250|8080|Indonesia|Denpasar|Biznet Networks|
 
 
 
