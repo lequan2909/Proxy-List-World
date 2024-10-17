@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|1.1.226.191|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|1|1.4.198.150|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|2|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|3|193.233.84.94|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
+|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|6|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|72.10.160.170|14349|Canada|Montreal|GloboTech Communications|
-|9|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|10|72.10.164.178|9525|Canada|Montreal|GloboTech Communications|
-|11|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|72.10.164.178|9525|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|9525|Canada|Montreal|GloboTech Communications|
-|16|180.88.111.187|3128|China|Beijing|GXBLnet|
-|17|67.43.227.227|3485|Canada|Montreal|GloboTech Communications|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|20|192.46.229.19|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|6|200.35.50.89|3028|Colombia|Medellín|Edatel S.a. E.S.P|
+|7|152.32.64.43|8095|Philippines|Quezon City|Converge ICT Solution Inc|
+|8|190.83.15.21|999|Ecuador|Zamora Nuevo|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
+|9|72.10.164.178|14207|Canada|Montreal|GloboTech Communications|
+|10|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|11|103.147.118.240|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
+|12|180.88.111.187|3128|China|Beijing|GXBLnet|
+|13|45.70.203.116|999|Ecuador|Quito|Ufinet Panama S.A.|
+|14|72.10.164.178|14207|Canada|Montreal|GloboTech Communications|
+|15|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|16|72.10.160.93|15755|Canada|Montreal|GloboTech Communications|
+|17|103.69.20.55|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|18|192.46.229.19|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|20|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
 
 
 
