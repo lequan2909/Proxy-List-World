@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|125.130.14.57|9000|South Korea|Suwon|Korea Telecom|
-|3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|4|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
-|7|103.125.174.29|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|8|46.166.165.33|4058|Lithuania|Šiauliai|Cherry Servers|
+|1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|2|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
+|3|103.151.241.25|9000|Vietnam|Liên Chiểu|VSERVER|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|103.78.113.16|8080|Indonesia|Jakarta|MORATELINDO|
+|7|194.163.149.159|9001|Germany|Düsseldorf|Contabo GmbH|
+|8|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
 |9|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
-|10|41.216.186.201|8181|Indonesia|Purbalingga|FASTHOSTING|
-|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|12|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
-|13|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|72.10.160.170|3357|Canada|Montreal|GloboTech Communications|
-|17|116.104.133.0|5008|Vietnam|Hanoi|Viettel Corporation|
-|18|125.130.14.57|9000|South Korea|Suwon|Korea Telecom|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|72.10.164.178|2909|Canada|Montreal|GloboTech Communications|
+|10|125.130.14.57|9000|South Korea|Suwon|Korea Telecom|
+|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|12|223.206.10.94|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|14|103.125.174.29|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|203.176.129.85|8080|Cambodia|Phnom Penh|Angkor Data Communication|
+|18|103.165.155.67|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|19|125.130.14.57|9000|South Korea|Suwon|Korea Telecom|
+|20|72.10.160.170|32329|Canada|Montreal|GloboTech Communications|
 
 
 
