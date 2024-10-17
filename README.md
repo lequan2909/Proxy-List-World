@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5268** proxies at the latest update. Usable proxies are below.
+> Scraper found **5296** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|584|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|383|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3139|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3167|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|119.76.142.185|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
-|4|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|7|116.104.131.63|5012|Vietnam|Hanoi|Viettel Corporation|
-|8|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
-|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|15|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|46.209.15.187|8080|Iran|Tehran|ADSL Service in Kermanshah|
-|18|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|19|27.72.141.201|10047|Vietnam|Hanoi|Newass2011xDSLHN|
-|20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|3|103.148.130.231|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|4|77.41.146.46|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|5|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|193.38.224.169|8081|Spain|Madrid|Citelia s.a.|
+|9|103.67.237.214|3128|India|Hyderabad|OASISGSSERVICES|
+|10|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
+|14|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|15|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
+|16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|162.240.154.26|3128|United States|Provo|Unified Layer|
+|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|112.198.179.17|8082|Philippines|Carmona|Globe Telecom|
 
 
 
