@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|46.166.165.33|4019|Lithuania|Šiauliai|Cherry Servers|
-|7|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|11|182.253.86.96|8080|Indonesia|Jakarta|Biznet Gamers|
-|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|13|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|14|86.109.3.20|9401|United States|Chicago|Packet Host, Inc.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|72.10.160.171|28559|Canada|Montreal|GloboTech Communications|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|2|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|3|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|51.159.159.73|80|France|Paris|SCALEWAY|
+|6|162.240.154.26|3128|United States|Provo|Unified Layer|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
+|9|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|12|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|16|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|17|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|18|72.10.160.90|31407|Canada|Montreal|GloboTech Communications|
+|19|86.109.3.28|10046|United States|Chicago|Packet Host, Inc.|
+|20|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
