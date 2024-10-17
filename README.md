@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|3|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|4|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|8|116.212.140.118|8080|Cambodia|Phnom Penh|MekongNet|
-|9|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|12|152.172.65.178|999|Chile|Alto Hospicio|TELEFÓNICA CHILE S.A.|
-|13|189.150.202.128|999|Mexico|Tapachula|UNINET|
-|14|37.111.52.41|8080|Myanmar|Yangon|Telenor Myanmar|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|17|129.205.198.122|8080|Botswana|Gaborone|BOTSWANA FIBRE NETWORKS (Proprietary) Limited|
-|18|171.240.119.87|5101|Vietnam|Hanoi|Viettel Corporation|
-|19|37.32.11.117|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|20|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|2|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|3|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|5|152.172.65.178|999|Chile|Alto Hospicio|TELEFÓNICA CHILE S.A.|
+|6|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|7|188.132.221.52|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|8|45.70.203.107|999|Ecuador|Quito|Ufinet Panama S.A.|
+|9|103.166.158.201|8080|Indonesia|Bekasi|PT Timor Lintas Nusantara|
+|10|167.249.29.214|999|Chile|Santiago|Grupo Metrowan Telecom SPA|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|103.67.237.211|3128|India|Hyderabad|OASISGSSERVICES|
+|13|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|16|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|17|103.158.253.29|8382|Indonesia|Dukuhturi|Rapid Network|
+|18|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
+|19|115.147.20.37|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|20|181.188.238.148|999|Ecuador|Quito|Otecel S.A.|
 
 
 
