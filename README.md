@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|119.2.45.51|8080|Indonesia|Jakarta|PT. Laxo Global Akses|
-|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|7|103.48.70.161|83|India|Hyderabad|Country Online Services PVT LTD|
-|8|103.75.96.70|8080|Indonesia|Bandung|MORATELINDO|
-|9|91.241.21.237|9812|Iran|Bandar Abbas|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|2|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|5|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|10|103.113.149.245|6969|Bangladesh|Nayāpur|DigiCon Telecommunication Ltd|
 |11|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|103.30.115.154|8080|Timor-Leste|Dili|Telin Telkomcel TimorLeste|
+|12|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|61.129.2.212|8080|China|Beijing|CHINANET|
-|17|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|18|67.43.236.21|21651|Canada|Montreal|GloboTech Communications|
-|19|185.116.236.93|9595|United States|New York|Massivegrid LTD|
-|20|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|16|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|17|61.129.2.212|8080|China|Beijing|CHINANET|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
