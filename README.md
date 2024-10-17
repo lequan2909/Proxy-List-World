@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|3|38.183.184.34|999|Venezuela|Santa Teresa del Tuy|TRANSPORTE DE DATOS INTERKING, C.A.|
-|4|178.48.68.61|18080|Hungary|Budapest|UPC|
-|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|6|162.55.61.160|9001|Germany|Nuremberg|Hetzner Online GmbH|
-|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|8|62.74.173.146|8080|Greece|Salamina|Vodafone-panafon Hellenic Telecommunications Company SA|
-|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|10|72.10.160.90|25151|Canada|Montreal|GloboTech Communications|
-|11|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|12|182.253.26.196|8080|Indonesia|Jakarta|BIZNET|
-|13|72.10.160.170|1915|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|32009|Canada|Montreal|GloboTech Communications|
+|2|162.55.61.160|9001|Germany|Nuremberg|Hetzner Online GmbH|
+|3|178.48.68.61|18080|Hungary|Budapest|UPC|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|103.175.240.87|8080|Indonesia|Banyumas|LDP|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|46.166.165.33|4019|Lithuania|Šiauliai|Cherry Servers|
+|8|157.20.253.85|8080|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
+|9|103.190.171.37|1080|Indonesia|Jakarta|WMS|
+|10|38.183.184.34|999|Venezuela|Santa Teresa del Tuy|TRANSPORTE DE DATOS INTERKING, C.A.|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|13|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|14|67.43.236.20|17461|Canada|Montreal|GloboTech Communications|
 |15|162.55.61.160|9001|Germany|Nuremberg|Hetzner Online GmbH|
-|16|67.43.227.227|32009|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|13891|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|14645|Canada|Montreal|GloboTech Communications|
-|19|103.19.58.179|8082|Indonesia|Ngawi|BITSNET|
+|16|67.43.227.227|6377|Canada|Montreal|GloboTech Communications|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|72.10.160.170|28897|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|29623|Canada|Montreal|GloboTech Communications|
 |20|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
 
 
