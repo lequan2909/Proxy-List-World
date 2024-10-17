@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|38.9.48.214|8080|Dominican Republic|Santiago de los Caballeros|INVERSIONES BONAFER, SRL|
-|3|46.166.165.33|4019|Lithuania|Šiauliai|Cherry Servers|
-|4|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|5|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|171.245.117.135|5000|Vietnam|Thái Bình|Viettel Corporation|
-|8|72.10.160.90|5425|Canada|Montreal|GloboTech Communications|
-|9|72.10.160.170|28881|Canada|Montreal|GloboTech Communications|
-|10|67.43.236.20|28939|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.91|25945|Canada|Montreal|GloboTech Communications|
-|12|67.43.227.227|4233|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.174|12611|Canada|Montreal|GloboTech Communications|
-|14|119.2.45.51|8080|Indonesia|Jakarta|PT. Laxo Global Akses|
-|15|72.10.160.93|11951|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.19|32323|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.228|23877|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|21701|Canada|Montreal|GloboTech Communications|
-|19|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
-|20|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
+|2|46.166.165.33|4019|Lithuania|Šiauliai|Cherry Servers|
+|3|45.77.48.243|80|Australia|Sydney|The Constant Company|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|72.10.160.90|7733|Canada|Montreal|GloboTech Communications|
+|8|51.159.159.73|80|France|Paris|SCALEWAY|
+|9|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
+|10|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|11|67.43.227.228|23877|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|2029|Canada|Montreal|GloboTech Communications|
+|13|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|72.10.160.170|28881|Canada|Montreal|GloboTech Communications|
+|15|191.85.45.207|999|Argentina|Claypole|Telefonica de Argentina|
+|16|103.165.155.109|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|17|181.174.225.202|999|Peru|Lima|CHARACKWAVES CUSYPATA EXPORT/IMPORT S.A.C.|
+|18|72.10.160.93|18507|Canada|Montreal|GloboTech Communications|
+|19|180.88.111.187|3128|China|Beijing|GXBLnet|
+|20|171.224.88.80|10001|Vietnam|Hanoi|Viettel Corporation|
 
 
 
