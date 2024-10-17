@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|62.176.27.228|3128|Russia|Chekhov|Rial Com JSC|
-|4|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|5|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|6|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |7|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|9|109.123.229.224|4011|Japan|Tokyo|Contabo Asia Private Limited|
-|10|101.255.167.174|8080|Indonesia|Bekasi|PT Remala Abadi|
-|11|109.123.229.224|4011|Japan|Tokyo|Contabo Asia Private Limited|
-|12|46.166.165.33|4019|Lithuania|Šiauliai|Cherry Servers|
-|13|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|14|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|15|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|16|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|17|182.253.86.96|8080|Indonesia|Jakarta|Biznet Gamers|
-|18|67.43.227.227|6759|Canada|Montreal|GloboTech Communications|
-|19|38.183.146.181|8090|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|20|67.43.236.20|8599|Canada|Montreal|GloboTech Communications|
+|8|103.19.58.179|8082|Indonesia|Ngawi|BITSNET|
+|9|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|10|67.43.227.227|32679|Canada|Montreal|GloboTech Communications|
+|11|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|13|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
+|14|112.201.189.202|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
+|15|181.171.117.15|8080|Argentina|La Plata|Telecom Argentina S.A|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|109.123.229.224|4011|Japan|Tokyo|Contabo Asia Private Limited|
+|18|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|20|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
 
 
 
