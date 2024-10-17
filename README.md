@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |3|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
-|4|117.6.24.42|9001|Vietnam|Bắc Giang|Viettel Corporation|
-|5|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|103.174.238.233|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|9|97.107.142.56|8888|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|10|189.151.54.24|999|Mexico|Nogales|UNINET|
-|11|97.107.142.56|8888|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|13|200.125.168.56|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|14|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|15|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|16|103.125.174.29|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|18|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|19|103.160.182.159|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|20|125.130.14.57|9000|South Korea|Suwon|Korea Telecom|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
+|6|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|7|184.82.241.180|8080|Thailand|Phuket|AIS-Fibre|
+|8|222.127.246.81|8082|Philippines|Iloilo City|GLBB|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|103.169.131.50|8080|Indonesia|Pasuruan|PT Lancar Artha Media Data|
+|13|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|14|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|15|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
+|16|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
+|17|46.166.165.33|4058|Lithuania|Šiauliai|Cherry Servers|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|72.10.160.94|12035|Canada|Montreal|GloboTech Communications|
+|20|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
 
 
 
