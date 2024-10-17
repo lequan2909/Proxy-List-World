@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|5|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|6|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
-|7|49.48.68.135|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|165.154.134.114|3128|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|12|181.209.82.195|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|13|103.229.185.154|8080|Indonesia|Pamulang|PT INDONESIA COMNETS PLUS|
-|14|67.43.236.20|10495|Canada|Montreal|GloboTech Communications|
-|15|103.69.243.162|43826|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
-|16|67.43.236.20|10495|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|13537|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.172|29503|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|19327|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|16877|Canada|Montreal|GloboTech Communications|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|207.248.3.81|999|Chile|Rancagua|Grupo Metrowan Telecom SPA|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|103.217.224.27|8085|Indonesia|Gunung Kendil|PT Nesta Indo Media|
+|8|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|67.43.227.228|1431|Canada|Montreal|GloboTech Communications|
+|11|67.43.236.20|30779|Canada|Montreal|GloboTech Communications|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|103.69.20.115|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|14|45.5.117.168|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
+|15|67.43.236.20|30779|Canada|Montreal|GloboTech Communications|
+|16|191.85.45.207|999|Argentina|Claypole|Telefonica de Argentina|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|67.43.227.226|1049|Canada|Montreal|GloboTech Communications|
+|20|182.253.86.96|8080|Indonesia|Jakarta|Biznet Gamers|
 
 
 
