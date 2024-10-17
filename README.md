@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|5|189.124.85.77|33333|Brazil|Presidente Venceslau|FIT Telecom Eireli|
-|6|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|7|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|8|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|103.179.182.211|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|12|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
-|13|49.48.90.226|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|14|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|15|103.67.237.208|3128|India|Hyderabad|OASISGSSERVICES|
-|16|209.200.246.243|9595|Canada|Toronto|Ipxo LLC|
-|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|18|1.10.227.16|8080|Thailand|Damnoen Saduak|TOT Public Company Limited|
-|19|185.133.213.86|8074|Myanmar|Yangon|Global Technology Co|
-|20|165.255.57.84|8080|South Africa|Johannesburg|Afrihost (Pty) Ltd|
+|3|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|7|88.198.39.240|10002|Germany|Nuremberg|Hetzner Online GmbH|
+|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|9|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|67.43.236.20|33145|Canada|Montreal|GloboTech Communications|
+|11|72.10.164.178|31957|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.171|9431|Canada|Montreal|GloboTech Communications|
+|13|72.10.164.178|31957|Canada|Montreal|GloboTech Communications|
+|14|72.10.164.178|31957|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|31957|Canada|Montreal|GloboTech Communications|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|18|72.10.164.178|31957|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|6221|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|18657|Canada|Montreal|GloboTech Communications|
 
 
 
