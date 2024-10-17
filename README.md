@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|8|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|9|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|124.107.144.249|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|4|124.107.144.249|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|5|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|7|45.174.57.22|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|9|189.195.139.178|999|Mexico|Tangancícuaro de Arista|Mega Cable, S.A. de C.V.|
+|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|11|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|12|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
 |13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|14|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|15|162.240.154.26|3128|United States|Provo|Unified Layer|
-|16|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|17|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|18|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|19|67.43.228.250|20829|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.171|15995|Canada|Montreal|GloboTech Communications|
+|14|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|159.203.104.153|4550|United States|Clifton|DigitalOcean, LLC|
+|17|45.174.57.26|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|18|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|20|72.10.164.178|5927|Canada|Montreal|GloboTech Communications|
 
 
 
