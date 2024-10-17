@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|5|46.166.165.33|4019|Lithuania|Šiauliai|Cherry Servers|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|67.43.227.226|29671|Canada|Montreal|GloboTech Communications|
-|14|67.43.227.227|12169|Canada|Montreal|GloboTech Communications|
-|15|223.25.110.104|8090|Indonesia|Surabaya|SinergiNet|
-|16|67.43.228.253|29775|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.91|30359|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|4397|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.173|32509|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|13343|Canada|Montreal|GloboTech Communications|
+|1|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|2|43.156.64.100|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|4|46.166.165.33|4019|Lithuania|Šiauliai|Cherry Servers|
+|5|50.204.36.138|60808|United States|Sacramento|Comcast Cable Communications, LLC|
+|6|103.67.237.212|3128|India|Hyderabad|OASISGSSERVICES|
+|7|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|8|182.253.86.96|8080|Indonesia|Jakarta|Biznet Gamers|
+|9|177.128.212.190|8080|Brazil|Salvador|Softdados Telecomunicações|
+|10|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|11|72.10.160.90|28105|Canada|Montreal|GloboTech Communications|
+|12|125.130.14.57|9000|South Korea|Suwon|Korea Telecom|
+|13|85.117.60.163|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|14|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|157.230.89.122|18107|United States|North Bergen|DigitalOcean, LLC|
+|16|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|222.65.132.8|9001|China|Shanghai|CHINANET-SH|
+|18|67.43.227.227|14041|Canada|Montreal|GloboTech Communications|
+|19|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|20|67.43.236.20|9171|Canada|Montreal|GloboTech Communications|
 
 
 
