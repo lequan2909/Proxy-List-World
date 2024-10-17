@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|103.133.24.49|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
-|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|6|103.67.237.214|3128|India|Hyderabad|OASISGSSERVICES|
-|7|103.148.130.231|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|8|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|9|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|10|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
-|11|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
-|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|13|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
-|15|187.249.20.153|8081|Mexico|Apodaca|Transtelco Inc|
-|16|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|17|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|19|103.41.33.169|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|20|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|178.48.68.61|18080|Hungary|Budapest|UPC|
+|7|103.67.84.78|8085|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
+|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|9|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
+|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|13|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|46.166.165.33|4019|Lithuania|Šiauliai|Cherry Servers|
+|15|114.130.154.130|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|16|181.114.225.184|8080|Argentina|Mar del Plata|CyberWave S.A.|
+|17|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
