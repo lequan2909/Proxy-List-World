@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5451** proxies at the latest update. Usable proxies are below.
+> Scraper found **5251** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,16 +13,16 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
 |Source|Found Proxies|Succeed|
 |------|-------------|-------|
 |[free-proxy-list.net](https://free-proxy-list.net)|300|✅|
-|[us-proxy.org](https://www.us-proxy.org)|200|✅|
+|[us-proxy.org](https://www.us-proxy.org)|0|🚫|
 |[proxydb.net](http://proxydb.net)|0|🚫|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|5|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|11|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|13|159.203.104.153|4550|United States|Clifton|DigitalOcean, LLC|
-|14|179.32.62.127|999|Colombia|Medellín|Colombia Telecomunicaciones S.a. ESP|
-|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|16|103.217.224.36|3127|Indonesia|Gunung Kendil|PT Nesta Indo Media|
-|17|116.202.217.96|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|18|161.132.41.36|8080|Peru|San Isidro|Red Cientifica Peruana|
-|19|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|45.174.57.22|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|4|51.159.159.73|80|France|Paris|SCALEWAY|
+|5|103.189.250.65|8080|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
+|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|7|103.28.114.140|8090|Indonesia|Malang|PT Lintas Data Prima|
+|8|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|9|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|102.38.31.8|80|Libya|Tripoli|GZA|
+|12|72.10.164.178|23273|Canada|Montreal|GloboTech Communications|
+|13|103.247.12.18|1111|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
+|14|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|15|103.229.185.154|8080|Indonesia|Pamulang|PT INDONESIA COMNETS PLUS|
+|16|209.200.246.243|9595|Canada|Toronto|Ipxo LLC|
+|17|58.147.171.110|8085|Bangladesh|Dhaka|Aftab IT Limited|
+|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|19|188.125.169.100|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|67.43.227.227|1909|Canada|Montreal|GloboTech Communications|
 
 
 
