@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|103.159.194.97|8080|Indonesia|Rembang|PT Giga Digital Nusantara|
-|5|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|3.230.21.126|3128|United States|Ashburn|Amazon Technologies Inc.|
-|10|67.43.228.250|16887|Canada|Montreal|GloboTech Communications|
-|11|94.23.204.27|3128|France|Roubaix|OVH SAS|
-|12|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|13|67.43.227.227|26925|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|28441|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.253|28179|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|26925|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.94|8081|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|23497|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.251|4397|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.227|26925|Canada|Montreal|GloboTech Communications|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|4|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|8|103.211.107.230|8080|Indonesia|Lampung|PT Atmega Telecomindo Nusantara|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|201.20.67.70|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|11|72.10.164.178|6909|Canada|Montreal|GloboTech Communications|
+|12|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|13|36.67.114.94|8187|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|14|67.43.228.250|15175|Canada|Montreal|GloboTech Communications|
+|15|103.41.33.246|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|16|72.10.160.90|1895|Canada|Montreal|GloboTech Communications|
+|17|131.100.51.81|999|Colombia|Neiva|Fibernet TV SAS|
+|18|67.43.228.250|15175|Canada|Montreal|GloboTech Communications|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|103.168.254.219|1111|Indonesia|Kudus|PT Fahasa Tri Data|
 
 
 
