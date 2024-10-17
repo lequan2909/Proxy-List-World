@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
+|1|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|178.48.68.61|18080|Hungary|Budapest|UPC|
+|4|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|5|34.97.247.98|8561|Japan|Osaka|Google LLC|
 |6|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|176.105.199.153|8010|Ukraine|Vinnytsia|NPK Home-Net Ltd|
-|13|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|14|103.174.237.67|8080|Indonesia|Brebes|PT Global Erasiber Teknologi|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
-|18|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
-|20|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
+|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|9|119.76.142.185|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
+|10|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|11|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|13|77.41.146.46|8080|Russia|Moscow|OJSC Vimpelcom HQ|
+|14|31.43.52.216|41890|Ukraine|Kalynivka|Ukrainian Telecommunication Group LLC|
+|15|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|36.90.50.199|8080|Indonesia|Sidoarjo|PT. Telekomunikasi Indonesia|
+|20|203.150.128.250|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
 
 
 
