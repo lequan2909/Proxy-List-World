@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|125.26.122.164|8080|Thailand|Ban Na Nong|TOT Public Company Limited|
-|3|103.166.227.82|8085|Indonesia|Majalengka|PT Arta Flash Sintesa Nusantara|
-|4|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|5|61.129.2.212|8080|China|Beijing|CHINANET|
+|2|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|4|61.129.2.212|8080|China|Beijing|CHINANET|
+|5|46.166.165.33|4019|Lithuania|Šiauliai|Cherry Servers|
 |6|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|72.10.164.178|30957|Canada|Montreal|GloboTech Communications|
-|9|27.72.141.201|10008|Vietnam|Hanoi|Newass2011xDSLHN|
-|10|72.10.160.90|4785|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|4785|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|30957|Canada|Montreal|GloboTech Communications|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|16|72.10.160.91|5695|Canada|Montreal|GloboTech Communications|
-|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|18|72.10.160.90|4785|Canada|Montreal|GloboTech Communications|
-|19|177.11.190.84|8080|Brazil|Franca|Multpontos Telecomunicações Ltda - ME|
-|20|61.129.2.212|8080|China|Beijing|CHINANET|
+|7|165.255.94.29|8080|South Africa|Sandton|Afrihost (Pty) Ltd|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|72.10.164.178|27007|Canada|Montreal|GloboTech Communications|
+|12|72.10.164.178|27007|Canada|Montreal|GloboTech Communications|
+|13|175.106.10.227|7878|Indonesia|Jakarta|Quantum Dist POP GC|
+|14|72.10.160.91|16525|Canada|Montreal|GloboTech Communications|
+|15|115.74.246.138|8080|Vietnam|Quận Mười Một|VIETELxdsl|
+|16|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|17|103.75.96.70|8080|Indonesia|Bandung|MORATELINDO|
+|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|19|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|20|103.189.250.69|7777|Indonesia|Banyuwangi|PT Pandawa Lima Java Network|
 
 
 
