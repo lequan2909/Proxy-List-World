@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|178.48.68.61|18080|Hungary|Budapest|UPC|
-|4|49.146.220.233|8082|Philippines|Candelaria|Philippine Long Distance Telephone Co.|
-|5|41.173.7.82|8080|Uganda|Kampala|Liquid Telecommunications Ltd|
-|6|177.93.48.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|7|46.161.195.182|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|8|80.87.178.175|8080|Czechia|Valtice|Nordic Telecom Regional s.r.o.|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|103.149.194.58|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|72.10.160.90|16645|Canada|Montreal|GloboTech Communications|
-|16|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|72.10.164.178|9693|Canada|Montreal|GloboTech Communications|
-|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|19|67.43.227.226|2735|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|4071|Canada|Montreal|GloboTech Communications|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|116.202.217.96|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|58.136.169.237|8080|Thailand|Udon Thani|AIS-Fibre|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|125.26.10.191|8080|Thailand|Chatuchak|TOT Public Company Limited|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|49.146.220.233|8082|Philippines|Candelaria|Philippine Long Distance Telephone Co.|
+|14|177.93.48.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|15|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|16|49.0.3.173|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|17|103.166.158.33|8080|Indonesia|Bekasi|PT Timor Lintas Nusantara|
+|18|181.129.147.162|8080|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
+|19|119.82.240.61|6060|Indonesia|Surabaya|Indonesia Network Information Center|
+|20|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
