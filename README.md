@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|3|101.109.176.241|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|125.130.14.57|9000|South Korea|Suwon|Korea Telecom|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|46.166.165.33|4058|Lithuania|Šiauliai|Cherry Servers|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|67.43.228.253|3917|Canada|Montreal|GloboTech Communications|
-|10|18.228.26.166|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|11|38.41.5.85|999|Venezuela|Caracas|MDS TELECOM C.A.|
-|12|67.43.236.20|6673|Canada|Montreal|GloboTech Communications|
-|13|162.55.61.160|9001|Germany|Nuremberg|Hetzner Online GmbH|
-|14|72.10.160.90|14001|Canada|Montreal|GloboTech Communications|
-|15|67.43.228.250|33067|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|33067|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.253|3917|Canada|Montreal|GloboTech Communications|
-|18|162.229.228.112|8080|United States|Orange Park|AT&T Services, Inc.|
-|19|113.44.55.141|10000|China|Shanghai|Huawei Cloud Service data center|
-|20|67.43.227.228|25065|Canada|Montreal|GloboTech Communications|
+|2|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|3|103.151.241.25|9000|Vietnam|Liên Chiểu|VSERVER|
+|4|178.48.68.61|18080|Hungary|Budapest|UPC|
+|5|49.48.85.188|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|6|187.230.111.235|999|Mexico|Nogales|Uninet S.A. de C.V.|
+|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|8|177.93.48.43|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|45.189.252.233|999|Mexico|Tlalixcoyan|Tracered SA De CV|
+|11|162.55.61.160|9001|Germany|Nuremberg|Hetzner Online GmbH|
+|12|112.201.189.202|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|188.132.221.21|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|16|67.43.236.20|14645|Canada|Montreal|GloboTech Communications|
+|17|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|67.43.227.226|30181|Canada|Montreal|GloboTech Communications|
+|19|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|20|67.43.228.250|17159|Canada|Montreal|GloboTech Communications|
 
 
 
