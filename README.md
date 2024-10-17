@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|3|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|4|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|5|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|200.114.84.190|8080|Argentina|La Plata|Citarella S.A.|
+|5|103.165.157.167|8080|Indonesia|Pemalang|MEGADATA-ISP|
 |6|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|67.43.227.226|29901|Canada|Montreal|GloboTech Communications|
-|8|72.10.160.90|14923|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|14153|Canada|Montreal|GloboTech Communications|
-|10|67.43.228.251|16591|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.170|6063|Canada|Montreal|GloboTech Communications|
+|7|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|9|43.156.64.100|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|49.48.95.22|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|11|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |12|67.43.236.21|12711|Canada|Montreal|GloboTech Communications|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|180.88.111.187|3128|China|Beijing|GXBLnet|
-|15|72.10.160.174|28667|Canada|Montreal|GloboTech Communications|
-|16|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
+|13|67.43.228.251|16591|Canada|Montreal|GloboTech Communications|
+|14|118.173.81.237|8080|Thailand|Bang Kruai|TOT Public Company Limited|
+|15|103.139.126.230|8083|Indonesia|Indramayu|PT. MITRACOM SOLUSI TEKNOLOGI|
+|16|112.198.179.17|8082|Philippines|Carmona|Globe Telecom|
 |17|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|18|67.43.227.227|7313|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|4049|Canada|Montreal|GloboTech Communications|
+|18|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
