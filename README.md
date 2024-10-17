@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5185** proxies at the latest update. Usable proxies are below.
+> Scraper found **5137** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|199|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|822|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|198|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|692|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|426|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|509|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2812|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|178.48.68.61|18080|Hungary|Budapest|UPC|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|2|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|3|178.48.68.61|18080|Hungary|Budapest|UPC|
+|4|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |5|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|163.172.33.137|4137|France|Vitry-sur-Seine|Online S.A.S.|
-|8|103.171.240.139|8181|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
-|9|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|94.231.192.213|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|12|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|13|194.186.248.97|80|Russia|Krasnoyarsk|GOLDEN Telecom|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|16|149.86.137.72|8080|Turkey|Selçuklu|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|17|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|45.5.118.138|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
-|19|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|20|103.48.68.30|83|India|Hyderabad|Country Online Services PVT LTD|
+|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|148.72.165.7|10518|United States|St Louis|GoDaddy.com|
+|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|9|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|12|188.132.222.8|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|206.201.3.83|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|14|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|15|72.10.164.178|16867|Canada|Montreal|GloboTech Communications|
+|16|67.43.236.20|11495|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.20|11495|Canada|Montreal|GloboTech Communications|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|67.43.236.20|11495|Canada|Montreal|GloboTech Communications|
+|20|103.125.16.51|8080|Indonesia|Tangerang|JAVAMEDIA|
 
 
 
