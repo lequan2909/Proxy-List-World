@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5253** proxies at the latest update. Usable proxies are below.
+> Scraper found **5252** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|231|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|230|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|524|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|377|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|162.55.61.160|9000|Germany|Nuremberg|Hetzner Online GmbH|
-|3|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|4|171.241.45.8|5101|Vietnam|Hanoi|Viettel Corporation|
-|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|6|49.146.220.233|8082|Philippines|Candelaria|Philippine Long Distance Telephone Co.|
-|7|202.183.209.77|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|67.43.228.250|2009|Canada|Montreal|GloboTech Communications|
-|10|171.241.30.214|5102|Vietnam|Hanoi|Viettel Corporation|
-|11|67.43.227.228|6377|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|18983|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.252|17447|Canada|Montreal|GloboTech Communications|
-|14|103.78.75.91|8080|Indonesia|Gandul|ICONPLN|
-|15|67.43.227.228|6377|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|14373|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|12407|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|3903|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|18983|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|18983|Canada|Montreal|GloboTech Communications|
+|1|162.55.61.160|9000|Germany|Nuremberg|Hetzner Online GmbH|
+|2|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|103.153.62.246|8181|Indonesia|Weleri|IMEDIANET|
+|5|58.136.169.237|8080|Thailand|Udon Thani|AIS-Fibre|
+|6|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|7|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|103.190.171.37|1080|Indonesia|Jakarta|WMS|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|13|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|14|38.183.184.34|999|Venezuela|Santa Teresa del Tuy|TRANSPORTE DE DATOS INTERKING, C.A.|
+|15|72.10.164.178|33015|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.90|13009|Canada|Montreal|GloboTech Communications|
+|17|152.32.64.43|8095|Philippines|Quezon City|Converge ICT Solution Inc|
+|18|124.6.165.155|8082|Philippines|Lahug|INNOVE|
+|19|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|72.10.164.178|33015|Canada|Montreal|GloboTech Communications|
 
 
 
