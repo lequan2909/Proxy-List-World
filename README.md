@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|34.97.190.56|8561|Japan|Osaka|Google LLC|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
 |4|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|6|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|7|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|5|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|6|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|7|34.97.247.98|8561|Japan|Osaka|Google LLC|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
 |9|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|10|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|11|101.255.210.49|8080|Indonesia|Jakarta|PT Remala Abadi|
-|12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|46.166.165.33|4058|Lithuania|Šiauliai|Cherry Servers|
-|14|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|15|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|17|34.97.247.98|8561|Japan|Osaka|Google LLC|
-|18|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|19|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|20|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|20|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
 
 
 
