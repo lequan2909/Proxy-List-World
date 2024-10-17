@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|4|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|6|125.25.32.135|8080|Thailand|Bangkok|TOT Public Company Limited|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|103.115.20.5|8080|Indonesia|Subang|PMYNET|
-|9|179.57.170.143|999|Chile|Talca|Telefonica del Sur S.A.|
-|10|222.127.51.132|8082|Philippines|Lahug|INNOVE|
-|11|183.88.241.167|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|12|143.0.243.80|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
-|13|89.109.252.139|8081|Russia|Moscow|CTC-IPOE|
-|14|103.69.20.99|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|15|193.227.129.214|24947|United States|Bend|Tier.Net Technologies LLC|
-|16|67.43.228.253|10907|Canada|Montreal|GloboTech Communications|
-|17|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|18|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|19|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|20|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|3|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|190.61.55.138|999|Colombia|San Marcos|Ufinet Panama S.A.|
+|6|38.97.215.97|8080|United States|Denver|Cogent Communications|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
+|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|14|176.88.17.94|3128|Türkiye|Antalya|Superonline Iletisim Hizmetleri A.S.|
+|15|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|16|80.78.68.87|8080|Albania|Shkodër|ABCom Network|
+|17|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|18|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|19|176.110.121.90|21776|Russia|Moscow|Teraline Telecom Ltd|
+|20|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
 
 
 
