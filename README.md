@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.255.167.174|8080|Indonesia|Bekasi|PT Remala Abadi|
-|2|62.176.27.228|3128|Russia|Chekhov|Rial Com JSC|
-|3|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|8|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|12|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|14|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|15|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|18|103.19.58.179|8082|Indonesia|Ngawi|BITSNET|
-|19|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|20|72.10.164.178|29707|Canada|Montreal|GloboTech Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
+|11|38.41.5.85|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|12|72.10.164.178|31671|Canada|Montreal|GloboTech Communications|
+|13|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|116.202.217.96|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|15|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|62.176.27.228|3128|Russia|Chekhov|Rial Com JSC|
+|17|186.125.218.148|999|Argentina|Molinos|Telecom Argentina S.A.|
+|18|200.24.157.122|999|Ecuador|Cuenca|Ufinet Panama S.A.|
+|19|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
