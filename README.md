@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|61.7.191.19|8080|Thailand|Ao Nang|CAT Telecom Public Company Limited|
-|3|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|103.162.54.117|8080|Indonesia|Subang|PT Pratama Asia Globalindo|
-|6|103.166.8.226|1080|Indonesia|Karanganyar Wetankali|PT Akses Bersama Sedaya|
-|7|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|9|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|112.201.189.202|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
-|11|103.153.191.209|8080|Indonesia|Malang|WANET|
-|12|103.156.74.156|8083|Indonesia|Gianyar|PT Trika Global Media|
-|13|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
-|14|27.147.137.90|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
+|2|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|3|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|5|103.172.43.170|8080|Indonesia|Jakarta|PT Berkat Internet Perkasa|
+|6|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|9|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|10|103.151.246.54|7777|Indonesia|Bogor|MANAKARRANET|
+|11|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|36.91.155.42|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 |15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|17|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|18|72.10.160.90|1331|Canada|Montreal|GloboTech Communications|
-|19|119.82.240.61|6060|Indonesia|Surabaya|Indonesia Network Information Center|
-|20|190.94.212.221|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|16|1.10.227.16|8080|Thailand|Damnoen Saduak|TOT Public Company Limited|
+|17|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|18|181.171.117.15|8080|Argentina|La Plata|Telecom Argentina S.A|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
 
 
 
