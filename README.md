@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5111** proxies at the latest update. Usable proxies are below.
+> Scraper found **5057** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|235|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|530|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|476|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|281|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3139|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|46.166.165.33|4019|Lithuania|Šiauliai|Cherry Servers|
-|3|45.77.48.243|80|Australia|Sydney|The Constant Company|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|72.10.160.90|7733|Canada|Montreal|GloboTech Communications|
-|8|51.159.159.73|80|France|Paris|SCALEWAY|
-|9|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
-|10|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|11|67.43.227.228|23877|Canada|Montreal|GloboTech Communications|
-|12|72.10.164.178|2029|Canada|Montreal|GloboTech Communications|
-|13|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|14|72.10.160.170|28881|Canada|Montreal|GloboTech Communications|
-|15|191.85.45.207|999|Argentina|Claypole|Telefonica de Argentina|
-|16|103.165.155.109|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|17|181.174.225.202|999|Peru|Lima|CHARACKWAVES CUSYPATA EXPORT/IMPORT S.A.C.|
-|18|72.10.160.93|18507|Canada|Montreal|GloboTech Communications|
-|19|180.88.111.187|3128|China|Beijing|GXBLnet|
-|20|171.224.88.80|10001|Vietnam|Hanoi|Viettel Corporation|
+|2|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|3|165.255.94.29|8080|South Africa|Sandton|Afrihost (Pty) Ltd|
+|4|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|5|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|8|116.99.228.70|30123|Vietnam|Hanoi|Viettel Corporation|
+|9|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|8.213.34.58|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
+|11|1.1.226.191|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|72.10.160.172|11077|Canada|Montreal|GloboTech Communications|
+|14|67.43.228.253|1153|Canada|Montreal|GloboTech Communications|
+|15|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
+|16|67.43.227.226|21741|Canada|Montreal|GloboTech Communications|
+|17|103.189.96.196|8085|Indonesia|Temanggung|Lintas Data Prima, PT|
+|18|72.10.160.90|27519|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|24821|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.90|27519|Canada|Montreal|GloboTech Communications|
 
 
 
