@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|125.24.59.106|8080|Thailand|Si Satchanalai|TOT Public Company Limited|
 |2|181.78.17.25|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|3|188.125.169.67|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|4|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|103.151.241.25|9000|Vietnam|Liên Chiểu|VSERVER|
-|6|72.10.160.90|8987|Canada|Montreal|GloboTech Communications|
-|7|72.10.160.94|23571|Canada|Montreal|GloboTech Communications|
-|8|171.228.145.140|10089|Vietnam|Vĩnh Tường|Viettel Corporation|
-|9|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|72.10.160.90|8987|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.91|2283|Canada|Montreal|GloboTech Communications|
-|12|124.6.165.155|8082|Philippines|Lahug|INNOVE|
-|13|182.253.86.96|8080|Indonesia|Jakarta|Biznet Gamers|
-|14|72.10.164.178|29935|Canada|Montreal|GloboTech Communications|
-|15|188.72.43.129|47193|Iraq|Darkar|Pirmam For Information Technology Ltd|
-|16|67.43.227.228|2131|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|116.104.133.0|5008|Vietnam|Hanoi|Viettel Corporation|
-|19|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|20|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|3|89.46.249.248|25585|United Kingdom|London|Hydra Communications Ltd|
+|4|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|5|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|178.48.68.61|18080|Hungary|Budapest|UPC|
+|7|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|8|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|9|36.93.68.47|41890|Indonesia|South Tangerang|Telekomunikasi Indonesia|
+|10|182.140.146.149|3128|China|Muping|CHINANET SiChuan Telecom Internet Data Center|
+|11|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
+|12|210.79.146.82|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|13|173.249.60.246|14344|Germany|Nuremberg|Contabo GmbH|
+|14|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|15|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|17|191.85.45.207|999|Argentina|Claypole|Telefonica de Argentina|
+|18|72.10.160.171|3231|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.228|2131|Canada|Montreal|GloboTech Communications|
+|20|103.245.16.35|8080|Indonesia|Depok|PT Quantum Tera Network|
 
 
 
