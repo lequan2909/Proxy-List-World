@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|1|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
+|4|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |6|203.111.253.106|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
-|7|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|11|203.150.128.182|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|7|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|8|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|9|72.10.160.92|10523|Canada|Montreal|GloboTech Communications|
+|10|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |12|72.10.160.171|1413|Canada|Montreal|GloboTech Communications|
-|13|95.85.93.128|3128|United States|Manassas|G-Core Labs S.A.|
-|14|72.10.164.178|11243|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.174|12321|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|11243|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.250|11097|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.21|27521|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|11097|Canada|Montreal|GloboTech Communications|
-|20|181.171.117.15|8080|Argentina|La Plata|Telecom Argentina S.A|
+|13|191.85.45.207|999|Argentina|Claypole|Telefonica de Argentina|
+|14|112.201.189.202|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
+|15|67.43.236.21|27521|Canada|Montreal|GloboTech Communications|
+|16|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|17|103.242.104.149|8181|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|18|103.147.73.50|7777|Indonesia|Kediri|ALFATINDO|
+|19|185.65.254.161|8081|Iraq|Abu Ghraib|IZONE|
+|20|67.43.228.250|15585|Canada|Montreal|GloboTech Communications|
 
 
 
