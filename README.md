@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|5|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|6|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|7|103.67.237.211|3128|India|Hyderabad|OASISGSSERVICES|
-|8|171.228.137.54|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|9|94.231.192.213|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|10|144.86.187.38|3129|United States|Malden|Charles River Operation|
-|11|36.93.8.34|11000|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|12|129.222.202.169|80|Colombia|Bogota|SpaceX Starlink|
-|13|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|17|72.10.164.178|7717|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|4483|Canada|Montreal|GloboTech Communications|
-|19|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|20|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|2|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|3|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|4|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|6|36.88.170.170|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|7|129.222.202.169|80|Colombia|Bogota|SpaceX Starlink|
+|8|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|9|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|10|61.216.156.222|60808|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|103.190.171.155|1111|Indonesia|Jakarta|WMS|
+|13|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|14|191.103.219.225|48612|Colombia|Sincelejo|Edatel S.a. E.S.P|
+|15|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
+|16|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|17|138.118.106.121|999|Guatemala|Guatemala City|ONNO NETWORKS, SOCIEDAD ANÓNIMA|
+|18|72.10.160.93|32659|Canada|Montreal|GloboTech Communications|
+|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|20|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
 
 
 
