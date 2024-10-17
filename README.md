@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|178.48.68.61|18080|Hungary|Budapest|UPC|
-|4|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|5|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|7|95.47.127.50|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|8|103.127.97.187|3128|Philippines|Lucban|PT Biznet Gio Nusantara|
-|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|10|179.189.50.160|80|Brazil|Sinop|Avato Tecnologia S.A|
-|11|187.63.156.92|999|Dominican Republic|Santo Domingo Este|Derivalnet Y Comunicaciones SRL|
-|12|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
-|14|103.242.104.149|8181|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|15|67.43.227.226|1327|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.90|12195|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|30635|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.174|27817|Canada|Montreal|GloboTech Communications|
-|19|185.116.236.104|3128|United States|New York|Massivegrid LTD|
-|20|72.10.160.92|13939|Canada|Montreal|GloboTech Communications|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|4|157.66.85.32|8080|Indonesia|Ponorogo|PT. Menaksopal Link Nusantara|
+|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|6|45.70.236.192|999|Ecuador|Simón Bolívar|Ufinet Panama S.A.|
+|7|190.94.198.178|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|9|163.172.33.137|4137|France|Vitry-sur-Seine|Online S.A.S.|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|12|148.72.165.7|30118|United States|St Louis|GoDaddy.com|
+|13|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
+|14|72.10.160.90|30475|Canada|Montreal|GloboTech Communications|
+|15|182.53.252.6|8080|Thailand|Chachoengsao|TOT Public Company Limited|
+|16|67.43.236.20|20039|Canada|Montreal|GloboTech Communications|
+|17|67.43.227.229|2989|Canada|Montreal|GloboTech Communications|
+|18|185.116.236.104|3128|United States|New York|Massivegrid LTD|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
