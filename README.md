@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5101** proxies at the latest update. Usable proxies are below.
+> Scraper found **5164** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|725|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|437|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2812|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2875|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|3|91.187.113.50|8080|Kosovo|Pristina|IPKO Telecommunications LLC|
-|4|124.158.186.254|8080|Indonesia|Bogor|PT Jala Lintas Media|
-|5|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
-|6|182.253.140.250|8080|Indonesia|Denpasar|Biznet Networks|
-|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|72.10.160.173|27813|Canada|Montreal|GloboTech Communications|
-|9|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|112.198.179.17|8082|Philippines|Carmona|Globe Telecom|
-|11|67.43.228.252|27799|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.19|13359|Canada|Montreal|GloboTech Communications|
-|13|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|14|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|15|72.10.160.94|8321|Canada|Montreal|GloboTech Communications|
-|16|36.93.8.34|11000|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|17|188.125.169.39|9999|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
-|19|103.69.20.115|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|20|67.43.228.253|19343|Canada|Montreal|GloboTech Communications|
+|2|119.252.167.130|41890|Indonesia|Bekasi|PT Indonesia Comnets Plus|
+|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|5|200.39.120.44|999|Mexico|Asientos|Marcatel Com, S.A. de C.V.|
+|6|37.120.192.154|8080|The Netherlands|Amsterdam|M247 Europe SRL|
+|7|186.96.96.134|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|8|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|9|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|27.72.141.201|10087|Vietnam|Hanoi|Newass2011xDSLHN|
+|11|202.183.209.77|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|12|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
+|16|72.10.164.178|3177|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.252|27799|Canada|Montreal|GloboTech Communications|
+|18|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|20|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
 
 
 
