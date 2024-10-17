@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.87.148.40|1111|Indonesia|Demak|Lintas Data Prima, PT|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|5|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|103.165.155.129|1111|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|7|144.86.187.45|3129|United States|Malden|Charles River Operation|
-|8|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|9|72.10.160.171|8723|Canada|Montreal|GloboTech Communications|
-|10|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|11|72.10.160.170|5085|Canada|Montreal|GloboTech Communications|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|152.32.64.43|8095|Philippines|Quezon City|Converge ICT Solution Inc|
-|15|72.10.160.174|33101|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|5085|Canada|Montreal|GloboTech Communications|
-|17|45.224.149.15|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|18|72.10.160.172|16897|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.229|16037|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.20|14845|Canada|Montreal|GloboTech Communications|
+|2|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|3|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|7|67.43.236.20|5339|Canada|Montreal|GloboTech Communications|
+|8|103.19.58.179|8082|Indonesia|Ngawi|BITSNET|
+|9|72.10.160.90|32907|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.174|24409|Canada|Montreal|GloboTech Communications|
+|11|67.43.227.229|16037|Canada|Montreal|GloboTech Communications|
+|12|72.10.160.170|14845|Canada|Montreal|GloboTech Communications|
+|13|58.136.169.194|8080|Thailand|Udon Thani|AIS-Fibre|
+|14|116.202.217.96|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|15|72.10.160.172|16897|Canada|Montreal|GloboTech Communications|
+|16|72.10.164.178|22711|Canada|Montreal|GloboTech Communications|
+|17|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|209.200.246.243|9595|Canada|Toronto|Ipxo LLC|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
 
 
 
