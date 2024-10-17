@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
-|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|5|188.132.221.52|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|6|152.172.65.178|999|Chile|Alto Hospicio|TELEFÓNICA CHILE S.A.|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|9|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|10|103.67.237.208|3128|India|Hyderabad|OASISGSSERVICES|
-|11|45.70.203.107|999|Ecuador|Quito|Ufinet Panama S.A.|
-|12|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|13|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|14|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|15|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
-|16|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|17|165.255.57.84|8080|South Africa|Johannesburg|Afrihost (Pty) Ltd|
-|18|181.204.21.122|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
-|19|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|20|38.188.127.86|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|2|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|3|171.224.88.80|10008|Vietnam|Hanoi|Viettel Corporation|
+|4|171.228.119.39|10089|Vietnam|Hợp Hòa|Viettel Corporation|
+|5|163.172.33.137|4137|France|Vitry-sur-Seine|Online S.A.S.|
+|6|178.48.68.61|18080|Hungary|Budapest|UPC|
+|7|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|8|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|10|103.105.81.38|8082|Indonesia|Karanggan|Biznet Networks|
+|11|189.89.188.14|2020|Brazil|Salvador|ITS TELECOMUNICACOES LTDA|
+|12|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|13|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|14|152.172.65.178|999|Chile|Alto Hospicio|TELEFÓNICA CHILE S.A.|
+|15|188.93.107.29|8080|Russia|Moscow|RASNET|
+|16|103.247.23.181|1111|Indonesia|Cileungsir|PT wifian Solution|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|67.43.227.227|6495|Canada|Montreal|GloboTech Communications|
 
 
 
