@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|3|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
+|2|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
+|4|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc.|
 |5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|103.160.182.137|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|7|103.174.236.88|8080|Indonesia|Brebes|PT Global Erasiber Teknologi|
-|8|131.0.235.10|55555|Argentina|Villa José León Suárez|MUSURIT|
-|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|10|46.166.165.33|4019|Lithuania|Šiauliai|Cherry Servers|
-|11|45.189.252.242|999|Mexico|Tlalixcoyan|Tracered SA De CV|
-|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|14|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|112.201.189.202|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|19|103.19.58.179|8082|Indonesia|Ngawi|BITSNET|
-|20|72.10.160.174|17181|Canada|Montreal|GloboTech Communications|
+|6|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|8|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|9|45.174.57.22|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|12|152.172.65.178|999|Chile|Alto Hospicio|TELEFÓNICA CHILE S.A.|
+|13|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|14|103.177.177.249|8080|Indonesia|Jakarta|PT Milenial Inti Telekomunikasi|
+|15|37.16.29.249|3128|United States|Chicago|Fly.io, Inc.|
+|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|17|103.167.170.196|8080|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|18|171.240.119.87|5101|Vietnam|Hanoi|Viettel Corporation|
+|19|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|20|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 
 
 
