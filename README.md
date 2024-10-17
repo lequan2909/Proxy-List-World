@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.168.254.162|8086|Indonesia|Kudus|PT Fahasa Tri Data|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|7|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|8|88.198.39.240|10002|Germany|Nuremberg|Hetzner Online GmbH|
-|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|10|103.244.207.113|8080|Indonesia|Tangerang|PT. Web Data Solusindo|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|161.132.41.36|8080|Peru|San Isidro|Red Cientifica Peruana|
-|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|116.102.104.66|10001|Vietnam|Bà Rịa|Viettel Corporation|
-|16|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|17|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|18|181.74.80.52|999|Chile|Limache|Telmex Servicios Empresariales S.A.|
-|19|36.91.155.42|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|20|3.230.21.126|3128|United States|Ashburn|Amazon Technologies Inc.|
+|2|45.174.57.22|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|144.86.187.39|3129|United States|Malden|Charles River Operation|
+|5|200.94.102.11|999|Mexico|Macuspana|Alestra, S. de R.L. de C.V.|
+|6|173.249.60.246|14344|Germany|Nuremberg|Contabo GmbH|
+|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|8|177.93.37.36|999|Colombia|Puerto Asís|TV AZTECA SUCURSAL COLOMBIA|
+|9|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|191.102.248.3|8085|Argentina|Rosario|IP·RED|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|103.168.254.162|8086|Indonesia|Kudus|PT Fahasa Tri Data|
+|14|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|15|209.200.246.243|9595|Canada|Toronto|Ipxo LLC|
+|16|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|17|124.105.99.230|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|18|67.43.227.227|1475|Canada|Montreal|GloboTech Communications|
+|19|185.221.152.148|3128|Russia|Moscow|RUWEB|
+|20|67.43.227.227|1475|Canada|Montreal|GloboTech Communications|
 
 
 
