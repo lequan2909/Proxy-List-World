@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.167.170.196|8080|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|3|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|4|202.152.142.186|8080|Indonesia|Yogyakarta|PT Jembatan Citra Nusantara|
-|5|103.177.177.249|8080|Indonesia|Jakarta|PT Milenial Inti Telekomunikasi|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|72.10.160.171|24437|Canada|Montreal|GloboTech Communications|
-|10|72.10.160.171|24437|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.171|24437|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.173|31025|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.173|31025|Canada|Montreal|GloboTech Communications|
-|14|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
-|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|16|67.43.227.228|32755|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.173|31025|Canada|Montreal|GloboTech Communications|
-|18|188.227.140.181|8080|Spain|Madrid|Aire Networks Del Mediterraneo SL Unipersonal|
-|19|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
-|20|72.10.160.92|25953|Canada|Montreal|GloboTech Communications|
+|1|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|125.26.122.164|8080|Thailand|Ban Na Nong|TOT Public Company Limited|
+|5|103.69.20.100|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|6|45.77.48.243|80|Australia|Sydney|The Constant Company|
+|7|112.198.132.3|8085|Philippines|Nasugbu|Globe Telecom|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|11|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|12|114.240.228.68|8989|China|Beijing|China Unicom Beijing Province Network|
+|13|45.8.146.203|1080|United States|Secaucus|Stark Industries Solutions LTD|
+|14|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
+|15|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|16|123.112.210.180|9000|China|Beijing|China Unicom Beijing Province Network|
+|17|72.10.160.171|24437|Canada|Montreal|GloboTech Communications|
+|18|61.129.2.212|8080|China|Beijing|CHINANET|
+|19|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
