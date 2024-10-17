@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|3|97.107.142.56|8888|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|4|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|8|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|9|109.123.229.224|4011|Japan|Tokyo|Contabo Asia Private Limited|
-|10|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|14|67.43.228.250|4049|Canada|Montreal|GloboTech Communications|
-|15|97.107.142.56|8888|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|72.10.160.172|31057|Canada|Montreal|GloboTech Communications|
-|18|103.165.157.79|8090|Indonesia|Pemalang|MEGADATA-ISP|
-|19|67.43.236.20|13129|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|3169|Canada|Montreal|GloboTech Communications|
+|3|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|4|43.156.64.100|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|46.166.165.33|4019|Lithuania|Šiauliai|Cherry Servers|
+|6|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|7|97.107.142.56|8888|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|8|97.107.142.56|8888|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|9|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|107.189.8.240|8080|Luxembourg|Luxembourg|FranTech Solutions|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|67.43.236.21|21451|Canada|Montreal|GloboTech Communications|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|97.107.142.56|8888|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|17|191.85.45.207|999|Argentina|Claypole|Telefonica de Argentina|
+|18|109.123.229.224|4011|Japan|Tokyo|Contabo Asia Private Limited|
+|19|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|20|46.98.240.115|50001|Ukraine|Dnipro|ISP "Fregat"|
 
 
 
