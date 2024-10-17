@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
-|3|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|4|162.240.154.26|3128|United States|Provo|Unified Layer|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|101.255.167.174|8080|Indonesia|Bekasi|PT Remala Abadi|
-|7|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|8|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
-|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|14|112.198.179.17|8082|Philippines|Carmona|Globe Telecom|
-|15|178.167.167.194|9002|Ireland|Dublin|ROI Subs|
-|16|46.166.165.33|4019|Lithuania|Šiauliai|Cherry Servers|
-|17|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|18|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|116.104.129.147|5020|Vietnam|Hanoi|Viettel Corporation|
+|2|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|7|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|8|116.104.174.238|5022|Vietnam|Hanoi|Viettel Corporation|
+|9|46.166.165.33|4019|Lithuania|Šiauliai|Cherry Servers|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|12|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
+|13|101.255.167.174|8080|Indonesia|Bekasi|PT Remala Abadi|
+|14|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|182.253.178.159|8080|Indonesia|Jakarta Pusat|BIZNET|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
