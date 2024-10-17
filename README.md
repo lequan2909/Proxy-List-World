@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.150.113.145|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|3|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|6|171.228.137.54|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|7|103.171.240.139|8181|Indonesia|Cirebon|PT Abs Multimedia Indonesia|
-|8|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|9|124.106.228.30|8080|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|10|103.67.237.214|3128|India|Hyderabad|OASISGSSERVICES|
-|11|138.118.106.121|999|Guatemala|Guatemala City|ONNO NETWORKS, SOCIEDAD ANÓNIMA|
-|12|163.172.33.137|4137|France|Vitry-sur-Seine|Online S.A.S.|
-|13|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
-|14|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|15|72.10.160.90|3363|Canada|Montreal|GloboTech Communications|
+|2|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|116.202.217.96|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|203.150.113.145|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|6|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|7|144.86.187.38|3129|United States|Malden|Charles River Operation|
+|8|185.138.120.109|8080|Iraq|Baghdad|Horizon ISP|
+|9|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|12|190.61.45.76|999|Colombia|Tangua|Ufinet Panama S.A.|
+|13|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|14|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|15|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |16|209.200.246.243|9595|Canada|Toronto|Ipxo LLC|
-|17|72.10.160.94|11467|Canada|Montreal|GloboTech Communications|
-|18|171.228.137.54|10089|Vietnam|Vĩnh Yên|Viettel Corporation|
-|19|67.43.236.20|20461|Canada|Montreal|GloboTech Communications|
-|20|185.65.254.161|8081|Iraq|Abu Ghraib|IZONE|
+|17|129.222.202.169|80|Colombia|Bogota|SpaceX Starlink|
+|18|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|19|67.43.236.20|23629|Canada|Montreal|GloboTech Communications|
+|20|180.88.111.187|3128|China|Beijing|GXBLnet|
 
 
 
