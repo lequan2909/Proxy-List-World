@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|203.150.128.106|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
 |3|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|163.172.33.137|4137|France|Vitry-sur-Seine|Online S.A.S.|
-|5|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|7|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|8|103.84.176.45|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|9|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|10|103.69.20.99|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|11|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|89.46.249.252|5080|United Kingdom|London|Hydra Communications Ltd|
-|14|188.125.169.237|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|103.67.237.214|3128|India|Hyderabad|OASISGSSERVICES|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|175.137.10.254|8081|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|6|125.25.32.135|8080|Thailand|Bangkok|TOT Public Company Limited|
+|7|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|8|103.83.178.222|8080|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|9|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|84.255.35.210|9898|Malta|Msida|Melita plc|
+|11|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|12|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|13|179.57.170.143|999|Chile|Talca|Telefonica del Sur S.A.|
+|14|194.124.36.254|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|119.252.167.130|41890|Indonesia|Bekasi|PT Indonesia Comnets Plus|
 |16|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|17|72.10.164.178|2789|Canada|Montreal|GloboTech Communications|
-|18|129.222.202.169|80|Colombia|Bogota|SpaceX Starlink|
-|19|72.10.164.178|2789|Canada|Montreal|GloboTech Communications|
-|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|181.78.95.30|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|19|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|20|103.217.216.12|1111|Indonesia|Bekasi|PT. Infotama Lintas Global|
 
 
 
