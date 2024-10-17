@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.151.241.25|9000|Vietnam|Liên Chiểu|VSERVER|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|3|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
-|4|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
-|5|171.7.37.186|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|103.174.238.233|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
-|8|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
-|9|194.163.149.159|9001|Germany|Düsseldorf|Contabo GmbH|
-|10|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|11|46.166.165.33|4019|Lithuania|Šiauliai|Cherry Servers|
-|12|46.161.195.133|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|13|207.246.121.0|9000|United States|Piscataway|Choopa|
-|14|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|15|223.206.10.94|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|16|207.246.121.0|9000|United States|Piscataway|Choopa|
-|17|144.86.187.40|3129|United States|Malden|Charles River Operation|
-|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|19|97.107.142.56|8888|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|20|97.107.142.56|8888|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|171.7.37.186|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|5|223.206.10.94|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|8|43.156.64.100|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
+|10|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
+|11|1.20.141.213|8080|Thailand|Samut Sakhon|TOT Public Company Limited|
+|12|1.4.250.172|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|13|103.234.26.113|8080|Bangladesh|Kāfrul|BTS Communications (BD) Ltd|
+|14|163.172.33.137|4137|France|Vitry-sur-Seine|Online S.A.S.|
+|15|200.125.168.56|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|16|103.165.157.167|8080|Indonesia|Pemalang|MEGADATA-ISP|
+|17|154.38.187.187|3128|United States|Orangeburg|Nubes, LLC|
+|18|103.176.96.230|8082|Indonesia|Karawang|PT Global Sarana Elektronika|
+|19|50.204.36.138|60808|United States|Sacramento|Comcast Cable Communications, LLC|
+|20|103.41.35.162|58080|India|Mumbai|Juweriyah Networks Private Limited|
 
 
 
