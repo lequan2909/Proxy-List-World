@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|163.172.33.137|4137|France|Vitry-sur-Seine|Online S.A.S.|
-|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|4|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|7|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|11|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|14|72.10.164.178|5387|Canada|Montreal|GloboTech Communications|
-|15|36.91.155.42|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|16|3.230.21.126|3128|United States|Ashburn|Amazon Technologies Inc.|
-|17|67.43.236.20|15677|Canada|Montreal|GloboTech Communications|
-|18|36.93.217.223|8080|Indonesia|Bogor|Telekomunikasi Indonesia|
-|19|72.10.160.90|8765|Canada|Montreal|GloboTech Communications|
-|20|45.174.57.26|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|3|178.48.68.61|18080|Hungary|Budapest|UPC|
+|4|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
+|5|103.127.97.187|3128|Philippines|Lucban|PT Biznet Gio Nusantara|
+|6|118.163.13.200|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|7|102.220.142.193|8080|Libya|Tripoli|BSISP Network|
+|8|200.110.209.16|9080|Argentina|Quilmes|CSCOM|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|222.108.214.168|8080|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|12|45.174.57.26|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|13|202.183.209.77|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|14|67.43.236.20|3319|Canada|Montreal|GloboTech Communications|
+|15|72.10.160.173|13263|Canada|Montreal|GloboTech Communications|
+|16|67.43.227.227|30455|Canada|Montreal|GloboTech Communications|
+|17|103.106.115.46|8080|Indonesia|Kedaton|SMSNET|
+|18|72.10.160.91|27475|Canada|Montreal|GloboTech Communications|
+|19|58.147.186.226|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
+|20|72.10.160.90|8765|Canada|Montreal|GloboTech Communications|
 
 
 
