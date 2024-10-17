@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|125.26.122.164|8080|Thailand|Ban Na Nong|TOT Public Company Limited|
-|3|103.67.237.219|3128|India|Hyderabad|OASISGSSERVICES|
-|4|200.106.124.90|999|Peru|Tacna|Telefonica del Peru|
-|5|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
-|8|67.43.227.230|21973|Canada|Montreal|GloboTech Communications|
-|9|72.10.164.178|17799|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|17799|Canada|Montreal|GloboTech Communications|
-|11|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|72.10.164.178|17799|Canada|Montreal|GloboTech Communications|
-|13|106.110.182.170|1080|China|Shanghai|Chinanet|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|67.43.236.20|5851|Canada|Montreal|GloboTech Communications|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|37.211.87.135|8080|Qatar|Doha|Ooredoo Q.S.C|
-|18|72.10.160.170|30409|Canada|Montreal|GloboTech Communications|
-|19|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|20|67.43.227.228|2847|Canada|Montreal|GloboTech Communications|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|72.10.164.178|26103|Canada|Montreal|GloboTech Communications|
+|9|43.156.64.100|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|72.10.164.178|26103|Canada|Montreal|GloboTech Communications|
+|11|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|12|178.167.167.194|9002|Ireland|Dublin|ROI Subs|
+|13|190.61.40.190|999|Colombia|Bogotá|Ufinet Panama S.A.|
+|14|103.106.218.219|8080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|17|103.147.246.188|8080|Indonesia|Tangerang|PLBNET|
+|18|162.240.154.26|3128|United States|Provo|Unified Layer|
+|19|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|20|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
 
 
 
