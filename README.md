@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|3|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|103.172.17.51|8080|Indonesia|Ciamis|PT Media Access Telematika|
-|6|201.20.118.146|27234|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|7|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|8|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|9|176.110.121.90|21776|Russia|Moscow|Teraline Telecom Ltd|
-|10|38.156.72.59|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|12|125.25.32.135|8080|Thailand|Bangkok|TOT Public Company Limited|
-|13|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|14|119.148.23.242|8000|Bangladesh|Dhaka|Agni Systems Limited|
-|15|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
-|16|178.207.11.148|3129|Russia|Naberezhnyye Chelny|TATTELECOM|
-|17|112.201.189.202|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
-|18|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|19|117.4.50.142|32650|Vietnam|Ha Long|VIETTEL|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|14.224.147.249|8080|Vietnam|Hanoi|VNPT|
+|4|103.184.54.62|3128|Indonesia|Jember|PT Proxi Jaringan Nusantara|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|8|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|12|159.192.227.210|8080|Thailand|Bangkok|CAT-BB|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
+|15|45.188.76.130|999|Mexico|Jalapa|ONT NETWORKS SA de CV|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|179.57.170.143|999|Chile|Talca|Telefonica del Sur S.A.|
+|18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|19|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|20|67.43.227.226|32177|Canada|Montreal|GloboTech Communications|
 
 
 
