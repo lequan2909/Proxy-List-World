@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|5|152.172.65.178|999|Chile|Alto Hospicio|TELEFÓNICA CHILE S.A.|
-|6|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|94.231.192.213|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|9|103.174.236.96|8080|Indonesia|Brebes|PT Global Erasiber Teknologi|
-|10|102.0.12.224|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|11|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|12|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|13|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|14|49.48.90.226|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|15|96.9.74.91|8080|Cambodia|Phnom Penh|S.I Group|
-|16|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|17|171.228.119.39|10089|Vietnam|Hợp Hòa|Viettel Corporation|
-|18|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
-|19|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|20|103.69.20.115|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|3|178.48.68.61|18080|Hungary|Budapest|UPC|
+|4|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|9|103.239.253.66|8080|Bangladesh|Dhaka|Carnival Internet|
+|10|182.253.178.159|8080|Indonesia|Jakarta Pusat|BIZNET|
+|11|38.188.127.86|8080|Indonesia|Blitar|PT Data Buana Nusantara|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|152.172.65.178|999|Chile|Alto Hospicio|TELEFÓNICA CHILE S.A.|
+|15|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
+|16|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|17|72.10.160.171|20279|Canada|Montreal|GloboTech Communications|
+|18|185.133.213.86|8074|Myanmar|Yangon|Global Technology Co|
+|19|36.93.8.34|11000|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|20|157.15.44.105|7777|Indonesia|Kalibuntu|PT Sheep Network Teknologi|
 
 
 
