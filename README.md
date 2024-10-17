@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|2|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|3|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|4|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
-|5|72.10.160.170|30127|Canada|Montreal|GloboTech Communications|
-|6|209.200.246.243|9595|Canada|Toronto|Ipxo LLC|
-|7|180.88.111.187|3128|China|Beijing|GXBLnet|
-|8|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|11|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|13|67.43.227.227|23741|Canada|Montreal|GloboTech Communications|
-|14|72.10.160.90|8717|Canada|Montreal|GloboTech Communications|
-|15|116.107.217.134|10070|Vietnam|Hải Dương|Viettel Corporation|
-|16|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|17|67.43.227.226|4245|Canada|Montreal|GloboTech Communications|
-|18|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|19|67.43.236.20|31315|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.93|25225|Canada|Montreal|GloboTech Communications|
+|1|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|2|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|3|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|6|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|7|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|67.43.228.251|3009|Canada|Montreal|GloboTech Communications|
+|11|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
+|12|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|13|72.10.160.91|28589|Canada|Montreal|GloboTech Communications|
+|14|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|46.226.164.41|3128|Sweden|Stockholm|Aeza International LTD|
+|16|67.43.236.20|23629|Canada|Montreal|GloboTech Communications|
+|17|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|18|72.10.164.178|6047|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|21771|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.174|12783|Canada|Montreal|GloboTech Communications|
 
 
 
