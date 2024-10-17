@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5288** proxies at the latest update. Usable proxies are below.
+> Scraper found **5270** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|239|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|573|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|555|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|383|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3167|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|52.67.137.145|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|3|178.48.68.61|18080|Hungary|Budapest|UPC|
-|4|46.166.165.33|4019|Lithuania|Šiauliai|Cherry Servers|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|95.170.219.13|8085|Iraq|Erbil|Allay Nawroz Telecom Company for Communication/Ltd.|
-|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|14|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
-|17|61.129.2.212|8080|China|Beijing|CHINANET|
-|18|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|2|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|5|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|49.48.95.22|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|10|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|11|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
+|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|13|46.252.35.91|8080|Albania|Tirana|Vodafone Albania Sh.A.|
+|14|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|15|200.10.30.217|8083|Colombia|La Virginia|Super Redes S.A.S|
+|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|17|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|19|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|20|103.229.185.154|8080|Indonesia|Pamulang|PT INDONESIA COMNETS PLUS|
 
 
 
