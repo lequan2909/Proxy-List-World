@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|3|144.86.187.42|3129|United States|Malden|Charles River Operation|
-|4|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|82.64.186.155|8080|France|Paris|Proxad / Free SAS|
-|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|8|103.124.196.134|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|194.124.36.250|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|12|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|13|72.10.160.170|5345|Canada|Montreal|GloboTech Communications|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|67.43.227.227|1813|Canada|Montreal|GloboTech Communications|
-|16|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
-|17|72.10.160.94|13631|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.18|31897|Canada|Montreal|GloboTech Communications|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|67.43.228.250|5097|Canada|Montreal|GloboTech Communications|
+|3|95.78.161.82|8080|Russia|Chelyabinsk|CJSC "ER-Telecom Holding" Chelyabinsk branch|
+|4|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|72.10.160.170|23865|Canada|Montreal|GloboTech Communications|
+|8|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|9|41.254.48.66|1976|Libya|Tripoli|LTT Network Backbone and POPs|
+|10|72.10.160.171|5295|Canada|Montreal|GloboTech Communications|
+|11|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|12|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|103.48.68.68|83|India|Hyderabad|Country Online Services PVT LTD|
+|14|182.140.146.149|3128|China|Muping|CHINANET SiChuan Telecom Internet Data Center|
+|15|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|16|181.114.224.37|8080|Argentina|Mar del Plata|CyberWave S.A.|
+|17|67.43.236.20|23709|Canada|Montreal|GloboTech Communications|
+|18|183.88.241.167|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|67.43.227.228|1431|Canada|Montreal|GloboTech Communications|
 
 
 
