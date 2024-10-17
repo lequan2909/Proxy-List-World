@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
-|4|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|6|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|67.43.227.226|24099|Canada|Montreal|GloboTech Communications|
+|1|23.19.73.223|3128|United States|Los Angeles|Leaseweb USA, Inc.|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|36.82.192.186|3128|Indonesia|Balikpapan|PT. TELKOM INDONESIA|
+|4|125.24.59.106|8080|Thailand|Si Satchanalai|TOT Public Company Limited|
+|5|46.166.165.33|4019|Lithuania|Šiauliai|Cherry Servers|
+|6|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
 |10|72.10.164.178|25755|Canada|Montreal|GloboTech Communications|
-|11|72.10.164.178|25755|Canada|Montreal|GloboTech Communications|
-|12|65.108.250.159|80|Finland|Helsinki|Hetzner Online GmbH|
-|13|72.10.160.170|13963|Canada|Montreal|GloboTech Communications|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|16|72.10.160.170|13963|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|28645|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|25755|Canada|Montreal|GloboTech Communications|
-|19|8.213.34.58|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
-|20|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|72.10.160.170|5207|Canada|Montreal|GloboTech Communications|
+|13|67.43.227.228|30937|Canada|Montreal|GloboTech Communications|
+|14|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|16|103.229.185.154|8080|Indonesia|Pamulang|PT INDONESIA COMNETS PLUS|
+|17|72.10.160.174|16901|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.227|23075|Canada|Montreal|GloboTech Communications|
+|19|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|67.43.228.252|2323|Canada|Montreal|GloboTech Communications|
 
 
 
