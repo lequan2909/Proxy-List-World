@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|3|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|3|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
 |4|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|8.213.34.58|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
-|6|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|7|177.130.52.104|8080|Brazil|Itaituba|Wsp Serviços de Telecomunicações Ltda|
-|8|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
-|9|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|13|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|36.67.114.94|8187|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|15|72.10.160.93|1447|Canada|Montreal|GloboTech Communications|
+|5|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|6|223.206.190.63|8080|Thailand|Kanchanaburi|Triple T Broadband Public Company Limited|
+|7|13.126.79.133|3128|India|Mumbai|Amazon Technologies Inc.|
+|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|9|210.61.207.92|80|Taiwan|Kaohsiung|Chunghwa Telecom Co., Ltd.|
+|10|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|180.180.87.186|8080|Thailand|Rayong|TOT Public Company Limited|
+|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|15|107.189.8.240|8080|Luxembourg|Luxembourg|FranTech Solutions|
 |16|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|17|61.129.2.212|8080|China|Beijing|CHINANET|
-|18|72.10.160.90|2025|Canada|Montreal|GloboTech Communications|
+|17|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 |19|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|20|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
