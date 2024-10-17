@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|3|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|144.86.187.49|3129|United States|Malden|Charles River Operation|
-|7|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|8|49.48.68.135|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|9|177.93.36.74|3128|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|194.44.36.114|6868|Ukraine|Brody|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
-|12|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|14|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|15|200.35.50.89|3028|Colombia|Medellín|Edatel S.a. E.S.P|
-|16|183.88.241.167|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|51.158.173.222|3128|France|Paris|Online S.A.S.|
-|19|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|20|45.174.57.22|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|5|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|6|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|7|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|9|103.69.243.162|43826|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
+|10|144.86.187.47|3129|United States|Malden|Charles River Operation|
+|11|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|13|112.201.189.202|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
+|14|45.174.57.22|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|15|67.43.236.20|29977|Canada|Montreal|GloboTech Communications|
+|16|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|17|157.90.6.20|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|18|79.116.70.55|8118|Spain|Alcobendas|Digi Spain Telecom S.L.U.|
+|19|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
