@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|5|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
-|6|47.88.17.170|8118|United States|Minkler|Alibaba.com LLC|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|10|103.124.196.134|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|72.10.160.91|26459|Canada|Montreal|GloboTech Communications|
-|13|67.43.236.20|22159|Canada|Montreal|GloboTech Communications|
-|14|61.129.2.212|8080|China|Beijing|CHINANET|
-|15|67.43.227.227|11571|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|13493|Canada|Montreal|GloboTech Communications|
-|17|67.43.236.20|22159|Canada|Montreal|GloboTech Communications|
-|18|67.43.236.20|22159|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.174|16279|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|9207|Canada|Montreal|GloboTech Communications|
+|2|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|3|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|4|178.48.68.61|18080|Hungary|Budapest|UPC|
+|5|207.248.3.81|999|Chile|Rancagua|Grupo Metrowan Telecom SPA|
+|6|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|7|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|8|103.107.182.16|25512|Vietnam|Thanh Xuân|PEGA|
+|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|10|75.128.125.149|8080|United States|Portage|Charter Communications|
+|11|148.72.140.24|30127|United States|St Louis|GoDaddy.com|
+|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|15|67.43.236.20|10543|Canada|Montreal|GloboTech Communications|
+|16|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|17|67.43.236.20|10543|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.18|15215|Canada|Montreal|GloboTech Communications|
+|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|20|111.1.61.50|3128|China|Wenzhou|China Mobile communications corporation|
 
 
 
