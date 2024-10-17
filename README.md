@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4797** proxies at the latest update. Usable proxies are below.
+> Scraper found **4832** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|207|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|481|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|208|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|515|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|330|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2853|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.4.198.150|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|2|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|3|193.233.84.94|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
-|4|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|6|200.35.50.89|3028|Colombia|Medellín|Edatel S.a. E.S.P|
-|7|152.32.64.43|8095|Philippines|Quezon City|Converge ICT Solution Inc|
-|8|190.83.15.21|999|Ecuador|Zamora Nuevo|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
-|9|72.10.164.178|14207|Canada|Montreal|GloboTech Communications|
-|10|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|11|103.147.118.240|8080|Indonesia|Semarang|PT.Bestcamp Prima Data|
-|12|180.88.111.187|3128|China|Beijing|GXBLnet|
-|13|45.70.203.116|999|Ecuador|Quito|Ufinet Panama S.A.|
-|14|72.10.164.178|14207|Canada|Montreal|GloboTech Communications|
-|15|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|16|72.10.160.93|15755|Canada|Montreal|GloboTech Communications|
-|17|103.69.20.55|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|18|192.46.229.19|3128|Singapore|Singapore|Akamai Technologies, Inc.|
-|19|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|20|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|1.4.198.150|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|5|116.104.129.202|5010|Vietnam|Hanoi|Viettel Corporation|
+|6|72.10.160.173|2391|Canada|Montreal|GloboTech Communications|
+|7|72.10.164.178|33009|Canada|Montreal|GloboTech Communications|
+|8|72.10.160.92|21713|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|33009|Canada|Montreal|GloboTech Communications|
+|10|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|72.10.160.91|30869|Canada|Montreal|GloboTech Communications|
+|12|45.174.57.22|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
+|13|67.43.227.227|16703|Canada|Montreal|GloboTech Communications|
+|14|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|15|72.10.160.170|30151|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.172|15443|Canada|Montreal|GloboTech Communications|
+|17|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|19|152.172.65.178|999|Chile|Alto Hospicio|TELEFÓNICA CHILE S.A.|
+|20|67.43.236.20|20297|Canada|Montreal|GloboTech Communications|
 
 
 
