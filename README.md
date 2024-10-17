@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|46.166.165.33|4019|Lithuania|Šiauliai|Cherry Servers|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|45.81.144.13|8080|Iraq|Baghdad|Fact LTD|
-|8|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
-|9|67.43.236.20|18661|Canada|Montreal|GloboTech Communications|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|72.10.164.178|6469|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.20|18661|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.227|6811|Canada|Montreal|GloboTech Communications|
-|14|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|15|67.43.227.226|8609|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.91|26041|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|6811|Canada|Montreal|GloboTech Communications|
-|18|185.116.236.104|3128|United States|New York|Massivegrid LTD|
-|19|67.43.227.228|19591|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.18|5005|Canada|Montreal|GloboTech Communications|
+|2|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
+|6|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
+|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|8|45.70.236.194|999|Ecuador|Simón Bolívar|Ufinet Panama S.A.|
+|9|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|46.166.165.33|4019|Lithuania|Šiauliai|Cherry Servers|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
+|14|180.88.111.187|3128|China|Beijing|GXBLnet|
+|15|185.116.236.104|3128|United States|New York|Massivegrid LTD|
+|16|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|17|67.43.236.18|5005|Canada|Montreal|GloboTech Communications|
+|18|67.43.228.251|15233|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|16735|Canada|Montreal|GloboTech Communications|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
