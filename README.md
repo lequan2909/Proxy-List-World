@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5045** proxies at the latest update. Usable proxies are below.
+> Scraper found **5077** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|201|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|606|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|638|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|437|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2875|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|2|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|3|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 |4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|190.61.55.138|999|Colombia|San Marcos|Ufinet Panama S.A.|
-|6|38.97.215.97|8080|United States|Denver|Cogent Communications|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
-|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|14|176.88.17.94|3128|Türkiye|Antalya|Superonline Iletisim Hizmetleri A.S.|
-|15|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|16|80.78.68.87|8080|Albania|Shkodër|ABCom Network|
-|17|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|18|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
-|19|176.110.121.90|21776|Russia|Moscow|Teraline Telecom Ltd|
-|20|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|5|103.172.17.51|8080|Indonesia|Ciamis|PT Media Access Telematika|
+|6|201.20.118.146|27234|Brazil|Juazeiro do Norte|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|7|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|8|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|9|176.110.121.90|21776|Russia|Moscow|Teraline Telecom Ltd|
+|10|38.156.72.59|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|125.25.32.135|8080|Thailand|Bangkok|TOT Public Company Limited|
+|13|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|14|119.148.23.242|8000|Bangladesh|Dhaka|Agni Systems Limited|
+|15|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
+|16|178.207.11.148|3129|Russia|Naberezhnyye Chelny|TATTELECOM|
+|17|112.201.189.202|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
+|18|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|19|117.4.50.142|32650|Vietnam|Ha Long|VIETTEL|
+|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 
 
 
