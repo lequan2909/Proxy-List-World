@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.150.113.145|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|3|124.243.133.226|80|Singapore|Singapore|Huawei International Pte. Ltd.|
-|4|211.20.17.194|8080|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
-|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|6|116.202.217.96|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|7|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
-|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|9|163.172.33.137|4137|France|Vitry-sur-Seine|Online S.A.S.|
-|10|185.41.41.12|3128|Russia|Engel's|maxcomtel|
-|11|36.95.249.157|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|212.110.188.189|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|15|109.123.229.224|4011|Japan|Tokyo|Contabo Asia Private Limited|
-|16|176.110.121.90|21776|Russia|Moscow|Teraline Telecom Ltd|
-|17|67.43.227.227|25765|Canada|Montreal|GloboTech Communications|
-|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|19|67.43.236.19|15609|Canada|Montreal|GloboTech Communications|
-|20|194.68.171.247|3128|Sweden|Uppsala|Obenetwork AB|
+|2|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|3|203.150.113.145|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|4|165.22.98.229|32153|Singapore|Singapore|DigitalOcean, LLC|
+|5|163.172.33.137|4137|France|Vitry-sur-Seine|Online S.A.S.|
+|6|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|7|110.39.161.62|8080|Pakistan|Renala Khurd|Wateen Telecom Limited|
+|8|96.9.74.91|8080|Cambodia|Phnom Penh|S.I Group|
+|9|129.222.202.169|80|Colombia|Bogota|SpaceX Starlink|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|183.88.241.167|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|14|105.21.72.38|8080|Uganda|Kampala|SEACOM Limited Networks|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|103.69.20.115|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|17|72.10.160.90|8857|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.94|26771|Canada|Montreal|GloboTech Communications|
+|19|72.10.164.178|13109|Canada|Montreal|GloboTech Communications|
+|20|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
 
 
 
