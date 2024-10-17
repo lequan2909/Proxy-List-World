@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|4|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|5|103.228.246.151|7070|Indonesia|Ponorogo|PT Giga Patra Multimedia|
-|6|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|11|116.202.217.96|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|12|161.34.40.110|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|67.43.227.229|13821|Canada|Montreal|GloboTech Communications|
-|15|209.200.246.243|9595|Canada|Toronto|Ipxo LLC|
-|16|72.10.160.173|12431|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|1909|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|167.249.29.215|999|Chile|Santiago|Grupo Metrowan Telecom SPA|
+|3|103.217.216.183|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|4|144.86.187.59|3129|United States|Malden|Charles River Operation|
+|5|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|6|103.244.207.113|8080|Indonesia|Tangerang|PT. Web Data Solusindo|
+|7|144.86.187.51|3129|United States|Malden|Charles River Operation|
+|8|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|9|193.123.106.173|3128|Brazil|Vinhedo|Oracle Corporation|
+|10|85.209.195.77|8080|United States|Los Angeles|Stark Industries Solutions LTD|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|103.109.59.179|9080|Bangladesh|Feni|HelloTech Limited|
+|14|75.25.159.161|3128|United States|San Francisco|AT&T Services, Inc.|
+|15|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
+|16|212.110.188.220|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|17|175.106.10.227|7878|Indonesia|Jakarta|Quantum Dist POP GC|
+|18|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|19|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|20|173.249.60.246|14344|Germany|Nuremberg|Contabo GmbH|
 
 
 
