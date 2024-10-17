@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|10|34.97.247.98|8561|Japan|Osaka|Google LLC|
-|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|12|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|13|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|15|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|203.150.128.250|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|17|101.128.93.144|8090|Indonesia|Jakarta|CBN|
-|18|67.43.227.226|7035|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|30505|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.94|16647|Canada|Montreal|GloboTech Communications|
+|2|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|3|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|4|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|5|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|8|45.32.244.63|80|Australia|Sydney|Choopa|
+|9|187.249.20.153|8081|Mexico|Apodaca|Transtelco Inc|
+|10|67.43.227.226|32619|Canada|Montreal|GloboTech Communications|
+|11|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|72.10.160.90|28645|Canada|Montreal|GloboTech Communications|
+|13|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
+|14|51.159.159.73|80|France|Paris|SCALEWAY|
+|15|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|16|61.143.36.242|9001|China|Guangzhou|Chinanet|
+|17|72.10.164.178|2223|Canada|Montreal|GloboTech Communications|
+|18|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|19|72.10.160.93|21157|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|2223|Canada|Montreal|GloboTech Communications|
 
 
 
