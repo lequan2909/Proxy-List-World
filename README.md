@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.114|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|125.24.59.106|8080|Thailand|Si Satchanalai|TOT Public Company Limited|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|121.101.133.220|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
-|11|189.124.85.225|7171|Brazil|Presidente Venceslau|FIT Telecom Eireli|
-|12|103.69.20.115|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|13|162.240.154.26|3128|United States|Provo|Unified Layer|
-|14|67.43.228.250|8869|Canada|Montreal|GloboTech Communications|
-|15|129.222.110.39|999|Mexico|Mexico City|SpaceX Starlink|
-|16|148.153.56.51|80|United States|Los Angeles|CDS Global Cloud Co., Ltd|
-|17|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|18|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|67.43.227.229|2989|Canada|Montreal|GloboTech Communications|
-|20|103.59.44.33|2022|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|3|36.82.192.186|3128|Indonesia|Balikpapan|PT. TELKOM INDONESIA|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|36.89.212.253|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|6|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|7|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|181.78.73.73|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|12|182.253.86.96|8080|Indonesia|Jakarta|Biznet Gamers|
+|13|103.69.20.115|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|38.41.5.85|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|18|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|19|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
