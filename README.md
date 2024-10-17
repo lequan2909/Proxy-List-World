@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|3|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|49.48.95.22|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|10|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|11|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|12|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|13|46.252.35.91|8080|Albania|Tirana|Vodafone Albania Sh.A.|
-|14|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|15|200.10.30.217|8083|Colombia|La Virginia|Super Redes S.A.S|
-|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|17|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|20|103.229.185.154|8080|Indonesia|Pamulang|PT INDONESIA COMNETS PLUS|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|178.48.68.61|18080|Hungary|Budapest|UPC|
+|4|46.166.165.33|4058|Lithuania|Šiauliai|Cherry Servers|
+|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|6|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|7|103.75.96.142|1111|Indonesia|Bandung|MORATELINDO|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|10|180.88.111.187|3128|China|Beijing|GXBLnet|
+|11|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|182.253.86.96|8080|Indonesia|Jakarta|Biznet Gamers|
+|14|162.240.154.26|3128|United States|Provo|Unified Layer|
+|15|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|16|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|17|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|18|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|19|72.10.164.178|30897|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
