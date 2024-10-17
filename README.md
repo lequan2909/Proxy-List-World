@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|103.78.113.16|8080|Indonesia|Jakarta|MORATELINDO|
-|5|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|6|152.32.68.171|65535|Philippines|Quezon City|Converge ICT Solution Inc|
-|7|103.125.174.29|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
-|8|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|200.114.84.190|8080|Argentina|La Plata|Citarella S.A.|
-|10|125.130.14.57|9000|South Korea|Suwon|Korea Telecom|
-|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|12|67.43.227.227|11407|Canada|Montreal|GloboTech Communications|
-|13|67.43.227.226|4819|Canada|Montreal|GloboTech Communications|
-|14|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|15|61.143.36.242|9001|China|Guangzhou|Chinanet|
-|16|67.43.236.20|23153|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|24147|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
-|20|72.10.160.90|5123|Canada|Montreal|GloboTech Communications|
+|2|125.130.14.57|9000|South Korea|Suwon|Korea Telecom|
+|3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|4|103.151.241.25|9000|Vietnam|Liên Chiểu|VSERVER|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|117.6.24.42|9001|Vietnam|Bắc Giang|Viettel Corporation|
+|7|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
+|8|103.67.237.212|3128|India|Hyderabad|OASISGSSERVICES|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|11|103.41.35.162|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|12|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|13|5.44.101.53|13128|Germany|Frankfurt am Main|Alvotech GmbH via velia.net|
+|14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|125.130.14.57|9000|South Korea|Suwon|Korea Telecom|
+|16|113.53.61.145|8080|Thailand|Phanom Sarakham|TOT Public Company Limited|
+|17|67.43.227.226|9759|Canada|Montreal|GloboTech Communications|
+|18|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|72.10.160.90|13091|Canada|Montreal|GloboTech Communications|
 
 
 
