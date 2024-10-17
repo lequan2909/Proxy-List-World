@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
 |3|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|4|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|5|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|6|103.87.148.40|1111|Indonesia|Demak|Lintas Data Prima, PT|
-|7|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|8|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|10|97.107.142.56|8888|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|11|103.78.75.91|8080|Indonesia|Gandul|ICONPLN|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|67.43.236.21|22513|Canada|Montreal|GloboTech Communications|
-|14|72.10.164.178|18913|Canada|Montreal|GloboTech Communications|
+|4|43.156.64.100|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|6|116.202.217.96|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|8|193.233.84.87|1080|Russia|Novosibirsk|Global Internet Solutions LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|12|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
+|13|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|14|67.43.236.21|22513|Canada|Montreal|GloboTech Communications|
 |15|46.166.165.33|4019|Lithuania|Šiauliai|Cherry Servers|
-|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|152.32.64.43|8095|Philippines|Quezon City|Converge ICT Solution Inc|
-|18|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
-|19|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|20|72.10.160.91|18185|Canada|Montreal|GloboTech Communications|
+|16|97.107.142.56|8888|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|67.43.236.20|17297|Canada|Montreal|GloboTech Communications|
+|19|37.187.109.70|10111|France|Gravelines|OVH SAS|
+|20|72.10.164.178|32191|Canada|Montreal|GloboTech Communications|
 
 
 
