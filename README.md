@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|3|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|4|103.160.182.137|8080|Indonesia|Jember|PT Internusa Duta Makmur|
-|5|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|6|61.129.2.212|8080|China|Beijing|CHINANET|
-|7|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|2|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|3|46.166.165.33|4058|Lithuania|Šiauliai|Cherry Servers|
+|4|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|5|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|181.78.17.70|999|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
 |8|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|148.230.195.165|6969|Mexico|Villa de Zaachila|Total Play Telecomunicaciones SA De CV|
-|10|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
-|11|72.10.160.90|4785|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.90|4785|Canada|Montreal|GloboTech Communications|
-|13|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|14|67.43.228.252|23659|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|11463|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|11463|Canada|Montreal|GloboTech Communications|
-|17|72.10.160.90|4785|Canada|Montreal|GloboTech Communications|
-|18|223.25.110.104|8090|Indonesia|Surabaya|SinergiNet|
-|19|72.10.160.93|14375|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|17193|Canada|Montreal|GloboTech Communications|
+|9|72.10.164.178|1103|Canada|Montreal|GloboTech Communications|
+|10|72.10.160.90|19195|Canada|Montreal|GloboTech Communications|
+|11|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|12|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
+|13|182.253.178.159|8080|Indonesia|Jakarta Pusat|BIZNET|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|16|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|18|72.10.160.170|23073|Canada|Montreal|GloboTech Communications|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|72.10.160.174|1829|Canada|Montreal|GloboTech Communications|
 
 
 
