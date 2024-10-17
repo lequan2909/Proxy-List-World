@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|3|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|4|120.28.139.63|8082|Philippines|Caloocan City|Globe Telecom|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|178.48.68.61|18080|Hungary|Budapest|UPC|
-|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|8|116.202.217.96|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
-|13|67.43.227.226|1765|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.250|11967|Canada|Montreal|GloboTech Communications|
-|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|16|67.43.227.228|1765|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.226|1765|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|18441|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.92|25931|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.174|6029|Canada|Montreal|GloboTech Communications|
+|1|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|46.166.165.33|4019|Lithuania|Šiauliai|Cherry Servers|
+|10|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|11|157.20.253.85|8080|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
+|12|223.206.57.57|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|13|38.156.72.48|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|15|161.34.40.116|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|17|223.205.65.126|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|18|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|19|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|20|186.159.116.22|3128|Panama|Panama City|Servicios de Tecnologías de Información de Misión Crítica, S.A.|
 
 
 
