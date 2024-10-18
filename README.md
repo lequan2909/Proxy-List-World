@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|4|144.86.187.47|3129|United States|Malden|Charles River Operation|
-|5|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|58.147.186.226|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
-|10|152.172.65.178|999|Chile|Alto Hospicio|TELEFÓNICA CHILE S.A.|
-|11|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|12|36.94.47.59|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|13|46.166.165.33|4019|Lithuania|Šiauliai|Cherry Servers|
-|14|103.41.33.169|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|15|49.49.21.157|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|16|41.254.48.66|1976|Libya|Tripoli|LTT Network Backbone and POPs|
-|17|103.163.175.29|8080|Indonesia|Jakarta|PT Lima Satu Tiga Global Tel-Access|
-|18|101.101.217.36|80|South Korea|Seongnam-si|NBP|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|112.211.202.160|8081|Philippines|Baguio City|Philippine Long Distance Telephone Co.|
+|2|49.49.21.157|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|5|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|147.45.137.174|3128|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|7|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
+|8|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|10|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
+|11|180.88.111.187|3128|China|Beijing|GXBLnet|
+|12|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|13|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|181.174.225.202|999|Peru|Lima|CHARACKWAVES CUSYPATA EXPORT/IMPORT S.A.C.|
+|17|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|18|46.166.165.33|4019|Lithuania|Šiauliai|Cherry Servers|
+|19|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
