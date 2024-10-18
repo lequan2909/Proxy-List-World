@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|6|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
-|7|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|202.180.54.211|8080|Indonesia|Jakarta|PT. Panca Dewata Utama|
-|10|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|36.92.28.34|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|12|113.192.30.89|8088|Indonesia|Jakarta|PT Indo Telemedia Solusi|
-|13|195.123.240.138|7777|United States|Los Angeles|Green Floid LLC|
-|14|144.86.187.37|3129|United States|Malden|Charles River Operation|
-|15|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|51.158.173.222|3128|France|Paris|Online S.A.S.|
+|2|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|6|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|36.93.163.219|8080|Indonesia|Bogor|Telekomunikasi Indonesia|
+|9|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
+|10|162.240.154.26|3128|United States|Provo|Unified Layer|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|13|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|14|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|17|94.231.192.43|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 |18|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|19|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|116.104.133.0|5008|Vietnam|Hanoi|Viettel Corporation|
+|19|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|20|103.93.93.220|3127|Indonesia|Gresik|MYRISE|
 
 
 
