@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|3|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|7|109.123.229.224|4011|Japan|Tokyo|Contabo Asia Private Limited|
-|8|117.6.104.235|5102|Vietnam|Hanoi|Viettel Corporation|
-|9|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|11|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|15|152.172.65.178|999|Chile|Alto Hospicio|TELEFÓNICA CHILE S.A.|
-|16|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|17|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|18|103.67.237.212|3128|India|Hyderabad|OASISGSSERVICES|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|36.94.47.59|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|157.100.60.170|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|6|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|103.69.20.99|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|8|45.177.179.65|999|Mexico|Villa Zaragoza|Wantelco SAS de CV|
+|9|187.62.153.56|8088|Brazil|Oeiras|Megalink Internet|
+|10|36.93.140.183|8080|Indonesia|Pabuaran|Telekomunikasi Indonesia|
+|11|124.105.99.230|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|12|103.41.33.169|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|13|27.75.70.42|4004|Vietnam|Ho Chi Minh City|Viettel Group|
+|14|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
+|15|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|18|180.88.111.187|3128|China|Beijing|GXBLnet|
+|19|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|20|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
 
 
 
