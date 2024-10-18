@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
 |3|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|4|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
 |5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|139.255.89.82|8080|Indonesia|Jakarta|PT. LINKNET|
-|12|72.10.164.178|13593|Canada|Montreal|GloboTech Communications|
-|13|72.10.160.171|1163|Canada|Montreal|GloboTech Communications|
-|14|129.213.104.238|80|United States|Ashburn|Oracle Corporation|
-|15|72.10.160.172|14909|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|31049|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|3055|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|13593|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|11651|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|25087|Canada|Montreal|GloboTech Communications|
+|6|103.167.170.81|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
+|7|103.247.23.57|8081|Indonesia|Cileungsir|PT wifian Solution|
+|8|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|11|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|12|103.59.44.33|2022|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|182.253.86.96|8080|Indonesia|Jakarta|Biznet Gamers|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|18|61.129.2.212|8080|China|Beijing|CHINANET|
+|19|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|20|67.43.227.227|3055|Canada|Montreal|GloboTech Communications|
 
 
 
