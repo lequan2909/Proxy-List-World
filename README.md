@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
-|6|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|7|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|10|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|203.112.223.126|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
-|14|18.156.117.228|8090|Germany|Frankfurt am Main|Amazon.com, Inc.|
-|15|190.128.248.134|999|Paraguay|Asunción|Telecel S.A.|
-|16|181.171.117.15|8080|Argentina|La Plata|Telecom Argentina S.A|
-|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|18|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|19|177.11.190.84|8080|Brazil|Franca|Multpontos Telecomunicações Ltda - ME|
-|20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|2|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|5|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|6|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|7|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|221.217.54.122|9000|China|Beijing|China Unicom Beijing Province Network|
+|10|186.96.68.72|999|Venezuela|Caracas|Gold Data USA Inc|
+|11|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|15|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|180.88.111.187|3128|China|Beijing|GXBLnet|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|19|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
