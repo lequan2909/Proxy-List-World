@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.247.22.82|8080|Indonesia|Bekasi|PT wifian Solution|
-|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|188.166.222.236|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
-|9|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|12|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|13|202.51.106.229|8080|Indonesia|Jakarta|PT Solusi Infostruktur Nusantara|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|188.166.222.236|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|6|114.9.28.114|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|7|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|8|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|9|36.67.114.94|8187|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|10|187.94.220.85|8080|Brazil|Guaçuí|Acesse Comunicação Ltda|
+|11|38.183.146.181|8090|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
+|12|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|14|103.193.144.75|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|15|157.100.60.170|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|16|144.86.187.47|3129|United States|Malden|Charles River Operation|
+|17|185.19.4.22|3128|Ukraine|Kyiv|Triolan|
+|18|18.228.193.111|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|19|38.191.200.94|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|20|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
 
 
 
