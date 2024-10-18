@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|113.53.60.219|8080|Thailand|Phanom Sarakham|TOT Public Company Limited|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|18.169.83.87|3128|United Kingdom|London|Amazon Technologies Inc.|
-|7|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|8|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|9|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|10|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|187.190.113.197|999|Mexico|Minatitlán|Total Play Telecomunicaciones SA De CV|
-|14|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|72.10.160.94|11299|Canada|Montreal|GloboTech Communications|
-|18|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|20|67.43.236.20|27981|Canada|Montreal|GloboTech Communications|
+|3|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|4|1.32.59.217|47045|Malaysia|Puchong Batu Dua Belas|TM TECHNOLOGY SERVICES SDN BHD|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|187.190.113.197|999|Mexico|Minatitlán|Total Play Telecomunicaciones SA De CV|
+|9|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|10|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|11|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|12|114.7.161.18|8090|Indonesia|Tangerang|PT. INDOSAT Tbk|
+|13|189.85.82.38|3128|Brazil|Brasília|Networld Provedor e Servicos de Internet Ltda|
+|14|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|124.105.99.230|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
