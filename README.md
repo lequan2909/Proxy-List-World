@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
-|5|124.158.153.218|8180|Indonesia|Pulo Gebang|PT iForte Global Internet|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
+|4|162.240.154.26|3128|United States|Provo|Unified Layer|
+|5|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
 |6|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|7|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|162.240.154.26|3128|United States|Provo|Unified Layer|
-|9|116.202.217.96|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|118.99.68.133|8080|Indonesia|Sidoarjo|Biznet Metronet|
-|12|38.50.166.244|999|Dominican Republic|Santiago de los Caballeros|Israel De Los Santos Wifi SRL|
-|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|14|103.147.134.238|1111|Indonesia|Kamal|PT.MURNI MAKMUR ABADI|
-|15|103.199.117.116|8080|Indonesia|Semarang|PT Hepra Teknologi Indonesia|
-|16|181.114.225.187|8080|Argentina|Mar del Plata|CyberWave S.A.|
-|17|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
-|18|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|19|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|79.116.70.55|8118|Spain|Alcobendas|Digi Spain Telecom S.L.U.|
+|8|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|9|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|10|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
+|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|144.86.187.37|3129|United States|Malden|Charles River Operation|
+|14|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|15|194.163.149.159|9001|Germany|Düsseldorf|Contabo GmbH|
+|16|172.233.131.233|10001|United States|Los Angeles|Akamai Technologies, Inc.|
+|17|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|19|223.206.63.161|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|20|103.155.196.40|8080|Indonesia|Sukabumi|JEMBATANDATA|
 
 
 
