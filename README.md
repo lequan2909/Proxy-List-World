@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.150.113.105|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|3|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|4|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|5|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
-|8|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|103.69.20.115|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|11|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
-|12|124.105.99.230|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|13|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|103.75.96.70|8080|Indonesia|Bandung|MORATELINDO|
-|15|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|17|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
-|18|190.61.43.121|999|Colombia|El Copey|Ufinet Panama S.A.|
-|19|181.225.224.251|3128|Cuba|Havana|Empresa de Telecomunicaciones de Cuba|
-|20|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|2|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|61.129.2.212|8080|China|Beijing|CHINANET|
+|6|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|9|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|41.254.48.66|1976|Libya|Tripoli|LTT Network Backbone and POPs|
+|13|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|14|38.183.146.181|8090|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
+|15|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|16|117.6.104.235|5102|Vietnam|Hanoi|Viettel Corporation|
+|17|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|18|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
+|19|123.112.210.180|9000|China|Beijing|China Unicom Beijing Province Network|
+|20|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
