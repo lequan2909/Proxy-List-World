@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|3|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|3|187.190.113.197|999|Mexico|Minatitlán|Total Play Telecomunicaciones SA De CV|
 |4|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
-|5|187.190.113.197|999|Mexico|Minatitlán|Total Play Telecomunicaciones SA De CV|
-|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|7|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|10|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|12|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|13|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|180.88.111.187|3128|China|Beijing|GXBLnet|
-|15|36.91.155.42|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|18|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|20|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|5|162.240.154.26|3128|United States|Provo|Unified Layer|
+|6|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|7|212.174.79.169|8080|Türkiye|Sanliurfa|Turk Telekomunikasyon Anonim Sirketi|
+|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|9|190.128.248.134|999|Paraguay|Asunción|Telecel S.A.|
+|10|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|12|38.183.146.21|8085|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
+|13|36.93.3.31|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|14|185.116.236.104|3128|United States|New York|Massivegrid LTD|
+|15|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
+|16|103.234.35.142|8090|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
+|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|182.253.158.32|8080|Indonesia|Bandung|BIZNET|
+|19|171.241.39.74|5106|Vietnam|Hanoi|Viettel Corporation|
+|20|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
 
 
 
