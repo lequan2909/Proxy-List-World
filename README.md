@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|3|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
-|7|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|8|162.240.154.26|3128|United States|Provo|Unified Layer|
-|9|152.32.64.43|8095|Philippines|Quezon City|Converge ICT Solution Inc|
-|10|129.222.110.39|999|Mexico|Mexico City|SpaceX Starlink|
-|11|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|13|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|179.125.125.243|3128|Brazil|Teresina|Virtex Telecom|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|18|45.228.192.107|3141|Brazil|Ouricuri|Bdcnet Telecom|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|36.37.163.254|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|2|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|3|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|4|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|5|61.129.2.212|8080|China|Beijing|CHINANET|
+|6|186.96.96.134|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|116.0.53.34|8080|Pakistan|Karachi|Supernet|
+|10|103.101.216.2|8080|Indonesia|Sungaibamban|PT Duta Trans Nusantara Network|
+|11|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|185.19.4.22|3128|Ukraine|Kyiv|Triolan|
+|13|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|15|181.78.73.73|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|18|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|19|101.101.217.36|80|South Korea|Seongnam-si|NBP|
+|20|152.172.65.178|999|Chile|Alto Hospicio|TELEFÓNICA CHILE S.A.|
 
 
 
