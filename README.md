@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|5|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|2|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|3|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
 |6|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|8|72.10.160.93|22309|Canada|Montreal|GloboTech Communications|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
-|11|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|36.91.155.42|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|15|152.172.65.178|999|Chile|Alto Hospicio|TELEFÓNICA CHILE S.A.|
-|16|103.69.20.99|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|17|120.220.197.194|45047|China|Guangzhou|China Mobile communications corporation|
-|18|58.147.186.214|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|179.125.125.243|3128|Brazil|Teresina|Virtex Telecom|
+|7|118.179.84.218|8080|Bangladesh|Sylhet|Dhakacom Limited|
+|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|9|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|11|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|14|152.172.65.178|999|Chile|Alto Hospicio|TELEFÓNICA CHILE S.A.|
+|15|171.228.117.231|10089|Vietnam|Phúc Yên|Viettel Corporation|
+|16|103.247.21.234|8080|Indonesia|Bekasi|PT wifian Solution|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|201.220.112.98|999|Chile|Temuco|Telefonica del Sur S.A.|
+|19|177.234.250.58|999|Ecuador|Ambato|Ufinet Panama S.A.|
+|20|103.111.136.110|8081|Indonesia|Samarinda|PT Mitra Lintas Multimedia|
 
 
 
