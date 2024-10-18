@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|200.111.104.59|3129|Chile|Santiago|Entel Chile S.A.|
-|6|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|7|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|8|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|187.94.220.85|8080|Brazil|Guaçuí|Acesse Comunicação Ltda|
-|10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|46.209.15.187|8080|Iran|Tehran|ADSL Service in Kermanshah|
-|14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|16|136.226.113.91|10006|Mexico|Mexico City|ZSCALER, INC.|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|61.129.2.212|8080|China|Beijing|CHINANET|
-|19|177.11.190.84|8080|Brazil|Franca|Multpontos Telecomunicações Ltda - ME|
+|2|202.140.62.212|8080|India|Bengaluru|Karuturi Telecom Pvt Ltd|
+|3|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|202.183.209.77|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|5|129.222.110.39|999|Mexico|Mexico City|SpaceX Starlink|
+|6|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|103.229.185.154|8080|Indonesia|Pamulang|PT INDONESIA COMNETS PLUS|
+|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|9|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|119.82.240.61|6060|Indonesia|Surabaya|Indonesia Network Information Center|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|13|116.0.53.34|8080|Pakistan|Karachi|Supernet|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|203.190.46.143|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|16|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
+|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|18|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|19|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |20|36.93.8.34|11000|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
 
 
