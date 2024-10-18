@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|4|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|5|45.117.29.153|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|6|46.166.165.33|4019|Lithuania|Šiauliai|Cherry Servers|
-|7|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|12|163.172.33.137|4012|France|Vitry-sur-Seine|Online S.A.S.|
-|13|61.129.2.212|8080|China|Beijing|CHINANET|
-|14|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|177.39.139.14|9999|Brazil|Araucária|DIGITAL DESIGN SERVIÇOS DE TELECOMUNICAÇÕES EIRELI|
-|17|222.65.214.176|9000|China|Shanghai|CHINANET-SH|
-|18|165.155.229.8|9480|United States|Brooklyn|New York City Board of Education|
-|19|165.155.229.12|9400|United States|Brooklyn|New York City Board of Education|
-|20|165.155.229.13|9480|United States|Brooklyn|New York City Board of Education|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|5|190.61.40.190|999|Colombia|Bogotá|Ufinet Panama S.A.|
+|6|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|7|46.166.165.33|4057|Lithuania|Šiauliai|Cherry Servers|
+|8|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|11|147.45.137.174|3128|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|12|178.48.68.61|18080|Hungary|Budapest|UPC|
+|13|112.198.179.17|8082|Philippines|Carmona|Globe Telecom|
+|14|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|15|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|16|103.133.24.5|8080|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|17|41.216.186.146|8080|Indonesia|Purbalingga|FASTHOSTING|
+|18|190.71.174.227|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|103.124.139.212|1080|Indonesia|Kartasura|Global Media Data Prima|
 
 
 
