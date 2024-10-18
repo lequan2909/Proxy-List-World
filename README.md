@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|4|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|5|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|7|1.20.203.29|8081|Thailand|Surat Thani|TOT Public Company Limited|
-|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|46.166.165.33|4057|Lithuania|Šiauliai|Cherry Servers|
-|13|111.1.61.51|3128|China|Wenzhou|China Mobile communications corporation|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|61.129.2.212|8080|China|Beijing|CHINANET|
-|16|188.132.221.21|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|18|165.155.229.13|9480|United States|Brooklyn|New York City Board of Education|
-|19|165.155.229.13|9480|United States|Brooklyn|New York City Board of Education|
-|20|165.155.229.8|9480|United States|Brooklyn|New York City Board of Education|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|103.242.105.251|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|5|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
+|6|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|180.88.111.187|3128|China|Beijing|GXBLnet|
+|9|203.142.69.69|8080|Indonesia|Jakarta|BIZNET|
+|10|183.88.241.167|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|11|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|12|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|13|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|15|46.166.165.33|4057|Lithuania|Šiauliai|Cherry Servers|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
