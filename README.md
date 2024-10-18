@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|3|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|4|181.225.224.251|3128|Cuba|Havana|Empresa de Telecomunicaciones de Cuba|
-|5|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|10|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|11|180.88.111.187|3128|China|Beijing|GXBLnet|
-|12|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
-|13|180.242.150.224|8080|Indonesia|Tegal|PT. TELKOM INDONESIA|
-|14|109.199.114.176|3128|Germany|Düsseldorf|Contabo GmbH|
-|15|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|62.69.253.32|8080|Poland|Świnoujście|Fornet Swinoujscie|
-|17|186.96.96.134|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|18|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|19|38.183.146.77|8090|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|20|188.166.222.236|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|3|103.247.22.82|8080|Indonesia|Bekasi|PT wifian Solution|
+|4|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|200.111.104.59|3129|Chile|Santiago|Entel Chile S.A.|
+|8|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|13|181.225.224.251|3128|Cuba|Havana|Empresa de Telecomunicaciones de Cuba|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|188.166.222.236|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|18|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|19|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
 
 
 
