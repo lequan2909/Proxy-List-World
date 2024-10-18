@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
 |3|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|4|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|178.128.113.118|23128|Singapore|Singapore|DigitalOcean, LLC|
-|7|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|10|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|11|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|12|194.163.149.159|9001|Germany|Düsseldorf|Contabo GmbH|
-|13|185.8.67.98|8080|France|Saint-Trivier-sur-Moignans|maxnod|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|18|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|19|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|20|67.43.227.227|19833|Canada|Montreal|GloboTech Communications|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|8|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|9|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|10|185.8.67.98|8080|France|Saint-Trivier-sur-Moignans|maxnod|
+|11|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|14|61.129.2.212|8080|China|Beijing|CHINANET|
+|15|168.205.63.171|9090|Brazil|Frutal|TCF Telecomunicações Campo Florido Ltda|
+|16|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|17|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|18|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|19|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|20|72.10.160.91|19095|Canada|Montreal|GloboTech Communications|
 
 
 
