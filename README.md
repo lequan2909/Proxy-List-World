@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|4|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|5|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|6|46.166.165.33|4058|Lithuania|Šiauliai|Cherry Servers|
-|7|72.10.160.90|13995|Canada|Montreal|GloboTech Communications|
-|8|187.190.113.197|999|Mexico|Minatitlán|Total Play Telecomunicaciones SA De CV|
-|9|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|190.94.213.93|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|11|116.202.192.57|60349|Germany|Falkenstein|Hetzner Online GmbH|
-|12|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
-|14|103.101.216.2|8080|Indonesia|Sungaibamban|PT Duta Trans Nusantara Network|
-|15|200.24.157.122|999|Ecuador|Cuenca|Ufinet Panama S.A.|
-|16|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|17|122.3.121.231|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|18|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|19|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|20|177.93.49.202|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|2|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|3|36.93.3.31|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|4|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
+|5|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|7|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
+|8|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|72.10.160.173|24003|Canada|Montreal|GloboTech Communications|
+|11|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|12|72.10.160.172|24003|Canada|Montreal|GloboTech Communications|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|36.89.251.14|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|15|36.67.223.231|8090|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|16|103.127.97.187|3128|Philippines|Lucban|PT Biznet Gio Nusantara|
+|17|152.172.65.178|999|Chile|Alto Hospicio|TELEFÓNICA CHILE S.A.|
+|18|177.93.41.81|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|61.129.2.212|8080|China|Beijing|CHINANET|
 
 
 
