@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
-|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|7|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|8|23.147.112.74|8080|United States|Tucson|NGX Networks|
-|9|185.116.236.104|3128|United States|New York|Massivegrid LTD|
-|10|185.116.236.104|3128|United States|New York|Massivegrid LTD|
-|11|124.105.99.230|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|12|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|13|86.109.3.27|10089|United States|Chicago|Packet Host, Inc.|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
+|5|116.202.217.96|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|185.116.236.104|9595|United States|New York|Massivegrid LTD|
+|8|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|9|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|11|116.104.133.0|5008|Vietnam|Hanoi|Viettel Corporation|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
 |15|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
-|16|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|17|149.28.101.222|9000|United States|Miami|The Constant Company|
-|18|72.10.164.178|24431|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|14261|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.226|2467|Canada|Montreal|GloboTech Communications|
+|16|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|17|67.43.236.20|1751|Canada|Montreal|GloboTech Communications|
+|18|67.43.227.228|8205|Canada|Montreal|GloboTech Communications|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|72.10.164.178|5267|Canada|Montreal|GloboTech Communications|
 
 
 
