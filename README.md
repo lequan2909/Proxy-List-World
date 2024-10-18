@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|112.201.183.124|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
-|4|116.202.217.96|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
-|6|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|7|189.85.82.38|3128|Brazil|Brasília|Networld Provedor e Servicos de Internet Ltda|
+|2|142.171.102.136|3128|United States|Los Angeles|Multacom Corporation|
+|3|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|4|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|116.202.217.96|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |8|189.232.97.26|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|178.48.68.61|18080|Hungary|Budapest|UPC|
-|11|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|12|58.147.186.226|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
-|13|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|67.43.236.20|13509|Canada|Montreal|GloboTech Communications|
-|15|103.41.33.169|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|16|67.43.236.20|13509|Canada|Montreal|GloboTech Communications|
-|17|67.43.227.227|14527|Canada|Montreal|GloboTech Communications|
-|18|67.43.228.250|14215|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|23945|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.171|16705|Canada|Montreal|GloboTech Communications|
+|9|178.48.68.61|18080|Hungary|Budapest|UPC|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|16|112.201.183.124|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
+|17|23.147.112.74|8080|United States|Tucson|NGX Networks|
+|18|38.123.220.16|8080|Mexico|Ixtlahuaca de Rayón|Cogent Communications|
+|19|67.43.236.20|13509|Canada|Montreal|GloboTech Communications|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
