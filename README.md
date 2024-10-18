@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5397** proxies at the latest update. Usable proxies are below.
+> Scraper found **5328** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|243|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|673|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|604|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|388|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3167|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|165.154.224.110|8888|Hong Kong|Hong Kong|Scloud Pte Ltd|
+|3|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
 |4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|6|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|7|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
-|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|9|158.255.212.55|10434|Austria|Vienna|EDIS GmbH|
-|10|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|222.127.153.184|8082|Philippines|Carmona|Globe Telecom|
-|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|14|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|79.116.70.55|8118|Spain|Alcobendas|Digi Spain Telecom S.L.U.|
-|17|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|5|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|7|147.28.155.20|9443|United States|Dallas|Packet Host, Inc.|
+|8|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|9|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|162.240.154.26|3128|United States|Provo|Unified Layer|
+|11|147.28.155.20|9443|United States|Dallas|Packet Host, Inc.|
+|12|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
+|13|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|14|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|15|112.198.179.42|8082|Philippines|Carmona|Globe Telecom|
+|16|155.138.218.57|8118|United States|Atlanta|The Constant Company|
+|17|182.53.252.6|8080|Thailand|Chachoengsao|TOT Public Company Limited|
+|18|116.202.217.96|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|19|84.255.40.228|8998|Malta|Msida|Melita plc|
+|20|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
 
 
 
