@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|3|113.53.60.219|8080|Thailand|Phanom Sarakham|TOT Public Company Limited|
-|4|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|6|185.116.236.104|3128|United States|New York|Massivegrid LTD|
-|7|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|8|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|9|170.254.230.201|999|Colombia|Villa de San Diego de Ubaté|Media Commerce Partners S.A|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|2|113.53.60.219|8080|Thailand|Phanom Sarakham|TOT Public Company Limited|
+|3|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|4|116.202.217.96|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|170.254.230.201|999|Colombia|Villa de San Diego de Ubaté|Media Commerce Partners S.A|
+|6|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|7|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|8|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
 |11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|38.159.229.72|999|Ecuador|Vinces|Turbonet S.A.|
-|14|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|15|72.10.160.93|24105|Canada|Montreal|GloboTech Communications|
-|16|67.43.236.20|1039|Canada|Montreal|GloboTech Communications|
-|17|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|18|72.10.164.178|24059|Canada|Montreal|GloboTech Communications|
-|19|72.10.164.178|24059|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|31201|Canada|Montreal|GloboTech Communications|
+|12|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|13|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|14|72.10.160.93|24105|Canada|Montreal|GloboTech Communications|
+|15|72.10.164.178|10397|Canada|Montreal|GloboTech Communications|
+|16|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|17|36.93.3.31|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|18|187.103.105.22|8999|Brazil|Blumenau|BR.Digital Provider|
+|19|72.10.164.178|10397|Canada|Montreal|GloboTech Communications|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
