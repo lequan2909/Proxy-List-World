@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|5|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|7|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|8|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|9|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|10|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|162.240.154.26|3128|United States|Provo|Unified Layer|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
-|14|103.157.59.75|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|15|46.166.165.33|4120|Lithuania|Šiauliai|Cherry Servers|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
-|18|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|19|223.206.63.161|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|20|200.10.30.217|8083|Colombia|La Virginia|Super Redes S.A.S|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|95.216.205.32|8118|Finland|Helsinki|Hetzner Online GmbH|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|7|162.240.154.26|3128|United States|Provo|Unified Layer|
+|8|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|10|195.123.240.138|7777|United States|Los Angeles|Green Floid LLC|
+|11|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
+|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|13|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|14|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|15|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|16|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|17|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|18|51.158.173.222|3128|France|Paris|Online S.A.S.|
+|19|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|20|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
 
 
 
