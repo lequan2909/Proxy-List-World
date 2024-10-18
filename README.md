@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5221** proxies at the latest update. Usable proxies are below.
+> Scraper found **5137** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|529|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|307|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3219|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3135|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.228.117.231|10089|Vietnam|Phúc Yên|Viettel Corporation|
-|2|98.147.60.146|48678|United States|Honolulu|Spectrum|
-|3|38.156.73.59|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
 |4|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
 |5|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|7|109.123.229.224|4011|Japan|Tokyo|Contabo Asia Private Limited|
-|8|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|9|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|11|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|188.125.169.237|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|14|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|15|181.171.117.15|8080|Argentina|La Plata|Telecom Argentina S.A|
-|16|152.172.65.178|999|Chile|Alto Hospicio|TELEFÓNICA CHILE S.A.|
-|17|187.62.153.56|8088|Brazil|Oeiras|Megalink Internet|
-|18|165.225.216.152|10919|United States|Dallas|ZSCALER, INC.|
-|19|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|20|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
+|7|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|11|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|14|103.187.86.10|8182|Indonesia|Pinrang|PT Satunol Digital Teknologi|
+|15|171.228.117.231|10089|Vietnam|Phúc Yên|Viettel Corporation|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|202.47.188.133|8090|Indonesia|Kediri|PT.CITRA BERDIKARI NUSANTARA|
+|19|165.155.229.8|9400|United States|Brooklyn|New York City Board of Education|
+|20|165.155.229.12|9400|United States|Brooklyn|New York City Board of Education|
 
 
 
