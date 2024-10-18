@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
-|8|34.97.247.98|8561|Japan|Osaka|Google LLC|
-|9|1.20.207.29|8080|Thailand|Rayong|TOT Public Company Limited|
-|10|101.108.1.111|8080|Thailand|Bangkok|TOT Public Company Limited|
-|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|12|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|160.20.165.231|8587|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|14|103.84.177.28|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|15|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
-|18|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|19|114.33.18.16|3128|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
-|20|72.10.164.178|5571|Canada|Montreal|GloboTech Communications|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|8|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
+|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|10|195.123.240.138|7777|United States|Los Angeles|Green Floid LLC|
+|11|195.123.240.138|7777|United States|Los Angeles|Green Floid LLC|
+|12|213.199.44.90|8000|Germany|Düsseldorf|Contabo GmbH|
+|13|101.108.1.111|8080|Thailand|Bangkok|TOT Public Company Limited|
+|14|43.134.32.184|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|16|103.139.98.157|8080|Indonesia|Bandaragung|Digital Network Setiawan|
+|17|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
+|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|1.20.207.29|8080|Thailand|Rayong|TOT Public Company Limited|
 
 
 
