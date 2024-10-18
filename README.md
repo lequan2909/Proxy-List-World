@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|113.53.60.219|8080|Thailand|Phanom Sarakham|TOT Public Company Limited|
-|4|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
-|5|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
-|6|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|7|185.116.236.104|9595|United States|New York|Massivegrid LTD|
-|8|200.59.10.50|999|Argentina|General Pacheco|COTELCAM|
-|9|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
-|14|67.43.236.20|8491|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|8491|Canada|Montreal|GloboTech Communications|
-|16|195.159.124.57|85|Norway|Oslo|CUSTOMPUBLISHCOLO|
-|17|67.43.227.226|32205|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|23945|Canada|Montreal|GloboTech Communications|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|67.43.227.230|20587|Canada|Montreal|GloboTech Communications|
+|3|185.116.236.104|3128|United States|New York|Massivegrid LTD|
+|4|189.232.97.26|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|5|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
+|8|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
+|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|10|185.116.236.104|3128|United States|New York|Massivegrid LTD|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|67.43.227.228|18467|Canada|Montreal|GloboTech Communications|
+|13|186.96.96.134|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|14|67.43.227.226|32205|Canada|Montreal|GloboTech Communications|
+|15|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
+|16|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|17|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
+|18|67.43.236.20|6587|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.90|21825|Canada|Montreal|GloboTech Communications|
+|20|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
