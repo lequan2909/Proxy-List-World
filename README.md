@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|3|178.48.68.61|18080|Hungary|Budapest|UPC|
-|4|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|2|36.93.8.34|11000|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|3|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|4|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
 |5|187.103.105.22|8999|Brazil|Blumenau|BR.Digital Provider|
 |6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|182.253.86.96|8080|Indonesia|Jakarta|Biznet Gamers|
-|9|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|10|116.0.53.34|8080|Pakistan|Karachi|Supernet|
-|11|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|4.155.2.13|9480|United States|Quincy|Microsoft Corporation|
-|16|171.228.117.231|10089|Vietnam|Phúc Yên|Viettel Corporation|
-|17|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|103.159.46.41|83|India|Ahmedabad|King Netsol Private Limited|
-|20|103.159.194.191|3128|Indonesia|Kendal|PT Giga Digital Nusantara|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|129.222.110.39|999|Mexico|Mexico City|SpaceX Starlink|
+|9|36.93.3.31|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|10|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|103.48.68.68|83|India|Hyderabad|Country Online Services PVT LTD|
+|14|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|15|222.65.214.176|9000|China|Shanghai|CHINANET-SH|
+|16|177.93.49.202|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|17|177.39.139.14|9999|Brazil|Araucária|DIGITAL DESIGN SERVIÇOS DE TELECOMUNICAÇÕES EIRELI|
+|18|103.127.97.187|3128|Philippines|Lucban|PT Biznet Gio Nusantara|
+|19|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
+|20|152.172.65.178|999|Chile|Alto Hospicio|TELEFÓNICA CHILE S.A.|
 
 
 
