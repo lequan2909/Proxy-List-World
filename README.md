@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|5|185.116.236.93|9595|United States|New York|Massivegrid LTD|
-|6|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|9|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|10|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|11|27.72.141.201|10067|Vietnam|Hanoi|Newass2011xDSLHN|
-|12|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
-|13|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|14|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|15|181.143.181.34|8080|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
-|16|103.159.195.29|8080|Indonesia|Kudus|PT Giga Digital Nusantara|
-|17|125.209.110.83|39617|Pakistan|Islamabad|Multinet 125-110/24|
-|18|119.82.240.61|6060|Indonesia|Surabaya|Indonesia Network Information Center|
-|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|20|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|6|178.48.68.61|18080|Hungary|Budapest|UPC|
+|7|223.25.110.185|8080|Indonesia|Surabaya|SinergiNet|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|185.116.236.93|9595|United States|New York|Massivegrid LTD|
+|13|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|14|104.248.165.240|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|181.129.250.42|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|17|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|18|45.70.236.193|999|Ecuador|Simón Bolívar|Ufinet Panama S.A.|
+|19|185.9.139.145|8080|Albania|Tirana|ABnet Sh.p.k|
+|20|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
 
 
 
