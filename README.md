@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|4|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|5|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|6|103.167.170.81|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|9|80.78.65.230|8080|Albania|Tirana|ABCom|
-|10|185.8.67.98|8080|France|Saint-Trivier-sur-Moignans|maxnod|
-|11|116.202.217.96|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|16|36.93.3.31|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|17|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|18|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
-|19|86.109.3.28|10004|United States|Chicago|Packet Host, Inc.|
-|20|67.43.228.250|3537|Canada|Montreal|GloboTech Communications|
+|3|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|178.48.68.61|18080|Hungary|Budapest|UPC|
+|7|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
+|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|9|185.8.67.98|8080|France|Saint-Trivier-sur-Moignans|maxnod|
+|10|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|181.188.238.148|999|Ecuador|Quito|Otecel S.A.|
+|13|116.202.217.96|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|14|103.127.97.187|3128|Philippines|Lucban|PT Biznet Gio Nusantara|
+|15|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|18|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|20|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
