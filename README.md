@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|3|27.147.137.90|6969|Bangladesh|Dhaka|Link3 Technologies Limited|
-|4|112.198.132.3|8085|Philippines|Nasugbu|Globe Telecom|
-|5|115.74.246.138|8080|Vietnam|Quận Mười Một|VIETELxdsl|
-|6|188.166.222.236|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|10|103.153.191.209|8080|Indonesia|Malang|WANET|
-|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|12|178.48.68.61|18080|Hungary|Budapest|UPC|
-|13|103.163.175.29|8080|Indonesia|Jakarta|PT Lima Satu Tiga Global Tel-Access|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|16|111.125.242.34|80|India|Mumbai|Five Network Solution India Limited|
-|17|170.239.205.73|8080|Colombia|Bogotá|FIBERNET|
-|18|103.170.64.128|80|India|Pune|Dream Cables|
-|19|165.155.229.13|9480|United States|Brooklyn|New York City Board of Education|
-|20|165.155.229.9|9480|United States|Brooklyn|New York City Board of Education|
+|2|109.111.150.233|8080|Russia|Kaliningrad|TIS Dialog LLC|
+|3|103.41.33.169|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|4|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|5|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
+|6|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|8|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|38.183.146.77|8090|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
+|10|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|11|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|36.93.3.31|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|15|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
+|16|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 
 
 
