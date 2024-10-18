@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5323** proxies at the latest update. Usable proxies are below.
+> Scraper found **5294** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|258|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|677|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|648|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|336|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3126|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|4|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|5|1.32.59.217|47045|Malaysia|Puchong Batu Dua Belas|TM TECHNOLOGY SERVICES SDN BHD|
-|6|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
-|7|38.137.203.14|999|Peru|Lima|Internet Services Perú|
-|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|9|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|10|189.232.97.26|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|11|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|185.116.236.104|3128|United States|New York|Massivegrid LTD|
-|15|113.53.60.219|8080|Thailand|Phanom Sarakham|TOT Public Company Limited|
-|16|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|192.9.237.224|3128|United States|San Jose|Oracle Corporation|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|4|116.202.217.96|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|189.232.97.26|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|7|171.240.116.45|5101|Vietnam|Hanoi|Viettel Corporation|
+|8|23.147.112.74|8080|United States|Tucson|NGX Networks|
+|9|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|14|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|45.177.179.65|999|Mexico|Villa Zaragoza|Wantelco SAS de CV|
+|17|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|18|222.127.77.203|8082|Philippines|Lahug|INNOVE|
+|19|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|20|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
 
 
 
