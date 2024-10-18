@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|3|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|7|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|8|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|9|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
-|10|36.91.155.42|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|11|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|12|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|46.166.165.33|4057|Lithuania|Šiauliai|Cherry Servers|
-|18|152.172.65.178|999|Chile|Alto Hospicio|TELEFÓNICA CHILE S.A.|
-|19|62.23.184.84|8080|France|Paris|COLT Technology Services Group Limited|
-|20|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|2|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|6|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|7|187.249.20.153|8081|Mexico|Apodaca|Transtelco Inc|
+|8|183.88.241.167|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|9|112.201.189.202|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
+|10|152.32.64.43|8095|Philippines|Quezon City|Converge ICT Solution Inc|
+|11|89.46.249.252|5080|United Kingdom|London|Hydra Communications Ltd|
+|12|103.75.96.70|8080|Indonesia|Bandung|MORATELINDO|
+|13|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|14|103.69.20.115|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|15|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
+|16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
