@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|104.248.165.240|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|7|185.116.236.93|3128|United States|New York|Massivegrid LTD|
-|8|178.48.68.61|18080|Hungary|Budapest|UPC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|103.172.197.245|8085|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|11|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|13|43.252.107.252|7777|Indonesia|Gamping Lor|PT Lintas Data Prima|
-|14|103.186.204.52|8089|Indonesia|Tasikmalaya|PT Afna Digital Indonesia|
-|15|45.224.149.15|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|17|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|18|181.79.234.90|999|Honduras|San Pedro Sula|Redes y Telecomunicaciones|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|2|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|3|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|6|103.215.187.68|8080|Indonesia|Mungkid|PT Jaringan Inti Exadata|
+|7|185.116.236.93|9595|United States|New York|Massivegrid LTD|
+|8|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|9|171.238.239.231|5000|Vietnam|Tuyên Quang|Viettel Corporation|
+|10|103.67.237.211|3128|India|Hyderabad|OASISGSSERVICES|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|46.166.165.33|4019|Lithuania|Šiauliai|Cherry Servers|
+|13|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|14|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|17|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
+|18|223.25.110.185|8080|Indonesia|Surabaya|SinergiNet|
+|19|186.3.97.43|999|Ecuador|Quito|Telconet S.A|
+|20|103.122.66.220|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
 
 
 
