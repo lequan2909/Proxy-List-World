@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|3|180.88.111.187|3128|China|Beijing|GXBLnet|
-|4|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|6|45.228.192.107|3141|Brazil|Ouricuri|Bdcnet Telecom|
-|7|157.100.60.170|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|8|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|10|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|11|46.209.15.187|8080|Iran|Tehran|ADSL Service in Kermanshah|
-|12|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|13|103.137.67.177|8080|Bangladesh|Binodpur|SK Traders|
-|14|178.48.68.61|18080|Hungary|Budapest|UPC|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|152.172.65.178|999|Chile|Alto Hospicio|TELEFÓNICA CHILE S.A.|
-|17|202.47.188.133|8090|Indonesia|Kediri|PT.CITRA BERDIKARI NUSANTARA|
-|18|112.211.202.160|8081|Philippines|Baguio City|Philippine Long Distance Telephone Co.|
-|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|20|101.255.210.49|8080|Indonesia|Jakarta|PT Remala Abadi|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|3|147.28.155.20|10047|United States|Dallas|Packet Host, Inc.|
+|4|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|5|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|6|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|9|38.156.73.60|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|180.88.111.187|3128|China|Beijing|GXBLnet|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|13|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|14|152.172.65.178|999|Chile|Alto Hospicio|TELEFÓNICA CHILE S.A.|
+|15|77.52.187.199|10000|Ukraine|Shyroke|PrJSC "VF UKRAINE"|
+|16|102.67.101.250|8080|Burkina Faso|Ouagadougou|Virtual Technologies and Solutions|
+|17|165.155.229.9|9480|United States|Brooklyn|New York City Board of Education|
+|18|165.155.229.12|9480|United States|Brooklyn|New York City Board of Education|
+|19|165.155.229.13|9480|United States|Brooklyn|New York City Board of Education|
+|20|165.155.229.10|9400|United States|Brooklyn|New York City Board of Education|
 
 
 
