@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|6|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|187.249.20.153|8081|Mexico|Apodaca|Transtelco Inc|
-|11|181.171.117.15|8080|Argentina|La Plata|Telecom Argentina S.A|
-|12|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|13|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|14|178.218.43.60|4411|Russia|Rybinsk|ATEXS PLUS Ltd.|
-|15|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|16|186.125.218.170|999|Argentina|Molinos|Telecom Argentina S.A.|
-|17|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|18|115.74.246.138|8080|Vietnam|Quận Mười Một|VIETELxdsl|
-|19|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
+|5|177.93.40.57|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|6|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|7|103.67.237.214|3128|India|Hyderabad|OASISGSSERVICES|
+|8|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
+|11|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|124.105.99.230|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|14|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
+|17|103.41.33.169|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|18|121.37.253.203|3128|China|Guangzhou|Huawei Cloud Service data center|
+|19|103.93.93.146|8082|Indonesia|Wedoro|MYRISE|
+|20|58.147.186.226|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
 
 
 
