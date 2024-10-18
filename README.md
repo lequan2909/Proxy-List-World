@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|4|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|5|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|6|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
-|7|180.88.111.187|3128|China|Beijing|GXBLnet|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|4|180.127.35.77|1080|China|Nanjing|Chinanet|
+|5|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|6|119.82.240.61|6060|Indonesia|Surabaya|Indonesia Network Information Center|
+|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |8|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
-|10|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|36.94.30.238|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|14|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|15|163.172.33.137|4120|France|Vitry-sur-Seine|Online S.A.S.|
-|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|17|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|18|190.94.218.59|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|19|103.7.26.142|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
-|20|165.155.229.9|9400|United States|Brooklyn|New York City Board of Education|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|11|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|12|46.209.15.187|8080|Iran|Tehran|ADSL Service in Kermanshah|
+|13|181.171.117.15|8080|Argentina|La Plata|Telecom Argentina S.A|
+|14|103.101.216.2|8080|Indonesia|Sungaibamban|PT Duta Trans Nusantara Network|
+|15|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|16|163.172.33.137|4128|France|Vitry-sur-Seine|Online S.A.S.|
+|17|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|19|177.11.190.84|8080|Brazil|Franca|Multpontos Telecomunicações Ltda - ME|
+|20|61.129.2.212|8080|China|Beijing|CHINANET|
 
 
 
