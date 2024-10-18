@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|110.137.26.233|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
-|4|67.43.236.20|13135|Canada|Montreal|GloboTech Communications|
+|2|115.73.111.209|5102|Vietnam|Ho Chi Minh City|VIETELmetro|
+|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
 |5|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|7|187.94.220.85|8080|Brazil|Guaçuí|Acesse Comunicação Ltda|
+|6|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|7|42.200.124.211|8080|Hong Kong|Central|PCCW IMSBiz|
 |8|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
-|9|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|11|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|12|180.88.111.187|3128|China|Beijing|GXBLnet|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|15|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
-|16|163.172.33.137|4128|France|Vitry-sur-Seine|Online S.A.S.|
-|17|103.184.54.62|3128|Indonesia|Jember|PT Proxi Jaringan Nusantara|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|61.129.2.212|8080|China|Beijing|CHINANET|
-|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|9|112.198.179.17|8082|Philippines|Carmona|Globe Telecom|
+|10|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|14|194.163.149.159|9001|Germany|Düsseldorf|Contabo GmbH|
+|15|202.183.209.77|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|16|178.48.68.61|18080|Hungary|Budapest|UPC|
+|17|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|18|46.166.165.33|4057|Lithuania|Šiauliai|Cherry Servers|
+|19|103.127.97.187|3128|Philippines|Lucban|PT Biznet Gio Nusantara|
+|20|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
 
 
 
