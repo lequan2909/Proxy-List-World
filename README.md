@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|7|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|8|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|9|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|12|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|13|187.102.236.209|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hype|
-|14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|1.20.207.29|8080|Thailand|Rayong|TOT Public Company Limited|
-|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|18|186.249.227.26|3128|Brazil|Belo Horizonte|Century Telecom Ltda|
-|19|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|20|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|92.60.190.79|3128|Ukraine|Kyiv|Load.me sp. z o. o.|
+|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|6|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|7|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|8|101.255.209.242|8080|Indonesia|Jakarta|PT Remala Abadi|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|16|36.93.3.31|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|17|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|19|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|20|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
 
 
 
