@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
 |3|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|4|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|5|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|6|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|7|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|8|180.88.111.187|3128|China|Beijing|GXBLnet|
-|9|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|11|187.190.113.197|999|Mexico|Minatitlán|Total Play Telecomunicaciones SA De CV|
-|12|202.51.106.229|8080|Indonesia|Jakarta|PT Solusi Infostruktur Nusantara|
-|13|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|14|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
-|15|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|144.86.187.56|3129|United States|Malden|Charles River Operation|
-|17|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|103.165.222.190|8080|Indonesia|Pegadungan|PT iForte Global Internet|
+|6|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|9|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|10|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|103.48.71.130|83|India|Hyderabad|Country Online Services PVT LTD|
+|13|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|15|170.239.205.73|8080|Colombia|Bogotá|FIBERNET|
+|16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|182.253.158.32|8080|Indonesia|Bandung|BIZNET|
 |18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|103.159.195.193|8080|Indonesia|Kudus|PT Giga Digital Nusantara|
-|20|181.209.82.202|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|19|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
+|20|103.67.237.214|3128|India|Hyderabad|OASISGSSERVICES|
 
 
 
