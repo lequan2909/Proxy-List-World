@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|103.182.213.65|8080|Bangladesh|Tongi|Rapid Network|
-|4|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|5|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|185.116.236.93|9595|United States|New York|Massivegrid LTD|
-|8|203.110.145.82|63128|Australia|Sydney|Macquarie Technology Operations Pty Limited|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|11|103.229.185.154|8080|Indonesia|Pamulang|PT INDONESIA COMNETS PLUS|
-|12|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|13|45.174.57.26|999|Mexico|Moroleón|2M INGENIERIA Y SERVICIOS EN TELECOMUNICACIONES|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|147.28.155.20|10008|United States|Dallas|Packet Host, Inc.|
-|16|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|17|72.10.164.178|5233|Canada|Montreal|GloboTech Communications|
+|3|185.116.236.93|9595|United States|New York|Massivegrid LTD|
+|4|144.86.187.43|3129|United States|Malden|Charles River Operation|
+|5|178.48.68.61|18080|Hungary|Budapest|UPC|
+|6|185.116.236.93|9595|United States|New York|Massivegrid LTD|
+|7|152.32.64.43|8095|Philippines|Quezon City|Converge ICT Solution Inc|
+|8|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|88.255.102.24|8080|Türkiye|Istanbul|TurkTelekom|
+|11|179.125.125.243|3128|Brazil|Teresina|Virtex Telecom|
+|12|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|45.5.118.177|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
+|15|72.10.160.90|13365|Canada|Montreal|GloboTech Communications|
+|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|67.43.236.22|22707|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.90|25763|Canada|Montreal|GloboTech Communications|
+|19|67.43.227.226|30359|Canada|Montreal|GloboTech Communications|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
