@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|4|103.242.105.251|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|5|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
-|6|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|180.88.111.187|3128|China|Beijing|GXBLnet|
-|9|203.142.69.69|8080|Indonesia|Jakarta|BIZNET|
-|10|183.88.241.167|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|11|47.88.18.204|8023|United States|Minkler|Alibaba.com LLC|
-|12|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
-|13|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|14|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|15|46.166.165.33|4057|Lithuania|Šiauliai|Cherry Servers|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|18|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|116.114.20.148|3128|China|Zhangzhou|CNC Group CHINA169 Neimeng Province Network|
+|4|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|5|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|103.159.195.193|8080|Indonesia|Kudus|PT Giga Digital Nusantara|
+|10|58.147.186.214|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|112.201.189.202|8082|Philippines|Pinagbuhatan|Philippine Long Distance Telephone Co.|
+|13|46.166.165.33|4057|Lithuania|Šiauliai|Cherry Servers|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|165.155.229.13|9480|United States|Brooklyn|New York City Board of Education|
+|16|165.155.229.13|9480|United States|Brooklyn|New York City Board of Education|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|43.129.238.55|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
+|19|165.155.229.8|9480|United States|Brooklyn|New York City Board of Education|
+|20|181.57.131.122|8080|Colombia|Bogotá|Telmex Colombia S.A.|
 
 
 
