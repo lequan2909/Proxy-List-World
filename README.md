@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5148** proxies at the latest update. Usable proxies are below.
+> Scraper found **5149** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|243|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|244|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|600|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|244|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|4|180.127.35.77|1080|China|Nanjing|Chinanet|
-|5|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|6|119.82.240.61|6060|Indonesia|Surabaya|Indonesia Network Information Center|
-|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|11|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|12|46.209.15.187|8080|Iran|Tehran|ADSL Service in Kermanshah|
-|13|181.171.117.15|8080|Argentina|La Plata|Telecom Argentina S.A|
-|14|103.101.216.2|8080|Indonesia|Sungaibamban|PT Duta Trans Nusantara Network|
-|15|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|16|163.172.33.137|4128|France|Vitry-sur-Seine|Online S.A.S.|
-|17|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|18|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|19|177.11.190.84|8080|Brazil|Franca|Multpontos Telecomunicações Ltda - ME|
-|20|61.129.2.212|8080|China|Beijing|CHINANET|
+|2|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|4|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|5|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|6|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|7|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|8|180.88.111.187|3128|China|Beijing|GXBLnet|
+|9|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|11|187.190.113.197|999|Mexico|Minatitlán|Total Play Telecomunicaciones SA De CV|
+|12|202.51.106.229|8080|Indonesia|Jakarta|PT Solusi Infostruktur Nusantara|
+|13|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|14|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
+|15|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|144.86.187.56|3129|United States|Malden|Charles River Operation|
+|17|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|19|103.159.195.193|8080|Indonesia|Kudus|PT Giga Digital Nusantara|
+|20|181.209.82.202|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
 
 
 
