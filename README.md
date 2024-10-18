@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|109.111.150.233|8080|Russia|Kaliningrad|TIS Dialog LLC|
-|3|103.41.33.169|58080|India|Mumbai|Juweriyah Networks Private Limited|
-|4|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
-|5|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
-|6|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|8|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|38.183.146.77|8090|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|10|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
-|11|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|12|36.93.3.31|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|15|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
-|16|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|20|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|2|144.76.138.69|8888|Germany|Falkenstein|Hetzner Online GmbH|
+|3|109.111.150.233|8080|Russia|Kaliningrad|TIS Dialog LLC|
+|4|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|5|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|6|147.28.155.20|10047|United States|Dallas|Packet Host, Inc.|
+|7|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|9|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|182.253.86.96|8080|Indonesia|Jakarta|Biznet Gamers|
+|12|119.2.45.51|8080|Indonesia|Jakarta|PT. Laxo Global Akses|
+|13|112.198.132.3|8085|Philippines|Nasugbu|Globe Telecom|
+|14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|103.59.44.33|2022|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|18|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|19|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|20|178.48.68.61|18080|Hungary|Budapest|UPC|
 
 
 
