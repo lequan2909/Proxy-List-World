@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|1|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |3|116.80.47.29|3128|Japan|Tokyo|InfoSphere|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|7|124.6.165.155|8082|Philippines|Lahug|INNOVE|
-|8|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|10|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|13|103.126.219.37|8080|Bangladesh|Dhaka|MD IMTIAZ KHAN ABIR|
-|14|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|15|163.172.33.137|4120|France|Vitry-sur-Seine|Online S.A.S.|
-|16|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|17|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|18|103.156.75.243|1080|Indonesia|Gianyar|PT Trika Global Media|
-|19|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|20|43.134.121.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|139.180.105.99|9002|New Zealand|Auckland|TRUTPOWERLTD|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|194.163.149.159|9001|Germany|Düsseldorf|Contabo GmbH|
+|8|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|9|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|10|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|11|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|15|181.224.224.225|999|Peru|Lima|Inversiones Telcotel SAC|
+|16|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|161.49.176.173|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|19|182.253.7.146|8180|Indonesia|Ciputat|Biznet Networks|
+|20|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
 
 
 
