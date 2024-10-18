@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|3|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|5|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|3|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|4|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|5|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|6|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
 |7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |8|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |9|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|61.129.2.212|8080|China|Beijing|CHINANET|
-|12|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
-|14|187.251.224.25|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
-|15|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|190.94.212.221|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|18|180.88.111.187|3128|China|Beijing|GXBLnet|
-|19|181.188.238.148|999|Ecuador|Quito|Otecel S.A.|
-|20|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|10|112.198.132.3|8085|Philippines|Nasugbu|Globe Telecom|
+|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|12|103.159.195.193|8080|Indonesia|Kudus|PT Giga Digital Nusantara|
+|13|144.86.187.42|3129|United States|Malden|Charles River Operation|
+|14|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|103.172.197.245|8085|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|177.93.59.70|999|Colombia|Istmina|TV AZTECA SUCURSAL COLOMBIA|
+|19|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|20|188.72.43.129|47193|Iraq|Darkar|Pirmam For Information Technology Ltd|
 
 
 
