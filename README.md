@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|3|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|103.175.202.35|8090|Indonesia|Kabupaten Tanah Bumbu|PT Ameera Mega Buana|
-|8|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|11|103.189.197.83|8181|Indonesia|Serang|PT Graha Sumber Teknologi|
-|12|177.234.211.63|999|Ecuador|Guayaquil|VUELATECHNOLOGY|
-|13|43.246.200.142|9080|Bangladesh|Rāngāmāti|HelloTech Limited|
-|14|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|61.129.2.212|8080|China|Beijing|CHINANET|
-|16|134.209.144.177|80|India|Bengaluru|DigitalOcean, LLC|
-|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|4.155.2.13|80|United States|Quincy|Microsoft Corporation|
-|19|181.174.225.202|999|Peru|Lima|CHARACKWAVES CUSYPATA EXPORT/IMPORT S.A.C.|
-|20|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|3|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
+|4|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
+|5|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|38.183.146.77|8090|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
+|11|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
+|12|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|13|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|14|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|123.112.210.180|9000|China|Beijing|China Unicom Beijing Province Network|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
