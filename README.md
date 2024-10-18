@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |3|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |4|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|46.166.165.33|4019|Lithuania|Šiauliai|Cherry Servers|
-|7|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|8|144.86.187.43|3129|United States|Malden|Charles River Operation|
-|9|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|10|45.5.116.231|999|Guatemala|Guatemala City|Infinitum S.A.|
-|11|45.70.236.193|999|Ecuador|Simón Bolívar|Ufinet Panama S.A.|
-|12|103.145.68.77|8080|Indonesia|Sumenep|ALFANET|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|15|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|16|142.171.157.207|3128|United States|Los Angeles|Multacom Corporation|
-|17|59.11.85.221|3128|South Korea|Seongnam-si|Korea Telecom|
-|18|154.38.187.187|3128|United States|Orangeburg|Nubes, LLC|
-|19|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|41.79.33.170|8080|Botswana|Gaborone|Electro Metic Enterprises PTY LTD|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|103.186.204.52|8089|Indonesia|Tasikmalaya|PT Afna Digital Indonesia|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
+|8|185.116.236.93|9595|United States|New York|Massivegrid LTD|
+|9|103.182.213.65|8080|Bangladesh|Tongi|Rapid Network|
+|10|171.238.239.231|5000|Vietnam|Tuyên Quang|Viettel Corporation|
+|11|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|12|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|13|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|14|45.5.116.231|999|Guatemala|Guatemala City|Infinitum S.A.|
+|15|23.170.152.2|8080|United States|Surprise|Aurora Sky Labs LLC|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|17|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|18|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|19|103.166.227.85|8080|Indonesia|Majalengka|PT Arta Flash Sintesa Nusantara|
+|20|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
 
 
 
