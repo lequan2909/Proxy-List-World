@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|112.78.161.68|8080|Indonesia|Jakarta|Biznet Networks|
-|4|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
-|7|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|12|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|13|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
-|14|103.159.96.74|8080|Indonesia|Gresik|PT Jinde Grup Indonesia|
-|15|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|17|155.138.218.57|8118|United States|Atlanta|The Constant Company|
-|18|45.177.179.65|999|Mexico|Villa Zaragoza|Wantelco SAS de CV|
-|19|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|20|45.77.48.243|80|Australia|Sydney|The Constant Company|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|5|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|8|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|9|51.158.173.222|3128|France|Paris|Online S.A.S.|
+|10|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|11|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|12|45.177.179.65|999|Mexico|Villa Zaragoza|Wantelco SAS de CV|
+|13|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|14|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|185.116.236.104|3128|United States|New York|Massivegrid LTD|
+|16|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|17|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|18|124.6.165.155|8082|Philippines|Lahug|INNOVE|
+|19|147.45.137.174|3128|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|20|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
