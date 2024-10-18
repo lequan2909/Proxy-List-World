@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|1|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|3|180.88.111.187|3128|China|Beijing|GXBLnet|
 |4|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|5|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|6|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|112.198.179.17|8082|Philippines|Carmona|Globe Telecom|
-|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|9|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|10|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
-|11|188.166.222.236|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|186.65.106.90|2020|Brazil|Salvador|Bahiadados Telecom Ltda.|
-|13|178.48.68.61|18080|Hungary|Budapest|UPC|
-|14|49.49.21.157|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|15|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|17|203.190.46.143|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
-|18|109.111.224.205|6666|Serbia|Belgrade|Drustvo za telekomunikacije Orion telekom doo Beograd, Gandijeva 76a|
-|19|114.130.153.70|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|20|96.9.74.91|8080|Cambodia|Phnom Penh|S.I Group|
+|5|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|6|45.228.192.107|3141|Brazil|Ouricuri|Bdcnet Telecom|
+|7|157.100.60.170|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|8|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|10|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|11|46.209.15.187|8080|Iran|Tehran|ADSL Service in Kermanshah|
+|12|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|13|103.137.67.177|8080|Bangladesh|Binodpur|SK Traders|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|152.172.65.178|999|Chile|Alto Hospicio|TELEFÓNICA CHILE S.A.|
+|17|202.47.188.133|8090|Indonesia|Kediri|PT.CITRA BERDIKARI NUSANTARA|
+|18|112.211.202.160|8081|Philippines|Baguio City|Philippine Long Distance Telephone Co.|
+|19|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|20|101.255.210.49|8080|Indonesia|Jakarta|PT Remala Abadi|
 
 
 
