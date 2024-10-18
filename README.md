@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
-|6|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|7|116.202.217.96|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|8|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|9|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
-|11|178.48.68.61|18080|Hungary|Budapest|UPC|
-|12|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|14|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
-|15|46.166.165.33|4058|Lithuania|Šiauliai|Cherry Servers|
-|16|144.86.187.46|3129|United States|Malden|Charles River Operation|
-|17|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|51.158.173.222|3128|France|Paris|Online S.A.S.|
-|20|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|2|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|5|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|6|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|147.28.155.20|55555|United States|Dallas|Packet Host, Inc.|
+|8|144.86.187.60|3129|United States|Malden|Charles River Operation|
+|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|10|162.240.154.26|3128|United States|Provo|Unified Layer|
+|11|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|12|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
+|13|51.158.173.222|3128|France|Paris|Online S.A.S.|
+|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|15|103.146.184.101|8090|Indonesia|Sragen|YAMNET|
+|16|186.96.50.113|999|Mexico|Aguascalientes|Total Play Telecomunicaciones SA De CV|
+|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|18|173.249.60.246|14344|Germany|Nuremberg|Contabo GmbH|
+|19|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
+|20|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
 
 
 
