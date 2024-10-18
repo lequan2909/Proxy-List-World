@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|3|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|2|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
+|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
 |4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 |5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|8|182.253.158.32|8080|Indonesia|Bandung|BIZNET|
-|9|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|11|152.32.64.43|8095|Philippines|Quezon City|Converge ICT Solution Inc|
-|12|38.183.146.77|8090|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|13|36.93.3.31|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|16|200.24.157.122|999|Ecuador|Cuenca|Ufinet Panama S.A.|
-|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|152.172.65.178|999|Chile|Alto Hospicio|TELEFÓNICA CHILE S.A.|
-|19|144.86.187.56|3129|United States|Malden|Charles River Operation|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|38.156.72.77|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|10|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|15|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|16|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|17|178.48.68.61|18080|Hungary|Budapest|UPC|
+|18|170.239.205.73|8080|Colombia|Bogotá|FIBERNET|
+|19|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
