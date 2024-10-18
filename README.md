@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|6|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|7|147.28.155.20|9443|United States|Dallas|Packet Host, Inc.|
-|8|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
-|9|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|162.240.154.26|3128|United States|Provo|Unified Layer|
-|11|147.28.155.20|9443|United States|Dallas|Packet Host, Inc.|
-|12|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
-|13|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|14|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|15|112.198.179.42|8082|Philippines|Carmona|Globe Telecom|
-|16|155.138.218.57|8118|United States|Atlanta|The Constant Company|
-|17|182.53.252.6|8080|Thailand|Chachoengsao|TOT Public Company Limited|
-|18|116.202.217.96|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|19|84.255.40.228|8998|Malta|Msida|Melita plc|
-|20|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|3|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|172.81.62.223|92|United States|Phoenix|Dynu Systems Incorporated|
+|8|147.28.155.20|9443|United States|Dallas|Packet Host, Inc.|
+|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|10|103.157.59.75|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
+|11|116.202.217.96|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|12|162.240.154.26|3128|United States|Provo|Unified Layer|
+|13|112.198.179.42|8082|Philippines|Carmona|Globe Telecom|
+|14|79.116.70.55|8118|Spain|Alcobendas|Digi Spain Telecom S.L.U.|
+|15|94.231.192.43|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|68.162.217.121|8080|United States|Leominster|Verizon Business|
+|17|143.107.199.248|8080|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|51.158.173.222|3128|France|Paris|Online S.A.S.|
+|20|185.191.236.162|3128|Switzerland|Bern|Grupo Panaglobal 15 S.A|
 
 
 
