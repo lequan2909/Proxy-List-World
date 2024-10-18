@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|3|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|6|222.127.77.203|8082|Philippines|Lahug|INNOVE|
-|7|113.160.214.209|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|9|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
-|10|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
-|11|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|12|38.137.203.14|999|Peru|Lima|Internet Services Perú|
-|13|103.147.84.222|8080|Indonesia|Tangerang|PT DATA PRIMA SOLUSINDO|
-|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|16|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|209.146.20.228|8082|Philippines|Manila|Cogent Communications|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|4|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|185.116.236.104|3128|United States|New York|Massivegrid LTD|
+|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|10|188.72.6.178|8083|Iraq|Seyid Sadiq|AL-SARD FIBER Co. for Internet Fiber and Optical Cable Services /Ltd.|
+|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|12|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|13|116.80.47.13|3128|Japan|Tokyo|InfoSphere|
+|14|114.7.161.18|8090|Indonesia|Tangerang|PT. INDOSAT Tbk|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|103.133.24.89|8181|Indonesia|Bekasi|PT PHATRIA INTI PERSADA|
+|17|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
+|20|72.10.160.170|30191|Canada|Montreal|GloboTech Communications|
 
 
 
