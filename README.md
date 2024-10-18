@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|103.151.241.25|9000|Vietnam|Liên Chiểu|VSERVER|
-|4|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|5|89.221.225.229|8118|Israel|Petah Tikva|Stark Industries Solutions LTD|
-|6|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|8|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|9|54.39.163.156|3128|Canada|Beauharnois|OVH SAS|
-|10|129.222.110.39|999|Mexico|Mexico City|SpaceX Starlink|
-|11|136.60.0.212|80|United States|Austin|Google Fiber Inc.|
-|12|124.6.165.155|8082|Philippines|Lahug|INNOVE|
-|13|49.51.244.112|8888|United States|Phoenix|OPHL|
-|14|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|15|101.231.64.89|8443|China|Pudong|China Telecom (Group)|
-|16|162.240.154.26|3128|United States|Provo|Unified Layer|
-|17|67.43.228.253|3247|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.91|12439|Canada|Montreal|GloboTech Communications|
-|19|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
-|20|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|3|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|4|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|5|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|6|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|7|181.174.225.202|999|Peru|Lima|CHARACKWAVES CUSYPATA EXPORT/IMPORT S.A.C.|
+|8|200.201.134.188|8787|Brazil|São Paulo|Telium Telecomunicações Ltda|
+|9|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|10|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|11|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|181.143.181.34|8080|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
+|13|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|14|72.10.164.178|21741|Canada|Montreal|GloboTech Communications|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
+|17|61.129.2.212|8080|China|Beijing|CHINANET|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|103.41.33.169|58080|India|Mumbai|Juweriyah Networks Private Limited|
 
 
 
