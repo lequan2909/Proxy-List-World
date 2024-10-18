@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5403** proxies at the latest update. Usable proxies are below.
+> Scraper found **5369** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|256|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|544|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|510|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|349|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3328|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|3|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|178.48.68.61|18080|Hungary|Budapest|UPC|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|125.130.14.57|9000|South Korea|Suwon|Korea Telecom|
-|8|69.75.172.51|8080|United States|Los Angeles|Charter Communications Inc|
-|9|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|10|189.127.190.109|8080|Brazil|Brasiléia|Govista Telecomunicao Importacao Ltda|
-|11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|13|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|1.10.133.109|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|6|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|7|103.46.11.154|8080|Indonesia|Malang|Lintas Data Prima, PT|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|49.48.89.155|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|10|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|11|45.77.48.243|80|Australia|Sydney|The Constant Company|
+|12|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|13|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|16|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
-|17|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|18|36.91.155.42|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|19|103.56.157.223|8181|Vietnam|Hanoi|VCCORP|
-|20|181.171.117.15|8080|Argentina|La Plata|Telecom Argentina S.A|
+|15|46.161.194.65|1976|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|18|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|19|188.132.222.24|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|72.10.160.170|27391|Canada|Montreal|GloboTech Communications|
 
 
 
