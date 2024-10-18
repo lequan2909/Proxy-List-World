@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|7|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|116.104.133.0|5008|Vietnam|Hanoi|Viettel Corporation|
-|10|181.171.117.15|8080|Argentina|La Plata|Telecom Argentina S.A|
-|11|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|12|45.228.192.107|3141|Brazil|Ouricuri|Bdcnet Telecom|
-|13|72.10.164.178|4693|Canada|Montreal|GloboTech Communications|
-|14|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|36.91.155.42|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|16|144.24.138.210|3128|India|Hyderabad|Oracle Corporation|
-|17|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
-|18|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
-|19|72.10.160.173|17895|Canada|Montreal|GloboTech Communications|
+|5|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|10|34.97.149.238|8561|Japan|Osaka|Google LLC|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
+|13|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
+|14|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|16|180.191.32.5|8082|Philippines|Cabanatuan City|Globe Telecom|
+|17|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|72.10.164.178|27915|Canada|Montreal|GloboTech Communications|
+|19|36.91.155.42|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
 |20|51.159.159.73|80|France|Paris|SCALEWAY|
 
 
