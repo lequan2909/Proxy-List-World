@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
-|3|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|4|178.48.68.61|18080|Hungary|Budapest|UPC|
-|5|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|6|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|9|36.91.155.42|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|10|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|13|103.69.20.99|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
-|14|103.234.35.142|8090|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
-|15|178.48.68.61|18080|Hungary|Budapest|UPC|
-|16|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
-|17|109.111.224.205|6666|Serbia|Belgrade|Drustvo za telekomunikacije Orion telekom doo Beograd, Gandijeva 76a|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|20|61.129.2.212|8080|China|Beijing|CHINANET|
+|2|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|190.61.43.121|999|Colombia|El Copey|Ufinet Panama S.A.|
+|4|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|5|221.217.54.122|9000|China|Beijing|China Unicom Beijing Province Network|
+|6|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|7|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|8|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|9|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|119.82.240.61|6060|Indonesia|Surabaya|Indonesia Network Information Center|
+|11|178.48.68.61|18080|Hungary|Budapest|UPC|
+|12|202.179.69.216|58080|India|Pune|Ankhnet|
+|13|181.78.95.30|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|14|103.127.97.187|3128|Philippines|Lucban|PT Biznet Gio Nusantara|
+|15|38.156.73.59|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|17|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|18|165.155.229.12|9480|United States|Brooklyn|New York City Board of Education|
+|19|165.155.229.9|9480|United States|Brooklyn|New York City Board of Education|
+|20|165.155.229.9|9480|United States|Brooklyn|New York City Board of Education|
 
 
 
