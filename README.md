@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|3|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|6|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|7|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|8|182.253.86.96|8080|Indonesia|Jakarta|Biznet Gamers|
-|9|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|10|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|202.52.12.86|8080|Indonesia|Bandung|PT SKYLINE SEMESTA|
-|12|36.91.155.42|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|13|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|179.125.125.243|3128|Brazil|Teresina|Virtex Telecom|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|163.172.33.137|4012|France|Vitry-sur-Seine|Online S.A.S.|
+|2|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|5|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|6|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
+|7|180.88.111.187|3128|China|Beijing|GXBLnet|
+|8|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|122.222.186.86|8080|Japan|Minatomirai|ARTERIA Networks Corporation|
+|10|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|36.94.30.238|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|13|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|14|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|15|163.172.33.137|4120|France|Vitry-sur-Seine|Online S.A.S.|
+|16|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|17|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|18|190.94.218.59|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|19|103.7.26.142|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
+|20|165.155.229.9|9400|United States|Brooklyn|New York City Board of Education|
 
 
 
