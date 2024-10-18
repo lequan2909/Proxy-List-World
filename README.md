@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|3|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|4|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|5|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|6|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|183.88.241.167|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|9|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|10|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|11|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
-|12|4.155.2.13|9400|United States|Quincy|Microsoft Corporation|
-|13|45.228.192.107|3141|Brazil|Ouricuri|Bdcnet Telecom|
-|14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|2|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|5|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|6|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|7|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|8|38.123.220.16|8080|Mexico|Ixtlahuaca de Rayón|Cogent Communications|
+|9|187.62.153.56|8088|Brazil|Oeiras|Megalink Internet|
+|10|188.125.169.237|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|36.67.114.94|8187|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|12|181.209.82.202|999|Argentina|Chimbas|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|13|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |16|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|18|112.198.132.3|8085|Philippines|Nasugbu|Globe Telecom|
+|17|46.161.194.72|3128|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|18|103.242.105.251|8181|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
 |19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|27.75.70.42|4004|Vietnam|Ho Chi Minh City|Viettel Group|
+|20|208.67.28.28|58090|United States|Eagle River|SonicNet Inc.|
 
 
 
