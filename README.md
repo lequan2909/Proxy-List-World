@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|1|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|2|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|3|223.135.156.183|8080|Japan|Machida|So-net Corporation|
 |4|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|5|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|5|103.188.168.46|32650|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
 |6|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|9|147.45.137.174|3128|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|10|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|12|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|13|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|180.88.111.187|3128|China|Beijing|GXBLnet|
-|16|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|17|103.69.243.162|43826|India|Mumbai|Clear Beam Communications Pvt. Ltd.|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
-|19|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
-|20|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
+|7|147.28.155.20|10047|United States|Dallas|Packet Host, Inc.|
+|8|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|10|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|11|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|12|58.147.186.226|3125|Indonesia|Jakarta|PT. Transhybrid Communication|
+|13|109.123.229.224|4011|Japan|Tokyo|Contabo Asia Private Limited|
+|14|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|15|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|17|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|18|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|19|178.48.68.61|18080|Hungary|Budapest|UPC|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
