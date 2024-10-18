@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|144.86.187.41|3129|United States|Malden|Charles River Operation|
-|4|119.76.142.190|8080|Thailand|Nakhon Pathom|True Internet Co., Ltd.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|7|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|9|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|10|34.97.149.238|8561|Japan|Osaka|Google LLC|
-|11|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
-|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|13|128.199.247.154|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|43.134.229.98|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|6|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|8|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|119.15.86.30|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|11|38.44.237.156|999|Peru|Lima|Latin Cable|
+|12|72.10.160.170|11279|Canada|Montreal|GloboTech Communications|
+|13|67.43.236.20|16219|Canada|Montreal|GloboTech Communications|
 |14|72.10.164.178|10055|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|9035|Canada|Montreal|GloboTech Communications|
-|16|67.43.227.227|1631|Canada|Montreal|GloboTech Communications|
-|17|103.48.71.130|83|India|Hyderabad|Country Online Services PVT LTD|
-|18|72.10.160.170|16095|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.20|16219|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|10055|Canada|Montreal|GloboTech Communications|
+|15|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|16|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|162.55.61.160|9001|Germany|Nuremberg|Hetzner Online GmbH|
+|18|160.248.92.13|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
+|19|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|20|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
 
 
 
