@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|4|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|5|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|6|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|7|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|9|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|11|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
-|12|67.43.227.227|14829|Canada|Montreal|GloboTech Communications|
-|13|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|14|67.43.227.227|14829|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|28801|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.253|19131|Canada|Montreal|GloboTech Communications|
-|17|67.43.228.251|10865|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|28801|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|12277|Canada|Montreal|GloboTech Communications|
-|20|45.77.48.243|80|Australia|Sydney|The Constant Company|
+|2|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|3|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|4|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|6|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|8|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|9|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|11|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|13|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|14|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|15|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|16|72.10.164.178|24089|Canada|Montreal|GloboTech Communications|
+|17|43.156.64.100|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|192.99.169.19|8447|Canada|Beauharnois|OVH SAS|
+|19|67.43.227.227|18667|Canada|Montreal|GloboTech Communications|
+|20|37.187.109.70|10111|France|Gravelines|OVH SAS|
 
 
 
