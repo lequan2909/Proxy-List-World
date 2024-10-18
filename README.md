@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|2|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|3|182.52.137.27|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|5|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|6|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|7|144.86.187.59|3129|United States|Malden|Charles River Operation|
-|8|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|2|182.52.137.27|8080|Thailand|Bangkok|TOT Public Company Limited|
+|3|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|4|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|5|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|6|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|7|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|9|125.130.14.57|9000|South Korea|Suwon|Korea Telecom|
+|10|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
 |11|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|12|162.240.154.26|3128|United States|Provo|Unified Layer|
-|13|103.167.170.237|1111|Indonesia|Serang|PT Rajeg Media Telekomunikasi|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|82.180.145.103|3128|India|Mumbai|Contabo Asia Private Limited|
-|16|162.240.154.26|3128|United States|Provo|Unified Layer|
-|17|38.183.210.4|8080|Indonesia|Tangerang|PT. Putra Lebak Banten|
-|18|49.48.89.155|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|19|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|20|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|12|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
+|13|103.46.11.154|8080|Indonesia|Malang|Lintas Data Prima, PT|
+|14|178.48.68.61|18080|Hungary|Budapest|UPC|
+|15|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|38.41.5.85|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|17|69.75.172.51|8080|United States|Los Angeles|Charter Communications Inc|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|19|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|20|67.43.227.227|26079|Canada|Montreal|GloboTech Communications|
 
 
 
