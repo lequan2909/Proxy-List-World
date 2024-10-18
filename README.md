@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|103.56.157.223|8080|Vietnam|Hanoi|VCCORP|
-|3|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|6|36.93.217.223|8080|Indonesia|Bogor|Telekomunikasi Indonesia|
-|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|8|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|9|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|11|125.130.14.57|9000|South Korea|Suwon|Korea Telecom|
-|12|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|13|171.252.128.52|19012|Vietnam|Da Nang|Viettel Corporation|
-|14|36.93.8.34|11000|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
-|15|72.10.164.178|16485|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|17471|Canada|Montreal|GloboTech Communications|
-|17|178.48.68.61|18080|Hungary|Budapest|UPC|
-|18|67.43.227.230|20587|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.90|15789|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.91|17353|Canada|Montreal|GloboTech Communications|
+|1|125.130.14.57|9000|South Korea|Suwon|Korea Telecom|
+|2|202.131.159.226|1111|India|Bengaluru|Karuturi Telecom Pvt Ltd|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|5|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|6|62.171.161.88|2018|Germany|Nuremberg|Contabo GmbH|
+|7|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|10|222.122.110.26|80|South Korea|Seocho-gu|Korea Telecom|
+|11|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|12|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|13|38.156.75.16|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|186.180.79.22|999|Colombia|Cúcuta|Colombia Móvil|
+|16|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|17|171.252.128.52|19012|Vietnam|Da Nang|Viettel Corporation|
+|18|125.130.14.57|9000|South Korea|Suwon|Korea Telecom|
+|19|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|20|181.174.225.202|999|Peru|Lima|CHARACKWAVES CUSYPATA EXPORT/IMPORT S.A.C.|
 
 
 
