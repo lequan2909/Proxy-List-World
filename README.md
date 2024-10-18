@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|125.130.14.57|9000|South Korea|Suwon|Korea Telecom|
-|3|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|2|162.240.154.26|3128|United States|Provo|Unified Layer|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|6|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|7|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
-|8|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
-|9|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|10|62.171.161.88|2018|Germany|Nuremberg|Contabo GmbH|
-|11|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|67.43.227.229|2989|Canada|Montreal|GloboTech Communications|
-|14|125.130.14.57|9000|South Korea|Suwon|Korea Telecom|
-|15|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|16|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|160.248.7.207|3128|Japan|Ichigaochō|NTT PC Communications, Inc.|
-|19|72.10.160.91|29047|Canada|Montreal|GloboTech Communications|
-|20|94.16.113.115|3128|Germany|Nuremberg|netcup GmbH|
+|5|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|125.130.14.57|9000|South Korea|Suwon|Korea Telecom|
+|7|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
+|8|202.131.159.226|1111|India|Bengaluru|Karuturi Telecom Pvt Ltd|
+|9|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|10|178.48.68.61|18080|Hungary|Budapest|UPC|
+|11|162.240.154.26|3128|United States|Provo|Unified Layer|
+|12|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|13|45.77.48.243|80|Australia|Sydney|The Constant Company|
+|14|62.171.161.88|2018|Germany|Nuremberg|Contabo GmbH|
+|15|182.253.158.32|8080|Indonesia|Bandung|BIZNET|
+|16|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|17|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|177.234.192.223|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|203.190.46.99|8080|Indonesia|Sleman|PT Jaring Lintas Utara|
+|20|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
 
 
 
