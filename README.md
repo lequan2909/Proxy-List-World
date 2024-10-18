@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|36.93.8.34|11000|Indonesia|Jakarta Pusat|Telekomunikasi Indonesia|
+|2|158.101.93.164|8080|Japan|Tokyo|Oracle Corporation|
 |3|116.80.84.43|3128|Japan|Shimomeguro|InfoSphere|
-|4|125.99.106.250|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|5|187.103.105.22|8999|Brazil|Blumenau|BR.Digital Provider|
-|6|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|129.222.110.39|999|Mexico|Mexico City|SpaceX Starlink|
-|9|36.93.3.31|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|10|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|103.48.68.68|83|India|Hyderabad|Country Online Services PVT LTD|
-|14|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|15|222.65.214.176|9000|China|Shanghai|CHINANET-SH|
-|16|177.93.49.202|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|17|177.39.139.14|9999|Brazil|Araucária|DIGITAL DESIGN SERVIÇOS DE TELECOMUNICAÇÕES EIRELI|
-|18|103.127.97.187|3128|Philippines|Lucban|PT Biznet Gio Nusantara|
-|19|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
-|20|152.172.65.178|999|Chile|Alto Hospicio|TELEFÓNICA CHILE S.A.|
+|4|178.48.68.61|18080|Hungary|Budapest|UPC|
+|5|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|6|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|7|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|8|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|9|36.91.155.42|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|10|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|11|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|12|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|13|103.69.20.99|58080|India|Bengaluru|Allnet Broadband Network PVT LTD|
+|14|103.234.35.142|8090|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
+|15|178.48.68.61|18080|Hungary|Budapest|UPC|
+|16|180.191.14.123|8181|Philippines|Cabanatuan City|Globe Telecom|
+|17|109.111.224.205|6666|Serbia|Belgrade|Drustvo za telekomunikacije Orion telekom doo Beograd, Gandijeva 76a|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|20|61.129.2.212|8080|China|Beijing|CHINANET|
 
 
 
