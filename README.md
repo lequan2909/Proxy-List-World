@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|203.150.128.14|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|3|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|91.26.124.18|3128|Germany|Rudolstadt|Deutsche Telekom AG|
-|5|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|185.116.236.104|3128|United States|New York|Massivegrid LTD|
-|9|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|10|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|11|43.133.59.220|3128|Singapore|Singapore|Aceville Pte.ltd|
-|12|172.233.131.233|10001|United States|Los Angeles|Akamai Technologies, Inc.|
-|13|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
-|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|15|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|16|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|17|61.129.2.212|8080|China|Beijing|CHINANET|
-|18|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|19|223.25.110.104|8090|Indonesia|Surabaya|SinergiNet|
-|20|67.43.227.227|13351|Canada|Montreal|GloboTech Communications|
+|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|3|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|4|43.134.33.254|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.134.68.153|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|37.27.111.96|9000|Finland|Helsinki|Hetzner Online GmbH|
+|9|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|11|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|12|140.227.204.70|3128|Japan|Hyōgo|InfoSphere|
+|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|14|36.67.114.94|8187|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|16|67.43.227.227|13351|Canada|Montreal|GloboTech Communications|
+|17|195.123.240.138|7777|United States|Los Angeles|Green Floid LLC|
+|18|72.10.160.90|16303|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.170|13419|Canada|Montreal|GloboTech Communications|
+|20|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
 
 
 
