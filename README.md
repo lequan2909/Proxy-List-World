@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|3|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
-|4|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|5|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|6|43.134.1.40|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|8|129.222.110.39|999|Mexico|Mexico City|SpaceX Starlink|
-|9|147.28.155.20|10047|United States|Dallas|Packet Host, Inc.|
-|10|46.166.165.33|4058|Lithuania|Šiauliai|Cherry Servers|
-|11|182.253.178.159|8080|Indonesia|Jakarta Pusat|BIZNET|
-|12|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|14|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|15|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|24.172.82.94|53281|United States|Gastonia|Spectrum|
-|18|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|19|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|2|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
+|3|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|43.153.208.148|3128|Singapore|Singapore|Aceville Pte.ltd|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|9|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|10|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|12|151.80.199.88|3128|France|Roubaix|OVH SAS|
+|13|46.166.165.33|4057|Lithuania|Šiauliai|Cherry Servers|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|16|181.174.225.202|999|Peru|Lima|CHARACKWAVES CUSYPATA EXPORT/IMPORT S.A.C.|
+|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|18|182.253.178.159|8080|Indonesia|Jakarta Pusat|BIZNET|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|199.195.253.14|1080|United States|New York|FranTech Solutions|
 
 
 
