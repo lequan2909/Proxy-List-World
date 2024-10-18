@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|3|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|6|182.253.158.32|8080|Indonesia|Bandung|BIZNET|
-|7|178.48.68.61|18080|Hungary|Budapest|UPC|
-|8|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
-|9|162.240.154.26|3128|United States|Provo|Unified Layer|
-|10|27.254.104.134|8080|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|11|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|12|125.130.14.57|9000|South Korea|Suwon|Korea Telecom|
-|13|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|2|125.130.14.57|9000|South Korea|Suwon|Korea Telecom|
+|3|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|4|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|5|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|8|178.48.68.61|18080|Hungary|Budapest|UPC|
+|9|34.205.61.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|10|46.166.165.33|4019|Lithuania|Šiauliai|Cherry Servers|
+|11|181.214.140.70|8989|The Netherlands|Amsterdam|Iomart Cloud Services Limited|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |14|1.10.133.109|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|15|45.77.48.243|80|Australia|Sydney|The Constant Company|
-|16|203.150.128.80|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|101.255.209.242|8080|Indonesia|Jakarta|PT Remala Abadi|
-|19|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|20|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|15|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|17|202.183.209.77|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|18|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|19|103.46.11.154|8080|Indonesia|Malang|Lintas Data Prima, PT|
+|20|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 
 
 
