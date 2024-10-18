@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|115.73.111.209|5102|Vietnam|Ho Chi Minh City|VIETELmetro|
-|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
-|5|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|6|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|7|42.200.124.211|8080|Hong Kong|Central|PCCW IMSBiz|
-|8|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
-|9|112.198.179.17|8082|Philippines|Carmona|Globe Telecom|
-|10|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|103.242.104.182|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|14|194.163.149.159|9001|Germany|Düsseldorf|Contabo GmbH|
-|15|202.183.209.77|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|16|178.48.68.61|18080|Hungary|Budapest|UPC|
-|17|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|18|46.166.165.33|4057|Lithuania|Šiauliai|Cherry Servers|
-|19|103.127.97.187|3128|Philippines|Lucban|PT Biznet Gio Nusantara|
-|20|190.107.232.138|999|Ecuador|Hacienda Ibarra|CINECABLE TV|
+|2|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|125.212.200.103|9000|Vietnam|Hanoi|Viettel Corporation|
+|4|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|5|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|6|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|7|119.95.250.42|8082|Philippines|Malolos|Philippine Long Distance Telephone Co.|
+|8|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|9|103.191.115.250|83|India|Bānka|Xpress Fiber Private Limited|
+|10|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|11|36.93.3.31|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|12|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|13|190.128.248.134|999|Paraguay|Asunción|Telecel S.A.|
+|14|103.152.238.180|8085|Indonesia|Bekasi|APRIN|
+|15|165.155.229.12|9400|United States|Brooklyn|New York City Board of Education|
+|16|165.155.229.13|9400|United States|Brooklyn|New York City Board of Education|
+|17|165.155.229.11|9400|United States|Brooklyn|New York City Board of Education|
+|18|136.226.194.151|9480|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|19|165.155.229.13|9400|United States|Brooklyn|New York City Board of Education|
+|20|165.155.229.9|9480|United States|Brooklyn|New York City Board of Education|
 
 
 
