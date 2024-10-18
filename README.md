@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|185.253.32.26|8080|Russia|Irkutsk|CLOUD|
-|6|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|7|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
-|9|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|10|38.71.10.64|8080|United States|El Segundo|ContentKeeper Technologies|
-|11|182.252.70.220|8082|Bangladesh|Khulna|Agni Systems Limited|
-|12|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|13|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|14|187.62.153.56|8088|Brazil|Oeiras|Megalink Internet|
-|15|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|16|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
-|17|147.28.155.20|9401|United States|Dallas|Packet Host, Inc.|
-|18|67.43.227.227|11679|Canada|Montreal|GloboTech Communications|
-|19|67.43.228.250|7655|Canada|Montreal|GloboTech Communications|
-|20|114.33.18.16|3128|Taiwan|Taichung|Chunghwa Telecom Co., Ltd.|
+|3|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|4|86.104.75.109|1080|Hungary|Budapest|Stark Industries Solutions LTD|
+|5|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|129.226.193.16|3128|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|8|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|9|200.24.139.161|999|Ecuador|Quito|Ufinet Panama S.A.|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|12|83.54.169.213|3128|Spain|León|Telefonica de Espana SAU|
+|13|167.249.29.218|999|Chile|Santiago|Grupo Metrowan Telecom SPA|
+|14|117.176.129.7|3128|China|Chengdu|China Mobile communications corporation|
+|15|147.28.155.20|9400|United States|Dallas|Packet Host, Inc.|
+|16|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
+|17|111.1.61.49|3128|China|Wenzhou|China Mobile communications corporation|
+|18|152.32.64.43|8095|Philippines|Quezon City|Converge ICT Solution Inc|
+|19|67.43.227.227|30923|Canada|Montreal|GloboTech Communications|
+|20|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
 
 
 
