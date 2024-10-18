@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|144.86.187.53|3129|United States|Malden|Charles River Operation|
-|4|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
-|5|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|6|95.216.208.103|8118|Finland|Helsinki|Hetzner Online GmbH|
-|7|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|8|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|9|171.244.60.55|8080|Vietnam|Bắc Sơn|VIETEL|
-|10|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
-|11|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
-|12|36.50.92.120|8080|Indonesia|Sukamulya|PT Ring Media Nusantara|
-|13|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|14|72.10.160.172|27121|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.18|26175|Canada|Montreal|GloboTech Communications|
-|16|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|17|72.10.164.178|8235|Canada|Montreal|GloboTech Communications|
-|18|178.48.68.61|18080|Hungary|Budapest|UPC|
+|2|157.120.44.212|3128|Japan|Shimomeguro|NTT PC Communications, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
+|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|6|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|223.25.110.104|8090|Indonesia|Surabaya|SinergiNet|
+|9|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|72.10.164.178|24953|Canada|Montreal|GloboTech Communications|
+|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|13|178.48.68.61|18080|Hungary|Budapest|UPC|
+|14|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|15|163.172.33.137|4120|France|Vitry-sur-Seine|Online S.A.S.|
+|16|43.153.237.252|3128|Singapore|Singapore|Aceville Pte.ltd|
+|17|72.10.164.178|24953|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|24953|Canada|Montreal|GloboTech Communications|
 |19|67.43.227.227|21529|Canada|Montreal|GloboTech Communications|
-|20|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|20|72.10.160.90|9019|Canada|Montreal|GloboTech Communications|
 
 
 
