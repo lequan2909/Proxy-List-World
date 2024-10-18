@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|3|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|4|140.227.228.202|10101|Japan|Hyōgo|InfoSphere|
-|5|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|6|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|7|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|8|185.8.67.98|8080|France|Saint-Trivier-sur-Moignans|maxnod|
-|9|134.35.225.154|8080|Yemen|Sanaa|Public Telecommunication Corporation|
-|10|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|11|103.237.144.232|1311|Vietnam|Bình An|LVSOFT|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|14|67.43.236.18|16731|Canada|Montreal|GloboTech Communications|
-|15|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|17|72.10.160.90|25087|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|2201|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.171|15625|Canada|Montreal|GloboTech Communications|
-|20|67.43.227.228|20835|Canada|Montreal|GloboTech Communications|
+|3|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|4|38.191.200.72|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|5|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|6|185.8.67.98|8080|France|Saint-Trivier-sur-Moignans|maxnod|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|38.191.200.77|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
+|11|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|14|161.34.40.32|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|15|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|16|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
+|17|103.175.202.35|8090|Indonesia|Kabupaten Tanah Bumbu|PT Ameera Mega Buana|
+|18|31.133.0.163|33033|Poland|Poznan|Hosteam S.c. Tomasz Groszewski Bartosz Waszak Lukasz Groszewski|
+|19|67.43.236.18|16731|Canada|Montreal|GloboTech Communications|
+|20|112.198.132.3|8085|Philippines|Nasugbu|Globe Telecom|
 
 
 
