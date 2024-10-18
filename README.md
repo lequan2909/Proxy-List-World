@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|3|187.190.113.197|999|Mexico|Minatitlán|Total Play Telecomunicaciones SA De CV|
-|4|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
-|5|162.240.154.26|3128|United States|Provo|Unified Layer|
-|6|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|7|212.174.79.169|8080|Türkiye|Sanliurfa|Turk Telekomunikasyon Anonim Sirketi|
-|8|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|9|190.128.248.134|999|Paraguay|Asunción|Telecel S.A.|
-|10|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
-|11|199.195.253.14|1080|United States|New York|FranTech Solutions|
-|12|38.183.146.21|8085|Indonesia|Cileungsir|PT Ikhlas Cipta Teknologi|
-|13|36.93.3.31|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|2|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|3|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|4|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|5|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|6|223.135.156.183|8080|Japan|Machida|So-net Corporation|
+|7|117.6.104.235|5102|Vietnam|Hanoi|Viettel Corporation|
+|8|154.85.59.71|8443|United States|Los Angeles|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|9|162.240.154.26|3128|United States|Provo|Unified Layer|
+|10|178.63.180.104|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|36.93.3.31|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|12|199.195.253.14|1080|United States|New York|FranTech Solutions|
+|13|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
 |14|185.116.236.104|3128|United States|New York|Massivegrid LTD|
-|15|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
-|16|103.234.35.142|8090|Indonesia|Jember|PT. EXABIT GROUP NETWORK|
-|17|161.34.40.36|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|18|182.253.158.32|8080|Indonesia|Bandung|BIZNET|
-|19|171.241.39.74|5106|Vietnam|Hanoi|Viettel Corporation|
-|20|103.204.208.208|8080|Bangladesh|Dhaka|Level3 Carrier Limited|
+|15|187.190.113.197|999|Mexico|Minatitlán|Total Play Telecomunicaciones SA De CV|
+|16|161.34.40.112|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|20|4.155.2.13|9400|United States|Quincy|Microsoft Corporation|
 
 
 
