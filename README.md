@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5380** proxies at the latest update. Usable proxies are below.
+> Scraper found **5331** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|265|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|632|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|266|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|582|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|385|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3172|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|4|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|2|161.34.40.111|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|3|161.34.40.37|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|4|43.153.207.93|3128|Singapore|Singapore|Aceville Pte.ltd|
+|5|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
 |6|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|203.150.113.55|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|8|189.240.60.171|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|9|79.121.102.227|8080|Hungary|Budapest|Magyar Telekom plc.|
-|10|223.25.110.88|1080|Indonesia|Surabaya|SinergiNet|
-|11|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|12|101.108.194.180|8080|Thailand|Bangkok|TOT Public Company Limited|
-|13|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|14|103.44.19.220|3127|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
-|15|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|16|43.252.237.70|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|17|157.15.166.46|7777|Indonesia|Metro|PT Kartika Siger Network|
-|18|203.150.113.110|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|19|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|20|194.146.43.39|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|7|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|8|154.9.227.204|8080|United States|Los Angeles|Cogent Communications|
+|9|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|10|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|13|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|14|168.197.182.137|8080|Brazil|Elesbão Veloso|Vision Connect Telecomunicaçoes Ltda Me|
+|15|72.10.164.178|29049|Canada|Montreal|GloboTech Communications|
+|16|186.65.106.90|2020|Brazil|Salvador|Bahiadados Telecom Ltda.|
+|17|36.94.30.238|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|18|103.41.33.169|58080|India|Mumbai|Juweriyah Networks Private Limited|
+|19|103.4.76.58|8082|Indonesia|Jakarta|PT Khazanah Net Indonesia|
+|20|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
 
 
 
