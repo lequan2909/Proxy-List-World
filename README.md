@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|3|103.176.116.34|83|India|Baharampur|Gbpl Global Broadband Private Limited|
-|4|103.151.247.235|7777|Indonesia|Bogor|MANAKARRANET|
+|2|41.65.71.135|1976|Egypt|Kirdāsah|Etisalat Misr|
+|3|189.240.60.166|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
+|4|38.191.200.75|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
 |5|79.175.176.254|3128|Iran|Abadan|AFranet Co|
-|6|180.211.161.110|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|7|103.157.79.18|8080|Indonesia|Jakarta|EASTMEDIA|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
-|10|67.43.236.18|33077|Canada|Montreal|GloboTech Communications|
-|11|72.10.160.90|20443|Canada|Montreal|GloboTech Communications|
-|12|72.10.160.173|24337|Canada|Montreal|GloboTech Communications|
-|13|67.43.228.254|17721|Canada|Montreal|GloboTech Communications|
-|14|163.172.33.137|4361|France|Vitry-sur-Seine|Online S.A.S.|
-|15|163.172.33.137|4361|France|Vitry-sur-Seine|Online S.A.S.|
-|16|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
-|17|72.10.160.90|20443|Canada|Montreal|GloboTech Communications|
-|18|89.46.249.252|5080|United Kingdom|London|Hydra Communications Ltd|
-|19|67.43.236.20|17947|Canada|Montreal|GloboTech Communications|
-|20|67.43.236.21|26849|Canada|Montreal|GloboTech Communications|
+|6|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
+|7|186.125.218.170|999|Argentina|Molinos|Telecom Argentina S.A.|
+|8|130.162.148.105|8080|South Korea|Seoul|Oracle Corporation|
+|9|67.43.236.18|11517|Canada|Montreal|GloboTech Communications|
+|10|163.172.33.137|4361|France|Vitry-sur-Seine|Online S.A.S.|
+|11|182.253.158.32|8080|Indonesia|Bandung|BIZNET|
+|12|116.80.84.45|3128|Japan|Shimomeguro|InfoSphere|
+|13|67.43.236.21|32251|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.90|10835|Canada|Montreal|GloboTech Communications|
+|15|111.1.61.47|3128|China|Wenzhou|China Mobile communications corporation|
+|16|67.43.228.254|29843|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.18|11517|Canada|Montreal|GloboTech Communications|
+|18|67.43.236.20|17947|Canada|Montreal|GloboTech Communications|
+|19|116.80.47.14|3128|Japan|Tokyo|InfoSphere|
+|20|46.161.194.72|3128|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
 
 
 
