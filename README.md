@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5312** proxies at the latest update. Usable proxies are below.
+> Scraper found **5299** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|269|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|616|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|328|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|315|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3173|✅|
 
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
 |2|161.34.40.109|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
-|3|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|4|187.102.36.15|3128|Brazil|Braço do Norte|MKM Internet Solution Provider Ltda|
+|3|142.171.90.93|3128|United States|Los Angeles|Multacom Corporation|
+|4|189.240.60.168|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
 |5|189.240.60.169|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|7|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|6|103.172.43.170|8080|Indonesia|Jakarta|PT Berkat Internet Perkasa|
+|7|178.48.68.61|18080|Hungary|Budapest|UPC|
 |8|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|9|178.48.68.61|18080|Hungary|Budapest|UPC|
-|10|187.190.99.229|8080|Mexico|Valle de Santiago|Total Play Telecomunicaciones SA De CV|
-|11|175.207.13.144|3128|South Korea|Yongin-si|Korea Telecom|
-|12|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|13|164.70.66.125|3128|Japan|Chiyoda|InfoSphere|
-|14|67.43.228.253|29397|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.20|28939|Canada|Montreal|GloboTech Communications|
-|16|72.10.160.170|32305|Canada|Montreal|GloboTech Communications|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|72.10.160.173|13779|Canada|Montreal|GloboTech Communications|
-|19|67.43.227.226|27363|Canada|Montreal|GloboTech Communications|
-|20|72.10.164.178|5519|Canada|Montreal|GloboTech Communications|
+|9|202.162.195.54|80|Indonesia|Medan|PT. Media Antar Nusa|
+|10|103.93.93.130|8181|Indonesia|Wedoro|MYRISE|
+|11|168.119.142.248|9000|Germany|Falkenstein|Hetzner Online GmbH|
+|12|213.97.158.42|3128|Spain|Palma|Telefonica de Espana SAU|
+|13|96.9.74.91|8080|Cambodia|Phnom Penh|S.I Group|
+|14|123.126.158.50|80|China|Jinrongjie|China Unicom Beijing Province Network|
+|15|147.45.73.176|8443|Sweden|Stockholm|Aeza International LTD|
+|16|103.76.151.90|8090|Indonesia|Cibinong|PT. Java Digital Nusantara|
+|17|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
+|18|164.70.66.125|3128|Japan|Chiyoda|InfoSphere|
+|19|45.177.179.65|999|Mexico|Villa Zaragoza|Wantelco SAS de CV|
+|20|124.105.99.230|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 
 
 
