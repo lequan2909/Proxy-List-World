@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|2|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
-|3|164.70.66.125|3128|Japan|Chiyoda|InfoSphere|
-|4|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|5|223.135.156.183|8080|Japan|Machida|So-net Corporation|
-|6|189.240.60.164|9090|Mexico|Iztacalco|Uninet S.A. de C.V.|
-|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|8|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
-|9|198.167.212.185|8118|Sweden|Malmo|ab stract|
-|10|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|11|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
-|12|102.221.40.111|8080|South Africa|George|Telkom SA Ltd.|
-|13|38.191.200.74|999|Colombia|Villavicencio|Hola Telecomunicacines Colombia S.A.S|
-|14|160.86.242.23|8080|Japan|Osaka|Sony Network Communications Inc|
-|15|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
-|16|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|17|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
-|18|206.189.135.6|3128|India|Bengaluru|DigitalOcean, LLC|
-|19|178.48.68.61|18080|Hungary|Budapest|UPC|
-|20|72.10.164.178|24593|Canada|Montreal|GloboTech Communications|
+|2|133.242.253.181|1080|Japan|Chiyoda|SAKURA Internet Inc.|
+|3|135.181.206.125|8082|Finland|Helsinki|Hetzner Online GmbH|
+|4|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|5|116.105.79.46|1587|Vietnam|Da Nang|Viettel Corporation|
+|6|47.88.31.196|8080|United States|Minkler|Alibaba.com LLC|
+|7|23.122.184.9|8888|United States|Miami|AT&T Services, Inc.|
+|8|148.72.165.7|30127|United States|St Louis|GoDaddy.com|
+|9|185.89.156.2|44224|Albania|Elbasan|ATU|
+|10|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|12|15.235.153.57|8089|Singapore|Singapore|OVH Hosting|
+|13|47.252.29.28|11222|United States|Charlottesville|Alibaba.com LLC|
+|14|103.18.77.50|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|15|161.34.40.113|3128|Japan|Higashifunabashi|NTT PC Communications, Inc.|
+|16|36.67.114.94|8187|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|17|72.10.164.178|6139|Canada|Montreal|GloboTech Communications|
+|18|132.145.134.243|8000|United States|Ashburn|Oracle Corporation|
+|19|72.10.164.178|6139|Canada|Montreal|GloboTech Communications|
+|20|103.193.144.71|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
 
 
 
